@@ -5,18 +5,18 @@
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
-#baseurl: "http://terremotocentroitalia.info"
+#baseurl: "http://covid19italia.info"
 
-#baseurl: "https://github.com/emergenzeha/terremotocentro"
-url: "http://terremotocentroitalia.info"
+#baseurl: "https://github.com/emergenzeha/COVID19"
+url: "http://covid19italia.info"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Terremoto Centro Italia
+title: COVID19 Italia
 
 # Short description of your site
-description: Un progetto per informare sugli eventi sismici che hanno colpito il Centro Italia nel 2016.
+description: Un progetto per condividere informazioni a supporto dell'emergenza COVID19
 
 # --- Navigation bar options --- #
 # List of links in the navigation bar
@@ -64,25 +64,25 @@ avatar: /images/noun_8681.png
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: TerremotoCentroItalia
+  name: COVID19Italia
   #email: "youremail@domain.com"
   facebook: groups/1758670357733881/  # eg. daattali
-  github: emergenzeHack/terremotocentro    # eg. daattali
-  twitter: terremotocentro   # eg. daattali
+  github: emergenzeHack/covid19italia    # eg. daattali
+  twitter: covid19italia   # eg. daattali
   linkedin:   # eg. daattali
   xing:       # eg. daattali
   stackoverflow:   # eg. "3943160/daattali"
-  instagram: terremotocentro # eg. daattali
-  youtube: yourlink # eg. user/daattali or channel/daattali
-  rss: https://emergenzehack.github.io/terremotocentro/feed.xml
-  telegram: https://telegram.me/terremotocentroitalia
-  medium: https://medium.com/@terremotocentroitalia
-  archiveorg: https://archive.org/details/@terremotocentroita
+  #instagram: covid19italia # eg. daattali
+  #youtube: yourlink # eg. user/daattali or channel/daattali
+  rss: https://emergenzehack.github.io/covid19italia/feed.xml
+  telegram: https://telegram.me/covid19italia
+  #medium: https://medium.com/@covid19italia
+  #archiveorg: https://archive.org/details/@covid19italia
   messenger: messenger
 
 # Select which links to show in the footer
 footer-links-active:
-  androidapp: true
+  androidapp: false
   rss: true
   facebook: true
   email: false
@@ -91,12 +91,12 @@ footer-links-active:
   linkedin: false
   xing: false
   stackoverflow: false
-  instagram: true
+  instagram: false
   youtube: false
   telegram: true
-  medium: true
-  archiveorg: true
-  messenger: true
+  medium: false
+  archiveorg: false
+  messenger: false
 
 # Select which share links to show in posts
 share-links-active:
@@ -112,14 +112,14 @@ share-links-active:
 # --- Misc --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "terremotocentroitalia"
+disqus: "covid19italia"
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-47474515-3"
+google_analytics: "UA-128871385-2"
 
 jekyll-crosseverything_to_medium:
   enabled: false
-  useraccount: 'https://medium.com/terremotocentroitalia'
+  useraccount: 'https://medium.com/covid19italia'
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
