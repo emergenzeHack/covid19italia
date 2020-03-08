@@ -6,7 +6,7 @@ git reset --hard HEAD
 git pull
 
 logger github2CSV
-(cd .. && python covid19italia/scripts/github2CSV.py covid19italia/_data/issues.csv covid19italia/_data/issuesjson.json covid19italia/_data/issues.geojson)
+(cd .. && python2 covid19italia/scripts/github2CSV.py covid19italia/_data/issues.csv covid19italia/_data/issuesjson.json covid19italia/_data/issues.geojson)
 
 
 sed -i 's/\r$//g' _data/*.csv
