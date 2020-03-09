@@ -68,7 +68,7 @@ Un grazie sentito a :
 - [Gruppo Facebook](https://www.facebook.com/groups/1758670357733881/): per condividere informazioni utili;
 - [Twitter](https://twitter.com/terremotocentro): dove trovi informazioni già verificate dal team;
 - [Gruppo Telegram](https://telegram.me/joinchat/BgW6eEBsI3rLKsJk9L7FJg) per contribuire alla discussione sul progetto;
-- [Tutti i canali ufficiali](http://terremotocentroitalia.info/canali/) dove trovi tutte le modalità per partecipare e comunicare con noi.
+- [Tutti i canali ufficiali](https://www.covid19italia.info/canali/) dove trovi tutte le modalità per partecipare e comunicare con noi.
 
 ### Press
 

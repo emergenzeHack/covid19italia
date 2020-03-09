@@ -144,5 +144,5 @@ permalink: /canali/
               </span>&nbsp;&nbsp;Gruppo Telegram
             </a><span>per coordinarci internamente</span>
           </li>
-          <p>Tutto ciò che ci invii sarà gestito dal nostro team, che potrà provvedere alla pubblicazione delle informazioni sul sito appena possibile. Ricordati che usando i nostri canali accetti automaticamente di sottoscrivere l'<a href="http://terremotocentroitalia.info/legal_segnalazioni/">informativa legale</a> per le informazioni di questo progetto.</p>
+          <p>Tutto ciò che ci invii sarà gestito dal nostro team, che potrà provvedere alla pubblicazione delle informazioni sul sito appena possibile. Ricordati che usando i nostri canali accetti automaticamente di sottoscrivere l'<a href="https://www.covid19italia.info/legal_segnalazioni/">informativa legale</a> per le informazioni di questo progetto.</p>
 </div>

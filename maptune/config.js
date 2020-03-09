@@ -3,7 +3,7 @@
 	// define default marker style for layers
 	var MapParam = {
 		"all" :
-			{ 
+			{
 			"smallInfoClipDescription" : "500",
 			"smallInfoKeepImage" : "true",
 			"showInfoImmediately" : "true"
@@ -27,23 +27,23 @@
 		,
 		"layer" :{"href":"layer.html"}
 		,
-		"filter": { 
+		"filter": {
 					"Contatti"			  : "labels:Contatti",
 					"Fabbisogni"		  : "labels:Fabbisogni",
 					"Alloggi"			  : "labels:Alloggi",
 					"Donazioni"			  : "labels:Donazioni",
 					"Notizie Utili"		  : "labels:Notizie Utili",
-					"---"				  : "",					
+					"---"				  : "",
 					"Roulotte/Camper"	  : "Roulotte|Camper",
 					"Acquisto solidale"	  : "acquisto solidale",
-					"----"				  : "",					
+					"----"				  : "",
 					"da Facebook"			  : "labels:Facebook",
 					"da Form"				  : "labels:Form",
 					"da Telegram"			  : "labels:Telegram",
-					"-----"				  : "",					
+					"-----"				  : "",
 					"Segnalazioni aperti" : "state:open",
 					"Segnalazioni chiusi" : "state:closed",
-					"------"			  : "",					
+					"------"			  : "",
 					"Tutto":""
 				}
 		,
@@ -135,7 +135,7 @@
 		}
 		if ( info.properties.url && info.properties.url.match(/issues/) ){
 			var issue = info.properties.url.split("issues/")[1];
-			szInfo += "<div style='margin-top:0.2em;'><a href='http://terremotocentroitalia.info/issues/"+issue+"' target='_blank'>vai alla segnalazione</a></div>";
+			szInfo += "<div style='margin-top:0.2em;'><a href='https://www.covid19italia.info/issues/"+issue+"' target='_blank'>vai alla segnalazione</a></div>";
 		}
 
 		return szInfo;
@@ -149,12 +149,12 @@
 		return s;
     };
 
-	// query eventi dal INGV con data di oggi 
+	// query eventi dal INGV con data di oggi
 	// --------------------------------------------
 
 	maptune.load_INGV_KML = function(nDays) {
 
-		var starttime = "2016-10-30T00:00:00";	
+		var starttime = "2016-10-30T00:00:00";
 
 		var d = new Date();
 		// - n days
@@ -179,7 +179,7 @@
 				'initListState' : 'noinfo',
 				'sort' : 'timeDown'
 				},
-			parser: 
+			parser:
 				{
 				timeStart: 'name',
 				timeEnd:  'name',
@@ -197,7 +197,7 @@
 
 	maptune.load_INGV_GeoJson = function(nDays) {
 
-		var starttime = "2016-10-30T00:00:00";	
+		var starttime = "2016-10-30T00:00:00";
 
 		var d = new Date();
 		// - n days
@@ -215,7 +215,7 @@
 			format:'json',
 			flag:'open|zoomto',
 			name:'INGV - attività  sismica (GeoJson)',
-			parser: 
+			parser:
 				{
 				title: 'mag',
 				timeStart: 'time',
@@ -245,7 +245,7 @@
 
 	maptune.load_INGV_GeoRSS = function(nDays) {
 
-		var starttime = "2016-10-30T00:00:00";	
+		var starttime = "2016-10-30T00:00:00";
 
 		var d = new Date();
 		// - n days
