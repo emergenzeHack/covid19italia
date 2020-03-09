@@ -22,7 +22,7 @@ description: Un progetto per condividere informazioni a supporto dell'emergenza 
 # List of links in the navigation bar
 navbar-links:
   Segnala:
-    - Segnalazioni terremoto: "segnala/"
+    - Segnalazioni: "segnala/"
     - Segnala dati: "dataset/"
   Richieste:
     - Fabbisogni: "fabbisogni/"
@@ -66,25 +66,25 @@ avatar: /images/noun_8681.png
 author:
   name: COVID19Italia
   #email: "youremail@domain.com"
-  facebook: groups/1758670357733881/  # eg. daattali
+  #facebook: groups/1758670357733881/  # eg. daattali
   github: emergenzeHack/covid19italia    # eg. daattali
-  twitter: covid19italia   # eg. daattali
-  linkedin:   # eg. daattali
-  xing:       # eg. daattali
-  stackoverflow:   # eg. "3943160/daattali"
+  twitter: ItaliaCovid19   # eg. daattali
+  #linkedin:   # eg. daattali
+  #xing:       # eg. daattali
+  #stackoverflow:   # eg. "3943160/daattali"
   #instagram: covid19italia # eg. daattali
   #youtube: yourlink # eg. user/daattali or channel/daattali
-  rss: https://emergenzehack.github.io/covid19italia/feed.xml
-  telegram: https://telegram.me/covid19italia
+  #rss: https://emergenzehack.github.io/covid19italia/feed.xml
+  #telegram: https://telegram.me/covid19italia
   #medium: https://medium.com/@covid19italia
   #archiveorg: https://archive.org/details/@covid19italia
-  messenger: messenger
+  #messenger: messenger
 
 # Select which links to show in the footer
 footer-links-active:
   androidapp: false
-  rss: true
-  facebook: true
+  rss: false
+  facebook: false
   email: false
   twitter: true
   github: true
@@ -93,7 +93,7 @@ footer-links-active:
   stackoverflow: false
   instagram: false
   youtube: false
-  telegram: true
+  telegram: false
   medium: false
   archiveorg: false
   messenger: false
@@ -101,7 +101,7 @@ footer-links-active:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   google: false
   linkedin: false
 
