@@ -5,3 +5,22 @@
 Condividiamo informazioni e segnalazioni sul COVID19
 
 Leggi come usare il repository nel nostro [WIKI](https://github.com/emergenzeHack/covid19italia/wiki)
+
+## Link
+
+### Siti web
+
+- https://www.covid19italia.info (ufficiale)
+- https://www.covid19italia.help
+
+- https://covid19italia.netlify.com/ (usato da Netlify)
+
+### Repository GitHub
+
+- https://github.com/emergenzeHack/covid19italia (principale)
+- https://github.com/emergenzeHack/covid19italia_segnalazioni (per gestire le segnalazioni)
+
+### Social
+
+- Twitter: TBD ?
+- Facebook: TBD ?
