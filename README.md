@@ -8,6 +8,10 @@ Leggi come usare il repository nel nostro [WIKI](https://github.com/emergenzeHac
 
 ## Link
 
+### E-mail
+
+[covid19ita@gmail.com](mailto:covid19ita@gmail.com)
+
 ### Siti web
 
 - https://www.covid19italia.info (ufficiale)
