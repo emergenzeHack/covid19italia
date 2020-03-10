@@ -49,7 +49,7 @@ avatar: /images/covid19italia.png
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: COVID19Italia
-  email: "covid19italia@gmail.com"
+  email: "mailto:covid19italia@gmail.com"
   #facebook: groups/1758670357733881/  # eg. daattali
   github: emergenzeHack/covid19italia    # eg. daattali
   twitter: ItaliaCovid19   # eg. daattali
