@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bufale
+title: Fake News
 permalink: /fake-news/
 ---
 <div class="panel-group">
