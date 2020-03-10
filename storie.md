@@ -14,7 +14,7 @@ Storia          |Link                    |Come è finita             |Grazie a  
 
 
 
-{% assign storie = (site.storie | sort: 'date') %}
+{% assign storie = site.storie | sort: 'date' %}
 
 <div class="posts">
   {% for post in storie reversed%}
