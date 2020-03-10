@@ -56,7 +56,7 @@ author:
   #linkedin:   # eg. daattali
   #xing:       # eg. daattali
   #stackoverflow:   # eg. "3943160/daattali"
-  #instagram: covid19italia # eg. daattali
+  instagram: covid19italia.info # eg. daattali
   #youtube: yourlink # eg. user/daattali or channel/daattali
   #rss: https://emergenzehack.github.io/covid19italia/feed.xml
   telegram: https://t.me/COVID19I
@@ -75,7 +75,7 @@ footer-links-active:
   linkedin: false
   xing: false
   stackoverflow: false
-  instagram: false
+  instagram: true
   youtube: false
   telegram: true
   medium: false
