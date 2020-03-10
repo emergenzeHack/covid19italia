@@ -4,7 +4,7 @@ title: Link e Contatti Utili
 permalink: /link_utili/
 ---
 
-Di seguito la lista dei contatti e dei link registrati da TerremotoCentroItalia
+Di seguito la lista dei contatti e dei link registrati da questo progetto.
 
 # Contatti
 
