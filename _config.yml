@@ -23,29 +23,12 @@ description: Un progetto per condividere informazioni a supporto dell'emergenza 
 navbar-links:
   Segnala:
     - Segnalazioni: "segnala/"
-  Richieste:
-    - Fabbisogni: "fabbisogni/"
-    - Cerco Lavoro: "cerco_lavoro/"
-  Offerte:
-    - Risorse: "risorse-disponibili/"
-    - Alloggi: "alloggi/"
-    - Offro Lavoro: "offro_lavoro/"
-    - Ospitalità animali: "ospitalita_animali/"
   Raccolte:
     - Raccolte Fondi: "fondi/"
-    - Acquisti Solidali: "acquistisolidali/"
   Aggiornamenti:
-    - News: "news/"
-    - Eventi: "eventi/"
-    - Blog: "post/"
-    - Storie: "storie/"
-    - Vittime: "vittime/"
-    - Bufale: "bufale/"
-  Utilità:
-    #- Mappa: "mappa/"
-    - Dashboard: "dashboard/"
-    - Opendata: "opendata/"
-    - Link e contatti utili: "link_utili/"
+    - Normativa nazionale: "normativa_nazionale/"
+  Servizi:
+    - Servizi e iniziative solidali: "servizi_e_iniziative_solidali/"
   Il Progetto:
    - About: "about/"
    - Contribuisci: 'https://github.com/emergenzeHack/covid19italia/wiki" target="_blank'

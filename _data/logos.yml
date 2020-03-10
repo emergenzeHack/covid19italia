@@ -38,23 +38,15 @@
   logo: /img/icone/tci-opendata.png
   map: false
   link: dataset/
-- name: ALLOGGI
-  logo: /img/icone/alloggi2-tci.png
+- name: NORMATIVA NAZIONALE
+  logo: /img/icone/tci-legge.png
   map: false
-  link: alloggi
-- name: FABBISOGNI
+  link: normativa_nazionale
+- name: SERVIZI E INIZIATIVE SOLIDALI
   logo: /img/icone/fabbisogni2-tci.png
   map: false
-  link: fabbisogni
-- name: NEWS
-  logo: /img/icone/news2-tci.png
-  map: false
-  link: news
-- name: MAPPE
-  logo: /img/icone/11-comunicolpiti.png
-  map: false
-  link: mappe
-- name: BUFALE
+  link: servizi_e_iniziative_solidali
+- name: FAKE NEWS
   logo: /img/icone/bufala-tci-1.png
   map: false
-  link: bufale
+  link: fake_news
