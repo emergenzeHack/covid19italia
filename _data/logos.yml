@@ -34,10 +34,6 @@
   logo: /img/icone/segnala2-tci.png
   map: false
   link: segnala
-- name: DATI
-  logo: /img/icone/tci-opendata.png
-  map: false
-  link: dataset/
 - name: NORMATIVA NAZIONALE
   logo: /img/icone/tci-legge.png
   map: false
