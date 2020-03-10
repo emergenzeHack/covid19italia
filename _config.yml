@@ -23,7 +23,6 @@ description: Un progetto per condividere informazioni a supporto dell'emergenza 
 navbar-links:
   Segnala:
     - Segnalazioni: "segnala/"
-    - Segnala dati: "dataset/"
   Richieste:
     - Fabbisogni: "fabbisogni/"
     - Cerco Lavoro: "cerco_lavoro/"
