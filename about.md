@@ -48,8 +48,6 @@ Un grazie sentito a :
 ### Contatti
 - [Mail](mailto:covid19ita@gmail.com): per segnalare informazioni utili;
 - [Twitter](https://twitter.com/ItaliaCovid19): dove trovi informazioni già verificate dal team;
-- [Gruppo Telegram](https://t.me/joinchat/BgW6eBM4lxLxJlf_AWKDDw) per contribuire alla discussione sul progetto;
-- [Tutti i canali ufficiali](https://www.covid19italia.info/canali/) dove trovi tutte le modalità per partecipare e comunicare con noi.
 
 ### Press
 
