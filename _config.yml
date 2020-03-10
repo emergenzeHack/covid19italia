@@ -43,7 +43,7 @@ navbar-links:
     - Vittime: "vittime/"
     - Bufale: "bufale/"
   Utilità:
-    - Mappa: "mappa/"
+    #- Mappa: "mappa/"
     - Dashboard: "dashboard/"
     - Opendata: "opendata/"
     - Link e contatti utili: "link_utili/"
