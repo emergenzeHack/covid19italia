@@ -34,6 +34,14 @@ Un grazie sentito a :
 .....
 (i ringraziamenti sono in progress ogni giorno....Non avertene a male se non compari ancora, grazie lo stesso!)
 
+### Contatti
+- [Email](mailto:covid19ita@gmail.com)
+- [Twitter](https://twitter.com/ItaliaCovid19)
+- [Instagram](https://www.instagram.com/covid19italia.info/)
+- [Gruppo Telegram ](http://t.me/covid19italia)
+- [Canale Telegram](https://t.me/COVID19I)
+- [Repository Github](https://github.com/emergenzeHack/covid19italia)
+
 ### Altri crediti
 
 - [Maptune](https://github.com/gjrichter/maptune)
@@ -44,10 +52,6 @@ Un grazie sentito a :
 - [Glyphicons](http://glyphicons.com)
 - [Jekyll](https://jekyllrb.com/)
 - [Github](http://www.github.com)
-
-### Contatti
-- [Mail](mailto:covid19ita@gmail.com): per segnalare informazioni utili;
-- [Twitter](https://twitter.com/ItaliaCovid19): dove trovi informazioni già verificate dal team;
 
 ### Press
 
