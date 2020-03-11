@@ -824,3 +824,7 @@ div.segnala > li {
   width: 100%;
   min-height: 28px;
 }
+
+.thumbnail {
+  border: none;
+}
