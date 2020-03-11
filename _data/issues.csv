@@ -1,1 +1,440 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/145,578926092,2020-03-10 23:56:56,2020-03-10 23:53:54,Raccolta fondi per aiutare concretamente le persone che lavorano negli ospedali,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Fondazione Policlinico Sant\u2019Orsola"", ""comune"": ""Bologna"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per aiutare concretamente le persone che lavorano negli ospedali"", ""destinatari"": ""Personale ospedaliero"", ""fonte"": ""https://www.fondazionesantorsola.it/progetti/piu-forti-insieme/"", ""provincia"": ""Bologna"", ""regione"": ""Emilia-Romagna"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: ""Fondazione Policlinico Sant\u2019Orsola""
+comune: Bologna
+contatti: ''
+descrizione: Raccolta fondi per aiutare concretamente le persone che lavorano negli
+  ospedali
+destinatari: Personale ospedaliero
+fonte: https://www.fondazionesantorsola.it/progetti/piu-forti-insieme/
+provincia: Bologna
+regione: Emilia-Romagna
+tag: Raccolta fondi
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/144,578926086,2020-03-10 23:56:56,2020-03-10 23:53:53,Raccolta fondi Ospedale Sacco Milano,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Ospedale Sacco"", ""comune"": ""Milano "", ""contatti"": """", ""descrizione"": ""Raccolta fondi Ospedale Sacco Milano"", ""destinatari"": ""Tutt"", ""fonte"": ""https://www.asst-fbf-sacco.it/news/info/sostegno-economico-per-emergenza-covid-19"", ""provincia"": ""Milano"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Ospedale Sacco
+comune: 'Milano '
+contatti: ''
+descrizione: Raccolta fondi Ospedale Sacco Milano
+destinatari: Tutt
+fonte: https://www.asst-fbf-sacco.it/news/info/sostegno-economico-per-emergenza-covid-19
+provincia: Milano
+regione: Lombardia
+tag: Raccolta fondi
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/143,578926081,2020-03-10 23:56:56,2020-03-10 23:53:52,Raccolta fondi per ospedali bresciani,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Fondazione Comunit\u00e0 Bresciana Onlus"", ""comune"": ""Brescia"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per ospedali bresciani"", ""destinatari"": ""Tutt"", ""fonte"": ""https://www.giornaledibrescia.it/brescia-e-hinterland/aiutiamobrescia-la-raccolta-fondi-per-gli-ospedali-bresciani-1.3465790"", ""provincia"": ""Brescia"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: ""Fondazione Comunit\xE0 Bresciana Onlus""
+comune: Brescia
+contatti: ''
+descrizione: Raccolta fondi per ospedali bresciani
+destinatari: Tutt
+fonte: https://www.giornaledibrescia.it/brescia-e-hinterland/aiutiamobrescia-la-raccolta-fondi-per-gli-ospedali-bresciani-1.3465790
+provincia: Brescia
+regione: Lombardia
+tag: Raccolta fondi
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/142,578926074,2020-03-10 23:56:55,2020-03-10 23:53:51,"Raccolta fondi per acquistare per i propri presidi e per tutti gli ospedali della provincia di Brescia, materiali e dispositivi necessari alla cura dei pazienti colpiti da coronavirus",,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Fondazione Spedali Civili Brescia"", ""comune"": ""Brescia"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per acquistare per i propri presidi e per tutti gli ospedali della provincia di Brescia, materiali e dispositivi necessari alla cura dei pazienti colpiti da coronavirus"", ""destinatari"": ""Tutt"", ""fonte"": ""http://www.fondazionespedalicivili.it/2020/03/09/raccolta-donazioni-per-emergenza-coronavirus-brescia/"", ""provincia"": ""Brescia"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Fondazione Spedali Civili Brescia
+comune: Brescia
+contatti: ''
+descrizione: Raccolta fondi per acquistare per i propri presidi e per tutti gli ospedali
+  della provincia di Brescia, materiali e dispositivi necessari alla cura dei pazienti
+  colpiti da coronavirus
+destinatari: Tutt
+fonte: http://www.fondazionespedalicivili.it/2020/03/09/raccolta-donazioni-per-emergenza-coronavirus-brescia/
+provincia: Brescia
+regione: Lombardia
+tag: Raccolta fondi
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/141,578926065,2020-03-10 23:56:55,2020-03-10 23:53:50,Raccolta fondi Ospedale Papa Giovanni XXIII Bergamo,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Ospedale Papa Giovanni XXIII"", ""comune"": ""Bergamo"", ""contatti"": """", ""descrizione"": ""Raccolta fondi Ospedale Papa Giovanni XXIII Bergamo"", ""destinatari"": ""Tutt"", ""fonte"": ""http://www.asst-pg23.it/2020/03/_emergenza_coronavirus_come_aiutarci/"", ""provincia"": ""Bergamo"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Ospedale Papa Giovanni XXIII
+comune: Bergamo
+contatti: ''
+descrizione: Raccolta fondi Ospedale Papa Giovanni XXIII Bergamo
+destinatari: Tutt
+fonte: http://www.asst-pg23.it/2020/03/_emergenza_coronavirus_come_aiutarci/
+provincia: Bergamo
+regione: Lombardia
+tag: Raccolta fondi
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/140,578926062,2020-03-10 23:56:55,2020-03-10 23:53:49,Raccolta fondi aziende ospedaliere lombarde,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Regione Lombardia"", ""comune"": ""Milano "", ""contatti"": """", ""descrizione"": ""Raccolta fondi aziende ospedaliere lombarde"", ""destinatari"": ""Tutt"", ""fonte"": ""https://www.lombardianotizie.online/coronavirus-conto-corrente/"", ""provincia"": ""Milano"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Regione Lombardia
+comune: 'Milano '
+contatti: ''
+descrizione: Raccolta fondi aziende ospedaliere lombarde
+destinatari: Tutt
+fonte: https://www.lombardianotizie.online/coronavirus-conto-corrente/
+provincia: Milano
+regione: Lombardia
+tag: Raccolta fondi
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/139,578926059,2020-03-10 23:56:54,2020-03-10 23:53:48,Raccolta Fondi Ospedale Maggiore Policlinico,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Ospedale Maggiore Policlinico"", ""comune"": ""Milano "", ""contatti"": """", ""descrizione"": ""Raccolta Fondi Ospedale Maggiore Policlinico"", ""destinatari"": ""Tutt"", ""fonte"": ""https://www.policlinico.mi.it/donazioni-lotta-al-coronavirus"", ""provincia"": ""Milano"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Ospedale Maggiore Policlinico
+comune: 'Milano '
+contatti: ''
+descrizione: Raccolta Fondi Ospedale Maggiore Policlinico
+destinatari: Tutt
+fonte: https://www.policlinico.mi.it/donazioni-lotta-al-coronavirus
+provincia: Milano
+regione: Lombardia
+tag: Raccolta fondi
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/138,578926057,2020-03-10 23:56:54,2020-03-10 23:53:47,Raccolta fondi IRCCS San Raffaele,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Ospedale San Raffaele"", ""comune"": ""Milano "", ""contatti"": """", ""descrizione"": ""Raccolta fondi IRCCS San Raffaele"", ""destinatari"": ""Tutt"", ""fonte"": ""https://register.hsr.it/donazioni/donazione.aspx"", ""provincia"": ""Milano"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Ospedale San Raffaele
+comune: 'Milano '
+contatti: ''
+descrizione: Raccolta fondi IRCCS San Raffaele
+destinatari: Tutt
+fonte: https://register.hsr.it/donazioni/donazione.aspx
+provincia: Milano
+regione: Lombardia
+tag: Raccolta fondi
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/137,578926052,2020-03-10 23:57:42,2020-03-10 23:53:46,"Traduzione in arabo, urdu, bengalese, spagnolo, francese e inglese dei decreti",,,"[""Servizi e iniziative solidali private"", ""accettato""]",,,"{""chi"": ""associazione Diritti per tutti"", ""comune"": ""Brescia"", ""contatti"": """", ""descrizione"": ""Traduzione in arabo, urdu, bengalese, spagnolo, francese e inglese dei decreti"", ""destinatari"": ""Stranieri"", ""fonte"": ""http://www.vita.it/it/article/2020/03/10/decreto-coronavirus-le-traduzioni-in-arabo-urdu-e-bengalese/154350/"", ""provincia"": ""Brescia"", ""regione"": ""Lombardia"", ""tag"": ""Servizi e iniziative solidali private""}","<pre><yamldata>chi: associazione Diritti per tutti
+comune: Brescia
+contatti: ''
+descrizione: Traduzione in arabo, urdu, bengalese, spagnolo, francese e inglese dei
+  decreti
+destinatari: Stranieri
+fonte: http://www.vita.it/it/article/2020/03/10/decreto-coronavirus-le-traduzioni-in-arabo-urdu-e-bengalese/154350/
+provincia: Brescia
+regione: Lombardia
+tag: Servizi e iniziative solidali private
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/136,578926047,2020-03-10 23:56:09,2020-03-10 23:53:46,Spesa a domicilio per anziani,,,"[""Consegne e commissioni"", ""accettato""]",,,"{""chi"": ""CSV"", ""comune"": ""Catanzaro"", ""contatti"": ""0961-790647 - info@csvcatanzaro.it"", ""descrizione"": ""Spesa a domicilio per anziani"", ""destinatari"": ""anziani over 65"", ""fonte"": ""https://www.comune.catanzaro.it/covid-19-concolino-insieme-a-csv-servizio-spesa-a-domicilio-per-over-75/?fbclid=IwAR3ZvwupnzgnW3p_rjGNnwqClc_jY1iWiYXq9m7dSRXYpZtqVPosm6slVSY"", ""provincia"": ""Catanzaro"", ""regione"": ""Calabria"", ""tag"": ""Consegne e commissioni""}","<pre><yamldata>chi: CSV
+comune: Catanzaro
+contatti: 0961-790647 - info@csvcatanzaro.it
+descrizione: Spesa a domicilio per anziani
+destinatari: anziani over 65
+fonte: https://www.comune.catanzaro.it/covid-19-concolino-insieme-a-csv-servizio-spesa-a-domicilio-per-over-75/?fbclid=IwAR3ZvwupnzgnW3p_rjGNnwqClc_jY1iWiYXq9m7dSRXYpZtqVPosm6slVSY
+provincia: Catanzaro
+regione: Calabria
+tag: Consegne e commissioni
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/135,578926045,2020-03-10 23:56:08,2020-03-10 23:53:45,Spesa a domicilio per anziani,,,"[""Consegne e commissioni"", ""accettato""]",,,"{""chi"": ""Circolo Arci Sprawasser"", ""comune"": ""Roma"", ""contatti"": ""3917274709"", ""descrizione"": ""Spesa a domicilio per anziani"", ""destinatari"": ""anziani over 65"", ""fonte"": ""http://pigneto.romatoday.it/pigneto/progetto-spesa-anziani-sparwasser.html?fbclid=IwAR3V67Tp7IdHQ7EXfZPVrSm9j-76Hfny5rY5pzqqN4FXODN_vJXviCcEUqY"", ""provincia"": ""Roma"", ""regione"": ""Lazio"", ""tag"": ""Consegne e commissioni""}","<pre><yamldata>chi: Circolo Arci Sprawasser
+comune: Roma
+contatti: '3917274709'
+descrizione: Spesa a domicilio per anziani
+destinatari: anziani over 65
+fonte: http://pigneto.romatoday.it/pigneto/progetto-spesa-anziani-sparwasser.html?fbclid=IwAR3V67Tp7IdHQ7EXfZPVrSm9j-76Hfny5rY5pzqqN4FXODN_vJXviCcEUqY
+provincia: Roma
+regione: Lazio
+tag: Consegne e commissioni
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/134,578926040,2020-03-10 23:57:41,2020-03-10 23:53:44,Servizi a domicilio,,,"[""Servizi e iniziative solidali private"", ""accettato""]",,,"{""chi"": ""Ass. La Terra di Piero"", ""comune"": ""Cosenza"", ""contatti"": ""info@laterradipiero.it"", ""descrizione"": ""Servizi a domicilio"", ""destinatari"": ""Tutti"", ""fonte"": ""dbQMTMYzw88_Yg4KQczFmGtuCFEiea1l_sQH2jAeNZmS2jOk8O2jmt8vfjFkFGL8joj0mAhB3coJl7i7flkXHD5Xf3uI43zF6p7LzL4PhwXjcQinmGQcLmKapXCTVCK0Sf8LFnM3unxacrVtK_9evpIzjOMqVsFL3UcsrExdx8GN33PKFuw65xr5s06Cb7M"", ""provincia"": ""Cosenza"", ""regione"": ""Calabria"", ""tag"": ""Servizi e iniziative solidali private""}","<pre><yamldata>chi: Ass. La Terra di Piero
+comune: Cosenza
+contatti: info@laterradipiero.it
+descrizione: Servizi a domicilio
+destinatari: Tutti
+fonte: dbQMTMYzw88_Yg4KQczFmGtuCFEiea1l_sQH2jAeNZmS2jOk8O2jmt8vfjFkFGL8joj0mAhB3coJl7i7flkXHD5Xf3uI43zF6p7LzL4PhwXjcQinmGQcLmKapXCTVCK0Sf8LFnM3unxacrVtK_9evpIzjOMqVsFL3UcsrExdx8GN33PKFuw65xr5s06Cb7M
+provincia: Cosenza
+regione: Calabria
+tag: Servizi e iniziative solidali private
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/133,578926035,2020-03-10 23:57:41,2020-03-10 23:53:43,Informazioni su disagi e criticità,,,"[""Servizi e iniziative solidali private"", ""accettato""]",,,"{""chi"": ""Radio Ciroma"", ""comune"": ""Cosenza"", ""contatti"": ""366 4185972"", ""descrizione"": ""Informazioni su disagi e criticit\u00e0"", ""destinatari"": ""tutti"", ""fonte"": ""https://www.facebook.com/photo.php?fbid=10218261149973887&set=p.10218261149973887&type=3&theater"", ""provincia"": ""Cosenza"", ""regione"": ""Calabria"", ""tag"": ""Servizi e iniziative solidali private""}","<pre><yamldata>chi: Radio Ciroma
+comune: Cosenza
+contatti: 366 4185972
+descrizione: ""Informazioni su disagi e criticit\xE0""
+destinatari: tutti
+fonte: https://www.facebook.com/photo.php?fbid=10218261149973887&set=p.10218261149973887&type=3&theater
+provincia: Cosenza
+regione: Calabria
+tag: Servizi e iniziative solidali private
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/132,578926031,2020-03-10 23:56:08,2020-03-10 23:53:42,"""Il Tempo della Gentilezza"". Consegna spesa, beni di prima neccesità, farmaci. Trasporto infermi",,,"[""Consegne e commissioni"", ""accettato""]",,,"{""chi"": ""Croce Rossa Italiana"", ""comune"": ""Italia"", ""contatti"": ""contattare il comitato locale oppure numero verde Sala Operativa 800 - 06 55 10"", ""descrizione"": ""\""Il Tempo della Gentilezza\"". Consegna spesa, beni di prima neccesit\u00e0, farmaci. Trasporto infermi"", ""destinatari"": ""anziani, persone fragili"", ""fonte"": ""https://www.repubblica.it/solidarieta/2020/03/10/news/coronavirus_rocca_per_croce_rossa_e_il_tempo_della_gentilezza_dalla_spesa_a_domicilio_al_trasporto_sanitario_-250835208/?fbclid=IwAR0SF6GRmNXthqaCs_6jNfjKV6IDuuk5a1YqAPi9uc9uWTFjYoQcKh-Jyn4"", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Consegne e commissioni""}","<pre><yamldata>chi: Croce Rossa Italiana
+comune: Italia
+contatti: contattare il comitato locale oppure numero verde Sala Operativa 800 - 06
+  55 10
+descrizione: ""\""Il Tempo della Gentilezza\"". Consegna spesa, beni di prima neccesit\xE0\
+  , farmaci. Trasporto infermi""
+destinatari: anziani, persone fragili
+fonte: https://www.repubblica.it/solidarieta/2020/03/10/news/coronavirus_rocca_per_croce_rossa_e_il_tempo_della_gentilezza_dalla_spesa_a_domicilio_al_trasporto_sanitario_-250835208/?fbclid=IwAR0SF6GRmNXthqaCs_6jNfjKV6IDuuk5a1YqAPi9uc9uWTFjYoQcKh-Jyn4
+provincia: Italia
+regione: Italia
+tag: Consegne e commissioni
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/131,578926022,2020-03-10 23:56:07,2020-03-10 23:53:42,"Filastrocche al telefonino. Dal marzo al 3 aprile da lun a ven. Dalle 10 alle 11, dalle 16 alle 17",,,"[""Attivit\u00e0 culturali e ricreative"", ""accettato""]",,,"{""chi"": ""Livio Vianello"", ""comune"": ""Italia"", ""contatti"": ""Livio Vianello 331 9060795"", ""descrizione"": ""Filastrocche al telefonino. Dal marzo al 3 aprile da lun a ven. Dalle 10 alle 11, dalle 16 alle 17"", ""destinatari"": """", ""fonte"": """", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Attivit\u00e0 culturali e ricreative""}","<pre><yamldata>chi: Livio Vianello
+comune: Italia
+contatti: Livio Vianello 331 9060795
+descrizione: Filastrocche al telefonino. Dal marzo al 3 aprile da lun a ven. Dalle
+  10 alle 11, dalle 16 alle 17
+destinatari: ''
+fonte: ''
+provincia: Italia
+regione: Italia
+tag: ""Attivit\xE0 culturali e ricreative""
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/130,578926017,2020-03-10 23:56:07,2020-03-10 23:53:41,"Fiabe, racconti, approfondimenti scolastici",,,"[""Didattica a distanza"", ""accettato""]",,,"{""chi"": ""Lezioni sul sof\u00e0"", ""comune"": ""Italia"", ""contatti"": """", ""descrizione"": ""Fiabe, racconti, approfondimenti scolastici"", ""destinatari"": ""tutti. Per et\u00e0 diverse"", ""fonte"": ""https://www.lezionisulsofa.it/?fbclid=IwAR2S3eR0btgrv3-O4CjeaUFogtFe2wTVsmXbrE_Y3YFSBu-o7VKbLPun9Vw"", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Didattica a distanza""}","<pre><yamldata>chi: ""Lezioni sul sof\xE0""
+comune: Italia
+contatti: ''
+descrizione: Fiabe, racconti, approfondimenti scolastici
+destinatari: ""tutti. Per et\xE0 diverse""
+fonte: https://www.lezionisulsofa.it/?fbclid=IwAR2S3eR0btgrv3-O4CjeaUFogtFe2wTVsmXbrE_Y3YFSBu-o7VKbLPun9Vw
+provincia: Italia
+regione: Italia
+tag: Didattica a distanza
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/129,578926015,2020-03-10 23:56:07,2020-03-10 23:53:40,Visione libera e gratuita dei film in concorso a Ischia Film Festival,,,"[""Attivit\u00e0 culturali e ricreative"", ""accettato""]",,,"{""chi"": ""Ischia Film Festival"", ""comune"": ""Italia"", ""contatti"": """", ""descrizione"": ""Visione libera e gratuita dei film in concorso a Ischia Film Festival"", ""destinatari"": ""tutti"", ""fonte"": ""http://www.ischiafilmfestival.it/index.php/it/iscrivere-un-film?fbclid=IwAR0UuphpaD8Cvw5Pv32kKuBy8aB9aQbGBDvAgdAPmQ6N4PcqHfs3pp5r5TM"", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Attivit\u00e0 culturali e ricreative""}","<pre><yamldata>chi: Ischia Film Festival
+comune: Italia
+contatti: ''
+descrizione: Visione libera e gratuita dei film in concorso a Ischia Film Festival
+destinatari: tutti
+fonte: http://www.ischiafilmfestival.it/index.php/it/iscrivere-un-film?fbclid=IwAR0UuphpaD8Cvw5Pv32kKuBy8aB9aQbGBDvAgdAPmQ6N4PcqHfs3pp5r5TM
+provincia: Italia
+regione: Italia
+tag: ""Attivit\xE0 culturali e ricreative""
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/128,578926012,2020-03-10 23:56:06,2020-03-10 23:53:39,lettura giornaliera di tutto il Decamerone. dal 29 febbraio al 9 marzo.,,,"[""Attivit\u00e0 culturali e ricreative"", ""accettato""]",,,"{""chi"": ""lavoratori della cultura"", ""comune"": ""Italia"", ""contatti"": ""https://www.facebook.com/decamerone2020/"", ""descrizione"": ""lettura giornaliera di tutto il Decamerone. dal 29 febbraio al 9 marzo."", ""destinatari"": ""tutti"", ""fonte"": ""https://www.facebook.com/decamerone2020/"", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Attivit\u00e0 culturali e ricreative""}","<pre><yamldata>chi: lavoratori della cultura
+comune: Italia
+contatti: https://www.facebook.com/decamerone2020/
+descrizione: lettura giornaliera di tutto il Decamerone. dal 29 febbraio al 9 marzo.
+destinatari: tutti
+fonte: https://www.facebook.com/decamerone2020/
+provincia: Italia
+regione: Italia
+tag: ""Attivit\xE0 culturali e ricreative""
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/127,578926006,2020-03-10 23:57:40,2020-03-10 23:53:38,"social aiuta per spesa, medicina e prime necessità. c'è un gruppo che supporta la collettività. ",,,"[""Servizi e iniziative solidali private"", ""accettato""]",,,"{""chi"": ""social street - baia del re "", ""comune"": ""Milano "", ""contatti"": ""social baia del re "", ""descrizione"": ""social aiuta per spesa, medicina e prime necessit\u00e0. c'\u00e8 un gruppo che supporta la collettivit\u00e0. "", ""destinatari"": ""tutti "", ""fonte"": ""facebook: residenti baia del re (montegani, volvinio e dintorni) "", ""provincia"": ""Milano"", ""regione"": ""lombardia "", ""tag"": ""Servizi e iniziative solidali private""}","<pre><yamldata>chi: 'social street - baia del re '
+comune: 'Milano '
+contatti: 'social baia del re '
+descrizione: ""social aiuta per spesa, medicina e prime necessit\xE0. c'\xE8 un gruppo\
+  \ che supporta la collettivit\xE0. ""
+destinatari: 'tutti '
+fonte: 'facebook: residenti baia del re (montegani, volvinio e dintorni) '
+provincia: Milano
+regione: 'lombardia '
+tag: Servizi e iniziative solidali private
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/126,578925998,2020-03-10 23:56:06,2020-03-10 23:53:37,Disposizioni decreto tradotte in varie lingue,,,"[""Informazioni utili"", ""accettato""]",,,"{""chi"": ""Radio Onda d'urto"", ""comune"": ""Italia"", ""contatti"": """", ""descrizione"": ""Disposizioni decreto tradotte in varie lingue"", ""destinatari"": ""Persone che parlano inglese, framcese, russo, spagnolo, wolof, pashtun, pulaar, bambara."", ""fonte"": ""https://www.radiondadurto.org/2020/03/10/coronavirus-traduzioni-multilingue-sulle-disposizioni-anti-contagio/"", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Informazioni utili""}","<pre><yamldata>chi: Radio Onda d'urto
+comune: Italia
+contatti: ''
+descrizione: Disposizioni decreto tradotte in varie lingue
+destinatari: Persone che parlano inglese, framcese, russo, spagnolo, wolof, pashtun,
+  pulaar, bambara.
+fonte: https://www.radiondadurto.org/2020/03/10/coronavirus-traduzioni-multilingue-sulle-disposizioni-anti-contagio/
+provincia: Italia
+regione: Italia
+tag: Informazioni utili
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/125,578925996,2020-03-10 23:56:06,2020-03-10 23:53:37,Storie lette ad alta voce,,,"[""Attivit\u00e0 culturali e ricreative"", ""accettato""]",,,"{""chi"": ""canale telegram @storiealtelefono "", ""comune"": ""Italia"", ""contatti"": ""canale telegram @storiealtelefono per ascoltare. canale telegram @vocistoriealtelefono per registrare storie"", ""descrizione"": ""Storie lette ad alta voce"", ""destinatari"": ""per tutti"", ""fonte"": ""https://www.radiocittafujiko.it/resistenza-al-coronavirus-2-le-storie-al-telefono-di-chi-e-senza-reddito/?fbclid=IwAR3IYyyk0MGzxtxM3TrI1kycHivJW8_ip1arTX-f3xRqWNvpQt_Bs0hS1_o"", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Attivit\u00e0 culturali e ricreative""}","<pre><yamldata>chi: 'canale telegram @storiealtelefono '
+comune: Italia
+contatti: canale telegram @storiealtelefono per ascoltare. canale telegram @vocistoriealtelefono
+  per registrare storie
+descrizione: Storie lette ad alta voce
+destinatari: per tutti
+fonte: https://www.radiocittafujiko.it/resistenza-al-coronavirus-2-le-storie-al-telefono-di-chi-e-senza-reddito/?fbclid=IwAR3IYyyk0MGzxtxM3TrI1kycHivJW8_ip1arTX-f3xRqWNvpQt_Bs0hS1_o
+provincia: Italia
+regione: Italia
+tag: ""Attivit\xE0 culturali e ricreative""
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/124,578925992,2020-03-10 23:56:05,2020-03-10 23:53:36,commisioni (alimenti e farmaci),,,"[""Consegne e commissioni"", ""accettato""]",,,"{""chi"": ""Comitato San Mamiliano"", ""comune"": ""Isola del Giglio"", ""contatti"": ""Stefania 3290245553, Filippo 3286934513, Fabio 3338179662, Andrea 3402612926"", ""descrizione"": ""commisioni (alimenti e farmaci)"", ""destinatari"": ""anziani e malati"", ""fonte"": ""https://www.ilgiunco.net/2020/03/10/la-solidarieta-ai-tempi-del-coronavirus-sono-michele-del-terzo-piano-se-volete-vado-a-farvi-la-spesa/"", ""provincia"": ""Grosseto"", ""regione"": ""Toscana"", ""tag"": ""Consegne e commissioni""}","<pre><yamldata>chi: Comitato San Mamiliano
+comune: Isola del Giglio
+contatti: Stefania 3290245553, Filippo 3286934513, Fabio 3338179662, Andrea 3402612926
+descrizione: commisioni (alimenti e farmaci)
+destinatari: anziani e malati
+fonte: https://www.ilgiunco.net/2020/03/10/la-solidarieta-ai-tempi-del-coronavirus-sono-michele-del-terzo-piano-se-volete-vado-a-farvi-la-spesa/
+provincia: Grosseto
+regione: Toscana
+tag: Consegne e commissioni
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/123,578925991,2020-03-10 23:56:05,2020-03-10 23:53:35,commissioni (farmaci e alimenti),,,"[""Consegne e commissioni"", ""accettato""]",,,"{""chi"": ""Croce Verde"", ""comune"": ""Arquata del Tronto"", ""contatti"": ""numero da chiamare: 0736 802459"", ""descrizione"": ""commissioni (farmaci e alimenti)"", ""destinatari"": ""anziani/e e persone con particolari difficolt\u00e0 dei comuni di Arquata del Tronto e Acquasanta Terme"", ""fonte"": """", ""provincia"": ""Ascoli Piceno"", ""regione"": ""Marche"", ""tag"": ""Consegne e commissioni""}","<pre><yamldata>chi: Croce Verde
+comune: Arquata del Tronto
+contatti: 'numero da chiamare: 0736 802459'
+descrizione: commissioni (farmaci e alimenti)
+destinatari: ""anziani/e e persone con particolari difficolt\xE0 dei comuni di Arquata\
+  \ del Tronto e Acquasanta Terme""
+fonte: ''
+provincia: Ascoli Piceno
+regione: Marche
+tag: Consegne e commissioni
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/122,578925987,2020-03-10 23:56:05,2020-03-10 23:53:34,"informazioni su Covid19 in lingua e con video, per stranieri",,,"[""Informazioni utili"", ""accettato""]",,,"{""chi"": ""Il grande colibr\u00ec"", ""comune"": ""Nazionale"", ""contatti"": """", ""descrizione"": ""informazioni su Covid19 in lingua e con video, per stranieri"", ""destinatari"": ""stranieri"", ""fonte"": ""https://www.ilgrandecolibri.com/coronavirus-spiegato-migranti-asilanti/"", ""provincia"": """", ""regione"": """", ""tag"": ""Informazioni utili""}","<pre><yamldata>chi: ""Il grande colibr\xEC""
+comune: Nazionale
+contatti: ''
+descrizione: informazioni su Covid19 in lingua e con video, per stranieri
+destinatari: stranieri
+fonte: https://www.ilgrandecolibri.com/coronavirus-spiegato-migranti-asilanti/
+provincia: ''
+regione: ''
+tag: Informazioni utili
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/121,578925980,2020-03-10 23:56:05,2020-03-10 23:53:34,Portierato di quartiere,,,"[""Consegne e commissioni"", ""accettato""]",,,"{""chi"": ""Casa delle Culture"", ""comune"": ""Ancona"", ""contatti"": ""3737660799"", ""descrizione"": ""Portierato di quartiere"", ""destinatari"": ""residenti quartiere Vallemiano"", ""fonte"": ""https://www.facebook.com/casacultureancona/photos/a.106921962675490/3051249511576039/?type=3&theater"", ""provincia"": ""Ancona"", ""regione"": ""Marche"", ""tag"": ""Consegne e commissioni""}","<pre><yamldata>chi: Casa delle Culture
+comune: Ancona
+contatti: '3737660799'
+descrizione: Portierato di quartiere
+destinatari: residenti quartiere Vallemiano
+fonte: https://www.facebook.com/casacultureancona/photos/a.106921962675490/3051249511576039/?type=3&theater
+provincia: Ancona
+regione: Marche
+tag: Consegne e commissioni
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/93,578925322,2020-03-10 23:56:54,2020-03-10 23:51:09,sostegno agli anziani in condizione di solitudine e isolamento preventivo e il supporto alle famiglie con minori,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Fondazione Bergamo"", ""comune"": ""Bergamo"", ""contatti"": """", ""descrizione"": ""sostegno agli anziani in condizione di solitudine e isolamento preventivo e il supporto alle famiglie con minori"", ""destinatari"": ""over 65"", ""fonte"": ""http://www.fondazionebergamo.it/news/sosteniamobergamo/"", ""provincia"": ""Bergamo"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Fondazione Bergamo
+comune: Bergamo
+contatti: ''
+descrizione: sostegno agli anziani in condizione di solitudine e isolamento preventivo
+  e il supporto alle famiglie con minori
+destinatari: over 65
+fonte: http://www.fondazionebergamo.it/news/sosteniamobergamo/
+provincia: Bergamo
+regione: Lombardia
+tag: Raccolta fondi
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/90,578924999,2020-03-10 23:56:53,2020-03-10 23:50:09,campagna di raccolta fondi che mira allo scopo (simbolico) di 100.000 € che saranno distribuiti in parti uguali alle ASL provinciali per potenziare la terapia intensiva,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""pagine social abruzzesi"", ""comune"": """", ""contatti"": """", ""descrizione"": ""campagna di raccolta fondi che mira allo scopo (simbolico) di 100.000 \u20ac che saranno distribuiti in parti uguali alle ASL provinciali per potenziare la terapia intensiva"", ""destinatari"": ""ASL Abruzzo"", ""fonte"": ""https://www.gofundme.com/f/abruzzo-rafforziamo-la-terapia-intensiva?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet"", ""provincia"": """", ""regione"": ""Abruzzo"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: pagine social abruzzesi
+comune: ''
+contatti: ''
+descrizione: ""campagna di raccolta fondi che mira allo scopo (simbolico) di 100.000\
+  \ \u20AC che saranno distribuiti in parti uguali alle ASL provinciali per potenziare\
+  \ la terapia intensiva""
+destinatari: ASL Abruzzo
+fonte: https://www.gofundme.com/f/abruzzo-rafforziamo-la-terapia-intensiva?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet
+provincia: ''
+regione: Abruzzo
+tag: Raccolta fondi
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/89,578924993,2020-03-10 23:56:53,2020-03-10 23:50:08,Raccolta fondi,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Fondazione Arca"", ""comune"": ""Tutta Italia"", ""contatti"": """", ""descrizione"": ""Raccolta fondi"", ""destinatari"": ""Operatori servizi persone senza dimora "", ""fonte"": ""https://www.facebook.com/donate/543942392915387/"", ""provincia"": """", ""regione"": """", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Fondazione Arca
+comune: Tutta Italia
+contatti: ''
+descrizione: Raccolta fondi
+destinatari: 'Operatori servizi persone senza dimora '
+fonte: https://www.facebook.com/donate/543942392915387/
+provincia: ''
+regione: ''
+tag: Raccolta fondi
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/88,578924989,2020-03-10 23:56:52,2020-03-10 23:50:07,Raccolta Fondi,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Vincenzo Bernardi"", ""comune"": ""Lamezia Terme"", ""contatti"": """", ""descrizione"": ""Raccolta Fondi"", ""destinatari"": ""Ospedale di Lamezia Terme"", ""fonte"": ""https://www.gofundme.com/f/raccolta-fondi-covid19-ospedale-di-lamezia-terme?fbclid=IwAR2gUvAXo5xe0FnNGEPc8_FOx3xiDHC18QPA0RCiYt53TZyiZ8hqYHT4tMk"", ""provincia"": ""Cosenza"", ""regione"": ""Calabria"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Vincenzo Bernardi
+comune: Lamezia Terme
+contatti: ''
+descrizione: Raccolta Fondi
+destinatari: Ospedale di Lamezia Terme
+fonte: https://www.gofundme.com/f/raccolta-fondi-covid19-ospedale-di-lamezia-terme?fbclid=IwAR2gUvAXo5xe0FnNGEPc8_FOx3xiDHC18QPA0RCiYt53TZyiZ8hqYHT4tMk
+provincia: Cosenza
+regione: Calabria
+tag: Raccolta fondi
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/87,578924984,2020-03-10 23:56:52,2020-03-10 23:50:06,Raccolta Fondi,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Club Service Catanzaro"", ""comune"": ""Catanzaro"", ""contatti"": """", ""descrizione"": ""Raccolta Fondi"", ""destinatari"": ""Azienda Ospedaliera \u201cPugliese-Ciaccio\u201d"", ""fonte"": ""https://www.gofundme.com/f/emergenza-covid19-aiutiamo-il-puglieseciaccio?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet&fbclid=IwAR1expolR3-WdZT3pG7XCrJVH401W8bcGI8unHh9b_X1Zv63PmufHsRac8A"", ""provincia"": ""Catanzaro"", ""regione"": ""Calabria"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Club Service Catanzaro
+comune: Catanzaro
+contatti: ''
+descrizione: Raccolta Fondi
+destinatari: ""Azienda Ospedaliera \u201CPugliese-Ciaccio\u201D""
+fonte: https://www.gofundme.com/f/emergenza-covid19-aiutiamo-il-puglieseciaccio?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet&fbclid=IwAR1expolR3-WdZT3pG7XCrJVH401W8bcGI8unHh9b_X1Zv63PmufHsRac8A
+provincia: Catanzaro
+regione: Calabria
+tag: Raccolta fondi
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/86,578924978,2020-03-10 23:56:51,2020-03-10 23:50:05,Raccolta Fondi,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Francesco Pecco Bagnaia"", ""comune"": ""Chivasso"", ""contatti"": """", ""descrizione"": ""Raccolta Fondi"", ""destinatari"": ""Citt\u00e0 della Salute di Torino "", ""fonte"": ""https://www.gofundme.com/f/exfz34-insieme-contro-il-virus?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet"", ""provincia"": ""Torino"", ""regione"": ""Piemonte"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Francesco Pecco Bagnaia
+comune: Chivasso
+contatti: ''
+descrizione: Raccolta Fondi
+destinatari: ""Citt\xE0 della Salute di Torino ""
+fonte: https://www.gofundme.com/f/exfz34-insieme-contro-il-virus?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet
+provincia: Torino
+regione: Piemonte
+tag: Raccolta fondi
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/85,578924968,2020-03-10 23:56:51,2020-03-10 23:50:04,"generi utili, come alimentari, gel igienizzanti e fazzoletti di carta per senzatetto e anziani",,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Comunit\u00e0 di Sant'Egidio"", ""comune"": ""Roma"", ""contatti"": """", ""descrizione"": ""generi utili, come alimentari, gel igienizzanti e fazzoletti di carta per senzatetto e anziani"", ""destinatari"": ""Comunit\u00e0 di Sant'Egidio"", ""fonte"": ""https://www.facebook.com/donate/503579490301582/10221812290241438/"", ""provincia"": ""Roma"", ""regione"": ""Lazio"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: ""Comunit\xE0 di Sant'Egidio""
+comune: Roma
+contatti: ''
+descrizione: generi utili, come alimentari, gel igienizzanti e fazzoletti di carta
+  per senzatetto e anziani
+destinatari: ""Comunit\xE0 di Sant'Egidio""
+fonte: https://www.facebook.com/donate/503579490301582/10221812290241438/
+provincia: Roma
+regione: Lazio
+tag: Raccolta fondi
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/84,578924963,2020-03-10 23:56:50,2020-03-10 23:50:03,donazione per l'ospedale di Bergamo,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""tifosi dell'Atalanta"", ""comune"": ""Bergamo"", ""contatti"": """", ""descrizione"": ""donazione per l'ospedale di Bergamo"", ""destinatari"": """", ""fonte"": ""https://www.inews24.it/2020/03/10/atalanta-solidarieta-tifosi-coronavirus-ospedale-bergamo/"", ""provincia"": ""Bergamo"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: tifosi dell'Atalanta
+comune: Bergamo
+contatti: ''
+descrizione: donazione per l'ospedale di Bergamo
+destinatari: ''
+fonte: https://www.inews24.it/2020/03/10/atalanta-solidarieta-tifosi-coronavirus-ospedale-bergamo/
+provincia: Bergamo
+regione: Lombardia
+tag: Raccolta fondi
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/83,578924958,2020-03-10 23:56:50,2020-03-10 23:50:02,potenziamento terapia intensiva,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""privata cittadina in collaborazione con azienda ospedaliera"", ""comune"": ""Ancona"", ""contatti"": """", ""descrizione"": ""potenziamento terapia intensiva"", ""destinatari"": ""Azienda Ospedali Riuniti di Torrette"", ""fonte"": ""https://www.gofundme.com/f/donazione-per-ospedale-torrette?utm_source=customer&utm_medium=copy_link&utm_campaign=m_pd+share-sheet"", ""provincia"": ""Ancona"", ""regione"": ""Marche"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: privata cittadina in collaborazione con azienda ospedaliera
+comune: Ancona
+contatti: ''
+descrizione: potenziamento terapia intensiva
+destinatari: Azienda Ospedali Riuniti di Torrette
+fonte: https://www.gofundme.com/f/donazione-per-ospedale-torrette?utm_source=customer&utm_medium=copy_link&utm_campaign=m_pd+share-sheet
+provincia: Ancona
+regione: Marche
+tag: Raccolta fondi
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/82,578924952,2020-03-10 23:56:50,2020-03-10 23:50:01,potenziamento attrezzature,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""ImpAct Associazione Culturale"", ""comune"": ""Jesi"", ""contatti"": """", ""descrizione"": ""potenziamento attrezzature"", ""destinatari"": ""Ospedale Carlo Urbani"", ""fonte"": ""https://it-it.facebook.com/associazioneimpact/"", ""provincia"": ""Ancona"", ""regione"": ""Marche"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: ImpAct Associazione Culturale
+comune: Jesi
+contatti: ''
+descrizione: potenziamento attrezzature
+destinatari: Ospedale Carlo Urbani
+fonte: https://it-it.facebook.com/associazioneimpact/
+provincia: Ancona
+regione: Marche
+tag: Raccolta fondi
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/81,578924939,2020-03-10 23:56:49,2020-03-10 23:49:59,potenziare i quantitativi di ventilatori polmonari e monitor multi parametrici.,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Barbara Palazzi"", ""comune"": """", ""contatti"": """", ""descrizione"": ""potenziare i quantitativi di ventilatori polmonari e monitor multi parametrici."", ""destinatari"": ""ospedali Puglia"", ""fonte"": ""https://www.gofundme.com/f/tztxv-rafforziamo-la-terapia-intensiva-a-bari?utm_source=facebook&utm_medium=social&utm_campaign=m_pd+share-sheet&fbclid=IwAR0HdYdw3_wA_a79mIxkgPdQShyluXmdyMFzV2KKkyhJPA69M97tsiw9oY4"", ""provincia"": """", ""regione"": ""Puglia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Barbara Palazzi
+comune: ''
+contatti: ''
+descrizione: potenziare i quantitativi di ventilatori polmonari e monitor multi parametrici.
+destinatari: ospedali Puglia
+fonte: https://www.gofundme.com/f/tztxv-rafforziamo-la-terapia-intensiva-a-bari?utm_source=facebook&utm_medium=social&utm_campaign=m_pd+share-sheet&fbclid=IwAR0HdYdw3_wA_a79mIxkgPdQShyluXmdyMFzV2KKkyhJPA69M97tsiw9oY4
+provincia: ''
+regione: Puglia
+tag: Raccolta fondi
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/80,578924934,2020-03-10 23:56:49,2020-03-10 23:49:59,acquisto di materiale di protezione per i volontari,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Croce Rossa Monza"", ""comune"": ""Monza"", ""contatti"": """", ""descrizione"": ""acquisto di materiale di protezione per i volontari"", ""destinatari"": ""tutt"", ""fonte"": ""https://www.gofundme.com/f/yqppre-cri-monza-coronavirus-2019"", ""provincia"": ""Monza"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Croce Rossa Monza
+comune: Monza
+contatti: ''
+descrizione: acquisto di materiale di protezione per i volontari
+destinatari: tutt
+fonte: https://www.gofundme.com/f/yqppre-cri-monza-coronavirus-2019
+provincia: Monza
+regione: Lombardia
+tag: Raccolta fondi
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/79,578924929,2020-03-10 23:56:48,2020-03-10 23:49:58,Raccolta fondi per Ospedali bresciani,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Fondazione Comunita Bresciana Onlus"", ""comune"": ""Brescia"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per Ospedali bresciani"", ""destinatari"": ""ospedali di Brescia"", ""fonte"": ""https://www.giornaledibrescia.it/brescia-e-hinterland/aiutiamobrescia-la-raccolta-fondi-per-gli-ospedali-bresciani-1.3465790?fbclid=IwAR0nAj44EoQXlyk9Cf22_L0wBojOPTtlOgizEHPZsVBp1JPNrAbMHuoGVRw"", ""provincia"": ""Brescia"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Fondazione Comunita Bresciana Onlus
+comune: Brescia
+contatti: ''
+descrizione: Raccolta fondi per Ospedali bresciani
+destinatari: ospedali di Brescia
+fonte: https://www.giornaledibrescia.it/brescia-e-hinterland/aiutiamobrescia-la-raccolta-fondi-per-gli-ospedali-bresciani-1.3465790?fbclid=IwAR0nAj44EoQXlyk9Cf22_L0wBojOPTtlOgizEHPZsVBp1JPNrAbMHuoGVRw
+provincia: Brescia
+regione: Lombardia
+tag: Raccolta fondi
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/78,578924921,2020-03-10 23:56:48,2020-03-10 23:49:57,"Raccolta fondi per acquisto di materiale di protezione individuale (mascherine FFP2/3, disinfettanti, tute protettive, guanti e occhiali) e altri presidi di tipo essenziale per l'implementazione dei protocolli d'emergenza.",,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Associazione Volontaria Croce Casalese e Paesi Limitrofi"", ""comune"": ""Lodi"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per acquisto di materiale di protezione individuale (mascherine FFP2/3, disinfettanti, tute protettive, guanti e occhiali) e altri presidi di tipo essenziale per l'implementazione dei protocolli d'emergenza."", ""destinatari"": ""residenti prov. Lodi"", ""fonte"": ""https://www.gofundme.com/f/vqmkx9-aiutaci-ad-aiutare?fbclid=IwAR2_nOU3wD4aWialN-fGVF8MfSpZG-iSFUYiQqMjgZU3NogavzdOP0nhzBY"", ""provincia"": ""Lodi"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Associazione Volontaria Croce Casalese e Paesi Limitrofi
+comune: Lodi
+contatti: ''
+descrizione: Raccolta fondi per acquisto di materiale di protezione individuale (mascherine
+  FFP2/3, disinfettanti, tute protettive, guanti e occhiali) e altri presidi di tipo
+  essenziale per l'implementazione dei protocolli d'emergenza.
+destinatari: residenti prov. Lodi
+fonte: https://www.gofundme.com/f/vqmkx9-aiutaci-ad-aiutare?fbclid=IwAR2_nOU3wD4aWialN-fGVF8MfSpZG-iSFUYiQqMjgZU3NogavzdOP0nhzBY
+provincia: Lodi
+regione: Lombardia
+tag: Raccolta fondi
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/77,578924918,2020-03-10 23:56:47,2020-03-10 23:49:56,Raccolta per Azienda Ospedaliera di Cosenza per l’acquisto di materiale medico e/o sanitario,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Alfredo Taranto"", ""comune"": ""Cosenza"", ""contatti"": """", ""descrizione"": ""Raccolta per Azienda Ospedaliera di Cosenza per l\u2019acquisto di materiale medico e/o sanitario"", ""destinatari"": ""Annunziata di Cosenza"", ""fonte"": ""https://www.gofundme.com/f/calabria-anticovid"", ""provincia"": ""Cosenza"", ""regione"": ""Calabria"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Alfredo Taranto
+comune: Cosenza
+contatti: ''
+descrizione: ""Raccolta per Azienda Ospedaliera di Cosenza per l\u2019acquisto di materiale\
+  \ medico e/o sanitario""
+destinatari: Annunziata di Cosenza
+fonte: https://www.gofundme.com/f/calabria-anticovid
+provincia: Cosenza
+regione: Calabria
+tag: Raccolta fondi
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/76,578924916,2020-03-10 23:56:47,2020-03-10 23:49:56,Donazione Osp. SantÓrsola-Malpighi,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Ospedale Sant\u00b4Orsola"", ""comune"": ""Bologna"", ""contatti"": """", ""descrizione"": ""Donazione Osp. Sant\u00d3rsola-Malpighi"", ""destinatari"": ""Ospedale Sant\u00b4Orsola"", ""fonte"": ""https://www.aosp.bo.it/content/fai-una-donazione?fbclid=IwAR2pTgWfhpFiOxEOTJEbbXWSisYdNrgoK9nOAHBImYSPmR1qG3iADLltu3s"", ""provincia"": ""Bologna"", ""regione"": ""Emilia Romagna"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: ""Ospedale Sant\xB4Orsola""
+comune: Bologna
+contatti: ''
+descrizione: ""Donazione Osp. Sant\xD3rsola-Malpighi""
+destinatari: ""Ospedale Sant\xB4Orsola""
+fonte: https://www.aosp.bo.it/content/fai-una-donazione?fbclid=IwAR2pTgWfhpFiOxEOTJEbbXWSisYdNrgoK9nOAHBImYSPmR1qG3iADLltu3s
+provincia: Bologna
+regione: Emilia Romagna
+tag: Raccolta fondi
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/75,578924911,2020-03-10 23:56:47,2020-03-10 23:49:55,#iorestoacasa: acquisto di altri presidi ospedalieri utili a supportare il lavoro di tutte le strutture sanitarie in Italia. ,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Save The Planet Onlus"", ""comune"": ""Italia"", ""contatti"": """", ""descrizione"": ""#iorestoacasa: acquisto di altri presidi ospedalieri utili a supportare il lavoro di tutte le strutture sanitarie in Italia. "", ""destinatari"": ""Protezione Civile"", ""fonte"": ""https://iorestoacasa.com/index.html?fbclid=IwAR3Ig4Q3J_y-FM8YggN5RwhkxFfpwEqwDf8kkUOP8_6gJiv23kWF-fYv3GE"", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Save The Planet Onlus
+comune: Italia
+contatti: ''
+descrizione: '#iorestoacasa: acquisto di altri presidi ospedalieri utili a supportare
+  il lavoro di tutte le strutture sanitarie in Italia. '
+destinatari: Protezione Civile
+fonte: https://iorestoacasa.com/index.html?fbclid=IwAR3Ig4Q3J_y-FM8YggN5RwhkxFfpwEqwDf8kkUOP8_6gJiv23kWF-fYv3GE
+provincia: Italia
+regione: Italia
+tag: Raccolta fondi
+</yamldata></pre>",open
