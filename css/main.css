@@ -797,12 +797,14 @@ div.segnala > li {
   content: '';
 }
 
-.homepage-categories .thumbnail {
-  display: inline-block;
-  min-width: 120px;
-  text-align: center;s
-  border: none;
-  padding: 10px;
+.homepage-categories, .theme-gallery {
+    text-align: center;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    padding: 0;
+    margin: 0;
+    list-style: none;
 }
 
 .homepage-categories .thumbnail img {
