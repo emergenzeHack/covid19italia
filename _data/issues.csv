@@ -178,10 +178,10 @@ provincia: Italia
 regione: Italia
 tag: ""Attivit\xE0 culturali e ricreative""
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/128,578926012,2020-03-11 11:19:45,2020-03-10 23:53:39,lettura giornaliera di tutto il Decamerone. dal 29 febbraio al 9 marzo.,,,"[""Attivit\u00e0 culturali e ricreative"", ""accettato""]",,,"{""chi"": ""lavoratori della cultura"", ""comune"": ""Italia"", ""contatti"": ""https://www.facebook.com/decamerone2020/"", ""descrizione"": ""lettura giornaliera di tutto il Decamerone. dal 29 febbraio al 9 marzo."", ""destinatari"": ""tutti"", ""fonte"": ""https://www.facebook.com/decamerone2020/"", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Attivit\u00e0 culturali e ricreative""}","<pre><yamldata>chi: lavoratori della cultura
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/128,578926012,2020-03-11 11:20:41,2020-03-10 23:53:39,Lettura giornaliera di tutto il Decamerone,,,"[""Attivit\u00e0 culturali e ricreative"", ""accettato""]",,,"{""chi"": ""lavoratori della cultura"", ""comune"": ""Italia"", ""contatti"": ""https://www.facebook.com/decamerone2020/"", ""descrizione"": ""Lettura giornaliera di tutto il Decamerone, dal 29 febbraio al 9 marzo."", ""destinatari"": ""tutti"", ""fonte"": ""https://www.facebook.com/decamerone2020/"", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Attivit\u00e0 culturali e ricreative""}","<pre><yamldata>chi: lavoratori della cultura
 comune: Italia
 contatti: https://www.facebook.com/decamerone2020/
-descrizione: lettura giornaliera di tutto il Decamerone. dal 29 febbraio al 9 marzo.
+descrizione: Lettura giornaliera di tutto il Decamerone, dal 29 febbraio al 9 marzo.
 destinatari: tutti
 fonte: https://www.facebook.com/decamerone2020/
 provincia: Italia
@@ -210,12 +210,12 @@ provincia: Italia
 regione: Italia
 tag: Informazioni utili
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/125,578925996,2020-03-10 23:56:06,2020-03-10 23:53:37,Storie lette ad alta voce,,,"[""Attivit\u00e0 culturali e ricreative"", ""accettato""]",,,"{""chi"": ""canale telegram @storiealtelefono "", ""comune"": ""Italia"", ""contatti"": ""canale telegram @storiealtelefono per ascoltare. canale telegram @vocistoriealtelefono per registrare storie"", ""descrizione"": ""Storie lette ad alta voce"", ""destinatari"": ""per tutti"", ""fonte"": ""https://www.radiocittafujiko.it/resistenza-al-coronavirus-2-le-storie-al-telefono-di-chi-e-senza-reddito/?fbclid=IwAR3IYyyk0MGzxtxM3TrI1kycHivJW8_ip1arTX-f3xRqWNvpQt_Bs0hS1_o"", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Attivit\u00e0 culturali e ricreative""}","<pre><yamldata>chi: 'canale telegram @storiealtelefono '
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/125,578925996,2020-03-11 11:24:40,2020-03-10 23:53:37,Su Telegram storie lette ad alta voce,,,"[""Attivit\u00e0 culturali e ricreative"", ""accettato""]",,,"{""chi"": ""canale telegram @storiealtelefono "", ""comune"": ""Italia"", ""contatti"": ""canale telegram @storiealtelefono per registrare storie"", ""descrizione"": ""Storie lette ad alta voce sul canale Telegram @storiealtelefono"", ""destinatari"": ""tutti"", ""fonte"": ""https://www.radiocittafujiko.it/resistenza-al-coronavirus-2-le-storie-al-telefono-di-chi-e-senza-reddito/?fbclid=IwAR3IYyyk0MGzxtxM3TrI1kycHivJW8_ip1arTX-f3xRqWNvpQt_Bs0hS1_o"", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Attivit\u00e0 culturali e ricreative""}","<pre><yamldata>chi: 'canale telegram @storiealtelefono '
 comune: Italia
-contatti: canale telegram @storiealtelefono per ascoltare. canale telegram @vocistoriealtelefono
+contatti: canale telegram @storiealtelefono
   per registrare storie
-descrizione: Storie lette ad alta voce
-destinatari: per tutti
+descrizione: Storie lette ad alta voce sul canale Telegram @storiealtelefono
+destinatari: tutti
 fonte: https://www.radiocittafujiko.it/resistenza-al-coronavirus-2-le-storie-al-telefono-di-chi-e-senza-reddito/?fbclid=IwAR3IYyyk0MGzxtxM3TrI1kycHivJW8_ip1arTX-f3xRqWNvpQt_Bs0hS1_o
 provincia: Italia
 regione: Italia
@@ -262,10 +262,10 @@ provincia: Ancona
 regione: Marche
 tag: Consegne e commissioni
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/95,578925335,2020-03-11 00:25:27,2020-03-10 23:51:11,"Programmazione no stop streaming di opere, concerti, spettacoli",,,"[""Attivit\u00e0 culturali e ricreative"", ""accettato""]",,,"{""chi"": ""Teatro Massimo di Palermo"", ""comune"": ""Palermo"", ""contatti"": ""http://www.teatromassimo.it/archivio/notizie/non-vi-lasciamo-senza-musica.html?fbclid=IwAR1198ZcrQqhR01PlAtzk9fSBDTTFVUdJc3h1sTB6PxGbvxwJLU66aW_uNg"", ""descrizione"": ""Programmazione no stop streaming di opere, concerti, spettacoli"", ""destinatari"": ""Tutti"", ""fonte"": """", ""provincia"": ""Pa"", ""regione"": ""Italia"", ""tag"": ""Servizi e iniziative solidali pubbliche""}","<pre><yamldata>chi: Teatro Massimo di Palermo
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/95,578925335,2020-03-11 11:21:29,2020-03-10 23:51:11,"Programmazione no stop streaming di opere, concerti, spettacoli",,,"[""Attivit\u00e0 culturali e ricreative"", ""accettato""]",,,{},"<pre><yamldata>chi: Teatro Massimo di Palermo
 comune: Palermo
 contatti: http://www.teatromassimo.it/archivio/notizie/non-vi-lasciamo-senza-musica.html?fbclid=IwAR1198ZcrQqhR01PlAtzk9fSBDTTFVUdJc3h1sTB6PxGbvxwJLU66aW_uNg
-descrizione: Programmazione no stop streaming di opere, concerti, spettacoli
+descrizione: Programmazione no stop streaming di opere, concerti, spettacoli. Ogni giorno viene comunicato il programma: un palinsesto di opere, concerti e spettacoli, visite guidate virtuali e nuove proposte per guardare avanti, in attesa di riaprire il teatro.
 destinatari: Tutti
 fonte: ''
 provincia: Pa
