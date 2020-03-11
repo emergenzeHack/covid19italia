@@ -28,4 +28,4 @@ Scrivi quì sotto il testo con cui spieghi passo passo come riproduci il bug
 <!--
 NON MODIFICARE: Metti una X quando sei certo che il bug sia stato risolto e sei contento :-)
 -->
-* [] Test effettuato
+* [ ] Test effettuato

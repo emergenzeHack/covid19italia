@@ -23,4 +23,4 @@ Scrivi quì sotto il testo che descrive lo sviluppo da effettuare
 <!--
 NON MODIFICARE: Metti una X quando sei certo che lo sviluppo sia stato completato e sei contento :-)
 -->
-* [] Test effettuato
+* [ ] Test effettuato
