@@ -169,7 +169,7 @@ provincia: Italia
 regione: Italia
 tag: Didattica a distanza
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/129,578926015,2020-03-11 11:04:58,2020-03-10 23:53:40,Visione gratuita film #Ischia Film Festival,,,"[""Attivit\u00e0 culturali e ricreative"", ""accettato""]",,,"{""chi"": ""Ischia Film Festival"", ""comune"": ""Italia"", ""contatti"": """", ""descrizione"": ""Visione libera e gratuita dei film in concorso a Ischia Film Festival"", ""destinatari"": ""tutti"", ""fonte"": ""http://www.ischiafilmfestival.it/index.php/it/iscrivere-un-film?fbclid=IwAR0UuphpaD8Cvw5Pv32kKuBy8aB9aQbGBDvAgdAPmQ6N4PcqHfs3pp5r5TM"", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Attivit\u00e0 culturali e ricreative""}","<pre><yamldata>chi: Ischia Film Festival
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/129,578926015,2020-03-11 11:05:13,2020-03-10 23:53:40,Visione gratuita film #Ischia Film Festival,,,"[""Attivit\u00e0 culturali e ricreative"", ""accettato""]",,,"{""chi"": ""Ischia Film Festival"", ""comune"": ""Italia"", ""contatti"": """", ""descrizione"": ""Visione libera e gratuita dei film in concorso a Ischia Film Festival"", ""destinatari"": ""tutti"", ""fonte"": ""http://www.ischiafilmfestival.it/index.php/it/iscrivere-un-film?fbclid=IwAR0UuphpaD8Cvw5Pv32kKuBy8aB9aQbGBDvAgdAPmQ6N4PcqHfs3pp5r5TM"", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Attivit\u00e0 culturali e ricreative""}","<pre><yamldata>chi: Ischia Film Festival
 comune: Italia
 contatti: ''
 descrizione: Visione libera e gratuita dei film in concorso a Ischia Film Festival
@@ -283,6 +283,16 @@ fonte: http://www.fondazionebergamo.it/news/sosteniamobergamo/
 provincia: Bergamo
 regione: Lombardia
 tag: Raccolta fondi
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/92,578925313,2020-03-11 11:09:28,2020-03-10 23:51:08,Elenco servizi digitali gratuiti per imprese e persone,,,"[""Servizi e iniziative solidali pubbliche"", ""accettato""]",,,"{""chi"": ""Agid - Solidariet\u00e0 digitale"", ""comune"": ""Italia"", ""contatti"": """", ""descrizione"": ""Sito che raccoglie tutti i servizi digitali gratuiti per imprese e cittadini"", ""destinatari"": ""Tutte e tutti"", ""fonte"": ""https://solidarietadigitale.agid.gov.it/?fbclid=IwAR3RRsTt948UxECBvv_YwnBsys7u9qmH0GFB-zToMxJwgEVz6iOghU4xmfM"", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Servizi e iniziative solidali pubbliche""}","<pre><yamldata>chi: ""Agid - Solidariet\xE0 digitale""
+comune: Italia
+contatti: ''
+descrizione: Sito che raccoglie tutti i servizi digitali gratuiti per imprese e cittadini
+destinatari: Tutte e tutti
+fonte: https://solidarietadigitale.agid.gov.it/?fbclid=IwAR3RRsTt948UxECBvv_YwnBsys7u9qmH0GFB-zToMxJwgEVz6iOghU4xmfM
+provincia: Italia
+regione: Italia
+tag: Servizi e iniziative solidali pubbliche
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/91,578925309,2020-03-11 11:03:52,2020-03-10 23:51:07,#Milano aiuta: indirizzo mail per raccogliere le iniziative a favore degli over 65,,,"[""Servizi e iniziative solidali pubbliche"", ""accettato""]",,,"{""chi"": ""Comune di Milano"", ""comune"": ""Milano"", ""contatti"": ""milanoaiuta@comune.milano.it"", ""descrizione"": ""Raccolta disponibilit\u00e0 per servizi di sostegno a anziani e altre persone che non possono uscire"", ""destinatari"": ""Over 65"", ""fonte"": ""https://www.comune.milano.it/-/politiche-sociali.-milano-aiuta-un-indirizzo-mail-per-raccogliere-le-iniziative-a-favore-degli-over-65"", ""provincia"": ""Milano"", ""regione"": ""Lombardia"", ""tag"": ""Servizi e iniziative solidali pubbliche""}","<pre><yamldata>chi: Comune di Milano
 comune: Milano
