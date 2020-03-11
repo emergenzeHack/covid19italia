@@ -26,5 +26,6 @@ Leggi come usare il repository nel nostro [WIKI](https://github.com/emergenzeHac
 
 ### Social
 
-- Twitter: TBD ?
-- Facebook: TBD ?
+- Twitter: https://twitter.com/ItaliaCovid19
+- Facebook: https://www.facebook.com/covid19italia.info
+- Instagram: https://www.instagram.com/covid19italia.info
