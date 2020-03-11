@@ -817,3 +817,23 @@ provincia: Milano
 regione: Lombardia
 tag: Raccolta fondi
 </yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/70,578924894,2020-03-11 16:58:01,2020-03-10 23:49:51,Raccolta fondi Caritas #Lodi ,,,"[""Raccolte fondi"", ""Sostegno lavoro e imprese"", ""accettato""]",,,"{""chi"": ""Caritas Lodi"", ""comune"": ""Lodi"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per supportare Centro Raccolta Solidale e per fondo a sostegno di chi ha perso il lavoro."", ""destinatari"": ""famiglie in difficolt\u00e0, disoccupati"", ""fonte"": ""http://caritas.diocesi.lodi.it/blog/2020/03/06/coronavirus/?fbclid=IwAR0v5jiNMfm3TPdtHChDL9_-Ixt1735vOqYuSHn8ihoGDpVaDK0xHOJO_74"", ""provincia"": ""Lodi"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Caritas Lodi
+comune: Lodi
+contatti: ''
+descrizione: Raccolta fondi per supportare Centro Raccolta Solidale e per fondo a sostegno di chi ha perso il lavoro.
+destinatari: famiglie in difficoltà, disoccupati
+fonte: http://caritas.diocesi.lodi.it/blog/2020/03/06/coronavirus/?fbclid=IwAR0v5jiNMfm3TPdtHChDL9_-Ixt1735vOqYuSHn8ihoGDpVaDK0xHOJO_74
+provincia: Lodi
+regione: Lombardia
+tag: Raccolta fondi
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/69,578924892,2020-03-11 16:59:26,2020-03-10 23:49:50,Raccolta fondi per terapia intensiva ospedale Vito Fazzi di #Lecce,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Luigi E. Conte & Co."", ""comune"": ""Lecce"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per aumentare i posti di terapia intensiva dell'ospedale Vito Fazzi e permettere all'ASL di Lecce l'acquisto di materiale destinati a contrastare la diffusione del virus in ambito sanitario."", ""destinatari"": ""Ospedale Vito Fazzi Lecce"", ""fonte"": ""https://www.gofundme.com/f/2dqhr-coronavirus-rafforziamo-la-terapia-intensiva?utm_medium=copy_link&utm_source=customer&utm_campaign=p_lico+share-sheet+exp4vb"", ""provincia"": ""Lecce"", ""regione"": ""Puglia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Luigi E. Conte & Co.
+comune: Lecce
+contatti: ''
+descrizione: Raccolta fondi per aumentare i posti di terapia intensiva dell'ospedale Vito Fazzi e permettere all'ASL di Lecce l'acquisto di materiale destinati a contrastare la diffusione del virus in ambito sanitario.
+destinatari: Ospedale Vito Fazzi Lecce
+fonte: https://www.gofundme.com/f/2dqhr-coronavirus-rafforziamo-la-terapia-intensiva?utm_medium=copy_link&utm_source=customer&utm_campaign=p_lico+share-sheet+exp4vb
+provincia: Lecce
+regione: Puglia
+tag: Raccolta fondi
+</yamldata></pre>",open
