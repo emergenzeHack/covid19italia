@@ -148,12 +148,11 @@ provincia: Italia
 regione: Italia
 tag: Consegne e commissioni
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/131,578926022,2020-03-10 23:56:07,2020-03-10 23:53:42,"Filastrocche al telefonino. Dal marzo al 3 aprile da lun a ven. Dalle 10 alle 11, dalle 16 alle 17",,,"[""Attivit\u00e0 culturali e ricreative"", ""accettato""]",,,"{""chi"": ""Livio Vianello"", ""comune"": ""Italia"", ""contatti"": ""Livio Vianello 331 9060795"", ""descrizione"": ""Filastrocche al telefonino. Dal marzo al 3 aprile da lun a ven. Dalle 10 alle 11, dalle 16 alle 17"", ""destinatari"": """", ""fonte"": """", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Attivit\u00e0 culturali e ricreative""}","<pre><yamldata>chi: Livio Vianello
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/131,578926022,2020-03-11 11:13:26,2020-03-10 23:53:42,"Filastrocche al telefonino. Dal marzo al 3 aprile da lun a ven. Dalle 10 alle 11, dalle 16 alle 17",,,"[""Attivit\u00e0 culturali e ricreative"", ""accettato""]",,,"{""chi"": ""Livio Vianello"", ""comune"": ""Italia"", ""contatti"": ""Livio Vianello 331 9060795"", ""descrizione"": ""Filastrocche al telefonino. Fino al 3 aprile da lun. a ven. dalle 10 alle 11, dalle 16 alle 17."", ""destinatari"": ""Bambini"", ""fonte"": """", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Attivit\u00e0 culturali e ricreative""}","<pre><yamldata>chi: Livio Vianello
 comune: Italia
 contatti: Livio Vianello 331 9060795
-descrizione: Filastrocche al telefonino. Dal marzo al 3 aprile da lun a ven. Dalle
-  10 alle 11, dalle 16 alle 17
-destinatari: ''
+descrizione: Filastrocche al telefonino. Fino al 3 aprile da lun. a ven. dalle 10 alle 11, dalle 16 alle 17.
+destinatari: 'Bambini'
 fonte: ''
 provincia: Italia
 regione: Italia
