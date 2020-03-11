@@ -30,13 +30,11 @@ provincia: Brescia
 regione: Lombardia
 tag: Raccolta fondi
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/142,578926074,2020-03-10 23:56:55,2020-03-10 23:53:51,"Raccolta fondi per acquistare per i propri presidi e per tutti gli ospedali della provincia di Brescia, materiali e dispositivi necessari alla cura dei pazienti colpiti da coronavirus",,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Fondazione Spedali Civili Brescia"", ""comune"": ""Brescia"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per acquistare per i propri presidi e per tutti gli ospedali della provincia di Brescia, materiali e dispositivi necessari alla cura dei pazienti colpiti da coronavirus"", ""destinatari"": ""Tutt"", ""fonte"": ""http://www.fondazionespedalicivili.it/2020/03/09/raccolta-donazioni-per-emergenza-coronavirus-brescia/"", ""provincia"": ""Brescia"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Fondazione Spedali Civili Brescia
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/142,578926074,2020-03-11 10:28:57,2020-03-10 23:53:51,Raccolta fondi per acquistare materiali e dispositivi destinati agli ospedali della provincia di #Brescia,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Fondazione Spedali Civili Brescia"", ""comune"": ""Brescia"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per acquistare per i presidi e tutti gli ospedali della provincia di Brescia materiali e dispositivi necessari alla cura dei pazienti colpiti da coronavirus."", ""destinatari"": ""Tutti"", ""fonte"": ""http://www.fondazionespedalicivili.it/2020/03/09/raccolta-donazioni-per-emergenza-coronavirus-brescia/"", ""provincia"": ""Brescia"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Fondazione Spedali Civili Brescia
 comune: Brescia
 contatti: ''
-descrizione: Raccolta fondi per acquistare per i propri presidi e per tutti gli ospedali
-  della provincia di Brescia, materiali e dispositivi necessari alla cura dei pazienti
-  colpiti da coronavirus
-destinatari: Tutt
+descrizione: Raccolta fondi per acquistare per i presidi e tutti gli ospedali della provincia di Brescia materiali e dispositivi necessari alla cura dei pazienti colpiti da coronavirus.
+destinatari: Tutti
 fonte: http://www.fondazionespedalicivili.it/2020/03/09/raccolta-donazioni-per-emergenza-coronavirus-brescia/
 provincia: Brescia
 regione: Lombardia
