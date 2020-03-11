@@ -23,13 +23,10 @@ description: Un progetto per condividere informazioni a supporto dell'emergenza 
 navbar-links:
   Segnala:
     - Segnalazioni: "segnala/"
-  Raccolte:
-    - Raccolte Fondi: "fondi/"
   Aggiornamenti:
     - Normativa nazionale: "normativa_nazionale/"
-  Servizi:
-    - Servizi e iniziative solidali: "servizi_e_iniziative_solidali/"
-    - Link Utili: "link_utili/"
+  Link Utili:
+    - Iniziative solidali: "servizi_e_iniziative_solidali/"
     - Opendata: "opendata/"
   Il Progetto:
    - About: "about/"
