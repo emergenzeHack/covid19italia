@@ -821,7 +821,7 @@ provincia: Ancona
 regione: Marche
 tag: Servizi e iniziative solidali pubbliche
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/93,578925322,2020-03-11 23:00:03,2020-03-10 23:51:09,Fondazione #Bergamo offre sostegno agli anziani soli e supporto alle famiglie con minori,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Fondazione Bergamo"", ""comune"": ""Bergamo"", ""contatti"": """", ""descrizione"": ""sostegno agli anziani in condizione di solitudine e isolamento preventivo e il supporto alle famiglie con minori"", ""destinatari"": ""over 65"", ""fonte"": ""http://www.fondazionebergamo.it/news/sosteniamobergamo/"", ""provincia"": ""Bergamo"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Fondazione Bergamo
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/93,578925322,2020-03-11 23:01:22,2020-03-10 23:51:09,Raccolta fondi Fondazione #Bergamo per sostegno anziani soli e famiglie con minori,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Fondazione Bergamo"", ""comune"": ""Bergamo"", ""contatti"": """", ""descrizione"": ""sostegno agli anziani in condizione di solitudine e isolamento preventivo e il supporto alle famiglie con minori"", ""destinatari"": ""over 65"", ""fonte"": ""http://www.fondazionebergamo.it/news/sosteniamobergamo/"", ""provincia"": ""Bergamo"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Fondazione Bergamo
 comune: Bergamo
 contatti: ''
 descrizione: sostegno agli anziani in condizione di solitudine e isolamento preventivo
@@ -842,7 +842,7 @@ provincia: Italia
 regione: Italia
 tag: Servizi e iniziative solidali pubbliche
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/91,578925309,2020-03-11 11:03:52,2020-03-10 23:51:07,#Milano aiuta: indirizzo mail per raccogliere le iniziative a favore degli over 65,,,"[""Servizi e iniziative solidali pubbliche"", ""accettato""]",,,"{""chi"": ""Comune di Milano"", ""comune"": ""Milano"", ""contatti"": ""milanoaiuta@comune.milano.it"", ""descrizione"": ""Raccolta disponibilit\u00e0 per servizi di sostegno a anziani e altre persone che non possono uscire"", ""destinatari"": ""Over 65"", ""fonte"": ""https://www.comune.milano.it/-/politiche-sociali.-milano-aiuta-un-indirizzo-mail-per-raccogliere-le-iniziative-a-favore-degli-over-65"", ""provincia"": ""Milano"", ""regione"": ""Lombardia"", ""tag"": ""Servizi e iniziative solidali pubbliche""}","<pre><yamldata>chi: Comune di Milano
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/91,578925309,2020-03-11 23:02:49,2020-03-10 23:51:07,Comune di #Milano: indirizzo mail per raccogliere iniziative a favore over 65,,,"[""Servizi e iniziative solidali pubbliche"", ""accettato""]",,,"{""chi"": ""Comune di Milano"", ""comune"": ""Milano"", ""contatti"": ""milanoaiuta@comune.milano.it"", ""descrizione"": ""Raccolta disponibilit\u00e0 per servizi di sostegno a anziani e altre persone che non possono uscire"", ""destinatari"": ""Over 65"", ""fonte"": ""https://www.comune.milano.it/-/politiche-sociali.-milano-aiuta-un-indirizzo-mail-per-raccogliere-le-iniziative-a-favore-degli-over-65"", ""provincia"": ""Milano"", ""regione"": ""Lombardia"", ""tag"": ""Servizi e iniziative solidali pubbliche""}","<pre><yamldata>chi: Comune di Milano
 comune: Milano
 contatti: milanoaiuta@comune.milano.it
 descrizione: ""Raccolta disponibilit\xE0 per servizi di sostegno a anziani e altre\
