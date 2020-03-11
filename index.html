@@ -4,6 +4,7 @@ title: Covid19Italia Help
 subtitle: Un progetto per condividere informazioni e attivarsi a supporto dell'emergenza COVID19
 ---
 
+<center>
 <div class="homepage-categories">
 {% assign categories_without_map = site.data.logos | where: "map", false %}
 {% for category in categories_without_map %}
@@ -14,7 +15,7 @@ subtitle: Un progetto per condividere informazioni e attivarsi a supporto dell'e
     {% endif %}
   {% endcapture %}
   {% assign logo_alt = logo_alt | strip %}
-  <a href="{{ site.baseurl }}/{{ category.link | slugify }}" class="thumbnail" title="{{ logo_alt }}">
+  <a href="{{ site.baseurl }}/{{ category.link | slugify }}" class="thumbnail col-md-2" title="{{ logo_alt }}">
     {% if category.logo and category.logo != empty %}
       <img src="{{ site.baseurl }}{{ category.logo }}" alt="{{ logo_alt }}">
     {% endif %}
@@ -22,6 +23,7 @@ subtitle: Un progetto per condividere informazioni e attivarsi a supporto dell'e
   </a>
 {% endfor %}
 </div>
+</center>
 
 <hr class="col-lg-12">
 
