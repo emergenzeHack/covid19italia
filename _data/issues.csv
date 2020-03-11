@@ -312,6 +312,26 @@ provincia: Ancona
 regione: Marche
 tag: ""Attivit\xE0 culturali e ricreative""
 </yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/112,578925943,2020-03-11 13:38:49,2020-03-10 23:53:26,Consegna a domicilio gratuita Coop #Milano,,,"[""Consegne e commissioni"", ""accettato""]",,,"{""chi"": ""Coop Milano"", ""comune"": ""Milano"", ""contatti"": """", ""descrizione"": ""Consegna a domicilio gratuita"", ""destinatari"": ""Over 65"", ""fonte"": ""https://www.partecipacoop.org/consegna-gratuita-della-spesa-a-domicilio-per-over-65/"", ""provincia"": ""Milano"", ""regione"": ""Lombardia"", ""tag"": ""Consegne e commissioni""}","<pre><yamldata>chi: Coop Milano
+comune: Milano
+contatti: ''
+descrizione: Consegna a domicilio gratuita
+destinatari: Over 65
+fonte: https://www.partecipacoop.org/consegna-gratuita-della-spesa-a-domicilio-per-over-65/
+provincia: Milano
+regione: Lombardia
+tag: Consegne e commissioni
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/111,578925939,2020-03-11 13:37:34,2020-03-10 23:53:25,Supporto telefonico Comune di #Milano,,,"[""Contatti utili"", ""accettato""]",,,"{""chi"": ""Comune di Milano"", ""comune"": ""Milano"", ""contatti"": ""02-0202"", ""descrizione"": ""Supporto telefonico Comune di Milano"", ""destinatari"": ""Residenti, domiciliati Comune di Milano"", ""fonte"": """", ""provincia"": ""Milano"", ""regione"": ""Lombardia"", ""tag"": ""Servizi e iniziative solidali pubbliche""}","<pre><yamldata>chi: Comune di Milano
+comune: Milano
+contatti: 02-0202
+descrizione: Supporto telefonico Comune di Milano
+destinatari: Residenti, domiciliati Comune di Milano
+fonte: ''
+provincia: Milano
+regione: Lombardia
+tag: Servizi e iniziative solidali pubbliche
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/110,578925935,2020-03-11 13:34:37,2020-03-10 23:53:24,Gruppo Facebook iniziative locali di solidarietà #Bologna,,,"[""Servizi e iniziative solidali private"", ""accettato""]",,,"{""chi"": ""Ospedale Bergamo"", ""comune"": ""Bologna"", ""contatti"": """", ""descrizione"": ""Gruppo Facebook per raccogliere iniziative locali di solidarieta\u00b4"", ""destinatari"": ""residenti a Bologna e provincia"", ""fonte"": ""https://www.facebook.com/groups/2260243707603221/"", ""provincia"": ""Bologna"", ""regione"": ""Emilia-Romagna"", ""tag"": ""Servizi e iniziative solidali private""}","<pre><yamldata>chi: Ospedale Bergamo
 comune: Bologna
 contatti: ''
@@ -343,6 +363,16 @@ fonte: https://www.facebook.com/quinteparallelerivista/posts/2701633279873178
 provincia: Italia
 regione: Italia
 tag: Didattica a distanza
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/107,578925917,2020-03-11 13:39:04,2020-03-10 23:53:21,Spesa a domicilio per anziani #Venezia ,,,"[""Consegne e commissioni"", ""accettato""]",,,"{""chi"": ""Gruppo Fb \""Venezia non e\u00b4Disneyland\"""", ""comune"": ""Venezia"", ""contatti"": """", ""descrizione"": ""Spesa a domicilio per anziani"", ""destinatari"": ""Over 65"", ""fonte"": ""https://www.facebook.com/VeneziaNONDisneyland/posts/2711708585782990"", ""provincia"": ""Venezia"", ""regione"": ""Veneto"", ""tag"": ""Consegne e commissioni""}","<pre><yamldata>chi: ""Gruppo Fb \""Venezia non e\xB4Disneyland\""""
+comune: Venezia
+contatti: ''
+descrizione: Spesa a domicilio per anziani
+destinatari: Over 65
+fonte: https://www.facebook.com/VeneziaNONDisneyland/posts/2711708585782990
+provincia: Venezia
+regione: Veneto
+tag: Consegne e commissioni
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/106,578925913,2020-03-11 13:22:00,2020-03-10 23:53:21,Consegna a domicilio libri #Bari (BA),,,"[""Consegne e commissioni"", ""accettato""]",,,"{""chi"": ""Libreria Spine"", ""comune"": ""Bari"", ""contatti"": ""spinebookstore@gmail.com"", ""descrizione"": ""Consegna a domicilio di libri"", ""destinatari"": ""Residenti a Bari"", ""fonte"": ""https://www.facebook.com/spinebookstore/"", ""provincia"": ""Bari"", ""regione"": ""Puglia"", ""tag"": ""Consegne e commissioni""}","<pre><yamldata>chi: Libreria Spine
 comune: Bari
