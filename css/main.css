@@ -798,9 +798,7 @@ div.segnala > li {
 }
 
 .homepage-categories .thumbnail {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
+  display: inline-block;
   min-width: 120px;
   text-align: center;s
   border: none;
