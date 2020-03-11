@@ -1,5 +1,5 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/164,579351957,2020-03-11 15:35:58,2020-03-11 15:31:46,CAV cittadini attivi #Brindisi,,,"[""Notizia"", ""accettato"", ""form""]",,,{},"```
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/164,579351957,2020-03-11 17:01:45,2020-03-11 15:31:46,A #Brindisi il centro antiviolenza rimane attivo,,,"[""Notizia"", ""accettato"", ""form""]",,,{},"```
 Cosa: 'CAV cittadini attivi #Brindisi'
 Descrizione: ""Dopo aver discusso insieme agli altri CAV della Regione Puglia, Brindisi\
   \ sta mantenendo aperto il servizio:\n-\tassistenza telefonica \n-\tda ieri stanno\
@@ -14,8 +14,8 @@ Descrizione: ""Dopo aver discusso insieme agli altri CAV della Regione Puglia, B
   \ luned\xEC, mercoled\xEC e venerd\xEC dalle 18.00 alle 20.00""
 Posizione: 40.63392 17.939713 0 0
 ```",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/163,579349963,2020-03-11 15:34:40,2020-03-11 15:29:08,CAV cittadini attivi #Bari,,,"[""Notizia"", ""accettato"", ""form""]",,,{},"```
-Cosa: 'CAV cittadini attivi #Bari'
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/163,579349963,2020-03-11 17:01:02,2020-03-11 15:29:08,A #Bari il centro antiviolenza rimane attivo,,,"[""Notizia"", ""accettato"", ""form""]",,,{},"```
+Cosa: 'centro antiviolenza Bari'
 Descrizione: ""I Centri Antiviolenza di BAri non si fermano. Di seguito i contatti:\n\
   \nCentro Antiviolenza del Comune di Bari:\nStrada S. Giorgio n. 21, Bari\nNumero\
   \ Verde: 800202330 (attivo h24) \nNumero di pubblica utilit\xE0: 1522 (attivo h24)\
@@ -27,6 +27,32 @@ https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/162,579331954
 Cosa: ""Gi\xF9 il muro: ilmanifesto.it gratis per tutti""
 Descrizione: Servizio gratuito di fruizione del quotidiano on-line (abbassato paywall)
 Link: https://ilmanifesto.it/giu-il-muro-ilmanifesto-it-gratis-per-tutti/
+```",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/157,579291637,2020-03-11 17:09:33,2020-03-11 14:08:29,Donazioni per presidio Osp. Spoke di #Corigliano-Rossano,,,"[""Raccolte fondi"", ""accettato""]",,,{},"```
+Descrizione: ""il ricavato verr\xE0 devoluto al presidio Ospedaliero Spoke di Corigliano\
+  \ Rossano per l\u2019acquisto di materiale medico e/o sanitario necessario a fronteggiare\
+  \ l\u2019emergenza COVID-19. Il materiale da acquistare verr\xE0 indicato dagli\
+  \ Spoke stessi secondo le proprie esigenze, da valutare anche alla luce della cifra\
+  \ finale che verr\xE0 raggiunta.  Al termine della raccolta verranno specificate\
+  \ le modalit\xE0 di erogazione e dimostrazione dell'avvenuta erogazione.""
+Destinatari: Presidio Osp. Spoke di Corigliano-Rossano
+Link: https://www.gofundme.com/f/covid19-ospedale-di-corigliano-rossano?utm_source=whatsapp-visit&utm_medium=chat&utm_campaign=p_cp+share-sheet
+Natura_dell_iniziativa: solidale
+Tipo_di_soggetto: privato
+Titolo: COVID-19 Presidio Osp. Spoke di Corigliano-Rossano
+```",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/156,579290146,2020-03-11 17:05:50,2020-03-11 14:06:20,Donazione per ASL #Cosenza,,,"[""Raccolte fondi"", ""accettato""]",,,{},"```
+Descrizione: ""Il ricavato verr\xE0 devoluto all\u2019Azienda Ospedaliera di Cosenza\
+  \ e sar\xE0 vincolato all\u2019acquisto di materiale medico e/o sanitario necessario\
+  \ a fronteggiare l\u2019emergenza COVID-19,\nquali attrezzature per l\u2019UTI,\
+  \ cpap, dispositivi di protezione (tute, mascherine e occhiali protettivi) e quant\u2019\
+  altro verr\xE0 ritenuto dall\u2019Azienda Ospedaliera stessa secondo le proprie\
+  \ esigenze, da valutare anche alla luce della cifra finale che verr\xE0 raggiunta.""
+Destinatari: Azienda Ospedaliera di Cosenza
+Link: https://www.gofundme.com/f/cosenza-anticovid?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet
+Natura_dell_iniziativa: solidale
+Tipo_di_soggetto: privato
+Titolo: Cosenza Anti-Covid
 ```",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/153,579250617,2020-03-11 14:32:23,2020-03-11 13:07:21,Iniziative culturali e ricreative #Firenze,,,"[""Iniziative culturali e ricreative"", ""accettato""]",,,{},"```
 Cosa: Todomodo (libreria - Firenze
