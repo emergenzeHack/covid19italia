@@ -2,14 +2,14 @@
   logo: /img/icone/11-comunicolpiti.png
   map: true
   link: mappa
-- name: PARTECIPA
-  logo: /img/icone/01-fabbisogni.png
-  map: false
-  link: 2020-03-10-sei-uno-sviluppatore-se-vuoi-aiutaci/
 - name: SEGNALA
   logo: /img/icone/segnala2-tci.png
   map: false
   link: segnala
+- name: PARTECIPA
+  logo: /img/icone/01-fabbisogni.png
+  map: false
+  link: 2020-03-10-sei-uno-sviluppatore-se-vuoi-aiutaci/
 - name: FONTI ISTITUZIONALI
   logo: /img/icone/tci-legge.png
   map: false
