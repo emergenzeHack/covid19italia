@@ -23,16 +23,19 @@ description: Un progetto per condividere informazioni a supporto dell'emergenza 
 navbar-links:
   Segnala:
     - Segnalazioni: "segnala/"
-  Aggiornamenti:
-    - Normativa nazionale: "normativa_nazionale/"
-  Link Utili:
-    - Iniziative solidali: "servizi_e_iniziative_solidali/"
-    - Opendata: "opendata/"
+  # Aggiornamenti:
+  #   - Normativa nazionale: "normativa_nazionale/"
+  # Link Utili:
+  #   - Iniziative solidali: "servizi_e_iniziative_solidali/"
+  #   - Opendata: "opendata/"
   Il Progetto:
    - About: "about/"
-   - Contribuisci: 'https://github.com/emergenzeHack/covid19italia/wiki" target="_blank'
   # - Press: "press/"
    - Canali di Comunicazione: "canali/"
+  Partecipa!:
+   - Aderisci al gruppo Telegram: 'https://t.me/covid19italia" target="_blank'
+   - Contribuisci su GitHub: 'https://github.com/emergenzeHack/covid19italia/wiki" target="_blank'
+  #  - Rilancia informazioni sui social: ''
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -46,8 +49,8 @@ avatar: /images/covid19italia.png
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: COVID19Italia
-  email: "mailto:covid19italia@gmail.com"
-  #facebook: groups/1758670357733881/  # eg. daattali
+  email: "mailto:covid19ita@gmail.com"
+  facebook: covid19italia.info  # eg. daattali
   github: emergenzeHack/covid19italia    # eg. daattali
   twitter: ItaliaCovid19   # eg. daattali
   #linkedin:   # eg. daattali
@@ -60,12 +63,16 @@ author:
   #medium: https://medium.com/@covid19italia
   #archiveorg: https://archive.org/details/@covid19italia
   #messenger: messenger
+  #telegram_bot: to do
+  #androidapp: to do
+  #messenger: to do
+  telegram_group: https://t.me/covid19italia
 
 # Select which links to show in the footer
 footer-links-active:
   androidapp: false
   rss: false
-  facebook: false
+  facebook: true
   email: false
   twitter: true
   github: true
@@ -78,13 +85,32 @@ footer-links-active:
   medium: false
   archiveorg: false
   messenger: false
+  waze: false
+  flickr: false
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: false
   google: false
+  androidapp: false
+  rss: false
+  facebook: true
+  email: false
+  twitter: true
+  github: true
   linkedin: false
+  xing: false
+  stackoverflow: false
+  instagram: true
+  youtube: false
+  telegram: true
+  medium: false
+  archiveorg: false
+  messenger: false
+  waze: false
+  flickr: false
+  telegram_bot: false
+  telegram_group: true
+  rss: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
