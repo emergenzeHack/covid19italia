@@ -329,6 +329,47 @@ provincia: ''
 regione: ''
 tag: Didattica a distanza
 </yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/101,578925850,2020-03-11 11:56:22,2020-03-10 23:53:05,Traduzione in comunicazione alternativa aumentativa decalogo Ministero della Salute,,,"[""Informazioni utili"", ""Servizi e iniziative solidali private"", ""accettato""]",,,"{""chi"": ""Anffas "", ""comune"": null, ""contatti"": """", ""descrizione"": ""Traduzione in comunicazione alternativa aumentativa decalogo Ministero della Salute."", ""destinatari"": ""persone con disabilit\u00e0 intellettiva"", ""fonte"": ""http://www.anffas.tn.it/component/k2/item/824-coronavirus.html"", ""provincia"": null, ""regione"": null, ""tag"": ""Sostegno al lavoro""}","<pre><yamldata>chi: 'Anffas '
+comune:
+contatti: ''
+descrizione: Traduzione in comunicazione alternativa aumentativa decalogo Ministero della Salute.
+destinatari: 'persone con disabilità intellettiva'
+fonte: http://www.anffas.tn.it/component/k2/item/824-coronavirus.html
+provincia: 
+regione: 
+tag: Sostegno al lavoro
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/100,578925845,2020-03-11 11:57:42,2020-03-10 23:53:04,Traduzione in 7 lingue decalogo Ministero della Salute,,,"[""Informazioni utili"", ""Servizi e iniziative solidali private"", ""accettato""]",,,"{""chi"": ""Comitato Abitanti San Siro, associazione Naga"", ""comune"": ""Milano"", ""contatti"": """", ""descrizione"": ""Traduzione in 7 lingue decalogo Ministero della Salute"", ""destinatari"": ""\u2018cittadini stranieri'"", ""fonte"": ""http://www.milanotoday.it/attualita/coronavirus/coronavirus-consigli-ministero-tradotti.html"", ""provincia"": ""Milano"", ""regione"": ""Lombardia "", ""tag"": ""Sostegno al lavoro""}","<pre><yamldata>chi: Comitato Abitanti San Siro, associazione Naga
+comune: Milano
+contatti: ''
+descrizione: Traduzione in 7 lingue decalogo Ministero della Salute
+destinatari: ‘cittadini stranieri'
+fonte: http://www.milanotoday.it/attualita/coronavirus/coronavirus-consigli-ministero-tradotti.html
+provincia: Milano
+regione: 'Lombardia '
+tag: Sostegno al lavoro
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/99,578925841,2020-03-11 12:01:05,2020-03-10 23:53:03,Streaming di comunità,,,"[""Attivit\u00e0 culturali e ricreative"", ""accettato""]",,,{},"<pre><yamldata>chi: Smk Videofactory
+comune: ''
+contatti: ''
+descrizione: ""Streaming di comunità: Una lunga programmazione di video, film e documentari per ribadire il valore della cultura dal basso e della sua diffusione. Senza dover pagare per forza.""
+destinatari: 'tutti’
+fonte: https://www.openddb.it/streaming-di-comunita/
+provincia: ''
+regione: ''
+tag: Sostegno al lavoro
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/98,578925353,2020-03-11 11:57:22,2020-03-10 23:51:13,Consegne a domicilio #Barrea (AQ),,,"[""Servizi e iniziative solidali pubbliche"", ""accettato""]",,,"{""chi"": ""Comune di Barrea"", ""comune"": ""Barrea"", ""contatti"": ""347 8533277"", ""descrizione"": ""servizio di consegna a domicilio della spesa alimentare, dei medicinali e di qualsiasi altro bene di prima necessit\u00e0. "", ""destinatari"": ""tutti"", ""fonte"": """", ""provincia"": ""L'Aquila"", ""regione"": ""Abruzzo"", ""tag"": ""Servizi e iniziative solidali pubbliche""}","<pre><yamldata>chi: Comune di Barrea
+comune: Barrea
+contatti: 347 8533277
+descrizione: ""servizio di consegna a domicilio della spesa alimentare, dei medicinali\
+  \ e di qualsiasi altro bene di prima necessit\xE0. ""
+destinatari: tutti
+fonte: ''
+provincia: L'Aquila
+regione: Abruzzo
+tag: Servizi e iniziative solidali pubbliche
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/97,578925348,2020-03-11 11:48:58,2020-03-10 23:51:12,Consegne a domicilio over 65 #Angera (VA),,,"[""Servizi e iniziative solidali pubbliche"", ""accettato""]",,,"{""chi"": ""Comune di Angera "", ""comune"": ""Angera"", ""contatti"": ""0331 932147"", ""descrizione"": ""L\u2019Amministrazione Comunale a tutela dei soggetti fragili e delle persone di et\u00e0 superiore ai 65 anni, che non hanno alcun sostegno da parte dei familiari, ha attivato un servizio di consegna a domicilio della spesa alimentare, dei medicinali e di qualsiasi altro bene di prima necessit\u00e0.  "", ""destinatari"": ""over 65"", ""fonte"": ""https://www.comune.angera.va.it/servizi/notizie/notizie_fase02.aspx?ID=11670"", ""provincia"": ""Varese"", ""regione"": ""Lombardia"", ""tag"": ""Servizi e iniziative solidali pubbliche""}","<pre><yamldata>chi: 'Comune di Angera '
 comune: Angera
 contatti: '0331 932147'
@@ -339,10 +380,10 @@ provincia: Varese
 regione: Lombardia
 tag: Servizi e iniziative solidali pubbliche
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/96,578925340,2020-03-11 11:25:05,2020-03-10 23:51:12,Lezioni di cinema online,,,"[""Servizi e iniziative solidali pubbliche"", ""accettato""]",,,"{""chi"": ""Cineteca di Bologna"", ""comune"": ""Bologna"", ""contatti"": ""https://festival.ilcinemaritrovato.it/lezioni-di-cinema-3/?fbclid=IwAR2jhW6RPJM-bWKMgIrv-_pFNvhA7rOHvCwiCjW9cwC-aV-aIImzs2XT6cA"", ""descrizione"": ""Lezioni di cinema on line tenute da grandi registi e attori"", ""destinatari"": ""Tutti"", ""fonte"": """", ""provincia"": ""Bologna"", ""regione"": ""Italia"", ""tag"": ""Servizi e iniziative solidali pubbliche""}","<pre><yamldata>chi: Cineteca di Bologna
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/96,578925340,2020-03-11 12:01:26,2020-03-10 23:51:12,Cineteca di #Bologna offre lezioni di cinema online,,,"[""Attivit\u00e0 culturali e ricreative"", ""Didattica a distanza esperienze e strumenti"", ""accettato""]",,,"{""chi"": ""Cineteca di Bologna"", ""comune"": ""Bologna"", ""contatti"": ""https://festival.ilcinemaritrovato.it/lezioni-di-cinema-3/?fbclid=IwAR2jhW6RPJM-bWKMgIrv-_pFNvhA7rOHvCwiCjW9cwC-aV-aIImzs2XT6cA"", ""descrizione"": ""Lezioni di cinema on line tenute da grandi registi e attori."", ""destinatari"": ""Tutti"", ""fonte"": """", ""provincia"": ""Bologna"", ""regione"": ""Italia"", ""tag"": ""Servizi e iniziative solidali pubbliche""}","<pre><yamldata>chi: Cineteca di Bologna
 comune: Bologna
 contatti: https://festival.ilcinemaritrovato.it/lezioni-di-cinema-3/?fbclid=IwAR2jhW6RPJM-bWKMgIrv-_pFNvhA7rOHvCwiCjW9cwC-aV-aIImzs2XT6cA
-descrizione: Lezioni di cinema on line tenute da grandi registi e attori
+descrizione: Lezioni di cinema on line tenute da grandi registi e attori.
 destinatari: Tutti
 fonte: ''
 provincia: Bologna
