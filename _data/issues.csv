@@ -380,7 +380,7 @@ provincia: Brescia
 regione: Lombardia
 tag: Servizi e iniziative solidali private
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/136,578926047,2020-03-11 14:34:14,2020-03-10 23:53:46,Spesa a domicilio per anziani #Catanzaro,,,"[""Consegne e commissioni"", ""accettato""]",,,"{""chi"": ""CSV"", ""comune"": ""Catanzaro"", ""contatti"": ""0961-790647 - info@csvcatanzaro.it"", ""descrizione"": ""Spesa a domicilio per anziani"", ""destinatari"": ""anziani over 65"", ""fonte"": ""https://www.comune.catanzaro.it/covid-19-concolino-insieme-a-csv-servizio-spesa-a-domicilio-per-over-75/?fbclid=IwAR3ZvwupnzgnW3p_rjGNnwqClc_jY1iWiYXq9m7dSRXYpZtqVPosm6slVSY"", ""provincia"": ""Catanzaro"", ""regione"": ""Calabria"", ""tag"": ""Consegne e commissioni""}","<pre><yamldata>chi: CSV
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/136,578926047,2020-03-11 22:49:19,2020-03-10 23:53:46,Spesa a domicilio per anziani #Catanzaro,,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato""]",,,"{""chi"": ""CSV"", ""comune"": ""Catanzaro"", ""contatti"": ""0961-790647 - info@csvcatanzaro.it"", ""descrizione"": ""Spesa a domicilio per anziani"", ""destinatari"": ""anziani over 65"", ""fonte"": ""https://www.comune.catanzaro.it/covid-19-concolino-insieme-a-csv-servizio-spesa-a-domicilio-per-over-75/?fbclid=IwAR3ZvwupnzgnW3p_rjGNnwqClc_jY1iWiYXq9m7dSRXYpZtqVPosm6slVSY"", ""provincia"": ""Catanzaro"", ""regione"": ""Calabria"", ""tag"": ""Consegne e commissioni""}","<pre><yamldata>chi: CSV
 comune: Catanzaro
 contatti: 0961-790647 - info@csvcatanzaro.it
 descrizione: Spesa a domicilio per anziani
