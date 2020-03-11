@@ -1,5 +1,5 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/146,579114701,2020-03-11 10:33:23,2020-03-11 09:16:45,Cineteca di #Milano ha reso gratuito catalogo film in streaming,,,"[""Attivit\u00e0 culturali e ricreative"", ""accettato""]",,,{},"```
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/146,579114701,2020-03-11 11:19:06,2020-03-11 09:16:45,Cineteca di #Milano ha reso gratuito catalogo film in streaming,,,"[""Attivit\u00e0 culturali e ricreative"", ""accettato""]",,,{},"```
 Cosa: Catalogo di film in streaming gratuiti
 Descrizione: ""La Fondazione Cineteca di Milano ha reso gratuito il catalogo in streaming\
   \ dei film. \xC8 sufficiente registrarsi.""
@@ -148,17 +148,17 @@ provincia: Italia
 regione: Italia
 tag: Consegne e commissioni
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/131,578926022,2020-03-11 11:13:26,2020-03-10 23:53:42,"Filastrocche al telefonino. Dal marzo al 3 aprile da lun a ven. Dalle 10 alle 11, dalle 16 alle 17",,,"[""Attivit\u00e0 culturali e ricreative"", ""accettato""]",,,"{""chi"": ""Livio Vianello"", ""comune"": ""Italia"", ""contatti"": ""Livio Vianello 331 9060795"", ""descrizione"": ""Filastrocche al telefonino. Fino al 3 aprile da lun. a ven. dalle 10 alle 11, dalle 16 alle 17."", ""destinatari"": ""Bambini"", ""fonte"": """", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Attivit\u00e0 culturali e ricreative""}","<pre><yamldata>chi: Livio Vianello
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/131,578926022,2020-03-11 11:17:50,2020-03-10 23:53:42,"Filastrocche al telefono, da lun. a ven. ore 10-11, 16-17",,,"[""Attivit\u00e0 culturali e ricreative"", ""accettato""]",,,"{""chi"": ""Livio Vianello"", ""comune"": ""Italia"", ""contatti"": ""Livio Vianello 331 9060795"", ""descrizione"": ""Filastrocche al telefono. Fino al 3 aprile da lun. a ven. dalle ore 10 alle 11, dalle 16 alle 17."", ""destinatari"": ""Bambini"", ""fonte"": """", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Attivit\u00e0 culturali e ricreative""}","<pre><yamldata>chi: Livio Vianello
 comune: Italia
 contatti: Livio Vianello 331 9060795
-descrizione: Filastrocche al telefonino. Fino al 3 aprile da lun. a ven. dalle 10 alle 11, dalle 16 alle 17.
+descrizione: Filastrocche al telefono. Fino al 3 aprile da lun. a ven. dalle ore 10 alle 11, dalle 16 alle 17.
 destinatari: 'Bambini'
 fonte: ''
 provincia: Italia
 regione: Italia
 tag: ""Attivit\xE0 culturali e ricreative""
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/130,578926017,2020-03-10 23:56:07,2020-03-10 23:53:41,"Fiabe, racconti, approfondimenti scolastici",,,"[""Didattica a distanza"", ""accettato""]",,,"{""chi"": ""Lezioni sul sof\u00e0"", ""comune"": ""Italia"", ""contatti"": """", ""descrizione"": ""Fiabe, racconti, approfondimenti scolastici"", ""destinatari"": ""tutti. Per et\u00e0 diverse"", ""fonte"": ""https://www.lezionisulsofa.it/?fbclid=IwAR2S3eR0btgrv3-O4CjeaUFogtFe2wTVsmXbrE_Y3YFSBu-o7VKbLPun9Vw"", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Didattica a distanza""}","<pre><yamldata>chi: ""Lezioni sul sof\xE0""
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/130,578926017,2020-03-11 11:19:01,2020-03-10 23:53:41,"Fiabe, racconti, approfondimenti scolastici a distanza",,,"[""Attivit\u00e0 culturali e ricreative"", ""Didattica a distanza"", ""accettato""]",,,"{""chi"": ""Lezioni sul sof\u00e0"", ""comune"": ""Italia"", ""contatti"": """", ""descrizione"": ""Fiabe, racconti, approfondimenti scolastici"", ""destinatari"": ""tutti. Per et\u00e0 diverse"", ""fonte"": ""https://www.lezionisulsofa.it/?fbclid=IwAR2S3eR0btgrv3-O4CjeaUFogtFe2wTVsmXbrE_Y3YFSBu-o7VKbLPun9Vw"", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Didattica a distanza""}","<pre><yamldata>chi: ""Lezioni sul sof\xE0""
 comune: Italia
 contatti: ''
 descrizione: Fiabe, racconti, approfondimenti scolastici
@@ -178,7 +178,7 @@ provincia: Italia
 regione: Italia
 tag: ""Attivit\xE0 culturali e ricreative""
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/128,578926012,2020-03-10 23:56:06,2020-03-10 23:53:39,lettura giornaliera di tutto il Decamerone. dal 29 febbraio al 9 marzo.,,,"[""Attivit\u00e0 culturali e ricreative"", ""accettato""]",,,"{""chi"": ""lavoratori della cultura"", ""comune"": ""Italia"", ""contatti"": ""https://www.facebook.com/decamerone2020/"", ""descrizione"": ""lettura giornaliera di tutto il Decamerone. dal 29 febbraio al 9 marzo."", ""destinatari"": ""tutti"", ""fonte"": ""https://www.facebook.com/decamerone2020/"", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Attivit\u00e0 culturali e ricreative""}","<pre><yamldata>chi: lavoratori della cultura
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/128,578926012,2020-03-11 11:19:45,2020-03-10 23:53:39,lettura giornaliera di tutto il Decamerone. dal 29 febbraio al 9 marzo.,,,"[""Attivit\u00e0 culturali e ricreative"", ""accettato""]",,,"{""chi"": ""lavoratori della cultura"", ""comune"": ""Italia"", ""contatti"": ""https://www.facebook.com/decamerone2020/"", ""descrizione"": ""lettura giornaliera di tutto il Decamerone. dal 29 febbraio al 9 marzo."", ""destinatari"": ""tutti"", ""fonte"": ""https://www.facebook.com/decamerone2020/"", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Attivit\u00e0 culturali e ricreative""}","<pre><yamldata>chi: lavoratori della cultura
 comune: Italia
 contatti: https://www.facebook.com/decamerone2020/
 descrizione: lettura giornaliera di tutto il Decamerone. dal 29 febbraio al 9 marzo.
