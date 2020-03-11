@@ -5,11 +5,8 @@ permalink: /issues/
 ---
 
 <div class="text-center">
-	<a href="#notizie-utili" class="btn btn-warning btn-lg" role="button">Notizie Utili</a>
-	<a href="#alloggi" class="btn btn-success btn-lg" role="button">Alloggi</a>
-	<a href="#donazioni" class="btn btn-danger btn-lg" role="button">Donazioni</a>
-	<a href="#fabbisogni" class="btn btn-primary btn-lg" role="button">Fabbisogni</a>
-	<a href="#raccolte-fondi" class="btn btn-primary btn-lg" role="button">Raccolte Fondi</a>
+	<a href="#raccolte-fondi" class="btn btn-warning btn-lg" role="button">Raccolte fondi</a>
+	<a href="#servizi-e-iniziative-solidali" class="btn btn-success btn-lg" role="button">Servizi e iniziative solidali</a>
 </div>
 
 ---
@@ -31,10 +28,9 @@ permalink: /issues/
 <div class="row"><div class="col-md-4">Longitudine</div><div class="col-md-4" id="lng"></div></div>
 
 ---
-
-# Notizie Utili
+# Raccolte fondi
 <div class="panel-group">
-{% assign filteredissues = site.data.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'Notizie Utili'"%}
+{% assign filteredissues = site.data.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'Raccolte fondi'"%}
 {% for member in filteredissues %}
 <div class="panel-body">
 <a href="{{site.url}}/issues/{{member.number}}" class="list-group-item">
@@ -44,11 +40,11 @@ permalink: /issues/
 <div class="panel-footer">
 <ul class="share-buttons">
   <li>Condividi:</li>
-  <li><a href="https://terremotocentroitalia.info/issues/{{ member.number | datapage_url: '.' }}" title="Copia link"><img alt="Copia link" src="/img/icone/link.png"></a></li>
-  <li><a href="https://www.facebook.com/sharer/sharer.php?u=https://terremotocentroitalia.info/issues/{{ member.number | datapage_url: '.' }}&title={{member.title|truncate:70|uri_escape}} | {{ site.title }}" title="Condividi su Facebook" target="_blank"><img alt="Condividi su Facebook" src="/img/icone/Facebook.png"></a></li>
-  <li><a href="https://twitter.com/intent/tweet?url=https://terremotocentroitalia.info/issues/{{ member.number | datapage_url: '.' }}&text={{member.title|truncate:50|uri_escape}}&via=terremotocentro&hashtags=terremotocentroitalia" target="_blank" title="Tweet"><img alt="Tweet" src="/img/icone/Twitter.png"></a></li>
- <li><a href="https://plus.google.com/share?url=https://terremotocentroitalia.info/issues/{{ member.number | datapage_url: '.' }}" target="_blank" title="Condividi su Google+"><img alt="Condividi su Google+" src="/img/icone/Google+.png"></a></li>
- <li><a data-proofer-ignore href="mailto:?subject={{member.title|truncate:70|uri_escape}} | {{site.title}}&body={{member.title|truncate:70|uri_escape}}%20Clicca qui:%20https://terremotocentroitalia.info/issues/{{ member.number | datapage_url: '.' }}" title="Invia email"><img alt="Invia email" src="/img/icone/Email.png"></a></li>
+  <li><a href="https://www.covid19italia.help/issues/{{ member.number | datapage_url: '.' }}" title="Copia link"><img alt="Copia link" src="/img/icone/link.png"></a></li>
+  <li><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.covid19italia.help/issues/{{ member.number | datapage_url: '.' }}&title={{member.title|truncate:70|uri_escape}} | {{ site.title }}" title="Condividi su Facebook" target="_blank"><img alt="Condividi su Facebook" src="/img/icone/Facebook.png"></a></li>
+  <li><a href="https://twitter.com/intent/tweet?url=https://www.covid19italia.help/issues/{{ member.number | datapage_url: '.' }}&text={{member.title|truncate:50|uri_escape}}&via=terremotocentro&hashtags=terremotocentroitalia" target="_blank" title="Tweet"><img alt="Tweet" src="/img/icone/Twitter.png"></a></li>
+ <li><a href="https://plus.google.com/share?url=https://www.covid19italia.help/issues/{{ member.number | datapage_url: '.' }}" target="_blank" title="Condividi su Google+"><img alt="Condividi su Google+" src="/img/icone/Google+.png"></a></li>
+ <li><a data-proofer-ignore href="mailto:?subject={{member.title|truncate:70|uri_escape}} | {{site.title}}&body={{member.title|truncate:70|uri_escape}}%20Clicca qui:%20https://www.covid19italia.help/issues/{{ member.number | datapage_url: '.' }}" title="Invia email"><img alt="Invia email" src="/img/icone/Email.png"></a></li>
 </ul>
 </div>
 </div>
@@ -57,9 +53,9 @@ permalink: /issues/
 
 ---
 
-# Alloggi
+# Servizi e iniziative solidali
 <div class="panel-group">
-{% assign filteredissues = site.data.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'Alloggi'"%}
+{% assign filteredissues = site.data.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'Servizi e iniziative solidali private' or member.issue.labels contains 'Servizi e iniziative solidali pubbliche'"%}
 {% for member in filteredissues %}
 <div class="panel-body">
 <a href="{{site.url}}/issues/{{member.number}}" class="list-group-item">
@@ -69,116 +65,17 @@ permalink: /issues/
 <div class="panel-footer">
 <ul class="share-buttons">
   <li>Condividi:</li>
-  <li><a href="https://terremotocentroitalia.info/issues/{{ member.number | datapage_url: '.' }}" title="Copia link"><img alt="Copia link" src="/img/icone/link.png"></a></li>
-  <li><a href="https://www.facebook.com/sharer/sharer.php?u=https://terremotocentroitalia.info/issues/{{ member.number | datapage_url: '.' }}&title={{member.title|truncate:70|uri_escape}} | {{ site.title }}" title="Condividi su Facebook" target="_blank"><img alt="Condividi su Facebook" src="/img/icone/Facebook.png"></a></li>
-  <li><a href="https://twitter.com/intent/tweet?url=https://terremotocentroitalia.info/issues/{{ member.number | datapage_url: '.' }}&text={{member.title|truncate:50|uri_escape}}&via=terremotocentro&hashtags=terremotocentroitalia" target="_blank" title="Tweet"><img alt="Tweet" src="/img/icone/Twitter.png"></a></li>
- <li><a href="https://plus.google.com/share?url=https://terremotocentroitalia.info/issues/{{ member.number | datapage_url: '.' }}" target="_blank" title="Condividi su Google+"><img alt="Condividi su Google+" src="/img/icone/Google+.png"></a></li>
- <li><a data-proofer-ignore href="mailto:?subject={{member.title|truncate:70|uri_escape}} | {{site.title}}&body={{member.title|truncate:70|uri_escape}}%20Clicca qui:%20https://terremotocentroitalia.info/issues/{{ member.number | datapage_url: '.' }}" title="Invia email"><img alt="Invia email" src="/img/icone/Email.png"></a></li>
+  <li><a href="https://www.covid19italia.help/issues/{{ member.number | datapage_url: '.' }}" title="Copia link"><img alt="Copia link" src="/img/icone/link.png"></a></li>
+  <li><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.covid19italia.help/issues/{{ member.number | datapage_url: '.' }}&title={{member.title|truncate:70|uri_escape}} | {{ site.title }}" title="Condividi su Facebook" target="_blank"><img alt="Condividi su Facebook" src="/img/icone/Facebook.png"></a></li>
+  <li><a href="https://twitter.com/intent/tweet?url=https://www.covid19italia.help/issues/{{ member.number | datapage_url: '.' }}&text={{member.title|truncate:50|uri_escape}}&via=terremotocentro&hashtags=terremotocentroitalia" target="_blank" title="Tweet"><img alt="Tweet" src="/img/icone/Twitter.png"></a></li>
+ <li><a href="https://plus.google.com/share?url=https://www.covid19italia.help/issues/{{ member.number | datapage_url: '.' }}" target="_blank" title="Condividi su Google+"><img alt="Condividi su Google+" src="/img/icone/Google+.png"></a></li>
+ <li><a data-proofer-ignore href="mailto:?subject={{member.title|truncate:70|uri_escape}} | {{site.title}}&body={{member.title|truncate:70|uri_escape}}%20Clicca qui:%20https://www.covid19italia.help/issues/{{ member.number | datapage_url: '.' }}" title="Invia email"><img alt="Invia email" src="/img/icone/Email.png"></a></li>
 </ul>
 </div>
 </div>
 {% endfor %}
 </div>
 
----
-
-# Donazioni
-<div class="panel-group">
-{% assign filteredissues = site.data.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'Donazioni'"%}
-{% for member in filteredissues %}
-<div class="panel-body">
-<a href="{{site.url}}/issues/{{member.number}}" class="list-group-item">
-	<h4 class="list-group-item-heading">{{member.title}}</h4>
-	<p class="list-group-item-text">{{member.issue.data.descrizione|markdownify}}</p>
-</a>
-<div class="panel-footer">
-<ul class="share-buttons">
-  <li>Condividi:</li>
-  <li><a href="https://terremotocentroitalia.info/issues/{{ member.number | datapage_url: '.' }}" title="Copia link"><img alt="Copia link" src="/img/icone/link.png"></a></li>
-  <li><a href="https://www.facebook.com/sharer/sharer.php?u=https://terremotocentroitalia.info/issues/{{ member.number | datapage_url: '.' }}&title={{member.title|truncate:70|uri_escape}} | {{ site.title }}" title="Condividi su Facebook" target="_blank"><img alt="Condividi su Facebook" src="/img/icone/Facebook.png"></a></li>
-  <li><a href="https://twitter.com/intent/tweet?url=https://terremotocentroitalia.info/issues/{{ member.number | datapage_url: '.' }}&text={{member.title|truncate:50|uri_escape}}&via=terremotocentro&hashtags=terremotocentroitalia" target="_blank" title="Tweet"><img alt="Tweet" src="/img/icone/Twitter.png"></a></li>
- <li><a href="https://plus.google.com/share?url=https://terremotocentroitalia.info/issues/{{ member.number | datapage_url: '.' }}" target="_blank" title="Condividi su Google+"><img alt="Condividi su Google+" src="/img/icone/Google+.png"></a></li>
- <li><a data-proofer-ignore href="mailto:?subject={{member.title|truncate:70|uri_escape}} | {{site.title}}&body={{member.title|truncate:70|uri_escape}}%20Clicca qui:%20https://terremotocentroitalia.info/issues/{{ member.number | datapage_url: '.' }}" title="Invia email"><img alt="Invia email" src="/img/icone/Email.png"></a></li>
-</ul>
-</div>
-</div>
-{% endfor %}
-</div>
-
----
-
-# Fabbisogni
-<div class="panel-group">
-{% assign filteredissues = site.data.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'Fabbisogni'"%}
-{% for member in filteredissues %}
-<div class="panel-body">
-<a href="{{site.url}}/issues/{{member.number}}" class="list-group-item">
-	<h4 class="list-group-item-heading">{{member.title}}</h4>
-	<p class="list-group-item-text">{{member.issue.data.descrizione|markdownify}}</p>
-</a>
-<div class="panel-footer">
-<ul class="share-buttons">
-  <li>Condividi:</li>
-  <li><a href="https://terremotocentroitalia.info/issues/{{ member.number | datapage_url: '.' }}" title="Copia link"><img alt="Copia link" src="/img/icone/link.png"></a></li>
-  <li><a href="https://www.facebook.com/sharer/sharer.php?u=https://terremotocentroitalia.info/issues/{{ member.number | datapage_url: '.' }}&title={{member.title|truncate:70|uri_escape}} | {{ site.title }}" title="Condividi su Facebook" target="_blank"><img alt="Condividi su Facebook" src="/img/icone/Facebook.png"></a></li>
-  <li><a href="https://twitter.com/intent/tweet?url=https://terremotocentroitalia.info/issues/{{ member.number | datapage_url: '.' }}&text={{member.title|truncate:50|uri_escape}}&via=terremotocentro&hashtags=terremotocentroitalia" target="_blank" title="Tweet"><img alt="Tweet" src="/img/icone/Twitter.png"></a></li>
- <li><a href="https://plus.google.com/share?url=https://terremotocentroitalia.info/issues/{{ member.number | datapage_url: '.' }}" target="_blank" title="Condividi su Google+"><img alt="Condividi su Google+" src="/img/icone/Google+.png"></a></li>
- <li><a data-proofer-ignore href="mailto:?subject={{member.title|truncate:70|uri_escape}} | {{site.title}}&body={{member.title|truncate:70|uri_escape}}%20Clicca qui:%20https://www.covid19italia.info/issues/{{ member.number | datapage_url: '.' }}" title="Invia email"><img alt="Invia email" src="/img/icone/Email.png"></a></li>
-</ul>
-</div>
-</div>
-{% endfor %}
-</div>
-
----
-
-# Raccolte Fondi
-<div class="panel-group">
-{% assign filteredissues = site.data.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'Raccolte Fondi'"%}
-{% for member in filteredissues %}
-<div class="panel-body">
-<a href="{{site.url}}/issues/{{member.number}}" class="list-group-item">
-	<h4 class="list-group-item-heading">{{member.title}}</h4>
-	<p class="list-group-item-text">{{member.issue.data.descrizione|markdownify}}</p>
-</a>
-<div class="panel-footer">
-<ul class="share-buttons">
-  <li>Condividi:</li>
-  <li><a href="https://www.covid19italia.info/issues/{{ member.number | datapage_url: '.' }}" title="Copia link"><img alt="Copia link" src="/img/icone/link.png"></a></li>
-  <li><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.covid19italia.info/issues/{{ member.number | datapage_url: '.' }}&title={{member.title|truncate:70|uri_escape}} | {{ site.title }}" title="Condividi su Facebook" target="_blank"><img alt="Condividi su Facebook" src="/img/icone/Facebook.png"></a></li>
-  <li><a href="https://twitter.com/intent/tweet?url=https://www.covid19italia.info/issues/{{ member.number | datapage_url: '.' }}&text={{member.title|truncate:50|uri_escape}}&via=terremotocentro&hashtags=terremotocentroitalia" target="_blank" title="Tweet"><img alt="Tweet" src="/img/icone/Twitter.png"></a></li>
- <li><a href="https://plus.google.com/share?url=https://www.covid19italia.info/issues/{{ member.number | datapage_url: '.' }}" target="_blank" title="Condividi su Google+"><img alt="Condividi su Google+" src="/img/icone/Google+.png"></a></li>
- <li><a data-proofer-ignore href="mailto:?subject={{member.title|truncate:70|uri_escape}} | {{site.title}}&body={{member.title|truncate:70|uri_escape}}%20Clicca qui:%20https://www.covid19italia.info/issues/{{ member.number | datapage_url: '.' }}" title="Invia email"><img alt="Invia email" src="/img/icone/Email.png"></a></li>
-</ul>
-</div>
-</div>
-{% endfor %}
-</div>
-
----
-
-# Bollettino
-<div class="panel-group">
-{% assign filteredissues = site.data.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'Bollettino'"%}
-{% for member in filteredissues %}
-<div class="panel-body">
-<a href="{{site.url}}/issues/{{member.number}}" class="list-group-item">
-	<h4 class="list-group-item-heading">{{member.title}}</h4>
-	<p class="list-group-item-text">{{member.issue.data.descrizione|markdownify}}</p>
-</a>
-<div class="panel-footer">
-<ul class="share-buttons">
-  <li>Condividi:</li>
-  <li><a href="https://www.covid19italia.info/issues/{{ member.number | datapage_url: '.' }}" title="Copia link"><img alt="Copia link" src="/img/icone/link.png"></a></li>
-  <li><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.covid19italia.info/issues/{{ member.number | datapage_url: '.' }}&title={{member.title|truncate:70|uri_escape}} | {{ site.title }}" title="Condividi su Facebook" target="_blank"><img alt="Condividi su Facebook" src="/img/icone/Facebook.png"></a></li>
-  <li><a href="https://twitter.com/intent/tweet?url=https://www.covid19italia.info/issues/{{ member.number | datapage_url: '.' }}&text={{member.title|truncate:50|uri_escape}}&via=terremotocentro&hashtags=terremotocentroitalia" target="_blank" title="Tweet"><img alt="Tweet" src="/img/icone/Twitter.png"></a></li>
- <li><a href="https://plus.google.com/share?url=https://www.covid19italia.info/issues/{{ member.number | datapage_url: '.' }}" target="_blank" title="Condividi su Google+"><img alt="Condividi su Google+" src="/img/icone/Google+.png"></a></li>
- <li><a data-proofer-ignore href="mailto:?subject={{member.title|truncate:70|uri_escape}} | {{site.title}}&body={{member.title|truncate:70|uri_escape}}%20Clicca qui:%20https://www.covid19italia.info/issues/{{ member.number | datapage_url: '.' }}" title="Invia email"><img alt="Invia email" src="/img/icone/Email.png"></a></li>
-</ul>
-</div>
-</div>
-{% endfor %}
-</div>
 
 <script>
 var markerList=[];

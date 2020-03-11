@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Raccolte Fondi
-permalink: /fondi/
+title: Servizi e iniziative solidali private
+permalink: /servizi-e-iniziative-solidali-private/
 ---
 <div class="panel-group">
-{% assign filteredissues = site.data.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'Raccolte fondi'"%}
+{% assign filteredissues = site.data.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'Servizi e iniziative solidali private'"%}
 {% for member in filteredissues %}
 <div class="panel-body">
 <a href="/issues/{{ member.number | datapage_url: '.' }}" class="list-group-item">

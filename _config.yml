@@ -8,7 +8,7 @@
 #baseurl: "http://covid19italia.info"
 
 #baseurl: "https://github.com/emergenzeha/COVID19"
-url: "http://covid19italia.info"
+url: "https://covid19italia.info"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
@@ -23,33 +23,15 @@ description: Un progetto per condividere informazioni a supporto dell'emergenza 
 navbar-links:
   Segnala:
     - Segnalazioni: "segnala/"
-  Richieste:
-    - Fabbisogni: "fabbisogni/"
-    - Cerco Lavoro: "cerco_lavoro/"
-  Offerte:
-    - Risorse: "risorse-disponibili/"
-    - Alloggi: "alloggi/"
-    - Offro Lavoro: "offro_lavoro/"
-    - Ospitalità animali: "ospitalita_animali/"
-  Raccolte:
-    - Raccolte Fondi: "fondi/"
-    - Acquisti Solidali: "acquistisolidali/"
   Aggiornamenti:
-    - News: "news/"
-    - Eventi: "eventi/"
-    - Blog: "post/"
-    - Storie: "storie/"
-    - Vittime: "vittime/"
-    - Bufale: "bufale/"
-  Utilità:
-    #- Mappa: "mappa/"
-    - Dashboard: "dashboard/"
+    - Normativa nazionale: "normativa_nazionale/"
+  Link Utili:
+    - Iniziative solidali: "servizi_e_iniziative_solidali/"
     - Opendata: "opendata/"
-    - Link e contatti utili: "link_utili/"
   Il Progetto:
    - About: "about/"
    - Contribuisci: 'https://github.com/emergenzeHack/covid19italia/wiki" target="_blank'
-   - Press: "press/"
+  # - Press: "press/"
   #- Canali di Comunicazione: "canali/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -64,17 +46,17 @@ avatar: /images/covid19italia.png
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: COVID19Italia
-  #email: "youremail@domain.com"
+  email: "mailto:covid19italia@gmail.com"
   #facebook: groups/1758670357733881/  # eg. daattali
   github: emergenzeHack/covid19italia    # eg. daattali
   twitter: ItaliaCovid19   # eg. daattali
   #linkedin:   # eg. daattali
   #xing:       # eg. daattali
   #stackoverflow:   # eg. "3943160/daattali"
-  #instagram: covid19italia # eg. daattali
+  instagram: covid19italia.info # eg. daattali
   #youtube: yourlink # eg. user/daattali or channel/daattali
   #rss: https://emergenzehack.github.io/covid19italia/feed.xml
-  #telegram: https://telegram.me/covid19italia
+  telegram: https://t.me/COVID19I
   #medium: https://medium.com/@covid19italia
   #archiveorg: https://archive.org/details/@covid19italia
   #messenger: messenger
@@ -90,9 +72,9 @@ footer-links-active:
   linkedin: false
   xing: false
   stackoverflow: false
-  instagram: false
+  instagram: true
   youtube: false
-  telegram: false
+  telegram: true
   medium: false
   archiveorg: false
   messenger: false
@@ -221,18 +203,21 @@ collections:
   storie:
     output: true
 
-page_gen-dirs: true # uncomment, if you prefer to generate named folders
-page_gen:
-  - data: issuesjson
-    template: issue
-    name: number
-    dir: issues
-
 gems:
   - jekyll-paginate
+  - jekyll-datapage-generator
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-tidy
+
+page_gen-dirs: true # uncomment, if you prefer to generate named folders
+page_gen:
+    - index_files: false
+      data: issuesjson
+      template: issue
+      name: number
+      dir: issues
+
 
 jekyll_tidy:
   exclude: []

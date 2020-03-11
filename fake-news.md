@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Bufale
-permalink: /bufale/
+title: Fake News
+permalink: /fake-news/
 ---
 <div class="panel-group">
 {% assign filteredissues = site.data.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'Bufale'"%}

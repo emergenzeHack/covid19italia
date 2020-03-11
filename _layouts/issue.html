@@ -14,55 +14,15 @@ layout: base
   <div class="row"> <div class="col-md-2">Stato della segnalazione:</div> <div class="col-md-10"> {{page.state}}</div> </div>
   <div class="row"> <div class="col-md-2">Descrizione:</div> <div class="col-md-10">{% if page.issue.data.descrizione != blank %} {{page.issue.data.descrizione | markdownify}} {% else %} {{page.issue.data.Testo | markdownify}} {% endif %}</div> </div>
 
-  {% if page.issue.data.tel != blank %}
-  <div class="row"> <div class="col-md-2">Telefono:</div> <div class="col-md-10"> <a href="tel:{{page.issue.data.tel}}">{{page.issue.data.tel}}</a></div> </div>
-  {% endif %}
-  {% if page.issue.data.email != blank %}
-  <div class="row"> <div class="col-md-2">Email:</div> <div class="col-md-10"> <a href="mailto:{{page.issue.data.email}}">{{page.issue.data.email}}</a></div> </div>
-  {% endif %}
 
-  {% if page.issue.data.intestazione != blank %}
-  <div class="row"> <div class="col-md-2">Intestazione:</div> <div class="col-md-10"> {{page.issue.data.intestazione}}</div> </div>
+                <dl class="row">
+                    {% for item in page.issue.data %}
+  {% if item[1] != blank %}
+  <dt class="col-sm-3">{{item[0]}}</dt>
+  <dd class="col-sm-9">{{item[1]}}</dd>
   {% endif %}
-
-  {% if page.issue.data.promotore != blank %}
-  <div class="row"> <div class="col-md-2">Promotore:</div> <div class="col-md-10"> {{page.issue.data.promotore}}</div> </div>
-  {% endif %}
-
-  {% if page.issue.data.data_evento != blank %}
-  <div class="row"> <div class="col-md-2">Data Evento:</div> <div class="col-md-10"> {{page.issue.data.data_evento}}</div> </div>
-  {% endif %}
-
-  {% if page.issue.data.ora_evento != blank %}
-  <div class="row"> <div class="col-md-2">Ora Evento:</div> <div class="col-md-10"> {{page.issue.data.ora_evento}}</div> </div>
-  {% endif %}
-
-  {% if page.issue.data.iban != blank %}
-  <div class="row"> <div class="col-md-2">IBAN:</div> <div class="col-md-10"> {{page.issue.data.iban}}</div> </div>
-  {% endif %}
-
-  {% if page.issue.data.bic != blank %}
-  <div class="row"> <div class="col-md-2">BIC:</div> <div class="col-md-10"> {{page.issue.data.bic}}</div> </div>
-  {% endif %}
-
-  {% if page.issue.data.postale != blank %}
-  <div class="row"> <div class="col-md-2">Postale:</div> <div class="col-md-10"> {{page.issue.data.postale}}</div></div>
-  {% endif %}
-
-  {% if page.issue.data.causale != blank %}
-  <div class="row"> <div class="col-md-2">Causale:</div> <div class="col-md-10"> {{page.issue.data.causale}}</div> </div>
-  {% endif %}
-
-  {% if page.issue.image != blank %}
-  <div class="row"> <div class="col-md-2">Immagine:</div> <div class="col-md-10"> <img alt="immagine" src="{{page.issue.image}}"></img> </div> </div>
-  {% endif %}
-  {% if page.issue.data.link != blank %}
-  <div class="row"> <div class="col-md-2">Link Fonte:</div> <div class="col-md-10"> <a href="{{page.issue.data.link}}">{{page.issue.data.link}}</a></div> </div>
-  {% endif %}
-
-  {% if page.issue.data.indirizzo != blank %}
-  <div class="row"> <div class="col-md-2">Indirizzo:</div> <div class="col-md-10"> {{page.issue.data.indirizzo}}</div> </div>
-  {% endif %}
+  {% endfor %}
+                </dl>
 
   {% if page.issue.lat != blank %}
   <div class="row"> <div class="col-md-2">latitudine:</div> <div class="col-md-10"> {{page.issue.lat}} </div> </div>

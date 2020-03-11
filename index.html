@@ -1,20 +1,25 @@
 ---
 layout: homepage
 title: Covid19Italia Help
-subtitle: Un progetto per condividere informazioni a supporto dell'emergenza COVID19
+subtitle: Un progetto per condividere informazioni e attivarsi a supporto dell'emergenza COVID19
 ---
 
 <div class="homepage-categories">
-{% for category in site.data.logos %}
-  {% if category.map == false %}
-    {% capture logo_alt %}{{ category.name }}{% if category.logo_credit and category.logo_credit != empty %} logo by {{ category.logo_credit }}{% endif %}{% endcapture %}
-    <a href="{{ site.baseurl }}/{{ category.link | slugify }}" class="thumbnail" title="{{ logo_alt }}">
-      {% if category.logo and category.logo != empty %}
-        <img src="{{ site.baseurl }}{{ category.logo }}" alt="{{ logo_alt }}">
-      {% endif %}
-      {{ category.name }}
-    </a>
-  {% endif %}
+{% assign categories_without_map = site.data.logos | where: "map", false %}
+{% for category in categories_without_map %}
+  {% capture logo_alt %}
+    {{ category.name }}
+    {% if category.logo_credit and category.logo_credit != empty %}
+      logo by {{ category.logo_credit }}
+    {% endif %}
+  {% endcapture %}
+  {% assign logo_alt = logo_alt | strip %}
+  <a href="{{ site.baseurl }}/{{ category.link | slugify }}" class="thumbnail" title="{{ logo_alt }}">
+    {% if category.logo and category.logo != empty %}
+      <img src="{{ site.baseurl }}{{ category.logo }}" alt="{{ logo_alt }}">
+    {% endif %}
+    {{ category.name }}
+  </a>
 {% endfor %}
 </div>
 
@@ -31,19 +36,9 @@ subtitle: Un progetto per condividere informazioni a supporto dell'emergenza COV
                     <label for="labelchoice">Categoria</label>
                     <select class="form-control" id="labelchoice" name="label">
                         <option value=""></option>
-                        <option value="Alloggi">Alloggi</option>
-                        <option value="Cerco lavoro">Cerco lavoro</option>
-                        <option value="Offro lavoro">Offro lavoro</option>
-                        <option value="acquisto solidale">Acquisto Solidale</option>
-                        <option value="Bambini">Bambini</option>
-                        <option value="Bollettino">Bollettino</option>
-                        <option value="Bufale">Bufale</option>
-                        <option value="Contatti">Contatti</option>
-                        <option value="Donazioni">Donazioni</option>
-                        <option value="Fabbisogni">Fabbisogni</option>
-                        <option value="Notizie Utili">Notizie Utili</option>
-                        <option value="Ospitalita animali">Ospitalità animali</option>
-                        <option value="Raccolte Fondi">Raccolte Fondi</option>
+                        <option value="Normativa nazionale">Normativa nazionale</option>
+                        <option value="Servizi e iniziative solidali">Servizi e iniziative solidali</option>
+                        <option value="Raccolte fondi">Raccolte fondi</option>
                     </select>
                 </div>
                 <div class="form-group">
