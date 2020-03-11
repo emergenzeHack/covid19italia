@@ -339,9 +339,9 @@ provincia:
 regione: 
 tag: Sostegno al lavoro
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/100,578925845,2020-03-11 11:57:42,2020-03-10 23:53:04,Traduzione in 7 lingue decalogo Ministero della Salute,,,"[""Informazioni utili"", ""Servizi e iniziative solidali private"", ""accettato""]",,,"{""chi"": ""Comitato Abitanti San Siro, associazione Naga"", ""comune"": ""Milano"", ""contatti"": """", ""descrizione"": ""Traduzione in 7 lingue decalogo Ministero della Salute"", ""destinatari"": ""\u2018cittadini stranieri'"", ""fonte"": ""http://www.milanotoday.it/attualita/coronavirus/coronavirus-consigli-ministero-tradotti.html"", ""provincia"": ""Milano"", ""regione"": ""Lombardia "", ""tag"": ""Sostegno al lavoro""}","<pre><yamldata>chi: Comitato Abitanti San Siro, associazione Naga
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/100,578925845,2020-03-11 12:09:11,2020-03-10 23:53:04,Traduzione in 7 lingue decalogo Ministero della Salute #Milano,,,"[""Informazioni utili"", ""accettato""]",,,"{""chi"": ""Comitato Abitanti San Siro, associazione Naga"", ""comune"": ""Milano"", ""contatti"": ""02 58102599"", ""descrizione"": ""Traduzione in 7 lingue decalogo Ministero della Salute"", ""destinatari"": ""\u2018cittadini stranieri'"", ""fonte"": ""http://www.milanotoday.it/attualita/coronavirus/coronavirus-consigli-ministero-tradotti.html"", ""provincia"": ""Milano"", ""regione"": ""Lombardia "", ""tag"": ""Sostegno al lavoro""}","<pre><yamldata>chi: Comitato Abitanti San Siro, associazione Naga
 comune: Milano
-contatti: ''
+contatti: '02 58102599'
 descrizione: Traduzione in 7 lingue decalogo Ministero della Salute
 destinatari: ‘cittadini stranieri'
 fonte: http://www.milanotoday.it/attualita/coronavirus/coronavirus-consigli-ministero-tradotti.html
