@@ -33,7 +33,7 @@ navbar-links:
    - Canali di Comunicazione: "canali/"
    - Blog : "post/"
   Partecipa!:
-   - Aderisci al gruppo Telegram: 'https://t.me/covid19italia" target="_blank'
+   - Aderisci al gruppo Telegram: 'https://t.me/COVID19I" target="_blank'
    - Contribuisci su GitHub: 'https://github.com/emergenzeHack/covid19italia/wiki" target="_blank'
   #  - Rilancia informazioni sui social: ''
 
@@ -66,7 +66,7 @@ author:
   #telegram_bot: to do
   #androidapp: to do
   #messenger: to do
-  telegram_group: https://t.me/covid19italia
+  telegram_group: https://t.me/COVID19I
 
 # Select which links to show in the footer
 footer-links-active:
