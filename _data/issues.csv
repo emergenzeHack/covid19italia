@@ -260,6 +260,16 @@ provincia: Ancona
 regione: Marche
 tag: Consegne e commissioni
 </yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/95,578925335,2020-03-11 00:25:27,2020-03-10 23:51:11,"Programmazione no stop streaming di opere, concerti, spettacoli",,,"[""Attivit\u00e0 culturali e ricreative"", ""accettato""]",,,"{""chi"": ""Teatro Massimo di Palermo"", ""comune"": ""Palermo"", ""contatti"": ""http://www.teatromassimo.it/archivio/notizie/non-vi-lasciamo-senza-musica.html?fbclid=IwAR1198ZcrQqhR01PlAtzk9fSBDTTFVUdJc3h1sTB6PxGbvxwJLU66aW_uNg"", ""descrizione"": ""Programmazione no stop streaming di opere, concerti, spettacoli"", ""destinatari"": ""Tutti"", ""fonte"": """", ""provincia"": ""Pa"", ""regione"": ""Italia"", ""tag"": ""Servizi e iniziative solidali pubbliche""}","<pre><yamldata>chi: Teatro Massimo di Palermo
+comune: Palermo
+contatti: http://www.teatromassimo.it/archivio/notizie/non-vi-lasciamo-senza-musica.html?fbclid=IwAR1198ZcrQqhR01PlAtzk9fSBDTTFVUdJc3h1sTB6PxGbvxwJLU66aW_uNg
+descrizione: Programmazione no stop streaming di opere, concerti, spettacoli
+destinatari: Tutti
+fonte: ''
+provincia: Pa
+regione: Italia
+tag: Servizi e iniziative solidali pubbliche
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/93,578925322,2020-03-10 23:56:54,2020-03-10 23:51:09,sostegno agli anziani in condizione di solitudine e isolamento preventivo e il supporto alle famiglie con minori,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Fondazione Bergamo"", ""comune"": ""Bergamo"", ""contatti"": """", ""descrizione"": ""sostegno agli anziani in condizione di solitudine e isolamento preventivo e il supporto alle famiglie con minori"", ""destinatari"": ""over 65"", ""fonte"": ""http://www.fondazionebergamo.it/news/sosteniamobergamo/"", ""provincia"": ""Bergamo"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Fondazione Bergamo
 comune: Bergamo
 contatti: ''
