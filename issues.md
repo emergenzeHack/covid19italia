@@ -25,10 +25,6 @@ permalink: /issues/
 <link rel="stylesheet" href="{{ site.url }}/css/Control.Geocoder.css" />
 <script src="{{ site.url }}/js/Control.Geocoder.js"></script>
 
-#<div class="row"><div class="col-md-12"> <div id="map"></div> </div> </div>
-#<div class="row"><div class="col-md-4">Latitudine</div><div class="col-md-4" id="lat"></div></div>
-#<div class="row"><div class="col-md-4">Longitudine</div><div class="col-md-4" id="lng"></div></div>
-
 ---
 # Raccolte fondi
 <div class="panel-group">
