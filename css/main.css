@@ -798,9 +798,10 @@ div.segnala > li {
 }
 
 .homepage-categories .thumbnail {
-  display: inline-block;
+  display: flexbox;
+  justify-content: center;
   min-width: 120px;
-  text-align: center;
+  text-align: center;s
   border: none;
   padding: 10px;
 }
