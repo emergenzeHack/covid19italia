@@ -35,7 +35,7 @@ provincia: Brescia
 regione: Lombardia
 tag: Raccolta fondi
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/142,578926074,2020-03-11 10:28:57,2020-03-10 23:53:51,Raccolta fondi per acquistare materiali e dispositivi destinati agli ospedali della provincia di #Brescia,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Fondazione Spedali Civili Brescia"", ""comune"": ""Brescia"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per acquistare per i presidi e tutti gli ospedali della provincia di Brescia materiali e dispositivi necessari alla cura dei pazienti colpiti da coronavirus."", ""destinatari"": ""Tutti"", ""fonte"": ""http://www.fondazionespedalicivili.it/2020/03/09/raccolta-donazioni-per-emergenza-coronavirus-brescia/"", ""provincia"": ""Brescia"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Fondazione Spedali Civili Brescia
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/142,578926074,2020-03-11 11:01:20,2020-03-10 23:53:51,Raccolta fondi per acquisto materiali e dispositivi ospedali provincia di #Brescia,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Fondazione Spedali Civili Brescia"", ""comune"": ""Brescia"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per acquistare per i presidi e tutti gli ospedali della provincia di Brescia materiali e dispositivi necessari alla cura dei pazienti colpiti da coronavirus."", ""destinatari"": ""Tutti"", ""fonte"": ""http://www.fondazionespedalicivili.it/2020/03/09/raccolta-donazioni-per-emergenza-coronavirus-brescia/"", ""provincia"": ""Brescia"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Fondazione Spedali Civili Brescia
 comune: Brescia
 contatti: ''
 descrizione: Raccolta fondi per acquistare per i presidi e tutti gli ospedali della provincia di Brescia materiali e dispositivi necessari alla cura dei pazienti colpiti da coronavirus.
@@ -45,27 +45,27 @@ provincia: Brescia
 regione: Lombardia
 tag: Raccolta fondi
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/141,578926065,2020-03-10 23:56:55,2020-03-10 23:53:50,Raccolta fondi Ospedale Papa Giovanni XXIII Bergamo,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Ospedale Papa Giovanni XXIII"", ""comune"": ""Bergamo"", ""contatti"": """", ""descrizione"": ""Raccolta fondi Ospedale Papa Giovanni XXIII Bergamo"", ""destinatari"": ""Tutt"", ""fonte"": ""http://www.asst-pg23.it/2020/03/_emergenza_coronavirus_come_aiutarci/"", ""provincia"": ""Bergamo"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Ospedale Papa Giovanni XXIII
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/141,578926065,2020-03-11 11:02:14,2020-03-10 23:53:50,Raccolta fondi Ospedale Papa Giovanni XXIII #Bergamo,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Ospedale Papa Giovanni XXIII"", ""comune"": ""Bergamo"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per Ospedale Papa Giovanni XXIII di Bergamo"", ""destinatari"": ""Tutti"", ""fonte"": ""http://www.asst-pg23.it/2020/03/_emergenza_coronavirus_come_aiutarci/"", ""provincia"": ""Bergamo"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Ospedale Papa Giovanni XXIII
 comune: Bergamo
 contatti: ''
-descrizione: Raccolta fondi Ospedale Papa Giovanni XXIII Bergamo
-destinatari: Tutt
+descrizione: Raccolta fondi per Ospedale Papa Giovanni XXIII di Bergamo
+destinatari: Tutti
 fonte: http://www.asst-pg23.it/2020/03/_emergenza_coronavirus_come_aiutarci/
 provincia: Bergamo
 regione: Lombardia
 tag: Raccolta fondi
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/140,578926062,2020-03-10 23:56:55,2020-03-10 23:53:49,Raccolta fondi aziende ospedaliere lombarde,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Regione Lombardia"", ""comune"": ""Milano "", ""contatti"": """", ""descrizione"": ""Raccolta fondi aziende ospedaliere lombarde"", ""destinatari"": ""Tutt"", ""fonte"": ""https://www.lombardianotizie.online/coronavirus-conto-corrente/"", ""provincia"": ""Milano"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Regione Lombardia
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/140,578926062,2020-03-11 11:03:01,2020-03-10 23:53:49,Raccolta fondi Regione #Lombardia per aziende ospedaliere,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Regione Lombardia"", ""comune"": ""Milano "", ""contatti"": """", ""descrizione"": ""Raccolta fondi aziende ospedaliere lombarde"", ""destinatari"": ""Tutti"", ""fonte"": ""https://www.lombardianotizie.online/coronavirus-conto-corrente/"", ""provincia"": ""Milano"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Regione Lombardia
 comune: 'Milano '
 contatti: ''
 descrizione: Raccolta fondi aziende ospedaliere lombarde
-destinatari: Tutt
+destinatari: Tutti
 fonte: https://www.lombardianotizie.online/coronavirus-conto-corrente/
 provincia: Milano
 regione: Lombardia
 tag: Raccolta fondi
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/139,578926059,2020-03-10 23:56:54,2020-03-10 23:53:48,Raccolta Fondi Ospedale Maggiore Policlinico,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Ospedale Maggiore Policlinico"", ""comune"": ""Milano "", ""contatti"": """", ""descrizione"": ""Raccolta Fondi Ospedale Maggiore Policlinico"", ""destinatari"": ""Tutt"", ""fonte"": ""https://www.policlinico.mi.it/donazioni-lotta-al-coronavirus"", ""provincia"": ""Milano"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Ospedale Maggiore Policlinico
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/139,578926059,2020-03-11 11:03:49,2020-03-10 23:53:48,Raccolta fondi per Ospedale Maggiore Policlinico di #Milano ,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Ospedale Maggiore Policlinico"", ""comune"": ""Milano "", ""contatti"": """", ""descrizione"": ""Raccolta Fondi Ospedale Maggiore Policlinico"", ""destinatari"": ""Tutt"", ""fonte"": ""https://www.policlinico.mi.it/donazioni-lotta-al-coronavirus"", ""provincia"": ""Milano"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Ospedale Maggiore Policlinico
 comune: 'Milano '
 contatti: ''
 descrizione: Raccolta Fondi Ospedale Maggiore Policlinico
@@ -75,11 +75,11 @@ provincia: Milano
 regione: Lombardia
 tag: Raccolta fondi
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/138,578926057,2020-03-10 23:56:54,2020-03-10 23:53:47,Raccolta fondi IRCCS San Raffaele,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Ospedale San Raffaele"", ""comune"": ""Milano "", ""contatti"": """", ""descrizione"": ""Raccolta fondi IRCCS San Raffaele"", ""destinatari"": ""Tutt"", ""fonte"": ""https://register.hsr.it/donazioni/donazione.aspx"", ""provincia"": ""Milano"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Ospedale San Raffaele
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/138,578926057,2020-03-11 11:04:20,2020-03-10 23:53:47,Raccolta fondi IRCCS San Raffaele di #Milano,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Ospedale San Raffaele"", ""comune"": ""Milano "", ""contatti"": """", ""descrizione"": ""Raccolta fondi IRCCS San Raffaele"", ""destinatari"": ""Tutti"", ""fonte"": ""https://register.hsr.it/donazioni/donazione.aspx"", ""provincia"": ""Milano"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Ospedale San Raffaele
 comune: 'Milano '
 contatti: ''
 descrizione: Raccolta fondi IRCCS San Raffaele
-destinatari: Tutt
+destinatari: Tutti
 fonte: https://register.hsr.it/donazioni/donazione.aspx
 provincia: Milano
 regione: Lombardia
@@ -169,7 +169,7 @@ provincia: Italia
 regione: Italia
 tag: Didattica a distanza
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/129,578926015,2020-03-10 23:56:07,2020-03-10 23:53:40,Visione libera e gratuita dei film in concorso a Ischia Film Festival,,,"[""Attivit\u00e0 culturali e ricreative"", ""accettato""]",,,"{""chi"": ""Ischia Film Festival"", ""comune"": ""Italia"", ""contatti"": """", ""descrizione"": ""Visione libera e gratuita dei film in concorso a Ischia Film Festival"", ""destinatari"": ""tutti"", ""fonte"": ""http://www.ischiafilmfestival.it/index.php/it/iscrivere-un-film?fbclid=IwAR0UuphpaD8Cvw5Pv32kKuBy8aB9aQbGBDvAgdAPmQ6N4PcqHfs3pp5r5TM"", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Attivit\u00e0 culturali e ricreative""}","<pre><yamldata>chi: Ischia Film Festival
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/129,578926015,2020-03-11 11:04:58,2020-03-10 23:53:40,Visione gratuita film #Ischia Film Festival,,,"[""Attivit\u00e0 culturali e ricreative"", ""accettato""]",,,"{""chi"": ""Ischia Film Festival"", ""comune"": ""Italia"", ""contatti"": """", ""descrizione"": ""Visione libera e gratuita dei film in concorso a Ischia Film Festival"", ""destinatari"": ""tutti"", ""fonte"": ""http://www.ischiafilmfestival.it/index.php/it/iscrivere-un-film?fbclid=IwAR0UuphpaD8Cvw5Pv32kKuBy8aB9aQbGBDvAgdAPmQ6N4PcqHfs3pp5r5TM"", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Attivit\u00e0 culturali e ricreative""}","<pre><yamldata>chi: Ischia Film Festival
 comune: Italia
 contatti: ''
 descrizione: Visione libera e gratuita dei film in concorso a Ischia Film Festival
@@ -283,6 +283,17 @@ fonte: http://www.fondazionebergamo.it/news/sosteniamobergamo/
 provincia: Bergamo
 regione: Lombardia
 tag: Raccolta fondi
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/91,578925309,2020-03-11 11:03:52,2020-03-10 23:51:07,#Milano aiuta: indirizzo mail per raccogliere le iniziative a favore degli over 65,,,"[""Servizi e iniziative solidali pubbliche"", ""accettato""]",,,"{""chi"": ""Comune di Milano"", ""comune"": ""Milano"", ""contatti"": ""milanoaiuta@comune.milano.it"", ""descrizione"": ""Raccolta disponibilit\u00e0 per servizi di sostegno a anziani e altre persone che non possono uscire"", ""destinatari"": ""Over 65"", ""fonte"": ""https://www.comune.milano.it/-/politiche-sociali.-milano-aiuta-un-indirizzo-mail-per-raccogliere-le-iniziative-a-favore-degli-over-65"", ""provincia"": ""Milano"", ""regione"": ""Lombardia"", ""tag"": ""Servizi e iniziative solidali pubbliche""}","<pre><yamldata>chi: Comune di Milano
+comune: Milano
+contatti: milanoaiuta@comune.milano.it
+descrizione: ""Raccolta disponibilit\xE0 per servizi di sostegno a anziani e altre\
+  \ persone che non possono uscire""
+destinatari: Over 65
+fonte: https://www.comune.milano.it/-/politiche-sociali.-milano-aiuta-un-indirizzo-mail-per-raccogliere-le-iniziative-a-favore-degli-over-65
+provincia: Milano
+regione: Lombardia
+tag: Servizi e iniziative solidali pubbliche
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/90,578924999,2020-03-11 10:24:01,2020-03-10 23:50:09,Raccolta fondi per potenziare terapie intensive #Abruzzo,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Si Scrive Abruzzo"", ""comune"": """", ""contatti"": """", ""descrizione"": ""Campagna per potenziare le terapie intensive degli ospedali nella regione Abruzzo"", ""destinatari"": ""ASL Abruzzo"", ""fonte"": ""https://www.gofundme.com/f/abruzzo-rafforziamo-la-terapia-intensiva?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet"", ""provincia"": """", ""regione"": ""Abruzzo"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Si Scrive Abruzzo
 comune: ''
