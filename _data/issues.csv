@@ -309,15 +309,15 @@ provincia: Italia
 regione: Italia
 tag: Didattica a distanza
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/105,578925909,2020-03-11 11:49:18,2020-03-10 23:53:20,Amazon offre video streaming gratis fino al 31 marzo,,,"[""Attivit\u00e0 culturali e ricreative"", ""accettato""]",,,"{""chi"": ""Amazon"", ""comune"": ""zone rosse"", ""contatti"": """", ""descrizione"": ""Video streaming gratis fino al 31 marzo"", ""destinatari"": ""tutti"", ""fonte"": """", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Servizi e iniziative solidali private""}","<pre><yamldata>chi: Amazon
-comune: zone rosse
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/105,578925909,2020-03-11 11:54:24,2020-03-10 23:53:20,"Amazon, Tim Vision, Infinity offrono video streaming gratis",,,"[""Attivit\u00e0 culturali e ricreative"", ""accettato""]",,,"{""chi"": ""Amazon, Tim Vision, Infinity"", ""comune"": null, ""contatti"": """", ""descrizione"": ""Video streaming gratis su piattaforme Amazon, Tim Vision, Infinity."", ""destinatari"": ""tutti"", ""fonte"": ""https://www.donnaglamour.it/streaming-gratis-coronavirus/lifestyle/"", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Servizi e iniziative solidali private, Attivit\u00e0 culturali e ricreative""}","<pre><yamldata>chi: Amazon, Tim Vision, Infinity
+comune:
 contatti: ''
-descrizione: Video streaming gratis fino al 31 marzo
+descrizione: Video streaming gratis su piattaforme Amazon, Tim Vision, Infinity.
 destinatari: tutti
-fonte: ''
+fonte: 'https://www.donnaglamour.it/streaming-gratis-coronavirus/lifestyle/'
 provincia: Italia
 regione: Italia
-tag: Servizi e iniziative solidali private
+tag: Servizi e iniziative solidali private, Attività culturali e ricreative
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/104,578925888,2020-03-11 11:40:16,2020-03-10 23:53:13,"Progetto ""Non da soli"" per sostenere didattica a distanza nelle famiglie in difficoltà ",,,"[""Didattica a distanza"", ""Servizi e iniziative solidali private"", ""accettato""]",,,"{""chi"": ""Save the children"", ""comune"": ""In tutta Italia"", ""contatti"": """", ""descrizione"": ""Progetto \""Non da soli\"" per sostenere la didattica a distanza nelle famiglie in difficolt\u00e0 "", ""destinatari"": """", ""fonte"": ""http://www.vita.it/it/article/2020/03/07/coronavirus-save-the-children-contrastare-gli-effetti-negativi-della-c/154318/"", ""provincia"": """", ""regione"": """", ""tag"": ""Didattica a distanza""}","<pre><yamldata>chi: Save the children
 comune: In tutta Italia
