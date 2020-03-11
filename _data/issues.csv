@@ -390,12 +390,12 @@ provincia: Bologna
 regione: Italia
 tag: Servizi e iniziative solidali pubbliche
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/95,578925335,2020-03-11 12:14:15,2020-03-10 23:51:11,"Programmazione no stop streaming di opere, concerti, spettacoli",,,"[""Attivit\u00e0 culturali e ricreative"", ""accettato""]",,,{},"<pre><yamldata>chi: Teatro Massimo di Palermo
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/95,578925335,2020-03-11 12:15:40,2020-03-10 23:51:11,"Teatro Massimo #Palermo, streaming no stop di opere, concerti, spettacoli",,,"[""Attivit\u00e0 culturali e ricreative"", ""accettato""]",,,{},"<pre><yamldata>chi: Teatro Massimo di Palermo
 comune: Palermo
-contatti: http://www.teatromassimo.it/archivio/notizie/non-vi-lasciamo-senza-musica.html?fbclid=IwAR1198ZcrQqhR01PlAtzk9fSBDTTFVUdJc3h1sTB6PxGbvxwJLU66aW_uNg
+contatti:
 descrizione: Programmazione no stop streaming di opere, concerti, spettacoli. Ogni giorno viene comunicato il programma: un palinsesto di opere, concerti e spettacoli, visite guidate virtuali e nuove proposte per guardare avanti, in attesa di riaprire il teatro.
 destinatari: Tutti
-fonte: ''
+fonte: 'http://www.teatromassimo.it/archivio/notizie/non-vi-lasciamo-senza-musica.html? fbclid=IwAR1198ZcrQqhR01PlAtzk9fSBDTTFVUdJc3h1sTB6PxGbvxwJLU66aW_uNg'
 provincia: Pa
 regione: Italia
 tag: Servizi e iniziative solidali pubbliche
@@ -453,21 +453,21 @@ provincia: ''
 regione: Abruzzo
 tag: Raccolta fondi
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/89,578924993,2020-03-10 23:56:53,2020-03-10 23:50:08,Raccolta fondi,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Fondazione Arca"", ""comune"": ""Tutta Italia"", ""contatti"": """", ""descrizione"": ""Raccolta fondi"", ""destinatari"": ""Operatori servizi persone senza dimora "", ""fonte"": ""https://www.facebook.com/donate/543942392915387/"", ""provincia"": """", ""regione"": """", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Fondazione Arca
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/89,578924993,2020-03-11 12:17:57,2020-03-10 23:50:08,Raccolta fondi Fondazione Arca per servizi alle persone senza dimora ,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Fondazione Arca"", ""comune"": ""Tutta Italia"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per dotare di dispositivi e materiali protettivi gli operatori dei servizi alle persone senza dimora."", ""destinatari"": ""Operatori servizi persone senza dimora "", ""fonte"": ""https://www.facebook.com/donate/543942392915387/"", ""provincia"": """", ""regione"": """", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Fondazione Arca
 comune: Tutta Italia
 contatti: ''
-descrizione: Raccolta fondi
+descrizione: Raccolta fondi per dotare di dispositivi e materiali protettivi gli operatori dei servizi alle persone senza dimora.
 destinatari: 'Operatori servizi persone senza dimora '
 fonte: https://www.facebook.com/donate/543942392915387/
 provincia: ''
 regione: ''
 tag: Raccolta fondi
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/88,578924989,2020-03-10 23:56:52,2020-03-10 23:50:07,Raccolta Fondi,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Vincenzo Bernardi"", ""comune"": ""Lamezia Terme"", ""contatti"": """", ""descrizione"": ""Raccolta Fondi"", ""destinatari"": ""Ospedale di Lamezia Terme"", ""fonte"": ""https://www.gofundme.com/f/raccolta-fondi-covid19-ospedale-di-lamezia-terme?fbclid=IwAR2gUvAXo5xe0FnNGEPc8_FOx3xiDHC18QPA0RCiYt53TZyiZ8hqYHT4tMk"", ""provincia"": ""Cosenza"", ""regione"": ""Calabria"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Vincenzo Bernardi
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/88,578924989,2020-03-11 12:19:21,2020-03-10 23:50:07,Raccolta Fondi online per sostenere Ospedale di #LameziaTerme,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Vincenzo Bernardi"", ""comune"": ""Lamezia Terme"", ""contatti"": """", ""descrizione"": ""Raccolta Fondi online per sostenere Ospedale di Lamezia Terme"", ""destinatari"": ""\u2018tutti\u2019"", ""fonte"": ""https://www.gofundme.com/f/raccolta-fondi-covid19-ospedale-di-lamezia-terme?fbclid=IwAR2gUvAXo5xe0FnNGEPc8_FOx3xiDHC18QPA0RCiYt53TZyiZ8hqYHT4tMk"", ""provincia"": ""Cosenza"", ""regione"": ""Calabria"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Vincenzo Bernardi
 comune: Lamezia Terme
 contatti: ''
-descrizione: Raccolta Fondi
-destinatari: Ospedale di Lamezia Terme
+descrizione: Raccolta Fondi online per sostenere Ospedale di Lamezia Terme
+destinatari: ‘tutti’
 fonte: https://www.gofundme.com/f/raccolta-fondi-covid19-ospedale-di-lamezia-terme?fbclid=IwAR2gUvAXo5xe0FnNGEPc8_FOx3xiDHC18QPA0RCiYt53TZyiZ8hqYHT4tMk
 provincia: Cosenza
 regione: Calabria
