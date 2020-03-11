@@ -473,32 +473,31 @@ provincia: Cosenza
 regione: Calabria
 tag: Raccolta fondi
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/87,578924984,2020-03-10 23:56:52,2020-03-10 23:50:06,Raccolta Fondi,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Club Service Catanzaro"", ""comune"": ""Catanzaro"", ""contatti"": """", ""descrizione"": ""Raccolta Fondi"", ""destinatari"": ""Azienda Ospedaliera \u201cPugliese-Ciaccio\u201d"", ""fonte"": ""https://www.gofundme.com/f/emergenza-covid19-aiutiamo-il-puglieseciaccio?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet&fbclid=IwAR1expolR3-WdZT3pG7XCrJVH401W8bcGI8unHh9b_X1Zv63PmufHsRac8A"", ""provincia"": ""Catanzaro"", ""regione"": ""Calabria"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Club Service Catanzaro
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/87,578924984,2020-03-11 12:21:35,2020-03-10 23:50:06,Raccolta fondi online per sostenere Azienda Ospedaliera #Catanzaro,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Club Service Catanzaro"", ""comune"": ""Catanzaro"", ""contatti"": """", ""descrizione"": ""Raccolta Fondi per sostenere Azienda Ospedaliera \\u201CPugliese-Ciaccio\\u201D"", ""destinatari"": ""tutti"", ""fonte"": ""https://www.gofundme.com/f/emergenza-covid19-aiutiamo-il-puglieseciaccio?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet&fbclid=IwAR1expolR3-WdZT3pG7XCrJVH401W8bcGI8unHh9b_X1Zv63PmufHsRac8A"", ""provincia"": ""Catanzaro"", ""regione"": ""Calabria"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Club Service Catanzaro
 comune: Catanzaro
 contatti: ''
-descrizione: Raccolta Fondi
-destinatari: ""Azienda Ospedaliera \u201CPugliese-Ciaccio\u201D""
+descrizione: Raccolta Fondi per sostenere Azienda Ospedaliera \u201CPugliese-Ciaccio\u201D
+destinatari: ""tutti""
 fonte: https://www.gofundme.com/f/emergenza-covid19-aiutiamo-il-puglieseciaccio?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet&fbclid=IwAR1expolR3-WdZT3pG7XCrJVH401W8bcGI8unHh9b_X1Zv63PmufHsRac8A
 provincia: Catanzaro
 regione: Calabria
 tag: Raccolta fondi
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/86,578924978,2020-03-10 23:56:51,2020-03-10 23:50:05,Raccolta Fondi,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Francesco Pecco Bagnaia"", ""comune"": ""Chivasso"", ""contatti"": """", ""descrizione"": ""Raccolta Fondi"", ""destinatari"": ""Citt\u00e0 della Salute di Torino "", ""fonte"": ""https://www.gofundme.com/f/exfz34-insieme-contro-il-virus?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet"", ""provincia"": ""Torino"", ""regione"": ""Piemonte"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Francesco Pecco Bagnaia
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/86,578924978,2020-03-11 12:23:07,2020-03-10 23:50:05,Raccolta fondi online per sostenere Città della Salute di #Torino,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Francesco Pecco Bagnaia"", ""comune"": ""Chivasso"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per sostenere Citt\\xE0 della Salute di Torino"", ""destinatari"": ""tutti"", ""fonte"": ""https://www.gofundme.com/f/exfz34-insieme-contro-il-virus?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet"", ""provincia"": ""Torino"", ""regione"": ""Piemonte"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Francesco Pecco Bagnaia
 comune: Chivasso
 contatti: ''
-descrizione: Raccolta Fondi
-destinatari: ""Citt\xE0 della Salute di Torino ""
+descrizione: Raccolta fondi per sostenere Citt\xE0 della Salute di Torino
+destinatari: ""tutti""
 fonte: https://www.gofundme.com/f/exfz34-insieme-contro-il-virus?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet
 provincia: Torino
 regione: Piemonte
 tag: Raccolta fondi
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/85,578924968,2020-03-10 23:56:51,2020-03-10 23:50:04,"generi utili, come alimentari, gel igienizzanti e fazzoletti di carta per senzatetto e anziani",,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Comunit\u00e0 di Sant'Egidio"", ""comune"": ""Roma"", ""contatti"": """", ""descrizione"": ""generi utili, come alimentari, gel igienizzanti e fazzoletti di carta per senzatetto e anziani"", ""destinatari"": ""Comunit\u00e0 di Sant'Egidio"", ""fonte"": ""https://www.facebook.com/donate/503579490301582/10221812290241438/"", ""provincia"": ""Roma"", ""regione"": ""Lazio"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: ""Comunit\xE0 di Sant'Egidio""
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/85,578924968,2020-03-11 12:24:58,2020-03-10 23:50:04,"generi utili, come alimentari, gel igienizzanti e fazzoletti di carta per senzatetto e anziani",,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Comunit\u00e0 di Sant'Egidio"", ""comune"": ""Roma"", ""contatti"": """", ""descrizione"": ""Raccolta fondi online per offrire generi utili, come alimentari, gel igienizzanti e fazzoletti di carta a senzatetto e anziani soli."", ""destinatari"": ""persone senza dimora, anziani"", ""fonte"": ""https://www.facebook.com/donate/503579490301582/10221812290241438/"", ""provincia"": ""Roma"", ""regione"": ""Lazio"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: ""Comunit\xE0 di Sant'Egidio""
 comune: Roma
 contatti: ''
-descrizione: generi utili, come alimentari, gel igienizzanti e fazzoletti di carta
-  per senzatetto e anziani
-destinatari: ""Comunit\xE0 di Sant'Egidio""
+descrizione: Raccolta fondi online per offrire generi utili, come alimentari, gel igienizzanti e fazzoletti di carta a senzatetto e anziani soli.
+destinatari: ""persone senza dimora, anziani""
 fonte: https://www.facebook.com/donate/503579490301582/10221812290241438/
 provincia: Roma
 regione: Lazio
