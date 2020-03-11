@@ -4,11 +4,18 @@ title: Raccolte Fondi
 permalink: /fondi/
 ---
 <div class="panel-group">
-{% assign filteredissues = site.data.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'Raccolte Fondi'"%}
+{% assign filteredissues = site.data.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'Raccolte fondi'"%}
 {% for member in filteredissues %}
 <div class="panel-body">
 <a href="/issues/{{ member.number | datapage_url: '.' }}" class="list-group-item">
 		<h4 class="list-group-item-heading">{{member.title}}</h4>
+                <p class="list-group-item-text"><b>Chi:</b> {{member.issue.data.chi}}</p>
+                <p class="list-group-item-text"><b>Destinatari:</b> {{member.issue.data.destinatari}}</p>
+                <p class="list-group-item-text"><b>Contatti:</b> {{member.issue.data.contatti}}</p>
+                <p class="list-group-item-text"><b>Fonte:</b> {{member.issue.data.fonte}}</p>
+                <p class="list-group-item-text"><b>Regione:</b> {{member.issue.data.regione}}</p>
+                <p class="list-group-item-text"><b>Provincia:</b> {{member.issue.data.provincia}}</p>
+                <p class="list-group-item-text"><b>Comune:</b> {{member.issue.data.comune}}</p>
 		<p class="list-group-item-text">{{member.issue.data.descrizione|markdownify}}</p>
 		<p class="list-group-item-text">{{member.issue.data.data}}</p>
 </a>
