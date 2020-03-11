@@ -14,14 +14,14 @@ permalink: /about/
 ### Il Progetto
 
 
-Questo è un progetto non profit, organizzato interamente da volontari. È nato per condividere informazioni utili e
+Questo è un progetto non profit, organizzato interamente da volontari e volontarie. È nato per condividere informazioni utili e
 verificate sull'evento di CoronaVirus diffusosi in Italia nel 2020.
 
 Il progetto si pone come scopo quello di aggregare e non disperdere contenuti utili a tutti provenienti da fonti di varia natura (ufficiali e non) al fine creare valore in un momento di crisi per il paese.
 
 Il progetto non vuole in alcun modo sostituirsi a fonti istituzionali di informazione a cui rimandiamo caldamente per l'attendibilità.
 
-Il progetto, laddove lo si ritenga utile, è usabile da organizzazioni, associazioni, gruppi informali ed anche pubbliche amministrazioni che avessero bisogno di un servizio per informare su quanto sta avvenendo a seguito della diffusione del virus.
+Il progetto, laddove lo si ritenga utile, è usabile da organizzazioni, associazioni, gruppi informali ed anche pubbliche amministrazioni che avessero bisogno di un servizio per informare e attivarsi per rispondere all’emergenza covid19.
 
 Il progetto è descritto tramite il nostro [wiki](https://github.com/emergenzeHack/covid19italia/wiki).
 
@@ -35,9 +35,11 @@ Un grazie sentito a :
 (i ringraziamenti sono in progress ogni giorno....Non avertene a male se non compari ancora, grazie lo stesso!)
 
 ### Contatti
+
 - [Email](mailto:covid19ita@gmail.com)
 - [Twitter](https://twitter.com/ItaliaCovid19)
 - [Instagram](https://www.instagram.com/covid19italia.info/)
+- [Facebook](https://www.facebook.com/covid19italia.info)
 - [Gruppo Telegram ](http://t.me/covid19italia)
 - [Canale Telegram](https://t.me/COVID19I)
 - [Repository Github](https://github.com/emergenzeHack/covid19italia)

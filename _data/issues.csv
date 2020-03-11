@@ -312,6 +312,18 @@ provincia: Ancona
 regione: Marche
 tag: ""Attivit\xE0 culturali e ricreative""
 </yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/109,578925931,2020-03-11 13:24:58,2020-03-10 23:53:23,Consegna libri a domicilio #Torino,,,"[""Consegne e commissioni"", ""accettato""]",,,"{""chi"": ""Libreria del Golem"", ""comune"": ""Torino"", ""contatti"": ""Info@golembookshop.it 011 1950 3630 329 2594868"", ""descrizione"": ""Consegna libri a domicilio con spedizione gratuita"", ""destinatari"": ""residenti a Torino"", ""fonte"": ""https://www.facebook.com/lalibreriadelgolem/photos/a.1599887820243956/2718884935010900/?type=3"", ""provincia"": ""Torino"", ""regione"": ""Piemonte"", ""tag"": ""Consegne e commissioni""}","<pre><yamldata>chi: Libreria del Golem
+comune: Torino
+contatti: 'Info@golembookshop.it
+011 1950 3630
+329 2594868'
+descrizione: Consegna libri a domicilio con spedizione gratuita
+destinatari: residenti a Torino
+fonte: https://www.facebook.com/lalibreriadelgolem/photos/a.1599887820243956/2718884935010900/?type=3
+provincia: Torino
+regione: Piemonte
+tag: Consegne e commissioni
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/108,578925925,2020-03-11 11:48:08,2020-03-10 23:53:22,"#Musicgoesviral, concerti online su Facebook e Instagram",,,"[""Attivit\u00e0 culturali e ricreative"", ""accettato""]",,,"{""chi"": ""Riviste Quinte Parallele"", ""comune"": ""Italia"", ""contatti"": """", ""descrizione"": ""Quinte Parallele inaugura"", ""destinatari"": ""tutti"", ""fonte"": ""https://www.facebook.com/quinteparallelerivista/posts/2701633279873178"", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Didattica a distanza""}","<pre><yamldata>chi: Riviste Quinte Parallele
 comune: Italia
 contatti: ''
@@ -321,6 +333,16 @@ fonte: https://www.facebook.com/quinteparallelerivista/posts/2701633279873178
 provincia: Italia
 regione: Italia
 tag: Didattica a distanza
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/106,578925913,2020-03-11 13:22:00,2020-03-10 23:53:21,Consegna a domicilio libri #Bari (BA),,,"[""Consegne e commissioni"", ""accettato""]",,,"{""chi"": ""Libreria Spine"", ""comune"": ""Bari"", ""contatti"": ""spinebookstore@gmail.com"", ""descrizione"": ""Consegna a domicilio di libri"", ""destinatari"": ""Residenti a Bari"", ""fonte"": ""https://www.facebook.com/spinebookstore/"", ""provincia"": ""Bari"", ""regione"": ""Puglia"", ""tag"": ""Consegne e commissioni""}","<pre><yamldata>chi: Libreria Spine
+comune: Bari
+contatti: 'spinebookstore@gmail.com'
+descrizione: Consegna a domicilio di libri
+destinatari: Residenti a Bari
+fonte: https://www.facebook.com/spinebookstore/
+provincia: Bari
+regione: Puglia
+tag: Consegne e commissioni
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/105,578925909,2020-03-11 11:54:24,2020-03-10 23:53:20,"Amazon, Tim Vision, Infinity offrono video streaming gratis",,,"[""Attivit\u00e0 culturali e ricreative"", ""accettato""]",,,"{""chi"": ""Amazon, Tim Vision, Infinity"", ""comune"": null, ""contatti"": """", ""descrizione"": ""Video streaming gratis su piattaforme Amazon, Tim Vision, Infinity."", ""destinatari"": ""tutti"", ""fonte"": ""https://www.donnaglamour.it/streaming-gratis-coronavirus/lifestyle/"", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Servizi e iniziative solidali private, Attivit\u00e0 culturali e ricreative""}","<pre><yamldata>chi: Amazon, Tim Vision, Infinity
 comune:
