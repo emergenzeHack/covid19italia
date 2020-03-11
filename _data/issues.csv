@@ -1,4 +1,13 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/163,579349963,2020-03-11 15:34:40,2020-03-11 15:29:08,CAV cittadini attivi #Bari,,,"[""Notizia"", ""accettato"", ""form""]",,,{},"```
+Cosa: 'CAV cittadini attivi #Bari'
+Descrizione: ""I Centri Antiviolenza di BAri non si fermano. Di seguito i contatti:\n\
+  \nCentro Antiviolenza del Comune di Bari:\nStrada S. Giorgio n. 21, Bari\nNumero\
+  \ Verde: 800202330 (attivo h24) \nNumero di pubblica utilit\xE0: 1522 (attivo h24)\
+  \ \nE' aperto dal luned\xEC al venerd\xEC dalle 9.30 alle 12.30 e dalle 15.30 alle\
+  \ 18.30.\nhttps://www.centroantiviolenzabari.it/\n\nCAV Paola Labriola: \nVia Napoli\
+  \ 308, Bari\nSede ass. G.I.R.AF.F.AH""
+```",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/162,579331954,2020-03-11 15:26:05,2020-03-11 15:04:10,ilmanifesto.it gratis per tutte e tutti,,,"[""Notizia"", ""accettato"", ""form""]",,,{},"```
 Cosa: ""Gi\xF9 il muro: ilmanifesto.it gratis per tutti""
 Descrizione: Servizio gratuito di fruizione del quotidiano on-line (abbassato paywall)
@@ -703,39 +712,37 @@ provincia: ''
 regione: Puglia
 tag: Raccolta fondi
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/80,578924934,2020-03-10 23:56:49,2020-03-10 23:49:59,acquisto di materiale di protezione per i volontari,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Croce Rossa Monza"", ""comune"": ""Monza"", ""contatti"": """", ""descrizione"": ""acquisto di materiale di protezione per i volontari"", ""destinatari"": ""tutt"", ""fonte"": ""https://www.gofundme.com/f/yqppre-cri-monza-coronavirus-2019"", ""provincia"": ""Monza"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Croce Rossa Monza
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/80,578924934,2020-03-11 15:30:42,2020-03-10 23:49:59,Raccolta fondi per acquisto materiali di protezione per volontari Croce Rossa #Monza,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Croce Rossa Monza"", ""comune"": ""Monza"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per acquisto di materiale di protezione per i volontari."", ""destinatari"": ""tutti"", ""fonte"": ""https://www.gofundme.com/f/yqppre-cri-monza-coronavirus-2019"", ""provincia"": ""Monza"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Croce Rossa Monza
 comune: Monza
 contatti: ''
-descrizione: acquisto di materiale di protezione per i volontari
-destinatari: tutt
+descrizione: Raccolta fondi per acquisto di materiale di protezione per i volontari.
+destinatari: tutti
 fonte: https://www.gofundme.com/f/yqppre-cri-monza-coronavirus-2019
 provincia: Monza
 regione: Lombardia
 tag: Raccolta fondi
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/79,578924929,2020-03-10 23:56:48,2020-03-10 23:49:58,Raccolta fondi per Ospedali bresciani,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Fondazione Comunita Bresciana Onlus"", ""comune"": ""Brescia"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per Ospedali bresciani"", ""destinatari"": ""ospedali di Brescia"", ""fonte"": ""https://www.giornaledibrescia.it/brescia-e-hinterland/aiutiamobrescia-la-raccolta-fondi-per-gli-ospedali-bresciani-1.3465790?fbclid=IwAR0nAj44EoQXlyk9Cf22_L0wBojOPTtlOgizEHPZsVBp1JPNrAbMHuoGVRw"", ""provincia"": ""Brescia"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Fondazione Comunita Bresciana Onlus
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/79,578924929,2020-03-11 15:31:49,2020-03-10 23:49:58,Raccolta fondi Fondazione Comunità Bresciana per Ospedali #Brescia,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Fondazione Comunita Bresciana Onlus"", ""comune"": ""Brescia"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per Ospedali bresciani"", ""destinatari"": ""tutti"", ""fonte"": ""https://www.giornaledibrescia.it/brescia-e-hinterland/aiutiamobrescia-la-raccolta-fondi-per-gli-ospedali-bresciani-1.3465790?fbclid=IwAR0nAj44EoQXlyk9Cf22_L0wBojOPTtlOgizEHPZsVBp1JPNrAbMHuoGVRw"", ""provincia"": ""Brescia"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Fondazione Comunita Bresciana Onlus
 comune: Brescia
 contatti: ''
 descrizione: Raccolta fondi per Ospedali bresciani
-destinatari: ospedali di Brescia
+destinatari: tutti
 fonte: https://www.giornaledibrescia.it/brescia-e-hinterland/aiutiamobrescia-la-raccolta-fondi-per-gli-ospedali-bresciani-1.3465790?fbclid=IwAR0nAj44EoQXlyk9Cf22_L0wBojOPTtlOgizEHPZsVBp1JPNrAbMHuoGVRw
 provincia: Brescia
 regione: Lombardia
 tag: Raccolta fondi
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/78,578924921,2020-03-10 23:56:48,2020-03-10 23:49:57,"Raccolta fondi per acquisto di materiale di protezione individuale (mascherine FFP2/3, disinfettanti, tute protettive, guanti e occhiali) e altri presidi di tipo essenziale per l'implementazione dei protocolli d'emergenza.",,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Associazione Volontaria Croce Casalese e Paesi Limitrofi"", ""comune"": ""Lodi"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per acquisto di materiale di protezione individuale (mascherine FFP2/3, disinfettanti, tute protettive, guanti e occhiali) e altri presidi di tipo essenziale per l'implementazione dei protocolli d'emergenza."", ""destinatari"": ""residenti prov. Lodi"", ""fonte"": ""https://www.gofundme.com/f/vqmkx9-aiutaci-ad-aiutare?fbclid=IwAR2_nOU3wD4aWialN-fGVF8MfSpZG-iSFUYiQqMjgZU3NogavzdOP0nhzBY"", ""provincia"": ""Lodi"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Associazione Volontaria Croce Casalese e Paesi Limitrofi
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/78,578924921,2020-03-11 15:34:01,2020-03-10 23:49:57,Raccolta fondi per acquisto materiale di protezione individuale per volontari #Lodi,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Associazione Volontaria Croce Casalese e Paesi Limitrofi"", ""comune"": ""Lodi"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per acquisto di materiale di protezione individuale (mascherine FFP2/3, disinfettanti, tute protettive, guanti e occhiali) e altri presidi di tipo essenziale per l'implementazione dei protocolli d'emergenza."", ""destinatari"": ""residenti prov. Lodi"", ""fonte"": ""https://www.gofundme.com/f/vqmkx9-aiutaci-ad-aiutare?fbclid=IwAR2_nOU3wD4aWialN-fGVF8MfSpZG-iSFUYiQqMjgZU3NogavzdOP0nhzBY"", ""provincia"": ""Lodi"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Associazione Volontaria Croce Casalese e Paesi Limitrofi
 comune: Lodi
 contatti: ''
-descrizione: Raccolta fondi per acquisto di materiale di protezione individuale (mascherine
-  FFP2/3, disinfettanti, tute protettive, guanti e occhiali) e altri presidi di tipo
-  essenziale per l'implementazione dei protocolli d'emergenza.
+descrizione: Raccolta fondi per acquisto di materiale di protezione individuale (mascherine FFP2/3, disinfettanti, tute protettive, guanti e occhiali) e altri presidi di tipo essenziale per l'implementazione dei protocolli d'emergenza.
 destinatari: residenti prov. Lodi
 fonte: https://www.gofundme.com/f/vqmkx9-aiutaci-ad-aiutare?fbclid=IwAR2_nOU3wD4aWialN-fGVF8MfSpZG-iSFUYiQqMjgZU3NogavzdOP0nhzBY
 provincia: Lodi
 regione: Lombardia
 tag: Raccolta fondi
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/77,578924918,2020-03-10 23:56:47,2020-03-10 23:49:56,Raccolta per Azienda Ospedaliera di Cosenza per l’acquisto di materiale medico e/o sanitario,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Alfredo Taranto"", ""comune"": ""Cosenza"", ""contatti"": """", ""descrizione"": ""Raccolta per Azienda Ospedaliera di Cosenza per l\u2019acquisto di materiale medico e/o sanitario"", ""destinatari"": ""Annunziata di Cosenza"", ""fonte"": ""https://www.gofundme.com/f/calabria-anticovid"", ""provincia"": ""Cosenza"", ""regione"": ""Calabria"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Alfredo Taranto
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/77,578924918,2020-03-11 15:34:48,2020-03-10 23:49:56,Raccolta per Azienda Ospedaliera #Cosenza per acquisto materiale sanitario,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Alfredo Taranto"", ""comune"": ""Cosenza"", ""contatti"": """", ""descrizione"": ""Raccolta per Azienda Ospedaliera di Cosenza per l\u2019acquisto di materiale medico e/o sanitario"", ""destinatari"": ""Annunziata di Cosenza"", ""fonte"": ""https://www.gofundme.com/f/calabria-anticovid"", ""provincia"": ""Cosenza"", ""regione"": ""Calabria"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Alfredo Taranto
 comune: Cosenza
 contatti: ''
 descrizione: ""Raccolta per Azienda Ospedaliera di Cosenza per l\u2019acquisto di materiale\
