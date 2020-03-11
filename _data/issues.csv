@@ -1,4 +1,14 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/175,579412900,2020-03-11 17:10:22,2020-03-11 17:00:58,"Casa Pigneto, un quartiere solidale #Roma",,,"[""Consegne e commissioni"", ""accettato""]",,,{},"```
+Da_chi_offerta: Circolo Arci Sparwasser
+Descrizione: ""Mutuo aiuto, consegna beni di prima necessit\xE0""
+Destinatari: over 65, tutti
+Link: https://www.facebook.com/ArciSparwasser/photos/a.186052468403331/1118309415177627/?type=3&theater
+Tipo_di_soggetto: privato
+Titolo: Casa Pigneto, un quartiere solidale
+meta/deprecatedID: uuid:f334f5c4-fe0e-48f7-aea7-490751287d74
+natura: solidale
+```",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/164,579351957,2020-03-11 17:01:45,2020-03-11 15:31:46,A #Brindisi il centro antiviolenza rimane attivo,,,"[""Notizia"", ""accettato"", ""form""]",,,{},"```
 Cosa: 'CAV cittadini attivi #Brindisi'
 Descrizione: ""Dopo aver discusso insieme agli altri CAV della Regione Puglia, Brindisi\
@@ -27,6 +37,26 @@ https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/162,579331954
 Cosa: ""Gi\xF9 il muro: ilmanifesto.it gratis per tutti""
 Descrizione: Servizio gratuito di fruizione del quotidiano on-line (abbassato paywall)
 Link: https://ilmanifesto.it/giu-il-muro-ilmanifesto-it-gratis-per-tutti/
+```",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/158,579292984,2020-03-11 17:13:23,2020-03-11 14:10:25,Donazioni per Ospedali  #ReggioCalabria,,,"[""Raccolta fondi"", ""Raccolte fondi"", ""accettato""]",,,{},"```
+Da_chi_offerta: Simona Vazzana
+Descrizione: ""La situazione in Italia dovuta al COVID-9 \xE8 degenerata con le partenze\
+  \ di domenica mattina per tutto il sud Italia. I decessi aumentano di giorno in\
+  \ giorno cos\xEC come i contagi, e la Lombardia che ha il SSN migliore della penisola\
+  \ \xE8 al collasso. Inutile sperare che la situazione qui non peggiori, soprattutto\
+  \ alla luce di tutti questi spostamenti incontrollati; sappiamo tutti che non siamo\
+  \ minimamente attrezzati e che la nostra regione ed in particolare la citt\xE0 di\
+  \ Reggio Calabria sono le pi\xF9 precarie. Abbiamo BISOGNO di fondi che ci consentano\
+  \ di potenziare la terapia intensiva e il reparto di malattie infettive, stavolta\
+  \ abbiamo la possibilit\xE0 di PREVENIRE la situazione e di non arrivare impreparati,\
+  \ da questo nasce l\u2019idea di far partire gi\xE0 da ora questa raccolta fondi:\
+  \ per portarci AVANTI col lavoro, e per giocare per una volta d\u2019ANTICIPO contro\
+  \ un nemico per il quale siamo disarmati!""
+Destinatari: Ospedali Reggio Calabria
+Link: https://www.gofundme.com/f/ospedale-riuniti-di-reggio-calabria-covid19
+Natura_dell_iniziativa: solidale
+Tipo_di_soggetto: privato
+Titolo: Ospedale Riuniti di Reggio Calabria - COVID-19
 ```",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/157,579291637,2020-03-11 17:09:33,2020-03-11 14:08:29,Donazioni per presidio Osp. Spoke di #Corigliano-Rossano,,,"[""Raccolte fondi"", ""accettato""]",,,{},"```
 Descrizione: ""il ricavato verr\xE0 devoluto al presidio Ospedaliero Spoke di Corigliano\
