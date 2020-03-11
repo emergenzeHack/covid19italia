@@ -281,12 +281,10 @@ provincia: Bergamo
 regione: Lombardia
 tag: Raccolta fondi
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/90,578924999,2020-03-10 23:56:53,2020-03-10 23:50:09,campagna di raccolta fondi che mira allo scopo (simbolico) di 100.000 € che saranno distribuiti in parti uguali alle ASL provinciali per potenziare la terapia intensiva,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""pagine social abruzzesi"", ""comune"": """", ""contatti"": """", ""descrizione"": ""campagna di raccolta fondi che mira allo scopo (simbolico) di 100.000 \u20ac che saranno distribuiti in parti uguali alle ASL provinciali per potenziare la terapia intensiva"", ""destinatari"": ""ASL Abruzzo"", ""fonte"": ""https://www.gofundme.com/f/abruzzo-rafforziamo-la-terapia-intensiva?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet"", ""provincia"": """", ""regione"": ""Abruzzo"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: pagine social abruzzesi
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/90,578924999,2020-03-11 10:24:01,2020-03-10 23:50:09,Raccolta fondi per potenziare terapie intensive #Abruzzo,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Si Scrive Abruzzo"", ""comune"": """", ""contatti"": """", ""descrizione"": ""Campagna per potenziare le terapie intensive degli ospedali nella regione Abruzzo"", ""destinatari"": ""ASL Abruzzo"", ""fonte"": ""https://www.gofundme.com/f/abruzzo-rafforziamo-la-terapia-intensiva?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet"", ""provincia"": """", ""regione"": ""Abruzzo"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Si Scrive Abruzzo
 comune: ''
 contatti: ''
-descrizione: ""campagna di raccolta fondi che mira allo scopo (simbolico) di 100.000\
-  \ \u20AC che saranno distribuiti in parti uguali alle ASL provinciali per potenziare\
-  \ la terapia intensiva""
+descrizione: ""Campagna per potenziare le terapie intensive degli ospedali nella regione Abruzzo""
 destinatari: ASL Abruzzo
 fonte: https://www.gofundme.com/f/abruzzo-rafforziamo-la-terapia-intensiva?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet
 provincia: ''
