@@ -1,10 +1,24 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/150,579202630,2020-03-11 11:42:25,2020-03-11 11:41:58,Rafforzamento servizio di Taxi sociale per anziani #Adelfia,,,"[""Servizi e iniziative solidali pubbliche"", ""accettato""]",,,{},"chi: 'Comune di Adelfia'
+comune: Adelfia
+contatti: '3448609617'
+descrizione: ""Il Comune di Adelfia ha rafforzato il servizio di Taxi sociale per anziani per over 65 in situazioni di fragilità senza reti familiari per approvvigionamento beni prima necessità""
+destinatari: Over 65
+fonte: 'https://www.comune.adelfia.gov.it/2020/03/10/avviso-servizio-taxi-per-lanziano/'
+provincia: Bari
+regione: Puglia
+tag: Servizi e iniziative solidali pubbliche",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/148,579172426,2020-03-11 11:32:25,2020-03-11 10:49:51,Consegne a domicilio #Biccari (FG),,,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,{},"```
 Cosa: ""Consegna a domicilio beni di prima necessit\xE0 e commissioni urgenti""
 Email: coopbiccari@gmail.com
 Indirizzo: 45.487319 9.179513 0 7018
 Link: https://www.coopbiccari.it/?fbclid=IwAR1WHixd6HwTJeCOqWVMGuWnjs9v2RsvY27ws9vDT883cSu2w3-bQDS-mfY
 Telefono: '3713365864'
+```",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/147,579169325,2020-03-11 11:43:06,2020-03-11 10:45:02,Raccolta fondi per ospedale #Senigallia,,,"[""Raccolte fondi"", ""accettato"", ""form""]",,,{},"```
+Descrizione: Raccolta fondi per Ospedale di Senigallia
+Link: https://www.gofundme.com/f/coronavirus-terapia-intensiva-senigallia?utm_source=whatsapp&utm_medium=chat&utm_campaign=p_cf+share-flow-1
+Nome: Rotaract Club Senigallia
 ```",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/146,579114701,2020-03-11 11:30:16,2020-03-11 09:16:45,Cineteca di #Milano ha reso gratuito catalogo film in streaming,,,"[""Attivit\u00e0 culturali e ricreative"", ""accettato""]",,,{},"```
 Cosa: Catalogo di film in streaming gratuiti
@@ -155,7 +169,7 @@ provincia: Italia
 regione: Italia
 tag: Consegne e commissioni
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/131,578926022,2020-03-11 11:17:50,2020-03-10 23:53:42,"Filastrocche al telefono, da lun. a ven. ore 10-11, 16-17",,,"[""Attivit\u00e0 culturali e ricreative"", ""accettato""]",,,"{""chi"": ""Livio Vianello"", ""comune"": ""Italia"", ""contatti"": ""Livio Vianello 331 9060795"", ""descrizione"": ""Filastrocche al telefono. Fino al 3 aprile da lun. a ven. dalle ore 10 alle 11, dalle 16 alle 17."", ""destinatari"": ""Bambini"", ""fonte"": """", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Attivit\u00e0 culturali e ricreative""}","<pre><yamldata>chi: Livio Vianello
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/131,578926022,2020-03-11 11:40:47,2020-03-10 23:53:42,"Filastrocche al telefono, da lun. a ven. ore 10-11, 16-17",,,"[""Attivit\u00e0 culturali e ricreative"", ""Giochi/intrattenimento bambini"", ""accettato""]",,,"{""chi"": ""Livio Vianello"", ""comune"": ""Italia"", ""contatti"": ""Livio Vianello 331 9060795"", ""descrizione"": ""Filastrocche al telefono. Fino al 3 aprile da lun. a ven. dalle ore 10 alle 11, dalle 16 alle 17."", ""destinatari"": ""Bambini"", ""fonte"": """", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Attivit\u00e0 culturali e ricreative""}","<pre><yamldata>chi: Livio Vianello
 comune: Italia
 contatti: Livio Vianello 331 9060795
 descrizione: Filastrocche al telefono. Fino al 3 aprile da lun. a ven. dalle ore 10 alle 11, dalle 16 alle 17.
@@ -165,7 +179,7 @@ provincia: Italia
 regione: Italia
 tag: ""Attivit\xE0 culturali e ricreative""
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/130,578926017,2020-03-11 11:19:01,2020-03-10 23:53:41,"Fiabe, racconti, approfondimenti scolastici a distanza",,,"[""Attivit\u00e0 culturali e ricreative"", ""Didattica a distanza"", ""accettato""]",,,"{""chi"": ""Lezioni sul sof\u00e0"", ""comune"": ""Italia"", ""contatti"": """", ""descrizione"": ""Fiabe, racconti, approfondimenti scolastici"", ""destinatari"": ""tutti. Per et\u00e0 diverse"", ""fonte"": ""https://www.lezionisulsofa.it/?fbclid=IwAR2S3eR0btgrv3-O4CjeaUFogtFe2wTVsmXbrE_Y3YFSBu-o7VKbLPun9Vw"", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Didattica a distanza""}","<pre><yamldata>chi: ""Lezioni sul sof\xE0""
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/130,578926017,2020-03-11 11:41:23,2020-03-10 23:53:41,"Fiabe, racconti, approfondimenti scolastici a distanza",,,"[""Attivit\u00e0 culturali e ricreative"", ""Didattica a distanza"", ""Giochi/intrattenimento bambini"", ""accettato""]",,,"{""chi"": ""Lezioni sul sof\u00e0"", ""comune"": ""Italia"", ""contatti"": """", ""descrizione"": ""Fiabe, racconti, approfondimenti scolastici"", ""destinatari"": ""tutti. Per et\u00e0 diverse"", ""fonte"": ""https://www.lezionisulsofa.it/?fbclid=IwAR2S3eR0btgrv3-O4CjeaUFogtFe2wTVsmXbrE_Y3YFSBu-o7VKbLPun9Vw"", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Didattica a distanza""}","<pre><yamldata>chi: ""Lezioni sul sof\xE0""
 comune: Italia
 contatti: ''
 descrizione: Fiabe, racconti, approfondimenti scolastici
@@ -217,7 +231,7 @@ provincia: Italia
 regione: Italia
 tag: Informazioni utili
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/125,578925996,2020-03-11 11:24:40,2020-03-10 23:53:37,Su Telegram storie lette ad alta voce,,,"[""Attivit\u00e0 culturali e ricreative"", ""accettato""]",,,"{""chi"": ""canale telegram @storiealtelefono "", ""comune"": ""Italia"", ""contatti"": ""canale telegram @storiealtelefono per registrare storie"", ""descrizione"": ""Storie lette ad alta voce sul canale Telegram @storiealtelefono"", ""destinatari"": ""tutti"", ""fonte"": ""https://www.radiocittafujiko.it/resistenza-al-coronavirus-2-le-storie-al-telefono-di-chi-e-senza-reddito/?fbclid=IwAR3IYyyk0MGzxtxM3TrI1kycHivJW8_ip1arTX-f3xRqWNvpQt_Bs0hS1_o"", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Attivit\u00e0 culturali e ricreative""}","<pre><yamldata>chi: 'canale telegram @storiealtelefono '
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/125,578925996,2020-03-11 11:41:59,2020-03-10 23:53:37,Su Telegram storie lette ad alta voce,,,"[""Attivit\u00e0 culturali e ricreative"", ""Giochi/intrattenimento bambini"", ""accettato""]",,,"{""chi"": ""canale telegram @storiealtelefono "", ""comune"": ""Italia"", ""contatti"": ""canale telegram @storiealtelefono per registrare storie"", ""descrizione"": ""Storie lette ad alta voce sul canale Telegram @storiealtelefono"", ""destinatari"": ""tutti"", ""fonte"": ""https://www.radiocittafujiko.it/resistenza-al-coronavirus-2-le-storie-al-telefono-di-chi-e-senza-reddito/?fbclid=IwAR3IYyyk0MGzxtxM3TrI1kycHivJW8_ip1arTX-f3xRqWNvpQt_Bs0hS1_o"", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Attivit\u00e0 culturali e ricreative""}","<pre><yamldata>chi: 'canale telegram @storiealtelefono '
 comune: Italia
 contatti: canale telegram @storiealtelefono
   per registrare storie
@@ -278,6 +292,16 @@ fonte: https://www.facebook.com/farfalloni.teatro/posts/2921734271223850?__xts__
 provincia: Ancona
 regione: Marche
 tag: ""Attivit\xE0 culturali e ricreative""
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/104,578925888,2020-03-11 11:40:16,2020-03-10 23:53:13,"Progetto ""Non da soli"" per sostenere didattica a distanza nelle famiglie in difficoltà ",,,"[""Didattica a distanza"", ""Servizi e iniziative solidali private"", ""accettato""]",,,"{""chi"": ""Save the children"", ""comune"": ""In tutta Italia"", ""contatti"": """", ""descrizione"": ""Progetto \""Non da soli\"" per sostenere la didattica a distanza nelle famiglie in difficolt\u00e0 "", ""destinatari"": """", ""fonte"": ""http://www.vita.it/it/article/2020/03/07/coronavirus-save-the-children-contrastare-gli-effetti-negativi-della-c/154318/"", ""provincia"": """", ""regione"": """", ""tag"": ""Didattica a distanza""}","<pre><yamldata>chi: Save the children
+comune: In tutta Italia
+contatti: ''
+descrizione: ""Progetto \""Non da soli\"" per sostenere la didattica a distanza nelle famiglie in difficolt\xE0 ""
+destinatari: ''
+fonte: http://www.vita.it/it/article/2020/03/07/coronavirus-save-the-children-contrastare-gli-effetti-negativi-della-c/154318/
+provincia: ''
+regione: ''
+tag: Didattica a distanza
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/96,578925340,2020-03-11 11:25:05,2020-03-10 23:51:12,Lezioni di cinema online,,,"[""Servizi e iniziative solidali pubbliche"", ""accettato""]",,,"{""chi"": ""Cineteca di Bologna"", ""comune"": ""Bologna"", ""contatti"": ""https://festival.ilcinemaritrovato.it/lezioni-di-cinema-3/?fbclid=IwAR2jhW6RPJM-bWKMgIrv-_pFNvhA7rOHvCwiCjW9cwC-aV-aIImzs2XT6cA"", ""descrizione"": ""Lezioni di cinema on line tenute da grandi registi e attori"", ""destinatari"": ""Tutti"", ""fonte"": """", ""provincia"": ""Bologna"", ""regione"": ""Italia"", ""tag"": ""Servizi e iniziative solidali pubbliche""}","<pre><yamldata>chi: Cineteca di Bologna
 comune: Bologna
