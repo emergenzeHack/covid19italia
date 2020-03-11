@@ -1,5 +1,12 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/146,579114701,2020-03-11 11:19:06,2020-03-11 09:16:45,Cineteca di #Milano ha reso gratuito catalogo film in streaming,,,"[""Attivit\u00e0 culturali e ricreative"", ""accettato""]",,,{},"```
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/148,579172426,2020-03-11 11:32:25,2020-03-11 10:49:51,Consegne a domicilio #Biccari (FG),,,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,{},"```
+Cosa: ""Consegna a domicilio beni di prima necessit\xE0 e commissioni urgenti""
+Email: coopbiccari@gmail.com
+Indirizzo: 45.487319 9.179513 0 7018
+Link: https://www.coopbiccari.it/?fbclid=IwAR1WHixd6HwTJeCOqWVMGuWnjs9v2RsvY27ws9vDT883cSu2w3-bQDS-mfY
+Telefono: '3713365864'
+```",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/146,579114701,2020-03-11 11:30:16,2020-03-11 09:16:45,Cineteca di #Milano ha reso gratuito catalogo film in streaming,,,"[""Attivit\u00e0 culturali e ricreative"", ""accettato""]",,,{},"```
 Cosa: Catalogo di film in streaming gratuiti
 Descrizione: ""La Fondazione Cineteca di Milano ha reso gratuito il catalogo in streaming\
   \ dei film. \xC8 sufficiente registrarsi.""
