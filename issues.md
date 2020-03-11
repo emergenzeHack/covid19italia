@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Issues
+title: Segnalazioni
 permalink: /issues/
 ---
 
