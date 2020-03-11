@@ -1,7 +1,9 @@
 @import url("pygment_highlights.min.css");
 
 /* --- General --- */
-
+.btn-lg {
+  font-size:18px;
+}
 .navbar-brand {
   font-size: 28px;
   letter-spacing: -0.5px;
