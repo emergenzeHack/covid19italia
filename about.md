@@ -35,9 +35,11 @@ Un grazie sentito a :
 (i ringraziamenti sono in progress ogni giorno....Non avertene a male se non compari ancora, grazie lo stesso!)
 
 ### Contatti
+
 - [Email](mailto:covid19ita@gmail.com)
 - [Twitter](https://twitter.com/ItaliaCovid19)
 - [Instagram](https://www.instagram.com/covid19italia.info/)
+- [Facebook](https://www.facebook.com/covid19italia.info)
 - [Gruppo Telegram ](http://t.me/covid19italia)
 - [Canale Telegram](https://t.me/COVID19I)
 - [Repository Github](https://github.com/emergenzeHack/covid19italia)
