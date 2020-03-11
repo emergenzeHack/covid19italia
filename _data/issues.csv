@@ -1,4 +1,14 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/153,579250617,2020-03-11 14:32:23,2020-03-11 13:07:21,Iniziative culturali e ricreative #Firenze,,,"[""Iniziative culturali e ricreative"", ""accettato""]",,,{},"```
+Cosa: Todomodo (libreria - Firenze
+Descrizione: ""La bottega rimarr\xE0 chiusa, ma i libri e i vini li potrete ordinare\
+  \ ugualmente.\nCome ?\nPuoi prenotare i tuoi libri e/o la tua bottiglia di vino\
+  \ via\nemail libreria@todomodo.org\ntelefono 0552399110 (messaggio in segreteria)\n\
+  fb\ninstagram ...\nper i libri desiderati ci servono queste informazioni:\ntitolo\n\
+  autore\ncasa editrice\n(se ce la fate meglio uno screenshot)\n...\nalla consegna\
+  \ potete pagare in\ncontanti\ncarte di credito\nbancomat""
+Link: http://todomodo.org/
+```",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/151,579227697,2020-03-11 12:36:11,2020-03-11 12:26:41,Supporto psicologico gratuito #Palermo,,,"[""Supporto psicologico"", ""accettato"", ""form""]",,,{},"```
 Cosa: 'Supporto psicologico #Palermo'
 Descrizione: ""Buongiorno a tutte/i, sono una psicologa psicoterapeuta di Palermo e,\
@@ -136,7 +146,7 @@ provincia: Brescia
 regione: Lombardia
 tag: Servizi e iniziative solidali private
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/136,578926047,2020-03-10 23:56:09,2020-03-10 23:53:46,Spesa a domicilio per anziani,,,"[""Consegne e commissioni"", ""accettato""]",,,"{""chi"": ""CSV"", ""comune"": ""Catanzaro"", ""contatti"": ""0961-790647 - info@csvcatanzaro.it"", ""descrizione"": ""Spesa a domicilio per anziani"", ""destinatari"": ""anziani over 65"", ""fonte"": ""https://www.comune.catanzaro.it/covid-19-concolino-insieme-a-csv-servizio-spesa-a-domicilio-per-over-75/?fbclid=IwAR3ZvwupnzgnW3p_rjGNnwqClc_jY1iWiYXq9m7dSRXYpZtqVPosm6slVSY"", ""provincia"": ""Catanzaro"", ""regione"": ""Calabria"", ""tag"": ""Consegne e commissioni""}","<pre><yamldata>chi: CSV
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/136,578926047,2020-03-11 14:34:14,2020-03-10 23:53:46,Spesa a domicilio per anziani #Catanzaro,,,"[""Consegne e commissioni"", ""accettato""]",,,"{""chi"": ""CSV"", ""comune"": ""Catanzaro"", ""contatti"": ""0961-790647 - info@csvcatanzaro.it"", ""descrizione"": ""Spesa a domicilio per anziani"", ""destinatari"": ""anziani over 65"", ""fonte"": ""https://www.comune.catanzaro.it/covid-19-concolino-insieme-a-csv-servizio-spesa-a-domicilio-per-over-75/?fbclid=IwAR3ZvwupnzgnW3p_rjGNnwqClc_jY1iWiYXq9m7dSRXYpZtqVPosm6slVSY"", ""provincia"": ""Catanzaro"", ""regione"": ""Calabria"", ""tag"": ""Consegne e commissioni""}","<pre><yamldata>chi: CSV
 comune: Catanzaro
 contatti: 0961-790647 - info@csvcatanzaro.it
 descrizione: Spesa a domicilio per anziani
@@ -146,7 +156,7 @@ provincia: Catanzaro
 regione: Calabria
 tag: Consegne e commissioni
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/135,578926045,2020-03-10 23:56:08,2020-03-10 23:53:45,Spesa a domicilio per anziani,,,"[""Consegne e commissioni"", ""accettato""]",,,"{""chi"": ""Circolo Arci Sprawasser"", ""comune"": ""Roma"", ""contatti"": ""3917274709"", ""descrizione"": ""Spesa a domicilio per anziani"", ""destinatari"": ""anziani over 65"", ""fonte"": ""http://pigneto.romatoday.it/pigneto/progetto-spesa-anziani-sparwasser.html?fbclid=IwAR3V67Tp7IdHQ7EXfZPVrSm9j-76Hfny5rY5pzqqN4FXODN_vJXviCcEUqY"", ""provincia"": ""Roma"", ""regione"": ""Lazio"", ""tag"": ""Consegne e commissioni""}","<pre><yamldata>chi: Circolo Arci Sprawasser
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/135,578926045,2020-03-11 14:33:56,2020-03-10 23:53:45,Spesa a domicilio per anziani #Roma,,,"[""Consegne e commissioni"", ""accettato""]",,,"{""chi"": ""Circolo Arci Sprawasser"", ""comune"": ""Roma"", ""contatti"": ""3917274709"", ""descrizione"": ""Spesa a domicilio per anziani"", ""destinatari"": ""anziani over 65"", ""fonte"": ""http://pigneto.romatoday.it/pigneto/progetto-spesa-anziani-sparwasser.html?fbclid=IwAR3V67Tp7IdHQ7EXfZPVrSm9j-76Hfny5rY5pzqqN4FXODN_vJXviCcEUqY"", ""provincia"": ""Roma"", ""regione"": ""Lazio"", ""tag"": ""Consegne e commissioni""}","<pre><yamldata>chi: Circolo Arci Sprawasser
 comune: Roma
 contatti: '3917274709'
 descrizione: Spesa a domicilio per anziani
@@ -156,7 +166,7 @@ provincia: Roma
 regione: Lazio
 tag: Consegne e commissioni
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/134,578926040,2020-03-10 23:57:41,2020-03-10 23:53:44,Servizi a domicilio,,,"[""Servizi e iniziative solidali private"", ""accettato""]",,,"{""chi"": ""Ass. La Terra di Piero"", ""comune"": ""Cosenza"", ""contatti"": ""info@laterradipiero.it"", ""descrizione"": ""Servizi a domicilio"", ""destinatari"": ""Tutti"", ""fonte"": ""dbQMTMYzw88_Yg4KQczFmGtuCFEiea1l_sQH2jAeNZmS2jOk8O2jmt8vfjFkFGL8joj0mAhB3coJl7i7flkXHD5Xf3uI43zF6p7LzL4PhwXjcQinmGQcLmKapXCTVCK0Sf8LFnM3unxacrVtK_9evpIzjOMqVsFL3UcsrExdx8GN33PKFuw65xr5s06Cb7M"", ""provincia"": ""Cosenza"", ""regione"": ""Calabria"", ""tag"": ""Servizi e iniziative solidali private""}","<pre><yamldata>chi: Ass. La Terra di Piero
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/134,578926040,2020-03-11 14:33:31,2020-03-10 23:53:44,Consegne e commissioni a domicilio #Cosenza,,,"[""Consegne e commissioni"", ""accettato""]",,,"{""chi"": ""Ass. La Terra di Piero"", ""comune"": ""Cosenza"", ""contatti"": ""info@laterradipiero.it"", ""descrizione"": ""Servizi a domicilio"", ""destinatari"": ""Tutti"", ""fonte"": ""dbQMTMYzw88_Yg4KQczFmGtuCFEiea1l_sQH2jAeNZmS2jOk8O2jmt8vfjFkFGL8joj0mAhB3coJl7i7flkXHD5Xf3uI43zF6p7LzL4PhwXjcQinmGQcLmKapXCTVCK0Sf8LFnM3unxacrVtK_9evpIzjOMqVsFL3UcsrExdx8GN33PKFuw65xr5s06Cb7M"", ""provincia"": ""Cosenza"", ""regione"": ""Calabria"", ""tag"": ""Servizi e iniziative solidali private""}","<pre><yamldata>chi: Ass. La Terra di Piero
 comune: Cosenza
 contatti: info@laterradipiero.it
 descrizione: Servizi a domicilio
@@ -166,7 +176,7 @@ provincia: Cosenza
 regione: Calabria
 tag: Servizi e iniziative solidali private
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/133,578926035,2020-03-10 23:57:41,2020-03-10 23:53:43,Informazioni su disagi e criticità,,,"[""Servizi e iniziative solidali private"", ""accettato""]",,,"{""chi"": ""Radio Ciroma"", ""comune"": ""Cosenza"", ""contatti"": ""366 4185972"", ""descrizione"": ""Informazioni su disagi e criticit\u00e0"", ""destinatari"": ""tutti"", ""fonte"": ""https://www.facebook.com/photo.php?fbid=10218261149973887&set=p.10218261149973887&type=3&theater"", ""provincia"": ""Cosenza"", ""regione"": ""Calabria"", ""tag"": ""Servizi e iniziative solidali private""}","<pre><yamldata>chi: Radio Ciroma
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/133,578926035,2020-03-11 14:26:54,2020-03-10 23:53:43,Numero Radio Ciroma per segnalare disagi e criticità #Ciroma (CS),,,"[""Contatti utili"", ""Informazioni utili"", ""accettato""]",,,"{""chi"": ""Radio Ciroma"", ""comune"": ""Cosenza"", ""contatti"": ""366 4185972"", ""descrizione"": ""Informazioni su disagi e criticit\u00e0"", ""destinatari"": ""tutti"", ""fonte"": ""https://www.facebook.com/photo.php?fbid=10218261149973887&set=p.10218261149973887&type=3&theater"", ""provincia"": ""Cosenza"", ""regione"": ""Calabria"", ""tag"": ""Servizi e iniziative solidali private""}","<pre><yamldata>chi: Radio Ciroma
 comune: Cosenza
 contatti: 366 4185972
 descrizione: ""Informazioni su disagi e criticit\xE0""
@@ -228,13 +238,12 @@ provincia: Italia
 regione: Italia
 tag: ""Attivit\xE0 culturali e ricreative""
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/127,578926006,2020-03-10 23:57:40,2020-03-10 23:53:38,"social aiuta per spesa, medicina e prime necessità. c'è un gruppo che supporta la collettività. ",,,"[""Servizi e iniziative solidali private"", ""accettato""]",,,"{""chi"": ""social street - baia del re "", ""comune"": ""Milano "", ""contatti"": ""social baia del re "", ""descrizione"": ""social aiuta per spesa, medicina e prime necessit\u00e0. c'\u00e8 un gruppo che supporta la collettivit\u00e0. "", ""destinatari"": ""tutti "", ""fonte"": ""facebook: residenti baia del re (montegani, volvinio e dintorni) "", ""provincia"": ""Milano"", ""regione"": ""lombardia "", ""tag"": ""Servizi e iniziative solidali private""}","<pre><yamldata>chi: 'social street - baia del re '
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/127,578926006,2020-03-11 14:20:49,2020-03-10 23:53:38,Supporto alla comunità della Social Street Baia del Re #Milano,,,"[""Servizi e iniziative solidali private"", ""accettato""]",,,"{""chi"": ""social street - baia del re "", ""comune"": ""Milano "", ""contatti"": ""social baia del re "", ""descrizione"": ""La social street aiuta la comunit\u00e0 per spesa, medicine e beni prima necessit\u00e0"", ""destinatari"": ""tutti "", ""fonte"": ""https://www.facebook.com/pages/category/Community-Organization/Baia-del-Re-121969331146757/"", ""provincia"": ""Milano"", ""regione"": ""lombardia "", ""tag"": ""Servizi e iniziative solidali private""}","<pre><yamldata>chi: 'social street - baia del re '
 comune: 'Milano '
 contatti: 'social baia del re '
-descrizione: ""social aiuta per spesa, medicina e prime necessit\xE0. c'\xE8 un gruppo\
-  \ che supporta la collettivit\xE0. ""
+descrizione: ""La social street aiuta la comunità per spesa, medicine e beni prima necessità""
 destinatari: 'tutti '
-fonte: 'facebook: residenti baia del re (montegani, volvinio e dintorni) '
+fonte: 'https://www.facebook.com/pages/category/Community-Organization/Baia-del-Re-121969331146757/'
 provincia: Milano
 regione: 'lombardia '
 tag: Servizi e iniziative solidali private
@@ -261,7 +270,7 @@ provincia: Italia
 regione: Italia
 tag: ""Attivit\xE0 culturali e ricreative""
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/124,578925992,2020-03-10 23:56:05,2020-03-10 23:53:36,commisioni (alimenti e farmaci),,,"[""Consegne e commissioni"", ""accettato""]",,,"{""chi"": ""Comitato San Mamiliano"", ""comune"": ""Isola del Giglio"", ""contatti"": ""Stefania 3290245553, Filippo 3286934513, Fabio 3338179662, Andrea 3402612926"", ""descrizione"": ""commisioni (alimenti e farmaci)"", ""destinatari"": ""anziani e malati"", ""fonte"": ""https://www.ilgiunco.net/2020/03/10/la-solidarieta-ai-tempi-del-coronavirus-sono-michele-del-terzo-piano-se-volete-vado-a-farvi-la-spesa/"", ""provincia"": ""Grosseto"", ""regione"": ""Toscana"", ""tag"": ""Consegne e commissioni""}","<pre><yamldata>chi: Comitato San Mamiliano
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/124,578925992,2020-03-11 14:16:18,2020-03-10 23:53:36,Commisioni a domicilio (alimenti e farmaci) #IsolaDelGiglio (GR),,,"[""Consegne e commissioni"", ""accettato""]",,,"{""chi"": ""Comitato San Mamiliano"", ""comune"": ""Isola del Giglio"", ""contatti"": ""Stefania 3290245553, Filippo 3286934513, Fabio 3338179662, Andrea 3402612926"", ""descrizione"": ""commisioni (alimenti e farmaci)"", ""destinatari"": ""anziani e malati"", ""fonte"": ""https://www.ilgiunco.net/2020/03/10/la-solidarieta-ai-tempi-del-coronavirus-sono-michele-del-terzo-piano-se-volete-vado-a-farvi-la-spesa/"", ""provincia"": ""Grosseto"", ""regione"": ""Toscana"", ""tag"": ""Consegne e commissioni""}","<pre><yamldata>chi: Comitato San Mamiliano
 comune: Isola del Giglio
 contatti: Stefania 3290245553, Filippo 3286934513, Fabio 3338179662, Andrea 3402612926
 descrizione: commisioni (alimenti e farmaci)
@@ -271,7 +280,7 @@ provincia: Grosseto
 regione: Toscana
 tag: Consegne e commissioni
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/123,578925991,2020-03-10 23:56:05,2020-03-10 23:53:35,commissioni (farmaci e alimenti),,,"[""Consegne e commissioni"", ""accettato""]",,,"{""chi"": ""Croce Verde"", ""comune"": ""Arquata del Tronto"", ""contatti"": ""numero da chiamare: 0736 802459"", ""descrizione"": ""commissioni (farmaci e alimenti)"", ""destinatari"": ""anziani/e e persone con particolari difficolt\u00e0 dei comuni di Arquata del Tronto e Acquasanta Terme"", ""fonte"": """", ""provincia"": ""Ascoli Piceno"", ""regione"": ""Marche"", ""tag"": ""Consegne e commissioni""}","<pre><yamldata>chi: Croce Verde
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/123,578925991,2020-03-11 14:14:36,2020-03-10 23:53:35,Commissioni a domicilio (farmaci e alimenti) #ArquataDelTronto (AP),,,"[""Consegne e commissioni"", ""accettato""]",,,"{""chi"": ""Croce Verde"", ""comune"": ""Arquata del Tronto"", ""contatti"": ""numero da chiamare: 0736 802459"", ""descrizione"": ""commissioni (farmaci e alimenti)"", ""destinatari"": ""anziani/e e persone con particolari difficolt\u00e0 dei comuni di Arquata del Tronto e Acquasanta Terme"", ""fonte"": """", ""provincia"": ""Ascoli Piceno"", ""regione"": ""Marche"", ""tag"": ""Consegne e commissioni""}","<pre><yamldata>chi: Croce Verde
 comune: Arquata del Tronto
 contatti: 'numero da chiamare: 0736 802459'
 descrizione: commissioni (farmaci e alimenti)
@@ -282,7 +291,7 @@ provincia: Ascoli Piceno
 regione: Marche
 tag: Consegne e commissioni
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/122,578925987,2020-03-10 23:56:05,2020-03-10 23:53:34,"informazioni su Covid19 in lingua e con video, per stranieri",,,"[""Informazioni utili"", ""accettato""]",,,"{""chi"": ""Il grande colibr\u00ec"", ""comune"": ""Nazionale"", ""contatti"": """", ""descrizione"": ""informazioni su Covid19 in lingua e con video, per stranieri"", ""destinatari"": ""stranieri"", ""fonte"": ""https://www.ilgrandecolibri.com/coronavirus-spiegato-migranti-asilanti/"", ""provincia"": """", ""regione"": """", ""tag"": ""Informazioni utili""}","<pre><yamldata>chi: ""Il grande colibr\xEC""
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/122,578925987,2020-03-11 14:13:48,2020-03-10 23:53:34,Informazioni su Covid19 per stranieri/e,,,"[""Informazioni utili"", ""accettato""]",,,"{""chi"": ""Il grande colibr\u00ec"", ""comune"": ""Nazionale"", ""contatti"": """", ""descrizione"": ""informazioni su Covid19 in lingua e con video, per stranieri"", ""destinatari"": ""stranieri"", ""fonte"": ""https://www.ilgrandecolibri.com/coronavirus-spiegato-migranti-asilanti/"", ""provincia"": """", ""regione"": """", ""tag"": ""Informazioni utili""}","<pre><yamldata>chi: ""Il grande colibrì""
 comune: Nazionale
 contatti: ''
 descrizione: informazioni su Covid19 in lingua e con video, per stranieri
@@ -292,7 +301,7 @@ provincia: ''
 regione: ''
 tag: Informazioni utili
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/121,578925980,2020-03-10 23:56:05,2020-03-10 23:53:34,Portierato di quartiere,,,"[""Consegne e commissioni"", ""accettato""]",,,"{""chi"": ""Casa delle Culture"", ""comune"": ""Ancona"", ""contatti"": ""3737660799"", ""descrizione"": ""Portierato di quartiere"", ""destinatari"": ""residenti quartiere Vallemiano"", ""fonte"": ""https://www.facebook.com/casacultureancona/photos/a.106921962675490/3051249511576039/?type=3&theater"", ""provincia"": ""Ancona"", ""regione"": ""Marche"", ""tag"": ""Consegne e commissioni""}","<pre><yamldata>chi: Casa delle Culture
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/121,578925980,2020-03-11 14:12:17,2020-03-10 23:53:34,Portierato di quartiere #Ancona,,,"[""Consegne e commissioni"", ""accettato""]",,,"{""chi"": ""Casa delle Culture"", ""comune"": ""Ancona"", ""contatti"": ""3737660799"", ""descrizione"": ""Portierato di quartiere"", ""destinatari"": ""residenti quartiere Vallemiano"", ""fonte"": ""https://www.facebook.com/casacultureancona/photos/a.106921962675490/3051249511576039/?type=3&theater"", ""provincia"": ""Ancona"", ""regione"": ""Marche"", ""tag"": ""Consegne e commissioni""}","<pre><yamldata>chi: Casa delle Culture
 comune: Ancona
 contatti: '3737660799'
 descrizione: Portierato di quartiere
@@ -311,6 +320,36 @@ fonte: https://www.facebook.com/farfalloni.teatro/posts/2921734271223850?__xts__
 provincia: Ancona
 regione: Marche
 tag: ""Attivit\xE0 culturali e ricreative""
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/119,578925969,2020-03-11 14:11:48,2020-03-10 23:53:32,Consegna spesa a domicilio #Catania,,,"[""Consegne e commissioni"", ""accettato""]",,,"{""chi"": ""Gammazita"", ""comune"": ""Catania"", ""contatti"": """", ""descrizione"": ""Consegna spesa a domicilio"", ""destinatari"": ""anziani e persone con patologie"", ""fonte"": ""https://www.facebook.com/AssociazioneGammazita/photos/a.711318028890576/2946291755393181/?type=3&theater"", ""provincia"": ""Catania"", ""regione"": ""Sicilia"", ""tag"": ""Consegne e commissioni""}","<pre><yamldata>chi: Gammazita
+comune: Catania
+contatti: ''
+descrizione: Consegna spesa a domicilio
+destinatari: anziani e persone con patologie
+fonte: https://www.facebook.com/AssociazioneGammazita/photos/a.711318028890576/2946291755393181/?type=3&theater
+provincia: Catania
+regione: Sicilia
+tag: Consegne e commissioni
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/118,578925964,2020-03-11 14:11:01,2020-03-10 23:53:31,Consegna prodotti bar a domicilio #Crotone (CS),,,"[""Consegne e commissioni"", ""accettato""]",,,"{""chi"": ""Caff\u00e8 Italia Crotone "", ""comune"": ""Crotone"", ""contatti"": ""96221163"", ""descrizione"": ""Consegna prodotti bar a domicilio "", ""destinatari"": """", ""fonte"": ""https://www.facebook.com/Caff%C3%A8-Italia-Crotone-589213207847008/?__xts__[0]=68.ARBmAaIVUHjPL252OMof8HsQLlRQ6AnqvzzJd3-THmInCoSg5aRwy9KlDFgonhC0JzzkrddsRJ0nJly4q-3u4MMIMsIBD8lEa9eNMhxxpyupE0j7QtlbWe3Imwbwr3XxV3q3Aq-Fn0yVe_bPHH63Fxjfy_mjXER2IdTh_BwjGjIert8a7Yv7hpsGXiXflpTsbG4ZixrcJ7EJHKM1mrM2x7HlSlmOZtReadK29-5Ruua5DforDFO5OEDVar8EZ0j5mSx9Gs8FTOtxHDlNBUVBjZMwRGdB2o4Kmv6oGeDG9F3Ay6V3yAzMAzXVwJVCI-bqeRW_0nNAaSCF5wIQWGD8xw"", ""provincia"": ""Cosenza"", ""regione"": ""Calabria"", ""tag"": ""Consegne e commissioni""}","<pre><yamldata>chi: ""Caffè Italia Crotone ""
+comune: Crotone
+contatti: '96221163'
+descrizione: 'Consegna prodotti bar a domicilio '
+destinatari: ''
+fonte: https://www.facebook.com/Caff%C3%A8-Italia-Crotone-589213207847008/?__xts__[0]=68.ARBmAaIVUHjPL252OMof8HsQLlRQ6AnqvzzJd3-THmInCoSg5aRwy9KlDFgonhC0JzzkrddsRJ0nJly4q-3u4MMIMsIBD8lEa9eNMhxxpyupE0j7QtlbWe3Imwbwr3XxV3q3Aq-Fn0yVe_bPHH63Fxjfy_mjXER2IdTh_BwjGjIert8a7Yv7hpsGXiXflpTsbG4ZixrcJ7EJHKM1mrM2x7HlSlmOZtReadK29-5Ruua5DforDFO5OEDVar8EZ0j5mSx9Gs8FTOtxHDlNBUVBjZMwRGdB2o4Kmv6oGeDG9F3Ay6V3yAzMAzXVwJVCI-bqeRW_0nNAaSCF5wIQWGD8xw
+provincia: Cosenza
+regione: Calabria
+tag: Consegne e commissioni
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/117,578925962,2020-03-11 14:11:19,2020-03-10 23:53:30,Supporto psicologico telefonico gratuito #Lombardia,,,"[""Supporto psicologico"", ""accettato""]",,,"{""chi"": ""Sipem Sos"", ""comune"": """", ""contatti"": ""3791898986"", ""descrizione"": ""Supporto psicologico telefonico gratuito"", ""destinatari"": ""persone in quarantena o isolamento domiciliare in Lombardia"", ""fonte"": ""https://www.sipemsos.org/news.html"", ""provincia"": """", ""regione"": ""Lombardia"", ""tag"": ""Supporto psicologico""}","<pre><yamldata>chi: Sipem Sos
+comune: ''
+contatti: '3791898986'
+descrizione: Supporto psicologico telefonico gratuito
+destinatari: persone in quarantena o isolamento domiciliare in Lombardia
+fonte: https://www.sipemsos.org/news.html
+provincia: ''
+regione: Lombardia
+tag: Supporto psicologico
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/116,578925961,2020-03-11 14:06:57,2020-03-10 23:53:29,Supporto psicologico gratuito online,,,"[""Supporto psicologico"", ""accettato""]",,,{},"<pre><yamldata>chi: B-Yourself
 comune: Cento
@@ -496,7 +535,7 @@ provincia: Varese
 regione: Lombardia
 tag: Servizi e iniziative solidali pubbliche
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/96,578925340,2020-03-11 12:01:26,2020-03-10 23:51:12,Cineteca di #Bologna offre lezioni di cinema online,,,"[""Attivit\u00e0 culturali e ricreative"", ""Didattica a distanza esperienze e strumenti"", ""accettato""]",,,"{""chi"": ""Cineteca di Bologna"", ""comune"": ""Bologna"", ""contatti"": ""https://festival.ilcinemaritrovato.it/lezioni-di-cinema-3/?fbclid=IwAR2jhW6RPJM-bWKMgIrv-_pFNvhA7rOHvCwiCjW9cwC-aV-aIImzs2XT6cA"", ""descrizione"": ""Lezioni di cinema on line tenute da grandi registi e attori."", ""destinatari"": ""Tutti"", ""fonte"": """", ""provincia"": ""Bologna"", ""regione"": ""Italia"", ""tag"": ""Servizi e iniziative solidali pubbliche""}","<pre><yamldata>chi: Cineteca di Bologna
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/96,578925340,2020-03-11 12:01:26,2020-03-10 23:51:12,Cineteca di #Bologna offre lezioni di cinema online,,,"[""Attivit\u00e0 culturali e ricreative"", ""Didattica a distanza/e-learning"", ""accettato""]",,,"{""chi"": ""Cineteca di Bologna"", ""comune"": ""Bologna"", ""contatti"": ""https://festival.ilcinemaritrovato.it/lezioni-di-cinema-3/?fbclid=IwAR2jhW6RPJM-bWKMgIrv-_pFNvhA7rOHvCwiCjW9cwC-aV-aIImzs2XT6cA"", ""descrizione"": ""Lezioni di cinema on line tenute da grandi registi e attori."", ""destinatari"": ""Tutti"", ""fonte"": """", ""provincia"": ""Bologna"", ""regione"": ""Italia"", ""tag"": ""Servizi e iniziative solidali pubbliche""}","<pre><yamldata>chi: Cineteca di Bologna
 comune: Bologna
 contatti: https://festival.ilcinemaritrovato.it/lezioni-di-cinema-3/?fbclid=IwAR2jhW6RPJM-bWKMgIrv-_pFNvhA7rOHvCwiCjW9cwC-aV-aIImzs2XT6cA
 descrizione: Lezioni di cinema on line tenute da grandi registi e attori.
