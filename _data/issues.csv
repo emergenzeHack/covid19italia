@@ -1,4 +1,14 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/153,579250617,2020-03-11 14:32:23,2020-03-11 13:07:21,Iniziative culturali e ricreative #Firenze,,,"[""Iniziative culturali e ricreative"", ""accettato""]",,,{},"```
+Cosa: Todomodo (libreria - Firenze
+Descrizione: ""La bottega rimarr\xE0 chiusa, ma i libri e i vini li potrete ordinare\
+  \ ugualmente.\nCome ?\nPuoi prenotare i tuoi libri e/o la tua bottiglia di vino\
+  \ via\nemail libreria@todomodo.org\ntelefono 0552399110 (messaggio in segreteria)\n\
+  fb\ninstagram ...\nper i libri desiderati ci servono queste informazioni:\ntitolo\n\
+  autore\ncasa editrice\n(se ce la fate meglio uno screenshot)\n...\nalla consegna\
+  \ potete pagare in\ncontanti\ncarte di credito\nbancomat""
+Link: http://todomodo.org/
+```",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/151,579227697,2020-03-11 12:36:11,2020-03-11 12:26:41,Supporto psicologico gratuito #Palermo,,,"[""Supporto psicologico"", ""accettato"", ""form""]",,,{},"```
 Cosa: 'Supporto psicologico #Palermo'
 Descrizione: ""Buongiorno a tutte/i, sono una psicologa psicoterapeuta di Palermo e,\
@@ -136,7 +146,7 @@ provincia: Brescia
 regione: Lombardia
 tag: Servizi e iniziative solidali private
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/136,578926047,2020-03-10 23:56:09,2020-03-10 23:53:46,Spesa a domicilio per anziani,,,"[""Consegne e commissioni"", ""accettato""]",,,"{""chi"": ""CSV"", ""comune"": ""Catanzaro"", ""contatti"": ""0961-790647 - info@csvcatanzaro.it"", ""descrizione"": ""Spesa a domicilio per anziani"", ""destinatari"": ""anziani over 65"", ""fonte"": ""https://www.comune.catanzaro.it/covid-19-concolino-insieme-a-csv-servizio-spesa-a-domicilio-per-over-75/?fbclid=IwAR3ZvwupnzgnW3p_rjGNnwqClc_jY1iWiYXq9m7dSRXYpZtqVPosm6slVSY"", ""provincia"": ""Catanzaro"", ""regione"": ""Calabria"", ""tag"": ""Consegne e commissioni""}","<pre><yamldata>chi: CSV
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/136,578926047,2020-03-11 14:34:14,2020-03-10 23:53:46,Spesa a domicilio per anziani #Catanzaro,,,"[""Consegne e commissioni"", ""accettato""]",,,"{""chi"": ""CSV"", ""comune"": ""Catanzaro"", ""contatti"": ""0961-790647 - info@csvcatanzaro.it"", ""descrizione"": ""Spesa a domicilio per anziani"", ""destinatari"": ""anziani over 65"", ""fonte"": ""https://www.comune.catanzaro.it/covid-19-concolino-insieme-a-csv-servizio-spesa-a-domicilio-per-over-75/?fbclid=IwAR3ZvwupnzgnW3p_rjGNnwqClc_jY1iWiYXq9m7dSRXYpZtqVPosm6slVSY"", ""provincia"": ""Catanzaro"", ""regione"": ""Calabria"", ""tag"": ""Consegne e commissioni""}","<pre><yamldata>chi: CSV
 comune: Catanzaro
 contatti: 0961-790647 - info@csvcatanzaro.it
 descrizione: Spesa a domicilio per anziani
@@ -146,7 +156,7 @@ provincia: Catanzaro
 regione: Calabria
 tag: Consegne e commissioni
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/135,578926045,2020-03-10 23:56:08,2020-03-10 23:53:45,Spesa a domicilio per anziani,,,"[""Consegne e commissioni"", ""accettato""]",,,"{""chi"": ""Circolo Arci Sprawasser"", ""comune"": ""Roma"", ""contatti"": ""3917274709"", ""descrizione"": ""Spesa a domicilio per anziani"", ""destinatari"": ""anziani over 65"", ""fonte"": ""http://pigneto.romatoday.it/pigneto/progetto-spesa-anziani-sparwasser.html?fbclid=IwAR3V67Tp7IdHQ7EXfZPVrSm9j-76Hfny5rY5pzqqN4FXODN_vJXviCcEUqY"", ""provincia"": ""Roma"", ""regione"": ""Lazio"", ""tag"": ""Consegne e commissioni""}","<pre><yamldata>chi: Circolo Arci Sprawasser
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/135,578926045,2020-03-11 14:33:56,2020-03-10 23:53:45,Spesa a domicilio per anziani #Roma,,,"[""Consegne e commissioni"", ""accettato""]",,,"{""chi"": ""Circolo Arci Sprawasser"", ""comune"": ""Roma"", ""contatti"": ""3917274709"", ""descrizione"": ""Spesa a domicilio per anziani"", ""destinatari"": ""anziani over 65"", ""fonte"": ""http://pigneto.romatoday.it/pigneto/progetto-spesa-anziani-sparwasser.html?fbclid=IwAR3V67Tp7IdHQ7EXfZPVrSm9j-76Hfny5rY5pzqqN4FXODN_vJXviCcEUqY"", ""provincia"": ""Roma"", ""regione"": ""Lazio"", ""tag"": ""Consegne e commissioni""}","<pre><yamldata>chi: Circolo Arci Sprawasser
 comune: Roma
 contatti: '3917274709'
 descrizione: Spesa a domicilio per anziani
@@ -156,7 +166,7 @@ provincia: Roma
 regione: Lazio
 tag: Consegne e commissioni
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/134,578926040,2020-03-11 14:27:55,2020-03-10 23:53:44,Servizi a domicilio #Cosenza,,,"[""Servizi e iniziative solidali private"", ""accettato""]",,,"{""chi"": ""Ass. La Terra di Piero"", ""comune"": ""Cosenza"", ""contatti"": ""info@laterradipiero.it"", ""descrizione"": ""Servizi a domicilio"", ""destinatari"": ""Tutti"", ""fonte"": ""dbQMTMYzw88_Yg4KQczFmGtuCFEiea1l_sQH2jAeNZmS2jOk8O2jmt8vfjFkFGL8joj0mAhB3coJl7i7flkXHD5Xf3uI43zF6p7LzL4PhwXjcQinmGQcLmKapXCTVCK0Sf8LFnM3unxacrVtK_9evpIzjOMqVsFL3UcsrExdx8GN33PKFuw65xr5s06Cb7M"", ""provincia"": ""Cosenza"", ""regione"": ""Calabria"", ""tag"": ""Servizi e iniziative solidali private""}","<pre><yamldata>chi: Ass. La Terra di Piero
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/134,578926040,2020-03-11 14:33:31,2020-03-10 23:53:44,Consegne e commissioni a domicilio #Cosenza,,,"[""Consegne e commissioni"", ""accettato""]",,,"{""chi"": ""Ass. La Terra di Piero"", ""comune"": ""Cosenza"", ""contatti"": ""info@laterradipiero.it"", ""descrizione"": ""Servizi a domicilio"", ""destinatari"": ""Tutti"", ""fonte"": ""dbQMTMYzw88_Yg4KQczFmGtuCFEiea1l_sQH2jAeNZmS2jOk8O2jmt8vfjFkFGL8joj0mAhB3coJl7i7flkXHD5Xf3uI43zF6p7LzL4PhwXjcQinmGQcLmKapXCTVCK0Sf8LFnM3unxacrVtK_9evpIzjOMqVsFL3UcsrExdx8GN33PKFuw65xr5s06Cb7M"", ""provincia"": ""Cosenza"", ""regione"": ""Calabria"", ""tag"": ""Servizi e iniziative solidali private""}","<pre><yamldata>chi: Ass. La Terra di Piero
 comune: Cosenza
 contatti: info@laterradipiero.it
 descrizione: Servizi a domicilio
