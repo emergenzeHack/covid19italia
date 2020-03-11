@@ -658,10 +658,10 @@ provincia: Roma
 regione: Lazio
 tag: Raccolta fondi
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/84,578924963,2020-03-10 23:56:50,2020-03-10 23:50:03,donazione per l'ospedale di Bergamo,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""tifosi dell'Atalanta"", ""comune"": ""Bergamo"", ""contatti"": """", ""descrizione"": ""donazione per l'ospedale di Bergamo"", ""destinatari"": """", ""fonte"": ""https://www.inews24.it/2020/03/10/atalanta-solidarieta-tifosi-coronavirus-ospedale-bergamo/"", ""provincia"": ""Bergamo"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: tifosi dell'Atalanta
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/84,578924963,2020-03-11 15:24:18,2020-03-10 23:50:03,Raccolta fondi per ospedale di #Bergamo,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Tifosi dell'Atalanta"", ""comune"": ""Bergamo"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per l'ospedale di Bergamo"", ""destinatari"": """", ""fonte"": ""https://www.inews24.it/2020/03/10/atalanta-solidarieta-tifosi-coronavirus-ospedale-bergamo/"", ""provincia"": ""Bergamo"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Tifosi dell'Atalanta
 comune: Bergamo
 contatti: ''
-descrizione: donazione per l'ospedale di Bergamo
+descrizione: Raccolta fondi per l'ospedale di Bergamo
 destinatari: ''
 fonte: https://www.inews24.it/2020/03/10/atalanta-solidarieta-tifosi-coronavirus-ospedale-bergamo/
 provincia: Bergamo
