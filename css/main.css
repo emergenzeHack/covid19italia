@@ -777,7 +777,7 @@ div.segnala > li {
 /* Icone navigazione */
 .homepage-categories,
 .theme-gallery {
-  text-align: justify;
+  text-align: center;
 }
 
 .homepage-categories:after,
