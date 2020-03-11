@@ -1,5 +1,5 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/150,579202630,2020-03-11 11:42:25,2020-03-11 11:41:58,Rafforzamento servizio di Taxi sociale per anziani #Adelfia,,,"[""Servizi e iniziative solidali pubbliche"", ""accettato""]",,,{},"chi: 'Comune di Adelfia'
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/150,579202630,2020-03-11 11:46:24,2020-03-11 11:41:58,Rafforzamento servizio di Taxi sociale per anziani #Adelfia (BA),,,"[""Servizi e iniziative solidali pubbliche"", ""accettato""]",,,{},"chi: 'Comune di Adelfia'
 comune: Adelfia
 contatti: '3448609617'
 descrizione: ""Il Comune di Adelfia ha rafforzato il servizio di Taxi sociale per anziani per over 65 in situazioni di fragilità senza reti familiari per approvvigionamento beni prima necessità""
@@ -8,6 +8,12 @@ fonte: 'https://www.comune.adelfia.gov.it/2020/03/10/avviso-servizio-taxi-per-la
 provincia: Bari
 regione: Puglia
 tag: Servizi e iniziative solidali pubbliche",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/149,579179471,2020-03-11 11:49:01,2020-03-11 11:01:28,Spesa a domicilio #SanLeo (RN),,,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,{},"```
+Cosa: ""Spesa a domicilio generi di prima necessit\xE0""
+Email: coopfermentileontine@gmail.com
+Link: http://www.guidasanleo.it/spesaadomicilio/?fbclid=IwAR3RVDFOB7ECFHTuSmSbyK1aBxM1vaPvaUkWi0-IN9KISwVVONuETaJwEUY
+Telefono: 333 6918097
+```",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/148,579172426,2020-03-11 11:32:25,2020-03-11 10:49:51,Consegne a domicilio #Biccari (FG),,,"[""Consegne e commissioni"", ""accettato"", ""form""]",,,{},"```
 Cosa: ""Consegna a domicilio beni di prima necessit\xE0 e commissioni urgenti""
 Email: coopbiccari@gmail.com
@@ -293,6 +299,26 @@ provincia: Ancona
 regione: Marche
 tag: ""Attivit\xE0 culturali e ricreative""
 </yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/108,578925925,2020-03-11 11:48:08,2020-03-10 23:53:22,"#Musicgoesviral, concerti online su Facebook e Instagram",,,"[""Attivit\u00e0 culturali e ricreative"", ""accettato""]",,,"{""chi"": ""Riviste Quinte Parallele"", ""comune"": ""Italia"", ""contatti"": """", ""descrizione"": ""Quinte Parallele inaugura"", ""destinatari"": ""tutti"", ""fonte"": ""https://www.facebook.com/quinteparallelerivista/posts/2701633279873178"", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Didattica a distanza""}","<pre><yamldata>chi: Riviste Quinte Parallele
+comune: Italia
+contatti: ''
+descrizione:  Quinte Parallele inaugura #Musicgoesviral, la prima stagione assoluta di concerti social: da lunedì 9 marzo fino a venerdì 3 aprile, le pagine di Instagram e Facebook della Rivista si trasformeranno in un vero e proprio palcoscenico virtuale.
+destinatari: tutti
+fonte: https://www.facebook.com/quinteparallelerivista/posts/2701633279873178
+provincia: Italia
+regione: Italia
+tag: Didattica a distanza
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/105,578925909,2020-03-11 11:49:18,2020-03-10 23:53:20,Amazon offre video streaming gratis fino al 31 marzo,,,"[""Attivit\u00e0 culturali e ricreative"", ""accettato""]",,,"{""chi"": ""Amazon"", ""comune"": ""zone rosse"", ""contatti"": """", ""descrizione"": ""Video streaming gratis fino al 31 marzo"", ""destinatari"": ""tutti"", ""fonte"": """", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Servizi e iniziative solidali private""}","<pre><yamldata>chi: Amazon
+comune: zone rosse
+contatti: ''
+descrizione: Video streaming gratis fino al 31 marzo
+destinatari: tutti
+fonte: ''
+provincia: Italia
+regione: Italia
+tag: Servizi e iniziative solidali private
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/104,578925888,2020-03-11 11:40:16,2020-03-10 23:53:13,"Progetto ""Non da soli"" per sostenere didattica a distanza nelle famiglie in difficoltà ",,,"[""Didattica a distanza"", ""Servizi e iniziative solidali private"", ""accettato""]",,,"{""chi"": ""Save the children"", ""comune"": ""In tutta Italia"", ""contatti"": """", ""descrizione"": ""Progetto \""Non da soli\"" per sostenere la didattica a distanza nelle famiglie in difficolt\u00e0 "", ""destinatari"": """", ""fonte"": ""http://www.vita.it/it/article/2020/03/07/coronavirus-save-the-children-contrastare-gli-effetti-negativi-della-c/154318/"", ""provincia"": """", ""regione"": """", ""tag"": ""Didattica a distanza""}","<pre><yamldata>chi: Save the children
 comune: In tutta Italia
 contatti: ''
@@ -302,6 +328,16 @@ fonte: http://www.vita.it/it/article/2020/03/07/coronavirus-save-the-children-co
 provincia: ''
 regione: ''
 tag: Didattica a distanza
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/97,578925348,2020-03-11 11:48:58,2020-03-10 23:51:12,Consegne a domicilio over 65 #Angera (VA),,,"[""Servizi e iniziative solidali pubbliche"", ""accettato""]",,,"{""chi"": ""Comune di Angera "", ""comune"": ""Angera"", ""contatti"": ""0331 932147"", ""descrizione"": ""L\u2019Amministrazione Comunale a tutela dei soggetti fragili e delle persone di et\u00e0 superiore ai 65 anni, che non hanno alcun sostegno da parte dei familiari, ha attivato un servizio di consegna a domicilio della spesa alimentare, dei medicinali e di qualsiasi altro bene di prima necessit\u00e0.  "", ""destinatari"": ""over 65"", ""fonte"": ""https://www.comune.angera.va.it/servizi/notizie/notizie_fase02.aspx?ID=11670"", ""provincia"": ""Varese"", ""regione"": ""Lombardia"", ""tag"": ""Servizi e iniziative solidali pubbliche""}","<pre><yamldata>chi: 'Comune di Angera '
+comune: Angera
+contatti: '0331 932147'
+descrizione: ""L’Amministrazione Comunale a tutela dei soggetti fragili e delle persone di età superiore ai 65 anni, che non hanno alcun sostegno da parte dei familiari, ha attivato un servizio di consegna a domicilio della spesa alimentare, dei medicinali e di qualsiasi altro bene di prima necessità.  ""
+destinatari: over 65
+fonte: 'https://www.comune.angera.va.it/servizi/notizie/notizie_fase02.aspx?ID=11670'
+provincia: Varese
+regione: Lombardia
+tag: Servizi e iniziative solidali pubbliche
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/96,578925340,2020-03-11 11:25:05,2020-03-10 23:51:12,Lezioni di cinema online,,,"[""Servizi e iniziative solidali pubbliche"", ""accettato""]",,,"{""chi"": ""Cineteca di Bologna"", ""comune"": ""Bologna"", ""contatti"": ""https://festival.ilcinemaritrovato.it/lezioni-di-cinema-3/?fbclid=IwAR2jhW6RPJM-bWKMgIrv-_pFNvhA7rOHvCwiCjW9cwC-aV-aIImzs2XT6cA"", ""descrizione"": ""Lezioni di cinema on line tenute da grandi registi e attori"", ""destinatari"": ""Tutti"", ""fonte"": """", ""provincia"": ""Bologna"", ""regione"": ""Italia"", ""tag"": ""Servizi e iniziative solidali pubbliche""}","<pre><yamldata>chi: Cineteca di Bologna
 comune: Bologna
