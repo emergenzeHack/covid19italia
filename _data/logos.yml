@@ -4,7 +4,7 @@
   link: mappa
 - name: PARTECIPA
   logo: /img/icone/01-fabbisogni.png
-  map: true
+  map: false
   link: 2016-09-22-mappa-fabbisogni
 - name: SEGNALA
   logo: /img/icone/segnala2-tci.png

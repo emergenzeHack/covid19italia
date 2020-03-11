@@ -32,7 +32,7 @@ navbar-links:
    - About: "about/"
   # - Press: "press/"
    - Canali di Comunicazione: "canali/"
-   - Blog : "blog/"
+   - Blog : "post/"
   Partecipa!:
    - Aderisci al gruppo Telegram: 'https://t.me/covid19italia" target="_blank'
    - Contribuisci su GitHub: 'https://github.com/emergenzeHack/covid19italia/wiki" target="_blank'
