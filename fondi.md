@@ -3,9 +3,22 @@ layout: page
 title: Raccolte Fondi
 permalink: /fondi/
 ---
+
+
 <div class="panel-group">
 {% assign filteredissues = site.data.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'Raccolte fondi'"%}
-{% for member in filteredissues %}
+
+{% assign filteredissuesbyregione = filteredissues | group_by:"issue.data.regione" %}
+
+<ul>
+{% for membergroup in filteredissuesbyregione %}
+<li><a href="#{{membergroup.name}}">Regione: {{membergroup.name}}</a></li>
+{% endfor %}
+</ul>
+
+{% for membergroup in filteredissuesbyregione %}
+<h2 id="{{membergroup.name}}">Regione: {{membergroup.name}}</h2>
+{% for member in membergroup.items %}
 <div class="panel-body">
 <div class="list-group-item">
 <a href="/issues/{{ member.number | datapage_url: '.' }}">
@@ -51,5 +64,6 @@ permalink: /fondi/
 </ul>
 </div>
 </div>
+{% endfor %}
 {% endfor %}
 </div>

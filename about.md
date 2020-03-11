@@ -37,6 +37,15 @@ Matteo Fortini, Matteo Tempestini, Antonio Vivace, Vincenzo Tilotta, Maurizio De
 .....
 (i ringraziamenti sono in progress ogni giorno....Non avertene a male se non compari ancora, grazie lo stesso!)
 
+### Strumenti
+
+Questo sito è possibile grazie anche ai seguenti strumenti open source:
+
+- [Beautiful Jekyll](https://deanattali.com/beautiful-jekyll/)
+- Jekyll
+- OpenStreetMaps
+
+
 ### Contatti
 
 - [Email](mailto:covid19ita@gmail.com)
