@@ -15,7 +15,7 @@ Prima di creare la issue accertati:
 
 ## Richiesta
 <!--
-Scrivi quì sotto il testo che descrive il bug
+Scrivi quì sotto il testo che descrive lo sviluppo da effettuare
 -->
 
 
