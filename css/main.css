@@ -804,6 +804,7 @@ div.segnala > li {
     justify-content: space-around;
     padding: 0;
     margin: 0;
+    border: none;
     list-style: none;
 }
 
