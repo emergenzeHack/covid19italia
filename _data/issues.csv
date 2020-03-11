@@ -1,4 +1,19 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/164,579351957,2020-03-11 15:35:58,2020-03-11 15:31:46,CAV cittadini attivi #Brindisi,,,"[""Notizia"", ""accettato"", ""form""]",,,{},"```
+Cosa: 'CAV cittadini attivi #Brindisi'
+Descrizione: ""Dopo aver discusso insieme agli altri CAV della Regione Puglia, Brindisi\
+  \ sta mantenendo aperto il servizio:\n-\tassistenza telefonica \n-\tda ieri stanno\
+  \ garantendo la presenza di 1 persona per volta  \n-\tsolo per emergenze interviene\
+  \ l\u2019operatrice\n\nDi seguito i contatti:\n\nCAV del Comune di Brindisi \u201C\
+  Crisalide\u201D:\nCentro antiviolenza \u201CCRISALIDE\u201D \nEnte gestore: SOLIDARIET\xC0\
+  \ E RINNOVAMENTO Soc. Coop. arl\nVia Tor Pisana, 98 \u2013 72100 Brindisi\nTel.\
+  \ e fax: 0831 508776\ne-mail: crisalide.cav@tiscali.it\nGiorni di apertura: dal\
+  \ luned\xEC al sabato dalle 08.00 alle 19.00\n\nAssociazione IO DONNA\nVia Tor Pisana,\
+  \ 98, V piano, Brindisi\nTel 0831522034\nCell 3203253755\nEmail: iodonna.cav@libero.it\n\
+  www.associazioneiodonna.com\nFacebook: associazione Io Donna\nGiorni di apertura:\
+  \ luned\xEC, mercoled\xEC e venerd\xEC dalle 18.00 alle 20.00""
+Posizione: 40.63392 17.939713 0 0
+```",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/163,579349963,2020-03-11 15:34:40,2020-03-11 15:29:08,CAV cittadini attivi #Bari,,,"[""Notizia"", ""accettato"", ""form""]",,,{},"```
 Cosa: 'CAV cittadini attivi #Bari'
 Descrizione: ""I Centri Antiviolenza di BAri non si fermano. Di seguito i contatti:\n\
@@ -742,21 +757,20 @@ provincia: Lodi
 regione: Lombardia
 tag: Raccolta fondi
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/77,578924918,2020-03-11 15:34:48,2020-03-10 23:49:56,Raccolta per Azienda Ospedaliera #Cosenza per acquisto materiale sanitario,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Alfredo Taranto"", ""comune"": ""Cosenza"", ""contatti"": """", ""descrizione"": ""Raccolta per Azienda Ospedaliera di Cosenza per l\u2019acquisto di materiale medico e/o sanitario"", ""destinatari"": ""Annunziata di Cosenza"", ""fonte"": ""https://www.gofundme.com/f/calabria-anticovid"", ""provincia"": ""Cosenza"", ""regione"": ""Calabria"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Alfredo Taranto
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/77,578924918,2020-03-11 15:35:26,2020-03-10 23:49:56,Raccolta per Azienda Ospedaliera #Cosenza per acquisto materiale sanitario,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Alfredo Taranto"", ""comune"": ""Cosenza"", ""contatti"": """", ""descrizione"": ""Raccolta per Azienda Ospedaliera di Cosenza per l\u2019acquisto di materiale medico e/o sanitario"", ""destinatari"": ""tutti"", ""fonte"": ""https://www.gofundme.com/f/calabria-anticovid"", ""provincia"": ""Cosenza"", ""regione"": ""Calabria"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Alfredo Taranto
 comune: Cosenza
 contatti: ''
-descrizione: ""Raccolta per Azienda Ospedaliera di Cosenza per l\u2019acquisto di materiale\
-  \ medico e/o sanitario""
-destinatari: Annunziata di Cosenza
+descrizione: ""Raccolta per Azienda Ospedaliera di Cosenza per l\u2019acquisto di materiale medico e/o sanitario""
+destinatari: tutti
 fonte: https://www.gofundme.com/f/calabria-anticovid
 provincia: Cosenza
 regione: Calabria
 tag: Raccolta fondi
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/76,578924916,2020-03-10 23:56:47,2020-03-10 23:49:56,Donazione Osp. SantÓrsola-Malpighi,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Ospedale Sant\u00b4Orsola"", ""comune"": ""Bologna"", ""contatti"": """", ""descrizione"": ""Donazione Osp. Sant\u00d3rsola-Malpighi"", ""destinatari"": ""Ospedale Sant\u00b4Orsola"", ""fonte"": ""https://www.aosp.bo.it/content/fai-una-donazione?fbclid=IwAR2pTgWfhpFiOxEOTJEbbXWSisYdNrgoK9nOAHBImYSPmR1qG3iADLltu3s"", ""provincia"": ""Bologna"", ""regione"": ""Emilia Romagna"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: ""Ospedale Sant\xB4Orsola""
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/76,578924916,2020-03-11 15:36:43,2020-03-10 23:49:56,Raccolta fondi per Ospedale Sant’Orsola-Malpighi di #Bologna,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Ospedale Sant\u00b4Orsola"", ""comune"": ""Bologna"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per Ospedale Sant\u00d3rsola-Malpighi"", ""destinatari"": ""Ospedale Sant\u00b4Orsola"", ""fonte"": ""https://www.aosp.bo.it/content/fai-una-donazione?fbclid=IwAR2pTgWfhpFiOxEOTJEbbXWSisYdNrgoK9nOAHBImYSPmR1qG3iADLltu3s"", ""provincia"": ""Bologna"", ""regione"": ""Emilia Romagna"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: ""Ospedale Sant\xB4Orsola""
 comune: Bologna
 contatti: ''
-descrizione: ""Donazione Osp. Sant\xD3rsola-Malpighi""
+descrizione: ""Raccolta fondi per Ospedale Sant\xD3rsola-Malpighi""
 destinatari: ""Ospedale Sant\xB4Orsola""
 fonte: https://www.aosp.bo.it/content/fai-una-donazione?fbclid=IwAR2pTgWfhpFiOxEOTJEbbXWSisYdNrgoK9nOAHBImYSPmR1qG3iADLltu3s
 provincia: Bologna
