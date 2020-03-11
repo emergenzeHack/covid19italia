@@ -312,6 +312,27 @@ provincia: Ancona
 regione: Marche
 tag: ""Attivit\xE0 culturali e ricreative""
 </yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/115,578925954,2020-03-11 13:56:51,2020-03-10 23:53:28,Consegna a domicilio gratuita #Cosenza ,,,"[""Consegne e commissioni"", ""accettato""]",,,"{""chi"": ""Ass. Terra di Piero"", ""comune"": ""Cosenza"", ""contatti"": ""3382073382"", ""descrizione"": ""Consegna a domicilio gratuita"", ""destinatari"": ""over 65"", ""fonte"": ""https://www.facebook.com/TerradiPiero/"", ""provincia"": ""Cosenza"", ""regione"": ""Calabria"", ""tag"": ""Consegne e commissioni""}","<pre><yamldata>chi: Ass. Terra di Piero
+comune: Cosenza
+contatti: '3382073382'
+descrizione: Consegna a domicilio gratuita
+destinatari: over 65
+fonte: https://www.facebook.com/TerradiPiero/
+provincia: Cosenza
+regione: Calabria
+tag: Consegne e commissioni
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/114,578925953,2020-03-11 13:56:12,2020-03-10 23:53:27,Consegne e commissioni: per un buon vicinato #Milano,,,"[""Consegne e commissioni"", ""accettato""]",,,"{""chi"": ""GD Milano"", ""comune"": ""tutta Italia"", ""contatti"": """", ""descrizione"": ""Aiuti a vicini di casa anziani/e: dal fare la spesa, al comprare farmaci o dare una mano nella gestione degli animali domestici"", ""destinatari"": ""over 65"", ""fonte"": ""https://www.giovanidemocraticimilano.com/post/per-un-buon-vicinato?fbclid=IwAR1_QcEK5q8_uE5c5eUn2qhiZ-MGakS2IDx5ov8LtFgfkwf_GM5CUGd1dAw"", ""provincia"": ""tutta Italia"", ""regione"": ""tutta Italia"", ""tag"": ""Consegne e commissioni""}","<pre><yamldata>chi: GD Milano
+comune: tutta Italia
+contatti: ''
+descrizione: 'Aiuti a vicini di casa anziani/e: dal fare la spesa, al comprare farmaci
+  o dare una mano nella gestione degli animali domestici'
+destinatari: over 65
+fonte: https://www.giovanidemocraticimilano.com/post/per-un-buon-vicinato?fbclid=IwAR1_QcEK5q8_uE5c5eUn2qhiZ-MGakS2IDx5ov8LtFgfkwf_GM5CUGd1dAw
+provincia: tutta Italia
+regione: tutta Italia
+tag: Consegne e commissioni
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/113,578925949,2020-03-11 13:40:17,2020-03-10 23:53:27,Sospensione da 3 a 6 mesi finanziamenti Intesa San Paolo,,,"[""Servizi e iniziative solidali private"", ""accettato""]",,,"{""chi"": ""Intesa San Paolo"", ""comune"": ""Italia"", ""contatti"": """", ""descrizione"": ""Sospensione da 3 a 6 mesi della rata dei finanziamenti"", ""destinatari"": ""clienti intesa San Paolo"", ""fonte"": ""https://group.intesasanpaolo.com/it/sala-stampa/news/il-mondo-di-intesa-sanpaolo/2020/coronavirus--intesa-sanpaolo-in-aiuto--di-famiglie-e-imprese"", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Servizi e iniziative solidali private""}","<pre><yamldata>chi: Intesa San Paolo
 comune: Italia
 contatti: ''
