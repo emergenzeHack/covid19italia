@@ -26,6 +26,6 @@ Scrivi quì sotto il testo con cui spieghi passo passo come riproduci il bug
 
 ## Test
 <!--
-NON MODIFICARE: Metti una X quando sei certo che il bug è stato risolto e sei contento :-)
+NON MODIFICARE: Metti una X quando sei certo che il bug sia stato risolto e sei contento :-)
 -->
 * [] Test effettuato
