@@ -2,39 +2,15 @@
   logo: /img/icone/11-comunicolpiti.png
   map: true
   link: mappa
-- name: Mappa Fabbisogni
+- name: PARTECIPA
   logo: /img/icone/01-fabbisogni.png
   map: true
   link: 2016-09-22-mappa-fabbisogni
-- name: Mappa Contatti
-  logo: /img/icone/02-contatti.png
-  map: true
-  link: 2016-09-22-mappa-contatti
-- name: Mappa Alloggi
-  logo: /img/icone/03-alloggi.png
-  map: true
-  link: 2016-09-22-mappa-alloggi
-- name: Mappa Viabilità
-  logo: /img/icone/09-traffico.png
-  map: true
-  link: 2016-08-25-mappa-traffico
-- name: Mappa Comuni Colpiti
-  logo: /img/icone/11-comunicolpiti.png
-  map: true
-  link: 2017-03-21-mappa-comuni-cratere-bis
-- name: Foto Satellitari
-  logo: /img/icone/08-fotosatellitari.png
-  map: true
-  link: 2016-08-28-foto-satellitari
-- name: Risorse Openstreetmap
-  logo: /img/icone/07-openstreetmap.png
-  map: true
-  link: 2016-08-29-risorse-openstreetmap
 - name: SEGNALA
   logo: /img/icone/segnala2-tci.png
   map: false
   link: segnala
-- name: NORMATIVA NAZIONALE
+- name: FONTI ISTITUZIONALI
   logo: /img/icone/tci-legge.png
   map: false
   link: normativa_nazionale
