@@ -5,32 +5,31 @@ Descrizione: ""La Fondazione Cineteca di Milano ha reso gratuito il catalogo in 
   \ dei film. \xC8 sufficiente registrarsi.""
 Link: https://www.cinetecamilano.it/biblioteca
 ```",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/145,578926092,2020-03-10 23:56:56,2020-03-10 23:53:54,Raccolta fondi per aiutare concretamente le persone che lavorano negli ospedali,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Fondazione Policlinico Sant\u2019Orsola"", ""comune"": ""Bologna"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per aiutare concretamente le persone che lavorano negli ospedali"", ""destinatari"": ""Personale ospedaliero"", ""fonte"": ""https://www.fondazionesantorsola.it/progetti/piu-forti-insieme/"", ""provincia"": ""Bologna"", ""regione"": ""Emilia-Romagna"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: ""Fondazione Policlinico Sant\u2019Orsola""
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/145,578926092,2020-03-11 10:57:21,2020-03-10 23:53:54,Raccolta fondi per aiutare ospedali a #Bologna,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Fondazione Policlinico Santa Orsola"", ""comune"": ""Bologna"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per aiutare concretamente le persone che lavorano negli ospedali."", ""destinatari"": ""Personale ospedaliero"", ""fonte"": ""https://www.fondazionesantorsola.it/progetti/piu-forti-insieme/"", ""provincia"": ""Bologna"", ""regione"": ""Emilia-Romagna"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: ""Fondazione Policlinico Santa Orsola""
 comune: Bologna
 contatti: ''
-descrizione: Raccolta fondi per aiutare concretamente le persone che lavorano negli
-  ospedali
+descrizione: Raccolta fondi per aiutare concretamente le persone che lavorano negli ospedali.
 destinatari: Personale ospedaliero
 fonte: https://www.fondazionesantorsola.it/progetti/piu-forti-insieme/
 provincia: Bologna
 regione: Emilia-Romagna
 tag: Raccolta fondi
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/144,578926086,2020-03-10 23:56:56,2020-03-10 23:53:53,Raccolta fondi Ospedale Sacco Milano,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Ospedale Sacco"", ""comune"": ""Milano "", ""contatti"": """", ""descrizione"": ""Raccolta fondi Ospedale Sacco Milano"", ""destinatari"": ""Tutt"", ""fonte"": ""https://www.asst-fbf-sacco.it/news/info/sostegno-economico-per-emergenza-covid-19"", ""provincia"": ""Milano"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Ospedale Sacco
-comune: 'Milano '
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/144,578926086,2020-03-11 10:58:35,2020-03-10 23:53:53,Raccolta fondi Ospedale Sacco #Milano,,,"[""Raccolte fondi"", ""accettato""]",,,{},"<pre><yamldata>chi: Ospedale Sacco
+comune: 'Milano’
 contatti: ''
 descrizione: Raccolta fondi Ospedale Sacco Milano
-destinatari: Tutt
+destinatari: Tutti
 fonte: https://www.asst-fbf-sacco.it/news/info/sostegno-economico-per-emergenza-covid-19
 provincia: Milano
 regione: Lombardia
 tag: Raccolta fondi
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/143,578926081,2020-03-10 23:56:56,2020-03-10 23:53:52,Raccolta fondi per ospedali bresciani,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Fondazione Comunit\u00e0 Bresciana Onlus"", ""comune"": ""Brescia"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per ospedali bresciani"", ""destinatari"": ""Tutt"", ""fonte"": ""https://www.giornaledibrescia.it/brescia-e-hinterland/aiutiamobrescia-la-raccolta-fondi-per-gli-ospedali-bresciani-1.3465790"", ""provincia"": ""Brescia"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: ""Fondazione Comunit\xE0 Bresciana Onlus""
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/143,578926081,2020-03-11 10:59:26,2020-03-10 23:53:52,Raccolta fondi per ospedali #Brescia,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Fondazione Comunit\u00e0 Bresciana Onlus"", ""comune"": ""Brescia"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per ospedali bresciani"", ""destinatari"": ""Tutti"", ""fonte"": ""https://www.giornaledibrescia.it/brescia-e-hinterland/aiutiamobrescia-la-raccolta-fondi-per-gli-ospedali-bresciani-1.3465790"", ""provincia"": ""Brescia"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: ""Fondazione Comunit\xE0 Bresciana Onlus""
 comune: Brescia
 contatti: ''
 descrizione: Raccolta fondi per ospedali bresciani
-destinatari: Tutt
+destinatari: Tutti
 fonte: https://www.giornaledibrescia.it/brescia-e-hinterland/aiutiamobrescia-la-raccolta-fondi-per-gli-ospedali-bresciani-1.3465790
 provincia: Brescia
 regione: Lombardia
