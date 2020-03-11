@@ -1,5 +1,5 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/175,579412900,2020-03-11 17:10:22,2020-03-11 17:00:58,"Casa Pigneto, un quartiere solidale #Roma",,,"[""Consegne e commissioni"", ""accettato""]",,,{},"```
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/175,579412900,2020-03-11 18:58:32,2020-03-11 17:00:58,"Casa Pigneto, un quartiere solidale #Roma",,,"[""Consegne e commissioni"", ""accettato""]",,,"{""Da_chi_offerta"": ""Circolo Arci Sparwasser"", ""Descrizione"": ""Mutuo aiuto, consegna beni di prima necessit\u00e0"", ""Destinatari"": ""over 65, tutti"", ""Link"": ""https://www.facebook.com/ArciSparwasser/photos/a.186052468403331/1118309415177627/?type=3&theater"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Casa Pigneto, un quartiere solidale"", ""meta/deprecatedID"": ""uuid:f334f5c4-fe0e-48f7-aea7-490751287d74"", ""natura"": ""solidale""}","<pre><yamldata>
 Da_chi_offerta: Circolo Arci Sparwasser
 Descrizione: ""Mutuo aiuto, consegna beni di prima necessit\xE0""
 Destinatari: over 65, tutti
@@ -8,7 +8,7 @@ Tipo_di_soggetto: privato
 Titolo: Casa Pigneto, un quartiere solidale
 meta/deprecatedID: uuid:f334f5c4-fe0e-48f7-aea7-490751287d74
 natura: solidale
-```",open
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/164,579351957,2020-03-11 17:01:45,2020-03-11 15:31:46,A #Brindisi il centro antiviolenza rimane attivo,,,"[""Notizia"", ""accettato"", ""form""]",,,{},"```
 Cosa: 'CAV cittadini attivi #Brindisi'
 Descrizione: ""Dopo aver discusso insieme agli altri CAV della Regione Puglia, Brindisi\
