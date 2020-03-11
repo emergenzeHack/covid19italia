@@ -1,4 +1,10 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/146,579114701,2020-03-11 10:33:23,2020-03-11 09:16:45,Cineteca di #Milano ha reso gratuito catalogo film in streaming,,,"[""Attivit\u00e0 culturali e ricreative"", ""accettato""]",,,{},"```
+Cosa: Catalogo di film in streaming gratuiti
+Descrizione: ""La Fondazione Cineteca di Milano ha reso gratuito il catalogo in streaming\
+  \ dei film. \xC8 sufficiente registrarsi.""
+Link: https://www.cinetecamilano.it/biblioteca
+```",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/145,578926092,2020-03-10 23:56:56,2020-03-10 23:53:54,Raccolta fondi per aiutare concretamente le persone che lavorano negli ospedali,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Fondazione Policlinico Sant\u2019Orsola"", ""comune"": ""Bologna"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per aiutare concretamente le persone che lavorano negli ospedali"", ""destinatari"": ""Personale ospedaliero"", ""fonte"": ""https://www.fondazionesantorsola.it/progetti/piu-forti-insieme/"", ""provincia"": ""Bologna"", ""regione"": ""Emilia-Romagna"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: ""Fondazione Policlinico Sant\u2019Orsola""
 comune: Bologna
 contatti: ''
