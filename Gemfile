@@ -17,7 +17,6 @@ group :jekyll_plugins do
   gem 'jekyll-gist'
   gem 'jekyll-paginate'
   gem 'jekyll-coffeescript'
-  gem 'jekyll-datapage-generator'
   gem 'jekyll-seo-tag'
   gem 'listen'
   gem 'activesupport'

@@ -206,18 +206,21 @@ collections:
   storie:
     output: true
 
-page_gen-dirs: true # uncomment, if you prefer to generate named folders
-page_gen:
-  - data: issuesjson
-    template: issue
-    name: number
-    dir: issues
-
 gems:
   - jekyll-paginate
+  - jekyll-datapage-generator
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-tidy
+
+page_gen-dirs: true # uncomment, if you prefer to generate named folders
+page_gen:
+    - index_files: false
+      data: issuesjson
+      template: issue
+      name: number
+      dir: issues
+
 
 jekyll_tidy:
   exclude: []
