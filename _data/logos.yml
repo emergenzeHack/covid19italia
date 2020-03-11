@@ -18,6 +18,10 @@
   logo: /img/icone/tci-solidali.png
   map: false
   link: servizi_e_iniziative_solidali_private
+- name: ARCHIVIO SEGNALAZIONI
+  logo: /img/icone/05-segnalazioni.png
+  map: false
+  link: issues
   #- name: FAKE NEWS
   #  logo: /img/icone/bufala-tci-1.png
   #  map: false

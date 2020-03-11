@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Issues
+title: Segnalazioni
 permalink: /issues/
 ---
 
@@ -24,10 +24,6 @@ permalink: /issues/
 
 <link rel="stylesheet" href="{{ site.url }}/css/Control.Geocoder.css" />
 <script src="{{ site.url }}/js/Control.Geocoder.js"></script>
-
-<div class="row"><div class="col-md-12"> <div id="map"></div> </div> </div>
-<div class="row"><div class="col-md-4">Latitudine</div><div class="col-md-4" id="lat"></div></div>
-<div class="row"><div class="col-md-4">Longitudine</div><div class="col-md-4" id="lng"></div></div>
 
 ---
 # Raccolte fondi
@@ -156,63 +152,3 @@ permalink: /issues/
 </div>
 {% endfor %}
 </div>
-
-<script>
-var markerList=[];
-{% for member in site.data.issuesjson %}
-{% if member.issue.lat != blank and member.issue.lon != blank %}
-{% if member.issue.labels contains "Notizie Utili" %}
-markerList.push([{{member.issue.lat}}, {{member.issue.lon}}, "{{member.title|uri_escape}}", "{{ member.number }}", "Notizie Utili"]);
-{% elsif member.issue.labels contains "Alloggi" %}
-markerList.push([{{member.issue.lat}}, {{member.issue.lon}}, "{{member.title|uri_escape}}", "{{ member.number }}", "Alloggi"]);
-{% elsif member.issue.labels contains "Fabbisogni" %}
-markerList.push([{{member.issue.lat}}, {{member.issue.lon}}, "{{member.title|uri_escape}}", "{{ member.number }}", "Fabbisogni"]);
-{% elsif member.issue.labels contains "Donazioni" %}
-markerList.push([{{member.issue.lat}}, {{member.issue.lon}}, "{{member.title|uri_escape}}", "{{ member.number }}", "Donazioni"]);
-{% elsif member.issue.labels contains "Raccolte Fondi" %}
-markerList.push([{{member.issue.lat}}, {{member.issue.lon}}, "{{member.title|uri_escape}}", "{{ member.number }}", "Raccolte Fondi"]);
-{% else %}
-markerList.push([{{member.issue.lat}}, {{member.issue.lon}}, "{{member.title|uri_escape}}", "{{ member.number }}", ""]);
-{% endif %}
-{% endif %}
-{% endfor %}
-
-var alloggiMarker = L.AwesomeMarkers.icon({
-icon: 'home',
-prefix: 'fa',
-markerColor: 'green'
-});
-var fabbisogniMarker = L.AwesomeMarkers.icon({
-icon: 'child',
-prefix: 'fa',
-markerColor: 'blue'
-});
-var notizieutiliMarker = L.AwesomeMarkers.icon({
-icon: 'newspaper-o',
-prefix: 'fa',
-markerColor: 'orange'
-});
-var donazioniMarker = L.AwesomeMarkers.icon({
-icon: 'handshake-o',
-prefix: 'fa',
-markerColor: 'red'
-});
-var raccoltefondiMarker = L.AwesomeMarkers.icon({
-icon: 'money',
-prefix: 'fa',
-markerColor: 'blue'
-});
-
-// initialize the map
-//var map = L.map('map')
-
-// create the tile layer with correct attribution
-// var osmUrl='{{site.tile_map}}';
-// var osmAttrib='&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>, Tiles courtesy of <a href="http://leafletjs.com/" target="_blank">Leaflet</a>';
-// var osm = new L.TileLayer(osmUrl, {minZoom: 6, maxZoom: 19, attribution: osmAttrib});
-
-
-// var sumLat = 0.;
-// var sumLon = 0.;
-
-</script>

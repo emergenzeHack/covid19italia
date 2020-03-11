@@ -25,7 +25,7 @@ Il progetto, laddove lo si ritenga utile, è usabile da organizzazioni, associaz
 
 Il progetto è descritto tramite il nostro [wiki](https://github.com/emergenzeHack/covid19italia/wiki).
 
-L'idea (ed anche buona parte del progetto) è dello stesso team che ha sviluppato il progetto [TerremotoCentroItalia](https://www.terremotocentroitalia.info).
+L'idea (ed anche buona parte del progetto) è dello stesso team che ha sviluppato il progetto [TerremotoCentroItalia](https://wwww.terremotocentroitalia.info).
 
 ### Credits
 
