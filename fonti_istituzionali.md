@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Normativa nazionale
-permalink: /normativa-nazionale/
+title: Fonti istituzionali
+permalink: /fonti-istituzionali/
 ---
 <div class="panel-group">
-{% assign filteredissues = site.data.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'Normativa nazionale'"%}
+{% assign filteredissues = site.data.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'Fonti istituzionali'"%}
 {% for member in filteredissues %}
 <div class="panel-body">
 <div class="list-group-item">

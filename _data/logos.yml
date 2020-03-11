@@ -13,7 +13,7 @@
 - name: FONTI ISTITUZIONALI
   logo: /img/icone/tci-legge.png
   map: false
-  link: normativa_nazionale
+  link: fonti-istituzionali/
 - name: INIZIATIVE SOLIDALI
   logo: /img/icone/tci-solidali.png
   map: false
