@@ -312,6 +312,16 @@ provincia: Ancona
 regione: Marche
 tag: ""Attivit\xE0 culturali e ricreative""
 </yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/113,578925949,2020-03-11 13:40:17,2020-03-10 23:53:27,Sospensione da 3 a 6 mesi finanziamenti Intesa San Paolo,,,"[""Servizi e iniziative solidali private"", ""accettato""]",,,"{""chi"": ""Intesa San Paolo"", ""comune"": ""Italia"", ""contatti"": """", ""descrizione"": ""Sospensione da 3 a 6 mesi della rata dei finanziamenti"", ""destinatari"": ""clienti intesa San Paolo"", ""fonte"": ""https://group.intesasanpaolo.com/it/sala-stampa/news/il-mondo-di-intesa-sanpaolo/2020/coronavirus--intesa-sanpaolo-in-aiuto--di-famiglie-e-imprese"", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Servizi e iniziative solidali private""}","<pre><yamldata>chi: Intesa San Paolo
+comune: Italia
+contatti: ''
+descrizione: Sospensione da 3 a 6 mesi della rata dei finanziamenti
+destinatari: clienti intesa San Paolo
+fonte: https://group.intesasanpaolo.com/it/sala-stampa/news/il-mondo-di-intesa-sanpaolo/2020/coronavirus--intesa-sanpaolo-in-aiuto--di-famiglie-e-imprese
+provincia: Italia
+regione: Italia
+tag: Servizi e iniziative solidali private
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/112,578925943,2020-03-11 13:38:49,2020-03-10 23:53:26,Consegna a domicilio gratuita Coop #Milano,,,"[""Consegne e commissioni"", ""accettato""]",,,"{""chi"": ""Coop Milano"", ""comune"": ""Milano"", ""contatti"": """", ""descrizione"": ""Consegna a domicilio gratuita"", ""destinatari"": ""Over 65"", ""fonte"": ""https://www.partecipacoop.org/consegna-gratuita-della-spesa-a-domicilio-per-over-65/"", ""provincia"": ""Milano"", ""regione"": ""Lombardia"", ""tag"": ""Consegne e commissioni""}","<pre><yamldata>chi: Coop Milano
 comune: Milano
 contatti: ''
