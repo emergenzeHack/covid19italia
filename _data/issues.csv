@@ -1,5 +1,15 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/164,579351957,2020-03-11 15:35:58,2020-03-11 15:31:46,CAV cittadini attivi #Brindisi,,,"[""Notizia"", ""accettato"", ""form""]",,,{},"```
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/175,579412900,2020-03-11 18:58:32,2020-03-11 17:00:58,"Casa Pigneto, un quartiere solidale #Roma",,,"[""Consegne e commissioni"", ""accettato""]",,,"{""Da_chi_offerta"": ""Circolo Arci Sparwasser"", ""Descrizione"": ""Mutuo aiuto, consegna beni di prima necessit\u00e0"", ""Destinatari"": ""over 65, tutti"", ""Link"": ""https://www.facebook.com/ArciSparwasser/photos/a.186052468403331/1118309415177627/?type=3&theater"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Casa Pigneto, un quartiere solidale"", ""meta/deprecatedID"": ""uuid:f334f5c4-fe0e-48f7-aea7-490751287d74"", ""natura"": ""solidale""}","<pre><yamldata>
+Da_chi_offerta: Circolo Arci Sparwasser
+Descrizione: ""Mutuo aiuto, consegna beni di prima necessit\xE0""
+Destinatari: over 65, tutti
+Link: https://www.facebook.com/ArciSparwasser/photos/a.186052468403331/1118309415177627/?type=3&theater
+Tipo_di_soggetto: privato
+Titolo: Casa Pigneto, un quartiere solidale
+meta/deprecatedID: uuid:f334f5c4-fe0e-48f7-aea7-490751287d74
+natura: solidale
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/164,579351957,2020-03-11 17:01:45,2020-03-11 15:31:46,A #Brindisi il centro antiviolenza rimane attivo,,,"[""Notizia"", ""accettato"", ""form""]",,,{},"```
 Cosa: 'CAV cittadini attivi #Brindisi'
 Descrizione: ""Dopo aver discusso insieme agli altri CAV della Regione Puglia, Brindisi\
   \ sta mantenendo aperto il servizio:\n-\tassistenza telefonica \n-\tda ieri stanno\
@@ -14,8 +24,8 @@ Descrizione: ""Dopo aver discusso insieme agli altri CAV della Regione Puglia, B
   \ luned\xEC, mercoled\xEC e venerd\xEC dalle 18.00 alle 20.00""
 Posizione: 40.63392 17.939713 0 0
 ```",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/163,579349963,2020-03-11 15:34:40,2020-03-11 15:29:08,CAV cittadini attivi #Bari,,,"[""Notizia"", ""accettato"", ""form""]",,,{},"```
-Cosa: 'CAV cittadini attivi #Bari'
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/163,579349963,2020-03-11 17:01:02,2020-03-11 15:29:08,A #Bari il centro antiviolenza rimane attivo,,,"[""Notizia"", ""accettato"", ""form""]",,,{},"```
+Cosa: 'centro antiviolenza Bari'
 Descrizione: ""I Centri Antiviolenza di BAri non si fermano. Di seguito i contatti:\n\
   \nCentro Antiviolenza del Comune di Bari:\nStrada S. Giorgio n. 21, Bari\nNumero\
   \ Verde: 800202330 (attivo h24) \nNumero di pubblica utilit\xE0: 1522 (attivo h24)\
@@ -27,6 +37,100 @@ https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/162,579331954
 Cosa: ""Gi\xF9 il muro: ilmanifesto.it gratis per tutti""
 Descrizione: Servizio gratuito di fruizione del quotidiano on-line (abbassato paywall)
 Link: https://ilmanifesto.it/giu-il-muro-ilmanifesto-it-gratis-per-tutti/
+```",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/160,579296089,2020-03-11 17:23:10,2020-03-11 14:14:47,Donazioni per ospedale di #Crotone,,,"[""Raccolte fondi"", ""accettato""]",,,{},"```
+Da_chi_offerta: Matteo Arminio
+Descrizione: ""Mi chiamo Matteo Arminio, sono un tecnico sanitario di radiologia medica,\
+  \ sono preoccupato e ho deciso di agire istintivamente. \nHo cercato su google vari\
+  \ siti per poter organizzare questa raccolta, ho trovato questa piattaforma affidabile\
+  \ per altre raccolte organizzate e cos\xEC ho deciso di utilizzarla.\n\nHo scelto\
+  \ quest'ospedale perch\xE8 \xE8 il punto di riferimento per tutta la provincia,\
+  \ \xE8 il punto di riferimento per tutti noi cittadini e perch\xE8 credo fortemente\
+  \ che abbia bisogno di supporto materiale.\n\nOggi ci troviamo a fronteggiare un\
+  \ emergenza che non conosce eguali, oggi pi\xF9 che mai con un piccolo contributo,\
+  \ possiamo aiutare l'Ospedale San Giovanni di Dio di Crotone all'acquisto di ventilatori\
+  \ o di altro materiale che supporti tutte le persone che cercano di combattere questo\
+  \ virus.\n\nHo 25 anni e da professionista sanitario,  non posso permettermi di\
+  \ non fare niente in questa situazione pur non vivendo pi\xF9 nella mia citt\xE0\
+  , lo devo ai miei genitori, ai miei parenti, ai miei amici, ai miei conoscenti ed\
+  \ alla MIA citt\xE0.\n\nNon siamo in Veneto, in Lombardia,  nel nord Italia, siamo\
+  \ in Calabria,dobbiamo fare in modo di sostenerci, perch\xE9 non abbiamo, n\xE9\
+  \ i materiali e n\xE8 attrezzature a sufficienza per contrastare quest'epidemia.\n\
+  \n\nFacciamo qualcosa e rendiamoci utili.""
+Destinatari: Ospedale di Crotone
+Link: https://www.gofundme.com/f/crotonecovid19?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet
+Natura_dell_iniziativa: solidale
+Tipo_di_soggetto: privato
+Titolo: CROTONE-Emergenza Covid19
+```",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/159,579294490,2020-03-11 19:02:29,2020-03-11 14:12:39,Raccolta fondi per l'Ospedale Jazzolino di #ViboValentia ,,,"[""Raccolte fondi"", ""accettato""]",,,"{""Da_chi_offerta"": ""Associazioni: Valentia, Calabriafood Official e Welcome to Favelas Vibo"", ""Descrizione"": ""Siamo i ragazzi dell\u2019associazione Valentia, Calabriafood Official e Welcome to Favelas Vibo, insieme a tanti giovani Vibonesi.\nNel nostro piccolo e nelle nostre possibilit\u00e0 possiamo fare la differenza. Donate e se non potete condividete. In questi momenti bisogna rimanere uniti.  Anche un piccolo contributo pu\u00f2 fare la differenza.\nIn questa fase cosi drammatica, dal punto di vista sociale e sanitario, possiamo e dobbiamo anche noi fare qualcosa.\n\nPer tale motivo abbiamo pensato di organizzare questa raccolta fondi a favore dell'Ospedale Jazzolino di VIbo Valentia per rafforzare la terapia intensiva e/o per l\u2019acquisto di materiale medico sanitario necessario a fronteggiare l\u2019emergenza COVID-19\n\nComunichiamo che il ricavato verr\u00e0 devoluto interamente per affrontare l\u2019acquisto di materiale medico e/o sanitario necessario a fronteggiare l\u2019emergenza COVID-19.\nIl materiale da acquistare verr\u00e0 indicato dall'Azienda Ospedaliera  secondo le proprie esigenze, da valutare anche alla luce della cifra finale che verr\u00e0 raggiunta. \n\nAl termine della raccolta verranno specificate le modalit\u00e0 di erogazione e dimostrazione dell'avvenuta erogazione."", ""Destinatari"": ""Ospedale Vibo Valentia"", ""Link"": ""https://www.gofundme.com/f/raccolta-fondi-a-favore-dell039ospedale-jazzolino"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Covid-19, raccolta fondi ospedale di Vibo Valentia""}","<pre><yamldata>
+Da_chi_offerta: 'Associazioni: Valentia, Calabriafood Official e Welcome to Favelas
+  Vibo'
+Descrizione: ""Siamo i ragazzi dell\u2019associazione Valentia, Calabriafood Official\
+  \ e Welcome to Favelas Vibo, insieme a tanti giovani Vibonesi.\nNel nostro piccolo\
+  \ e nelle nostre possibilit\xE0 possiamo fare la differenza. Donate e se non potete\
+  \ condividete. In questi momenti bisogna rimanere uniti.  Anche un piccolo contributo\
+  \ pu\xF2 fare la differenza.\nIn questa fase cosi drammatica, dal punto di vista\
+  \ sociale e sanitario, possiamo e dobbiamo anche noi fare qualcosa.\n\nPer tale\
+  \ motivo abbiamo pensato di organizzare questa raccolta fondi a favore dell'Ospedale\
+  \ Jazzolino di VIbo Valentia per rafforzare la terapia intensiva e/o per l\u2019\
+  acquisto di materiale medico sanitario necessario a fronteggiare l\u2019emergenza\
+  \ COVID-19\n\nComunichiamo che il ricavato verr\xE0 devoluto interamente per affrontare\
+  \ l\u2019acquisto di materiale medico e/o sanitario necessario a fronteggiare l\u2019\
+  emergenza COVID-19.\nIl materiale da acquistare verr\xE0 indicato dall'Azienda Ospedaliera\
+  \  secondo le proprie esigenze, da valutare anche alla luce della cifra finale che\
+  \ verr\xE0 raggiunta. \n\nAl termine della raccolta verranno specificate le modalit\xE0\
+  \ di erogazione e dimostrazione dell'avvenuta erogazione.""
+Destinatari: Ospedale Vibo Valentia
+Link: https://www.gofundme.com/f/raccolta-fondi-a-favore-dell039ospedale-jazzolino
+Tipo_di_soggetto: privato
+Titolo: Covid-19, raccolta fondi ospedale di Vibo Valentia
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/158,579292984,2020-03-11 17:13:23,2020-03-11 14:10:25,Donazioni per Ospedali  #ReggioCalabria,,,"[""Raccolta fondi"", ""Raccolte fondi"", ""accettato""]",,,{},"```
+Da_chi_offerta: Simona Vazzana
+Descrizione: ""La situazione in Italia dovuta al COVID-9 \xE8 degenerata con le partenze\
+  \ di domenica mattina per tutto il sud Italia. I decessi aumentano di giorno in\
+  \ giorno cos\xEC come i contagi, e la Lombardia che ha il SSN migliore della penisola\
+  \ \xE8 al collasso. Inutile sperare che la situazione qui non peggiori, soprattutto\
+  \ alla luce di tutti questi spostamenti incontrollati; sappiamo tutti che non siamo\
+  \ minimamente attrezzati e che la nostra regione ed in particolare la citt\xE0 di\
+  \ Reggio Calabria sono le pi\xF9 precarie. Abbiamo BISOGNO di fondi che ci consentano\
+  \ di potenziare la terapia intensiva e il reparto di malattie infettive, stavolta\
+  \ abbiamo la possibilit\xE0 di PREVENIRE la situazione e di non arrivare impreparati,\
+  \ da questo nasce l\u2019idea di far partire gi\xE0 da ora questa raccolta fondi:\
+  \ per portarci AVANTI col lavoro, e per giocare per una volta d\u2019ANTICIPO contro\
+  \ un nemico per il quale siamo disarmati!""
+Destinatari: Ospedali Reggio Calabria
+Link: https://www.gofundme.com/f/ospedale-riuniti-di-reggio-calabria-covid19
+Natura_dell_iniziativa: solidale
+Tipo_di_soggetto: privato
+Titolo: Ospedale Riuniti di Reggio Calabria - COVID-19
+```",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/157,579291637,2020-03-11 17:09:33,2020-03-11 14:08:29,Donazioni per presidio Osp. Spoke di #Corigliano-Rossano,,,"[""Raccolte fondi"", ""accettato""]",,,{},"```
+Descrizione: ""il ricavato verr\xE0 devoluto al presidio Ospedaliero Spoke di Corigliano\
+  \ Rossano per l\u2019acquisto di materiale medico e/o sanitario necessario a fronteggiare\
+  \ l\u2019emergenza COVID-19. Il materiale da acquistare verr\xE0 indicato dagli\
+  \ Spoke stessi secondo le proprie esigenze, da valutare anche alla luce della cifra\
+  \ finale che verr\xE0 raggiunta.  Al termine della raccolta verranno specificate\
+  \ le modalit\xE0 di erogazione e dimostrazione dell'avvenuta erogazione.""
+Destinatari: Presidio Osp. Spoke di Corigliano-Rossano
+Link: https://www.gofundme.com/f/covid19-ospedale-di-corigliano-rossano?utm_source=whatsapp-visit&utm_medium=chat&utm_campaign=p_cp+share-sheet
+Natura_dell_iniziativa: solidale
+Tipo_di_soggetto: privato
+Titolo: COVID-19 Presidio Osp. Spoke di Corigliano-Rossano
+```",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/156,579290146,2020-03-11 17:05:50,2020-03-11 14:06:20,Donazione per ASL #Cosenza,,,"[""Raccolte fondi"", ""accettato""]",,,{},"```
+Descrizione: ""Il ricavato verr\xE0 devoluto all\u2019Azienda Ospedaliera di Cosenza\
+  \ e sar\xE0 vincolato all\u2019acquisto di materiale medico e/o sanitario necessario\
+  \ a fronteggiare l\u2019emergenza COVID-19,\nquali attrezzature per l\u2019UTI,\
+  \ cpap, dispositivi di protezione (tute, mascherine e occhiali protettivi) e quant\u2019\
+  altro verr\xE0 ritenuto dall\u2019Azienda Ospedaliera stessa secondo le proprie\
+  \ esigenze, da valutare anche alla luce della cifra finale che verr\xE0 raggiunta.""
+Destinatari: Azienda Ospedaliera di Cosenza
+Link: https://www.gofundme.com/f/cosenza-anticovid?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet
+Natura_dell_iniziativa: solidale
+Tipo_di_soggetto: privato
+Titolo: Cosenza Anti-Covid
 ```",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/153,579250617,2020-03-11 14:32:23,2020-03-11 13:07:21,Iniziative culturali e ricreative #Firenze,,,"[""Iniziative culturali e ricreative"", ""accettato""]",,,{},"```
 Cosa: Todomodo (libreria - Firenze
@@ -817,3 +921,33 @@ provincia: Milano
 regione: Lombardia
 tag: Raccolta fondi
 </yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/70,578924894,2020-03-11 16:58:01,2020-03-10 23:49:51,Raccolta fondi Caritas #Lodi ,,,"[""Raccolte fondi"", ""Sostegno lavoro e imprese"", ""accettato""]",,,"{""chi"": ""Caritas Lodi"", ""comune"": ""Lodi"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per supportare Centro Raccolta Solidale e per fondo a sostegno di chi ha perso il lavoro."", ""destinatari"": ""famiglie in difficolt\u00e0, disoccupati"", ""fonte"": ""http://caritas.diocesi.lodi.it/blog/2020/03/06/coronavirus/?fbclid=IwAR0v5jiNMfm3TPdtHChDL9_-Ixt1735vOqYuSHn8ihoGDpVaDK0xHOJO_74"", ""provincia"": ""Lodi"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Caritas Lodi
+comune: Lodi
+contatti: ''
+descrizione: Raccolta fondi per supportare Centro Raccolta Solidale e per fondo a sostegno di chi ha perso il lavoro.
+destinatari: famiglie in difficoltà, disoccupati
+fonte: http://caritas.diocesi.lodi.it/blog/2020/03/06/coronavirus/?fbclid=IwAR0v5jiNMfm3TPdtHChDL9_-Ixt1735vOqYuSHn8ihoGDpVaDK0xHOJO_74
+provincia: Lodi
+regione: Lombardia
+tag: Raccolta fondi
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/69,578924892,2020-03-11 16:59:26,2020-03-10 23:49:50,Raccolta fondi per terapia intensiva ospedale Vito Fazzi di #Lecce,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Luigi E. Conte & Co."", ""comune"": ""Lecce"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per aumentare i posti di terapia intensiva dell'ospedale Vito Fazzi e permettere all'ASL di Lecce l'acquisto di materiale destinati a contrastare la diffusione del virus in ambito sanitario."", ""destinatari"": ""Ospedale Vito Fazzi Lecce"", ""fonte"": ""https://www.gofundme.com/f/2dqhr-coronavirus-rafforziamo-la-terapia-intensiva?utm_medium=copy_link&utm_source=customer&utm_campaign=p_lico+share-sheet+exp4vb"", ""provincia"": ""Lecce"", ""regione"": ""Puglia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Luigi E. Conte & Co.
+comune: Lecce
+contatti: ''
+descrizione: Raccolta fondi per aumentare i posti di terapia intensiva dell'ospedale Vito Fazzi e permettere all'ASL di Lecce l'acquisto di materiale destinati a contrastare la diffusione del virus in ambito sanitario.
+destinatari: Ospedale Vito Fazzi Lecce
+fonte: https://www.gofundme.com/f/2dqhr-coronavirus-rafforziamo-la-terapia-intensiva?utm_medium=copy_link&utm_source=customer&utm_campaign=p_lico+share-sheet+exp4vb
+provincia: Lecce
+regione: Puglia
+tag: Raccolta fondi
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/64,578923579,2020-03-11 18:42:28,2020-03-10 23:45:14,Raccolta Fondi per Città della Salute #Torino,,,"[""Raccolte fondi"", ""accettato""]",,,{},"chi: Francesco Pecco Bagnaia
+comune: Chivasso
+contatti: ''
+descrizione: Raccolta Fondi
+destinatari: ""Citt\xE0 della Salute di Torino ""
+fonte: https://www.gofundme.com/f/exfz34-insieme-contro-il-virus?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet
+provincia: Torino
+regione: Piemonte
+tag: Raccolta fondi
+",open

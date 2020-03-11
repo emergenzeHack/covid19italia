@@ -7,8 +7,10 @@ permalink: /fondi/
 {% assign filteredissues = site.data.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'Raccolte fondi'"%}
 {% for member in filteredissues %}
 <div class="panel-body">
-<a href="/issues/{{ member.number | datapage_url: '.' }}" class="list-group-item">
+<div class="list-group-item">
+<a href="/issues/{{ member.number | datapage_url: '.' }}">
 		<h4 class="list-group-item-heading">{{member.title}}</h4>
+</a>
                 <dl class="row">
                 <dt class="col-sm-3">Chi</dt>
                 <dd class="col-sm-9">{{member.issue.data.chi}}</dd>
@@ -20,7 +22,7 @@ permalink: /fondi/
                 {% endif %}
                 {% if member.issue.data.fonte != blank %}
                 <dt class="col-sm-3">Fonte</dt>
-                <dd class="col-sm-9">{{member.issue.data.fonte}}</dd>
+                <dd class="col-sm-9"><small><a href="{{member.issue.data.fonte}}">{{member.issue.data.fonte}}</a></small></dd>
                 {% endif %}
                 {% if member.issue.data.regione != blank %}
                 <dt class="col-sm-3">Regione</dt>
@@ -37,7 +39,7 @@ permalink: /fondi/
                 </dl>
                 <p class="list-group-item-text">{{member.issue.data.descrizione|markdownify}}</p>
                 <p class="list-group-item-text">{{member.issue.data.data}}</p>
-</a>
+                </div>
 <div class="panel-footer">
 <ul class="share-buttons">
   <li>Condividi:</li>

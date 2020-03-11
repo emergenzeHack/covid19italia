@@ -4,6 +4,12 @@
 .btn-lg {
   font-size:18px;
 }
+
+
+.btn-form {
+  white-space: normal;
+}
+
 .navbar-brand {
   font-size: 28px;
   letter-spacing: -0.5px;
