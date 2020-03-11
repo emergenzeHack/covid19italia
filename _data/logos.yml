@@ -38,11 +38,11 @@
   logo: /img/icone/tci-legge.png
   map: false
   link: normativa_nazionale
-- name: SERVIZI E INIZIATIVE SOLIDALI
-  logo: /img/icone/fabbisogni2-tci.png
+- name: SERVIZI E INIZIATIVE SOLIDALI PRIVATE
+  logo: /img/icone/tci-solidali.png
   map: false
-  link: servizi_e_iniziative_solidali
-- name: FAKE NEWS
-  logo: /img/icone/bufala-tci-1.png
-  map: false
-  link: fake_news
+  link: servizi_e_iniziative_solidali_private
+  #- name: FAKE NEWS
+  #  logo: /img/icone/bufala-tci-1.png
+  #  map: false
+  #  link: fake_news
