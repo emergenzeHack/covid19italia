@@ -1,4 +1,13 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/185,579490392,2020-03-11 21:22:35,2020-03-11 19:20:26,Non è vero che c’è un disinfettante contro il Sars-Coronavirus dal 2009,,,"[""Fake News"", ""accettato"", ""form""]",,,{},"```
+Cosa: ""Non \xE8 vero che c\u2019era un disinfettante contro il Sars-CoV2 dal 2009""
+Descrizione: ""Ci sono foto in giro che mostrano disinfettanti in commercio dal 2009\
+  \ con su scritto \u2018attivo contro il Coronavirus\u2019.\n\n\xC8 normale: i coronavirus\
+  \ sono una famiglia generica di virus.\nQuesto non significa che qualcuno avesse\
+  \ gi\xE0 previsto (o addirittura messo in commercio un prodotto contro) questo nuovo\
+  \ coronavirus.""
+Link: https://pagellapolitica.it/
+```",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/182,579453698,2020-03-11 20:22:11,2020-03-11 18:12:13,AMUCHINA GUANTI e MASCHERINE #Roma,,,"[""Richiesta aiuto"", ""accettato""]",,,"{""Cosa"": ""AMUCHINA GUANTI e MASCHERINE"", ""Descrizione"": ""Fondazione Ronald McDonald\n\n\nLe case Ronald di  Roma che ospitano i bambini e famiglia  degli ospedali pediatrici di riferimento sono piene . le loro patologie e cure sono INDIFFERIBILI e i pazienti NON DIMISSIBILI. Nelle case in cui i nostri operatori sono a contatto con bambini e famiglie ci mancano AMUCHINA GUANTI e MASCHERINE . stiamo cercando aiuto dalle aziende amiche . Per poter dare continuit\u00e0 al servizio abbiamo bisogno del vostro aiuto subito . se avete un amico farmacista di quartiere o un supermercato vicini vi chiediamo di fare una scorta e di inviarcelo a uno dei seguenti indirizzi . Arrivano subito a chi ne ha bisogno senza passare per magazzini.\n\nGrazie.\n\nCasa Ronald Roma Bellosguardo,\nParco Bellosguardo,\nVia degli Aldobrandeschi 3,\n00163 (Roma)"", ""Destinatari"": ""Casa Ronald Roma Bellosguardo, Parco Bellosguardo, Via degli Aldobrandeschi 3, 00163 (Roma)"", ""Indirizzo"": ""41.882614 12.404634 0 0"", ""Link"": ""https://www.linkedin.com/posts/elenazanella_fondazione-no-profit-ronald-mcdonalditalia-activity-6643058880739897345-4fWx/""}","<pre><yamldata>
 Cosa: AMUCHINA GUANTI e MASCHERINE
 Descrizione: ""Fondazione Ronald McDonald\n\n\nLe case Ronald di  Roma che ospitano\
