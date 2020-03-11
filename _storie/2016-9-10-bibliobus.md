@@ -10,7 +10,7 @@ Oggi parte il progetto BIBLIOBUS, che sarà gestito dall'Arci di Rieti.
 
 *di Valeria Patacchiola (presidente Arci Rieti)*
 
-![Bibliobusaquila](http://i.imgur.com/kDeM61m.jpg)
+![Bibliobusaquila](https://i.imgur.com/kDeM61m.jpg)
 
 Il [Bibliobus](https://www.facebook.com/Bibliobusaq/) è stato già in funzione **durante il terremoto de L’Aquila** e viene dato in prestito dai compagni dell’Arci de L’Aquila. 
 
