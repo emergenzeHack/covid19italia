@@ -204,61 +204,15 @@ markerColor: 'blue'
 });
 
 // initialize the map
-var map = L.map('map')
+//var map = L.map('map')
 
 // create the tile layer with correct attribution
-var osmUrl='{{site.tile_map}}';
-var osmAttrib='&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>, Tiles courtesy of <a href="http://leafletjs.com/" target="_blank">Leaflet</a>';
-var osm = new L.TileLayer(osmUrl, {minZoom: 6, maxZoom: 19, attribution: osmAttrib});
+// var osmUrl='{{site.tile_map}}';
+// var osmAttrib='&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>, Tiles courtesy of <a href="http://leafletjs.com/" target="_blank">Leaflet</a>';
+// var osm = new L.TileLayer(osmUrl, {minZoom: 6, maxZoom: 19, attribution: osmAttrib});
 
 
-var sumLat = 0.;
-var sumLon = 0.;
-
-for (var i=0; i<markerList.length; i++) {
-
-        var lat = markerList[i][0];
-        var lon = markerList[i][1];
-        var popupText = markerList[i][2];
-        var popupURL = markerList[i][3];
-        var type = markerList[i][4]
-
-        if (!isNaN(lat) && !isNaN(lon)) {
-                var markerLocation = new L.LatLng(lat, lon);
-                if (type == 'Donazioni') {
-                        var marker = new L.Marker(markerLocation, {icon: donazioniMarker});
-                } else if (type == 'Alloggi') {
-                        var marker = new L.Marker(markerLocation, {icon: alloggiMarker});
-                } else if (type == 'Fabbisogni') {
-                        var marker = new L.Marker(markerLocation, {icon: fabbisogniMarker});
-                } else if (type == 'Notizie Utili') {
-                        var marker = new L.Marker(markerLocation, {icon: notizieutiliMarker});
-                } else if (type == 'Raccolte Fondi') {
-                        var marker = new L.Marker(markerLocation, {icon: raccoltefondiMarker});
-                } else {
-                        var marker = new L.Marker(markerLocation);
-                }
-
-                map.addLayer(marker);
-
-                marker.bindPopup("<a href=\"" + popupURL + "\">" + decodeURI(popupText) + "</a>");
-
-                sumLat += lat;
-                sumLon += lon;
-        }
-}
-
-map.addLayer(osm).setView([42.629381, 13.288372], 6);
-var geocoder = L.Control.geocoder({collapsed:false,placeholder:"Cerca...",
-        defaultMarkGeocode: false, geocodingQueryParams: { countrycodes: "it" },
-    })
-    .on('markgeocode', function(e) {
-        var latlon=e.geocode.center;
-        $("#lat").html(latlon.lat);
-        $("#lng").html(latlon.lng);
-        var marker = new L.Marker(markerLocation);
-        map.addLayer(marker);
-    })
-    .addTo(map);
+// var sumLat = 0.;
+// var sumLon = 0.;
 
 </script>
