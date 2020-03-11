@@ -688,7 +688,7 @@ provincia: Venezia
 regione: Veneto
 tag: Consegne e commissioni
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/106,578925913,2020-03-11 13:22:00,2020-03-10 23:53:21,Consegna a domicilio libri #Bari (BA),,,"[""Consegne e commissioni"", ""accettato""]",,,"{""chi"": ""Libreria Spine"", ""comune"": ""Bari"", ""contatti"": ""spinebookstore@gmail.com"", ""descrizione"": ""Consegna a domicilio di libri"", ""destinatari"": ""Residenti a Bari"", ""fonte"": ""https://www.facebook.com/spinebookstore/"", ""provincia"": ""Bari"", ""regione"": ""Puglia"", ""tag"": ""Consegne e commissioni""}","<pre><yamldata>chi: Libreria Spine
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/106,578925913,2020-03-11 22:55:05,2020-03-10 23:53:21,Consegna a domicilio libri #Bari (BA),,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato""]",,,"{""chi"": ""Libreria Spine"", ""comune"": ""Bari"", ""contatti"": ""spinebookstore@gmail.com"", ""descrizione"": ""Consegna a domicilio di libri"", ""destinatari"": ""Residenti a Bari"", ""fonte"": ""https://www.facebook.com/spinebookstore/"", ""provincia"": ""Bari"", ""regione"": ""Puglia"", ""tag"": ""Consegne e commissioni""}","<pre><yamldata>chi: Libreria Spine
 comune: Bari
 contatti: 'spinebookstore@gmail.com'
 descrizione: Consegna a domicilio di libri
@@ -717,6 +717,27 @@ fonte: http://www.vita.it/it/article/2020/03/07/coronavirus-save-the-children-co
 provincia: ''
 regione: ''
 tag: Didattica a distanza
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/103,578925864,2020-03-11 22:58:08,2020-03-10 23:53:08,A #Buccinasco (Mi) azienda offre igienizzante mani,,,"[""Donazioni beni/strumenti"", ""Servizi e iniziative solidali private"", ""accettato""]",,,"{""chi"": ""Asb Azienda"", ""comune"": ""Buccinasco"", ""contatti"": """", ""descrizione"": ""Offerta di confezione da 50 ml igienizzante mani"", ""destinatari"": """", ""fonte"": ""https://giornaledeinavigli.it/cronaca/nellemergenza-coronavirus-storie-di-generosita-e-solidarieta/"", ""provincia"": ""Milano "", ""regione"": ""Lombardia "", ""tag"": ""Donazioni materiali/strumenti""}","<pre><yamldata>chi: Asb Azienda
+comune: Buccinasco
+contatti: ''
+descrizione: Offerta di confezione da 50 ml igienizzante mani
+destinatari: ''
+fonte: https://giornaledeinavigli.it/cronaca/nellemergenza-coronavirus-storie-di-generosita-e-solidarieta/
+provincia: 'Milano '
+regione: 'Lombardia '
+tag: Donazioni materiali/strumenti
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/102,578925856,2020-03-11 22:59:01,2020-03-10 23:53:06,"Weekend gratuito per medici e infermieri ospedali di #Crema, #Seriate e #Lodi",,,"[""Servizi e iniziative solidali private"", ""accettato""]",,,"{""chi"": ""Bed&Breakfast di Michela Mazzucchelli"", ""comune"": ""Costa Volpino"", ""contatti"": """", ""descrizione"": ""Weekend gratuito per 15 medici e infermieri degli ospedali di Crema, Seriate e Lodi"", ""destinatari"": """", ""fonte"": ""https://milano.repubblica.it/cronaca/2020/03/06/news/coronavirus_b_b_lago_d_iseo_offre_soggiorno_medici_infermieri-250431477/"", ""provincia"": ""Bergamo"", ""regione"": ""Lombardia"", ""tag"": ""Servizi e iniziative solidali private""}","<pre><yamldata>chi: Bed&Breakfast di Michela Mazzucchelli
+comune: Costa Volpino
+contatti: ''
+descrizione: Weekend gratuito per 15 medici e infermieri degli ospedali di Crema,
+  Seriate e Lodi
+destinatari: ''
+fonte: https://milano.repubblica.it/cronaca/2020/03/06/news/coronavirus_b_b_lago_d_iseo_offre_soggiorno_medici_infermieri-250431477/
+provincia: Bergamo
+regione: Lombardia
+tag: Servizi e iniziative solidali private
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/101,578925850,2020-03-11 15:03:27,2020-03-10 23:53:05,Traduzione in comunicazione alternativa aumentativa decalogo Ministero della Salute,,,"[""Informazioni utili"", ""Servizi e iniziative solidali private"", ""accettato""]",,,"{""chi"": ""Anffas Trento"", ""comune"": null, ""contatti"": """", ""descrizione"": ""Traduzione in comunicazione alternativa aumentativa decalogo Ministero della Salute."", ""destinatari"": ""persone con disabilit\u00e0 intellettiva"", ""fonte"": ""http://www.anffas.tn.it/component/k2/item/824-coronavirus.html"", ""provincia"": null, ""regione"": null, ""tag"": ""Sostegno al lavoro""}","<pre><yamldata>chi: 'Anffas Trento'
 comune:
@@ -800,7 +821,7 @@ provincia: Ancona
 regione: Marche
 tag: Servizi e iniziative solidali pubbliche
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/93,578925322,2020-03-10 23:56:54,2020-03-10 23:51:09,sostegno agli anziani in condizione di solitudine e isolamento preventivo e il supporto alle famiglie con minori,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Fondazione Bergamo"", ""comune"": ""Bergamo"", ""contatti"": """", ""descrizione"": ""sostegno agli anziani in condizione di solitudine e isolamento preventivo e il supporto alle famiglie con minori"", ""destinatari"": ""over 65"", ""fonte"": ""http://www.fondazionebergamo.it/news/sosteniamobergamo/"", ""provincia"": ""Bergamo"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Fondazione Bergamo
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/93,578925322,2020-03-11 23:00:03,2020-03-10 23:51:09,Fondazione #Bergamo offre sostegno agli anziani soli e supporto alle famiglie con minori,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Fondazione Bergamo"", ""comune"": ""Bergamo"", ""contatti"": """", ""descrizione"": ""sostegno agli anziani in condizione di solitudine e isolamento preventivo e il supporto alle famiglie con minori"", ""destinatari"": ""over 65"", ""fonte"": ""http://www.fondazionebergamo.it/news/sosteniamobergamo/"", ""provincia"": ""Bergamo"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Fondazione Bergamo
 comune: Bergamo
 contatti: ''
 descrizione: sostegno agli anziani in condizione di solitudine e isolamento preventivo
