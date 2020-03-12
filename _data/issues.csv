@@ -124,7 +124,7 @@ Fonte: http://lispa.maps.arcgis.com/apps/opsdashboard/index.html#/637ec3dc28ec4e
 Posizione: 45.475765 9.194403 0 0
 
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/299,580066977,2020-03-12 21:13:20,2020-03-12 16:39:03,Conto corrente per destinare risorse al servizio sanitario regionale #Marche,,,"[""Raccolte fondi"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Descrizione"": ""La Regione Marche ha aperto un conto corrente per destinare risorse al servizio sanitario regionale che si sta occupando dell'emergenza Covid19 e dare un contributo all'assistenza sanitaria marchigiana.\nEcco gli estremi per effettuare le donazioni:\n\u2022 numero di conto corrente postale: 001049330432\n\u2022 intestazione conto corrente postale: REGIONE MARCHE - EMERGENZA MARCHE CORONAVIRUS SERVIZIO TESORERIA \n\u2022 coordinate IBAN:  IT43A0760102600001049330432"", ""Link"": ""http://www.regione.marche.it/News-ed-Eventi/Post/60831/Donazioni-sicure-Coronavirus"", ""Nome"": ""Regione Marche"", ""group_bq2vf46/CC_Postale"": ""001049330432"", ""group_bq2vf46/Causale"": ""EMERGENZA MARCHE CORONAVIRUS SERVIZIO TESORERIA"", ""group_bq2vf46/IBAN"": ""IT43A0760102600001049330432"", ""group_bq2vf46/Intestazione"": ""REGIONE MARCHE""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/299,580066977,2020-03-12 21:18:09,2020-03-12 16:39:03,Conto corrente per destinare risorse al servizio sanitario regionale #Marche,,,"[""Raccolte fondi"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""CC_Postale"": ""001049330432"", ""Causale"": ""EMERGENZA MARCHE CORONAVIRUS SERVIZIO TESORERIA"", ""Descrizione"": ""La Regione Marche ha aperto un conto corrente per destinare risorse al servizio sanitario regionale che si sta occupando dell'emergenza Covid19 e dare un contributo all'assistenza sanitaria marchigiana.\nEcco gli estremi per effettuare le donazioni:\n\u2022 numero di conto corrente postale: 001049330432\n\u2022 intestazione conto corrente postale: REGIONE MARCHE - EMERGENZA MARCHE CORONAVIRUS SERVIZIO TESORERIA \n\u2022 coordinate IBAN:  IT43A0760102600001049330432"", ""IBAN"": ""IT43A0760102600001049330432"", ""Intestazione"": ""REGIONE MARCHE"", ""Link"": ""http://www.regione.marche.it/News-ed-Eventi/Post/60831/Donazioni-sicure-Coronavirus"", ""Nome"": ""Regione Marche""}","<pre><yamldata>
 Descrizione: ""La Regione Marche ha aperto un conto corrente per destinare risorse\
   \ al servizio sanitario regionale che si sta occupando dell'emergenza Covid19 e\
   \ dare un contributo all'assistenza sanitaria marchigiana.\nEcco gli estremi per\
@@ -133,10 +133,10 @@ Descrizione: ""La Regione Marche ha aperto un conto corrente per destinare risor
   \ SERVIZIO TESORERIA \n\u2022 coordinate IBAN:  IT43A0760102600001049330432""
 Link: http://www.regione.marche.it/News-ed-Eventi/Post/60831/Donazioni-sicure-Coronavirus
 Nome: Regione Marche
-group_bq2vf46/CC_Postale: 001049330432
-group_bq2vf46/Causale: EMERGENZA MARCHE CORONAVIRUS SERVIZIO TESORERIA
-group_bq2vf46/IBAN: IT43A0760102600001049330432
-group_bq2vf46/Intestazione: REGIONE MARCHE
+CC_Postale: 001049330432
+Causale: EMERGENZA MARCHE CORONAVIRUS SERVIZIO TESORERIA
+IBAN: IT43A0760102600001049330432
+Intestazione: REGIONE MARCHE
 
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/295,580049756,2020-03-12 19:42:23,2020-03-12 16:11:42,Cibo e medicinali a domicilio: le iniziative in #Brianza,,,"[""Notizia"", ""accettato"", ""form""]",,,"{""Cosa"": ""Cibo e medicinali a domicilio: le iniziative in Brianza"", ""Descrizione"": ""I Comuni e le associazioni si muovono per non fare uscire soprattutto le persone pi\u00f9 fragili dalla propria abitazione. Un elenco delle iniziative fin qui messe in campo."", ""Link"": ""https://www.ilcittadinomb.it/stories/Cronaca/coronavirus-cibo-e-medicinali-a-domicilio-per-le-persone-anziane-le-iniziative_1343943_11/""}","<pre><yamldata>
