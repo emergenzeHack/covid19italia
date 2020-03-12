@@ -44,8 +44,7 @@ permalink: /issues/
   {% endif %}
   {% endfor %}
                 </dl>
-</div>
-</div>
+</a>
 
 <div class="panel-footer">
 <ul class="share-buttons">
