@@ -1,4 +1,17 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/229,579836058,2020-03-12 10:42:49,2020-03-12 10:23:40,Raccolta fondi per Ospedali San Paolo e San Carlo #Milano,,,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Al fine di rendere questi gesti di solidariet\u00e0 spontanea e vicinanza a tutti i nostri operatori ufficiali, sicuri e trasparenti l\u2019ASST Santi Paolo e Carlo ha deciso di promuovere una Campagna di raccolta fondi istituzionale."", ""Link"": ""https://www.asst-santipaolocarlo.it/web/guest/contenuto-web/-/asset_publisher/Q47FrkrNjNTu/content/campagna-andos-prime-visite-senologiche-gratuite"", ""Nome"": ""OSPEDALI SAN PAOLO E SAN CARLO"", ""Posizione"": ""45.465549 9.187189 0 0"", ""group_bq2vf46/BIC_SWIFT"": ""BLOPIT22565"", ""group_bq2vf46/Causale"": ""EMERGENZA CORONAVIRUS OSPEDALI SAN PAOLO E SAN CARLO"", ""group_bq2vf46/IBAN"": ""IT92F0311101634000000000003"", ""group_bq2vf46/Intestazione"": ""AZIENDA SOCIO SANITARIA TERRITORIALE SANTI PAOLO E CARLO""}","<pre><yamldata>
+Descrizione: ""Al fine di rendere questi gesti di solidariet\xE0 spontanea e vicinanza\
+  \ a tutti i nostri operatori ufficiali, sicuri e trasparenti l\u2019ASST Santi Paolo\
+  \ e Carlo ha deciso di promuovere una Campagna di raccolta fondi istituzionale.""
+Link: https://www.asst-santipaolocarlo.it/web/guest/contenuto-web/-/asset_publisher/Q47FrkrNjNTu/content/campagna-andos-prime-visite-senologiche-gratuite
+Nome: OSPEDALI SAN PAOLO E SAN CARLO
+Posizione: 45.465549 9.187189 0 0
+group_bq2vf46/BIC_SWIFT: BLOPIT22565
+group_bq2vf46/Causale: EMERGENZA CORONAVIRUS OSPEDALI SAN PAOLO E SAN CARLO
+group_bq2vf46/IBAN: IT92F0311101634000000000003
+group_bq2vf46/Intestazione: AZIENDA SOCIO SANITARIA TERRITORIALE SANTI PAOLO E CARLO
+
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/220,579578196,2020-03-11 23:29:21,2020-03-11 22:20:33,"Emergenza Coronavirus, help desk Anci",,,"[""Fonti istituzionali"", ""Informazioni utili"", ""accettato""]",,,"{""Categoria"": ""Nazionale"", ""Link"": ""http://www.anci.it/emergenza-coronavirus-help-desk-anci-infocorononavirusanci-it/"", ""Tipologia atto"": ""Emergenza Coronavirus, help desk Anci"", ""Tipologia istituzione"": ""Associazione Nazionale Comuni Italiani""}","<pre><yamldata>Categoria: Nazionale
 Link: http://www.anci.it/emergenza-coronavirus-help-desk-anci-infocorononavirusanci-it/
 Tipologia atto: Emergenza Coronavirus, help desk Anci
