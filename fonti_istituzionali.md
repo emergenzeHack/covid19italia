@@ -5,7 +5,19 @@ permalink: /fonti-istituzionali/
 ---
 <div class="panel-group">
 {% assign filteredissues = site.data.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'Fonti istituzionali'"%}
-{% for member in filteredissues %}
+
+{% assign filteredissuesbycategoria = filteredissues | group_by:"issue.data.Categoria" %}
+
+<div class="text-center">
+{% for membergroup in filteredissuesbycategoria %}
+<a href="#{{membergroup.name}}" class="btn btn-success btn-lg" role="button">Categoria: {{membergroup.name}}</a>
+{% endfor %}
+</div>
+
+{% for membergroup in filteredissuesbycategoria %}
+<h2 id="{{membergroup.name}}">Categoria: {{membergroup.name}}</h2>
+{% for member in membergroup.items %}
+
 <div class="panel-body">
 <div class="list-group-item">
 <a href="/issues/{{ member.number | datapage_url: '.' }}">
@@ -14,8 +26,13 @@ permalink: /fonti-istituzionali/
                 <dl class="row">
                     {% for item in member.issue.data %}
   {% if item[1] != blank %}
+{% assign itemname = item[0]|downcase %}
   <dt class="col-sm-3">{{item[0]}}</dt>
+{% if itemname  contains 'link' %}
+  <dd class="col-sm-9"><small><a href="{{item[1]}}">{{item[1]}}</a></small></dd>
+{% else %}
   <dd class="col-sm-9">{{item[1]}}</dd>
+  {% endif %}
   {% endif %}
   {% endfor %}
                 </dl>
@@ -33,5 +50,6 @@ permalink: /fonti-istituzionali/
 </ul>
 </div>
 </div>
+{% endfor %}
 {% endfor %}
 </div>
