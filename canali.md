@@ -5,7 +5,7 @@ permalink: /canali/
 ---
 
 <div class="segnala">
-<p>Se hai una necessità o vuoi comunicare aggiornamenti, ci sono numerosi modi di contattarci: </p>
+<p>Ecco i canali attraverso cui puoi contattarci, ricevere aggiornamenti, segnalare info utili o necessità: </p>
          {% if site.author.facebook and site.share-links-active.facebook %}
           <li>
             <a href="https://www.facebook.com/{{ site.author.facebook }}" title="Facebook">
@@ -108,12 +108,12 @@ permalink: /canali/
           {% endif %}
           {% if site.share-links-active.rss %}
           <li>
-          <a href="{{ '/feed.xml' | prepend: site.baseurl }}" title="RSS">
+          <a href="http://feeds.feedburner.com/covid19ita_segnalazioni" title="RSS">
               <span class="fa-stack fa-lg" aria-label="Logo riferito a RSS, raffigura un cercio e due cerchi semi concentrici paralleli come a rappresentare un antenna che trasmette messaggi." role="img">
               <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
               <i class="fa fa-rss fa-stack-1x fa-inverse" aria-hidden="true"></i>
             </span>&nbsp;&nbsp;Feed RSS
-          </a><span>per rimanere aggiornato sui nostri post</span>
+          </a><span>per rimanere aggiornato sulle nostre segnalazioni</span>
           </li>
           {% endif %}
           {% if site.author.flickr and site.share-links-active.flickr %}
