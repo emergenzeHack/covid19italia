@@ -24,7 +24,7 @@ Il progetto, laddove lo si ritenga utile, è usabile da organizzazioni, associaz
 
 Il progetto è descritto tramite il nostro [wiki](https://github.com/emergenzeHack/covid19italia/wiki).
 
-L'idea (ed anche buona parte del progetto) è dello stesso team che ha sviluppato il progetto [TerremotoCentroItalia](https://www.terremotocentroitalia.info).
+L'idea ed anche buona parte del progetto è dello stesso team che ha sviluppato il progetto [TerremotoCentroItalia](https://www.terremotocentroitalia.info).
 
 ### Credits
 
@@ -46,7 +46,7 @@ Matteo Fortini, Matteo Tempestini, Antonio Vivace, Vincenzo Tilotta, Maurizio De
 - [Canale Telegram](https://t.me/COVID19I)
 - [Repository Github](https://github.com/emergenzeHack/covid19italia)
 
-### Tecnologie
+### Tecnologie e Progetti Riusati
 
 - [Beautiful Jekyll](https://deanattali.com/beautiful-jekyll/)
 - [Maptune](https://github.com/gjrichter/maptune)
@@ -57,6 +57,8 @@ Matteo Fortini, Matteo Tempestini, Antonio Vivace, Vincenzo Tilotta, Maurizio De
 - [Glyphicons](http://glyphicons.com)
 - [Jekyll](https://jekyllrb.com/)
 - [Github](http://www.github.com)
+- [Kobotoolbox](https://www.kobotoolbox.org/)
+- [TerremotoCentroItalia](http://www.terremotocentroitalia.info)
 
 ### Press
 
