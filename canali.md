@@ -9,7 +9,7 @@ permalink: /canali/
          {% if site.author.facebook and site.share-links-active.facebook %}
           <li>
             <a href="https://www.facebook.com/{{ site.author.facebook }}" title="Facebook">
-              <span class="fa-stack fa-lg">
+              <span class="fa-stack fa-lg" aria-label="Logo riferito al sito facebook, il carattere f dentro un quadrato blu." role="img">
                 <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
                 <i class="fa fa-facebook fa-stack-1x fa-inverse" aria-hidden="true"></i>
               </span>&nbsp;&nbsp;Gruppo Facebook
@@ -19,7 +19,7 @@ permalink: /canali/
          {% if site.author.androidapp and site.share-links-active.androidapp %}
           <li>
             <a href="https://play.google.com/store/apps/details?id={{ site.author.androidapp }}&hl=it_it" title="Android App">
-              <span class="fa-stack fa-lg">
+              <span class="fa-stack fa-lg" aria-label="Logo raffigurante il market di applicazioni android." role="img">
                 <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
                 <i class="fa fa-android fa-stack-1x fa-inverse" aria-hidden="true"></i>
               </span>&nbsp;&nbsp;App Android
@@ -29,7 +29,7 @@ permalink: /canali/
          {% if site.author.github and site.share-links-active.github %}
           <li>
             <a href="https://github.com/{{ site.author.github }}" title="GitHub">
-              <span class="fa-stack fa-lg">
+              <span class="fa-stack fa-lg" aria-label="Logo riferito al sito github, raffigura un gatto con i tentacoli." role="img">
                 <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
                 <i class="fa fa-github fa-stack-1x fa-inverse" aria-hidden="true"></i>
               </span>&nbsp;&nbsp;Repository GitHub
@@ -39,7 +39,7 @@ permalink: /canali/
           {% if site.author.twitter and site.share-links-active.twitter %}
           <li>
             <a href="https://twitter.com/{{ site.author.twitter }}" title="Twitter">
-              <span class="fa-stack fa-lg">
+              <span class="fa-stack fa-lg" aria-label="Logo riferito al sito twitter, un uccello di colore celeste." role="img">
                 <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
                 <i class="fa fa-twitter fa-stack-1x fa-inverse" aria-hidden="true"></i>
               </span>&nbsp;&nbsp;Pagina Twitter
@@ -48,8 +48,8 @@ permalink: /canali/
           {% endif %}
            {% if site.author.instagram and site.share-links-active.instagram %}
           <li>
-            <a href="https://www.instagram.com/{{ site.author.instagram }}" title="Instagram">
-              <span class="fa-stack fa-lg">
+            <a href="https://www.instagram.com/{{ site.author.instagram }}" title="Instagram un social network pieno di fotografie.">
+              <span class="fa-stack fa-lg" aria-label="Logo riferito a instagram, raffigura una macchina fotografica stilizzata." role="img">
                 <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
                 <i class="fa fa-instagram fa-stack-1x fa-inverse" aria-hidden="true"></i>
               </span>&nbsp;&nbsp;Pagina Instagram
@@ -58,8 +58,8 @@ permalink: /canali/
           {% endif %}
            {% if site.author.messenger and site.share-links-active.messenger %}
           <li>
-            <a href="https://m.me/{{ site.author.messenger }}" title="Messenger">
-              <span class="fa-stack fa-lg">
+            <a href="https://m.me/{{ site.author.messenger }}" title="Messenger una chat">
+              <span class="fa-stack fa-lg" aria-label="Logo riferito a Messanger, raffigura una nuvola come quella dei fumetti." role="img">
                 <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
                 <i class="fa fa-bullhorn fa-stack-1x fa-inverse" aria-hidden="true"></i>
               </span>&nbsp;&nbsp;Canale Facebook Messenger
@@ -68,8 +68,8 @@ permalink: /canali/
           {% endif %}
           {% if site.author.telegram and site.share-links-active.telegram %}
           <li>
-            <a href="{{ site.author.telegram }}" title="telegram">
-              <span class="fa-stack fa-lg">
+            <a href="{{ site.author.telegram }}" title="Telegram una chat.">
+              <span class="fa-stack fa-lg" aria-label="Logo riferito a telegram, raffigura un aereoplano di carta stilizzato." role="img">
                 <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
                 <i class="fa fa-paper-plane fa-stack-1x fa-inverse" aria-hidden="true"></i>
               </span>&nbsp;&nbsp;Canale Telegram
@@ -79,7 +79,7 @@ permalink: /canali/
           {% if site.author.telegram_bot and site.share-links-active.telegram_bot %}
           <li>
             <a href="http://telegram.me/{{ site.author.telegram_bot }}" title="Bot Telegram">
-              <span class="fa-stack fa-lg">
+              <span class="fa-stack fa-lg" aria-label="Logo riferito al RoBot testuale su Telegram." role="img">
                 <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
                 <i class="fa fa-paper-plane fa-stack-1x fa-inverse" aria-hidden="true"></i>
               </span>&nbsp;&nbsp;BOT Telegram
@@ -89,7 +89,7 @@ permalink: /canali/
           {% if site.author.medium and site.share-links-active.medium %}
           <li>
             <a itemprop="sameAs" href="{{ site.author.medium }}" title="medium">
-              <span class="fa-stack fa-lg">
+              <span class="fa-stack fa-lg" aria-label="Logo riferito al sito medium, raffigura una M maiuscola bianca su sfondo nero." role="img">
                 <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
                 <i class="fa fa-medium fa-stack-1x fa-inverse" aria-hidden="true"></i>
               </span>&nbsp;&nbsp;Canale Medium
@@ -99,7 +99,7 @@ permalink: /canali/
           {% if site.share-links-active.rss %}
           <li>
           <a href="{{ '/feed.xml' | prepend: site.baseurl }}" title="RSS">
-              <span class="fa-stack fa-lg">
+              <span class="fa-stack fa-lg" aria-label="Logo riferito a RSS, raffigura un cercio e due cerchi semi concentrici paralleli come a rappresentare un antenna che trasmette messaggi." role="img">
               <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
               <i class="fa fa-rss fa-stack-1x fa-inverse" aria-hidden="true"></i>
             </span>&nbsp;&nbsp;Feed RSS
@@ -108,8 +108,8 @@ permalink: /canali/
           {% endif %}
           {% if site.author.flickr and site.share-links-active.flickr %}
            <li>
-            <a href="https://www.flickr.com/photos/{{ site.author.flickr }}" title="Flickr">
-              <span class="fa-stack fa-lg">
+            <a href="https://www.flickr.com/photos/{{ site.author.flickr }}" title="Flickr un sito pieno di fotografie di viaggiatori e appassionati di fotografie.">
+              <span class="fa-stack fa-lg" aria-label="Logo riferito a flickr" role="img">
                 <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
                 <i class="fa fa-flickr fa-stack-1x fa-inverse" aria-hidden="true"></i>
               </span>&nbsp;&nbsp;Gruppo Flickr
@@ -119,7 +119,7 @@ permalink: /canali/
           {% if site.author.waze and site.share-links-active.waze %}
               <li>
             <a href="{{ site.author.waze }}" title="Waze">
-              <span class="fa-stack fa-lg">
+              <span class="fa-stack fa-lg" aria-label="Logo riferito a Waze ottimo per controllare il traffico automobilistico" role="img">
                 <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
                 <i class="fa fa-car fa-stack-1x fa-inverse" aria-hidden="true"></i>
               </span>&nbsp;&nbsp;Waze
@@ -128,7 +128,7 @@ permalink: /canali/
           {% endif %}
                  <li>
             <a itemprop="sameAs" href="{{ site.author.email }}" title="Email">
-              <span class="fa-stack fa-lg">
+              <span class="fa-stack fa-lg" aria-label="Logo raffigurante una busta, email.">
                 <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
                 <i class="fa fa-envelope fa-stack-1x fa-inverse" aria-hidden="true"></i>
               </span>&nbsp;&nbsp;Email
@@ -136,8 +136,8 @@ permalink: /canali/
           </li>
           {% if site.author.archiveorg and site.share-links-active.archiveorg %}
           <li>
-            <a itemprop="sameAs" href="{{ site.author.archiveorg }}" title="archive.org">
-              <span class="fa-stack fa-lg">
+            <a itemprop="sameAs" href="{{ site.author.archiveorg }}" title="archive.org archivio di internet.">
+              <span class="fa-stack fa-lg" aria-label="Logo riferito al sito archive.org, raffigura un tempio." role="img">
                 <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
                 <i class="fa fa-archive fa-stack-1x fa-inverse" aria-hidden="true"></i>
               </span>&nbsp;&nbsp;Archive.org
@@ -146,8 +146,8 @@ permalink: /canali/
           {% endif %}
           {% if site.author.telegram_group and site.share-links-active.telegram_group %}
 	         <li>
-            <a href="{{ site.author.telegram_group }}" title="Bot Telegram">
-              <span class="fa-stack fa-lg">
+            <a href="{{ site.author.telegram_group }}" title="Bot Telegram un robot testuale che risponde automaticamente.">
+              <span class="fa-stack fa-lg" aria-label="Logo riferito al RoBot testuale su Telegram." role="img">
                 <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
                 <i class="fa fa-paper-plane fa-stack-1x fa-inverse" aria-hidden="true"></i>
               </span>&nbsp;&nbsp;Gruppo Telegram
