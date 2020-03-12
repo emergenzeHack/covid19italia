@@ -12,6 +12,15 @@ group_bq2vf46/IBAN: IT92F0311101634000000000003
 group_bq2vf46/Intestazione: AZIENDA SOCIO SANITARIA TERRITORIALE SANTI PAOLO E CARLO
 
 </yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/227,579819444,2020-03-12 11:18:31,2020-03-12 09:56:19,Raccolta fondi Ospedale San Gerardo #Monza e Istituto dei tumori #Milano,,,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Aiutaci a rafforzare le terapie intensive dell'Ospedale San Gerardo di Monza e dell'Istituto dei Tumori di Milano e a dare continuit\u00e0 ai servizi di assistenza ai malati di tumore."", ""Link"": ""https://legatumori-mi.retedeldono.it/stop-coronavirus"", ""Nome"": ""Lega tumori LILT MIlano"", ""Posizione"": ""45.464194 9.188516 0 0""}","<pre><yamldata>
+Descrizione: ""Aiutaci a rafforzare le terapie intensive dell'Ospedale San Gerardo\
+  \ di Monza e dell'Istituto dei Tumori di Milano e a dare continuit\xE0 ai servizi\
+  \ di assistenza ai malati di tumore.""
+Link: https://legatumori-mi.retedeldono.it/stop-coronavirus
+Nome: Lega tumori LILT MIlano
+Posizione: 45.464194 9.188516 0 0
+
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/226,579803570,2020-03-12 11:14:43,2020-03-12 09:28:48,Servizio di portierato di quartiere #Ancona,,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Biblioteca Associazione Casa delle Culture"", ""Descrizione"": ""Il servizio di portierato di quartiere \u00e8 attivo anche in questo periodo delicato dove molte persone non possono o non devono frequentare luoghi affollati!\n\nI portieri possono aiutarvi:\n- consegnandovi a domicilio un libro dalla biblioteca, giornale e riviste \ud83d\udcda\n- facendo per voi la spesa dalle attivit\u00e0 commerciali del quartiere e recapitandovela a casa \ud83c\udf4e\ud83e\udd56\ud83e\uddc0\n- andando per voi a ritirare medicinali in farmacia \ud83c\udfe5\nPotete contattare i portieri Diego e Giovanni telefonando al numero: 3737660799 negli orari indicati.\n\n(Il servizio \u00e8 gratuito ed attivo per il quartiere di Vallemiano - Ancona dal luned\u00ec al venerd\u00ec dalle 9:00 alle 13.00 e dalle 15.00 alle 19.00 - La consegna avverr\u00e0 rispettando la distanza di sicurezza ed evitando contatti diretti)"", ""Destinatari"": ""Anziani ed abitanti residenti del territorio del quartiere Vallemiano Ancona"", ""Link"": ""https://www.casacultureancona.it/2020/01/19/incipit-il-portiere-di-quartiere-a-vallemiano-ancona/"", ""Natura"": ""solidale"", ""Posizione"": ""43.608441 13.514226 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Servizio di portierato di quartiere""}","<pre><yamldata>
 Da_chi_offerta: Biblioteca Associazione Casa delle Culture
 Descrizione: ""Il servizio di portierato di quartiere \xE8 attivo anche in questo periodo\
@@ -791,7 +800,7 @@ provincia: ''
 regione: ''
 tag: Informazioni utili
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/121,578925980,2020-03-11 22:52:10,2020-03-10 23:53:34,Portierato di quartiere #Ancona,,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato""]",,,"{""chi"": ""Casa delle Culture"", ""comune"": ""Ancona"", ""contatti"": ""3737660799"", ""descrizione"": ""Portierato di quartiere"", ""destinatari"": ""residenti quartiere Vallemiano"", ""fonte"": ""https://www.facebook.com/casacultureancona/photos/a.106921962675490/3051249511576039/?type=3&theater"", ""provincia"": ""Ancona"", ""regione"": ""Marche"", ""tag"": ""Consegne e commissioni""}","<pre><yamldata>chi: Casa delle Culture
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/121,578925980,2020-03-12 11:15:42,2020-03-10 23:53:34,Portierato di quartiere #Ancona,,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato""]",,,"{""chi"": ""Casa delle Culture"", ""comune"": ""Ancona"", ""contatti"": ""3737660799"", ""descrizione"": ""Portierato di quartiere"", ""destinatari"": ""residenti quartiere Vallemiano"", ""fonte"": ""https://www.facebook.com/casacultureancona/photos/a.106921962675490/3051249511576039/?type=3&theater"", ""provincia"": ""Ancona"", ""regione"": ""Marche"", ""tag"": ""Consegne e commissioni""}","<pre><yamldata>chi: Casa delle Culture
 comune: Ancona
 contatti: '3737660799'
 descrizione: Portierato di quartiere
@@ -800,7 +809,7 @@ fonte: https://www.facebook.com/casacultureancona/photos/a.106921962675490/30512
 provincia: Ancona
 regione: Marche
 tag: Consegne e commissioni
-</yamldata></pre>",open
+</yamldata></pre>",closed
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/120,578925974,2020-03-11 11:25:57,2020-03-10 23:53:33,Spettacoli comici in streaming,,,"[""Attivita culturali e ricreative"", ""accettato""]",,,"{""chi"": ""Il Cenacolo dei Farfalloni"", ""comune"": ""Ancona"", ""contatti"": """", ""descrizione"": ""Spettacoli comici in streaming"", ""destinatari"": ""tutti"", ""fonte"": ""https://www.facebook.com/farfalloni.teatro/posts/2921734271223850?__xts__[0]=68.ARAg_88NOH-Bmb8r9nv2Li9EdHBC39vaHQQ0ZLmW4dZHVAFk4Nd_knzkD7a7iAeRz9Md4GIrLRsq-4ZK46kI6-yVSG9QdUbGTtn4EkdGsVTqLSq9csqJNGPCF4A3l-5rRf0nURCPM7aR5BW2QtVNjTxxXhIdNdZEpr9nLziOVQityOLvHnJcE8Tf4v3JQ28A7TLIXm2dtxPAZ8VNsoBBQWtHISxI-l5_yKfMEnVkGjTa5faHBJNw_OROM6yvVWQspOBxa9GC_HqZxcMjLKGkIWHw88WJoZ64mVzXytHNbbFVBL-9KZZtzFsDfj4Ias_7jk_Hlyffu-z1AYFVNfBbuwxhftMfGC6eP6_j-TgmPwi9rmkqm11XgEqk3k6dJVBLqT2sMsyeA1udFttqoW9Mq5qZVe7cVKH5WKSNL4pEM_vweVT8d1YspFXwT6th_KRWpvky_sbYYYG4o7u7yIe0wZDu4QE1jvJL1ld_S-X9YnkwxN95dm2mleoYRHVx&__tn__=K-R"", ""provincia"": ""Ancona"", ""regione"": ""Marche"", ""tag"": ""Attivit\u00e0 culturali e ricreative""}","<pre><yamldata>chi: Il Cenacolo dei Farfalloni
 comune: Ancona
 contatti: ''
