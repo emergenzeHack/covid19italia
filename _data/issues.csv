@@ -44,6 +44,25 @@ Tipo_di_soggetto: privato
 Titolo: ""Coronavirus: avviata attivit\xE0 in 4 ospedali tra Lodi e Codogno""
 
 </yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/306,580098783,2020-03-12 18:16:12,2020-03-12 17:29:08,"Fondazione Ricerca Molinette avvia raccolta fondi per sostenere medici, infermieri #Torino",,,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""CC_Postale"": ""c/c n. 31374481"", ""Causale"": ""emergenza Coronavirus"", ""Descrizione"": ""Fondazione Ricerca Molinette ONLUS avvia una campagna di RACCOLTA FONDI per affiancare medici, infermieri e tutti coloro che \u2013 all\u2019interno della A.O.U. Citt\u00e0 della Salute e della Scienza di Torino \u2013 sono impegnati nell\u2019affrontare l\u2019emergenza sanitaria in corso. Lo facciamo sulla spinta delle numerose richieste che ci sono giunte e che testimoniano come la popolazione torinese e piemontese sia accanto ai suoi operatori sanitari e alle persone colpite dal Coronavirus. In accordo con la dirigenza della Struttura sanitaria, i fondi saranno utilizzati per fronteggiare le urgenze di volta in volta individuate, sulle quale vi daremo presto aggiornamenti. \n\nPER INFORMAZIONI\nEmail: frm@fondazionericercamolinette.it\nTel.: 011/44.76.835 (lun-ven, 9.00-17.00)"", ""IBAN"": ""IT61E0304301000CC0010006509"", ""Intestazione"": ""Fondazione Ricerca Molinette ONLUS"", ""Link"": ""frm@fondazionericercamolinette.it"", ""Nome"": ""Fondazione Ricerca Molinette Onlus""}","<pre><yamldata>
+CC_Postale: c/c n. 31374481
+Causale: emergenza Coronavirus
+Descrizione: ""Fondazione Ricerca Molinette ONLUS avvia una campagna di RACCOLTA FONDI\
+  \ per affiancare medici, infermieri e tutti coloro che \u2013 all\u2019interno della\
+  \ A.O.U. Citt\xE0 della Salute e della Scienza di Torino \u2013 sono impegnati nell\u2019\
+  affrontare l\u2019emergenza sanitaria in corso. Lo facciamo sulla spinta delle numerose\
+  \ richieste che ci sono giunte e che testimoniano come la popolazione torinese e\
+  \ piemontese sia accanto ai suoi operatori sanitari e alle persone colpite dal Coronavirus.\
+  \ In accordo con la dirigenza della Struttura sanitaria, i fondi saranno utilizzati\
+  \ per fronteggiare le urgenze di volta in volta individuate, sulle quale vi daremo\
+  \ presto aggiornamenti. \n\nPER INFORMAZIONI\nEmail: frm@fondazionericercamolinette.it\n\
+  Tel.: 011/44.76.835 (lun-ven, 9.00-17.00)""
+IBAN: IT61E0304301000CC0010006509
+Intestazione: Fondazione Ricerca Molinette ONLUS
+Link: frm@fondazionericercamolinette.it
+Nome: Fondazione Ricerca Molinette Onlus
+
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/301,580073521,2020-03-12 18:02:45,2020-03-12 16:49:59,Apertura dei Centri Antiviolenza D.i.Re,,,"[""Notizia"", ""accettato"", ""form""]",,,"{""Cosa"": ""Apertura dei Centri Antiviolenza D.i.Re"", ""Descrizione"": ""I Centri Antiviolenza della rete D.i.Re si sono organizzati per rispondere all\u2019emergenza COVID-19 e alle disposizioni emanate dal governo con l\u2019istituzione della zona rossa a livello nazionale, in modo da non lasciare sole le donne che hanno subito violenza.\nTrovate tutte le informazioni al link di riferimento."", ""Link"": ""https://www.direcontrolaviolenza.it/emergenza-coronavirus-apertura-centri-d-i-re/?fbclid=IwAR1raEBDIKfLGEN01gnpRmlgNsPVdcTlkJwqTdxui3eP9xpZziQyBGgopSA""}","<pre><yamldata>
 Cosa: Apertura dei Centri Antiviolenza D.i.Re
 Descrizione: ""I Centri Antiviolenza della rete D.i.Re si sono organizzati per rispondere\
@@ -67,6 +86,19 @@ group_bq2vf46/Causale: EMERGENZA MARCHE CORONAVIRUS SERVIZIO TESORERIA
 group_bq2vf46/IBAN: IT43A0760102600001049330432
 group_bq2vf46/Intestazione: REGIONE MARCHE
 
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/293,580045497,2020-03-12 18:17:28,2020-03-12 16:05:04,#facciolaspesadacasa #Matera e provincia,,,"[""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Imprese commerciali della provincia di Matera"", ""Descrizione"": ""Dopo l'iscrizione, si pu\u00f2 inserire l'indirizzo email dove si desidera ricevere gli ordini, le generalit\u00e0 del proprietario dell'attivit\u00e0 e la lista dei prodotti prenotabili."", ""Destinatari"": ""Chiunque abbia bisogno di acquistare prodotti per animali, generi alimentari, o da farmacie, ristoranti e supermercati"", ""Link"": ""https://facciolaspesadacasa.wzeta.com/"", ""Natura"": ""solidale"", ""Posizione"": ""40.666968 16.603018 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""#facciolaspesadacasa""}","<pre><yamldata>
+Da_chi_offerta: Imprese commerciali della provincia di Matera
+Descrizione: ""Dopo l'iscrizione, si pu\xF2 inserire l'indirizzo email dove si desidera\
+  \ ricevere gli ordini, le generalit\xE0 del proprietario dell'attivit\xE0 e la lista\
+  \ dei prodotti prenotabili.""
+Destinatari: Chiunque abbia bisogno di acquistare prodotti per animali, generi alimentari,
+  o da farmacie, ristoranti e supermercati
+Natura: solidale
+Posizione: 40.666968 16.603018 0 0
+Tipo_di_soggetto: privato
+Titolo: '#facciolaspesadacasa'
+Link: https://facciolaspesadacasa.wzeta.com/
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/277,579959119,2020-03-12 17:12:03,2020-03-12 13:59:48,Consegna a domicilio gratuita di farmaci e parafarmaci #Regioni Italia,,,"[""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Lloyds Farmacie"", ""Descrizione"": ""Consegna gratutita a domicilio fino al 31 marzo 2020. \nScarica l'app e scopri le farmacie con il servizio attivo, scorrendo nell'apposito elenco consultabile on-line."", ""Destinatari"": ""Tutte e tutti"", ""Link"": ""https://www.lloydsfarmacia.it/consegna-domiciliare"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Consegna a domicilio gratuita di farmaci e parafarmaci sar\u00e0 disponibile fino al 31 marzo 2020""}","<pre><yamldata>
 Da_chi_offerta: Lloyds Farmacie
