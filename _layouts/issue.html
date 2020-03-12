@@ -1,60 +1,81 @@
 ---
 layout: base
 ---
-
 {% include header.html type="issue" %}
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.0/dist/leaflet.css" />
 <script src="https://unpkg.com/leaflet@1.0.0/dist/leaflet.js"></script>
-    <style>
-    #map{ height: 150px }
-  </style>
-
+<style>
+#map {
+    height: 150px
+}
+</style>
 <div class="container" role="main">
-        <div class="row"> <div class="col-md-12">{% if page.state == "closed" %}<strike>{% endif %}<h2>{{page.issue.title}}</h2>{% if page.state == "closed" %}</strike>{% endif %} </div> </div>
-  <div class="row"> <div class="col-md-2">Stato della segnalazione:</div> <div class="col-md-10"> {{page.state}}</div> </div>
-  <div class="row"> <div class="col-md-2">Descrizione:</div> <div class="col-md-10">{% if page.issue.data.descrizione != blank %} {{page.issue.data.descrizione | markdownify}} {% else %} {{page.issue.data.Testo | markdownify}} {% endif %}</div> </div>
-
-
-                <dl class="row">
-                    {% for item in page.issue.data %}
-  {% if item[1] != blank %}
-  <dt class="col-sm-3">{{item[0]}}</dt>
-  <dd class="col-sm-9">{{item[1]}}</dd>
-  {% endif %}
-  {% endfor %}
-                </dl>
-
-  {% if page.issue.lat != blank %}
-  <div class="row"> <div class="col-md-2">latitudine:</div> <div class="col-md-10"> {{page.issue.lat}} </div> </div>
-  <div class="row"> <div class="col-md-2">longitudine:</div> <div class="col-md-10"> {{page.issue.lon}} </div> </div>
-  <div class="row"> <div class="col-md-2">Mappa:</div><div class="col-md-4"> <div id="map"></div> </div> </div>
-  {% endif %}
-
-  <div class="row"> <div class="col-md-2">Link:</div> <div class="col-md-10"> <a href="{{page.issue.url}}">{{page.issue.url}}</a></div> </div>
-  <div class="row"> <div class="col-md-2">Creato:</div> <div class="col-md-10"> {{page.issue.created_at | italianDate}} </div> </div>
-  <div class="row"> <div class="col-md-2">Aggiornato:</div> <div class="col-md-10"> {{page.issue.updated_at | italianDate}} </div> </div>
-
-{% include social-share.html %}
-
-    <div class="disqus-comments">
-      {% include disqus.html %}
+    <div class="row">
+        <div class="col-md-12">{% if page.state == "closed" %}<strike>{% endif %}<h2>{{page.issue.title}}</h2>{% if page.state == "closed" %}</strike>{% endif %} </div>
     </div>
-
+    <div class="row">
+        <div class="col-md-2">Stato della segnalazione:</div>
+        <div class="col-md-10"> {{page.state}}</div>
+    </div>
+    <div class="row">
+        <div class="col-md-2">Descrizione:</div>
+        <div class="col-md-10">{% if page.issue.data.descrizione != blank %} {{page.issue.data.descrizione | markdownify}} {% else %} {{page.issue.data.Testo | markdownify}} {% endif %}</div>
+    </div>
+    <dl class="row">
+        {% for item in page.issue.data %}
+        {% if item[1] != blank %}
+        <dt class="col-sm-3">{{item[0]}}</dt>
+        {% if item[1] contains '://' %}
+        <a href="{{item[1]}}" target="_blank"><dd class="col-sm-9">{{item[1]}}</dd></a>
+        {% else %}
+        <dd class="col-sm-9">{{item[1]}}</dd>
+        {% endif %}
+        {% endif %}
+        {% endfor %}
+    </dl>
+    {% if page.issue.lat != blank %}
+    <div class="row">
+        <div class="col-md-2">latitudine:</div>
+        <div class="col-md-10"> {{page.issue.lat}} </div>
+    </div>
+    <div class="row">
+        <div class="col-md-2">longitudine:</div>
+        <div class="col-md-10"> {{page.issue.lon}} </div>
+    </div>
+    <div class="row">
+        <div class="col-md-2">Mappa:</div>
+        <div class="col-md-4">
+            <div id="map"></div>
+        </div>
+    </div>
+    {% endif %}
+    <div class="row">
+        <div class="col-md-2">Link:</div>
+        <div class="col-md-10"> <a href="{{page.issue.url}}">{{page.issue.url}}</a></div>
+    </div>
+    <div class="row">
+        <div class="col-md-2">Creato:</div>
+        <div class="col-md-10"> {{page.issue.created_at | italianDate}} </div>
+    </div>
+    <div class="row">
+        <div class="col-md-2">Aggiornato:</div>
+        <div class="col-md-10"> {{page.issue.updated_at | italianDate}} </div>
+    </div>
+    {% include social-share.html %}
+    <div class="disqus-comments">
+        {% include disqus.html %}
+    </div>
 </div>
-
 <script>
-
 // initialize the map
-var map = L.map('map').setView([{{page.issue.lat}}, {{page.issue.lon}}], 16);
+var map = L.map('map').setView([{ { page.issue.lat } }, { { page.issue.lon } }], 16);
 
 // create the tile layer with correct attribution
-var osmUrl='{{site.tile_map}}';
-var osmAttrib='&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>, Tiles courtesy of <a href="http://hot.openstreetmap.org/" target="_blank">Humanitarian OpenStreetMap Team</a>';
-var osm = new L.TileLayer(osmUrl, {minZoom: 8, maxZoom: 19, attribution: osmAttrib});
+var osmUrl = '{{site.tile_map}}';
+var osmAttrib = '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>, Tiles courtesy of <a href="http://hot.openstreetmap.org/" target="_blank">Humanitarian OpenStreetMap Team</a>';
+var osm = new L.TileLayer(osmUrl, { minZoom: 8, maxZoom: 19, attribution: osmAttrib });
 
 map.addLayer(osm);
 
-var marker = L.marker([{{page.issue.lat}}, {{page.issue.lon}}]).addTo(map);
-
-
+var marker = L.marker([{ { page.issue.lat } }, { { page.issue.lon } }]).addTo(map);
 </script>
