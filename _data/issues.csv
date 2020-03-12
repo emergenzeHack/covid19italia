@@ -511,6 +511,17 @@ Nome: Barbara Abruzzo
 Posizione: 39.359686 16.03995 0 0
 
 </yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/254,579894323,2020-03-12 21:33:22,2020-03-12 12:09:04,Streaming di comunità,,,"[""Attivita culturali e ricreative"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Open Distribuzioni dal Basso"", ""Descrizione"": ""Mette a disposizione in uno streaming di comunit\u00e0: una lunga programmazione di video, film e documentari per ribadire il valore che diamo alla cultura dal basso e alla sua diffusione"", ""Destinatari"": ""Tutte e tutti"", ""Link"": ""https://www.openddb.it/streaming-di-comunita/"", ""Titolo"": ""Streaming di comunit\u00e0"", ""natura"": ""culturale-ricr""}","<pre><yamldata>
+Da_chi_offerta: Open Distribuzioni dal Basso
+Descrizione: ""Mette a disposizione in uno streaming di comunit\xE0: una lunga programmazione\
+  \ di video, film e documentari per ribadire il valore che diamo alla cultura dal\
+  \ basso e alla sua diffusione""
+Destinatari: Tutte e tutti
+Link: https://www.openddb.it/streaming-di-comunita/
+Titolo: ""Streaming di comunit\xE0""
+natura: culturale-ricr
+
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/251,579873870,2020-03-12 12:00:38,2020-03-12 11:29:19,Sostegno psicologico telefonico #Montesilvano (PE),,,"[""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Azienda Speciale Montesilvano"", ""Descrizione"": ""Il numero \u00e8 085 4481216. Risponderanno specialisti dei servizi sociali che sapranno trovare le giuste parole per dare sollievo e tranquillit\u00e0 alle persone stressate, ansiose e prese dal panico a causa della situazione di emergenza che stiamo vivendo."", ""Destinatari"": ""tutti"", ""Natura"": ""solidale"", ""Posizione"": ""42.514487 14.15405 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Sostegno psicologico telefonico"", ""meta/deprecatedID"": ""uuid:c878bfd9-85fb-47ef-a9fa-e5c429b928ed""}","<pre><yamldata>
 Da_chi_offerta: Azienda Speciale Montesilvano
 Descrizione: ""Il numero \xE8 085 4481216. Risponderanno specialisti dei servizi sociali\
