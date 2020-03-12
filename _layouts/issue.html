@@ -26,14 +26,10 @@ layout: base
         {% if item[1] != blank %}
         <dt class="col-sm-3">{{item[0] | replace: "_", " "}}</dt>
         <dd class="col-sm-9">
-        {% if item[1] contains '://' %}
-        <a href="{{item[1]}}" target="_blank">{{item[1]}}</a>
-        {% else %}
         {% if item[0] == "Telefono" %}
         <a href="tel:{{item[1] | remove: " "}}" target="_blank">{{item[1]}}</a>
         {% else %}
-        {{item[1] | newline_to_br}}
-        {% endif %}
+        {{item[1] | strip | auto_link | newline_to_br}}
         {% endif %}
         </dd>
         {% endif %}

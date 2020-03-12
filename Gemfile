@@ -26,4 +26,5 @@ end
 
 gem 'html-proofer'
 gem 'jekyll-tidy'
+gem 'rinku'
 
