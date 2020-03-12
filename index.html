@@ -15,7 +15,7 @@ subtitle: Un progetto per condividere informazioni e attivarsi a supporto dell'e
     {% endif %}
   {% endcapture %}
   {% assign logo_alt = logo_alt | strip %}
-  <a href="{{ site.baseurl }}/{{ category.link | slugify }}" class="thumbnail col-md-2" title="{{ logo_alt }}">
+  <a href="{{ site.baseurl }}/{{ category.link }}" class="thumbnail col-md-2" title="{{ logo_alt }}">
     {% if category.logo and category.logo != empty %}
       <img src="{{ site.baseurl }}{{ category.logo }}" alt="{{ category.logo-alt }}">
     {% endif %}
