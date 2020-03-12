@@ -1,4 +1,44 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/315,580236709,2020-03-12 21:41:53,2020-03-12 21:31:06,COVID-19 contromisure (richiesta aiuto per ricerca scientifica),,,"[""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""COVID-19 contrimisure"", ""Descrizione"": ""Buonasera. Lavoro come docente e ricercatore presso la societ\u00e0 Mensana srls e sto collaborando con il Collegio di Medicina e Scienze della Salute degli Emirati Arabi tramite la figura del ricercatore Akshaya Bhagavathula [1]. Ho pubblicato lo studio \""Mathematical-statistical modeling of COVID-19 on the restricted population\"" che \u00e8 stato incluso proprio dal Dottor Bhagavathula nel progetto \""Scientific Hypothesis as a source of innovation and discovery\"" inerentemente a Sars-Cov-2 e COVID-19.\n\nCon suddetto studio del 29 Febbraio ho semplicemente indagato (non senza una buona dose di supposizioni) l'evoluzione del virus in Italia sulla base di una popolazione che non presentasse ulteriori disomogeneit\u00e0 al di fuori dei valori SEIR (i.e. non ho incluso alcuna strategia di isolamento). Ho potuto concludere che: i valori forniti dall'OMS fossero esageratamente sottostimati e/o il virus fosse gi\u00e0 presente sul suolo italiano da tempo (magari un suo ceppo meno aggressivo scambiato per una normale influenza) e/o il periodo di incubazione fosse molto pi\u00f9 lungo del previsto.\n\nTuttavia, avrei urgenza di rapportarmi con qualcuno per esporre alcune questioni preoccupanti sulle possibili mutazioni evolutive (come il tipo-L in Cina [3]) e l'assenza di un criterio standard di collezione dei dati che sta complicando non poco le conclusioni di natura statistico-inferenziale nonch\u00e9 l'individuazione di eventuali anomalie segnalanti la presenza di mutazioni evolutive locali [4][5].\n\nGrazie e cordiali saluti,\n\nAlessandro Rovetta.\n\nFonti:\n[1] https://www.researchgate.net/profile/Akshaya_Bhagavathula\n[2] https://www.researchgate.net/project/Scientific-Hypothesis-as-a-source-of-innovation-and-discovery\n[3] https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaa036/5775463 , pag.2, \""Abstract\"" section.\n[4] https://www.corriere.it/salute/malattie_infettive/cards/cor\n[5] https://www.ilsole24ore.com/art/la-giravolta-comunicativa-coronavirus-meno-tamponi-e-contare-solo-casi-gravi-ACQYXQMB"", ""Posizione"": ""45.53894 10.220284 0 0"", ""meta/deprecatedID"": ""uuid:155970e7-93ef-439f-aff5-caf9808f8be4""}","<pre><yamldata>
+Cosa: COVID-19 contrimisure
+Descrizione: ""Buonasera. Lavoro come docente e ricercatore presso la societ\xE0 Mensana\
+  \ srls e sto collaborando con il Collegio di Medicina e Scienze della Salute degli\
+  \ Emirati Arabi tramite la figura del ricercatore Akshaya Bhagavathula [1]. Ho pubblicato\
+  \ lo studio \""Mathematical-statistical modeling of COVID-19 on the restricted population\""\
+  \ che \xE8 stato incluso proprio dal Dottor Bhagavathula nel progetto \""Scientific\
+  \ Hypothesis as a source of innovation and discovery\"" inerentemente a Sars-Cov-2\
+  \ e COVID-19.\n\nCon suddetto studio del 29 Febbraio ho semplicemente indagato (non\
+  \ senza una buona dose di supposizioni) l'evoluzione del virus in Italia sulla base\
+  \ di una popolazione che non presentasse ulteriori disomogeneit\xE0 al di fuori\
+  \ dei valori SEIR (i.e. non ho incluso alcuna strategia di isolamento). Ho potuto\
+  \ concludere che: i valori forniti dall'OMS fossero esageratamente sottostimati\
+  \ e/o il virus fosse gi\xE0 presente sul suolo italiano da tempo (magari un suo\
+  \ ceppo meno aggressivo scambiato per una normale influenza) e/o il periodo di incubazione\
+  \ fosse molto pi\xF9 lungo del previsto.\n\nTuttavia, avrei urgenza di rapportarmi\
+  \ con qualcuno per esporre alcune questioni preoccupanti sulle possibili mutazioni\
+  \ evolutive (come il tipo-L in Cina [3]) e l'assenza di un criterio standard di\
+  \ collezione dei dati che sta complicando non poco le conclusioni di natura statistico-inferenziale\
+  \ nonch\xE9 l'individuazione di eventuali anomalie segnalanti la presenza di mutazioni\
+  \ evolutive locali [4][5].\n\nGrazie e cordiali saluti,\n\nAlessandro Rovetta.\n\
+  \nFonti:\n[1] https://www.researchgate.net/profile/Akshaya_Bhagavathula\n[2] https://www.researchgate.net/project/Scientific-Hypothesis-as-a-source-of-innovation-and-discovery\n\
+  [3] https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaa036/5775463\
+  \ , pag.2, \""Abstract\"" section.\n[4] https://www.corriere.it/salute/malattie_infettive/cards/cor\n\
+  [5] https://www.ilsole24ore.com/art/la-giravolta-comunicativa-coronavirus-meno-tamponi-e-contare-solo-casi-gravi-ACQYXQMB""
+Posizione: 45.53894 10.220284 0 0
+meta/deprecatedID: uuid:155970e7-93ef-439f-aff5-caf9808f8be4
+
+</yamldata></pre>
+Cosa: COVID-19 contromisure
+Descrizione: 'Buonasera,
+
+
+  Mail: rovetta.exiliumgames@gmail.com
+
+  Telefono: 3927112808
+
+
+  Buon lavoro.'
+Posizione: 45.535453 10.21955 0 0",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/314,580230090,2020-03-12 21:29:25,2020-03-12 21:17:44,Attivo numero nazionale antiviolenza 1522 e linee di ascolto dei centri antiviolenza,,,"[""Contatti utili"", ""Informazioni utili"", ""Notizia"", ""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Cosa"": ""Attivo numero nazionale antiviolenza 1522 e linee di ascolto dei centri antiviolenza"", ""Descrizione"": ""Per molte donne #stareacasa non \u00e8 un invito rassicurante se vivono situazione di violenza col proprio convivente. La Rete nazionale dei centri antiviolenza ricorda che, nonostante l\u2019emergenza, rimane attivo il numero nazionale antiviolenza 1522. In tutta Italia, inoltre, i centri antiviolenza sono attivi e pronti a supportare le donne con linee di ascolto telefonico e via email."", ""Link"": ""https://www.dire.it/12-03-2020/432907-coronavirus-violenza-donne-veltri-d-i-re-chiamateci-noi-ci-siamo/""}","<pre><yamldata>
 Cosa: Attivo numero nazionale antiviolenza 1522 e linee di ascolto dei centri antiviolenza
 Descrizione: ""Per molte donne #stareacasa non \xE8 un invito rassicurante se vivono\
