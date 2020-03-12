@@ -797,12 +797,15 @@ div.segnala > li {
   content: '';
 }
 
-.homepage-categories .thumbnail {
-  display: inline-block;
-  min-width: 120px;
-  text-align: center;
-  border: none;
-  padding: 10px;
+.homepage-categories, .theme-gallery {
+    text-align: center;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    padding: 0;
+    margin: 0;
+    border: none;
+    list-style: none;
 }
 
 .homepage-categories .thumbnail img {
@@ -820,4 +823,8 @@ div.segnala > li {
   display: block;
   width: 100%;
   min-height: 28px;
+}
+
+.thumbnail {
+  border: none;
 }
