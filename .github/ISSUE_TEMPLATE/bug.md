@@ -10,8 +10,11 @@ Prima di creare la issue accertati:
 - di aver compilato i campi sotto
 -->
 
-
-**Priorità**: bassa | medio | alta
+<!--
+Cambia priorità in bassa, media o alta
+per dare più o meno rilevanza al problema
+-->
+**Priorità**: bassa
 
 ## Richiesta
 <!--
