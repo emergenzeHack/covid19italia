@@ -1,4 +1,14 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/314,580230090,2020-03-12 21:29:25,2020-03-12 21:17:44,Attivo numero nazionale antiviolenza 1522 e linee di ascolto dei centri antiviolenza,,,"[""Contatti utili"", ""Informazioni utili"", ""Notizia"", ""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Cosa"": ""Attivo numero nazionale antiviolenza 1522 e linee di ascolto dei centri antiviolenza"", ""Descrizione"": ""Per molte donne #stareacasa non \u00e8 un invito rassicurante se vivono situazione di violenza col proprio convivente. La Rete nazionale dei centri antiviolenza ricorda che, nonostante l\u2019emergenza, rimane attivo il numero nazionale antiviolenza 1522. In tutta Italia, inoltre, i centri antiviolenza sono attivi e pronti a supportare le donne con linee di ascolto telefonico e via email."", ""Link"": ""https://www.dire.it/12-03-2020/432907-coronavirus-violenza-donne-veltri-d-i-re-chiamateci-noi-ci-siamo/""}","<pre><yamldata>
+Cosa: Attivo numero nazionale antiviolenza 1522 e linee di ascolto dei centri antiviolenza
+Descrizione: ""Per molte donne #stareacasa non \xE8 un invito rassicurante se vivono\
+  \ situazione di violenza col proprio convivente. La Rete nazionale dei centri antiviolenza\
+  \ ricorda che, nonostante l\u2019emergenza, rimane attivo il numero nazionale antiviolenza\
+  \ 1522. In tutta Italia, inoltre, i centri antiviolenza sono attivi e pronti a supportare\
+  \ le donne con linee di ascolto telefonico e via email.""
+Link: https://www.dire.it/12-03-2020/432907-coronavirus-violenza-donne-veltri-d-i-re-chiamateci-noi-ci-siamo/
+
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/311,580142836,2020-03-12 19:11:06,2020-03-12 18:34:46,"Bianconero, audiolibri per bambini regalati",,,"[""Attivita culturali e ricreative"", ""Notizia"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,{},"<pre><yamldata>
 Cosa: Bianconero, audiolibri per bambini regalati
 Descrizione: ""La Biancoenero, casa editrice per bambini, regala libri e audiolibri\
