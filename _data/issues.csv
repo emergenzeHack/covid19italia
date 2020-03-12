@@ -1,44 +1,4 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/315,580236709,2020-03-12 21:41:53,2020-03-12 21:31:06,COVID-19 contromisure (richiesta aiuto per ricerca scientifica),,,"[""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""COVID-19 contrimisure"", ""Descrizione"": ""Buonasera. Lavoro come docente e ricercatore presso la societ\u00e0 Mensana srls e sto collaborando con il Collegio di Medicina e Scienze della Salute degli Emirati Arabi tramite la figura del ricercatore Akshaya Bhagavathula [1]. Ho pubblicato lo studio \""Mathematical-statistical modeling of COVID-19 on the restricted population\"" che \u00e8 stato incluso proprio dal Dottor Bhagavathula nel progetto \""Scientific Hypothesis as a source of innovation and discovery\"" inerentemente a Sars-Cov-2 e COVID-19.\n\nCon suddetto studio del 29 Febbraio ho semplicemente indagato (non senza una buona dose di supposizioni) l'evoluzione del virus in Italia sulla base di una popolazione che non presentasse ulteriori disomogeneit\u00e0 al di fuori dei valori SEIR (i.e. non ho incluso alcuna strategia di isolamento). Ho potuto concludere che: i valori forniti dall'OMS fossero esageratamente sottostimati e/o il virus fosse gi\u00e0 presente sul suolo italiano da tempo (magari un suo ceppo meno aggressivo scambiato per una normale influenza) e/o il periodo di incubazione fosse molto pi\u00f9 lungo del previsto.\n\nTuttavia, avrei urgenza di rapportarmi con qualcuno per esporre alcune questioni preoccupanti sulle possibili mutazioni evolutive (come il tipo-L in Cina [3]) e l'assenza di un criterio standard di collezione dei dati che sta complicando non poco le conclusioni di natura statistico-inferenziale nonch\u00e9 l'individuazione di eventuali anomalie segnalanti la presenza di mutazioni evolutive locali [4][5].\n\nGrazie e cordiali saluti,\n\nAlessandro Rovetta.\n\nFonti:\n[1] https://www.researchgate.net/profile/Akshaya_Bhagavathula\n[2] https://www.researchgate.net/project/Scientific-Hypothesis-as-a-source-of-innovation-and-discovery\n[3] https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaa036/5775463 , pag.2, \""Abstract\"" section.\n[4] https://www.corriere.it/salute/malattie_infettive/cards/cor\n[5] https://www.ilsole24ore.com/art/la-giravolta-comunicativa-coronavirus-meno-tamponi-e-contare-solo-casi-gravi-ACQYXQMB"", ""Posizione"": ""45.53894 10.220284 0 0"", ""meta/deprecatedID"": ""uuid:155970e7-93ef-439f-aff5-caf9808f8be4""}","<pre><yamldata>
-Cosa: COVID-19 contrimisure
-Descrizione: ""Buonasera. Lavoro come docente e ricercatore presso la societ\xE0 Mensana\
-  \ srls e sto collaborando con il Collegio di Medicina e Scienze della Salute degli\
-  \ Emirati Arabi tramite la figura del ricercatore Akshaya Bhagavathula [1]. Ho pubblicato\
-  \ lo studio \""Mathematical-statistical modeling of COVID-19 on the restricted population\""\
-  \ che \xE8 stato incluso proprio dal Dottor Bhagavathula nel progetto \""Scientific\
-  \ Hypothesis as a source of innovation and discovery\"" inerentemente a Sars-Cov-2\
-  \ e COVID-19.\n\nCon suddetto studio del 29 Febbraio ho semplicemente indagato (non\
-  \ senza una buona dose di supposizioni) l'evoluzione del virus in Italia sulla base\
-  \ di una popolazione che non presentasse ulteriori disomogeneit\xE0 al di fuori\
-  \ dei valori SEIR (i.e. non ho incluso alcuna strategia di isolamento). Ho potuto\
-  \ concludere che: i valori forniti dall'OMS fossero esageratamente sottostimati\
-  \ e/o il virus fosse gi\xE0 presente sul suolo italiano da tempo (magari un suo\
-  \ ceppo meno aggressivo scambiato per una normale influenza) e/o il periodo di incubazione\
-  \ fosse molto pi\xF9 lungo del previsto.\n\nTuttavia, avrei urgenza di rapportarmi\
-  \ con qualcuno per esporre alcune questioni preoccupanti sulle possibili mutazioni\
-  \ evolutive (come il tipo-L in Cina [3]) e l'assenza di un criterio standard di\
-  \ collezione dei dati che sta complicando non poco le conclusioni di natura statistico-inferenziale\
-  \ nonch\xE9 l'individuazione di eventuali anomalie segnalanti la presenza di mutazioni\
-  \ evolutive locali [4][5].\n\nGrazie e cordiali saluti,\n\nAlessandro Rovetta.\n\
-  \nFonti:\n[1] https://www.researchgate.net/profile/Akshaya_Bhagavathula\n[2] https://www.researchgate.net/project/Scientific-Hypothesis-as-a-source-of-innovation-and-discovery\n\
-  [3] https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaa036/5775463\
-  \ , pag.2, \""Abstract\"" section.\n[4] https://www.corriere.it/salute/malattie_infettive/cards/cor\n\
-  [5] https://www.ilsole24ore.com/art/la-giravolta-comunicativa-coronavirus-meno-tamponi-e-contare-solo-casi-gravi-ACQYXQMB""
-Posizione: 45.53894 10.220284 0 0
-meta/deprecatedID: uuid:155970e7-93ef-439f-aff5-caf9808f8be4
-
-</yamldata></pre>
-Cosa: COVID-19 contromisure
-Descrizione: 'Buonasera,
-
-
-  Mail: rovetta.exiliumgames@gmail.com
-
-  Telefono: 3927112808
-
-
-  Buon lavoro.'
-Posizione: 45.535453 10.21955 0 0",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/314,580230090,2020-03-12 21:29:25,2020-03-12 21:17:44,Attivo numero nazionale antiviolenza 1522 e linee di ascolto dei centri antiviolenza,,,"[""Contatti utili"", ""Informazioni utili"", ""Notizia"", ""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Cosa"": ""Attivo numero nazionale antiviolenza 1522 e linee di ascolto dei centri antiviolenza"", ""Descrizione"": ""Per molte donne #stareacasa non \u00e8 un invito rassicurante se vivono situazione di violenza col proprio convivente. La Rete nazionale dei centri antiviolenza ricorda che, nonostante l\u2019emergenza, rimane attivo il numero nazionale antiviolenza 1522. In tutta Italia, inoltre, i centri antiviolenza sono attivi e pronti a supportare le donne con linee di ascolto telefonico e via email."", ""Link"": ""https://www.dire.it/12-03-2020/432907-coronavirus-violenza-donne-veltri-d-i-re-chiamateci-noi-ci-siamo/""}","<pre><yamldata>
 Cosa: Attivo numero nazionale antiviolenza 1522 e linee di ascolto dei centri antiviolenza
 Descrizione: ""Per molte donne #stareacasa non \xE8 un invito rassicurante se vivono\
@@ -1034,14 +994,15 @@ Descrizione: ""Ci sono foto in giro che mostrano disinfettanti in commercio dal 
   \ coronavirus.""
 Link: https://pagellapolitica.it/
 ```",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/183,579473425,2020-03-12 14:37:12,2020-03-11 18:47:46,Elenco negozi a #Firenze che fanno consegne gratuite,,,"[""Consegne e commissioni"", ""Informazioni utili"", ""Servizi e iniziative solidali private"", ""accettato""]",,,{},"```
-Descrizione: 'L''assessore Federico Gianassi su Twitter comunica elenco dei negozi che fanno consegne gratuite a domicilio: alimentari, gastronomia, macellerie ma anche ferramenta, negozi computer, ottiche.'
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/183,579473425,2020-03-12 22:16:01,2020-03-11 18:47:46,Elenco negozi a #Firenze che fanno consegne gratuite,,,"[""Consegne e commissioni"", ""Informazioni utili"", ""Servizi e iniziative solidali private"", ""accettato""]",,,"{""Descrizione"": ""L'assessore Federico Gianassi su Twitter comunica elenco dei negozi che fanno consegne gratuite a domicilio: alimentari, gastronomia, macellerie ma anche ferramenta, negozi computer, ottiche."", ""Destinatari"": ""Tutti"", ""Link"": ""https://twitter.com/GianassiFede/status/1237800398779531266?s=19"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Elenco negozi a Firenze che fanno consegne gratuite a domicilio""}","<pre><yamldata>
+Descrizione: ""L'assessore Federico Gianassi su Twitter comunica elenco dei negozi che fanno consegne gratuite a domicilio: alimentari, gastronomia, macellerie ma anche ferramenta, negozi computer, ottiche.""
 Destinatari: Tutti
 Link: https://twitter.com/GianassiFede/status/1237800398779531266?s=19
 Natura: solidale
 Tipo_di_soggetto: privato
 Titolo: Elenco negozi a Firenze che fanno consegne gratuite a domicilio
-```",open
+</yamldata></pre>
+",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/182,579453698,2020-03-11 22:26:44,2020-03-11 18:12:13,"Casa Ronald cerca amuchina, guanti, mascherine #Roma",,,"[""Richiesta aiuto"", ""accettato""]",,,"{""Cosa"": ""AMUCHINA GUANTI e MASCHERINE"", ""Descrizione"": ""Fondazione Ronald McDonald\n\n\nLe case Ronald di  Roma che ospitano i bambini e famiglia  degli ospedali pediatrici di riferimento sono piene . le loro patologie e cure sono INDIFFERIBILI e i pazienti NON DIMISSIBILI. Nelle case in cui i nostri operatori sono a contatto con bambini e famiglie ci mancano AMUCHINA GUANTI e MASCHERINE . stiamo cercando aiuto dalle aziende amiche . Per poter dare continuit\u00e0 al servizio abbiamo bisogno del vostro aiuto subito . se avete un amico farmacista di quartiere o un supermercato vicini vi chiediamo di fare una scorta e di inviarcelo a uno dei seguenti indirizzi . Arrivano subito a chi ne ha bisogno senza passare per magazzini.\n\nGrazie.\n\nCasa Ronald Roma Bellosguardo,\nParco Bellosguardo,\nVia degli Aldobrandeschi 3,\n00163 (Roma)"", ""Destinatari"": ""Casa Ronald Roma Bellosguardo, Parco Bellosguardo, Via degli Aldobrandeschi 3, 00163 (Roma)"", ""Indirizzo"": ""41.882614 12.404634 0 0"", ""Link"": ""https://www.linkedin.com/posts/elenazanella_fondazione-no-profit-ronald-mcdonalditalia-activity-6643058880739897345-4fWx/""}","<pre><yamldata>
 Cosa: AMUCHINA GUANTI e MASCHERINE
 Descrizione: ""Fondazione Ronald McDonald\n\n\nLe case Ronald di  Roma che ospitano\
