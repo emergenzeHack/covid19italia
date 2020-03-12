@@ -1,4 +1,182 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/309,580121524,2020-03-12 18:10:55,2020-03-12 18:02:24,"#LaScuolaContinua, community di didattica a distanza",,,"[""Didattica a distanza e-learning"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Ilaria Capua, Associazione Copernicani, Centro Studi Impara Digitale"", ""Descrizione"": ""#LaScuolaContinua \u00e8 una community che permette a scuole, Dirigenti e docenti di contare su un supporto unico che li aiuti nell'adozione di piattaforme gratuite per creare classi digitali, condividere contenuti, verificare l'apprendimento e fare videolezioni a distanza. Tutto questo qualsiasi sia la tecnologia che la scuola voglia adottare o abbia gi\u00e0 adottato."", ""Destinatari"": ""Scuole di tutta Italia"", ""Link"": ""https://www.lascuolacontinua.it/"", ""Natura"": ""didattica"", ""Titolo"": ""#LaScuolaContinua"", ""meta/deprecatedID"": ""uuid:ed8a6cc8-4f9b-4536-b876-7520bec366a4""}","<pre><yamldata>
+Da_chi_offerta: Ilaria Capua, Associazione Copernicani, Centro Studi Impara Digitale
+Descrizione: ""#LaScuolaContinua \xE8 una community che permette a scuole, Dirigenti\
+  \ e docenti di contare su un supporto unico che li aiuti nell'adozione di piattaforme\
+  \ gratuite per creare classi digitali, condividere contenuti, verificare l'apprendimento\
+  \ e fare videolezioni a distanza. Tutto questo qualsiasi sia la tecnologia che la\
+  \ scuola voglia adottare o abbia gi\xE0 adottato.""
+Destinatari: Scuole di tutta Italia
+Link: https://www.lascuolacontinua.it/
+Natura: didattica
+Titolo: '#LaScuolaContinua'
+meta/deprecatedID: uuid:ed8a6cc8-4f9b-4536-b876-7520bec366a4
+
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/308,580110168,2020-03-12 18:12:57,2020-03-12 17:45:09,Spesa a domicilio e consulenza telefonica psicologica e legale,,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Udc Pescara"", ""Descrizione"": ""Per la consegna a domicilio della spesa, contattare lo 085/4283464 dal luned\u00ec al sabato, dalle ore 10 alle ore 17.\n\nAttivato inoltre un servizio di supporto psicologico che prevede anche una consulenza legale, qualora ce ne fosse bisogno, per fare fronte a qualunque problema sulle direttive dell'ordinanza da rispettare, o per questioni che richiedano la presenza di un avvocato."", ""Destinatari"": ""tutti"", ""Link"": ""http://www.ilpescara.it/politica/coronavirus-consegna-gratuita-spesa-persone-bisognose.html?utm_source=dlvr.it&utm_medium=twitter"", ""Natura"": ""solidale"", ""Posizione"": ""42.462464 14.21456 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Spesa a domicilio e consulenza telefonica psicologica e legale""}","<pre><yamldata>
+Da_chi_offerta: Udc Pescara
+Descrizione: ""Per la consegna a domicilio della spesa, contattare lo 085/4283464 dal\
+  \ luned\xEC al sabato, dalle ore 10 alle ore 17.\n\nAttivato inoltre un servizio\
+  \ di supporto psicologico che prevede anche una consulenza legale, qualora ce ne\
+  \ fosse bisogno, per fare fronte a qualunque problema sulle direttive dell'ordinanza\
+  \ da rispettare, o per questioni che richiedano la presenza di un avvocato.""
+Destinatari: tutti
+Link: http://www.ilpescara.it/politica/coronavirus-consegna-gratuita-spesa-persone-bisognose.html?utm_source=dlvr.it&utm_medium=twitter
+Natura: solidale
+Posizione: 42.462464 14.21456 0 0
+Tipo_di_soggetto: privato
+Titolo: Spesa a domicilio e consulenza telefonica psicologica e legale
+
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/307,580108462,2020-03-12 18:14:17,2020-03-12 17:42:36,Avviata attività Medici Senza Frontiere in 4 ospedali tra #Lodi e #Codogno,,,"[""Notizia"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Medici Senza Frontiere"", ""Descrizione"": ""In collaborazione con le autorit\u00e0 sanitarie locali e il personale ospedaliero, l'\u00e9quipe di Medici Senza Frontiere \u00e8 al lavoro negli ospedali di Lodi, Codogno, Casalpusterlengo e Sant\u2019Angelo Lodigiano, che fronteggiano ancora un altissimo numero di casi.\n\nIl loro intervento supporter\u00e0 gli infettivologi degli ospedali nella gestione dell\u2019epidemia. Tra Codogno e Lodi verranno anche riattivati una ventina di posti letto, gi\u00e0 esistenti ma attualmente inutilizzati per carenza di personale rispetto all\u2019afflusso straordinario di questi giorni."", ""Destinatari"": ""Ospedali di Lodi, Codogno, Casalpusterlengo e Sant\u2019Angelo Lodigiano"", ""Link"": ""https://www.medicisenzafrontiere.it/news-e-storie/news/coronavirus-attivita-ospedali-lodi-codogno/"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Coronavirus: avviata attivit\u00e0 in 4 ospedali tra Lodi e Codogno""}","<pre><yamldata>
+Da_chi_offerta: Medici Senza Frontiere
+Descrizione: ""In collaborazione con le autorit\xE0 sanitarie locali e il personale\
+  \ ospedaliero, l'\xE9quipe di Medici Senza Frontiere \xE8 al lavoro negli ospedali\
+  \ di Lodi, Codogno, Casalpusterlengo e Sant\u2019Angelo Lodigiano, che fronteggiano\
+  \ ancora un altissimo numero di casi.\n\nIl loro intervento supporter\xE0 gli infettivologi\
+  \ degli ospedali nella gestione dell\u2019epidemia. Tra Codogno e Lodi verranno\
+  \ anche riattivati una ventina di posti letto, gi\xE0 esistenti ma attualmente inutilizzati\
+  \ per carenza di personale rispetto all\u2019afflusso straordinario di questi giorni.""
+Destinatari: ""Ospedali di Lodi, Codogno, Casalpusterlengo e Sant\u2019Angelo Lodigiano""
+Link: https://www.medicisenzafrontiere.it/news-e-storie/news/coronavirus-attivita-ospedali-lodi-codogno/
+Natura: solidale
+Tipo_di_soggetto: privato
+Titolo: ""Coronavirus: avviata attivit\xE0 in 4 ospedali tra Lodi e Codogno""
+
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/301,580073521,2020-03-12 18:02:45,2020-03-12 16:49:59,Apertura dei Centri Antiviolenza D.i.Re,,,"[""Notizia"", ""accettato"", ""form""]",,,"{""Cosa"": ""Apertura dei Centri Antiviolenza D.i.Re"", ""Descrizione"": ""I Centri Antiviolenza della rete D.i.Re si sono organizzati per rispondere all\u2019emergenza COVID-19 e alle disposizioni emanate dal governo con l\u2019istituzione della zona rossa a livello nazionale, in modo da non lasciare sole le donne che hanno subito violenza.\nTrovate tutte le informazioni al link di riferimento."", ""Link"": ""https://www.direcontrolaviolenza.it/emergenza-coronavirus-apertura-centri-d-i-re/?fbclid=IwAR1raEBDIKfLGEN01gnpRmlgNsPVdcTlkJwqTdxui3eP9xpZziQyBGgopSA""}","<pre><yamldata>
+Cosa: Apertura dei Centri Antiviolenza D.i.Re
+Descrizione: ""I Centri Antiviolenza della rete D.i.Re si sono organizzati per rispondere\
+  \ all\u2019emergenza COVID-19 e alle disposizioni emanate dal governo con l\u2019\
+  istituzione della zona rossa a livello nazionale, in modo da non lasciare sole le\
+  \ donne che hanno subito violenza.\nTrovate tutte le informazioni al link di riferimento.""
+Link: https://www.direcontrolaviolenza.it/emergenza-coronavirus-apertura-centri-d-i-re/?fbclid=IwAR1raEBDIKfLGEN01gnpRmlgNsPVdcTlkJwqTdxui3eP9xpZziQyBGgopSA
+
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/299,580066977,2020-03-12 17:21:40,2020-03-12 16:39:03,Conto corrente per destinare risorse al servizio sanitario regionale #Marche,,,"[""Raccolte fondi"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Descrizione"": ""La Regione Marche ha aperto un conto corrente per destinare risorse al servizio sanitario regionale che si sta occupando dell'emergenza Covid19 e dare un contributo all'assistenza sanitaria marchigiana.\nEcco gli estremi per effettuare le donazioni:\n\u2022 numero di conto corrente postale: 001049330432\n\u2022 intestazione conto corrente postale: REGIONE MARCHE - EMERGENZA MARCHE CORONAVIRUS SERVIZIO TESORERIA \n\u2022 coordinate IBAN:  IT43A0760102600001049330432"", ""Link"": ""http://www.regione.marche.it/News-ed-Eventi/Post/60831/Donazioni-sicure-Coronavirus"", ""Nome"": ""Regione Marche"", ""group_bq2vf46/CC_Postale"": ""001049330432"", ""group_bq2vf46/Causale"": ""EMERGENZA MARCHE CORONAVIRUS SERVIZIO TESORERIA"", ""group_bq2vf46/IBAN"": ""IT43A0760102600001049330432"", ""group_bq2vf46/Intestazione"": ""REGIONE MARCHE""}","<pre><yamldata>
+Descrizione: ""La Regione Marche ha aperto un conto corrente per destinare risorse\
+  \ al servizio sanitario regionale che si sta occupando dell'emergenza Covid19 e\
+  \ dare un contributo all'assistenza sanitaria marchigiana.\nEcco gli estremi per\
+  \ effettuare le donazioni:\n\u2022 numero di conto corrente postale: 001049330432\n\
+  \u2022 intestazione conto corrente postale: REGIONE MARCHE - EMERGENZA MARCHE CORONAVIRUS\
+  \ SERVIZIO TESORERIA \n\u2022 coordinate IBAN:  IT43A0760102600001049330432""
+Link: http://www.regione.marche.it/News-ed-Eventi/Post/60831/Donazioni-sicure-Coronavirus
+Nome: Regione Marche
+group_bq2vf46/CC_Postale: 001049330432
+group_bq2vf46/Causale: EMERGENZA MARCHE CORONAVIRUS SERVIZIO TESORERIA
+group_bq2vf46/IBAN: IT43A0760102600001049330432
+group_bq2vf46/Intestazione: REGIONE MARCHE
+
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/277,579959119,2020-03-12 17:12:03,2020-03-12 13:59:48,Consegna a domicilio gratuita di farmaci e parafarmaci #Regioni Italia,,,"[""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Lloyds Farmacie"", ""Descrizione"": ""Consegna gratutita a domicilio fino al 31 marzo 2020. \nScarica l'app e scopri le farmacie con il servizio attivo, scorrendo nell'apposito elenco consultabile on-line."", ""Destinatari"": ""Tutte e tutti"", ""Link"": ""https://www.lloydsfarmacia.it/consegna-domiciliare"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Consegna a domicilio gratuita di farmaci e parafarmaci sar\u00e0 disponibile fino al 31 marzo 2020""}","<pre><yamldata>
+Da_chi_offerta: Lloyds Farmacie
+Descrizione: ""Consegna gratutita a domicilio fino al 31 marzo 2020. \nScarica l'app\
+  \ e scopri le farmacie con il servizio attivo, scorrendo nell'apposito elenco consultabile\
+  \ on-line.""
+Destinatari: Tutte e tutti
+Link: https://www.lloydsfarmacia.it/consegna-domiciliare
+Natura: solidale
+Tipo_di_soggetto: privato
+Titolo: ""Consegna a domicilio gratuita di farmaci e parafarmaci sar\xE0 disponibile\
+  \ fino al 31 marzo 2020""
+
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/275,579952787,2020-03-12 15:08:43,2020-03-12 13:50:14,Arriviamo energie positive! Webinar gratuiti dedicati all'innovazione sociale,,,"[""Attivita culturali e ricreative"", ""Didattica a distanza e-learning"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Produzioni Dal Basso"", ""Descrizione"": ""Con il coinvolgimento di alcuni tra i migliori professionisti del mondo del digitale, della consulenza, del fundraising, dell\u2019innovazione sociale, un ciclo di webinar completamente gratuiti, aperti a tutti ma pensati soprattutto per chi opera nel non profit. Un\u2019opportunit\u00e0 di crescita e di condivisione, per non arrendersi al clima di emergenza, per generare un\u2019occasione di confronto, conoscere nuovi strumenti, progettare nuove strategie."", ""Destinatari"": ""tutti"", ""Link"": ""https://www.attiviamoenergiepositive.it/"", ""Natura"": ""didattica"", ""Titolo"": ""Arriviamo energie positive! Weimar gratuito dedicati all'innovazione sociale""}","<pre><yamldata>
+Da_chi_offerta: Produzioni Dal Basso
+Descrizione: ""Con il coinvolgimento di alcuni tra i migliori professionisti del mondo\
+  \ del digitale, della consulenza, del fundraising, dell\u2019innovazione sociale,\
+  \ un ciclo di webinar completamente gratuiti, aperti a tutti ma pensati soprattutto\
+  \ per chi opera nel non profit. Un\u2019opportunit\xE0 di crescita e di condivisione,\
+  \ per non arrendersi al clima di emergenza, per generare un\u2019occasione di confronto,\
+  \ conoscere nuovi strumenti, progettare nuove strategie.""
+Destinatari: tutti
+Link: https://www.attiviamoenergiepositive.it/
+Natura: didattica
+Titolo: Arriviamo energie positive! Weimar gratuito dedicati all'innovazione sociale
+
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/271,579943590,2020-03-12 14:04:39,2020-03-12 13:35:41,IlDecameron2.0: 1 novella ogni ora #iorestoacasaconBoccaccio,,,"[""Attivita culturali e ricreative"", ""accettato"", ""form""]",,,"{""Descrizione"": ""100 novelle - 10 giorni - 1 novella ogni ora.\n#iorestoacasaconboccaccio"", ""Destinatari"": ""Tutti"", ""Link"": ""https://www.facebook.com/Ildecameron20-109503367334525/"", ""Natura"": ""culturale-ricr"", ""Titolo"": ""IlDecameron2.0""}","<pre><yamldata>
+Descrizione: '100 novelle - 10 giorni - 1 novella ogni ora.
+
+  #iorestoacasaconboccaccio'
+Destinatari: Tutti
+Link: https://www.facebook.com/Ildecameron20-109503367334525/
+Natura: culturale-ricr
+Titolo: IlDecameron2.0
+
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/269,579942983,2020-03-12 14:38:38,2020-03-12 13:34:42,Raccolta fondi Fondazione Sapienza #Roma,,,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Causale"": ""emergenza coronavirus"", ""Descrizione"": ""In un momento delicatissimo per il nostro Paese, Sapienza Universit\u00e0 di Roma, d'intesa con la Fondazione Roma Sapienza, attiva una raccolta fondi per contribuire a fronteggiare l'emergenza in atto.  \nSi invita tutta la comunit\u00e0 accademica a donare un contributo finalizzato a sostenere il finanziamento delle incrementate esigenze delle nostre strutture ospedaliere di riferimento, in questi giorni sotto enorme pressione per l'emergenza Covid-19."", ""IBAN"": ""IT72P0103003213000063259373"", ""Intestazione"": ""Fondazione Roma Sapienza"", ""Link"": ""https://www.uniroma1.it/it/notizia/raccolta-fondi-lemergenza-coronavirus-facciamoci-contagiare-dalla-solidarieta-aiutando-i"", ""Nome"": ""Fondazione Roma Sapienza""}","<pre><yamldata>
+Causale: emergenza coronavirus
+Descrizione: ""In un momento delicatissimo per il nostro Paese, Sapienza Universit\xE0\
+  \ di Roma, d'intesa con la Fondazione Roma Sapienza, attiva una raccolta fondi per\
+  \ contribuire a fronteggiare l'emergenza in atto.  \nSi invita tutta la comunit\xE0\
+  \ accademica a donare un contributo finalizzato a sostenere il finanziamento delle\
+  \ incrementate esigenze delle nostre strutture ospedaliere di riferimento, in questi\
+  \ giorni sotto enorme pressione per l'emergenza Covid-19.""
+IBAN: IT72P0103003213000063259373
+Intestazione: Fondazione Roma Sapienza
+Link: https://www.uniroma1.it/it/notizia/raccolta-fondi-lemergenza-coronavirus-facciamoci-contagiare-dalla-solidarieta-aiutando-i
+Nome: Fondazione Roma Sapienza
+
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/266,579927635,2020-03-12 17:18:22,2020-03-12 13:10:05,"Appello ""per un buon vicinato""",,,"[""Notizia"", ""accettato"", ""form""]",,,"{""Cosa"": ""Appello \""per un buon vicinato\"""", ""Descrizione"": ""L'iniziativa \""Mi prendo cura del mio vicino\"", promossa dall'assessore alla Cultura del Municipio 3 di Milano, Luca Costamagna, \u00e8 sostenuta dall'assessore all'Urbanistica, Pierfrancesco Maran, e in consiglio comunale da Alice Arienta. L'invito, diffuso con un post anche sui social, \u00e8 di non dimenticare \""chi \u00e8 solo, chi \u00e8 anziano, chi ha paura\"" soprattutto se nel proprio condominio \""c'\u00e8 qualcuno in questa condizione\"" nei giorni dell'emergenza Covid-19."", ""Link"": ""https://www.ilgiorno.it/milano/cronaca/coronavirus-appello-per-buon-vicinato-da-assessore-e-consiglieri-1.5055209"", ""meta/deprecatedID"": ""uuid:e909aa5a-75d5-4d1c-a145-75e7ca5a5365""}","<pre><yamldata>
+Cosa: Appello ""per un buon vicinato""
+Descrizione: ""L'iniziativa \""Mi prendo cura del mio vicino\"", promossa dall'assessore\
+  \ alla Cultura del Municipio 3 di Milano, Luca Costamagna, \xE8 sostenuta dall'assessore\
+  \ all'Urbanistica, Pierfrancesco Maran, e in consiglio comunale da Alice Arienta.\
+  \ L'invito, diffuso con un post anche sui social, \xE8 di non dimenticare \""chi\
+  \ \xE8 solo, chi \xE8 anziano, chi ha paura\"" soprattutto se nel proprio condominio\
+  \ \""c'\xE8 qualcuno in questa condizione\"" nei giorni dell'emergenza Covid-19.""
+Link: https://www.ilgiorno.it/milano/cronaca/coronavirus-appello-per-buon-vicinato-da-assessore-e-consiglieri-1.5055209
+meta/deprecatedID: uuid:e909aa5a-75d5-4d1c-a145-75e7ca5a5365
+
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/262,579920616,2020-03-12 14:47:11,2020-03-12 12:57:23,Solitarietà Comuni del Corsichese #Milano,,,"[""Notizia"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Manuel"", ""Descrizione"": ""Offerta per fare spesa o ritirare medicine con servizio a domicilio"", ""Destinatari"": ""Tutte e tutti"", ""Link"": ""https://giornaledeinavigli.it/cronaca/nellemergenza-coronavirus-storie-di-generosita-e-solidarieta/"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Spesa a domicilio e commissioni""}","<pre><yamldata>
+Da_chi_offerta: Manuel
+Descrizione: Offerta per fare spesa o ritirare medicine con servizio a domicilio
+Destinatari: Tutte e tutti
+Link: https://giornaledeinavigli.it/cronaca/nellemergenza-coronavirus-storie-di-generosita-e-solidarieta/
+Natura: solidale
+Tipo_di_soggetto: privato
+Titolo: Spesa a domicilio e commissioni
+
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/260,579914972,2020-03-12 18:08:35,2020-03-12 12:47:15,Spesa solidale a domicilio #Molfetta (BA),,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Cittadini volontari automuniti"", ""Descrizione"": ""Offerta di spesa solidale a domicilio per persone over 70, anziani e persone con fragilit\u00e0 senza parentela a supporto a Molfetta"", ""Destinatari"": ""Persone over 70 - anziani e persone con fragilit\u00e0 senza parenti"", ""Link"": ""http://www.quindici-molfetta.it/spesa-solidale-a-molfetta-grazie-ai-volontari_47255.aspx"", ""Natura"": ""solidale"", ""Posizione"": ""41.199307 16.59695 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Spesa solidale a domicilio - Molfetta""}","<pre><yamldata>
+Da_chi_offerta: Cittadini volontari automuniti
+Descrizione: ""Offerta di spesa solidale a domicilio per persone over 70, anziani e\
+  \ persone con fragilit\xE0 senza parentela a supporto a Molfetta""
+Destinatari: ""Persone over 70 - anziani e persone con fragilit\xE0 senza parenti""
+Link: http://www.quindici-molfetta.it/spesa-solidale-a-molfetta-grazie-ai-volontari_47255.aspx
+Natura: solidale
+Posizione: 41.199307 16.59695 0 0
+Tipo_di_soggetto: privato
+Titolo: Spesa solidale a domicilio - Molfetta
+
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/256,579897645,2020-03-12 15:16:49,2020-03-12 12:15:08,Sezione Gazzetta Ufficiale con aggiornamenti ordinanze coronavirus ,,,"[""Dati utili"", ""Fonti istituzionali"", ""Informazioni utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Sezione Gazzetta Ufficiale con aggiornamenti ordinanze governo su coronavirus"", ""Descrizione"": ""Tutte le ordinanze suddivise per: Governo, Dipartimento Protezione Civile, Ministero della Salute, Ministero delle Finanze."", ""Fonte"": ""Gazzetta Ufficiale"", ""Link"": ""https://www.gazzettaufficiale.it/dettaglioArea/12""}","<pre><yamldata>
+Cosa: Sezione Gazzetta Ufficiale con aggiornamenti ordinanze governo su coronavirus
+Descrizione: 'Tutte le ordinanze suddivise per: Governo, Dipartimento Protezione Civile,
+  Ministero della Salute, Ministero delle Finanze.'
+Fonte: Gazzetta Ufficiale
+Link: https://www.gazzettaufficiale.it/dettaglioArea/12
+
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/255,579895298,2020-03-12 17:07:29,2020-03-12 12:10:54,Raccolta fondi per l'Ospedale di #Paola (CS),,,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Rafforziamo l'Ospedale di Paola! \n\u00c8 un momento difficile per tutti e mai come ora l'unione pu\u00f2 fare la forza!\nAbbiamo deciso di dare il nostro contributo come cittadini. Nel nostro piccolo possiamo fare la differenza e dimostrare quanto sappiamo essere grandi! \nAbbiamo deciso, quindi, di rivolgere questa donazione all\u2019Ospedale di Paola con l'aiuto ed il supporto dell'Amministrazione Comunale che si far\u00e0 carico di acquistare quanto richiesto dalla struttura ospedaliera al fine di fronteggiare l'emergenza sanitaria in corso. Sar\u00e0 nostra premura tenervi informati sull\u2019esito della donazione e condividere con voi la Lettera che invieremo all\u2019Ospedale al momento della donazione.\nLa raccolta fondi sar\u00e0 destinata all'acquisto di caschi per terapia CPAP e ventilatori."", ""Link"": ""https://www.gofundme.com/f/donazione-ospedale-san-francesco-di-paola"", ""Nome"": ""Barbara Abruzzo"", ""Posizione"": ""39.359686 16.03995 0 0""}","<pre><yamldata>
+Descrizione: ""Rafforziamo l'Ospedale di Paola! \n\xC8 un momento difficile per tutti\
+  \ e mai come ora l'unione pu\xF2 fare la forza!\nAbbiamo deciso di dare il nostro\
+  \ contributo come cittadini. Nel nostro piccolo possiamo fare la differenza e dimostrare\
+  \ quanto sappiamo essere grandi! \nAbbiamo deciso, quindi, di rivolgere questa donazione\
+  \ all\u2019Ospedale di Paola con l'aiuto ed il supporto dell'Amministrazione Comunale\
+  \ che si far\xE0 carico di acquistare quanto richiesto dalla struttura ospedaliera\
+  \ al fine di fronteggiare l'emergenza sanitaria in corso. Sar\xE0 nostra premura\
+  \ tenervi informati sull\u2019esito della donazione e condividere con voi la Lettera\
+  \ che invieremo all\u2019Ospedale al momento della donazione.\nLa raccolta fondi\
+  \ sar\xE0 destinata all'acquisto di caschi per terapia CPAP e ventilatori.""
+Link: https://www.gofundme.com/f/donazione-ospedale-san-francesco-di-paola
+Nome: Barbara Abruzzo
+Posizione: 39.359686 16.03995 0 0
+
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/251,579873870,2020-03-12 12:00:38,2020-03-12 11:29:19,Sostegno psicologico telefonico #Montesilvano (PE),,,"[""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Azienda Speciale Montesilvano"", ""Descrizione"": ""Il numero \u00e8 085 4481216. Risponderanno specialisti dei servizi sociali che sapranno trovare le giuste parole per dare sollievo e tranquillit\u00e0 alle persone stressate, ansiose e prese dal panico a causa della situazione di emergenza che stiamo vivendo."", ""Destinatari"": ""tutti"", ""Natura"": ""solidale"", ""Posizione"": ""42.514487 14.15405 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Sostegno psicologico telefonico"", ""meta/deprecatedID"": ""uuid:c878bfd9-85fb-47ef-a9fa-e5c429b928ed""}","<pre><yamldata>
 Da_chi_offerta: Azienda Speciale Montesilvano
 Descrizione: ""Il numero \xE8 085 4481216. Risponderanno specialisti dei servizi sociali\
@@ -92,13 +270,34 @@ Titolo: 'Didattica a distanza e valutazione delle competenze: la parola ai Dirig
   Scolastici'
 
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/227,579819444,2020-03-12 11:18:31,2020-03-12 09:56:19,Raccolta fondi Ospedale San Gerardo #Monza e Istituto dei tumori #Milano,,,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Aiutaci a rafforzare le terapie intensive dell'Ospedale San Gerardo di Monza e dell'Istituto dei Tumori di Milano e a dare continuit\u00e0 ai servizi di assistenza ai malati di tumore."", ""Link"": ""https://legatumori-mi.retedeldono.it/stop-coronavirus"", ""Nome"": ""Lega tumori LILT MIlano"", ""Posizione"": ""45.464194 9.188516 0 0""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/227,579819444,2020-03-12 14:17:24,2020-03-12 09:56:19,Raccolta fondi Ospedale San Gerardo #Monza e Istituto dei tumori #Milano,,,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Aiutaci a rafforzare le terapie intensive dell'Ospedale San Gerardo di Monza e dell'Istituto dei Tumori di Milano e a dare continuit\u00e0 ai servizi di assistenza ai malati di tumore."", ""Link"": ""https://legatumori-mi.retedeldono.it/stop-coronavirus"", ""Nome"": ""Lega tumori LILT MIlano"", ""Posizione"": ""45.464194 9.188516 0 0""}","<pre><yamldata>
 Descrizione: ""Aiutaci a rafforzare le terapie intensive dell'Ospedale San Gerardo\
   \ di Monza e dell'Istituto dei Tumori di Milano e a dare continuit\xE0 ai servizi\
   \ di assistenza ai malati di tumore.""
 Link: https://legatumori-mi.retedeldono.it/stop-coronavirus
 Nome: Lega tumori LILT MIlano
 Posizione: 45.464194 9.188516 0 0
+
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/226,579803570,2020-03-12 14:32:45,2020-03-12 09:28:48,Servizio di portierato di quartiere #Ancona,,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Biblioteca Associazione Casa delle Culture"", ""Descrizione"": ""Il servizio di portierato di quartiere \u00e8 attivo anche in questo periodo delicato dove molte persone non possono o non devono frequentare luoghi affollati!\n\nI portieri possono aiutarvi:\n- consegnandovi a domicilio un libro dalla biblioteca, giornale e riviste \ud83d\udcda\n- facendo per voi la spesa dalle attivit\u00e0 commerciali del quartiere e recapitandovela a casa \ud83c\udf4e\ud83e\udd56\ud83e\uddc0\n- andando per voi a ritirare medicinali in farmacia \ud83c\udfe5\nPotete contattare i portieri Diego e Giovanni telefonando al numero: 3737660799 negli orari indicati.\n\n(Il servizio \u00e8 gratuito ed attivo per il quartiere di Vallemiano - Ancona dal luned\u00ec al venerd\u00ec dalle 9:00 alle 13.00 e dalle 15.00 alle 19.00 - La consegna avverr\u00e0 rispettando la distanza di sicurezza ed evitando contatti diretti)"", ""Destinatari"": ""Anziani ed abitanti residenti del territorio del quartiere Vallemiano Ancona"", ""Link"": ""https://www.casacultureancona.it/2020/01/19/incipit-il-portiere-di-quartiere-a-vallemiano-ancona/"", ""Natura"": ""solidale"", ""Posizione"": ""43.608441 13.514226 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Servizio di portierato di quartiere""}","<pre><yamldata>
+Da_chi_offerta: Biblioteca Associazione Casa delle Culture
+Descrizione: ""Il servizio di portierato di quartiere \xE8 attivo anche in questo periodo\
+  \ delicato dove molte persone non possono o non devono frequentare luoghi affollati!\n\
+  \nI portieri possono aiutarvi:\n- consegnandovi a domicilio un libro dalla biblioteca,\
+  \ giornale e riviste \U0001F4DA\n- facendo per voi la spesa dalle attivit\xE0 commerciali\
+  \ del quartiere e recapitandovela a casa \U0001F34E\U0001F956\U0001F9C0\n- andando\
+  \ per voi a ritirare medicinali in farmacia \U0001F3E5\nPotete contattare i portieri\
+  \ Diego e Giovanni telefonando al numero: 3737660799 negli orari indicati.\n\n(Il\
+  \ servizio \xE8 gratuito ed attivo per il quartiere di Vallemiano - Ancona dal luned\xEC\
+  \ al venerd\xEC dalle 9:00 alle 13.00 e dalle 15.00 alle 19.00 - La consegna avverr\xE0\
+  \ rispettando la distanza di sicurezza ed evitando contatti diretti)""
+Destinatari: Anziani ed abitanti residenti del territorio del quartiere Vallemiano
+  Ancona
+Link: https://www.casacultureancona.it/2020/01/19/incipit-il-portiere-di-quartiere-a-vallemiano-ancona/
+Natura: solidale
+Posizione: 43.608441 13.514226 0 0
+Tipo_di_soggetto: privato
+Titolo: Servizio di portierato di quartiere
 
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/225,579773951,2020-03-12 10:54:07,2020-03-12 08:32:40,Raccolta fondi Istituto Nazionale per le Malattie infettive Spallanzani #Roma,,,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Raccolta fondi per l'Istituto Nazionale per le Malattie Infettive Lazzaro Spallanzani di Roma"", ""Link"": ""https://www.gofundme.com/f/nomoreweakness"", ""Nome"": ""Andrea De Bartolis e Giovanni Maria Riccio - Fondazione Homo ex Machina""}","<pre><yamldata>
@@ -350,6 +549,14 @@ Descrizione: ""Ci sono foto in giro che mostrano disinfettanti in commercio dal 
   \ coronavirus.""
 Link: https://pagellapolitica.it/
 ```",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/183,579473425,2020-03-12 14:37:12,2020-03-11 18:47:46,Elenco negozi a #Firenze che fanno consegne gratuite,,,"[""Consegne e commissioni"", ""Informazioni utili"", ""Servizi e iniziative solidali private"", ""accettato""]",,,{},"```
+Descrizione: 'L''assessore Federico Gianassi su Twitter comunica elenco dei negozi che fanno consegne gratuite a domicilio: alimentari, gastronomia, macellerie ma anche ferramenta, negozi computer, ottiche.'
+Destinatari: Tutti
+Link: https://twitter.com/GianassiFede/status/1237800398779531266?s=19
+Natura: solidale
+Tipo_di_soggetto: privato
+Titolo: Elenco negozi a Firenze che fanno consegne gratuite a domicilio
+```",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/182,579453698,2020-03-11 22:26:44,2020-03-11 18:12:13,"Casa Ronald cerca amuchina, guanti, mascherine #Roma",,,"[""Richiesta aiuto"", ""accettato""]",,,"{""Cosa"": ""AMUCHINA GUANTI e MASCHERINE"", ""Descrizione"": ""Fondazione Ronald McDonald\n\n\nLe case Ronald di  Roma che ospitano i bambini e famiglia  degli ospedali pediatrici di riferimento sono piene . le loro patologie e cure sono INDIFFERIBILI e i pazienti NON DIMISSIBILI. Nelle case in cui i nostri operatori sono a contatto con bambini e famiglie ci mancano AMUCHINA GUANTI e MASCHERINE . stiamo cercando aiuto dalle aziende amiche . Per poter dare continuit\u00e0 al servizio abbiamo bisogno del vostro aiuto subito . se avete un amico farmacista di quartiere o un supermercato vicini vi chiediamo di fare una scorta e di inviarcelo a uno dei seguenti indirizzi . Arrivano subito a chi ne ha bisogno senza passare per magazzini.\n\nGrazie.\n\nCasa Ronald Roma Bellosguardo,\nParco Bellosguardo,\nVia degli Aldobrandeschi 3,\n00163 (Roma)"", ""Destinatari"": ""Casa Ronald Roma Bellosguardo, Parco Bellosguardo, Via degli Aldobrandeschi 3, 00163 (Roma)"", ""Indirizzo"": ""41.882614 12.404634 0 0"", ""Link"": ""https://www.linkedin.com/posts/elenazanella_fondazione-no-profit-ronald-mcdonalditalia-activity-6643058880739897345-4fWx/""}","<pre><yamldata>
 Cosa: AMUCHINA GUANTI e MASCHERINE
 Descrizione: ""Fondazione Ronald McDonald\n\n\nLe case Ronald di  Roma che ospitano\
@@ -419,13 +626,9 @@ Tipo_di_soggetto: privato
 Titolo: Casa Pigneto, un quartiere solidale
 natura: solidale
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/172,579379338,2020-03-11 22:29:33,2020-03-11 16:09:15,Comune di #Jesi attiva supporto psicologico telefonico,,,"[""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,{},"```
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/172,579379338,2020-03-12 16:34:52,2020-03-11 16:09:15,Comune di #Jesi attiva supporto psicologico telefonico,,,"[""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,{},"```
 Da_chi_offerta: Comune di Jesi
-Descrizione: ""Il Comune di Jesi, che si avvale della collaborazione della psicologa-psicoterapeuta\
-  \ Romina Pulita, garantisce un servizio di sportello telefonico per superare paure,\
-  \ ansie e sostenere i cittadini in questo momento cos\xEC difficile e particolare.\n\
-  Potete chiamare ai seguenti numeri tel. 0731.538426 o 333.2127712 dal luned\xEC\
-  \ al venerd\xEC dalle ore 9.30 alle ore 11.00""
+Descrizione: ""Il Comune di Jesi, che si avvale della collaborazione della psicologa-psicoterapeuta Romina Pulita, garantisce un servizio di sportello telefonico per superare paure, ansie e sostenere i cittadini in questo momento difficile e particolare. Potete chiamare ai seguenti numeri tel. 0731.538426 o 333.2127712 dal lun. al ven. dalle ore 9.30 alle ore 11.00.”
 Destinatari: cittadine e cittadini di Jesi
 Link: https://www.facebook.com/ComuneJesi/
 Natura: solidale
@@ -531,13 +734,8 @@ Natura_dell_iniziativa: solidale
 Tipo_di_soggetto: privato
 Titolo: Ospedale Riuniti di Reggio Calabria - COVID-19
 ```",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/157,579291637,2020-03-11 17:09:33,2020-03-11 14:08:29,Donazioni per presidio Osp. Spoke di #Corigliano-Rossano,,,"[""Raccolte fondi"", ""accettato""]",,,{},"```
-Descrizione: ""il ricavato verr\xE0 devoluto al presidio Ospedaliero Spoke di Corigliano\
-  \ Rossano per l\u2019acquisto di materiale medico e/o sanitario necessario a fronteggiare\
-  \ l\u2019emergenza COVID-19. Il materiale da acquistare verr\xE0 indicato dagli\
-  \ Spoke stessi secondo le proprie esigenze, da valutare anche alla luce della cifra\
-  \ finale che verr\xE0 raggiunta.  Al termine della raccolta verranno specificate\
-  \ le modalit\xE0 di erogazione e dimostrazione dell'avvenuta erogazione.""
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/157,579291637,2020-03-12 15:59:36,2020-03-11 14:08:29,Raccolta fondi per presidio Ospedaliero Spoke di #CoriglianoRossano,,,"[""Raccolte fondi"", ""accettato""]",,,{},"```
+Descrizione: ""Raccolta fondi per il presidio Ospedaliero Spoke di Corigliano Rossano per acquisto di materiale medico e/o sanitario necessario a fronteggiare COVID-19. Il materiale da acquistare è da valutare con personale medico anche alla luce della cifra finale raggiunta. Al termine della raccolta verranno specificate modalita di erogazione e dimostrazione dell'avvenuta erogazione.""
 Destinatari: Presidio Osp. Spoke di Corigliano-Rossano
 Link: https://www.gofundme.com/f/covid19-ospedale-di-corigliano-rossano?utm_source=whatsapp-visit&utm_medium=chat&utm_campaign=p_cp+share-sheet
 Natura_dell_iniziativa: solidale
@@ -567,19 +765,21 @@ Descrizione: ""La bottega rimarr\xE0 chiusa, ma i libri e i vini li potrete ordi
   \ potete pagare in\ncontanti\ncarte di credito\nbancomat""
 Link: http://todomodo.org/
 ```",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/151,579227697,2020-03-11 12:36:11,2020-03-11 12:26:41,Supporto psicologico gratuito #Palermo,,,"[""Supporto psicologico"", ""accettato"", ""form""]",,,{},"```
-Cosa: 'Supporto psicologico #Palermo'
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/151,579227697,2020-03-12 18:13:35,2020-03-11 12:26:41,Supporto psicologico gratuito #Palermo,,,"[""Supporto psicologico"", ""accettato"", ""form""]",,,{},"Da_chi_offerta: Dott.ssa Giovanna Schittino
 Descrizione: ""Buongiorno a tutte/i, sono una psicologa psicoterapeuta di Palermo e,\
   \ volendo mettere a disposizione il mio aiuto, mi rendo disponibile gratuitamente\
   \ per un contatto telefonico per chiunque senta il bisogno di un aiuto psicologico.\
   \ Stiamo affrontando un momento di vita extra-ordinario e ci\xF2 immancabilmente\
   \ ci espone con pi\xF9 facilit\xE0 ad ansie e paure, tutto ci\xF2 \xE8 comprensibile\
   \ ma \xE8 anche superabile.\nPotete contattarmi al \u27A1\uFE0F3356952503\u2B05\uFE0F\
-  \n\nDott.ssa Giovanna Schittino""
+  \n\nDott.ssa Giovanna Schittino tel. 3356952503""
 Destinatari: tutti
-Indirizzo: 38.116188 13.362091 0 0
-Telefono: '3356952503'
-```",open
+Natura: solidale
+Posizione: 38.116188 13.362091 0 0
+Tipo_di_soggetto: privato
+Titolo: Sostegno psicologico telefonico
+meta/deprecatedID: uuid:c878bfd9-85fb-47ef-a9fa-e5c429b928ed
+",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/150,579202630,2020-03-11 11:46:24,2020-03-11 11:41:58,Rafforzamento servizio di Taxi sociale per anziani #Adelfia (BA),,,"[""Servizi e iniziative solidali pubbliche"", ""accettato""]",,,{},"chi: 'Comune di Adelfia'
 comune: Adelfia
 contatti: '3448609617'
@@ -744,14 +944,13 @@ provincia: Cosenza
 regione: Calabria
 tag: Servizi e iniziative solidali private
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/132,578926031,2020-03-11 22:48:35,2020-03-10 23:53:42,"In tutta Italia Croce rossa consegna spesa, beni di prima neccesità, farmaci",,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato""]",,,"{""chi"": ""Croce Rossa Italiana"", ""comune"": ""Italia"", ""contatti"": ""contattare il comitato locale oppure numero verde Sala Operativa 800 - 06 55 10"", ""descrizione"": ""\""Il Tempo della Gentilezza\"". Consegna spesa, beni di prima neccesit\u00e0, farmaci. Trasporto infermi"", ""destinatari"": ""anziani, persone fragili"", ""fonte"": ""https://www.repubblica.it/solidarieta/2020/03/10/news/coronavirus_rocca_per_croce_rossa_e_il_tempo_della_gentilezza_dalla_spesa_a_domicilio_al_trasporto_sanitario_-250835208/?fbclid=IwAR0SF6GRmNXthqaCs_6jNfjKV6IDuuk5a1YqAPi9uc9uWTFjYoQcKh-Jyn4"", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Consegne e commissioni""}","<pre><yamldata>chi: Croce Rossa Italiana
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/132,578926031,2020-03-12 18:04:37,2020-03-10 23:53:42,In tutta Italia Croce rossa consegna beni a domicilio e cerca volontari temporanei,,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato""]",,,"{""chi"": ""Croce Rossa Italiana"", ""comune"": ""Italia"", ""contatti"": ""contattare il comitato locale oppure numero verde Sala Operativa 800 - 06 55 10"", ""descrizione"": ""La nuova iniziativa di Croce Rossa si chiama Il Tempo della Gentilezza, ovvero consegna gratuita in tutta Italia di spesa, beni di prima necessita, farmaci. La Croce Rossa cerca anche volontari temporanei per svolgere il servizio. I volontari riceveranno apposita formazione online. Al link tutte le info."", ""destinatari"": ""anziani, persone fragili"", ""fonte"": ""https://www.cri.it/12-03-2020-covid-19-diventa-volontario-temporaneo-croce-rossa"", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Consegne e commissioni""}","<pre><yamldata>chi: Croce Rossa Italiana
 comune: Italia
 contatti: contattare il comitato locale oppure numero verde Sala Operativa 800 - 06
   55 10
-descrizione: ""\""Il Tempo della Gentilezza\"". Consegna spesa, beni di prima neccesit\xE0\
-  , farmaci. Trasporto infermi""
+descrizione: ""La nuova iniziativa di Croce Rossa si chiama Il Tempo della Gentilezza, ovvero consegna gratuita in tutta Italia di spesa, beni di prima necessita, farmaci. La Croce Rossa cerca anche volontari temporanei per svolgere il servizio. I volontari riceveranno apposita formazione online. Al link tutte le info.""
 destinatari: anziani, persone fragili
-fonte: https://www.repubblica.it/solidarieta/2020/03/10/news/coronavirus_rocca_per_croce_rossa_e_il_tempo_della_gentilezza_dalla_spesa_a_domicilio_al_trasporto_sanitario_-250835208/?fbclid=IwAR0SF6GRmNXthqaCs_6jNfjKV6IDuuk5a1YqAPi9uc9uWTFjYoQcKh-Jyn4
+fonte: https://www.cri.it/12-03-2020-covid-19-diventa-volontario-temporaneo-croce-rossa
 provincia: Italia
 regione: Italia
 tag: Consegne e commissioni
