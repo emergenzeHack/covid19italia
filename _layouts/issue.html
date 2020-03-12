@@ -10,7 +10,10 @@ layout: base
 }
 </style>
 <div class="container" role="main">
-
+    <div class="row">
+        <div class="col-md-12">{% if page.state == "closed" %}<strike>{% endif %}<h2>{{page.issue.title}}</h2>{% if page.state == "closed" %}</strike>{% endif %} </div>
+    </div>
+    
     <dl class="row">
         {% for item in page.issue.data %}
         {% if item[1] != blank %}
