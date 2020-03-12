@@ -119,7 +119,7 @@ Link: http://www.viaggiaresicuri.it/documenti/FOCUS%20CORONAVIRUS.pdf
 Tipologia atto: Focus coronavirus su Viaggiare sicuri
 Tipologia istituzione: Ministero degli Affari Esteri e della Cooperazione Internazionale
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/186,579570418,2020-03-11 22:07:21,2020-03-11 22:03:12,A #LaSpezia i volontari Arci consegnano la spesa,,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,{},"```
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/186,579570418,2020-03-12 07:50:07,2020-03-11 22:03:12,A #LaSpezia i volontari Arci consegnano la spesa,,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Arci Canaletto"", ""Descrizione"": ""Grazie alla disponibilit\u00e0 di tanti volontari del quartiere portiamo la spesa agli anziani e a tutti coloro che \u00e8 meglio che non escano di casa nemmeno per comprare i generi di prima necessit\u00e0. Organizziamo una rete di volontari che con tutte le cautele aiuti chi \u00e8 solo."", ""Destinatari"": ""Anziani e persone che non possono uscire"", ""Link"": ""http://www.cittadellaspezia.com/mobile/la-spezia/attualita/arci-canaletto-ti-porta-la-spesa-a-casa-ma-stoppa-le-attivita-307354.aspx"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""A La Spezia i volontari Arci consegnano la spesa a casa""}","<pre><yamldata>
 Da_chi_offerta: Arci Canaletto
 Descrizione: ""Grazie alla disponibilit\xE0 di tanti volontari del quartiere portiamo\
   \ la spesa agli anziani e a tutti coloro che \xE8 meglio che non escano di casa\
@@ -130,7 +130,7 @@ Link: http://www.cittadellaspezia.com/mobile/la-spezia/attualita/arci-canaletto-
 Natura: solidale
 Tipo_di_soggetto: privato
 Titolo: A La Spezia i volontari Arci consegnano la spesa a casa
-```",open
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/185,579490392,2020-03-11 21:22:35,2020-03-11 19:20:26,Non è vero che c’è un disinfettante contro il Sars-Coronavirus dal 2009,,,"[""Fake News"", ""accettato"", ""form""]",,,{},"```
 Cosa: ""Non \xE8 vero che c\u2019era un disinfettante contro il Sars-CoV2 dal 2009""
 Descrizione: ""Ci sono foto in giro che mostrano disinfettanti in commercio dal 2009\
@@ -380,19 +380,19 @@ fonte: 'https://www.comune.adelfia.gov.it/2020/03/10/avviso-servizio-taxi-per-la
 provincia: Bari
 regione: Puglia
 tag: Servizi e iniziative solidali pubbliche",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/149,579179471,2020-03-11 22:49:42,2020-03-11 11:01:28,Spesa a domicilio #SanLeo (RN),,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,{},"```
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/149,579179471,2020-03-12 07:53:16,2020-03-11 11:01:28,Spesa a domicilio #SanLeo (RN),,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Cosa"": ""Spesa a domicilio generi di prima necessit\u00e0"", ""Email"": ""coopfermentileontine@gmail.com"", ""Link"": ""http://www.guidasanleo.it/spesaadomicilio/?fbclid=IwAR3RVDFOB7ECFHTuSmSbyK1aBxM1vaPvaUkWi0-IN9KISwVVONuETaJwEUY"", ""Telefono"": ""333 6918097""}","<pre><yamldata>
 Cosa: ""Spesa a domicilio generi di prima necessit\xE0""
 Email: coopfermentileontine@gmail.com
 Link: http://www.guidasanleo.it/spesaadomicilio/?fbclid=IwAR3RVDFOB7ECFHTuSmSbyK1aBxM1vaPvaUkWi0-IN9KISwVVONuETaJwEUY
 Telefono: 333 6918097
-```",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/148,579172426,2020-03-11 22:49:54,2020-03-11 10:49:51,Consegne a domicilio #Biccari (FG),,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,{},"```
+</pre></yamldata>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/148,579172426,2020-03-12 07:53:29,2020-03-11 10:49:51,Consegne a domicilio #Biccari (FG),,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Cosa"": ""Consegna a domicilio beni di prima necessit\u00e0 e commissioni urgenti"", ""Email"": ""coopbiccari@gmail.com"", ""Indirizzo"": ""45.487319 9.179513 0 7018"", ""Link"": ""https://www.coopbiccari.it/?fbclid=IwAR1WHixd6HwTJeCOqWVMGuWnjs9v2RsvY27ws9vDT883cSu2w3-bQDS-mfY"", ""Telefono"": ""3713365864""}","<pre><yamldata>
 Cosa: ""Consegna a domicilio beni di prima necessit\xE0 e commissioni urgenti""
 Email: coopbiccari@gmail.com
 Indirizzo: 45.487319 9.179513 0 7018
 Link: https://www.coopbiccari.it/?fbclid=IwAR1WHixd6HwTJeCOqWVMGuWnjs9v2RsvY27ws9vDT883cSu2w3-bQDS-mfY
 Telefono: '3713365864'
-```",open
+</pre></yamldata>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/147,579169325,2020-03-11 11:43:06,2020-03-11 10:45:02,Raccolta fondi per ospedale #Senigallia,,,"[""Raccolte fondi"", ""accettato"", ""form""]",,,{},"```
 Descrizione: Raccolta fondi per Ospedale di Senigallia
 Link: https://www.gofundme.com/f/coronavirus-terapia-intensiva-senigallia?utm_source=whatsapp&utm_medium=chat&utm_campaign=p_cf+share-flow-1
