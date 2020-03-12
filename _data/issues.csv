@@ -1,15 +1,58 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/229,579836058,2020-03-12 10:42:49,2020-03-12 10:23:40,Raccolta fondi per Ospedali San Paolo e San Carlo #Milano,,,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Al fine di rendere questi gesti di solidariet\u00e0 spontanea e vicinanza a tutti i nostri operatori ufficiali, sicuri e trasparenti l\u2019ASST Santi Paolo e Carlo ha deciso di promuovere una Campagna di raccolta fondi istituzionale."", ""Link"": ""https://www.asst-santipaolocarlo.it/web/guest/contenuto-web/-/asset_publisher/Q47FrkrNjNTu/content/campagna-andos-prime-visite-senologiche-gratuite"", ""Nome"": ""OSPEDALI SAN PAOLO E SAN CARLO"", ""Posizione"": ""45.465549 9.187189 0 0"", ""group_bq2vf46/BIC_SWIFT"": ""BLOPIT22565"", ""group_bq2vf46/Causale"": ""EMERGENZA CORONAVIRUS OSPEDALI SAN PAOLO E SAN CARLO"", ""group_bq2vf46/IBAN"": ""IT92F0311101634000000000003"", ""group_bq2vf46/Intestazione"": ""AZIENDA SOCIO SANITARIA TERRITORIALE SANTI PAOLO E CARLO""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/231,579847861,2020-03-12 11:33:39,2020-03-12 10:43:20,Rete di vicinato solidale #Ciampino,,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Cittadini e associazioni in rete"", ""Descrizione"": ""COMBATTIAMO L\u2019EMERGENZA!\nSE HAI BISOGNO, USCIAMO NOI PER TE!\n\nIl diffondersi del coronavirus sta esponendo molte fasce del nostro tessuto sociale a dei rischi enormi. Il nostro sistema sanitario nazionale, che \u00e8 reduce da anni e anni di tagli scellerati perpetrati dalle politiche liberiste, rischia di collassare e sta portando medici, infermieri e vari lavoratori sanitari a scegliere chi curare e chi no.\nQuando l\u2019emergenza sar\u00e0 passata chiederemo il conto di tutto questo.\n\nPer adesso, dobbiamo adottare ogni misura necessaria per evitare il diffondersi del virus tra le categorie pi\u00f9 vulnerabili ed evitare il collasso del sistema sanitario nazionale.\n\nVogliamo costruire a Ciampino una rete di vicinato solidale che riduca il pi\u00f9 possibile il pericolo di esposizione al contagio dei soggetti pi\u00f9 deboli, anziani e immunodepressi, assistendo queste categorie nell\u2019eseguire commissioni.\n\nCi offriamo gratuitamente per fare la spesa ed eseguire tutte quelle azioni che esporrebbero i soggetti pi\u00f9 deboli al rischio di contagio, mettendo a repentaglio la loro e la nostra sicurezza.\n\nSiamo una rete di cittadini da anni attivi nel territorio di Ciampino per una politica inclusiva, solidale e che tenga conto dei bisogni reali dei cittadini, a partire dai soggetti pi\u00f9 deboli, contro logiche esclusive di guadagno e sfruttamento.\n\nNon abbiate paura, rispetteremo ogni misura necessaria per non rischiare il contagio, come guanti, mascherine, metro di distanza.\n\nChiunque volesse partecipare, escluse le categorie esposte ai rischi di cui sopra, \u00e8 ben accetto. La nostra \u00e8 una citt\u00e0 densa e popolosa, abbiamo bisogno di tutto l\u2019aiuto possibile.\n\nContattateci a questi numeri (3339893512, 3917626077)"", ""Destinatari"": ""Anziani e persone non autosufficienti"", ""Link"": ""https://www.facebook.com/1481023165496299/posts/2576328935965711/"", ""Natura"": ""solidale"", ""Posizione"": ""41.800847 12.600846 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Casa Ciampino""}","<pre><yamldata>
+Da_chi_offerta: Cittadini e associazioni in rete
+Descrizione: ""COMBATTIAMO L\u2019EMERGENZA!\nSE HAI BISOGNO, USCIAMO NOI PER TE!\n\
+  \nIl diffondersi del coronavirus sta esponendo molte fasce del nostro tessuto sociale\
+  \ a dei rischi enormi. Il nostro sistema sanitario nazionale, che \xE8 reduce da\
+  \ anni e anni di tagli scellerati perpetrati dalle politiche liberiste, rischia\
+  \ di collassare e sta portando medici, infermieri e vari lavoratori sanitari a scegliere\
+  \ chi curare e chi no.\nQuando l\u2019emergenza sar\xE0 passata chiederemo il conto\
+  \ di tutto questo.\n\nPer adesso, dobbiamo adottare ogni misura necessaria per evitare\
+  \ il diffondersi del virus tra le categorie pi\xF9 vulnerabili ed evitare il collasso\
+  \ del sistema sanitario nazionale.\n\nVogliamo costruire a Ciampino una rete di\
+  \ vicinato solidale che riduca il pi\xF9 possibile il pericolo di esposizione al\
+  \ contagio dei soggetti pi\xF9 deboli, anziani e immunodepressi, assistendo queste\
+  \ categorie nell\u2019eseguire commissioni.\n\nCi offriamo gratuitamente per fare\
+  \ la spesa ed eseguire tutte quelle azioni che esporrebbero i soggetti pi\xF9 deboli\
+  \ al rischio di contagio, mettendo a repentaglio la loro e la nostra sicurezza.\n\
+  \nSiamo una rete di cittadini da anni attivi nel territorio di Ciampino per una\
+  \ politica inclusiva, solidale e che tenga conto dei bisogni reali dei cittadini,\
+  \ a partire dai soggetti pi\xF9 deboli, contro logiche esclusive di guadagno e sfruttamento.\n\
+  \nNon abbiate paura, rispetteremo ogni misura necessaria per non rischiare il contagio,\
+  \ come guanti, mascherine, metro di distanza.\n\nChiunque volesse partecipare, escluse\
+  \ le categorie esposte ai rischi di cui sopra, \xE8 ben accetto. La nostra \xE8\
+  \ una citt\xE0 densa e popolosa, abbiamo bisogno di tutto l\u2019aiuto possibile.\n\
+  \nContattateci a questi numeri (3339893512, 3917626077)""
+Destinatari: Anziani e persone non autosufficienti
+Link: https://www.facebook.com/1481023165496299/posts/2576328935965711/
+Natura: solidale
+Posizione: 41.800847 12.600846 0 0
+Tipo_di_soggetto: privato
+Titolo: Casa Ciampino
+
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/230,579841145,2020-03-12 11:31:31,2020-03-12 10:32:00,Spesa a domicilio in via S. Donato #Torino,,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Gruppo di ragazze residenti in palazzo a Torino"", ""Descrizione"": ""Offerta di spesa a domicilio per persone over 70 residenti in palazzina ubicata in via S. Donato a Torino"", ""Destinatari"": ""Persone over 70"", ""Link"": ""https://torino.corriere.it/cronaca/20_marzo_07/siamo-ragazze-quarto-piano-possiamo-portarvi-spesa-casa-messaggio-anziani-condominio-75708cae-606f-11ea-8d61-438e0a276fc4.shtml"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Spesa domicilio in via S. Donato - Torino""}","<pre><yamldata>
+Da_chi_offerta: Gruppo di ragazze residenti in palazzo a Torino
+Descrizione: Offerta di spesa a domicilio per persone over 70 residenti in palazzina
+  ubicata in via S. Donato a Torino
+Destinatari: Persone over 70
+Link: https://torino.corriere.it/cronaca/20_marzo_07/siamo-ragazze-quarto-piano-possiamo-portarvi-spesa-casa-messaggio-anziani-condominio-75708cae-606f-11ea-8d61-438e0a276fc4.shtml
+Natura: solidale
+Tipo_di_soggetto: privato
+Titolo: Spesa domicilio in via S. Donato - Torino
+
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/229,579836058,2020-03-12 11:30:11,2020-03-12 10:23:40,Raccolta fondi per Ospedali San Paolo e San Carlo #Milano,,,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""BIC_SWIFT"": ""BLOPIT22565"", ""Causale"": ""EMERGENZA CORONAVIRUS OSPEDALI SAN PAOLO E SAN CARLO"", ""Descrizione"": ""Al fine di rendere questi gesti di solidariet\u00e0 spontanea e vicinanza a tutti i nostri operatori ufficiali, sicuri e trasparenti l\u2019ASST Santi Paolo e Carlo ha deciso di promuovere una Campagna di raccolta fondi istituzionale."", ""IBAN"": ""IT92F0311101634000000000003"", ""Intestazione"": ""AZIENDA SOCIO SANITARIA TERRITORIALE SANTI PAOLO E CARLO"", ""Link"": ""https://www.asst-santipaolocarlo.it/web/guest/contenuto-web/-/asset_publisher/Q47FrkrNjNTu/content/campagna-andos-prime-visite-senologiche-gratuite"", ""Nome"": ""OSPEDALI SAN PAOLO E SAN CARLO"", ""Posizione"": ""45.465549 9.187189 0 0""}","<pre><yamldata>
 Descrizione: ""Al fine di rendere questi gesti di solidariet\xE0 spontanea e vicinanza\
   \ a tutti i nostri operatori ufficiali, sicuri e trasparenti l\u2019ASST Santi Paolo\
   \ e Carlo ha deciso di promuovere una Campagna di raccolta fondi istituzionale.""
 Link: https://www.asst-santipaolocarlo.it/web/guest/contenuto-web/-/asset_publisher/Q47FrkrNjNTu/content/campagna-andos-prime-visite-senologiche-gratuite
 Nome: OSPEDALI SAN PAOLO E SAN CARLO
 Posizione: 45.465549 9.187189 0 0
-group_bq2vf46/BIC_SWIFT: BLOPIT22565
-group_bq2vf46/Causale: EMERGENZA CORONAVIRUS OSPEDALI SAN PAOLO E SAN CARLO
-group_bq2vf46/IBAN: IT92F0311101634000000000003
-group_bq2vf46/Intestazione: AZIENDA SOCIO SANITARIA TERRITORIALE SANTI PAOLO E CARLO
+BIC_SWIFT: BLOPIT22565
+Causale: EMERGENZA CORONAVIRUS OSPEDALI SAN PAOLO E SAN CARLO
+IBAN: IT92F0311101634000000000003
+Intestazione: AZIENDA SOCIO SANITARIA TERRITORIALE SANTI PAOLO E CARLO
 
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/228,579824439,2020-03-12 11:22:37,2020-03-12 10:04:47,Webinar 12/3/20 - Didattica a distanza e valutazione delle competenze,,,"[""Didattica a distanza"", ""Didattica a distanza e-learning"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""CampusStore"", ""Descrizione"": ""webinar 12 marzo alle ore 10.30  con  Alessandra Rucci   \n\n#smartlearning #elearning #valutazione #MiurSocial"", ""Destinatari"": ""Insegnanti"", ""Link"": ""https://bit.ly/2THdfbQ"", ""Natura"": ""didattica"", ""Titolo"": ""Didattica a distanza e valutazione delle competenze: la parola ai Dirigenti Scolastici""}","<pre><yamldata>
