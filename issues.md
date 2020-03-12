@@ -37,7 +37,7 @@ permalink: /issues/
                 <dl class="row">
                     {% for item in member.issue.data %}
   {% if item[1] != blank %}
-  <dt class="col-sm-3">{{item[0]}}</dt>
+  <dt class="col-sm-3">{{item[0] | replace: "_", " "}}</dt>
   <dd class="col-sm-9">{{item[1]}}</dd>
   {% endif %}
   {% endfor %}
