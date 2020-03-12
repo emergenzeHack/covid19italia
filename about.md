@@ -37,13 +37,12 @@ Matteo Fortini, Matteo Tempestini, Antonio Vivace, Vincenzo Tilotta, Maurizio De
 .....
 (i ringraziamenti sono in progress ogni giorno....Non avertene a male se non compari ancora, grazie lo stesso!)
 
-### Strumenti
+### Tecnologie
 
 Questo sito è possibile grazie anche ai seguenti strumenti open source:
 
+- Jekyll, OpenStreetMaps, Glyphicons, Bootstrap,
 - [Beautiful Jekyll](https://deanattali.com/beautiful-jekyll/)
-- Jekyll
-- OpenStreetMaps
 
 
 ### Contatti
@@ -52,7 +51,7 @@ Questo sito è possibile grazie anche ai seguenti strumenti open source:
 - [Twitter](https://twitter.com/ItaliaCovid19)
 - [Instagram](https://www.instagram.com/covid19italia.info/)
 - [Facebook](https://www.facebook.com/covid19italia.info)
-- [Gruppo Telegram ](http://t.me/covid19italia)
+- [Gruppo Telegram ](https://t.me/COVID19I)
 - [Canale Telegram](https://t.me/COVID19I)
 - [Repository Github](https://github.com/emergenzeHack/covid19italia)
 
