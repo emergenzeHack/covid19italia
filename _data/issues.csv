@@ -112,6 +112,18 @@ Descrizione: ""I Centri Antiviolenza della rete D.i.Re si sono organizzati per r
 Link: https://www.direcontrolaviolenza.it/emergenza-coronavirus-apertura-centri-d-i-re/?fbclid=IwAR1raEBDIKfLGEN01gnpRmlgNsPVdcTlkJwqTdxui3eP9xpZziQyBGgopSA
 
 </yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/300,580068378,2020-03-12 19:49:02,2020-03-12 16:41:14,Mappa dati regione Lombardia,,,"[""Dati utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Mappa dati regione Lombardia"", ""Descrizione"": ""Regione Lombardia ha reso disponibili a tutti i cittadini i dati dei casi di covid-19 nei comuni e nelle province lombarde. Attraverso questa mappa si pu\u00f2 vedere la distribuzione geografica dei casi e la loro evoluzione nel tempo. \u00c8 anche possibile vedere il numero di casi per provincia e per comune. Nella parte bassa sono presenti i grafici che rappresentano il numero di casi nel tempo in tutta la regione e nelle varie province. http://lispa.maps.arcgis.com/apps/opsdashboard/index.html#/637ec3dc28ec4ea591cc5c724f127701"", ""Fonte"": ""http://lispa.maps.arcgis.com/apps/opsdashboard/index.html#/637ec3dc28ec4ea591cc5c724f127701"", ""Posizione"": ""45.475765 9.194403 0 0""}","<pre><yamldata>
+Cosa: Mappa dati regione Lombardia
+Descrizione: ""Regione Lombardia ha reso disponibili a tutti i cittadini i dati dei\
+  \ casi di covid-19 nei comuni e nelle province lombarde. Attraverso questa mappa\
+  \ si pu\xF2 vedere la distribuzione geografica dei casi e la loro evoluzione nel\
+  \ tempo. \xC8 anche possibile vedere il numero di casi per provincia e per comune.\
+  \ Nella parte bassa sono presenti i grafici che rappresentano il numero di casi\
+  \ nel tempo in tutta la regione e nelle varie province. http://lispa.maps.arcgis.com/apps/opsdashboard/index.html#/637ec3dc28ec4ea591cc5c724f127701""
+Fonte: http://lispa.maps.arcgis.com/apps/opsdashboard/index.html#/637ec3dc28ec4ea591cc5c724f127701
+Posizione: 45.475765 9.194403 0 0
+
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/299,580066977,2020-03-12 17:21:40,2020-03-12 16:39:03,Conto corrente per destinare risorse al servizio sanitario regionale #Marche,,,"[""Raccolte fondi"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Descrizione"": ""La Regione Marche ha aperto un conto corrente per destinare risorse al servizio sanitario regionale che si sta occupando dell'emergenza Covid19 e dare un contributo all'assistenza sanitaria marchigiana.\nEcco gli estremi per effettuare le donazioni:\n\u2022 numero di conto corrente postale: 001049330432\n\u2022 intestazione conto corrente postale: REGIONE MARCHE - EMERGENZA MARCHE CORONAVIRUS SERVIZIO TESORERIA \n\u2022 coordinate IBAN:  IT43A0760102600001049330432"", ""Link"": ""http://www.regione.marche.it/News-ed-Eventi/Post/60831/Donazioni-sicure-Coronavirus"", ""Nome"": ""Regione Marche"", ""group_bq2vf46/CC_Postale"": ""001049330432"", ""group_bq2vf46/Causale"": ""EMERGENZA MARCHE CORONAVIRUS SERVIZIO TESORERIA"", ""group_bq2vf46/IBAN"": ""IT43A0760102600001049330432"", ""group_bq2vf46/Intestazione"": ""REGIONE MARCHE""}","<pre><yamldata>
 Descrizione: ""La Regione Marche ha aperto un conto corrente per destinare risorse\
   \ al servizio sanitario regionale che si sta occupando dell'emergenza Covid19 e\
@@ -380,6 +392,15 @@ Destinatari: tutti
 Link: https://www.attiviamoenergiepositive.it/
 Natura: didattica
 Titolo: Arriviamo energie positive! Weimar gratuito dedicati all'innovazione sociale
+
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/274,579950775,2020-03-12 19:46:16,2020-03-12 13:47:08,"Online tutti i romanzi letti nel programma Rai ""Ad Alta Voce""",,,"[""Attivita culturali e ricreative"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Rai"", ""Destinatari"": ""tutti"", ""Link"": ""https://www.raiplayradio.it/articoli/2018/01/Radio3--Ad-alta-voce--tutti-i-romanzi-f91c61a8-0021-40ca-a62f-514b841b558b.html?fbclid=IwAR3t-hHhgR93rCaSHXPrchCduV07Dax4jFL1cZDAbdKWsyCKb356sckh2FI"", ""Natura"": ""culturale-ricr"", ""Titolo"": ""Online tutti i romanzi letti nel programma Rai Ad Alta Voce"", ""meta/deprecatedID"": ""uuid:758fbf87-5351-4099-8882-1259b8631d7e""}","<pre><yamldata>
+Da_chi_offerta: Rai
+Destinatari: tutti
+Link: https://www.raiplayradio.it/articoli/2018/01/Radio3--Ad-alta-voce--tutti-i-romanzi-f91c61a8-0021-40ca-a62f-514b841b558b.html?fbclid=IwAR3t-hHhgR93rCaSHXPrchCduV07Dax4jFL1cZDAbdKWsyCKb356sckh2FI
+Natura: culturale-ricr
+Titolo: Online tutti i romanzi letti nel programma Rai Ad Alta Voce
+meta/deprecatedID: uuid:758fbf87-5351-4099-8882-1259b8631d7e
 
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/271,579943590,2020-03-12 14:04:39,2020-03-12 13:35:41,IlDecameron2.0: 1 novella ogni ora #iorestoacasaconBoccaccio,,,"[""Attivita culturali e ricreative"", ""accettato"", ""form""]",,,"{""Descrizione"": ""100 novelle - 10 giorni - 1 novella ogni ora.\n#iorestoacasaconboccaccio"", ""Destinatari"": ""Tutti"", ""Link"": ""https://www.facebook.com/Ildecameron20-109503367334525/"", ""Natura"": ""culturale-ricr"", ""Titolo"": ""IlDecameron2.0""}","<pre><yamldata>
