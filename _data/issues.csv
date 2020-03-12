@@ -1,4 +1,14 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/314,580230090,2020-03-12 21:29:25,2020-03-12 21:17:44,Attivo numero nazionale antiviolenza 1522 e linee di ascolto dei centri antiviolenza,,,"[""Contatti utili"", ""Informazioni utili"", ""Notizia"", ""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Cosa"": ""Attivo numero nazionale antiviolenza 1522 e linee di ascolto dei centri antiviolenza"", ""Descrizione"": ""Per molte donne #stareacasa non \u00e8 un invito rassicurante se vivono situazione di violenza col proprio convivente. La Rete nazionale dei centri antiviolenza ricorda che, nonostante l\u2019emergenza, rimane attivo il numero nazionale antiviolenza 1522. In tutta Italia, inoltre, i centri antiviolenza sono attivi e pronti a supportare le donne con linee di ascolto telefonico e via email."", ""Link"": ""https://www.dire.it/12-03-2020/432907-coronavirus-violenza-donne-veltri-d-i-re-chiamateci-noi-ci-siamo/""}","<pre><yamldata>
+Cosa: Attivo numero nazionale antiviolenza 1522 e linee di ascolto dei centri antiviolenza
+Descrizione: ""Per molte donne #stareacasa non \xE8 un invito rassicurante se vivono\
+  \ situazione di violenza col proprio convivente. La Rete nazionale dei centri antiviolenza\
+  \ ricorda che, nonostante l\u2019emergenza, rimane attivo il numero nazionale antiviolenza\
+  \ 1522. In tutta Italia, inoltre, i centri antiviolenza sono attivi e pronti a supportare\
+  \ le donne con linee di ascolto telefonico e via email.""
+Link: https://www.dire.it/12-03-2020/432907-coronavirus-violenza-donne-veltri-d-i-re-chiamateci-noi-ci-siamo/
+
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/311,580142836,2020-03-12 19:11:06,2020-03-12 18:34:46,"Bianconero, audiolibri per bambini regalati",,,"[""Attivita culturali e ricreative"", ""Notizia"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,{},"<pre><yamldata>
 Cosa: Bianconero, audiolibri per bambini regalati
 Descrizione: ""La Biancoenero, casa editrice per bambini, regala libri e audiolibri\
@@ -124,7 +134,7 @@ Fonte: http://lispa.maps.arcgis.com/apps/opsdashboard/index.html#/637ec3dc28ec4e
 Posizione: 45.475765 9.194403 0 0
 
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/299,580066977,2020-03-12 19:52:56,2020-03-12 16:39:03,Conto corrente per destinare risorse al servizio sanitario regionale #Marche,,,"[""Raccolte fondi"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Descrizione"": ""La Regione Marche ha aperto un conto corrente per destinare risorse al servizio sanitario regionale che si sta occupando dell'emergenza Covid19 e dare un contributo all'assistenza sanitaria marchigiana.\nEcco gli estremi per effettuare le donazioni:\n\u2022 numero di conto corrente postale: 001049330432\n\u2022 intestazione conto corrente postale: REGIONE MARCHE - EMERGENZA MARCHE CORONAVIRUS SERVIZIO TESORERIA \n\u2022 coordinate IBAN:  IT43A0760102600001049330432"", ""Link"": ""http://www.regione.marche.it/News-ed-Eventi/Post/60831/Donazioni-sicure-Coronavirus"", ""Nome"": ""Regione Marche"", ""group_bq2vf46/CC_Postale"": ""001049330432"", ""group_bq2vf46/Causale"": ""EMERGENZA MARCHE CORONAVIRUS SERVIZIO TESORERIA"", ""group_bq2vf46/IBAN"": ""IT43A0760102600001049330432"", ""group_bq2vf46/Intestazione"": ""REGIONE MARCHE""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/299,580066977,2020-03-12 21:18:09,2020-03-12 16:39:03,Conto corrente per destinare risorse al servizio sanitario regionale #Marche,,,"[""Raccolte fondi"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""CC_Postale"": ""001049330432"", ""Causale"": ""EMERGENZA MARCHE CORONAVIRUS SERVIZIO TESORERIA"", ""Descrizione"": ""La Regione Marche ha aperto un conto corrente per destinare risorse al servizio sanitario regionale che si sta occupando dell'emergenza Covid19 e dare un contributo all'assistenza sanitaria marchigiana.\nEcco gli estremi per effettuare le donazioni:\n\u2022 numero di conto corrente postale: 001049330432\n\u2022 intestazione conto corrente postale: REGIONE MARCHE - EMERGENZA MARCHE CORONAVIRUS SERVIZIO TESORERIA \n\u2022 coordinate IBAN:  IT43A0760102600001049330432"", ""IBAN"": ""IT43A0760102600001049330432"", ""Intestazione"": ""REGIONE MARCHE"", ""Link"": ""http://www.regione.marche.it/News-ed-Eventi/Post/60831/Donazioni-sicure-Coronavirus"", ""Nome"": ""Regione Marche""}","<pre><yamldata>
 Descrizione: ""La Regione Marche ha aperto un conto corrente per destinare risorse\
   \ al servizio sanitario regionale che si sta occupando dell'emergenza Covid19 e\
   \ dare un contributo all'assistenza sanitaria marchigiana.\nEcco gli estremi per\
@@ -133,10 +143,10 @@ Descrizione: ""La Regione Marche ha aperto un conto corrente per destinare risor
   \ SERVIZIO TESORERIA \n\u2022 coordinate IBAN:  IT43A0760102600001049330432""
 Link: http://www.regione.marche.it/News-ed-Eventi/Post/60831/Donazioni-sicure-Coronavirus
 Nome: Regione Marche
-group_bq2vf46/CC_Postale: 001049330432
-group_bq2vf46/Causale: EMERGENZA MARCHE CORONAVIRUS SERVIZIO TESORERIA
-group_bq2vf46/IBAN: IT43A0760102600001049330432
-group_bq2vf46/Intestazione: REGIONE MARCHE
+CC_Postale: 001049330432
+Causale: EMERGENZA MARCHE CORONAVIRUS SERVIZIO TESORERIA
+IBAN: IT43A0760102600001049330432
+Intestazione: REGIONE MARCHE
 
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/295,580049756,2020-03-12 19:42:23,2020-03-12 16:11:42,Cibo e medicinali a domicilio: le iniziative in #Brianza,,,"[""Notizia"", ""accettato"", ""form""]",,,"{""Cosa"": ""Cibo e medicinali a domicilio: le iniziative in Brianza"", ""Descrizione"": ""I Comuni e le associazioni si muovono per non fare uscire soprattutto le persone pi\u00f9 fragili dalla propria abitazione. Un elenco delle iniziative fin qui messe in campo."", ""Link"": ""https://www.ilcittadinomb.it/stories/Cronaca/coronavirus-cibo-e-medicinali-a-domicilio-per-le-persone-anziane-le-iniziative_1343943_11/""}","<pre><yamldata>
@@ -237,7 +247,7 @@ Descrizione: ""vari illustratori hanno aderito a questa iniziativa spontanea chi
 Link: https://www.instagram.com/p/B9mF7lsgAVd/
 
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/287,580018990,2020-03-12 19:01:11,2020-03-12 15:25:55,#Caserta solidale,,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Da una rete di decine di associazioni e movimenti casertani"", ""Descrizione"": ""#CASERTASOLIDALE  Sei solo? Sei anziano o malato? Non sai a chi chiedere aiuto per fare la spesa o comprare le medicine?\nRivolgiti a noi! Il servizio \u00e8 gratuito!\n\nChiama questi numeri dal luned\u00ec al sabato, dalle 9.30 alle 12.30 e dalle 15.00 alle 18.00:  3791918190 / 3791917199\n\nCI SI SALVA SOLO INSIEME!  *caserta solidale \u00e8 una rete di associazioni, parrocchie e cittadini che vogliono fare fronte comune contro l'emergenza covid19 e la paura!"", ""Destinatari"": ""Anziani e persone che non possono uscire di casa"", ""Natura"": ""solidale"", ""Posizione"": ""41.074841 14.342051 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Caserta solidale""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/287,580018990,2020-03-12 21:21:34,2020-03-12 15:25:55,"#Caserta solidale, servizio di consegna gratuita a domicilio",,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Da una rete di decine di associazioni e movimenti casertani"", ""Descrizione"": ""#CASERTASOLIDALE  Sei solo? Sei anziano o malato? Non sai a chi chiedere aiuto per fare la spesa o comprare le medicine?\nRivolgiti a noi! Il servizio \u00e8 gratuito!\n\nChiama questi numeri dal luned\u00ec al sabato, dalle 9.30 alle 12.30 e dalle 15.00 alle 18.00:  3791918190 / 3791917199\n\nCI SI SALVA SOLO INSIEME!  *caserta solidale \u00e8 una rete di associazioni, parrocchie e cittadini che vogliono fare fronte comune contro l'emergenza covid19 e la paura!"", ""Destinatari"": ""Anziani e persone che non possono uscire di casa"", ""Natura"": ""solidale"", ""Posizione"": ""41.074841 14.342051 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Caserta solidale""}","<pre><yamldata>
 Da_chi_offerta: Da una rete di decine di associazioni e movimenti casertani
 Descrizione: ""#CASERTASOLIDALE  Sei solo? Sei anziano o malato?\
   \ Non sai a chi chiedere aiuto per fare la spesa o comprare le medicine?\nRivolgiti\
@@ -356,7 +366,7 @@ Natura: culturale-ricr
 Titolo: Libri Migranti
 
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/277,579959119,2020-03-12 17:12:03,2020-03-12 13:59:48,Consegna a domicilio gratuita di farmaci e parafarmaci #Regioni Italia,,,"[""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Lloyds Farmacie"", ""Descrizione"": ""Consegna gratutita a domicilio fino al 31 marzo 2020. \nScarica l'app e scopri le farmacie con il servizio attivo, scorrendo nell'apposito elenco consultabile on-line."", ""Destinatari"": ""Tutte e tutti"", ""Link"": ""https://www.lloydsfarmacia.it/consegna-domiciliare"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Consegna a domicilio gratuita di farmaci e parafarmaci sar\u00e0 disponibile fino al 31 marzo 2020""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/277,579959119,2020-03-12 21:23:03,2020-03-12 13:59:48,Consegna a domicilio gratuita di farmaci e parafarmaci in tutta Italia,,,"[""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Lloyds Farmacie"", ""Descrizione"": ""Consegna gratutita a domicilio fino al 31 marzo 2020. \nScarica l'app e scopri le farmacie con il servizio attivo, scorrendo nell'apposito elenco consultabile on-line."", ""Destinatari"": ""Tutte e tutti"", ""Link"": ""https://www.lloydsfarmacia.it/consegna-domiciliare"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Consegna a domicilio gratuita di farmaci e parafarmaci sar\u00e0 disponibile fino al 31 marzo 2020""}","<pre><yamldata>
 Da_chi_offerta: Lloyds Farmacie
 Descrizione: ""Consegna gratutita a domicilio fino al 31 marzo 2020. \nScarica l'app\
   \ e scopri le farmacie con il servizio attivo, scorrendo nell'apposito elenco consultabile\
@@ -499,6 +509,17 @@ Descrizione: ""Rafforziamo l'Ospedale di Paola! \n\xC8 un momento difficile per 
 Link: https://www.gofundme.com/f/donazione-ospedale-san-francesco-di-paola
 Nome: Barbara Abruzzo
 Posizione: 39.359686 16.03995 0 0
+
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/254,579894323,2020-03-12 21:33:22,2020-03-12 12:09:04,Streaming di comunità,,,"[""Attivita culturali e ricreative"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Open Distribuzioni dal Basso"", ""Descrizione"": ""Mette a disposizione in uno streaming di comunit\u00e0: una lunga programmazione di video, film e documentari per ribadire il valore che diamo alla cultura dal basso e alla sua diffusione"", ""Destinatari"": ""Tutte e tutti"", ""Link"": ""https://www.openddb.it/streaming-di-comunita/"", ""Titolo"": ""Streaming di comunit\u00e0"", ""natura"": ""culturale-ricr""}","<pre><yamldata>
+Da_chi_offerta: Open Distribuzioni dal Basso
+Descrizione: ""Mette a disposizione in uno streaming di comunit\xE0: una lunga programmazione\
+  \ di video, film e documentari per ribadire il valore che diamo alla cultura dal\
+  \ basso e alla sua diffusione""
+Destinatari: Tutte e tutti
+Link: https://www.openddb.it/streaming-di-comunita/
+Titolo: ""Streaming di comunit\xE0""
+natura: culturale-ricr
 
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/251,579873870,2020-03-12 12:00:38,2020-03-12 11:29:19,Sostegno psicologico telefonico #Montesilvano (PE),,,"[""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Azienda Speciale Montesilvano"", ""Descrizione"": ""Il numero \u00e8 085 4481216. Risponderanno specialisti dei servizi sociali che sapranno trovare le giuste parole per dare sollievo e tranquillit\u00e0 alle persone stressate, ansiose e prese dal panico a causa della situazione di emergenza che stiamo vivendo."", ""Destinatari"": ""tutti"", ""Natura"": ""solidale"", ""Posizione"": ""42.514487 14.15405 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Sostegno psicologico telefonico"", ""meta/deprecatedID"": ""uuid:c878bfd9-85fb-47ef-a9fa-e5c429b928ed""}","<pre><yamldata>
@@ -1075,7 +1096,7 @@ Link: https://www.gofundme.com/f/raccolta-fondi-a-favore-dell039ospedale-jazzoli
 Tipo_di_soggetto: privato
 Titolo: Covid-19, raccolta fondi ospedale di Vibo Valentia
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/158,579292984,2020-03-11 17:13:23,2020-03-11 14:10:25,Donazioni per Ospedali  #ReggioCalabria,,,"[""Raccolta fondi"", ""Raccolte fondi"", ""accettato""]",,,{},"```
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/158,579292984,2020-03-12 21:38:36,2020-03-11 14:10:25,Donazioni per Ospedali  #ReggioCalabria,,,"[""Raccolte fondi"", ""accettato""]",,,{},"```
 Da_chi_offerta: Simona Vazzana
 Descrizione: ""La situazione in Italia dovuta al COVID-9 \xE8 degenerata con le partenze\
   \ di domenica mattina per tutto il sud Italia. I decessi aumentano di giorno in\
