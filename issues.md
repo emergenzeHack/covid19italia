@@ -31,18 +31,22 @@ permalink: /issues/
 {% assign filteredissues = site.data.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'Raccolte fondi'"%}
 {% for member in filteredissues %}
 <div class="panel-body">
-<a href="{{site.url}}/issues/{{member.number}}" class="list-group-item">
+<div class="list-group-item">
+<a href="{{site.url}}/issues/{{member.number}}">
 	<h4 class="list-group-item-heading">{{member.title}}</h4>
+    </a>
 	<p class="list-group-item-text">{{member.issue.data.descrizione|markdownify}}</p>
                 <dl class="row">
                     {% for item in member.issue.data %}
   {% if item[1] != blank %}
   <dt class="col-sm-3">{{item[0] | replace: "_", " "}}</dt>
-  <dd class="col-sm-9">{{item[1] | newline_to_br}}</dd>
+  <dd class="col-sm-9">{{item[1] | newline_to_br | auto_link}}</dd>
   {% endif %}
   {% endfor %}
                 </dl>
-</a>
+</div>
+</div>
+
 <div class="panel-footer">
 <ul class="share-buttons">
   <li>Condividi:</li>
