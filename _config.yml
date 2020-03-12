@@ -15,6 +15,9 @@ url: "https://covid19italia.info"
 # Name of website
 title: COVID19 Italia
 
+# Logo description
+logo-description: Il logo di covid19italia due cerchi concentrici uno rosso e uno verde ed all'esterno dei semicerchi sparsi
+
 # Short description of your site
 description: Un progetto per condividere informazioni a supporto dell'emergenza COVID19
 

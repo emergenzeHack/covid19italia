@@ -10,8 +10,8 @@ permalink: /canali/
           <li>
             <a href="https://www.facebook.com/{{ site.author.facebook }}" title="Facebook">
               <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
+                <i class="fa fa-facebook fa-stack-1x fa-inverse" aria-hidden="true"></i>
               </span>&nbsp;&nbsp;Gruppo Facebook
             </a><span>da usare per comunicare con noi su Facebook</span>
           </li>
@@ -20,8 +20,8 @@ permalink: /canali/
           <li>
             <a href="https://play.google.com/store/apps/details?id={{ site.author.androidapp }}&hl=it_it" title="Android App">
               <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-android fa-stack-1x fa-inverse"></i>
+                <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
+                <i class="fa fa-android fa-stack-1x fa-inverse" aria-hidden="true"></i>
               </span>&nbsp;&nbsp;App Android
             </a><span>consulta i contenuti da app android</span>
           </li>
@@ -30,8 +30,8 @@ permalink: /canali/
           <li>
             <a href="https://github.com/{{ site.author.github }}" title="GitHub">
               <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
+                <i class="fa fa-github fa-stack-1x fa-inverse" aria-hidden="true"></i>
               </span>&nbsp;&nbsp;Repository GitHub
             </a><span>per collaborare agli sviluppi</span>
           </li>
@@ -40,8 +40,8 @@ permalink: /canali/
           <li>
             <a href="https://twitter.com/{{ site.author.twitter }}" title="Twitter">
               <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
+                <i class="fa fa-twitter fa-stack-1x fa-inverse" aria-hidden="true"></i>
               </span>&nbsp;&nbsp;Pagina Twitter
             </a><span>da usare per comunicare con noi su Twitter</span>
           </li>
@@ -50,8 +50,8 @@ permalink: /canali/
           <li>
             <a href="https://www.instagram.com/{{ site.author.instagram }}" title="Instagram">
               <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
+                <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
+                <i class="fa fa-instagram fa-stack-1x fa-inverse" aria-hidden="true"></i>
               </span>&nbsp;&nbsp;Pagina Instagram
             </a><span>per vedere le foto su Instagram</span>
           </li>
@@ -60,8 +60,8 @@ permalink: /canali/
           <li>
             <a href="https://m.me/{{ site.author.messenger }}" title="Messenger">
               <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-bullhorn fa-stack-1x fa-inverse"></i>
+                <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
+                <i class="fa fa-bullhorn fa-stack-1x fa-inverse" aria-hidden="true"></i>
               </span>&nbsp;&nbsp;Canale Facebook Messenger
             </a><span>per restare aggiornato direttamente da Messenger.</span>
           </li>
@@ -70,8 +70,8 @@ permalink: /canali/
           <li>
             <a href="{{ site.author.telegram }}" title="telegram">
               <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-paper-plane fa-stack-1x fa-inverse"></i>
+                <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
+                <i class="fa fa-paper-plane fa-stack-1x fa-inverse" aria-hidden="true"></i>
               </span>&nbsp;&nbsp;Canale Telegram
             </a><span>per restare aggiornato con le nostre notizie</span>
           </li>
@@ -80,8 +80,8 @@ permalink: /canali/
           <li>
             <a href="http://telegram.me/{{ site.author.telegram_bot }}" title="Bot Telegram">
               <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-paper-plane fa-stack-1x fa-inverse"></i>
+                <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
+                <i class="fa fa-paper-plane fa-stack-1x fa-inverse" aria-hidden="true"></i>
               </span>&nbsp;&nbsp;BOT Telegram
             </a><span>per inviare segnalazioni con smartphone dal "campo"</span>
           </li>
@@ -90,8 +90,8 @@ permalink: /canali/
           <li>
             <a itemprop="sameAs" href="{{ site.author.medium }}" title="medium">
               <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-medium fa-stack-1x fa-inverse"></i>
+                <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
+                <i class="fa fa-medium fa-stack-1x fa-inverse" aria-hidden="true"></i>
               </span>&nbsp;&nbsp;Canale Medium
             </a><span>per leggere le nostre storie</span>
           </li>
@@ -100,8 +100,8 @@ permalink: /canali/
           <li>
           <a href="{{ '/feed.xml' | prepend: site.baseurl }}" title="RSS">
               <span class="fa-stack fa-lg">
-              <i class="fa fa-circle fa-stack-2x"></i>
-              <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+              <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
+              <i class="fa fa-rss fa-stack-1x fa-inverse" aria-hidden="true"></i>
             </span>&nbsp;&nbsp;Feed RSS
           </a><span>per rimanere aggiornato sui nostri post</span>
           </li>
@@ -110,8 +110,8 @@ permalink: /canali/
            <li>
             <a href="https://www.flickr.com/photos/{{ site.author.flickr }}" title="Flickr">
               <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-flickr fa-stack-1x fa-inverse"></i>
+                <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
+                <i class="fa fa-flickr fa-stack-1x fa-inverse" aria-hidden="true"></i>
               </span>&nbsp;&nbsp;Gruppo Flickr
             </a><span>per caricare foto e media</span>
           </li>
@@ -120,8 +120,8 @@ permalink: /canali/
               <li>
             <a href="{{ site.author.waze }}" title="Waze">
               <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-car fa-stack-1x fa-inverse"></i>
+                <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
+                <i class="fa fa-car fa-stack-1x fa-inverse" aria-hidden="true"></i>
               </span>&nbsp;&nbsp;Waze
             </a>per informazioni su tutto ciò che riguarda la viabilità
           </li>
@@ -129,8 +129,8 @@ permalink: /canali/
                  <li>
             <a itemprop="sameAs" href="{{ site.author.email }}" title="Email">
               <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+                <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
+                <i class="fa fa-envelope fa-stack-1x fa-inverse" aria-hidden="true"></i>
               </span>&nbsp;&nbsp;Email
             </a>per segnalare contenuti da rimuovere o scriverci
           </li>
@@ -138,8 +138,8 @@ permalink: /canali/
           <li>
             <a itemprop="sameAs" href="{{ site.author.archiveorg }}" title="archive.org">
               <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-archive fa-stack-1x fa-inverse"></i>
+                <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
+                <i class="fa fa-archive fa-stack-1x fa-inverse" aria-hidden="true"></i>
               </span>&nbsp;&nbsp;Archive.org
             </a>archivio dati
           </li>
@@ -148,8 +148,8 @@ permalink: /canali/
 	         <li>
             <a href="{{ site.author.telegram_group }}" title="Bot Telegram">
               <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-paper-plane fa-stack-1x fa-inverse"></i>
+                <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
+                <i class="fa fa-paper-plane fa-stack-1x fa-inverse" aria-hidden="true"></i>
               </span>&nbsp;&nbsp;Gruppo Telegram
             </a><span>per coordinarci internamente</span>
           </li>
