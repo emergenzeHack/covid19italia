@@ -1,4 +1,13 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/311,580142836,2020-03-12 19:11:06,2020-03-12 18:34:46,"Bianconero, audiolibri per bambini regalati",,,"[""Attivita culturali e ricreative"", ""Notizia"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,{},"<pre><yamldata>
+Cosa: Bianconero, audiolibri per bambini regalati
+Descrizione: ""La Biancoenero, casa editrice per bambini, regala libri e audiolibri\
+  \ per trascorrere lietamente i prossimi giorni. \nInoltrateli alle famiglie con\
+  \ lettori giovani e meno giovani! Si inizia con Huckleberry Finn:\nhttp://www.biancoeneroedizioni.it/negozio/huckleberry-finn/\n\
+  http://www.biancoeneroedizioni.it/negozio/huckleberry-finn-ebook/
+Link: http://www.biancoeneroedizioni.it/negozio/
+
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/310,580134061,2020-03-12 18:23:50,2020-03-12 18:21:55,Vademecum per persone anziane contro truffe e fake news,,,"[""Informazioni utili"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Cosa"": ""Vademecum per"", ""Descrizione"": ""Senior Italia FederAnziani, la federazione delle associazioni della terza et\u00e0, con la collaborazione di un Advisory Board scientifico ha dato vita ad un vademecum per difendersi da fake news e truffe. \nConsultabile a questo link:\nhttps://www.ilgiornaledellaprotezionecivile.it/binary_files/articoli/Vademecum_Coronavirus_Senior_Italia_FederAnziani(16)-wdtr.pdf"", ""Link"": ""https://www.ilgiornaledellaprotezionecivile.it/attualita/coronavirus-un-vademecum-per-gli-anziani-contro-truffe-e-bufale""}","<pre><yamldata>
 Cosa: Vademecum per
 Descrizione: ""Senior Italia FederAnziani, la federazione delle associazioni della\
@@ -96,6 +105,18 @@ group_bq2vf46/IBAN: IT43A0760102600001049330432
 group_bq2vf46/Intestazione: REGIONE MARCHE
 
 </yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/294,580047380,2020-03-12 19:08:21,2020-03-12 16:07:57,Sostengo per madri che vogliono allattare al seno ,,,"[""Donazioni"", ""Servizi e iniziative solidali"", ""accettato"", ""form""]",,,"{""Cosa"": ""Sostengo per madri che vogliono allattare al seno gratuito telefonico"", ""Descrizione"": ""Sono una consulente alla pari parte del progetto Latte di Mamma Mia (https://lattedimammamia.blogspot.com/?m=1) offro la mia consulenza telefonica a tutte le donne con problemi di allattamento al sena che non riescono a raggiungere altri servizi di sostegno ( es consultorio) ma hanno dubbi, problemstiche, domande. Perch\u00e9 \u00e8  importante allattare al seno proprio in questi periodi difficili!"", ""Destinatari"": ""Neo mamme e i loro compagni."", ""Link"": ""https://lattedimammamia.blogspot.com/?m=1"", ""Telefono"": ""3405372985""}","<pre><yamldata>
+Cosa: Sostengo per madri che vogliono allattare al seno gratuito telefonico
+Descrizione: ""Sono una consulente alla pari parte del progetto Latte di Mamma Mia\
+  \ (https://lattedimammamia.blogspot.com/?m=1) offro la mia consulenza telefonica\
+  \ a tutte le donne con problemi di allattamento al sena che non riescono a raggiungere\
+  \ altri servizi di sostegno ( es consultorio) ma hanno dubbi, problemstiche, domande.\
+  \ Perch\xE9 \xE8  importante allattare al seno proprio in questi periodi difficili!""
+Destinatari: Neo mamme e i loro compagni.
+Link: https://lattedimammamia.blogspot.com/?m=1
+Telefono: '3405372985'
+
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/293,580045497,2020-03-12 18:17:28,2020-03-12 16:05:04,#facciolaspesadacasa #Matera e provincia,,,"[""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Imprese commerciali della provincia di Matera"", ""Descrizione"": ""Dopo l'iscrizione, si pu\u00f2 inserire l'indirizzo email dove si desidera ricevere gli ordini, le generalit\u00e0 del proprietario dell'attivit\u00e0 e la lista dei prodotti prenotabili."", ""Destinatari"": ""Chiunque abbia bisogno di acquistare prodotti per animali, generi alimentari, o da farmacie, ristoranti e supermercati"", ""Link"": ""https://facciolaspesadacasa.wzeta.com/"", ""Natura"": ""solidale"", ""Posizione"": ""40.666968 16.603018 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""#facciolaspesadacasa""}","<pre><yamldata>
 Da_chi_offerta: Imprese commerciali della provincia di Matera
 Descrizione: ""Dopo l'iscrizione, si pu\xF2 inserire l'indirizzo email dove si desidera\
@@ -108,6 +129,35 @@ Posizione: 40.666968 16.603018 0 0
 Tipo_di_soggetto: privato
 Titolo: '#facciolaspesadacasa'
 Link: https://facciolaspesadacasa.wzeta.com/
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/292,580041717,2020-03-12 19:07:20,2020-03-12 15:59:41,Goodmorning #Genova Web Radio,,,"[""Attivita culturali e ricreative"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Cooperativa il Ce.Sto"", ""Descrizione"": ""Good Morning Genova\nCombattere la GUERRA al VIRUS senza perdere il buonumore.\nUna Web-Radio, una piazza virtuale per combattere insieme. E\u2019 inutile negarlo, siamo nel bel mezzo di una guerra.\nUna battaglia che non si vince, fortunatamente, contrapponendoci gli uni agli altri, ma trovando il modo di UNIRCI. Anche e soprattutto oggi che il virus ci impone di rispettare le distanze di sicurezza. Non \u00e8 un paradosso. Dobbiamo sperimentare, ora pi\u00f9 che mai, tutti i modi per stare insieme. E non dobbiamo perdere il sorriso.\nPerch\u00e9 il buonumore \u00e8 necessario, soprattutto adesso che la situazione \u00e8 davvero seria. Sorridere, per tenere alte le difese immunitarie, per guardare al futuro, per ritrovare le ragioni di essere comunit\u00e0.\nE allora\u2026 Good Morning Genova. Stringiamoci insieme in questa piazza web, in questo caruggio di lotta e responsabilit\u00e0 comune. Contro il virus, ritroviamo la gioia di unirci."", ""Destinatari"": ""Popolazione genovese"", ""Link"": ""https://www.facebook.com/goodmorninggenova/"", ""Natura"": ""culturale-ricr"", ""Titolo"": ""Goodmorning Genova""}","<pre><yamldata>
+Da_chi_offerta: Cooperativa il Ce.Sto
+Descrizione: ""Good Morning Genova\nCombattere la GUERRA al VIRUS senza perdere il\
+  \ buonumore.\nUna Web-Radio, una piazza virtuale per combattere insieme. E\u2019\
+  \ inutile negarlo, siamo nel bel mezzo di una guerra.\nUna battaglia che non si\
+  \ vince, fortunatamente, contrapponendoci gli uni agli altri, ma trovando il modo\
+  \ di UNIRCI. Anche e soprattutto oggi che il virus ci impone di rispettare le distanze\
+  \ di sicurezza. Non \xE8 un paradosso. Dobbiamo sperimentare, ora pi\xF9 che mai,\
+  \ tutti i modi per stare insieme. E non dobbiamo perdere il sorriso.\nPerch\xE9\
+  \ il buonumore \xE8 necessario, soprattutto adesso che la situazione \xE8 davvero\
+  \ seria. Sorridere, per tenere alte le difese immunitarie, per guardare al futuro,\
+  \ per ritrovare le ragioni di essere comunit\xE0.\nE allora\u2026 Good Morning Genova.\
+  \ Stringiamoci insieme in questa piazza web, in questo caruggio di lotta e responsabilit\xE0\
+  \ comune. Contro il virus, ritroviamo la gioia di unirci.""
+Destinatari: Popolazione genovese
+Link: https://www.facebook.com/goodmorninggenova/
+Natura: culturale-ricr
+Titolo: Goodmorning Genova
+
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/291,580041219,2020-03-12 19:05:29,2020-03-12 15:58:54,Spese e farmaci e domicilio #Cogliate (MB),,,"[""Consegne e commissioni"", ""Notizia"", ""accettato"", ""form""]",,,"{""Cosa"": ""Comune coi volontari porta spese e farmaci e domicilio"", ""Descrizione"": ""Servizio per tutti i residenti over 65 nel comune di Cogliate per consegna a domicilio di spesa e farmaci organizzato dal Comune con il supporto del Gruppo volontari Cogliate."", ""Link"": ""https://www.ilnotiziario.net/wp/2020/03/06/coronavirus-cogliate-comune-volontari-spesa-farmaci-domicilio/"", ""meta/deprecatedID"": ""uuid:da0aa02e-43d9-44b3-bb67-0876d6340c1a""}","<pre><yamldata>
+Cosa: Comune coi volontari porta spese e farmaci e domicilio
+Descrizione: Servizio per tutti i residenti over 65 nel comune di Cogliate per consegna
+  a domicilio di spesa e farmaci organizzato dal Comune con il supporto del Gruppo
+  volontari Cogliate.
+Link: https://www.ilnotiziario.net/wp/2020/03/06/coronavirus-cogliate-comune-volontari-spesa-farmaci-domicilio/
+meta/deprecatedID: uuid:da0aa02e-43d9-44b3-bb67-0876d6340c1a
+
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/290,580040474,2020-03-12 19:04:03,2020-03-12 15:57:51,Sportello lavoro #Milano,,,"[""Sostegno lavoro e imprese"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""LatoB - L'altro lato di Milano"", ""Descrizione"": ""L\u2019avvocato che si occupa da un anno dello sportello lavoro \u00e8 disponibile per chi avesse dubbi sulla propria situazione lavorativa, i propri diritti e doveri soprattutto sotto la nuova ordinanza. Scrivete alla pagina FB di lato B per fissare un appuntamento telefonico o le vostre domande."", ""Destinatari"": ""Tutti e tutte"", ""Link"": ""http://www.latobmilano.it/2020/03/coronavirus-lato-b-chiude-le-attivita-continuano/ | https://www.facebook.com/LatoBmilano/?__tn__=kC-R&eid=ARCBr-4xTLHU2vFNMuVec4R_FgcBbqFcYZ3WdRcp-7Z9U6v7kIGB63j0_ZGffGzXBRxHSsi57oMZTcWy&hc_ref=ARQ3cpBOE3c8D7r32cvcWPH8YqHiumKxgL5kTUasnR-IUynA3AkPBbqn18nKBa6KjTo&fref=nf&__xts__[0]=68.ARDEaw7r7itur7WNITEOX1gV-FhCDskAIPIC2HD9UqUVhmcCGX1tDYHty-ST9_6jUvWe-mgSrcBAR4nbbzA-XkOZXUntndNyUU0pg4G7M5FnVqYqOpho4LGMk1czCApiAg-8j9979jyhhW1GLKpD4YOey8kxysWPaTOIl5TdEk5_AfDT5FRO5P6lKMsVicBKUvB5PIeTbCd7uFBGhxMkFRhcMeQAFH4BEBriMpbXksELg0ws_sE9mQeJ77cic-H7sJbQ1ObEvemTUmFO5IfNJdrj3jzCSHynKkUKWRkUYFa1Ax02S-R9r0jfJs3g6PI99aCZteaMx-0jNqJf1A"", ""Natura"": ""sostegno-lavor"", ""Titolo"": ""Sportello lavoro""}","<pre><yamldata>
 Da_chi_offerta: LatoB - L'altro lato di Milano
@@ -358,6 +408,12 @@ Natura: solidale
 Posizione: 41.199307 16.59695 0 0
 Tipo_di_soggetto: privato
 Titolo: Spesa solidale a domicilio - Molfetta
+
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/259,579911330,2020-03-12 19:07:50,2020-03-12 12:40:38,Regala pizza a medici e infermieri/e #Milano,,,"[""Notizia"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Pizzaiolo Nanni Arbellini"", ""Link"": ""https://www.facebook.com/arbellininanni/posts/3006689182723717"", ""Natura"": ""solidale""}","<pre><yamldata>
+Da_chi_offerta: Pizzaiolo Nanni Arbellini
+Link: https://www.facebook.com/arbellininanni/posts/3006689182723717
+Natura: solidale
 
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/256,579897645,2020-03-12 15:16:49,2020-03-12 12:15:08,Sezione Gazzetta Ufficiale con aggiornamenti ordinanze coronavirus ,,,"[""Dati utili"", ""Fonti istituzionali"", ""Informazioni utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Sezione Gazzetta Ufficiale con aggiornamenti ordinanze governo su coronavirus"", ""Descrizione"": ""Tutte le ordinanze suddivise per: Governo, Dipartimento Protezione Civile, Ministero della Salute, Ministero delle Finanze."", ""Fonte"": ""Gazzetta Ufficiale"", ""Link"": ""https://www.gazzettaufficiale.it/dettaglioArea/12""}","<pre><yamldata>
