@@ -698,12 +698,12 @@ provincia: Roma
 regione: Lazio
 tag: Consegne e commissioni
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/134,578926040,2020-03-11 22:50:37,2020-03-10 23:53:44,Consegne e commissioni a domicilio #Cosenza,,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato""]",,,"{""chi"": ""Ass. La Terra di Piero"", ""comune"": ""Cosenza"", ""contatti"": ""info@laterradipiero.it"", ""descrizione"": ""Servizi a domicilio"", ""destinatari"": ""Tutti"", ""fonte"": ""dbQMTMYzw88_Yg4KQczFmGtuCFEiea1l_sQH2jAeNZmS2jOk8O2jmt8vfjFkFGL8joj0mAhB3coJl7i7flkXHD5Xf3uI43zF6p7LzL4PhwXjcQinmGQcLmKapXCTVCK0Sf8LFnM3unxacrVtK_9evpIzjOMqVsFL3UcsrExdx8GN33PKFuw65xr5s06Cb7M"", ""provincia"": ""Cosenza"", ""regione"": ""Calabria"", ""tag"": ""Servizi e iniziative solidali private""}","<pre><yamldata>chi: Ass. La Terra di Piero
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/134,578926040,2020-03-12 11:40:42,2020-03-10 23:53:44,Consegne e commissioni a domicilio #Cosenza,,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato""]",,,"{""chi"": ""Ass. La Terra di Piero"", ""comune"": ""Cosenza"", ""contatti"": ""info@laterradipiero.it"", ""descrizione"": ""Servizi a domicilio"", ""destinatari"": ""Tutti"", ""fonte"": ""https://www.facebook.com/880454068642880/posts/2988423671179232/"", ""provincia"": ""Cosenza"", ""regione"": ""Calabria"", ""tag"": ""Servizi e iniziative solidali private""}","<pre><yamldata>chi: Ass. La Terra di Piero
 comune: Cosenza
 contatti: info@laterradipiero.it
 descrizione: Servizi a domicilio
 destinatari: Tutti
-fonte: dbQMTMYzw88_Yg4KQczFmGtuCFEiea1l_sQH2jAeNZmS2jOk8O2jmt8vfjFkFGL8joj0mAhB3coJl7i7flkXHD5Xf3uI43zF6p7LzL4PhwXjcQinmGQcLmKapXCTVCK0Sf8LFnM3unxacrVtK_9evpIzjOMqVsFL3UcsrExdx8GN33PKFuw65xr5s06Cb7M
+fonte: https://www.facebook.com/880454068642880/posts/2988423671179232/
 provincia: Cosenza
 regione: Calabria
 tag: Servizi e iniziative solidali private
