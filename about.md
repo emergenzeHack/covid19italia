@@ -13,7 +13,6 @@ permalink: /about/
 
 ### Il Progetto
 
-
 Questo è un progetto non profit, organizzato interamente da volontari e volontarie. È nato per condividere informazioni utili e
 verificate sull'evento di CoronaVirus diffusosi in Italia nel 2020.
 
@@ -37,14 +36,6 @@ Matteo Fortini, Matteo Tempestini, Antonio Vivace, Vincenzo Tilotta, Maurizio De
 .....
 (i ringraziamenti sono in progress ogni giorno....Non avertene a male se non compari ancora, grazie lo stesso!)
 
-### Tecnologie
-
-Questo sito è possibile grazie anche ai seguenti strumenti open source:
-
-- Jekyll, OpenStreetMaps, Glyphicons, Bootstrap,
-- [Beautiful Jekyll](https://deanattali.com/beautiful-jekyll/)
-
-
 ### Contatti
 
 - [Email](mailto:covid19ita@gmail.com)
@@ -55,8 +46,9 @@ Questo sito è possibile grazie anche ai seguenti strumenti open source:
 - [Canale Telegram](https://t.me/COVID19I)
 - [Repository Github](https://github.com/emergenzeHack/covid19italia)
 
-### Altri crediti
+### Tecnologie
 
+- [Beautiful Jekyll](https://deanattali.com/beautiful-jekyll/)
 - [Maptune](https://github.com/gjrichter/maptune)
 - [Mapstraction](http://mapstraction.com)
 - [Leaflet](http://leafletjs.com)
