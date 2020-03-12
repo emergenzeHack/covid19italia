@@ -5,10 +5,18 @@ permalink: /issues/
 ---
 
 <div class="text-center">
-	<a href="#raccolte-fondi" class="btn btn-warning btn-lg" role="button">Raccolte fondi</a>
-	<a href="#servizi-e-iniziative-solidali" class="btn btn-success btn-lg" role="button">Servizi e iniziative solidali</a>
-	<a href="#consegne-e-commissioni" class="btn btn-success btn-lg" role="button">Consegne e commissioni</a>
-	<a href="#supporto-psicologico" class="btn btn-success btn-lg" role="button">Supporto psicologico</a>
+  <span class="col-xs-12 col-sm-6">
+	  <a href="#raccolte-fondi" class="btn btn-warning btn-lg col-xs-12 btn-issues" role="button">Raccolte fondi</a>
+	</span>
+  <span class="col-xs-12 col-sm-6">
+    <a href="#servizi-e-iniziative-solidali" class="btn btn-success btn-lg col-xs-12 btn-issues" role="button">Servizi e iniziative solidali</a>
+	</span>
+  <span class="col-xs-12 col-sm-6">
+    <a href="#consegne-e-commissioni" class="btn btn-success btn-lg col-xs-12 btn-issues" role="button">Consegne e commissioni</a>
+	</span>
+  <span class="col-xs-12 col-sm-6">
+    <a href="#supporto-psicologico" class="btn btn-success btn-lg col-xs-12 btn-issues" role="button">Supporto psicologico</a>
+  </span>
 </div>
 
 ---

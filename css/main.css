@@ -828,3 +828,7 @@ div.segnala > li {
 .thumbnail {
   border: none;
 }
+
+.btn-issues {
+  margin-bottom: 15px;
+}
