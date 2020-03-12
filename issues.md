@@ -3,7 +3,18 @@ layout: page
 title: Segnalazioni
 permalink: /issues/
 ---
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.0/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.0.0/dist/leaflet.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.min.js"></script>
+<style>
+#map{ height: 600px }
+</style>
+<link rel="stylesheet" href="{{ site.url }}/css/Control.Geocoder.css" />
+<script src="{{ site.url }}/js/Control.Geocoder.js"></script>
 
+
+<div class="row">
 <div class="text-center">
   <span class="col-xs-12 col-sm-6">
 	  <a href="#raccolte-fondi" class="btn btn-warning btn-lg col-xs-12 btn-issues" role="button">Raccolte fondi</a>
@@ -18,21 +29,11 @@ permalink: /issues/
     <a href="#supporto-psicologico" class="btn btn-success btn-lg col-xs-12 btn-issues" role="button">Supporto psicologico</a>
   </span>
 </div>
-
----
-
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.0/dist/leaflet.css" />
-<script src="https://unpkg.com/leaflet@1.0.0/dist/leaflet.js"></script>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css" />
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.min.js"></script>
-<style>
-#map{ height: 600px }
-</style>
+</div>
 
 
-<link rel="stylesheet" href="{{ site.url }}/css/Control.Geocoder.css" />
-<script src="{{ site.url }}/js/Control.Geocoder.js"></script>
-<div class="row"><div class="col-md-12"> <div id="map"></div> </div> </div>
+
+<div class="row"><div class="col-md-12 col-sm-12 col-xs-12"> <div id="map"></div> </div> </div>
 
 ---
 # Raccolte fondi
