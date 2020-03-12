@@ -25,11 +25,17 @@ layout: base
         {% for item in page.issue.data %}
         {% if item[1] != blank %}
         <dt class="col-sm-3">{{item[0] | replace: "_", " "}}</dt>
+        <dd class="col-sm-9">
         {% if item[1] contains '://' %}
-        <a href="{{item[1]}}" target="_blank"><dd class="col-sm-9">{{item[1]}}</dd></a>
+        <a href="{{item[1]}}" target="_blank">{{item[1]}}</a>
         {% else %}
-        <dd class="col-sm-9">{{item[1] | newline_to_br}}</dd>
+        {% if item[0] == "Telefono" %}
+        <a href="tel:{{item[1] | remove: " "}}" target="_blank">{{item[1]}}</a>
+        {% else %}
+        {{item[1] | newline_to_br}}
         {% endif %}
+        {% endif %}
+        </dd>
         {% endif %}
         {% endfor %}
     </dl>
