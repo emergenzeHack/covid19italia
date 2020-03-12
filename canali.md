@@ -12,8 +12,18 @@ permalink: /canali/
               <span class="fa-stack fa-lg" aria-label="Logo riferito al sito facebook, il carattere f dentro un quadrato blu." role="img">
                 <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
                 <i class="fa fa-facebook fa-stack-1x fa-inverse" aria-hidden="true"></i>
+              </span>&nbsp;&nbsp;Pagina Facebook
+            </a><span>da usare per restare in contatto con noi su Facebook</span>
+          </li>
+         {% endif %}
+         {% if site.author.facebook_group and site.share-links-active.facebook %}
+          <li>
+            <a href="https://www.facebook.com/groups/{{ site.author.facebook_group}}" title="Facebook">
+              <span class="fa-stack fa-lg" aria-label="Logo riferito al sito facebook, il carattere f dentro un quadrato blu." role="img">
+                <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
+                <i class="fa fa-facebook fa-stack-1x fa-inverse" aria-hidden="true"></i>
               </span>&nbsp;&nbsp;Gruppo Facebook
-            </a><span>da usare per comunicare con noi su Facebook</span>
+            </a><span>da usare per discutere con noi su Facebook</span>
           </li>
          {% endif %}
          {% if site.author.androidapp and site.share-links-active.androidapp %}
