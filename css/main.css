@@ -160,9 +160,9 @@ img {
   -webkit-transition: opacity 0.5s ease-in-out;
   -moz-transition: opacity 0.5s ease-in-out;
   transition: opacity 0.5s ease-in-out;
-  left: 44px;
-  width: 50px;
-  margin-top: -12px;
+  left: 42px;
+  top: 1px;
+  width: 47px;
 }
 .navbar-custom .avatar-container  .avatar-img-border {
   width: 100%;
