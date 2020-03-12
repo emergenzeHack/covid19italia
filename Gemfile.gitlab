@@ -1,2 +1,0 @@
-eval(IO.read('Gemfile'), nil, 'Gemfile')
-gem 'mini_racer', '0.1.4'
