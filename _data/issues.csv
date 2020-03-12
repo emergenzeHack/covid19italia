@@ -1,4 +1,13 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/310,580134061,2020-03-12 18:23:50,2020-03-12 18:21:55,Vademecum per persone anziane contro truffe e fake news,,,"[""Informazioni utili"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Cosa"": ""Vademecum per"", ""Descrizione"": ""Senior Italia FederAnziani, la federazione delle associazioni della terza et\u00e0, con la collaborazione di un Advisory Board scientifico ha dato vita ad un vademecum per difendersi da fake news e truffe. \nConsultabile a questo link:\nhttps://www.ilgiornaledellaprotezionecivile.it/binary_files/articoli/Vademecum_Coronavirus_Senior_Italia_FederAnziani(16)-wdtr.pdf"", ""Link"": ""https://www.ilgiornaledellaprotezionecivile.it/attualita/coronavirus-un-vademecum-per-gli-anziani-contro-truffe-e-bufale""}","<pre><yamldata>
+Cosa: Vademecum per
+Descrizione: ""Senior Italia FederAnziani, la federazione delle associazioni della\
+  \ terza et\xE0, con la collaborazione di un Advisory Board scientifico ha dato vita\
+  \ ad un vademecum per difendersi da fake news e truffe. \nConsultabile a questo\
+  \ link:\nhttps://www.ilgiornaledellaprotezionecivile.it/binary_files/articoli/Vademecum_Coronavirus_Senior_Italia_FederAnziani(16)-wdtr.pdf""
+Link: https://www.ilgiornaledellaprotezionecivile.it/attualita/coronavirus-un-vademecum-per-gli-anziani-contro-truffe-e-bufale
+
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/309,580121524,2020-03-12 18:10:55,2020-03-12 18:02:24,"#LaScuolaContinua, community di didattica a distanza",,,"[""Didattica a distanza e-learning"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Ilaria Capua, Associazione Copernicani, Centro Studi Impara Digitale"", ""Descrizione"": ""#LaScuolaContinua \u00e8 una community che permette a scuole, Dirigenti e docenti di contare su un supporto unico che li aiuti nell'adozione di piattaforme gratuite per creare classi digitali, condividere contenuti, verificare l'apprendimento e fare videolezioni a distanza. Tutto questo qualsiasi sia la tecnologia che la scuola voglia adottare o abbia gi\u00e0 adottato."", ""Destinatari"": ""Scuole di tutta Italia"", ""Link"": ""https://www.lascuolacontinua.it/"", ""Natura"": ""didattica"", ""Titolo"": ""#LaScuolaContinua"", ""meta/deprecatedID"": ""uuid:ed8a6cc8-4f9b-4536-b876-7520bec366a4""}","<pre><yamldata>
 Da_chi_offerta: Ilaria Capua, Associazione Copernicani, Centro Studi Impara Digitale
 Descrizione: ""#LaScuolaContinua \xE8 una community che permette a scuole, Dirigenti\
@@ -111,6 +120,17 @@ Natura: solidale
 Tipo_di_soggetto: privato
 Titolo: ""Consegna a domicilio gratuita di farmaci e parafarmaci sar\xE0 disponibile\
   \ fino al 31 marzo 2020""
+
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/276,579956303,2020-03-12 18:23:10,2020-03-12 13:55:40,"PRONTOFARMACO, consegna gratuita di farmaci a ultra 75enni 24 ore su 24 #Brescia",,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Farmacie comunali Brescia"", ""Descrizione"": ""Consegna gratuita h24  per over 75 anni e disabili residenti nel comune di Brescoa"", ""Destinatari"": ""ultra 75 anni e disabili"", ""Link"": ""https://www.elivebrescia.tv/coronavirus-prontofarmaco-consegna-gratuita-di-farmaci-a-ultra-75enni-24-ore-su-24/"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""#PRONTOFARMACO, consegna gratuita di farmaci a ultra 75enni 24 ore su 24""}","<pre><yamldata>
+Da_chi_offerta: Farmacie comunali Brescia
+Descrizione: Consegna gratuita h24  per over 75 anni e disabili residenti nel comune
+  di Brescoa
+Destinatari: ultra 75 anni e disabili
+Link: https://www.elivebrescia.tv/coronavirus-prontofarmaco-consegna-gratuita-di-farmaci-a-ultra-75enni-24-ore-su-24/
+Natura: solidale
+Tipo_di_soggetto: pubblico
+Titolo: '#PRONTOFARMACO, consegna gratuita di farmaci a ultra 75enni 24 ore su 24'
 
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/275,579952787,2020-03-12 15:08:43,2020-03-12 13:50:14,Arriviamo energie positive! Webinar gratuiti dedicati all'innovazione sociale,,,"[""Attivita culturali e ricreative"", ""Didattica a distanza e-learning"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Produzioni Dal Basso"", ""Descrizione"": ""Con il coinvolgimento di alcuni tra i migliori professionisti del mondo del digitale, della consulenza, del fundraising, dell\u2019innovazione sociale, un ciclo di webinar completamente gratuiti, aperti a tutti ma pensati soprattutto per chi opera nel non profit. Un\u2019opportunit\u00e0 di crescita e di condivisione, per non arrendersi al clima di emergenza, per generare un\u2019occasione di confronto, conoscere nuovi strumenti, progettare nuove strategie."", ""Destinatari"": ""tutti"", ""Link"": ""https://www.attiviamoenergiepositive.it/"", ""Natura"": ""didattica"", ""Titolo"": ""Arriviamo energie positive! Weimar gratuito dedicati all'innovazione sociale""}","<pre><yamldata>
