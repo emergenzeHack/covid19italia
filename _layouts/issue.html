@@ -28,7 +28,7 @@ layout: base
         {% if item[1] contains '://' %}
         <a href="{{item[1]}}" target="_blank"><dd class="col-sm-9">{{item[1]}}</dd></a>
         {% else %}
-        <dd class="col-sm-9">{{item[1]}}</dd>
+        <dd class="col-sm-9">{{item[1] | newline_to_br}}</dd>
         {% endif %}
         {% endif %}
         {% endfor %}
