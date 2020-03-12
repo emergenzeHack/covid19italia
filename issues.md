@@ -166,7 +166,6 @@ permalink: /issues/
 <script>
 var markerList=[];
 {% for member in filteredissues %}
-console.log("{{member.issue.data.Posizione}}");
 {% if member.issue.data.Posizione != blank %}
 {% assign coordinate = member.issue.data.Posizione | split: ' ' %}
 markerList.push([{{coordinate[0]}}, {{coordinate[1]}}, "{{member.title|uri_escape}}", "{{ member.number }}", ""]);
