@@ -8,35 +8,17 @@ permalink: /servizi-e-iniziative-solidali-private/
 {% for member in filteredissues %}
 <div class="panel-body">
 <a href="/issues/{{ member.number | datapage_url: '.' }}" class="list-group-item">
-		<h4 class="list-group-item-heading">{{member.title}}</h4>
-                <dl class="row">
-                <dt class="col-sm-3">Chi</dt>
-                <dd class="col-sm-9">{{member.issue.data.chi}}</dd>
-                <dt class="col-sm-3">Destinatari</dt>
-                <dd class="col-sm-9">{{member.issue.data.destinatari}}</dd>
-                {% if member.issue.data.contatti != blank %}
-                <dt class="col-sm-3">Contatti</dt>
-                <dd class="col-sm-9">{{member.issue.data.contatti}}</dd>
-                {% endif %}
-                {% if member.issue.data.fonte != blank %}
-                <dt class="col-sm-3">Fonte</dt>
-                <dd class="col-sm-9">{{member.issue.data.fonte}}</dd>
-                {% endif %}
-                {% if member.issue.data.regione != blank %}
-                <dt class="col-sm-3">Regione</dt>
-                <dd class="col-sm-9">{{member.issue.data.regione}}</dd>
-                {% endif %}
-                {% if member.issue.data.provincia != blank %}
-                <dt class="col-sm-3">Provincia</dt>
-                <dd class="col-sm-9">{{member.issue.data.provincia}}</dd>
-                {% endif %}
-                {% if member.issue.data.comune != blank %}
-                <dt class="col-sm-3">Comune</dt>
-                <dd class="col-sm-9">{{member.issue.data.comune}}</dd>
-                {% endif %}
-                </dl>
-                <p class="list-group-item-text">{{member.issue.data.descrizione|markdownify}}</p>
-                <p class="list-group-item-text">{{member.issue.data.data}}</p>
+<h4 class="list-group-item-heading">{{member.title}}</h4>
+<dl class="row">
+{% for item in member.issue.data %}
+{% if item[1] != blank %}
+<dt class="col-sm-3">{{item[0] | replace: "_", " "}}</dt>
+<dd class="col-sm-9">{{item[1] | newline_to_br}}</dd>
+{% endif %}
+{% endfor %}
+</dl>
+<p class="list-group-item-text">{{member.issue.data.descrizione|markdownify}}</p>
+<p class="list-group-item-text">{{member.issue.data.data}}</p>
 </a>
 <div class="panel-footer">
 <ul class="share-buttons">
