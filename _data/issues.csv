@@ -1,4 +1,28 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/344,580571285,2020-03-13 13:40:11,2020-03-13 12:30:24,Raccolta fondi Fatebenefratelli Ordine Ospedaliero di San Giovanni di Dio #Erba (CO),,,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""BIC_SWIFT"": ""ICRAITRR950"", ""Descrizione"": ""L'Ospedale Sacra Famiglia di Erba dell\u2019Ordine Ospedaliero di San Giovanni di Dio FATEBENEFRATELLI ha istituito un\u2019area dedicata all'assistenza di pazienti affetti da Covid-19 ad ogni stadio della malattia. \n\nIn questo momento cos\u00ec delicato, in particolare dal punto di vista sanitario, chiediamo il vostro sostegno per assicurare le migliori cure a tutte le persone affette da Covid-19 che sono e saranno ricoverate nel nostro Ospedale. Abbiamo attualmente necessit\u00e0 primaria di strumentazione e materiale ospedaliero di protezione. \n\nTutte le Strutture del nostro Ordine Ospedaliero sono in prima linea per affrontare l\u2019emergenza Coronavirus, operando attivamente per riorganizzare i reparti e aumentare i posti letto a disposizione dei pazienti di Covid-19. \nDa oltre 500 anni siamo vicini a chi ha pi\u00f9 bisogno e oggi pi\u00f9 che mai siamo noi ad avere bisogno del vostro aiuto. Aiutate con una donazione i medici, gli infermieri e il personale ospedaliero che sta lavorando senza sosta per curare chi ne ha bisogno. Solo insieme possiamo superare questa emergenza."", ""IBAN"": ""IT 64 G 08329 51270 000000200522"", ""Informativa"": ""OK"", ""Intestazione"": ""PROVINCIA LOMBARDO VENETA ORD. SAN GIOVANNI DI DIO - FATEBENEFRATELLI"", ""Link"": ""https://www.gofundme.com/f/fatebenefratelli-erba-reparto-covid19?utm_medium=email&utm_source=customer&utm_campaign=p_email%2B5806-thank-you-ask-share"", ""Nome"": ""Fatebenefratelli Ordine Ospedaliero di San Giovanni di Dio - Erba (Como)"", ""Posizione"": ""45.816926 9.22637 0 0""}","<pre><yamldata>
+BIC_SWIFT: ICRAITRR950
+Descrizione: ""L'Ospedale Sacra Famiglia di Erba dell’Ordine Ospedaliero di San Giovanni\
+  \ di Dio FATEBENEFRATELLI ha istituito un’area dedicata all'assistenza di pazienti\
+  \ affetti da Covid-19 ad ogni stadio della malattia. \n\nIn questo momento così\
+  \ delicato, in particolare dal punto di vista sanitario, chiediamo il vostro sostegno\
+  \ per assicurare le migliori cure a tutte le persone affette da Covid-19 che sono\
+  \ e saranno ricoverate nel nostro Ospedale. Abbiamo attualmente necessità primaria\
+  \ di strumentazione e materiale ospedaliero di protezione. \n\nTutte le Strutture\
+  \ del nostro Ordine Ospedaliero sono in prima linea per affrontare l’emergenza Coronavirus,\
+  \ operando attivamente per riorganizzare i reparti e aumentare i posti letto a disposizione\
+  \ dei pazienti di Covid-19. \nDa oltre 500 anni siamo vicini a chi ha più bisogno\
+  \ e oggi più che mai siamo noi ad avere bisogno del vostro aiuto. Aiutate con una\
+  \ donazione i medici, gli infermieri e il personale ospedaliero che sta lavorando\
+  \ senza sosta per curare chi ne ha bisogno. Solo insieme possiamo superare questa\
+  \ emergenza.""
+IBAN: IT 64 G 08329 51270 000000200522
+Informativa: OK
+Intestazione: PROVINCIA LOMBARDO VENETA ORD. SAN GIOVANNI DI DIO - FATEBENEFRATELLI
+Link: https://www.gofundme.com/f/fatebenefratelli-erba-reparto-covid19?utm_medium=email&utm_source=customer&utm_campaign=p_email%2B5806-thank-you-ask-share
+Nome: Fatebenefratelli Ordine Ospedaliero di San Giovanni di Dio - Erba (Como)
+Posizione: 45.816926 9.22637 0 0
+
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/343,580565243,2020-03-13 12:26:31,2020-03-13 12:18:03,Film in streaming gratuiti,,,"[""Attivita culturali e ricreative"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Fondazione cineteca di Milano"", ""Descrizione"": ""Fondazione cineteca di Milano ha reso gratuito il catalogo in streaming dei film. Basta registrarsi: Cinetecamilano.it/biblioteca."", ""Destinatari"": ""Tutte e tutti"", ""Link"": ""https://www.cinetecamilano.it/biblioteca?fbclid=IwAR1K8eMp_mNmxMIH3jIyzvIWrLPAEPPSbI-Wizod7UsK6b6rGUs1OOPjuOk"", ""Natura"": ""culturale-ricr"", ""Titolo"": ""Film in streaming gratuiti""}","<pre><yamldata>
 Da_chi_offerta: Fondazione cineteca di Milano
 Descrizione: 'Fondazione cineteca di Milano ha reso gratuito il catalogo in streaming
