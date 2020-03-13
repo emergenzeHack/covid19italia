@@ -22,11 +22,22 @@
   logo: /img/icone/tci-legge.png
   map: false
   link: fonti-istituzionali/
-- name: ARCHIVIO SEGNALAZIONI
-  logo-alt: Archivio delle segnalazioni divise per categoria.
+# - name: INIZIATIVE CULTURALI E CREATIVE
+#   logo-alt: Iniziative culturali e creative.
+#   logo: /img/icone/tci-solidali.png              #       SERVE ICONA NUOVA??
+#   map: false
+#   link: issues/#iniziative-culturali-e-ricreative
+- name: NOTIZIE
+  logo-alt: Notizie e informazioni utili.
+  logo: /img/icone/news2-tci.png
+  map: false
+  link: issues/#notizie
+- name: TUTTE LE SEGNALAZIONI
+  logo-alt: Archivio di tutte le segnalazioni.
   logo: /img/icone/05-segnalazioni.png
   map: false
   link: issues/
+
   #- name: FAKE NEWS
   #  logo: /img/icone/bufala-tci-1.png
   #  map: false
