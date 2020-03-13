@@ -7,6 +7,11 @@
   logo: /img/icone/segnala2-tci.png
   map: false
   link: segnala/
+- name: INIZIATIVE SOLIDALI
+  logo-alt: Elenco delle iniziative solidali.
+  logo: /img/icone/tci-solidali.png
+  map: false
+  link: issues/#servizi-e-iniziative-solidali
 - name: PARTECIPA
   logo-alt: Istruzioni su come collaborare al progetto.
   logo: /img/icone/01-fabbisogni.png
@@ -17,11 +22,6 @@
   logo: /img/icone/tci-legge.png
   map: false
   link: fonti-istituzionali/
-- name: INIZIATIVE SOLIDALI
-  logo-alt: Elenco delle iniziative solidali.
-  logo: /img/icone/tci-solidali.png
-  map: false
-  link: issues/#servizi-e-iniziative-solidali
 - name: ARCHIVIO SEGNALAZIONI
   logo-alt: Archivio delle segnalazioni divise per categoria.
   logo: /img/icone/05-segnalazioni.png
