@@ -5,14 +5,21 @@ permalink: /contatti/
 ---
 
 <div class="panel-group">
-{% assign filteredissues = site.data.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'Contatti utili'"%}
+{% assign filteredissues = site.data.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'Contatti utili'" %}
 {% for member in filteredissues %}
-	<div class="panel-body">
-	<a href="/issues/{{ member.number | datapage_url: '.' }}" class="list-group-item">
-		<h4 class="list-group-item-heading">{{member.title}}</h4>
-		<p class="list-group-item-text">{{member.issue.data.descrizione|markdownify}}</p>
-    <p class="list-group-item-text">{{member.issue.data.data}}</p>
-	</a>
+<div class="panel-body issuepanel" id="issue{{member.number}}">
+<div class="list-group-item">
+<a href="{{site.url}}/issues/{{member.number}}"><h4 class="list-group-item-heading">{{member.title}}</h4></a>
+<dl class="row">
+{% for item in member.issue.data %}
+{% if item[1] != blank %}
+<dt class="col-sm-3">{{item[0] | replace: "_", " " | capitalize_all}}</dt>
+<dd class="col-sm-9">{{item[1] | newline_to_br | auto_link}}</dd>
+{% endif %}
+{% endfor %}
+</dl>
+</div>
 {% include social-share-issue.html %}
 </div>
 {% endfor %}
+</div>
