@@ -3,7 +3,6 @@ layout: page
 title: Fake News
 permalink: /fake-news/
 ---
-
 <div class="panel-group">
 {% assign filteredissues = site.data.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'Fake News'"%}
 {% for member in filteredissues %}
@@ -16,3 +15,4 @@ permalink: /fake-news/
 {% include social-share-issue.html %}
 </div>
 {% endfor %}
+</div>
