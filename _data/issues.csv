@@ -1,5 +1,25 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/347,580609870,2020-03-13 13:48:28,2020-03-13 13:43:53,URGENTE: Donazione #sangue Regione #Lazio,,,"[""Informazioni utili"", ""Notizia"", ""accettato"", ""form""]",,,"{""Cosa"": ""Donazione #sangue Regione #Lazio"", ""Descrizione"": ""\u00c8 URGENTE SERVE SANGUE.\nIL LAZIO STA RIMANENDO SENZA. DONA\nNegli ospedali sono presenti strutture specificatamente destinate alla sola accoglienza dei donatori e al loro percorso di donazione, con personale dedicato e formato.\n\nLa nota del Ministero della Salute del 10 marzo 2020 che, con riferimento al DCPM del 9 marzo 2020, sottolinea 2 importanti aspetti:\n\nla donazione del sangue e degli emocomponenti \u00e8 da considerarsi inclusa tra le \""situazioni di necessit\u00e0\"" e di conseguenza gli spostamenti dei donatori che si recano presso le sedi di raccolta sono autorizzate;\nriguardo le segnalazione di ordinanze comunali finalizzate a bloccare le attivit\u00e0 di donazione presso le sedi associative allo scopo di evitare assembramenti, considerato che garantiscono una parte rilevante della raccolta nazionale di sangue ed emocomponenti, sono state fomite dal Centro nazionale Sangue raccomandazioni, reperibili sui siti istituzionali, per evitare l'aggregazione dei donatori nei locali di attesa, facendo rispettare la distanza di sicurezza interpersonale (almeno 1 metro) e raccomandando la prenotazione online da parte dei donatori."", ""Informativa"": ""OK"", ""Link"": ""https://www.salutelazio.it/donare-il-sangue""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/348,580611070,2020-03-13 13:50:10,2020-03-13 13:46:00,Raccolta Fondi per ospedali e personale medico #Brescia,,,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""BIC_SWIFT"": ""BLOPIT22"", ""Causale"": ""AIUTIAMOBRESCIA (NB senza hashtag)"", ""Descrizione"": ""La Fondazione comunit\u00e0 bresciana mette a disposizione lo strumento tecnico che garantisce certificazioni di detraibilit\u00e0 per la raccolta fondi per gli ospedali bresciani e per il personale medico e infermieristico in questo momento di emergenza.\n\nIn caso si voglia mantenere l'anonimato per le pubblicazioni sul Giornale di Brescia aggiungere ANONIMO nella causale. Se si volesse dare un contributo \u00abin memoria di\u00bb \u00e8 necessario fare il bonifico e poi inviare una mail a amministrazione@fondazionebresciana.org."", ""Email"": ""amministrazione@fondazionebresciana.org"", ""IBAN"": ""IT76Z0311111238000000001390"", ""Informativa"": ""OK"", ""Intestazione"": ""Fondazione Comunit\u00e0 Bresciano Onlus"", ""Link"": ""https://www.giornaledibrescia.it/brescia-e-hinterland/aiutiamobrescia-la-raccolta-fondi-per-gli-ospedali-bresciani-1.3465790"", ""Nome"": ""Fondazione Comunit\u00e0 Bresciana Nnlus"", ""Posizione"": ""45.541553 10.211802 0 0""}","<pre><yamldata>
+BIC_SWIFT: BLOPIT22
+Causale: AIUTIAMOBRESCIA (NB senza hashtag)
+Descrizione: 'La Fondazione comunità bresciana mette a disposizione lo strumento tecnico
+  che garantisce certificazioni di detraibilità per la raccolta fondi per gli ospedali
+  bresciani e per il personale medico e infermieristico in questo momento di emergenza.
+
+
+  In caso si voglia mantenere l''anonimato per le pubblicazioni sul Giornale di Brescia
+  aggiungere ANONIMO nella causale. Se si volesse dare un contributo «in memoria di»
+  è necessario fare il bonifico e poi inviare una mail a amministrazione@fondazionebresciana.org.'
+Email: amministrazione@fondazionebresciana.org
+IBAN: IT76Z0311111238000000001390
+Informativa: OK
+Intestazione: Fondazione Comunità Bresciano Onlus
+Link: https://www.giornaledibrescia.it/brescia-e-hinterland/aiutiamobrescia-la-raccolta-fondi-per-gli-ospedali-bresciani-1.3465790
+Nome: Fondazione Comunità Bresciana Nnlus
+Posizione: 45.541553 10.211802 0 0
+
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/347,580609870,2020-03-13 13:54:21,2020-03-13 13:43:53,URGENTE: Donazione #sangue Regione #Lazio,,,"[""Informazioni utili"", ""Notizia"", ""accettato"", ""form""]",,,"{""Cosa"": ""Donazione #sangue Regione #Lazio"", ""Descrizione"": ""\u00c8 URGENTE SERVE SANGUE.\nIL LAZIO STA RIMANENDO SENZA. DONA\nNegli ospedali sono presenti strutture specificatamente destinate alla sola accoglienza dei donatori e al loro percorso di donazione, con personale dedicato e formato.\n\nLa nota del Ministero della Salute del 10 marzo 2020 che, con riferimento al DCPM del 9 marzo 2020, sottolinea 2 importanti aspetti:\n\nla donazione del sangue e degli emocomponenti \u00e8 da considerarsi inclusa tra le \""situazioni di necessit\u00e0\"" e di conseguenza gli spostamenti dei donatori che si recano presso le sedi di raccolta sono autorizzate;\nriguardo le segnalazione di ordinanze comunali finalizzate a bloccare le attivit\u00e0 di donazione presso le sedi associative allo scopo di evitare assembramenti, considerato che garantiscono una parte rilevante della raccolta nazionale di sangue ed emocomponenti, sono state fomite dal Centro nazionale Sangue raccomandazioni, reperibili sui siti istituzionali, per evitare l'aggregazione dei donatori nei locali di attesa, facendo rispettare la distanza di sicurezza interpersonale (almeno 1 metro) e raccomandando la prenotazione online da parte dei donatori."", ""Informativa"": ""OK"", ""Link"": ""https://www.salutelazio.it/donare-il-sangue""}","<pre><yamldata>
 Cosa: 'Donazione #sangue Regione #Lazio'
 Descrizione: 'È URGENTE SERVE SANGUE.
 
@@ -26,6 +46,18 @@ Descrizione: 'È URGENTE SERVE SANGUE.
   la prenotazione online da parte dei donatori.'
 Informativa: OK
 Link: https://www.salutelazio.it/donare-il-sangue
+
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/346,580598731,2020-03-13 13:50:17,2020-03-13 13:24:25,Raccolta donazioni per acquistare immediatamente materiali e dispositivi  - Spedali Civili #Brescia,,,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Causale"": ""\u201ccontributo per emergenza coronavirus\u201d"", ""Descrizione"": ""La Fondazione raccoglie donazioni per acquistare immediatamente materiali e dispositivi necessari alla cura dei pazienti colpiti da coronavirus."", ""IBAN"": ""IT96Y0311111224000000010000"", ""Informativa"": ""OK"", ""Intestazione"": ""Fondazione Spedali Civili Brescia"", ""Link"": ""http://www.fondazionespedalicivili.it/2020/03/09/raccolta-donazioni-ospedale-civile-brescia/"", ""Nome"": ""Fondazione Spedali Civili #Brescia"", ""Posizione"": ""45.541553 10.211802 0 0""}","<pre><yamldata>
+Causale: “contributo per emergenza coronavirus”
+Descrizione: La Fondazione raccoglie donazioni per acquistare immediatamente materiali
+  e dispositivi necessari alla cura dei pazienti colpiti da coronavirus.
+IBAN: IT96Y0311111224000000010000
+Informativa: OK
+Intestazione: Fondazione Spedali Civili Brescia
+Link: http://www.fondazionespedalicivili.it/2020/03/09/raccolta-donazioni-ospedale-civile-brescia/
+Nome: 'Fondazione Spedali Civili #Brescia'
+Posizione: 45.541553 10.211802 0 0
 
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/345,580591279,2020-03-13 13:46:31,2020-03-13 13:10:52,Raccolta fondi Ospedale Papa Giovanni XXIII #Bergamo,,,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Potete aiutarci a fronteggiare il Coronavirus facendo un bonifico dove indicate possibilmente nome, cognome e codice fiscale del benefattore.\n\nI fondi raccolti verranno utilizzati per l'acquisto di:\nVentilatori\nDispositivi di ventilazione non invasiva\nMonitoraggi emodinamici\nCuffie, camici e occhiali monouso\n \nAttenzione: nessun altro conto corrente o modalit\u00e0 di raccolta via web \u00e8 stata concordata n\u00e9 autorizzata dalla nostra azienda,\nad eccezione della raccolta fondi organizzata dal CESVI sulla piattaforma Gofoundme\n\nDonazioni attrezzature e dispositivi di protezione:\nChi pu\u00f2 donare attrezzature respiratorie e dispositivi di protezione scriva una mail a affariistituzionali.segreteria@asst-pg23.it"", ""Link"": ""http://www.asst-pg23.it/2020/03/_emergenza_coronavirus_come_aiutarci/"", ""Nome"": ""Raccolta Fondi Ospedale Papa Giovanni XXIII"", ""group_bq2vf46/BIC_SWIFT"": ""POSOIT22"", ""group_bq2vf46/IBAN"": ""IT52Z0569611100000012000X95"", ""group_bq2vf46/Intestazione"": ""Azienda Socio Sanitaria Territoriale Giovanni XXIII""}","<pre><yamldata>
@@ -1227,13 +1259,6 @@ Natura: solidale
 Posizione: 43.608441 13.514226 0 0
 Tipo_di_soggetto: privato
 Titolo: Servizio di portierato di quartiere
-
-</yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/225,579773951,2020-03-12 10:54:07,2020-03-12 08:32:40,Raccolta fondi Istituto Nazionale per le Malattie infettive Spallanzani #Roma,,,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Raccolta fondi per l'Istituto Nazionale per le Malattie Infettive Lazzaro Spallanzani di Roma"", ""Link"": ""https://www.gofundme.com/f/nomoreweakness"", ""Nome"": ""Andrea De Bartolis e Giovanni Maria Riccio - Fondazione Homo ex Machina""}","<pre><yamldata>
-Descrizione: Raccolta fondi per l'Istituto Nazionale per le Malattie Infettive Lazzaro
-  Spallanzani di Roma
-Link: https://www.gofundme.com/f/nomoreweakness
-Nome: Andrea De Bartolis e Giovanni Maria Riccio - Fondazione Homo ex Machina
 
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/225,579773951,2020-03-12 10:54:07,2020-03-12 08:32:40,Raccolta fondi Istituto Nazionale per le Malattie infettive Spallanzani #Roma,,,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Raccolta fondi per l'Istituto Nazionale per le Malattie Infettive Lazzaro Spallanzani di Roma"", ""Link"": ""https://www.gofundme.com/f/nomoreweakness"", ""Nome"": ""Andrea De Bartolis e Giovanni Maria Riccio - Fondazione Homo ex Machina""}","<pre><yamldata>
