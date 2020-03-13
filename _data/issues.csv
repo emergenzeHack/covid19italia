@@ -271,7 +271,7 @@ Tipo_di_soggetto: privato
 Titolo: 'Consigli e consegna libri a domicilio #Bari'
 
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/334,580482346,2020-03-13 12:17:59,2020-03-13 09:40:54,Servizi per donne che vivono in situazioni di violenza #Milano,,,"[""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Nonunadimeno #Milano"", ""Descrizione"": ""Donne che vivono in situazioni di violenza possono usifruire dei servizi:\n\n- Apertura del centro antiviolenza con accoglienza telefonica\n- Gestione delle situazioni di emergenza"", ""Destinatari"": ""Donne che vivono in situazioni di violenza #Milano"", ""Link"": ""https://www.facebook.com/nonunadimenomilano/"", ""Natura"": ""solidale"", ""Posizione"": ""45.46542 9.17692 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Servizi per donne che vivono in situazioni di violenza #Milano""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/334,580482346,2020-03-13 15:26:07,2020-03-13 09:40:54,Servizi per donne che vivono in situazioni di violenza #Milano,,,"[""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Nonunadimeno #Milano"", ""Descrizione"": ""Donne che vivono in situazioni di violenza possono usifruire dei servizi:\n\n- Apertura del centro antiviolenza con accoglienza telefonica\n- Gestione delle situazioni di emergenza"", ""Destinatari"": ""Donne che vivono in situazioni di violenza #Milano"", ""Link"": ""https://www.facebook.com/nonunadimenomilano/"", ""Natura"": ""solidale"", ""Posizione"": ""45.46542 9.17692 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Servizi per donne che vivono in situazioni di violenza #Milano""}","<pre><yamldata>
 Da_chi_offerta: 'Nonunadimeno #Milano'
 Descrizione: 'Donne che vivono in situazioni di violenza possono usifruire dei servizi:
 
@@ -280,6 +280,7 @@ Descrizione: 'Donne che vivono in situazioni di violenza possono usifruire dei s
 
   - Gestione delle situazioni di emergenza'
 Destinatari: 'Donne che vivono in situazioni di violenza #Milano'
+Posizione: 45.46013 9.18447 0 0
 Link: https://www.facebook.com/nonunadimenomilano/
 Natura: solidale
 Tipo_di_soggetto: privato
@@ -331,7 +332,7 @@ Tipo_di_soggetto: privato
 Titolo: Coronavirus - informazioni utili per i migranti
 
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/329,580430383,2020-03-13 09:44:59,2020-03-13 07:52:18,Assistenza agli acquisti #SanVincenzo (LI),,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Associazioni di volontariato"", ""Descrizione"": ""Comune di San Vincenzo (Livorno)\n\nSi comunica che, a partire da Giovedi 12 Marzo,\n\ngrazie al prezioso contributo delle associazioni di volontariato del nostro territorio, \u00e8 attivo nel comune di San Vincenzo\n\nil servizio di acquisto e consegna a domicilio di generi alimentari e di prima necessit\u00e0.\n\nIl servizio \u00e8 riservato alle persone di oltre 70 anni o gravemente impedite negli spostamenti.\nI numeri da contattare sono:\n\ndal lunedi al venerdi in orario di apertura degli uffici comunali contattare i numeri\n\n0565707206 oppure il numero 0565707243 .\n\nIl sabato e la domenica, dalle 9 alle 19, contattare il numero 3296505882."", ""Destinatari"": ""Anziani e bisognosi"", ""Link"": ""https://www.comune.san-vincenzo.li.it/archivio6_notizie-ed-eventi_0_1754.html"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Assistenza agli acquisti""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/329,580430383,2020-03-13 15:27:43,2020-03-13 07:52:18,Assistenza agli acquisti #SanVincenzo (LI),,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Associazioni di volontariato"", ""Descrizione"": ""Comune di San Vincenzo (Livorno)\n\nSi comunica che, a partire da Giovedi 12 Marzo,\n\ngrazie al prezioso contributo delle associazioni di volontariato del nostro territorio, \u00e8 attivo nel comune di San Vincenzo\n\nil servizio di acquisto e consegna a domicilio di generi alimentari e di prima necessit\u00e0.\n\nIl servizio \u00e8 riservato alle persone di oltre 70 anni o gravemente impedite negli spostamenti.\nI numeri da contattare sono:\n\ndal lunedi al venerdi in orario di apertura degli uffici comunali contattare i numeri\n\n0565707206 oppure il numero 0565707243 .\n\nIl sabato e la domenica, dalle 9 alle 19, contattare il numero 3296505882."", ""Destinatari"": ""Anziani e bisognosi"", ""Link"": ""https://www.comune.san-vincenzo.li.it/archivio6_notizie-ed-eventi_0_1754.html"", ""Natura"": ""solidale"", ""Posizione"": ""43.10070 10.53879 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Assistenza agli acquisti""}","<pre><yamldata>
 Da_chi_offerta: Associazioni di volontariato
 Descrizione: 'Comune di San Vincenzo (Livorno)
 
@@ -359,6 +360,7 @@ Descrizione: 'Comune di San Vincenzo (Livorno)
 
 
   Il sabato e la domenica, dalle 9 alle 19, contattare il numero 3296505882.'
+Posizione: 43.10070 10.53879 0 0
 Destinatari: Anziani e bisognosi
 Link: https://www.comune.san-vincenzo.li.it/archivio6_notizie-ed-eventi_0_1754.html
 Natura: solidale
