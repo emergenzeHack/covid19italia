@@ -266,6 +266,17 @@ IBAN: IT43A0760102600001049330432
 Intestazione: REGIONE MARCHE
 
 </yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/296,580052407,2020-03-13 09:39:55,2020-03-12 16:15:50,Aiuto per chi avesse problemi a fare la spesa #Montevarchi,,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Associazione Bakonghe"", ""Descrizione"": ""Chiamare il numero 3334463653 per attivare il servizio gestito dai volontari di Montevarchi."", ""Destinatari"": ""Prsone anziane e malati cronici"", ""Link"": ""http://www.bakonghe.it/news.asp?s=9&n=90"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Aiuto per chi avesse problemi a fare la spesa""}","<pre><yamldata>
+Da_chi_offerta: Associazione Bakonghe
+Descrizione: Chiamare il numero 3334463653 per attivare il servizio gestito dai volontari
+  di Montevarchi.
+Destinatari: Prsone anziane e malati cronici
+Link: http://www.bakonghe.it/news.asp?s=9&n=90
+Natura: solidale
+Tipo_di_soggetto: privato
+Titolo: Aiuto per chi avesse problemi a fare la spesa
+
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/295,580049756,2020-03-12 19:42:23,2020-03-12 16:11:42,Cibo e medicinali a domicilio: le iniziative in #Brianza,,,"[""Notizia"", ""accettato"", ""form""]",,,"{""Cosa"": ""Cibo e medicinali a domicilio: le iniziative in Brianza"", ""Descrizione"": ""I Comuni e le associazioni si muovono per non fare uscire soprattutto le persone pi\u00f9 fragili dalla propria abitazione. Un elenco delle iniziative fin qui messe in campo."", ""Link"": ""https://www.ilcittadinomb.it/stories/Cronaca/coronavirus-cibo-e-medicinali-a-domicilio-per-le-persone-anziane-le-iniziative_1343943_11/""}","<pre><yamldata>
 Cosa: 'Cibo e medicinali a domicilio: le iniziative in Brianza'
 Descrizione: ""I Comuni e le associazioni si muovono per non fare uscire soprattutto\
