@@ -1,0 +1,84 @@
+<!-- Check if any share-links are active -->
+{% assign any-share-links = false %}
+{% for links in site.share-links-active %}
+  {% if links[1] == true %}
+    {% assign any-share-links = true %}
+  {% endif %}
+{% endfor %}
+
+{% if any-share-links %}
+{% capture share-url %}
+{{ site.url }}/issues/{{ member.number }}&title={{member.title|truncate:70|uri_escape}} | {{ site.title }} {% endcapture %}
+<div class="panel-footer">
+  <ul class="share-buttons">
+    <li>Condividi:</li>
+    <!--- Share link -->
+    {% if site.share-links-active.link %}
+      <li>
+        <a href="{{ site.url }}/issues/{{ member.number }}"
+          title="Copia link" class="fa-stack">
+          <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
+          <span class="fa fa-link fa-stack-1x fa-inverse" aria-hidden="true"></span>
+        </a>
+      </li>
+    {% endif %}
+
+    <!--- Share on Facebook -->
+    {% if site.share-links-active.facebook %}
+      <li>
+        <a href="https://www.facebook.com/sharer/sharer.php?u={{ share-url }}"
+          title="Condividi su Facebook" class="fa-stack" target="_blank">
+          <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
+          <i class="fa fa-facebook fa-stack-1x fa-inverse" aria-hidden="true"></i>
+        </a>
+      </li>
+    {% endif %}
+
+    <!--- Share on Twitter -->
+    {% if site.share-links-active.twitter %}
+      <li>
+        <a href="https://twitter.com/intent/tweet?text={{ share-url }}&via=covid19italia&hashtags=covid19italia"
+          title="Condividi su Twitter" class="fa-stack" target="_blank">
+          <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
+          <i class="fa fa-twitter fa-stack-1x fa-inverse" aria-hidden="true"></i>
+        </a>
+      </li>
+    {% endif %}
+
+    <!--- Share on Google Plus -->
+    {% if site.share-links-active.google %}
+      <li>
+        <a href="https://plus.google.com/share?url={{ share-url }}"
+          title="Condividi su Google+" class="fa-stack" target="_blank">
+          <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
+          <i class="fa fa-google-plus fa-stack-1x fa-inverse" aria-hidden="true"></i>
+        </a>
+      </li>
+    {% endif %}
+
+    <!--- Share on LinkedIn -->
+    {% if site.share-links-active.linkedin %}
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ share-url }}"
+          title="Condividi su LinkedIn" class="fa-stack" target="_blank">
+          <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
+          <i class="fa fa-linkedin fa-stack-1x fa-inverse" aria-hidden="true"></i>
+        </a>
+      </li>
+    {% endif %}
+
+    <!--- Share via Email -->
+    {% if site.share-links-active.email %}
+      <li>
+        <a href="mailto:?subject={{member.title|truncate:70|uri_escape}} | {{site.title}}&body={{member.title|truncate:70|uri_escape}}%20Clicca qui:%20{{ site.url }}/issues/{{ member.number }}"
+          title="Invia email" class="fa-stack">
+          <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
+          <i class="fa fa-envelope fa-stack-1x fa-inverse" aria-hidden="true"></i>
+        </a>
+      </li>
+    {% endif %}
+
+  </ul>
+</div>
+
+{% endif %}
