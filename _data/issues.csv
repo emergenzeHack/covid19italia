@@ -1,4 +1,15 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/380,580933222,2020-03-13 23:38:55,2020-03-13 23:37:27,Supporto telefonico per le donne,45.466259,9.188738,"[""Bollettino"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Cerchi d'Acqua"", ""Descrizione"": ""Centro chiuso ma assistenza e colloqui telefono. \nPer casi di emergenza ridirezione a Polizia e/o CaseFamiglia.\n\ntel 02 5843 0117"", ""Destinatari"": ""donne vittime di violenza domestica"", ""Link"": ""https://www.facebook.com/Cerchi-DAcqua-Centro-Antiviolenza-Cooperativa-Sociale-197366713643929/?ref=br_rs"", ""Natura"": ""solidale"", ""Posizione"": ""45.466259 9.188738 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Supporto telefonico per le donne""}","<pre><yamldata>
+Da_chi_offerta: Cerchi d'Acqua
+Descrizione: ""Centro chiuso ma assistenza e colloqui telefono. \nPer casi di emergenza\
+  \ ridirezione a Polizia e/o CaseFamiglia.\n\ntel 02 5843 0117""
+Destinatari: donne vittime di violenza domestica
+Link: https://www.facebook.com/Cerchi-DAcqua-Centro-Antiviolenza-Cooperativa-Sociale-197366713643929/?ref=br_rs
+Natura: solidale
+Posizione: 45.466259 9.188738 0 0
+Tipo_di_soggetto: privato
+Titolo: Supporto telefonico per le donne
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/379,580931166,2020-03-13 23:34:17,2020-03-13 23:32:13,"Rel.Azioni Positive Centro Antiviolenza, supporto alle donne #Padova",45.40755,11.876784,"[""Bollettino"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Rel.Azioni Positive"", ""Descrizione"": ""Accoglienza telefonica attiva H24. \nCentro aperto con turnazione delle operatrici che lavorano nell'accoglienza.\nSupporto psicologico e legale via skype o telefono. \nAttive case rifugio per donne.\n\nTel: 049 8721277"", ""Destinatari"": ""donne vittime di violenza domestica"", ""Link"": ""https://www.facebook.com/RelAzioni-Positive-Cooperativa-Sociale-ONLUS-1007535322761166/"", ""Natura"": ""solidale"", ""Posizione"": ""45.40755 11.876784 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Supporto a donne vittime di violenza domestica #Padova""}","<pre><yamldata>
 Da_chi_offerta: Rel.Azioni Positive
 Descrizione: ""Accoglienza telefonica attiva H24. \nCentro aperto con turnazione delle\
