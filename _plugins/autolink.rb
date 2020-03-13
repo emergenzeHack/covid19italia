@@ -1,9 +1,11 @@
+require 'nokogiri'
 require 'rinku'
 
 module Jekyll
   module AutoLinkFilter
     def auto_link(input)
-      Rinku.auto_link(input, :all, 'target="_blank"')
+      html = Nokogiri::HTML.fragment(Rinku.auto_link(input, :all, 'target="_blank"'))
+      html.to_html
     end
   end
 end
