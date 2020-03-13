@@ -1708,16 +1708,6 @@ provincia: Brescia
 regione: Lombardia
 tag: Raccolta fondi
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/142,578926074,2020-03-11 11:01:20,2020-03-10 23:53:51,Raccolta fondi per acquisto materiali e dispositivi ospedali provincia di #Brescia,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Fondazione Spedali Civili Brescia"", ""comune"": ""Brescia"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per acquistare per i presidi e tutti gli ospedali della provincia di Brescia materiali e dispositivi necessari alla cura dei pazienti colpiti da coronavirus."", ""destinatari"": ""Tutti"", ""fonte"": ""http://www.fondazionespedalicivili.it/2020/03/09/raccolta-donazioni-per-emergenza-coronavirus-brescia/"", ""provincia"": ""Brescia"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Fondazione Spedali Civili Brescia
-comune: Brescia
-contatti: ''
-descrizione: Raccolta fondi per acquistare per i presidi e tutti gli ospedali della provincia di Brescia materiali e dispositivi necessari alla cura dei pazienti colpiti da coronavirus.
-destinatari: Tutti
-fonte: http://www.fondazionespedalicivili.it/2020/03/09/raccolta-donazioni-per-emergenza-coronavirus-brescia/
-provincia: Brescia
-regione: Lombardia
-tag: Raccolta fondi
-</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/140,578926062,2020-03-11 11:03:01,2020-03-10 23:53:49,Raccolta fondi Regione #Lombardia per aziende ospedaliere,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Regione Lombardia"", ""comune"": ""Milano "", ""contatti"": """", ""descrizione"": ""Raccolta fondi aziende ospedaliere lombarde"", ""destinatari"": ""Tutti"", ""fonte"": ""https://www.lombardianotizie.online/coronavirus-conto-corrente/"", ""provincia"": ""Milano"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Regione Lombardia
 comune: 'Milano '
 contatti: ''
