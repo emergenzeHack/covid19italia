@@ -603,7 +603,7 @@ Link: https://m.me/regione.piemonte.official
 Nome: Regione Piemonte
 
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/302,580079032,2020-03-12 22:39:30,2020-03-12 16:59:27,"""Pranzo al sacco"" Caritas Diocesana #Pinerolo",,,"[""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Caritas diocesana Pinerolo, COESA (Consorzio Cooperative Sociali), Citt\u00e0 di Pinerolo"", ""Descrizione"": ""A seguito della chiusura del Posto Giusto stiamo organizzando un servizio sostitutivo per le persone che hanno bisogno di un pasto anche in questi giorni con la distribuzione di sacchetti con \""pranzo al sacco\"". La distribuzione dei pasti avverr\u00e0 presso il Posto Giusto in via Lequo 36 dalle 12,30 alle 13."", ""Destinatari"": ""persone in condizione di vulnerabilit\u00e0"", ""Link"": ""www.consorziocoesa.it"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Pranzo al sacco""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/302,580079032,2020-03-13 16:42:10,2020-03-12 16:59:27,"""Pranzo al sacco"" Caritas Diocesana #Pinerolo",44.88731,7.33195,"[""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Caritas diocesana Pinerolo, COESA (Consorzio Cooperative Sociali), Citt\u00e0 di Pinerolo"", ""Descrizione"": ""A seguito della chiusura del Posto Giusto stiamo organizzando un servizio sostitutivo per le persone che hanno bisogno di un pasto anche in questi giorni con la distribuzione di sacchetti con \""pranzo al sacco\"". La distribuzione dei pasti avverr\u00e0 presso il Posto Giusto in via Lequo 36 dalle 12,30 alle 13."", ""Destinatari"": ""persone in condizione di vulnerabilit\u00e0"", ""Link"": ""www.consorziocoesa.it"", ""Natura"": ""solidale"", ""Posizione"": ""44.88731 7.33195 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Pranzo al sacco""}","<pre><yamldata>
 Da_chi_offerta: ""Caritas diocesana Pinerolo, COESA (Consorzio Cooperative Sociali),\
   \ Citt\xE0 di Pinerolo""
 Descrizione: ""A seguito della chiusura del Posto Giusto stiamo organizzando un servizio\
@@ -615,9 +615,10 @@ Link: www.consorziocoesa.it
 Natura: solidale
 Tipo_di_soggetto: pubblico
 Titolo: Pranzo al sacco
+Posizione: 44.88731 7.33195 0 0
 
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/301,580073521,2020-03-12 18:02:45,2020-03-12 16:49:59,Apertura dei Centri Antiviolenza D.i.Re,,,"[""Notizia"", ""accettato"", ""form""]",,,"{""Cosa"": ""Apertura dei Centri Antiviolenza D.i.Re"", ""Descrizione"": ""I Centri Antiviolenza della rete D.i.Re si sono organizzati per rispondere all\u2019emergenza COVID-19 e alle disposizioni emanate dal governo con l\u2019istituzione della zona rossa a livello nazionale, in modo da non lasciare sole le donne che hanno subito violenza.\nTrovate tutte le informazioni al link di riferimento."", ""Link"": ""https://www.direcontrolaviolenza.it/emergenza-coronavirus-apertura-centri-d-i-re/?fbclid=IwAR1raEBDIKfLGEN01gnpRmlgNsPVdcTlkJwqTdxui3eP9xpZziQyBGgopSA""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/301,580073521,2020-03-13 16:41:03,2020-03-12 16:49:59,Apertura dei Centri Antiviolenza D.i.Re,,,"[""Bollettino"", ""Notizia"", ""accettato"", ""form""]",,,"{""Cosa"": ""Apertura dei Centri Antiviolenza D.i.Re"", ""Descrizione"": ""I Centri Antiviolenza della rete D.i.Re si sono organizzati per rispondere all\u2019emergenza COVID-19 e alle disposizioni emanate dal governo con l\u2019istituzione della zona rossa a livello nazionale, in modo da non lasciare sole le donne che hanno subito violenza.\nTrovate tutte le informazioni al link di riferimento."", ""Link"": ""https://www.direcontrolaviolenza.it/emergenza-coronavirus-apertura-centri-d-i-re/?fbclid=IwAR1raEBDIKfLGEN01gnpRmlgNsPVdcTlkJwqTdxui3eP9xpZziQyBGgopSA""}","<pre><yamldata>
 Cosa: Apertura dei Centri Antiviolenza D.i.Re
 Descrizione: ""I Centri Antiviolenza della rete D.i.Re si sono organizzati per rispondere\
   \ all\u2019emergenza COVID-19 e alle disposizioni emanate dal governo con l\u2019\
@@ -626,7 +627,7 @@ Descrizione: ""I Centri Antiviolenza della rete D.i.Re si sono organizzati per r
 Link: https://www.direcontrolaviolenza.it/emergenza-coronavirus-apertura-centri-d-i-re/?fbclid=IwAR1raEBDIKfLGEN01gnpRmlgNsPVdcTlkJwqTdxui3eP9xpZziQyBGgopSA
 
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/300,580068378,2020-03-12 22:39:54,2020-03-12 16:41:14,Mappa dati regione #Lombardia,45.475765,9.194403,"[""Dati utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Mappa dati regione Lombardia"", ""Descrizione"": ""Regione Lombardia ha reso disponibili a tutti i cittadini i dati dei casi di covid-19 nei comuni e nelle province lombarde. Attraverso questa mappa si pu\u00f2 vedere la distribuzione geografica dei casi e la loro evoluzione nel tempo. \u00c8 anche possibile vedere il numero di casi per provincia e per comune. Nella parte bassa sono presenti i grafici che rappresentano il numero di casi nel tempo in tutta la regione e nelle varie province. http://lispa.maps.arcgis.com/apps/opsdashboard/index.html#/637ec3dc28ec4ea591cc5c724f127701"", ""Fonte"": ""http://lispa.maps.arcgis.com/apps/opsdashboard/index.html#/637ec3dc28ec4ea591cc5c724f127701"", ""Posizione"": ""45.475765 9.194403 0 0""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/300,580068378,2020-03-13 16:42:36,2020-03-12 16:41:14,Mappa dati regione #Lombardia,45.475765,9.194403,"[""Bollettino"", ""Dati utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Mappa dati regione Lombardia"", ""Descrizione"": ""Regione Lombardia ha reso disponibili a tutti i cittadini i dati dei casi di covid-19 nei comuni e nelle province lombarde. Attraverso questa mappa si pu\u00f2 vedere la distribuzione geografica dei casi e la loro evoluzione nel tempo. \u00c8 anche possibile vedere il numero di casi per provincia e per comune. Nella parte bassa sono presenti i grafici che rappresentano il numero di casi nel tempo in tutta la regione e nelle varie province. http://lispa.maps.arcgis.com/apps/opsdashboard/index.html#/637ec3dc28ec4ea591cc5c724f127701"", ""Fonte"": ""http://lispa.maps.arcgis.com/apps/opsdashboard/index.html#/637ec3dc28ec4ea591cc5c724f127701"", ""Posizione"": ""45.475765 9.194403 0 0""}","<pre><yamldata>
 Cosa: Mappa dati regione Lombardia
 Descrizione: ""Regione Lombardia ha reso disponibili a tutti i cittadini i dati dei\
   \ casi di covid-19 nei comuni e nelle province lombarde. Attraverso questa mappa\
@@ -638,7 +639,7 @@ Fonte: http://lispa.maps.arcgis.com/apps/opsdashboard/index.html#/637ec3dc28ec4e
 Posizione: 45.475765 9.194403 0 0
 
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/299,580066977,2020-03-12 21:18:09,2020-03-12 16:39:03,Conto corrente per destinare risorse al servizio sanitario regionale #Marche,,,"[""Raccolte fondi"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""CC_Postale"": ""001049330432"", ""Causale"": ""EMERGENZA MARCHE CORONAVIRUS SERVIZIO TESORERIA"", ""Descrizione"": ""La Regione Marche ha aperto un conto corrente per destinare risorse al servizio sanitario regionale che si sta occupando dell'emergenza Covid19 e dare un contributo all'assistenza sanitaria marchigiana.\nEcco gli estremi per effettuare le donazioni:\n\u2022 numero di conto corrente postale: 001049330432\n\u2022 intestazione conto corrente postale: REGIONE MARCHE - EMERGENZA MARCHE CORONAVIRUS SERVIZIO TESORERIA \n\u2022 coordinate IBAN:  IT43A0760102600001049330432"", ""IBAN"": ""IT43A0760102600001049330432"", ""Intestazione"": ""REGIONE MARCHE"", ""Link"": ""http://www.regione.marche.it/News-ed-Eventi/Post/60831/Donazioni-sicure-Coronavirus"", ""Nome"": ""Regione Marche""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/299,580066977,2020-03-13 16:43:01,2020-03-12 16:39:03,Conto corrente per destinare risorse al servizio sanitario regionale #Marche,,,"[""Bollettino"", ""Raccolte fondi"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""CC_Postale"": ""001049330432"", ""Causale"": ""EMERGENZA MARCHE CORONAVIRUS SERVIZIO TESORERIA"", ""Descrizione"": ""La Regione Marche ha aperto un conto corrente per destinare risorse al servizio sanitario regionale che si sta occupando dell'emergenza Covid19 e dare un contributo all'assistenza sanitaria marchigiana.\nEcco gli estremi per effettuare le donazioni:\n\u2022 numero di conto corrente postale: 001049330432\n\u2022 intestazione conto corrente postale: REGIONE MARCHE - EMERGENZA MARCHE CORONAVIRUS SERVIZIO TESORERIA \n\u2022 coordinate IBAN:  IT43A0760102600001049330432"", ""IBAN"": ""IT43A0760102600001049330432"", ""Intestazione"": ""REGIONE MARCHE"", ""Link"": ""http://www.regione.marche.it/News-ed-Eventi/Post/60831/Donazioni-sicure-Coronavirus"", ""Nome"": ""Regione Marche""}","<pre><yamldata>
 Descrizione: ""La Regione Marche ha aperto un conto corrente per destinare risorse\
   \ al servizio sanitario regionale che si sta occupando dell'emergenza Covid19 e\
   \ dare un contributo all'assistenza sanitaria marchigiana.\nEcco gli estremi per\
@@ -665,7 +666,7 @@ Tipo_di_soggetto: privato
 Titolo: 'Servizi educativi in #Valdarno'
 
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/296,580052407,2020-03-13 09:40:08,2020-03-12 16:15:50,Aiuto per chi avesse problemi a fare la spesa #Montevarchi (AR),,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Associazione Bakonghe"", ""Descrizione"": ""Chiamare il numero 3334463653 per attivare il servizio gestito dai volontari di Montevarchi."", ""Destinatari"": ""Prsone anziane e malati cronici"", ""Link"": ""http://www.bakonghe.it/news.asp?s=9&n=90"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Aiuto per chi avesse problemi a fare la spesa""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/296,580052407,2020-03-13 16:44:55,2020-03-12 16:15:50,Spesa a domicilio #Montevarchi (AR),43.52350,11.56759,"[""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Associazione Bakonghe"", ""Descrizione"": ""Chiamare il numero 3334463653 per attivare il servizio gestito dai volontari di Montevarchi."", ""Destinatari"": ""Prsone anziane e malati cronici"", ""Link"": ""http://www.bakonghe.it/news.asp?s=9&n=90"", ""Natura"": ""solidale"", ""Posizione"": ""43.52350 11.56759 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Aiuto per chi avesse problemi a fare la spesa""}","<pre><yamldata>
 Da_chi_offerta: Associazione Bakonghe
 Descrizione: Chiamare il numero 3334463653 per attivare il servizio gestito dai volontari
   di Montevarchi.
@@ -674,7 +675,7 @@ Link: http://www.bakonghe.it/news.asp?s=9&n=90
 Natura: solidale
 Tipo_di_soggetto: privato
 Titolo: Aiuto per chi avesse problemi a fare la spesa
-
+Posizione: 43.52350 11.56759 0 0
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/295,580049756,2020-03-12 19:42:23,2020-03-12 16:11:42,Cibo e medicinali a domicilio: le iniziative in #Brianza,,,"[""Notizia"", ""accettato"", ""form""]",,,"{""Cosa"": ""Cibo e medicinali a domicilio: le iniziative in Brianza"", ""Descrizione"": ""I Comuni e le associazioni si muovono per non fare uscire soprattutto le persone pi\u00f9 fragili dalla propria abitazione. Un elenco delle iniziative fin qui messe in campo."", ""Link"": ""https://www.ilcittadinomb.it/stories/Cronaca/coronavirus-cibo-e-medicinali-a-domicilio-per-le-persone-anziane-le-iniziative_1343943_11/""}","<pre><yamldata>
 Cosa: 'Cibo e medicinali a domicilio: le iniziative in Brianza'
@@ -2499,7 +2500,7 @@ provincia: Italia
 regione: Italia
 tag: Raccolta fondi
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/74,578924909,2020-03-11 16:47:19,2020-03-10 23:49:54,Raccolta fondi online Croce Rossa #Pavia,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Croce Rossa Italiana- Pavia"", ""comune"": ""Pavia"", ""contatti"": """", ""descrizione"": ""Raccolta fondi su Facebook per dotare volontari e operatori Croce Rossa di dispositivi di protezione individuale (DPI) e materiale per la sanificazione."", ""destinatari"": ""Croce Rossa"", ""fonte"": ""https://www.facebook.com/donate/492487048085274/?fundraiser_source=external_url"", ""provincia"": ""Pavia"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Croce Rossa Italiana- Pavia
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/74,578924909,2020-03-13 16:43:51,2020-03-10 23:49:54,Raccolta fondi online Croce Rossa #Pavia,45.1820226,9.1718868,"[""Bollettino"", ""Raccolte fondi"", ""accettato""]",,,"{""Posizione"": ""45.1820226 9.1718868 0 0"", ""chi"": ""Croce Rossa Italiana- Pavia"", ""comune"": ""Pavia"", ""contatti"": """", ""descrizione"": ""Raccolta fondi su Facebook per dotare volontari e operatori Croce Rossa di dispositivi di protezione individuale (DPI) e materiale per la sanificazione."", ""destinatari"": ""Croce Rossa"", ""fonte"": ""https://www.facebook.com/donate/492487048085274/?fundraiser_source=external_url"", ""provincia"": ""Pavia"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Croce Rossa Italiana- Pavia
 comune: Pavia
 contatti: ''
 descrizione: Raccolta fondi su Facebook per dotare volontari e operatori Croce Rossa di dispositivi di protezione individuale (DPI) e materiale per la sanificazione.
@@ -2508,8 +2509,9 @@ fonte: https://www.facebook.com/donate/492487048085274/?fundraiser_source=extern
 provincia: Pavia
 regione: Lombardia
 tag: Raccolta fondi
+Posizione: 45.1820226 9.1718868 0 0
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/73,578924905,2020-03-11 16:48:56,2020-03-10 23:49:53,Raccolta fondi Ferragnez per terapia intensiva San Raffaele #Milano,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""The Ferragnez"", ""comune"": ""Milano"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per rafforzare la terapia intensiva"", ""destinatari"": ""San Raffaele di MIlano"", ""fonte"": ""https://www.gofundme.com/f/coronavirus-terapia-intensiva?fbclid=IwAR1LscOtahbuNMnvht_Y4DOIAVk0epdV1HnDdeF1q4g8ifYzd4yJrB2DLPc"", ""provincia"": ""Milano"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: The Ferragnez
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/73,578924905,2020-03-13 16:41:59,2020-03-10 23:49:53,Raccolta fondi Ferragnez per terapia intensiva San Raffaele #Milano,45.5058688,9.264359,"[""Bollettino"", ""Raccolte fondi"", ""accettato""]",,,"{""Posizione"": ""45.5058688 9.264359 0 0"", ""chi"": ""The Ferragnez"", ""comune"": ""Milano"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per rafforzare la terapia intensiva"", ""destinatari"": ""San Raffaele di MIlano"", ""fonte"": ""https://www.gofundme.com/f/coronavirus-terapia-intensiva?fbclid=IwAR1LscOtahbuNMnvht_Y4DOIAVk0epdV1HnDdeF1q4g8ifYzd4yJrB2DLPc"", ""provincia"": ""Milano"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: The Ferragnez
 comune: Milano
 contatti: ''
 descrizione: Raccolta fondi per rafforzare la terapia intensiva
@@ -2518,6 +2520,7 @@ fonte: https://www.gofundme.com/f/coronavirus-terapia-intensiva?fbclid=IwAR1LscO
 provincia: Milano
 regione: Lombardia
 tag: Raccolta fondi
+Posizione: 45.5058688 9.264359 0 0
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/72,578924901,2020-03-13 16:39:18,2020-03-10 23:49:53,Raccolta fondi per terapia intensiva Ospedale di #Cremona,45.291622,9.8549212,"[""Bollettino"", ""Raccolte fondi"", ""accettato""]",,,"{""Posizione"": ""45.291622 9.8549212 0 0"", ""chi"": """", ""comune"": ""Cremona"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per rafforzare la terapia intensiva Ospedale di Cremona"", ""destinatari"": ""tutti"", ""fonte"": ""https://www.gofundme.com/f/raccolta-fondi-per-l039-ospedale-di-cremona"", ""provincia"": ""Milano"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: ''
 comune: Cremona
