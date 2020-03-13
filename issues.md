@@ -7,9 +7,6 @@ permalink: /issues/
 <script src="https://unpkg.com/leaflet@1.0.0/dist/leaflet.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css" />
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.min.js"></script>
-<style>
-#map{ height: 600px }
-</style>
 <link rel="stylesheet" href="{{ site.url }}/css/Control.Geocoder.css" />
 <script src="{{ site.url }}/js/Control.Geocoder.js"></script>
 
@@ -33,7 +30,7 @@ permalink: /issues/
 
 
 
-<div class="row"><div class="col-md-12 col-sm-12 col-xs-12"> <div id="map"></div> </div> </div>
+<div class="row"><div class="col-md-12 col-sm-12 col-xs-12"> <div id="map" style="height: 600px;"></div> </div> </div>
 
 ---
 # Raccolte fondi
