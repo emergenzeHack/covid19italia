@@ -1,4 +1,15 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/365,580727591,2020-03-13 16:57:38,2020-03-13 16:57:05,Consegna Libri a Domicilio #Milano,45.458403,9.181154,"[""Attivita culturali e ricreative"", ""Bollettino"", ""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Libreria Verso"", ""Descrizione"": ""#versopedala - libreria con servizio di consegna libri a domicilio"", ""Destinatari"": ""adulti e bambini"", ""Informativa"": ""OK"", ""Link"": ""http://www.libreriaverso.com/novita/versopedala/"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""45.458403 9.181154 0 0"", ""Titolo"": ""Consegna Libri a Domicilio #Milano""}","<pre><yamldata>
+Da_chi_offerta: Libreria Verso
+Descrizione: '#versopedala - libreria con servizio di consegna libri a domicilio'
+Destinatari: adulti e bambini
+Informativa: OK
+Link: http://www.libreriaverso.com/novita/versopedala/
+Natura: culturale-ricr
+Posizione: 45.458403 9.181154 0 0
+Titolo: 'Consegna Libri a Domicilio #Milano'
+
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/363,580724240,2020-03-13 16:53:55,2020-03-13 16:50:37,Consegna e consigli libri di lettura #Milano,45.499509,9.230185,"[""Bollettino"", ""Consegne e commissioni"", ""Iniziative culturali e ricreative"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Il Covo della Ladra di Libri"", ""Descrizione"": ""Consegna di libri a domicilio gratuite su Milano - a 2\u20ac su territori nazionale;\nChat 24h per consigli di lettura: WhatsAppa al 3487459627"", ""Destinatari"": ""adulti e bambini e bambine"", ""Informativa"": ""OK"", ""Link"": ""http://www.ladradilibri.com/"", ""Natura"": ""solidale"", ""Posizione"": ""45.499509 9.230185 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Consegna e consigli libri di lettura #Milano""}","<pre><yamldata>
 Da_chi_offerta: Il Covo della Ladra di Libri
 Descrizione: 'Consegna di libri a domicilio gratuite su Milano - a 2€ su territori
