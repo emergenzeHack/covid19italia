@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Contati utili
-permalink: /contatti/
+title: Dati utili
+permalink: /dati_utili/
 ---
 
 <div class="panel-group">
-{% assign filteredissues = site.data.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'Contatti utili'"%}
+{% assign filteredissues = site.data.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'Dati utili'"%}
 {% for member in filteredissues %}
 	<div class="panel-body">
 	<a href="/issues/{{ member.number | datapage_url: '.' }}" class="list-group-item">
