@@ -6,6 +6,7 @@ permalink: /canali/
 
 <div class="segnala">
 <p>Ecco i canali attraverso cui puoi contattarci, ricevere aggiornamenti, segnalare info utili o necessità: </p>
+     <ul>
          {% if site.author.facebook %}
           <li>
             <a href="https://www.facebook.com/{{ site.author.facebook }}" title="Facebook">
@@ -164,5 +165,6 @@ permalink: /canali/
             </a><span>per coordinarci internamente</span>
           </li>
           {% endif %}
+     </ul>
           <p>Tutto ciò che ci invii sarà gestito dal nostro team, che potrà provvedere alla pubblicazione delle informazioni sul sito appena possibile. Ricordati che usando i nostri canali accetti automaticamente di sottoscrivere l'<a href="{{ site.url }}/legal_segnalazioni/">informativa legale</a> per le informazioni di questo progetto.</p>
 </div>

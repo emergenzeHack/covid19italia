@@ -772,7 +772,11 @@ div.segnala  {
 	margin-bottom:3%;
 }
 
-div.segnala > li {
+div.segnala > ul {
+  padding:0;
+}
+
+div.segnala > ul > li {
 	margin:2%;
 }
 
