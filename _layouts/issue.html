@@ -2,8 +2,21 @@
 layout: base
 ---
 {% include header.html type="issue" %}
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.0/dist/leaflet.css" />
-<script src="https://unpkg.com/leaflet@1.0.0/dist/leaflet.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+   integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+   crossorigin=""/>
+
+   <!-- Make sure you put this AFTER Leaflet's CSS -->
+ <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+   integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+   crossorigin=""></script>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.min.js"></script>
+<style>
+#map{ height: 600px }
+</style>
+
 <div class="container" role="main">
     <div class="row">
         <div class="col-md-12">{% if page.state == "closed" %}<strike>{% endif %}<h2>{{page.issue.title}}</h2>{% if page.state == "closed" %}</strike>{% endif %} </div>
@@ -59,7 +72,7 @@ layout: base
 </div>
 <script>
 // initialize the map
-var map = L.map('map').setView([{ { page.issue.lat } }, { { page.issue.lon } }], 16);
+var map = L.map('map').setView([{{ page.issue.lat }}, {{ page.issue.lon }}], 15);
 
 // create the tile layer with correct attribution
 var osmUrl = '{{site.tile_map}}';
@@ -68,5 +81,5 @@ var osm = new L.TileLayer(osmUrl, { minZoom: 8, maxZoom: 19, attribution: osmAtt
 
 map.addLayer(osm);
 
-var marker = L.marker([{ { page.issue.lat } }, { { page.issue.lon } }]).addTo(map);
+var marker = L.marker([{{ page.issue.lat }}, {{ page.issue.lon }}]).addTo(map);
 </script>
