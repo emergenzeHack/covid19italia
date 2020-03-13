@@ -1717,16 +1717,6 @@ provincia: Brescia
 regione: Lombardia
 tag: Raccolta fondi
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/141,578926065,2020-03-11 11:02:14,2020-03-10 23:53:50,Raccolta fondi Ospedale Papa Giovanni XXIII #Bergamo,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Ospedale Papa Giovanni XXIII"", ""comune"": ""Bergamo"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per Ospedale Papa Giovanni XXIII di Bergamo"", ""destinatari"": ""Tutti"", ""fonte"": ""http://www.asst-pg23.it/2020/03/_emergenza_coronavirus_come_aiutarci/"", ""provincia"": ""Bergamo"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Ospedale Papa Giovanni XXIII
-comune: Bergamo
-contatti: ''
-descrizione: Raccolta fondi per Ospedale Papa Giovanni XXIII di Bergamo
-destinatari: Tutti
-fonte: http://www.asst-pg23.it/2020/03/_emergenza_coronavirus_come_aiutarci/
-provincia: Bergamo
-regione: Lombardia
-tag: Raccolta fondi
-</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/140,578926062,2020-03-11 11:03:01,2020-03-10 23:53:49,Raccolta fondi Regione #Lombardia per aziende ospedaliere,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Regione Lombardia"", ""comune"": ""Milano "", ""contatti"": """", ""descrizione"": ""Raccolta fondi aziende ospedaliere lombarde"", ""destinatari"": ""Tutti"", ""fonte"": ""https://www.lombardianotizie.online/coronavirus-conto-corrente/"", ""provincia"": ""Milano"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Regione Lombardia
 comune: 'Milano '
 contatti: ''
