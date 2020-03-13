@@ -1,4 +1,14 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/327,580274869,2020-03-13 09:28:38,2020-03-12 23:16:08,Attenzione ai falsi operatori Croce Rossa #Castelvetrano (TP),,,"[""Notizia"", ""accettato"", ""form""]",,,"{""Cosa"": ""Attenzione truffe falsi operatori croce rossa"", ""Descrizione"": ""In localit\u00e0 siciliana si presentano come falsi operatori della croce Rossa.\nRicordiamo che operatori della croce Rossa intervengono solo se viene richiesto il supporto ai numeri 800065510 e 3714130567"", ""Link"": ""https://www.castelvetranoselinunte.it/avviso-attenzione-ai-falsi-operatori-della-croce-rossa/133554/#testoarticolo""}","<pre><yamldata>
+Cosa: Attenzione truffe falsi operatori croce rossa
+Descrizione: 'In località siciliana si presentano come falsi operatori della croce
+  Rossa.
+
+  Ricordiamo che operatori della croce Rossa intervengono solo se viene richiesto
+  il supporto ai numeri 800065510 e 3714130567'
+Link: https://www.castelvetranoselinunte.it/avviso-attenzione-ai-falsi-operatori-della-croce-rossa/133554/#testoarticolo
+
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/325,580264599,2020-03-12 23:02:55,2020-03-12 22:44:02,Consegna gratuita dei farmaci a domicilio alle persone con disabilità,,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Federfarma"", ""Descrizione"": ""Le farmacie aderenti a Federfarma hanno attivato in tutta Italia un servizio per la consegna gratuita dei farmaci a domicilio rivolto a persone con disabilit\u00e0. Per accedere al servizio chiama il numero verde 800 189 521, attivo nei giorni feriali dal luned\u00ec al venerd\u00ec dalle ore 9,00 alle ore 17,30. Risponder\u00e0 un operatore che verificher\u00e0 quali farmacie in prossimit\u00e0 del proprio domicilio sono disponibili ad effettuare il servizio."", ""Destinatari"": ""Persone con disabilit\u00e0"", ""Link"": ""https://www.abiliaproteggere.net/2020/03/11/farmacie-federfarma-attiva-servizio/"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Consegna gratuita dei farmaci a domicilio alle persone con disabilit\u00e0""}","<pre><yamldata>
 Da_chi_offerta: Federfarma
 Descrizione: Le farmacie aderenti a Federfarma hanno attivato in tutta Italia un servizio
