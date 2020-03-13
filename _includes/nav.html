@@ -10,16 +10,16 @@
       {% if site.avatar and (layout.show-avatar or page.show-avatar) %}
       <div class="avatar-container">
         <div class="avatar-img-border">
-          <a itemprop="url" href="https://www.covid19italia.info">
+          <a itemprop="url" href="{{ site.url }}">
             <img itemprop="logo" class="avatar-img" src="{{ site.avatar | prepend: site.baseurl | replace: '//', '/' }}" alt="{{ site.logo-description }}" />
         </a>
         </div>
       </div>
       {% endif %}
       <!-- brand -->
-      <a class="navbar-brand hidden-xs hidden-sm hidden-md" href="https://www.covid19italia.info"><span itemprop="name">{{ site.title }}</span></a>
+      <a class="navbar-brand hidden-xs hidden-sm hidden-md" href="{{ site.url }}"><span itemprop="name">{{ site.title }}</span></a>
       <!-- brand mobile -->
-      <a class="navbar-brand navbar-brand-mobile hidden-lg" href="https://www.covid19italia.info"><span itemprop="name">{{ site.title }}</span></a>
+      <a class="navbar-brand navbar-brand-mobile hidden-lg" href="{{ site.url }}"><span itemprop="name">{{ site.title }}</span></a>
     </div>
 
     <div class="collapse navbar-collapse" id="main-navbar" itemscope itemtype="http://schema.org/SiteNavigationElement">

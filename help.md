@@ -57,7 +57,7 @@ permalink: /aiuto/
             </a>per segnalare contenuti da rimuovere
           </li>
 
-<p>Tutto ciò che ci mandi sarà gestito dal nostro team, che provvederà alla pubblicazione sul sito appena possibile. Ricordati che usando i nostri canali accetti auomaticamente di sottoscrivere l'<a href="https://www.covid19italia.info/legal_segnalazioni/">informativa legale</a> per segnalare informazioni a questo progetto.</p>
+<p>Tutto ciò che ci mandi sarà gestito dal nostro team, che provvederà alla pubblicazione sul sito appena possibile. Ricordati che usando i nostri canali accetti auomaticamente di sottoscrivere l'<a href="{{ site.url }}/legal_segnalazioni/">informativa legale</a> per segnalare informazioni a questo progetto.</p>
 
 </div>
 <div class="posts">

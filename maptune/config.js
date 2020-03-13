@@ -1,3 +1,7 @@
+---
+layout: null
+---
+
 	_TRACE("config.js ------->");
 
 	// define default marker style for layers
@@ -135,7 +139,7 @@
 		}
 		if ( info.properties.url && info.properties.url.match(/issues/) ){
 			var issue = info.properties.url.split("issues/")[1];
-			szInfo += "<div style='margin-top:0.2em;'><a href='https://www.covid19italia.info/issues/"+issue+"' target='_blank'>vai alla segnalazione</a></div>";
+			szInfo += "<div style='margin-top:0.2em;'><a href='{{ site.url }}/issues/"+issue+"' target='_blank'>vai alla segnalazione</a></div>";
 		}
 
 		return szInfo;

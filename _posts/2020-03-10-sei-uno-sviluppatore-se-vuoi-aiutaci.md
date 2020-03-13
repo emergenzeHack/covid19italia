@@ -6,7 +6,7 @@ categories: blog
 
 Siamo un gruppo di civic hacker italiane/i convinti che in questo momento ci sia bisogno dell'aiuto di tutti per superare questo momento particolare per l'Italia e per il mondo.
 
-Cosa stiamo facendo per supportare il nostro paese durante questa emergenza? Leggilo [qui](https://www.covid19italia.help/about/)
+Cosa stiamo facendo per supportare il nostro paese durante questa emergenza? Leggilo [qui]({{ site.url }}/about/)
 
 Se sei uno sviluppatore o una sviluppatrice, di qualsiasi linguaggio di programmazione, conosci GitHub e vuoi dare una mano alla messa ONLINE sei ben accetto/a!
 

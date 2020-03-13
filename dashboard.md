@@ -284,4 +284,4 @@ ext-js:
 </body>
 {% endraw %}
 
-[credits](https://www.covid19italia.info/about/)
+[credits]({{ site.url }}/about/)
