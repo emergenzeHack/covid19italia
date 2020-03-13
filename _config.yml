@@ -95,7 +95,7 @@ footer-links-active:
 
 # Select which share links to show in posts
 share-links-active:
-  google: true
+  google: false
   androidapp: false
   rss: false
   facebook: true
