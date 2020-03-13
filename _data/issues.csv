@@ -235,7 +235,7 @@ Tipo_di_soggetto: privato
 Titolo: Numero verde rifugiati e richiedenti asilo
 
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/336,580492024,2020-03-13 09:59:18,2020-03-13 09:58:53,Consegna spesa a domicilio #Venezia,,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Venezia NON \u00e8 Disneyland"", ""Descrizione"": ""Le consegne avverrano nella fascia oraria 10-12 e le prenotazioni dovranno essere effettuate entro le 20 del giorno prima.\nInizialmente verranno fatte un massimo di 15 consegne al giorno.\nIl servizio di consegna \u00e8 gratuito.\n\nPotete richiedere la consegna o fornire la vostra disponibilit\u00e0 a collaborare ai numeri messi a disposizione: 346-4927533 oppure 348-1581273."", ""Destinatari"": ""Over 65 anni"", ""Link"": ""https://www.facebook.com/VeneziaNONDisneyland/posts/2711708585782990"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Consegna spesa a domicilio #Venezia""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/336,580492024,2020-03-13 15:23:22,2020-03-13 09:58:53,Consegna spesa a domicilio #Venezia,,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Venezia NON \u00e8 Disneyland"", ""Descrizione"": ""Le consegne avverrano nella fascia oraria 10-12 e le prenotazioni dovranno essere effettuate entro le 20 del giorno prima.\nInizialmente verranno fatte un massimo di 15 consegne al giorno.\nIl servizio di consegna \u00e8 gratuito.\n\nPotete richiedere la consegna o fornire la vostra disponibilit\u00e0 a collaborare ai numeri messi a disposizione: 346-4927533 oppure 348-1581273."", ""Destinatari"": ""Over 65 anni"", ""Link"": ""https://www.facebook.com/VeneziaNONDisneyland/posts/2711708585782990"", ""Natura"": ""solidale"", ""Posizione"": ""45.43719 12.33459 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Consegna spesa a domicilio #Venezia""}","<pre><yamldata>
 Da_chi_offerta: Venezia NON è Disneyland
 Descrizione: 'Le consegne avverrano nella fascia oraria 10-12 e le prenotazioni dovranno
   essere effettuate entro le 20 del giorno prima.
@@ -247,6 +247,7 @@ Descrizione: 'Le consegne avverrano nella fascia oraria 10-12 e le prenotazioni 
 
   Potete richiedere la consegna o fornire la vostra disponibilità a collaborare ai
   numeri messi a disposizione: 346-4927533 oppure 348-1581273.'
+Posizione: 45.43719 12.33459 0 0
 Destinatari: Over 65 anni
 Link: https://www.facebook.com/VeneziaNONDisneyland/posts/2711708585782990
 Natura: solidale
@@ -254,7 +255,7 @@ Tipo_di_soggetto: privato
 Titolo: 'Consegna spesa a domicilio #Venezia'
 
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/335,580490256,2020-03-13 09:56:38,2020-03-13 09:55:32,Consigli e consegna libri a domicilio #Bari,,,"[""Consegne e commissioni"", ""Iniziative culturali e ricreative"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,{},"<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/335,580490256,2020-03-13 15:24:52,2020-03-13 09:55:32,Consigli e consegna libri a domicilio #Bari,,,"[""Consegne e commissioni"", ""Iniziative culturali e ricreative"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,{},"<pre><yamldata>
 Da_chi_offerta: Libreria Spina
 Descrizione: '""Vi selezioniamo un mix di 𝟭𝟬 𝗰𝗼𝗻𝘀𝗶𝗴𝗹𝗶 che ci sentiamo di proporvi dal
   catalogo SPINE Bookstore, e se tra questi c''è il fumetto, l''albo o il libro che
@@ -262,6 +263,7 @@ Descrizione: '""Vi selezioniamo un mix di 𝟭𝟬 𝗰𝗼𝗻𝘀𝗶𝗴𝗹�
   #Lunedì passiamo a consegnartelo (in città).
 
   Che ne dici?""'
+Posizione: 41.12578 16.86203 0 0
 Destinatari: Tutte e tutti
 Link: https://www.facebook.com/spinebookstore/posts/1392612424251841
 Natura: solidale
