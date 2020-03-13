@@ -1,4 +1,15 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/366,580737149,2020-03-13 17:47:28,2020-03-13 17:15:41,Emergenza coronavirus: check list imprese per il rispetto della sicurezza dei lavoratori,,,"[""Bollettino"", ""Informazioni utili"", ""Sostegno lavoro e imprese"", ""accettato"", ""form""]",,,"{""Cosa"": ""Emergenza coronavirus: check list imprese per il rispetto della sicurezza dei lavoratori"", ""Descrizione"": ""La Regione Marche ha predisposto una check list utile alle imprese per comprendere se sono a norma rispetto alla sicurezza sanitaria e utile ai lavoratori, perch\u00e9 li rende ulteriormente consapevoli rispetto ai comportamenti da tenere sui luoghi di lavoro. Al link il documento."", ""Fonte"": ""Regione Marche"", ""Link"": ""http://www.regione.marche.it/News-ed-Eventi/Post/60846/Coronavirus-check-list-per-le-imprese-per-il-rispetto-della-sicurezza-dei-lavoratori""}","<pre><yamldata>
+Cosa: 'Emergenza coronavirus: check list imprese per il rispetto della sicurezza dei
+  lavoratori'
+Descrizione: La Regione Marche ha predisposto una check list utile alle imprese per
+  comprendere se sono a norma rispetto alla sicurezza sanitaria e utile ai lavoratori,
+  perché li rende ulteriormente consapevoli rispetto ai comportamenti da tenere sui
+  luoghi di lavoro. Al link il documento.
+Fonte: Regione Marche
+Link: http://www.regione.marche.it/News-ed-Eventi/Post/60846/Coronavirus-check-list-per-le-imprese-per-il-rispetto-della-sicurezza-dei-lavoratori
+
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/365,580727591,2020-03-13 16:57:38,2020-03-13 16:57:05,Consegna Libri a Domicilio #Milano,45.458403,9.181154,"[""Attivita culturali e ricreative"", ""Bollettino"", ""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Libreria Verso"", ""Descrizione"": ""#versopedala - libreria con servizio di consegna libri a domicilio"", ""Destinatari"": ""adulti e bambini"", ""Informativa"": ""OK"", ""Link"": ""http://www.libreriaverso.com/novita/versopedala/"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""45.458403 9.181154 0 0"", ""Titolo"": ""Consegna Libri a Domicilio #Milano""}","<pre><yamldata>
 Da_chi_offerta: Libreria Verso
 Descrizione: '#versopedala - libreria con servizio di consegna libri a domicilio'
@@ -1086,7 +1097,7 @@ Natura: culturale-ricr
 Titolo: 10 musei da visitare stando a casa
 
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/256,579897645,2020-03-12 15:16:49,2020-03-12 12:15:08,Sezione Gazzetta Ufficiale con aggiornamenti ordinanze coronavirus ,,,"[""Dati utili"", ""Fonti istituzionali"", ""Informazioni utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Sezione Gazzetta Ufficiale con aggiornamenti ordinanze governo su coronavirus"", ""Descrizione"": ""Tutte le ordinanze suddivise per: Governo, Dipartimento Protezione Civile, Ministero della Salute, Ministero delle Finanze."", ""Fonte"": ""Gazzetta Ufficiale"", ""Link"": ""https://www.gazzettaufficiale.it/dettaglioArea/12""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/256,579897645,2020-03-13 17:48:17,2020-03-12 12:15:08,Sezione Gazzetta Ufficiale con aggiornamenti ordinanze coronavirus ,,,"[""Fonti istituzionali"", ""Informazioni utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Sezione Gazzetta Ufficiale con aggiornamenti ordinanze governo su coronavirus"", ""Descrizione"": ""Tutte le ordinanze suddivise per: Governo, Dipartimento Protezione Civile, Ministero della Salute, Ministero delle Finanze."", ""Fonte"": ""Gazzetta Ufficiale"", ""Link"": ""https://www.gazzettaufficiale.it/dettaglioArea/12""}","<pre><yamldata>
 Cosa: Sezione Gazzetta Ufficiale con aggiornamenti ordinanze governo su coronavirus
 Descrizione: 'Tutte le ordinanze suddivise per: Governo, Dipartimento Protezione Civile,
   Ministero della Salute, Ministero delle Finanze.'
