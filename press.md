@@ -33,7 +33,7 @@ $(document).ready(function() {
 {: .table .table-striped #press}
 Data            |Fonte                   |Titolo       |Fonte
 :---------------|:-----------------------|:------------|:--------------
-{% for member in site.data.press %} {{member.data | date: '%d/%m/%Y'}} | {{member.dove}} | {{member.titolo}} | [Fonte]({{member.link}})
+{% for member in site.data.press %} {{member.data | date: '%d/%m/%Y'}} | {{member.fonte}} | {{member.titolo}} | [Fonte]({{member.link}})
 {% endfor %}
 
 
