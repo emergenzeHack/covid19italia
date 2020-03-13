@@ -1790,16 +1790,6 @@ provincia: Bologna
 regione: Emilia-Romagna
 tag: Raccolta fondi
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/144,578926086,2020-03-11 10:58:35,2020-03-10 23:53:53,Raccolta fondi Ospedale Sacco #Milano,,,"[""Raccolte fondi"", ""accettato""]",,,{},"<pre><yamldata>chi: Ospedale Sacco
-comune: 'Milano’
-contatti: ''
-descrizione: Raccolta fondi Ospedale Sacco Milano
-destinatari: Tutti
-fonte: https://www.asst-fbf-sacco.it/news/info/sostegno-economico-per-emergenza-covid-19
-provincia: Milano
-regione: Lombardia
-tag: Raccolta fondi
-</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/140,578926062,2020-03-11 11:03:01,2020-03-10 23:53:49,Raccolta fondi Regione #Lombardia per aziende ospedaliere,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Regione Lombardia"", ""comune"": ""Milano "", ""contatti"": """", ""descrizione"": ""Raccolta fondi aziende ospedaliere lombarde"", ""destinatari"": ""Tutti"", ""fonte"": ""https://www.lombardianotizie.online/coronavirus-conto-corrente/"", ""provincia"": ""Milano"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Regione Lombardia
 comune: 'Milano '
 contatti: ''
@@ -1861,16 +1851,6 @@ provincia: Roma
 regione: Lazio
 tag: Consegne e commissioni
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/134,578926040,2020-03-13 10:22:31,2020-03-10 23:53:44,Consegne e commissioni a domicilio #Cosenza,,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato""]",,,"{""chi"": ""Ass. La Terra di Piero"", ""comune"": ""Cosenza"", ""contatti"": ""info@laterradipiero.it"", ""descrizione"": ""Servizi a domicilio"", ""destinatari"": ""Tutti"", ""fonte"": ""https://www.facebook.com/880454068642880/posts/2988423671179232/"", ""provincia"": ""Cosenza"", ""regione"": ""Calabria"", ""tag"": ""Servizi e iniziative solidali private""}","<pre><yamldata>chi: Ass. La Terra di Piero
-comune: Cosenza
-contatti: info@laterradipiero.it
-descrizione: Servizi a domicilio
-destinatari: Tutti
-fonte: https://www.facebook.com/880454068642880/posts/2988423671179232/
-provincia: Cosenza
-regione: Calabria
-tag: Servizi e iniziative solidali private
-</yamldata></pre>",closed
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/133,578926035,2020-03-11 14:26:54,2020-03-10 23:53:43,Numero Radio Ciroma per segnalare disagi e criticità #Ciroma (CS),,,"[""Contatti utili"", ""Informazioni utili"", ""accettato""]",,,"{""chi"": ""Radio Ciroma"", ""comune"": ""Cosenza"", ""contatti"": ""366 4185972"", ""descrizione"": ""Informazioni su disagi e criticit\u00e0"", ""destinatari"": ""tutti"", ""fonte"": ""https://www.facebook.com/photo.php?fbid=10218261149973887&set=p.10218261149973887&type=3&theater"", ""provincia"": ""Cosenza"", ""regione"": ""Calabria"", ""tag"": ""Servizi e iniziative solidali private""}","<pre><yamldata>chi: Radio Ciroma
 comune: Cosenza
 contatti: 366 4185972
@@ -1995,16 +1975,6 @@ provincia: ''
 regione: ''
 tag: Informazioni utili
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/121,578925980,2020-03-12 11:15:42,2020-03-10 23:53:34,Portierato di quartiere #Ancona,,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato""]",,,"{""chi"": ""Casa delle Culture"", ""comune"": ""Ancona"", ""contatti"": ""3737660799"", ""descrizione"": ""Portierato di quartiere"", ""destinatari"": ""residenti quartiere Vallemiano"", ""fonte"": ""https://www.facebook.com/casacultureancona/photos/a.106921962675490/3051249511576039/?type=3&theater"", ""provincia"": ""Ancona"", ""regione"": ""Marche"", ""tag"": ""Consegne e commissioni""}","<pre><yamldata>chi: Casa delle Culture
-comune: Ancona
-contatti: '3737660799'
-descrizione: Portierato di quartiere
-destinatari: residenti quartiere Vallemiano
-fonte: https://www.facebook.com/casacultureancona/photos/a.106921962675490/3051249511576039/?type=3&theater
-provincia: Ancona
-regione: Marche
-tag: Consegne e commissioni
-</yamldata></pre>",closed
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/120,578925974,2020-03-11 11:25:57,2020-03-10 23:53:33,Spettacoli comici in streaming,,,"[""Attivita culturali e ricreative"", ""accettato""]",,,"{""chi"": ""Il Cenacolo dei Farfalloni"", ""comune"": ""Ancona"", ""contatti"": """", ""descrizione"": ""Spettacoli comici in streaming"", ""destinatari"": ""tutti"", ""fonte"": ""https://www.facebook.com/farfalloni.teatro/posts/2921734271223850?__xts__[0]=68.ARAg_88NOH-Bmb8r9nv2Li9EdHBC39vaHQQ0ZLmW4dZHVAFk4Nd_knzkD7a7iAeRz9Md4GIrLRsq-4ZK46kI6-yVSG9QdUbGTtn4EkdGsVTqLSq9csqJNGPCF4A3l-5rRf0nURCPM7aR5BW2QtVNjTxxXhIdNdZEpr9nLziOVQityOLvHnJcE8Tf4v3JQ28A7TLIXm2dtxPAZ8VNsoBBQWtHISxI-l5_yKfMEnVkGjTa5faHBJNw_OROM6yvVWQspOBxa9GC_HqZxcMjLKGkIWHw88WJoZ64mVzXytHNbbFVBL-9KZZtzFsDfj4Ias_7jk_Hlyffu-z1AYFVNfBbuwxhftMfGC6eP6_j-TgmPwi9rmkqm11XgEqk3k6dJVBLqT2sMsyeA1udFttqoW9Mq5qZVe7cVKH5WKSNL4pEM_vweVT8d1YspFXwT6th_KRWpvky_sbYYYG4o7u7yIe0wZDu4QE1jvJL1ld_S-X9YnkwxN95dm2mleoYRHVx&__tn__=K-R"", ""provincia"": ""Ancona"", ""regione"": ""Marche"", ""tag"": ""Attivit\u00e0 culturali e ricreative""}","<pre><yamldata>chi: Il Cenacolo dei Farfalloni
 comune: Ancona
 contatti: ''
