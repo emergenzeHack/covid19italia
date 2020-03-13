@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Risorse
-permalink: /risorse-disponibili/
+title: Donazioni
+permalink: /donazioni/
 ---
 <div class="panel-group">
-{% assign filteredissues = site.data.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'Donazioni'"%}
+{% assign filteredissues = site.data.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'Donazioni beni/strumenti'"%}
 {% for member in filteredissues %}
 <div class="panel-body">
 <a href="/issues/{{ member.number | datapage_url: '.' }}" class="list-group-item">
