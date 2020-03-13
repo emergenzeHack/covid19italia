@@ -11,8 +11,9 @@ Condividiamo informazioni e segnalazioni sul COVID19
 ### Social
 
 - Twitter: https://twitter.com/ItaliaCovid19
-- Facebook: https://www.facebook.com/covid19italia.info
+- Facebook: https://www.facebook.com/covid19italia.help
 - Instagram: https://www.instagram.com/covid19italia.info
+- Telegram: https://t.me/COVID19I
 
 ### GitHub
 
