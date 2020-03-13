@@ -1,4 +1,54 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/334,580482346,2020-03-13 09:44:42,2020-03-13 09:40:54,Servizi per donne che vivono in situazioni di violenza #Milano,,,"[""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Nonunadimeno #Milano"", ""Descrizione"": ""Donne che vivono in situazioni di violenza possono usifruire dei servizi:\n\n- Apertura del centro antiviolenza con accoglienza telefonica\n- Gestione delle situazioni di emergenza"", ""Destinatari"": ""Donne che vivono in situazioni di violenza #Milano"", ""Link"": ""https://www.facebook.com/nonunadimenomilano/"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Servizi per donne che vivono in situazioni di violenza #Milano""}","<pre><yamldata>
+Da_chi_offerta: 'Nonunadimeno #Milano'
+Descrizione: 'Donne che vivono in situazioni di violenza possono usifruire dei servizi:
+
+
+  - Apertura del centro antiviolenza con accoglienza telefonica
+
+  - Gestione delle situazioni di emergenza'
+Destinatari: 'Donne che vivono in situazioni di violenza #Milano'
+Link: https://www.facebook.com/nonunadimenomilano/
+Natura: solidale
+Tipo_di_soggetto: privato
+Titolo: 'Servizi per donne che vivono in situazioni di violenza #Milano'
+
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/329,580430383,2020-03-13 09:44:59,2020-03-13 07:52:18,Assistenza agli acquisti #SanVincenzo (LI),,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Associazioni di volontariato"", ""Descrizione"": ""Comune di San Vincenzo (Livorno)\n\nSi comunica che, a partire da Giovedi 12 Marzo,\n\ngrazie al prezioso contributo delle associazioni di volontariato del nostro territorio, \u00e8 attivo nel comune di San Vincenzo\n\nil servizio di acquisto e consegna a domicilio di generi alimentari e di prima necessit\u00e0.\n\nIl servizio \u00e8 riservato alle persone di oltre 70 anni o gravemente impedite negli spostamenti.\nI numeri da contattare sono:\n\ndal lunedi al venerdi in orario di apertura degli uffici comunali contattare i numeri\n\n0565707206 oppure il numero 0565707243 .\n\nIl sabato e la domenica, dalle 9 alle 19, contattare il numero 3296505882."", ""Destinatari"": ""Anziani e bisognosi"", ""Link"": ""https://www.comune.san-vincenzo.li.it/archivio6_notizie-ed-eventi_0_1754.html"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Assistenza agli acquisti""}","<pre><yamldata>
+Da_chi_offerta: Associazioni di volontariato
+Descrizione: 'Comune di San Vincenzo (Livorno)
+
+
+  Si comunica che, a partire da Giovedi 12 Marzo,
+
+
+  grazie al prezioso contributo delle associazioni di volontariato del nostro territorio,
+  è attivo nel comune di San Vincenzo
+
+
+  il servizio di acquisto e consegna a domicilio di generi alimentari e di prima necessità.
+
+
+  Il servizio è riservato alle persone di oltre 70 anni o gravemente impedite negli
+  spostamenti.
+
+  I numeri da contattare sono:
+
+
+  dal lunedi al venerdi in orario di apertura degli uffici comunali contattare i numeri
+
+
+  0565707206 oppure il numero 0565707243 .
+
+
+  Il sabato e la domenica, dalle 9 alle 19, contattare il numero 3296505882.'
+Destinatari: Anziani e bisognosi
+Link: https://www.comune.san-vincenzo.li.it/archivio6_notizie-ed-eventi_0_1754.html
+Natura: solidale
+Tipo_di_soggetto: privato
+Titolo: Assistenza agli acquisti
+
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/327,580274869,2020-03-13 09:28:38,2020-03-12 23:16:08,Attenzione ai falsi operatori Croce Rossa #Castelvetrano (TP),,,"[""Notizia"", ""accettato"", ""form""]",,,"{""Cosa"": ""Attenzione truffe falsi operatori croce rossa"", ""Descrizione"": ""In localit\u00e0 siciliana si presentano come falsi operatori della croce Rossa.\nRicordiamo che operatori della croce Rossa intervengono solo se viene richiesto il supporto ai numeri 800065510 e 3714130567"", ""Link"": ""https://www.castelvetranoselinunte.it/avviso-attenzione-ai-falsi-operatori-della-croce-rossa/133554/#testoarticolo""}","<pre><yamldata>
 Cosa: Attenzione truffe falsi operatori croce rossa
 Descrizione: 'In località siciliana si presentano come falsi operatori della croce
@@ -266,7 +316,19 @@ IBAN: IT43A0760102600001049330432
 Intestazione: REGIONE MARCHE
 
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/296,580052407,2020-03-13 09:39:55,2020-03-12 16:15:50,Aiuto per chi avesse problemi a fare la spesa #Montevarchi,,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Associazione Bakonghe"", ""Descrizione"": ""Chiamare il numero 3334463653 per attivare il servizio gestito dai volontari di Montevarchi."", ""Destinatari"": ""Prsone anziane e malati cronici"", ""Link"": ""http://www.bakonghe.it/news.asp?s=9&n=90"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Aiuto per chi avesse problemi a fare la spesa""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/297,580055450,2020-03-13 09:43:10,2020-03-12 16:20:40,Servizi educativi in #Valdarno #Cavriglia (AR),,,"[""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Associazione ConKarma"", ""Descrizione"": ""Per informazioni e per richiedere il supporto educativo dell\u2019Associazione \u00e8 possibile telefonare al 3311380711 o scrivere a conkarma@conkarma.it.\n\nPost pubblicato 5 marzo."", ""Destinatari"": ""Famiglie Valdarno"", ""Link"": ""https://www.facebook.com/notes/conkarma/coronavirus-e-scuole-chiuse-conkarma-potenzia-il-servizio-di-babysitting/3060090207348793/"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Servizi educativi in #Valdarno""}","<pre><yamldata>
+Da_chi_offerta: Associazione ConKarma
+Descrizione: ""Per informazioni e per richiedere il supporto educativo dell\u2019Associazione\
+  \ \xE8 possibile telefonare al 3311380711 o scrivere a conkarma@conkarma.it.\n\n\
+  Post pubblicato 5 marzo.""
+Destinatari: Famiglie Valdarno
+Link: https://www.facebook.com/notes/conkarma/coronavirus-e-scuole-chiuse-conkarma-potenzia-il-servizio-di-babysitting/3060090207348793/
+Natura: solidale
+Tipo_di_soggetto: privato
+Titolo: 'Servizi educativi in #Valdarno'
+
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/296,580052407,2020-03-13 09:40:08,2020-03-12 16:15:50,Aiuto per chi avesse problemi a fare la spesa #Montevarchi (AR),,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Associazione Bakonghe"", ""Descrizione"": ""Chiamare il numero 3334463653 per attivare il servizio gestito dai volontari di Montevarchi."", ""Destinatari"": ""Prsone anziane e malati cronici"", ""Link"": ""http://www.bakonghe.it/news.asp?s=9&n=90"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Aiuto per chi avesse problemi a fare la spesa""}","<pre><yamldata>
 Da_chi_offerta: Associazione Bakonghe
 Descrizione: Chiamare il numero 3334463653 per attivare il servizio gestito dai volontari
   di Montevarchi.
