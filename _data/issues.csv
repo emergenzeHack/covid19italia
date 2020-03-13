@@ -875,6 +875,16 @@ Posizione: 47.989922 11.953125 0 0
 Tipo_di_soggetto: privato
 
 </yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/244,579868228,2020-03-13 10:15:00,2020-03-12 11:18:59,Chiusura Notturna dei punti di assistenza territor,,,"[""Notizia"", ""accettato"", ""form""]",,,"{""Cosa"": ""Chiusura Notturna dei punti di assistenza territoriale di Cori, Cisterna, Priverno, Sabaudia, Gaeta e Minturno Ordinanza ASL Latina"", ""Descrizione"": ""I punti di assistenza territoriale di Cori, Cisterna, Priverno, Sabaudia, Gaeta e Minturno resteranno aperti dalle 8 alle 20 fino al 6 aprile. Lo ha stabilito una nuova ordinanza del direttore generale della Asl, Giorgio Casati, che aveva gi\u00e0 disposto la chiusura notturna precedentemente fino al 22 marzo."", ""Link"": ""https://www.ausl.latina.it/attachments/category/14/Ordinanza%20DG%20del%2011%20Marzo%202020.pdf""}","<pre><yamldata>
+Cosa: Chiusura Notturna dei punti di assistenza territoriale di Cori, Cisterna, Priverno,
+  Sabaudia, Gaeta e Minturno Ordinanza ASL Latina
+Descrizione: ""I punti di assistenza territoriale di Cori, Cisterna, Priverno, Sabaudia,\
+  \ Gaeta e Minturno resteranno aperti dalle 8 alle 20 fino al 6 aprile. Lo ha stabilito\
+  \ una nuova ordinanza del direttore generale della Asl, Giorgio Casati, che aveva\
+  \ gi\xE0 disposto la chiusura notturna precedentemente fino al 22 marzo.""
+Link: https://www.ausl.latina.it/attachments/category/14/Ordinanza%20DG%20del%2011%20Marzo%202020.pdf
+
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/236,579857918,2020-03-12 18:59:27,2020-03-12 11:00:36,Linea telefonica per lavoratori in difficoltà,,,"[""Sostegno lavoro e imprese"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Potere al popolo"", ""Descrizione"": "" Come puntualmente accade in occasione di ogni evento emergenziale, anche nel caso dell'odierno coronavirus spuntano gli sciacalli e i profittatori. In questi giorni fioccano da ogni dove le segnalazioni pi\u00f9 disparate: pressioni per andare in ferie forzate, lavoratori che non sanno come regolarsi rispetto alle richieste di non venire a lavoro (frequentemente con sospensione dello stipendio), dipendenti licenziati di punto in bianco, deregolamentazione nei settori dove \u00e8 possibile l'utilizzo del lavoro a distanza, mancanza di sistemi adeguati per la tutela della salute dei dipendenti, e si potrebbero fare mille altri esempi.\n\n Hai un dubbio? Sei stato licenziato a causa del corona-virus? Non sai se quello che il tuo datore di lavoro sta pretendendo in questo periodo \u00e8 legale? Vuoi segnalare la situazione del tuo luogo di lavoro?\nChiamaci, chiedi, segnala:\n\ndal Luned\u00ec al Venerd\u00ec\ndalle 11:30 alle 13:00 al 3283965965\ndalle 13,00 alle 15,00 al 3208719037\ndalle ore 18:00 alle 19:30 al 3519675727\ndalle 19:00 alle 20:30 al 3272979156"", ""Destinatari"": ""Lavoratori che hanno bisogno di consulenza"", ""Link"": ""https://poterealpopolo.org/il-coronavirus-non-contagi-i-diritti-dei-lavoratori-parte-la-nostra-assistenza-telefonica/"", ""Natura"": ""sostegno-lavor"", ""Titolo"": ""Linea telefonica per lavoratori in difficolt\u00e0""}","<pre><yamldata>
 Da_chi_offerta: Potere al popolo
 Descrizione: "" Come puntualmente accade in occasione di ogni evento\
@@ -1891,7 +1901,7 @@ provincia: Milano
 regione: Lombardia
 tag: Servizi e iniziative solidali pubbliche
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/110,578925935,2020-03-12 19:43:02,2020-03-10 23:53:24,Gruppo Facebook iniziative locali di solidarietà #Bologna,,,"[""Servizi e iniziative solidali private"", ""accettato""]",,,"{""chi"": ""Ospedale Bergamo"", ""comune"": ""Bologna"", ""contatti"": """", ""descrizione"": ""Gruppo Facebook per raccogliere iniziative locali di solidarieta\u00b4"", ""destinatari"": ""residenti a Bologna e provincia"", ""fonte"": ""https://www.facebook.com/groups/2260243707603221/"", ""provincia"": ""Bologna"", ""regione"": ""Emilia-Romagna"", ""tag"": ""Servizi e iniziative solidali private""}","<pre><yamldata>chi: Ospedale Bergamo
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/110,578925935,2020-03-13 10:12:47,2020-03-10 23:53:24,Gruppo Facebook iniziative locali di solidarietà #Bologna,,,"[""Servizi e iniziative solidali private"", ""accettato""]",,,"{""chi"": ""Ospedale Bologna"", ""comune"": ""Bologna"", ""contatti"": """", ""descrizione"": ""Gruppo Facebook per raccogliere iniziative locali di solidarieta\u00b4"", ""destinatari"": ""residenti a Bologna e provincia"", ""fonte"": ""https://www.facebook.com/groups/2260243707603221/"", ""provincia"": ""Bologna"", ""regione"": ""Emilia-Romagna"", ""tag"": ""Servizi e iniziative solidali private""}","<pre><yamldata>chi: Ospedale Bologna
 comune: Bologna
 contatti: ''
 descrizione: ""Gruppo Facebook per raccogliere iniziative locali di solidarieta\xB4""
