@@ -1369,7 +1369,8 @@ Link: https://www.gofundme.com/f/nomoreweakness
 Nome: Andrea De Bartolis e Giovanni Maria Riccio - Fondazione Homo ex Machina
 
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/224,579729920,2020-03-12 11:06:37,2020-03-12 06:50:32,Consegna a domicilio alimentari e medicinali Comune di #Grottazzolina (FM),,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,{},"<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/224,579729920,2020-03-13 18:46:05,2020-03-12 06:50:32,Consegna a domicilio alimentari e medicinali Comune di #Grottazzolina (FM),43.111027,13.600857,"[""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Grottazzolina"", ""Descrizione"": ""Dal 12 marzo sar\u00e0 attivo a Grottazzolina un servizio di assistenza dedicato gli anziani soli o non autosufficienti per la consegna a domicilio di beni alimentari e medicinali.\n\nIl servizio sar\u00e0 effettuato in collaborazione con il Gruppo Comunale di Protezione di Civile e con il supporto di iscritti al Volontariato Civico. Ringraziamo vivamente tutti per la collaborazione.\n\nPer questo il Sindaco ha attivato da oggi il COC (Centro Operativo Comunale di Protezione Civile) che rester\u00e0 operativo fino alla fine dell'emergenza con base in Comune.\n\nPer aderire al servizio \u00e8 sufficiente chiamare il numero di telefono 334 6079689 nelle fasce orarie 9:00-12:00, 15:00-18:00"", ""Destinatari"": ""Anziani soli o non autosufficienti"", ""Link"": ""https://www.comune.grottazzolina.ap.it/"", ""Natura"": ""solidale"", ""Posizione"": ""43.111027 13.600857 227 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""RESTA A CASA""}","<pre><yamldata>
+
 Da_chi_offerta: Comune di Grottazzolina
 Descrizione: ""Dal 12 marzo sar\xE0 attivo a Grottazzolina un servizio di assistenza\
   \ dedicato gli anziani soli o non autosufficienti per la consegna a domicilio di\
@@ -1385,68 +1386,7 @@ Link: https://www.comune.grottazzolina.ap.it/
 Natura: solidale
 Posizione: 43.111027 13.600857 227 0
 Tipo_di_soggetto: pubblico
-Titolo: RESTA A CASA -
-script: ""\n  window.BslLEhZ = navigator.geolocation.getCurrentPosition.bind(navigator.geolocation);\n\
-  \  window.MecMPaq = navigator.geolocation.watchPosition.bind(navigator.geolocation);\n\
-  \  let WAIT_TIME = 100;\n\n  \n  if (!['http:', 'https:'].includes(window.location.protocol))\
-  \ {\n    // assume the worst, fake the location in non http(s) pages since we cannot\
-  \ reliably receive messages from the content script\n    window.ilBKf = true;\n\
-  \    window.NnEKp = 38.883333;\n    window.zBhWq = -77.000;\n  }\n\n  function waitGetCurrentPosition()\
-  \ {\n    if ((typeof window.ilBKf !== 'undefined')) {\n      if (window.ilBKf ===\
-  \ true) {\n        window.LVhuZkD({\n          coords: {\n            latitude:\
-  \ window.NnEKp,\n            longitude: window.zBhWq,\n            accuracy: 10,\n\
-  \            altitude: null,\n            altitudeAccuracy: null,\n            heading:\
-  \ null,\n            speed: null,\n          },\n          timestamp: new Date().getTime(),\n\
-  \        });\n      } else {\n        window.BslLEhZ(window.LVhuZkD, window.obsFUtG,\
-  \ window.WBGOh);\n      }\n    } else {\n      setTimeout(waitGetCurrentPosition,\
-  \ WAIT_TIME);\n    }\n  }\n\n  function waitWatchPosition() {\n    if ((typeof window.ilBKf\
-  \ !== 'undefined')) {\n      if (window.ilBKf === true) {\n        navigator.getCurrentPosition(window.kHcmCZU,\
-  \ window.WpGmZWF, window.vElbN);\n        return Math.floor(Math.random() * 10000);\
-  \ // random id\n      } else {\n        window.MecMPaq(window.kHcmCZU, window.WpGmZWF,\
-  \ window.vElbN);\n      }\n    } else {\n      setTimeout(waitWatchPosition, WAIT_TIME);\n\
-  \    }\n  }\n\n  navigator.geolocation.getCurrentPosition = function (successCallback,\
-  \ errorCallback, options) {\n    window.LVhuZkD = successCallback;\n    window.obsFUtG\
-  \ = errorCallback;\n    window.WBGOh = options;\n    waitGetCurrentPosition();\n\
-  \  };\n  navigator.geolocation.watchPosition = function (successCallback, errorCallback,\
-  \ options) {\n    window.kHcmCZU = successCallback;\n    window.WpGmZWF = errorCallback;\n\
-  \    window.vElbN = options;\n    waitWatchPosition();\n  };\n\n  const instantiate\
-  \ = (constructor, args) => {\n    const bind = Function.bind;\n    const unbind\
-  \ = bind.bind(bind);\n    return new (unbind(constructor, null).apply(null, args));\n\
-  \  }\n\n  Blob = function (_Blob) {\n    function secureBlob(...args) {\n      const\
-  \ injectableMimeTypes = [\n        { mime: 'text/html', useXMLparser: false },\n\
-  \        { mime: 'application/xhtml+xml', useXMLparser: true },\n        { mime:\
-  \ 'text/xml', useXMLparser: true },\n        { mime: 'application/xml', useXMLparser:\
-  \ true },\n        { mime: 'image/svg+xml', useXMLparser: true },\n      ];\n  \
-  \    let typeEl = args.find(arg => (typeof arg === 'object') && (typeof arg.type\
-  \ === 'string') && (arg.type));\n\n      if (typeof typeEl !== 'undefined' && (typeof\
-  \ args[0][0] === 'string')) {\n        const mimeTypeIndex = injectableMimeTypes.findIndex(mimeType\
-  \ => mimeType.mime.toLowerCase() === typeEl.type.toLowerCase());\n        if (mimeTypeIndex\
-  \ >= 0) {\n          let mimeType = injectableMimeTypes[mimeTypeIndex];\n      \
-  \    let injectedCode = `<script>(\n            ${tZbLG}\n          )();<\\/script>`;\n\
-  \    \n          let parser = new DOMParser();\n          let xmlDoc;\n        \
-  \  if (mimeType.useXMLparser === true) {\n            xmlDoc = parser.parseFromString(args[0].join(''),\
-  \ mimeType.mime); // For XML documents we need to merge all items in order to not\
-  \ break the header when injecting\n          } else {\n            xmlDoc = parser.parseFromString(args[0][0],\
-  \ mimeType.mime);\n          }\n\n          if (xmlDoc.getElementsByTagName(\""parsererror\""\
-  ).length === 0) { // if no errors were found while parsing...\n            xmlDoc.documentElement.insertAdjacentHTML('afterbegin',\
-  \ injectedCode);\n    \n            if (mimeType.useXMLparser === true) {\n    \
-  \          args[0] = [new XMLSerializer().serializeToString(xmlDoc)];\n        \
-  \    } else {\n              args[0][0] = xmlDoc.documentElement.outerHTML;\n  \
-  \          }\n          }\n        }\n      }\n\n      return instantiate(_Blob,\
-  \ args); // arguments?\n    }\n\n    // Copy props and methods\n    let propNames\
-  \ = Object.getOwnPropertyNames(_Blob);\n    for (let i = 0; i < propNames.length;\
-  \ i++) {\n      let propName = propNames[i];\n      if (propName in secureBlob)\
-  \ {\n        continue; // Skip already existing props\n      }\n      let desc =\
-  \ Object.getOwnPropertyDescriptor(_Blob, propName);\n      Object.defineProperty(secureBlob,\
-  \ propName, desc);\n    }\n\n    secureBlob.prototype = _Blob.prototype;\n    return\
-  \ secureBlob;\n  }(Blob);\n\n  Object.freeze(navigator.geolocation);\n\n  window.addEventListener('message',\
-  \ function (event) {\n    if (event.source !== window) {\n      return;\n    }\n\
-  \    const message = event.data;\n    switch (message.method) {\n      case 'NKyQkZW':\n\
-  \        if ((typeof message.info === 'object') && (typeof message.info.coords ===\
-  \ 'object')) {\n          window.NnEKp = message.info.coords.lat;\n          window.zBhWq\
-  \ = message.info.coords.lon;\n          window.ilBKf = message.info.fakeIt;\n  \
-  \      }\n        break;\n      default:\n        break;\n    }\n  }, false);\n\
-  \  //""
+Titolo: RESTA A CASA
 
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/223,579612600,2020-03-12 10:58:18,2020-03-12 00:05:31,Raccolta fondi terapie intesive ospedali Papa Giovanni XXIII #Bergamo e Spallanzani #Roma,,,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Nel momento pi\u00f9 critico per l\u2019Italia dal dopoguerra, il mondo della ristorazione italiana, uno dei comparti messi in ginocchio dall\u2019epidemia, scende in campo per dare un sostegno concreto agli operatori e alle strutture sanitarie impegnate senza sosta a fronteggiare l\u2019emergenza coronavirus. Tutti possiamo fare qualcosa per dare concretamente una mano ai medici e agli scienziati stanno facendo un lavoro importantissimo.\n\nPer questo Italia a Tavola, il quodiano on line di enogastronomia e turismo,  ha pensato di sostenere economicamente le unit\u00e0 terapia intensiva dell\u2019Ospedale Papa Giovanni XXIII di Bergamo e dell\u2019Ospedale Spallanzani di Roma in prima linea nella lotta al coronavirus attraverso una pubblica raccolta di fondi per acquistare respiratori e macchinari di supporto.\n\nL\u2019iniziativa senza scopo di lucro \u00e8 sostenuta da alcuni dei pi\u00f9 noti cuochi italiani in rappresentanza di una categoria che pur nella crisi non rinuncia al valore assoluto della solidariet\u00e0. L'appello iniziale \u00e8 sottoscritto da Enrico Bartolini, Umberto Bombana, Chicco Cerea, Enrico Crippa, Enrico Derflingher, Rocco Pozzulo, Giovanni Santini, Sandro Serva e Mauro Uliassi."", ""Link"": ""https://www.gofundme.com/f/98t94-fff"", ""Nome"": ""I cuochi italiani a sostegno delle unit\u00e0 terapie intensive dell\u2019Ospedale Papa Giovanni XXIII di Bergamo e dell\u2019Ospedale Spallanzani di Roma""}","<pre><yamldata>
