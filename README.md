@@ -4,9 +4,21 @@
 
 Condividiamo informazioni e segnalazioni sul COVID19
 
-Leggi come usare il repository nel nostro [WIKI](https://github.com/emergenzeHack/covid19italia/wiki)
+### [Contribuisci](https://www.covid19italia.info/2020-03-10-sei-uno-sviluppatore-se-vuoi-aiutaci/)
 
 ## Link
+
+### Social
+
+- Twitter: https://twitter.com/ItaliaCovid19
+- Facebook: https://www.facebook.com/covid19italia.info
+- Instagram: https://www.instagram.com/covid19italia.info
+
+### GitHub
+
+- [Segnalazioni](https://github.com/emergenzeHack/covid19italia_segnalazioni/issues)
+- [Repository principale](https://github.com/emergenzeHack/covid19italia)
+- [Gestione dei form e generazione delle segnalazioni](https://github.com/emergenzeHack/covid19italia_form)
 
 ### E-mail
 
@@ -14,18 +26,6 @@ Leggi come usare il repository nel nostro [WIKI](https://github.com/emergenzeHac
 
 ### Siti web
 
-- https://www.covid19italia.info (ufficiale)
-- https://www.covid19italia.help
-
-- https://covid19italia.netlify.com/ (usato da Netlify)
-
-### Repository GitHub
-
-- https://github.com/emergenzeHack/covid19italia (principale)
-- https://github.com/emergenzeHack/covid19italia_segnalazioni (per gestire le segnalazioni)
-
-### Social
-
-- Twitter: https://twitter.com/ItaliaCovid19
-- Facebook: https://www.facebook.com/covid19italia.info
-- Instagram: https://www.instagram.com/covid19italia.info
+- [covid19italia.info](https://www.covid19italia.info)
+- [covid19italia.help](https://www.covid19italia.help)
+- [Netlify](https://covid19italia.netlify.com/)
