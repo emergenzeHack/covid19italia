@@ -4,7 +4,6 @@ title: Covid19Italia Help
 subtitle: Un progetto per condividere informazioni e attivarsi a supporto dell'emergenza COVID19
 ---
 
-<center>
 <div class="homepage-categories">
 {% assign categories_without_map = site.data.logos | where: "map", false %}
 {% for category in categories_without_map %}
@@ -23,7 +22,6 @@ subtitle: Un progetto per condividere informazioni e attivarsi a supporto dell'e
   </a>
 {% endfor %}
 </div>
-</center>
 
 <hr class="col-lg-12">
 
@@ -57,4 +55,3 @@ subtitle: Un progetto per condividere informazioni e attivarsi a supporto dell'e
   var searchTemplate="<div class='form-group'><div class='input-group'><div class='input-group-addon'>Cerca:</div><input type='text' class='form-control' placeholder='(cerca qui...)'></div></div>"
   $("div.sieve").sieve({ itemSelector: ".panel-info" });
 </script>
-<style> div.form-inline.text-center {padding-bottom: 8rem;} .itemTitle a {font-weight: bold; color: #337ab7 !important; text-decoration: none;} </style>
