@@ -16,8 +16,14 @@ permalink: /issues/
   <span class="col-xs-12 col-sm-6">
 	  <a href="#raccolte-fondi" class="btn btn-warning btn-lg col-xs-12 mb-15" role="button">Raccolte fondi</a>
 	</span>
+   <span class="col-xs-12 col-sm-6">
+	  <a href="#notizie" class="btn btn-warning btn-lg col-xs-12 mb-15" role="button">Notizie</a>
+	</span>
   <span class="col-xs-12 col-sm-6">
     <a href="#servizi-e-iniziative-solidali" class="btn btn-success btn-lg col-xs-12 mb-15" role="button">Servizi e iniziative solidali</a>
+	</span>
+  <span class="col-xs-12 col-sm-6">
+    <a href="#iniziative-culturali-e-ricreative" class="btn btn-success btn-lg col-xs-12 mb-15" role="button">Iniziative culturali e ricreative</a>
 	</span>
   <span class="col-xs-12 col-sm-6">
     <a href="#consegne-e-commissioni" class="btn btn-success btn-lg col-xs-12 mb-15" role="button">Consegne e commissioni</a>
@@ -56,9 +62,55 @@ permalink: /issues/
 </div>
 
 ---
+# Notizie
+<div class="panel-group">
+{% assign filteredissues = site.data.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'Notizia'" %}
+{% for member in filteredissues %}
+<div class="panel-body">
+<div class="list-group-item">
+<a href="{{site.url}}/issues/{{member.number}}"><h4 class="list-group-item-heading">{{member.title}}</h4></a>
+<p class="list-group-item-text">{{member.issue.data.descrizione|markdownify}}</p>
+<dl class="row">
+{% for item in member.issue.data %}
+{% if item[1] != blank %}
+<dt class="col-sm-3">{{item[0] | replace: "_", " "}}</dt>
+<dd class="col-sm-9">{{item[1] | newline_to_br | auto_link}}</dd>
+{% endif %}
+{% endfor %}
+</dl>
+</div>
+{% include social-share-issue.html %}
+</div>
+{% endfor %}
+</div>
+
+---
 # Servizi e iniziative solidali
 <div class="panel-group">
 {% assign filteredissues = site.data.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'Servizi e iniziative solidali private' or member.issue.labels contains 'Servizi e iniziative solidali pubbliche'"%}
+{% for member in filteredissues %}
+<div class="panel-body">
+<div class="list-group-item">
+<a href="{{site.url}}/issues/{{member.number}}"><h4 class="list-group-item-heading">{{member.title}}</h4></a>
+<p class="list-group-item-text">{{member.issue.data.descrizione|markdownify}}</p>
+<dl class="row">
+{% for item in member.issue.data %}
+{% if item[1] != blank %}
+<dt class="col-sm-3">{{item[0] | replace: "_", " "}}</dt>
+<dd class="col-sm-9">{{item[1] | newline_to_br | auto_link}}</dd>
+{% endif %}
+{% endfor %}
+</dl>
+</div>
+{% include social-share-issue.html %}
+</div>
+{% endfor %}
+</div>
+
+---
+# Iniziative culturali e ricreative
+<div class="panel-group">
+{% assign filteredissues = site.data.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'Attivita culturali e ricreative'" %}
 {% for member in filteredissues %}
 <div class="panel-body">
 <div class="list-group-item">
