@@ -103,15 +103,8 @@ for issue in issues:
     except:
         pass
 
-    if data.has_key("latitude"):
-        lat=data['latitude']
-    elif data.has_key("lat"):
-        lat=data['lat']
-
-    if data.has_key("longitude"):
-        lon=data['longitude']
-    elif data.has_key("lon"):
-        lon=data['lon']
+    if data.has_key("Posizione"):
+        (lat,lon) = data["Posizione"].split(" ")[::2]
 
     if data.has_key("immagine"):
         image=data['immagine']
