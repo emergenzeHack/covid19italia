@@ -2461,7 +2461,7 @@ provincia: Cosenza
 regione: Calabria
 tag: Raccolta fondi
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/76,578924916,2020-03-11 15:36:43,2020-03-10 23:49:56,Raccolta fondi per Ospedale Sant’Orsola-Malpighi di #Bologna,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Ospedale Sant\u00b4Orsola"", ""comune"": ""Bologna"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per Ospedale Sant\u00d3rsola-Malpighi"", ""destinatari"": ""Ospedale Sant\u00b4Orsola"", ""fonte"": ""https://www.aosp.bo.it/content/fai-una-donazione?fbclid=IwAR2pTgWfhpFiOxEOTJEbbXWSisYdNrgoK9nOAHBImYSPmR1qG3iADLltu3s"", ""provincia"": ""Bologna"", ""regione"": ""Emilia Romagna"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: ""Ospedale Sant\xB4Orsola""
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/76,578924916,2020-03-13 15:49:07,2020-03-10 23:49:56,Raccolta fondi per Ospedale Sant’Orsola-Malpighi di #Bologna,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Ospedale Sant\u00b4Orsola"", ""comune"": ""Bologna"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per Ospedale Sant\u00d3rsola-Malpighi"", ""destinatari"": ""Ospedale Sant\u00b4Orsola"", ""fonte"": ""https://www.aosp.bo.it/content/fai-una-donazione?fbclid=IwAR2pTgWfhpFiOxEOTJEbbXWSisYdNrgoK9nOAHBImYSPmR1qG3iADLltu3s"", ""posizione"": ""44.4928075 11.3619239 0 0"", ""provincia"": ""Bologna"", ""regione"": ""Emilia Romagna"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: ""Ospedale Sant\xB4Orsola""
 comune: Bologna
 contatti: ''
 descrizione: ""Raccolta fondi per Ospedale Sant\xD3rsola-Malpighi""
@@ -2470,6 +2470,7 @@ fonte: https://www.aosp.bo.it/content/fai-una-donazione?fbclid=IwAR2pTgWfhpFiOxE
 provincia: Bologna
 regione: Emilia Romagna
 tag: Raccolta fondi
+posizione: 44.4928075 11.3619239 0 0
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/75,578924911,2020-03-11 16:44:28,2020-03-10 23:49:55,Raccolta fondi Save the Planet per acquisto presidi ospedalieri,,,"[""Raccolte fondi"", ""accettato""]",,,{},"<pre><yamldata>chi: Save The Planet Onlus
 comune: Italia
