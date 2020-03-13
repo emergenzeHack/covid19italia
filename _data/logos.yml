@@ -27,11 +27,11 @@
 #   logo: /img/icone/tci-solidali.png              #       SERVE ICONA NUOVA??
 #   map: false
 #   link: issues/#iniziative-culturali-e-ricreative
-- name: NOTIZIE
-  logo-alt: Notizie e informazioni utili.
-  logo: /img/icone/news2-tci.png
-  map: false
-  link: issues/#notizie
+#- name: NOTIZIE
+#  logo-alt: Notizie e informazioni utili.
+#  logo: /img/icone/news2-tci.png
+#  map: false
+#  link: issues/#notizie
 - name: TUTTE LE SEGNALAZIONI
   logo-alt: Archivio di tutte le segnalazioni.
   logo: /img/icone/05-segnalazioni.png
