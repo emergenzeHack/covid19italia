@@ -2148,7 +2148,7 @@ provincia: Milano
 regione: Lombardia
 tag: Consegne e commissioni
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/111,578925939,2020-03-11 13:37:34,2020-03-10 23:53:25,Supporto telefonico Comune di #Milano,,,"[""Contatti utili"", ""accettato""]",,,"{""chi"": ""Comune di Milano"", ""comune"": ""Milano"", ""contatti"": ""02-0202"", ""descrizione"": ""Supporto telefonico Comune di Milano"", ""destinatari"": ""Residenti, domiciliati Comune di Milano"", ""fonte"": """", ""provincia"": ""Milano"", ""regione"": ""Lombardia"", ""tag"": ""Servizi e iniziative solidali pubbliche""}","<pre><yamldata>chi: Comune di Milano
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/111,578925939,2020-03-13 17:50:30,2020-03-10 23:53:25,Supporto telefonico Comune di #Milano,,,"[""Contatti utili"", ""Servizi e iniziative solidali pubbliche"", ""accettato""]",,,"{""chi"": ""Comune di Milano"", ""comune"": ""Milano"", ""contatti"": ""02-0202"", ""descrizione"": ""Supporto telefonico Comune di Milano"", ""destinatari"": ""Residenti, domiciliati Comune di Milano"", ""fonte"": """", ""provincia"": ""Milano"", ""regione"": ""Lombardia"", ""tag"": ""Servizi e iniziative solidali pubbliche""}","<pre><yamldata>chi: Comune di Milano
 comune: Milano
 contatti: 02-0202
 descrizione: Supporto telefonico Comune di Milano
