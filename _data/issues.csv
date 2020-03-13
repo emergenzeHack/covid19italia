@@ -1,4 +1,14 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/343,580565243,2020-03-13 12:26:31,2020-03-13 12:18:03,Film in streaming gratuiti,,,"[""Attivita culturali e ricreative"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Fondazione cineteca di Milano"", ""Descrizione"": ""Fondazione cineteca di Milano ha reso gratuito il catalogo in streaming dei film. Basta registrarsi: Cinetecamilano.it/biblioteca."", ""Destinatari"": ""Tutte e tutti"", ""Link"": ""https://www.cinetecamilano.it/biblioteca?fbclid=IwAR1K8eMp_mNmxMIH3jIyzvIWrLPAEPPSbI-Wizod7UsK6b6rGUs1OOPjuOk"", ""Natura"": ""culturale-ricr"", ""Titolo"": ""Film in streaming gratuiti""}","<pre><yamldata>
+Da_chi_offerta: Fondazione cineteca di Milano
+Descrizione: 'Fondazione cineteca di Milano ha reso gratuito il catalogo in streaming
+  dei film. Basta registrarsi: Cinetecamilano.it/biblioteca.'
+Destinatari: Tutte e tutti
+Link: https://www.cinetecamilano.it/biblioteca?fbclid=IwAR1K8eMp_mNmxMIH3jIyzvIWrLPAEPPSbI-Wizod7UsK6b6rGUs1OOPjuOk
+Natura: culturale-ricr
+Titolo: Film in streaming gratuiti
+
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/342,580517319,2020-03-13 10:46:43,2020-03-13 10:44:24,Global Strike venerdì 13 marzo - Fridays For Future,,,"[""Notizia"", ""accettato"", ""form""]",,,"{""Cosa"": ""https://www.facebook.com/FridaysItalia/"", ""Descrizione"": ""un anno esatto dal primo 'Global Strike' purtroppo non sar\u00e0 possibile difendere il nostro futuro nelle piazze. Questo non significa smettere o arrendersi. Anzi! Alla crisi sanitaria noi rispondiamo essendo ancora pi\u00f9 attivi sui social e gridando ancora pi\u00f9 forte!\n\nCOME PARTECIPARE?\u2800\n Posta sul tuo profilo una foto mentre manifesti da casa con un cartellone sulla #CrisiClimatica!\u2800\n\u2800\nUsa gli hashtag #ClimateStrikeOnline e #DigitalStrike... E non dimenticarti di taggarci!\u2800\n\nSabato pubblicheremo una foto collage con tutti i partecipanti che ci avranno taggato!\u2800\n\nLEGGI IL COMUNICATO STAMPA DI FRIDAYS FOR FUTURE: https://www.fridaysforfutureitalia.it/sciopero-online-clima\u2026"", ""Link"": ""https://www.facebook.com/FridaysItalia/""}","<pre><yamldata>
 Cosa: https://www.facebook.com/FridaysItalia/
 Descrizione: ""un anno esatto dal primo 'Global Strike' purtroppo non sarà possibile\
