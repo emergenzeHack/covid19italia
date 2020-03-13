@@ -10,7 +10,9 @@ permalink: /fonti-istituzionali/
 
 <div class="text-center">
 {% for membergroup in filteredissuesbycategoria %}
-<a href="#{{membergroup.name}}" class="btn btn-success btn-lg" role="button">Categoria: {{membergroup.name}}</a>
+<span class="col-xs-12 col-sm-6">
+  <a href="#{{membergroup.name}}" class="btn btn-success btn-lg col-xs-12 mb-15" role="button">Categoria: {{membergroup.name}}</a>
+</span>
 {% endfor %}
 </div>
 
