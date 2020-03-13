@@ -26,7 +26,7 @@ description: Un progetto per condividere informazioni a supporto dell'emergenza 
 navbar-links:
   Segnala: "segnala/"
   Aggiornamenti:
-     - Notizie: "news/"
+     - News: "news/"
      - Fake News: "fake-news/"
   # Link Utili:
   #   - Iniziative solidali: "servizi_e_iniziative_solidali/"
