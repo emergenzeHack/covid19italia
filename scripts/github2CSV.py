@@ -15,23 +15,25 @@ try:
     config=ConfigParser.RawConfigParser()
     config.read('.github.cfg')
 
-    TOKEN=config.get('GitHub','TOKEN')
+    PASS=config.get('GitHub','TOKEN')
     USER=config.get('GitHub','USER')
     REPO_NAME=config.get('GitHub','REPO_NAME')
     ORG=config.get('GitHub','ORG')
 except:
-    TOKEN=os.environ.get('GITHUB_PASSWORD')
+    TOKEN=os.environ.get('GITHUB_TOKEN')
+    PASS=os.environ.get('GITHUB_PASSWORD')
     USER=os.environ.get('GITHUB_USERNAME')
     REPO_NAME='covid19italia_segnalazioni'
     ORG='emergenzeHack'
 
 if not TOKEN:
-    print "Need a TOKEN"
-    sys.exit(1)
+    if not PASS:
+        print "Need a TOKEN"
+        sys.exit(1)
 
-if not USER:
-    print "Need a USER"
-    sys.exit(1)
+    if not USER:
+        print "Need a USER"
+        sys.exit(1)
 
 if not REPO_NAME:
     print "Need a REPO_NAME"
@@ -60,7 +62,10 @@ csvwriter=csv.writer(wr,quotechar='"')
 
 lastTime = datetime.datetime(2000,1,1)
 
-g = Github(USER, TOKEN)
+if TOKEN:
+    g = Github(TOKEN)
+else:
+    g = Github(USER, PASS)
 org=g.get_organization(ORG)
 r = org.get_repo(REPO_NAME)
 
