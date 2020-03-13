@@ -1,4 +1,38 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/336,580492024,2020-03-13 09:59:18,2020-03-13 09:58:53,Consegna spesa a domicilio #Venezia,,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Venezia NON \u00e8 Disneyland"", ""Descrizione"": ""Le consegne avverrano nella fascia oraria 10-12 e le prenotazioni dovranno essere effettuate entro le 20 del giorno prima.\nInizialmente verranno fatte un massimo di 15 consegne al giorno.\nIl servizio di consegna \u00e8 gratuito.\n\nPotete richiedere la consegna o fornire la vostra disponibilit\u00e0 a collaborare ai numeri messi a disposizione: 346-4927533 oppure 348-1581273."", ""Destinatari"": ""Over 65 anni"", ""Link"": ""https://www.facebook.com/VeneziaNONDisneyland/posts/2711708585782990"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Consegna spesa a domicilio #Venezia""}","<pre><yamldata>
+Da_chi_offerta: Venezia NON è Disneyland
+Descrizione: 'Le consegne avverrano nella fascia oraria 10-12 e le prenotazioni dovranno
+  essere effettuate entro le 20 del giorno prima.
+
+  Inizialmente verranno fatte un massimo di 15 consegne al giorno.
+
+  Il servizio di consegna è gratuito.
+
+
+  Potete richiedere la consegna o fornire la vostra disponibilità a collaborare ai
+  numeri messi a disposizione: 346-4927533 oppure 348-1581273.'
+Destinatari: Over 65 anni
+Link: https://www.facebook.com/VeneziaNONDisneyland/posts/2711708585782990
+Natura: solidale
+Tipo_di_soggetto: privato
+Titolo: 'Consegna spesa a domicilio #Venezia'
+
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/335,580490256,2020-03-13 09:56:38,2020-03-13 09:55:32,Consigli e consegna libri a domicilio #Bari,,,"[""Consegne e commissioni"", ""Iniziative culturali e ricreative"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,{},"<pre><yamldata>
+Da_chi_offerta: Libreria Spina
+Descrizione: '""Vi selezioniamo un mix di 𝟭𝟬 𝗰𝗼𝗻𝘀𝗶𝗴𝗹𝗶 che ci sentiamo di proporvi dal
+  catalogo SPINE Bookstore, e se tra questi c''è il fumetto, l''albo o il libro che
+  vorresti acquistare ma non puoi recarti in libreria, ci organizziamo in chat e il
+  #Lunedì passiamo a consegnartelo (in città).
+
+  Che ne dici?""'
+Destinatari: Tutte e tutti
+Link: https://www.facebook.com/spinebookstore/posts/1392612424251841
+Natura: solidale
+Tipo_di_soggetto: privato
+Titolo: 'Consigli e consegna libri a domicilio #Bari'
+
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/334,580482346,2020-03-13 09:44:42,2020-03-13 09:40:54,Servizi per donne che vivono in situazioni di violenza #Milano,,,"[""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Nonunadimeno #Milano"", ""Descrizione"": ""Donne che vivono in situazioni di violenza possono usifruire dei servizi:\n\n- Apertura del centro antiviolenza con accoglienza telefonica\n- Gestione delle situazioni di emergenza"", ""Destinatari"": ""Donne che vivono in situazioni di violenza #Milano"", ""Link"": ""https://www.facebook.com/nonunadimenomilano/"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Servizi per donne che vivono in situazioni di violenza #Milano""}","<pre><yamldata>
 Da_chi_offerta: 'Nonunadimeno #Milano'
 Descrizione: 'Donne che vivono in situazioni di violenza possono usifruire dei servizi:
@@ -12,6 +46,18 @@ Link: https://www.facebook.com/nonunadimenomilano/
 Natura: solidale
 Tipo_di_soggetto: privato
 Titolo: 'Servizi per donne che vivono in situazioni di violenza #Milano'
+
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/333,580482218,2020-03-13 09:55:23,2020-03-13 09:40:39,Serve aiuto?,,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""comitati di quartiere"", ""Descrizione"": ""Iniziativa di cittadini e cittadine, comitati ed associazioni del Quartiere 1 (Centro storico) di Firenze: consegnano cibo e beni primari a chi ne fa richiesta."", ""Destinatari"": ""Consegna di cibo e generi di prima necessit\u00e0"", ""Link"": ""https://www.facebook.com/occupazione.viadelleone/photos/a.1509376516009950/2648267292120861/?type=3&theater"", ""Natura"": ""solidale"", ""Posizione"": ""43.768137 11.241812 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Serve aiuto?""}","<pre><yamldata>
+Da_chi_offerta: comitati di quartiere
+Descrizione: 'Iniziativa di cittadini e cittadine, comitati ed associazioni del Quartiere
+  1 (Centro storico) di Firenze: consegnano cibo e beni primari a chi ne fa richiesta.'
+Destinatari: Consegna di cibo e generi di prima necessità
+Link: https://www.facebook.com/occupazione.viadelleone/photos/a.1509376516009950/2648267292120861/?type=3&theater
+Natura: solidale
+Posizione: 43.768137 11.241812 0 0
+Tipo_di_soggetto: privato
+Titolo: Serve aiuto?
 
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/331,580442595,2020-03-13 09:49:50,2020-03-13 08:19:43,Abbonamento digital trimestrale gratuito,,,"[""Attivita culturali e ricreative"", ""Donazioni"", ""accettato"", ""form""]",,,"{""Cosa"": ""Abbonamento digital trimestrale gratuito"", ""Descrizione"": ""Altreconomia regala tre numeri (marzo, aprile e maggio) della rivista online a tutte le lettrici e i lettori che stanno responsabilmente facendo del proprio meglio per contrastare la diffusione del virus.\n\nIn ogni numero, troverete l\u2019economia come non la racconta nessuno: inchieste, approfondimenti, reportage e interviste per lettori \u201ccritici\u201d e indipendenti. Inoltre, il racconto delle \u201ceconomie solidali\u201d che rispettano i diritti, l\u2019ambiente e il benessere e un\u2019intera sezione dedicata a cultura, scienza e tempo libero.\n\nL\u2019attivazione dell\u2019abbonamento digitale \u2013 che permette di accedere al numero \u201cin corso\u201d e a oltre 20 arretrati \u2013 \u00e8 immediata."", ""Email"": ""abbonamenti@altreconomia.it"", ""Immagine"": ""AbbGratisTrimestrale-9_18_24.jpg"", ""Link"": ""https://altreconomia.it/prodotto/abbonamento-digitale-trimestrale-zona-rossa/"", ""Telefono"": ""3474229962""}","<pre><yamldata>
@@ -633,6 +679,26 @@ Link: https://www.raiplayradio.it/articoli/2018/01/Radio3--Ad-alta-voce--tutti-i
 Natura: culturale-ricr
 Titolo: Online tutti i romanzi letti nel programma Rai Ad Alta Voce
 meta/deprecatedID: uuid:758fbf87-5351-4099-8882-1259b8631d7e
+
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/273,579949150,2020-03-13 09:58:34,2020-03-12 13:44:39,Pasti garantiti  attraverso sacchetti da asporto #Bologna,,,"[""Informazioni utili"", ""Notizia"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Antoniano di Bologna"", ""Descrizione"": ""I volontari distribuiscono agli ospiti della mensa dei sacchetti alimentari d\u2019asporto.\nIniziativa valida fino a primi di marzo (verificare se in prosecuzione)."", ""Destinatari"": ""Persone in condizione di fragilit\u00e0"", ""Link"": ""https://www.emiliaromagnanews24.it/bologna-il-coronavirus-non-ferma-la-solidarieta-138405.html"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Pasti garantiti  attraverso sacchetti da asporto""}","<pre><yamldata>
+Da_chi_offerta: Antoniano di Bologna
+Descrizione: ""I volontari distribuiscono agli ospiti della mensa dei sacchetti alimentari\
+  \ d\u2019asporto.\nIniziativa valida fino a primi di marzo (verificare se in prosecuzione).""
+Destinatari: ""Persone in condizione di fragilit\xE0""
+Link: https://www.emiliaromagnanews24.it/bologna-il-coronavirus-non-ferma-la-solidarieta-138405.html
+Natura: solidale
+Tipo_di_soggetto: privato
+Titolo: Pasti garantiti  attraverso sacchetti da asporto
+
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/272,579945662,2020-03-13 09:59:34,2020-03-12 13:39:10,Empori della Solidarietà e quattro botteghe non si fermano - Caritas Ambrosiana #Milano,,,"[""Notizia"", ""accettato"", ""form""]",,,"{""Cosa"": ""Empori della Solidariet\u00e0 e quattro botteghe non si fermano - Caritas Ambrosiana"", ""Descrizione"": ""Notizia al 28 febbraio.\nIn questi giorni di emergenza, il mini-market solidale della Caritas Ambrosiana non ha mai chiuso. In base alle nuove indicazioni date dall\u2019organismo diocesano a seguito dell\u2019ordinanza regionale per il contenimento del contagio, il servizio si \u00e8 riorganizzato."", ""Link"": ""https://www.chiesadimilano.it/news/milano-lombardia/la-solidarieta-ai-tempi-del-coronavirus-309651.html""}","<pre><yamldata>
+Cosa: ""Empori della Solidariet\xE0 e quattro botteghe non si fermano - Caritas Ambrosiana""
+Descrizione: ""Notizia al 28 febbraio.\nIn questi giorni di emergenza, il mini-market\
+  \ solidale della Caritas Ambrosiana non ha mai chiuso. In base alle nuove indicazioni\
+  \ date dall\u2019organismo diocesano a seguito dell\u2019ordinanza regionale per\
+  \ il contenimento del contagio, il servizio si \xE8 riorganizzato.""
+Link: https://www.chiesadimilano.it/news/milano-lombardia/la-solidarieta-ai-tempi-del-coronavirus-309651.html
 
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/271,579943590,2020-03-12 14:04:39,2020-03-12 13:35:41,IlDecameron2.0: 1 novella ogni ora #iorestoacasaconBoccaccio,,,"[""Attivita culturali e ricreative"", ""accettato"", ""form""]",,,"{""Descrizione"": ""100 novelle - 10 giorni - 1 novella ogni ora.\n#iorestoacasaconboccaccio"", ""Destinatari"": ""Tutti"", ""Link"": ""https://www.facebook.com/Ildecameron20-109503367334525/"", ""Natura"": ""culturale-ricr"", ""Titolo"": ""IlDecameron2.0""}","<pre><yamldata>
