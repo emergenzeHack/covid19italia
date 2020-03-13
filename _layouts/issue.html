@@ -12,7 +12,7 @@ layout: base
     <dl class="row">
         {% for item in page.issue.data %}
         {% if item[1] != blank %}
-        <dt class="col-sm-3">{{item[0] | replace: "_", " "}}</dt>
+        <dt class="col-sm-3">{{item[0] | replace: "_", " " | capitalize_all}}</dt>
         <dd class="col-sm-9">
         {% if item[0] == "Telefono" %}
         <a href="tel:{{item[1] | remove: " "}}" target="_blank">{{item[1]}}</a>

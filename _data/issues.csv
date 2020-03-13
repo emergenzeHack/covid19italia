@@ -1,5 +1,5 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/350,580618164,2020-03-13 14:00:29,2020-03-13 13:57:59,Raccolta fondi per Ospedale Sacco #Milano,,,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""BIC_SWIFT"": ""BLOPIT22"", ""Causale"": ""sostegno economico per emergenza \u201cCovid-19\u201d"", ""Descrizione"": ""Raccolta fondi per l'Ospedale Sacco.\n Indicare:  nome,cognome e codice fiscale del benefattore"", ""IBAN"": ""IT 57 W 03111 01603 000000009130"", ""Informativa"": ""OK"", ""Intestazione"": ""ASST Fatebenefratelli Sacco"", ""Link"": ""https://www.asst-fbf-sacco.it/news/info/sostenere-lasst-fatebenefratelli-sacco-con-una-donazione"", ""Nome"": ""ASST Fatebenefratelli Sacco #Milano"", ""Posizione"": ""39.08252 -94.582306 0 0""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/350,580618164,2020-03-13 16:04:23,2020-03-13 13:57:59,Raccolta fondi per Ospedale Sacco #Milano,,,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""BIC_SWIFT"": ""BLOPIT22"", ""Causale"": ""sostegno economico per emergenza \u201cCovid-19\u201d"", ""Descrizione"": ""Raccolta fondi per l'Ospedale Sacco.\n Indicare:  nome,cognome e codice fiscale del benefattore"", ""IBAN"": ""IT 57 W 03111 01603 000000009130"", ""Informativa"": ""OK"", ""Intestazione"": ""ASST Fatebenefratelli Sacco"", ""Link"": ""https://www.asst-fbf-sacco.it/news/info/sostenere-lasst-fatebenefratelli-sacco-con-una-donazione"", ""Nome"": ""ASST Fatebenefratelli Sacco #Milano"", ""Posizione"": ""39.08252 -94.582306 0 0""}","<pre><yamldata>
 BIC_SWIFT: BLOPIT22
 Causale: sostegno economico per emergenza “Covid-19”
 Descrizione: ""Raccolta fondi per l'Ospedale Sacco.\n Indicare:  nome,cognome e codice\
@@ -235,7 +235,7 @@ Tipo_di_soggetto: privato
 Titolo: Numero verde rifugiati e richiedenti asilo
 
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/336,580492024,2020-03-13 09:59:18,2020-03-13 09:58:53,Consegna spesa a domicilio #Venezia,,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Venezia NON \u00e8 Disneyland"", ""Descrizione"": ""Le consegne avverrano nella fascia oraria 10-12 e le prenotazioni dovranno essere effettuate entro le 20 del giorno prima.\nInizialmente verranno fatte un massimo di 15 consegne al giorno.\nIl servizio di consegna \u00e8 gratuito.\n\nPotete richiedere la consegna o fornire la vostra disponibilit\u00e0 a collaborare ai numeri messi a disposizione: 346-4927533 oppure 348-1581273."", ""Destinatari"": ""Over 65 anni"", ""Link"": ""https://www.facebook.com/VeneziaNONDisneyland/posts/2711708585782990"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Consegna spesa a domicilio #Venezia""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/336,580492024,2020-03-13 15:23:22,2020-03-13 09:58:53,Consegna spesa a domicilio #Venezia,,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Venezia NON \u00e8 Disneyland"", ""Descrizione"": ""Le consegne avverrano nella fascia oraria 10-12 e le prenotazioni dovranno essere effettuate entro le 20 del giorno prima.\nInizialmente verranno fatte un massimo di 15 consegne al giorno.\nIl servizio di consegna \u00e8 gratuito.\n\nPotete richiedere la consegna o fornire la vostra disponibilit\u00e0 a collaborare ai numeri messi a disposizione: 346-4927533 oppure 348-1581273."", ""Destinatari"": ""Over 65 anni"", ""Link"": ""https://www.facebook.com/VeneziaNONDisneyland/posts/2711708585782990"", ""Natura"": ""solidale"", ""Posizione"": ""45.43719 12.33459 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Consegna spesa a domicilio #Venezia""}","<pre><yamldata>
 Da_chi_offerta: Venezia NON è Disneyland
 Descrizione: 'Le consegne avverrano nella fascia oraria 10-12 e le prenotazioni dovranno
   essere effettuate entro le 20 del giorno prima.
@@ -247,6 +247,7 @@ Descrizione: 'Le consegne avverrano nella fascia oraria 10-12 e le prenotazioni 
 
   Potete richiedere la consegna o fornire la vostra disponibilità a collaborare ai
   numeri messi a disposizione: 346-4927533 oppure 348-1581273.'
+Posizione: 45.43719 12.33459 0 0
 Destinatari: Over 65 anni
 Link: https://www.facebook.com/VeneziaNONDisneyland/posts/2711708585782990
 Natura: solidale
@@ -254,7 +255,7 @@ Tipo_di_soggetto: privato
 Titolo: 'Consegna spesa a domicilio #Venezia'
 
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/335,580490256,2020-03-13 09:56:38,2020-03-13 09:55:32,Consigli e consegna libri a domicilio #Bari,,,"[""Consegne e commissioni"", ""Iniziative culturali e ricreative"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,{},"<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/335,580490256,2020-03-13 15:24:52,2020-03-13 09:55:32,Consigli e consegna libri a domicilio #Bari,,,"[""Consegne e commissioni"", ""Iniziative culturali e ricreative"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,{},"<pre><yamldata>
 Da_chi_offerta: Libreria Spina
 Descrizione: '""Vi selezioniamo un mix di 𝟭𝟬 𝗰𝗼𝗻𝘀𝗶𝗴𝗹𝗶 che ci sentiamo di proporvi dal
   catalogo SPINE Bookstore, e se tra questi c''è il fumetto, l''albo o il libro che
@@ -262,6 +263,7 @@ Descrizione: '""Vi selezioniamo un mix di 𝟭𝟬 𝗰𝗼𝗻𝘀𝗶𝗴𝗹�
   #Lunedì passiamo a consegnartelo (in città).
 
   Che ne dici?""'
+Posizione: 41.12578 16.86203 0 0
 Destinatari: Tutte e tutti
 Link: https://www.facebook.com/spinebookstore/posts/1392612424251841
 Natura: solidale
@@ -269,7 +271,7 @@ Tipo_di_soggetto: privato
 Titolo: 'Consigli e consegna libri a domicilio #Bari'
 
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/334,580482346,2020-03-13 12:17:59,2020-03-13 09:40:54,Servizi per donne che vivono in situazioni di violenza #Milano,,,"[""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Nonunadimeno #Milano"", ""Descrizione"": ""Donne che vivono in situazioni di violenza possono usifruire dei servizi:\n\n- Apertura del centro antiviolenza con accoglienza telefonica\n- Gestione delle situazioni di emergenza"", ""Destinatari"": ""Donne che vivono in situazioni di violenza #Milano"", ""Link"": ""https://www.facebook.com/nonunadimenomilano/"", ""Natura"": ""solidale"", ""Posizione"": ""45.46542 9.17692 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Servizi per donne che vivono in situazioni di violenza #Milano""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/334,580482346,2020-03-13 15:26:07,2020-03-13 09:40:54,Servizi per donne che vivono in situazioni di violenza #Milano,,,"[""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Nonunadimeno #Milano"", ""Descrizione"": ""Donne che vivono in situazioni di violenza possono usifruire dei servizi:\n\n- Apertura del centro antiviolenza con accoglienza telefonica\n- Gestione delle situazioni di emergenza"", ""Destinatari"": ""Donne che vivono in situazioni di violenza #Milano"", ""Link"": ""https://www.facebook.com/nonunadimenomilano/"", ""Natura"": ""solidale"", ""Posizione"": ""45.46542 9.17692 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Servizi per donne che vivono in situazioni di violenza #Milano""}","<pre><yamldata>
 Da_chi_offerta: 'Nonunadimeno #Milano'
 Descrizione: 'Donne che vivono in situazioni di violenza possono usifruire dei servizi:
 
@@ -278,6 +280,7 @@ Descrizione: 'Donne che vivono in situazioni di violenza possono usifruire dei s
 
   - Gestione delle situazioni di emergenza'
 Destinatari: 'Donne che vivono in situazioni di violenza #Milano'
+Posizione: 45.46013 9.18447 0 0
 Link: https://www.facebook.com/nonunadimenomilano/
 Natura: solidale
 Tipo_di_soggetto: privato
@@ -329,7 +332,7 @@ Tipo_di_soggetto: privato
 Titolo: Coronavirus - informazioni utili per i migranti
 
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/329,580430383,2020-03-13 09:44:59,2020-03-13 07:52:18,Assistenza agli acquisti #SanVincenzo (LI),,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Associazioni di volontariato"", ""Descrizione"": ""Comune di San Vincenzo (Livorno)\n\nSi comunica che, a partire da Giovedi 12 Marzo,\n\ngrazie al prezioso contributo delle associazioni di volontariato del nostro territorio, \u00e8 attivo nel comune di San Vincenzo\n\nil servizio di acquisto e consegna a domicilio di generi alimentari e di prima necessit\u00e0.\n\nIl servizio \u00e8 riservato alle persone di oltre 70 anni o gravemente impedite negli spostamenti.\nI numeri da contattare sono:\n\ndal lunedi al venerdi in orario di apertura degli uffici comunali contattare i numeri\n\n0565707206 oppure il numero 0565707243 .\n\nIl sabato e la domenica, dalle 9 alle 19, contattare il numero 3296505882."", ""Destinatari"": ""Anziani e bisognosi"", ""Link"": ""https://www.comune.san-vincenzo.li.it/archivio6_notizie-ed-eventi_0_1754.html"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Assistenza agli acquisti""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/329,580430383,2020-03-13 15:27:43,2020-03-13 07:52:18,Assistenza agli acquisti #SanVincenzo (LI),,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Associazioni di volontariato"", ""Descrizione"": ""Comune di San Vincenzo (Livorno)\n\nSi comunica che, a partire da Giovedi 12 Marzo,\n\ngrazie al prezioso contributo delle associazioni di volontariato del nostro territorio, \u00e8 attivo nel comune di San Vincenzo\n\nil servizio di acquisto e consegna a domicilio di generi alimentari e di prima necessit\u00e0.\n\nIl servizio \u00e8 riservato alle persone di oltre 70 anni o gravemente impedite negli spostamenti.\nI numeri da contattare sono:\n\ndal lunedi al venerdi in orario di apertura degli uffici comunali contattare i numeri\n\n0565707206 oppure il numero 0565707243 .\n\nIl sabato e la domenica, dalle 9 alle 19, contattare il numero 3296505882."", ""Destinatari"": ""Anziani e bisognosi"", ""Link"": ""https://www.comune.san-vincenzo.li.it/archivio6_notizie-ed-eventi_0_1754.html"", ""Natura"": ""solidale"", ""Posizione"": ""43.10070 10.53879 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Assistenza agli acquisti""}","<pre><yamldata>
 Da_chi_offerta: Associazioni di volontariato
 Descrizione: 'Comune di San Vincenzo (Livorno)
 
@@ -357,6 +360,7 @@ Descrizione: 'Comune di San Vincenzo (Livorno)
 
 
   Il sabato e la domenica, dalle 9 alle 19, contattare il numero 3296505882.'
+Posizione: 43.10070 10.53879 0 0
 Destinatari: Anziani e bisognosi
 Link: https://www.comune.san-vincenzo.li.it/archivio6_notizie-ed-eventi_0_1754.html
 Natura: solidale
@@ -389,7 +393,7 @@ Tipo_di_soggetto: privato
 Titolo: Consegna gratuita dei farmaci a domicilio alle persone con disabilità
 
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/324,580257238,2020-03-12 22:48:21,2020-03-12 22:24:06,DOBBIAMO RESTARE A CASA MA QUESTO NON BASTA - raccolta fondi Fondazione Provinciale di #Como ,,,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""DOBBIAMO RESTARE A CASA MA QUESTO NON BASTA - Ogni piccolo gesto pu\u00f2 salvare una vita.\nLa diffusione del coronavirus \u00e8 un\u2019emergenza che non risparmia nessuno. Medici e infermieri stanno spendendo tutte le loro energie entro strutture che potrebbero non reggere a lungo un simile impatto. E noi? Non possiamo pensare che il nostro dovere stia solo nel chiuderci in casa. Anche da casa possiamo dare un importante contributo!\n\nLa Fondazione Provinciale di Como apre il fondo \u201cEmergenza Coronavirus\u201d mettendo subito a disposizione 100.000 euro per l\u2019acquisto di un\u2019autoambulanza attrezzata per la rianimazione a favore dell\u2019ospedale Sant\u2019Anna e tre monitor multiparametrici per la terapia intensiva del Valduce. Hanno risposto subito all\u2019appello di Fondazione, la Cassa Rurale ed Artigiana di Cant\u00f9 con una donazione di altri 100.000 euro, la BCC di Lezzeno con 50.000 euro e la BCC Brianza e Laghi con 35.000 euro. Ma questo non basta! I nostri ospedali hanno bisogno dell\u2019aiuto di tutti voi, per poter acquistare sistemi radiologici portatili, dispositivi di protezione individuale, monitor multiparametrici e letti per terapia intensiva.\n\nFondazione Provinciale della Comunit\u00e0 Comasca onlus - Via Raimondi, 1 - 22100 Como - Tel. 031 261375 - Fax 031 272658"", ""Email"": ""info@fondazione-comasca.it"", ""Link"": ""http://dona.fondazione-comasca.it/campaigns/emergenzacoronavirus/?fbclid=IwAR3NYqo7K6JXqDvhTtvuqv_DFp6bLDaUexzNsJWcd_koWl-pJby60UsHtUg"", ""Nome"": ""FONDAZIONE COMASCA""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/324,580257238,2020-03-13 15:36:32,2020-03-12 22:24:06,DOBBIAMO RESTARE A CASA MA QUESTO NON BASTA - raccolta fondi Fondazione Provinciale di #Como ,,,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""DOBBIAMO RESTARE A CASA MA QUESTO NON BASTA - Ogni piccolo gesto pu\u00f2 salvare una vita.\nLa diffusione del coronavirus \u00e8 un\u2019emergenza che non risparmia nessuno. Medici e infermieri stanno spendendo tutte le loro energie entro strutture che potrebbero non reggere a lungo un simile impatto. E noi? Non possiamo pensare che il nostro dovere stia solo nel chiuderci in casa. Anche da casa possiamo dare un importante contributo!\n\nLa Fondazione Provinciale di Como apre il fondo \u201cEmergenza Coronavirus\u201d mettendo subito a disposizione 100.000 euro per l\u2019acquisto di un\u2019autoambulanza attrezzata per la rianimazione a favore dell\u2019ospedale Sant\u2019Anna e tre monitor multiparametrici per la terapia intensiva del Valduce. Hanno risposto subito all\u2019appello di Fondazione, la Cassa Rurale ed Artigiana di Cant\u00f9 con una donazione di altri 100.000 euro, la BCC di Lezzeno con 50.000 euro e la BCC Brianza e Laghi con 35.000 euro. Ma questo non basta! I nostri ospedali hanno bisogno dell\u2019aiuto di tutti voi, per poter acquistare sistemi radiologici portatili, dispositivi di protezione individuale, monitor multiparametrici e letti per terapia intensiva.\n\nFondazione Provinciale della Comunit\u00e0 Comasca onlus - Via Raimondi, 1 - 22100 Como - Tel. 031 261375 - Fax 031 272658"", ""Email"": ""info@fondazione-comasca.it"", ""Link"": ""http://dona.fondazione-comasca.it/campaigns/emergenzacoronavirus/?fbclid=IwAR3NYqo7K6JXqDvhTtvuqv_DFp6bLDaUexzNsJWcd_koWl-pJby60UsHtUg"", ""Nome"": ""FONDAZIONE COMASCA"", ""Posizione"": ""45.81109 9.08336 0 0""}","<pre><yamldata>
 Descrizione: 'DOBBIAMO RESTARE A CASA MA QUESTO NON BASTA - Ogni piccolo gesto può
   salvare una vita.
 
@@ -416,6 +420,7 @@ Descrizione: 'DOBBIAMO RESTARE A CASA MA QUESTO NON BASTA - Ogni piccolo gesto p
 Email: info@fondazione-comasca.it
 Link: http://dona.fondazione-comasca.it/campaigns/emergenzacoronavirus/?fbclid=IwAR3NYqo7K6JXqDvhTtvuqv_DFp6bLDaUexzNsJWcd_koWl-pJby60UsHtUg
 Nome: FONDAZIONE COMASCA
+Posizione: 45.81109 9.08336 0 0
 
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/314,580230090,2020-03-12 21:29:25,2020-03-12 21:17:44,Attivo numero nazionale antiviolenza 1522 e linee di ascolto dei centri antiviolenza,,,"[""Contatti utili"", ""Informazioni utili"", ""Notizia"", ""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Cosa"": ""Attivo numero nazionale antiviolenza 1522 e linee di ascolto dei centri antiviolenza"", ""Descrizione"": ""Per molte donne #stareacasa non \u00e8 un invito rassicurante se vivono situazione di violenza col proprio convivente. La Rete nazionale dei centri antiviolenza ricorda che, nonostante l\u2019emergenza, rimane attivo il numero nazionale antiviolenza 1522. In tutta Italia, inoltre, i centri antiviolenza sono attivi e pronti a supportare le donne con linee di ascolto telefonico e via email."", ""Link"": ""https://www.dire.it/12-03-2020/432907-coronavirus-violenza-donne-veltri-d-i-re-chiamateci-noi-ci-siamo/""}","<pre><yamldata>
@@ -428,7 +433,7 @@ Descrizione: ""Per molte donne #stareacasa non \xE8 un invito rassicurante se vi
 Link: https://www.dire.it/12-03-2020/432907-coronavirus-violenza-donne-veltri-d-i-re-chiamateci-noi-ci-siamo/
 
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/313,580185174,2020-03-12 22:37:02,2020-03-12 19:55:01,Pronto intervento sociale #Ancona,,,"[""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Ancona in rete con volontari"", ""Descrizione"": ""E' attivo il numero 07154488 di Pronto intervento sociale per richiedere informazioni su spesa e farmaci a domicilio.\nIl Comune lo ha istituito per coordinare e mettere in rete i servizi esistenti di farmacie e supermercati.\nIl numero sar\u00e0 attivo tutti i giorni festivi compresi dalle 8 alle 19."", ""Destinatari"": ""malati; anziani soli e senza una rete familiare di sostegno; persone in isolamento disposto dall'autorit\u00e0 sanitaria che non hanno alcun tipo di supporto da familiari."", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Pronto intervento sociale""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/313,580185174,2020-03-13 15:31:14,2020-03-12 19:55:01,Pronto intervento sociale #Ancona,,,"[""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Ancona in rete con volontari"", ""Descrizione"": ""E' attivo il numero 07154488 di Pronto intervento sociale per richiedere informazioni su spesa e farmaci a domicilio.\nIl Comune lo ha istituito per coordinare e mettere in rete i servizi esistenti di farmacie e supermercati.\nIl numero sar\u00e0 attivo tutti i giorni festivi compresi dalle 8 alle 19."", ""Destinatari"": ""malati; anziani soli e senza una rete familiare di sostegno; persone in isolamento disposto dall'autorit\u00e0 sanitaria che non hanno alcun tipo di supporto da familiari."", ""Natura"": ""solidale"", ""Posizione"": ""43.61693 13.51663 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Pronto intervento sociale""}","<pre><yamldata>
 Da_chi_offerta: Comune di Ancona in rete con volontari
 Descrizione: ""E' attivo il numero 07154488 di Pronto intervento sociale per richiedere\
   \ informazioni su spesa e farmaci a domicilio.\nIl Comune lo ha istituito per coordinare\
@@ -437,6 +442,7 @@ Descrizione: ""E' attivo il numero 07154488 di Pronto intervento sociale per ric
 Destinatari: ""malati; anziani soli e senza una rete familiare di sostegno; persone\
   \ in isolamento disposto dall'autorit\xE0 sanitaria che non hanno alcun tipo di\
   \ supporto da familiari.""
+Posizione: 43.61693 13.51663 0 0
 Natura: solidale
 Tipo_di_soggetto: pubblico
 Titolo: Pronto intervento sociale
@@ -2455,7 +2461,7 @@ provincia: Cosenza
 regione: Calabria
 tag: Raccolta fondi
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/76,578924916,2020-03-11 15:36:43,2020-03-10 23:49:56,Raccolta fondi per Ospedale Sant’Orsola-Malpighi di #Bologna,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Ospedale Sant\u00b4Orsola"", ""comune"": ""Bologna"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per Ospedale Sant\u00d3rsola-Malpighi"", ""destinatari"": ""Ospedale Sant\u00b4Orsola"", ""fonte"": ""https://www.aosp.bo.it/content/fai-una-donazione?fbclid=IwAR2pTgWfhpFiOxEOTJEbbXWSisYdNrgoK9nOAHBImYSPmR1qG3iADLltu3s"", ""provincia"": ""Bologna"", ""regione"": ""Emilia Romagna"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: ""Ospedale Sant\xB4Orsola""
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/76,578924916,2020-03-13 15:49:07,2020-03-10 23:49:56,Raccolta fondi per Ospedale Sant’Orsola-Malpighi di #Bologna,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Ospedale Sant\u00b4Orsola"", ""comune"": ""Bologna"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per Ospedale Sant\u00d3rsola-Malpighi"", ""destinatari"": ""Ospedale Sant\u00b4Orsola"", ""fonte"": ""https://www.aosp.bo.it/content/fai-una-donazione?fbclid=IwAR2pTgWfhpFiOxEOTJEbbXWSisYdNrgoK9nOAHBImYSPmR1qG3iADLltu3s"", ""posizione"": ""44.4928075 11.3619239 0 0"", ""provincia"": ""Bologna"", ""regione"": ""Emilia Romagna"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: ""Ospedale Sant\xB4Orsola""
 comune: Bologna
 contatti: ''
 descrizione: ""Raccolta fondi per Ospedale Sant\xD3rsola-Malpighi""
@@ -2464,6 +2470,7 @@ fonte: https://www.aosp.bo.it/content/fai-una-donazione?fbclid=IwAR2pTgWfhpFiOxE
 provincia: Bologna
 regione: Emilia Romagna
 tag: Raccolta fondi
+posizione: 44.4928075 11.3619239 0 0
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/75,578924911,2020-03-11 16:44:28,2020-03-10 23:49:55,Raccolta fondi Save the Planet per acquisto presidi ospedalieri,,,"[""Raccolte fondi"", ""accettato""]",,,{},"<pre><yamldata>chi: Save The Planet Onlus
 comune: Italia
