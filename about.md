@@ -13,12 +13,15 @@ permalink: /about/
 
 ### Il Progetto
 
-Questo è un progetto non profit, organizzato interamente da volontari e volontarie. È nato per condividere informazioni utili e
-verificate sull'evento di CoronaVirus diffusosi in Italia nel 2020.
+**covid19italia.help** è un progetto no profit, organizzato e diretto interamente da volontari e volontarie. È nato per condividere informazioni utili e verificate sull'evento di Coronavirus diffusosi in Italia nel 2020.
 
-Il progetto si pone come scopo quello di aggregare e non disperdere contenuti utili a tutti provenienti da fonti di varia natura (ufficiali e non) al fine creare valore in un momento di crisi per il paese.
+Lo scopo è quello di verificare, aggregare ed etichettare segnalazioni di varia natura, al fine di mettere in contatto richieste di aiuto e offerte di beni e servizi. 
 
-Il progetto non vuole in alcun modo sostituirsi a fonti istituzionali di informazione a cui rimandiamo caldamente per l'attendibilità.
+Vengono inoltre raccolte e pubblicate iniziative solidali, culturali e dirette a promuovere ed implementare telelavoro e didattica a distanza.
+
+Infine, raccogliamo normative, direttive istituzionali e dati.
+
+Non si intende in alcun modo sostituirsi a fonti istituzionali di informazione a cui rimandiamo caldamente per l'attendibilità.
 
 Il progetto, laddove lo si ritenga utile, è usabile da organizzazioni, associazioni, gruppi informali ed anche pubbliche amministrazioni che avessero bisogno di un servizio per informare e attivarsi per rispondere all’emergenza covid19.
 
