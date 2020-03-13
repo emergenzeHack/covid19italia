@@ -4,11 +4,6 @@ layout: base
 {% include header.html type="issue" %}
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.0/dist/leaflet.css" />
 <script src="https://unpkg.com/leaflet@1.0.0/dist/leaflet.js"></script>
-<style>
-#map {
-    height: 150px
-}
-</style>
 <div class="container" role="main">
     <div class="row">
         <div class="col-md-12">{% if page.state == "closed" %}<strike>{% endif %}<h2>{{page.issue.title}}</h2>{% if page.state == "closed" %}</strike>{% endif %} </div>
@@ -40,7 +35,7 @@ layout: base
     <div class="row">
         <div class="col-md-2">Mappa:</div>
         <div class="col-md-4">
-            <div id="map"></div>
+            <div id="map" style="height: 150px;"></div>
         </div>
     </div>
     {% endif %}

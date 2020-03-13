@@ -7,9 +7,6 @@ permalink: /issues/
 <script src="https://unpkg.com/leaflet@1.0.0/dist/leaflet.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css" />
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.min.js"></script>
-<style>
-#map{ height: 600px }
-</style>
 <link rel="stylesheet" href="{{ site.url }}/css/Control.Geocoder.css" />
 <script src="{{ site.url }}/js/Control.Geocoder.js"></script>
 
@@ -33,7 +30,7 @@ permalink: /issues/
 
 
 
-<div class="row"><div class="col-md-12 col-sm-12 col-xs-12"> <div id="map"></div> </div> </div>
+<div class="row"><div class="col-md-12 col-sm-12 col-xs-12"> <div id="map" style="height: 600px;"></div> </div> </div>
 
 ---
 # Raccolte fondi
@@ -53,16 +50,7 @@ permalink: /issues/
 {% endfor %}
 </dl>
 </div>
-<div class="panel-footer">
-<ul class="share-buttons">
-<li>Condividi:</li>
-<li><a href="{{ site.url }}/issues/{{ member.number | datapage_url: '.' }}" title="Copia link"><img alt="Copia link" src="/img/icone/link.png"></a></li>
-<li><a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}/issues/{{ member.number | datapage_url: '.' }}&title={{member.title|truncate:70|uri_escape}} | {{ site.title }}" title="Condividi su Facebook" target="_blank"><img alt="Condividi su Facebook" src="/img/icone/Facebook.png"></a></li>
-<li><a href="https://twitter.com/intent/tweet?url={{ site.url }}/issues/{{ member.number | datapage_url: '.' }}&text={{member.title|truncate:50|uri_escape}}&via=terremotocentro&hashtags=terremotocentroitalia" target="_blank" title="Tweet"><img alt="Tweet" src="/img/icone/Twitter.png"></a></li>
-<li><a href="https://plus.google.com/share?url={{ site.url }}/issues/{{ member.number | datapage_url: '.' }}" target="_blank" title="Condividi su Google+"><img alt="Condividi su Google+" src="/img/icone/Google+.png"></a></li>
-<li><a data-proofer-ignore href="mailto:?subject={{member.title|truncate:70|uri_escape}} | {{site.title}}&body={{member.title|truncate:70|uri_escape}}%20Clicca qui:%20{{ site.url }}/issues/{{ member.number | datapage_url: '.' }}" title="Invia email"><img alt="Invia email" src="/img/icone/Email.png"></a></li>
-</ul>
-</div>
+{% include social-share-issue.html %}
 </div>
 {% endfor %}
 </div>
@@ -85,16 +73,7 @@ permalink: /issues/
 {% endfor %}
 </dl>
 </div>
-<div class="panel-footer">
-<ul class="share-buttons">
-<li>Condividi:</li>
-<li><a href="{{ site.url }}/issues/{{ member.number | datapage_url: '.' }}" title="Copia link"><img alt="Copia link" src="/img/icone/link.png"></a></li>
-<li><a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}/issues/{{ member.number | datapage_url: '.' }}&title={{member.title|truncate:70|uri_escape}} | {{ site.title }}" title="Condividi su Facebook" target="_blank"><img alt="Condividi su Facebook" src="/img/icone/Facebook.png"></a></li>
-<li><a href="https://twitter.com/intent/tweet?url={{ site.url }}/issues/{{ member.number | datapage_url: '.' }}&text={{member.title|truncate:50|uri_escape}}&via=terremotocentro&hashtags=terremotocentroitalia" target="_blank" title="Tweet"><img alt="Tweet" src="/img/icone/Twitter.png"></a></li>
-<li><a href="https://plus.google.com/share?url={{ site.url }}/issues/{{ member.number | datapage_url: '.' }}" target="_blank" title="Condividi su Google+"><img alt="Condividi su Google+" src="/img/icone/Google+.png"></a></li>
-<li><a data-proofer-ignore href="mailto:?subject={{member.title|truncate:70|uri_escape}} | {{site.title}}&body={{member.title|truncate:70|uri_escape}}%20Clicca qui:%20{{ site.url }}/issues/{{ member.number | datapage_url: '.' }}" title="Invia email"><img alt="Invia email" src="/img/icone/Email.png"></a></li>
-</ul>
-</div>
+{% include social-share-issue.html %}
 </div>
 {% endfor %}
 </div>
@@ -117,16 +96,7 @@ permalink: /issues/
 {% endfor %}
 </dl>
 </div>
-<div class="panel-footer">
-<ul class="share-buttons">
-<li>Condividi:</li>
-<li><a href="{{ site.url }}/issues/{{ member.number | datapage_url: '.' }}" title="Copia link"><img alt="Copia link" src="/img/icone/link.png"></a></li>
-<li><a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}/issues/{{ member.number | datapage_url: '.' }}&title={{member.title|truncate:70|uri_escape}} | {{ site.title }}" title="Condividi su Facebook" target="_blank"><img alt="Condividi su Facebook" src="/img/icone/Facebook.png"></a></li>
-<li><a href="https://twitter.com/intent/tweet?url={{ site.url }}/issues/{{ member.number | datapage_url: '.' }}&text={{member.title|truncate:50|uri_escape}}&via=terremotocentro&hashtags=terremotocentroitalia" target="_blank" title="Tweet"><img alt="Tweet" src="/img/icone/Twitter.png"></a></li>
-<li><a href="https://plus.google.com/share?url={{ site.url }}/issues/{{ member.number | datapage_url: '.' }}" target="_blank" title="Condividi su Google+"><img alt="Condividi su Google+" src="/img/icone/Google+.png"></a></li>
-<li><a data-proofer-ignore href="mailto:?subject={{member.title|truncate:70|uri_escape}} | {{site.title}}&body={{member.title|truncate:70|uri_escape}}%20Clicca qui:%20{{ site.url }}/issues/{{ member.number | datapage_url: '.' }}" title="Invia email"><img alt="Invia email" src="/img/icone/Email.png"></a></li>
-</ul>
-</div>
+{% include social-share-issue.html %}
 </div>
 {% endfor %}
 </div>
@@ -149,16 +119,7 @@ permalink: /issues/
 {% endfor %}
 </dl>
 </div>
-<div class="panel-footer">
-<ul class="share-buttons">
-<li>Condividi:</li>
-<li><a href="{{ site.url }}/issues/{{ member.number | datapage_url: '.' }}" title="Copia link"><img alt="Copia link" src="/img/icone/link.png"></a></li>
-<li><a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}/issues/{{ member.number | datapage_url: '.' }}&title={{member.title|truncate:70|uri_escape}} | {{ site.title }}" title="Condividi su Facebook" target="_blank"><img alt="Condividi su Facebook" src="/img/icone/Facebook.png"></a></li>
-<li><a href="https://twitter.com/intent/tweet?url={{ site.url }}/issues/{{ member.number | datapage_url: '.' }}&text={{member.title|truncate:50|uri_escape}}&via=terremotocentro&hashtags=terremotocentroitalia" target="_blank" title="Tweet"><img alt="Tweet" src="/img/icone/Twitter.png"></a></li>
-<li><a href="https://plus.google.com/share?url={{ site.url }}/issues/{{ member.number | datapage_url: '.' }}" target="_blank" title="Condividi su Google+"><img alt="Condividi su Google+" src="/img/icone/Google+.png"></a></li>
-<li><a data-proofer-ignore href="mailto:?subject={{member.title|truncate:70|uri_escape}} | {{site.title}}&body={{member.title|truncate:70|uri_escape}}%20Clicca qui:%20{{ site.url }}/issues/{{ member.number | datapage_url: '.' }}" title="Invia email"><img alt="Invia email" src="/img/icone/Email.png"></a></li>
-</ul>
-</div>
+{% include social-share-issue.html %}
 </div>
 {% endfor %}
 </div>

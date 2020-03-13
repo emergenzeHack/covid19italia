@@ -99,7 +99,7 @@ share-links-active:
   androidapp: false
   rss: false
   facebook: true
-  email: false
+  email: true
   twitter: true
   github: true
   linkedin: false
@@ -116,6 +116,7 @@ share-links-active:
   telegram_bot: false
   telegram_group: true
   rss: true
+  link: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
