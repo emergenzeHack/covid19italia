@@ -25,8 +25,9 @@ description: Un progetto per condividere informazioni a supporto dell'emergenza 
 # List of links in the navigation bar
 navbar-links:
   Segnala: "segnala/"
-  # Aggiornamenti:
-  #   - Normativa nazionale: "normativa_nazionale/"
+  Aggiornamenti:
+     - Notizie: ""
+     - Fake News: "fake-news/"
   # Link Utili:
   #   - Iniziative solidali: "servizi_e_iniziative_solidali/"
   #   - Opendata: "opendata/"
@@ -143,7 +144,7 @@ highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
 #selec tile for maps
-tile_map: https://a.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png 
+tile_map: https://a.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png
 kramdown:
   input: GFM
 
