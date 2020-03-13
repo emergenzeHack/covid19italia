@@ -8,12 +8,15 @@
 #baseurl: "http://covid19italia.info"
 
 #baseurl: "https://github.com/emergenzeha/COVID19"
-url: "https://covid19italia.info"
+url: "https://covid19italia.help"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
 title: COVID19 Italia
+
+# Logo description
+logo-description: Il logo di covid19italia due cerchi concentrici uno rosso e uno verde ed all'esterno dei semicerchi sparsi
 
 # Short description of your site
 description: Un progetto per condividere informazioni a supporto dell'emergenza COVID19
@@ -21,8 +24,7 @@ description: Un progetto per condividere informazioni a supporto dell'emergenza 
 # --- Navigation bar options --- #
 # List of links in the navigation bar
 navbar-links:
-  Segnala:
-    - Segnalazioni: "segnala/"
+  Segnala: "segnala/"
   # Aggiornamenti:
   #   - Normativa nazionale: "normativa_nazionale/"
   # Link Utili:
@@ -32,9 +34,11 @@ navbar-links:
    - About: "about/"
   # - Press: "press/"
    - Canali di Comunicazione: "canali/"
+   - Blog : "post/"
+   - Opendata: "opendata/"
   Partecipa!:
-   - Aderisci al gruppo Telegram: 'https://t.me/covid19italia" target="_blank'
-   - Contribuisci su GitHub: 'https://github.com/emergenzeHack/covid19italia/wiki" target="_blank'
+   - Aderisci al gruppo Telegram: 'https://t.me/COVID19I" target="_blank'
+   - Contribuisci: 'https://www.covid19italia.help/2020-03-10-sei-uno-sviluppatore-se-vuoi-aiutaci/" target="_blank'
   #  - Rilancia informazioni sui social: ''
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -50,7 +54,8 @@ avatar: /images/covid19italia.png
 author:
   name: COVID19Italia
   email: "mailto:covid19ita@gmail.com"
-  facebook: covid19italia.info  # eg. daattali
+  facebook: covid19italia.help  # eg. daattali
+  facebook_group: 2921275147894653
   github: emergenzeHack/covid19italia    # eg. daattali
   twitter: ItaliaCovid19   # eg. daattali
   #linkedin:   # eg. daattali
@@ -66,7 +71,7 @@ author:
   #telegram_bot: to do
   #androidapp: to do
   #messenger: to do
-  telegram_group: https://t.me/covid19italia
+  telegram_group: https://t.me/COVID19I
 
 # Select which links to show in the footer
 footer-links-active:
@@ -94,7 +99,7 @@ share-links-active:
   androidapp: false
   rss: false
   facebook: true
-  email: false
+  email: true
   twitter: true
   github: true
   linkedin: false
@@ -111,6 +116,7 @@ share-links-active:
   telegram_bot: false
   telegram_group: true
   rss: true
+  link: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer

@@ -3,5 +3,10 @@ _site/
 .jekyll-cache/
 .jekyll-metadata
 
+# Bundler
+.bundle/
+vendor/
+Gemfile.lock
+
 # JetBrains IDE
 .idea

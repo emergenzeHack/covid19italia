@@ -4,6 +4,7 @@ title: Segnala
 permalink: /segnala/
 ---
 
+<div class="col-md-offset-3 col-md-6">
 <a class="btn btn-success btn-lg btn-block btn-form" href="https://ee.humanitarianresponse.info/x/#aozLp5mz">Chiedi aiuto</a>
 <a class="btn btn-success btn-lg btn-block btn-form" href="https://ee.humanitarianresponse.info/x/#jc0dY8z7">Dona beni o servizi</a>
 <br>
@@ -14,4 +15,5 @@ permalink: /segnala/
 <a class="btn btn-default btn-lg btn-block btn-form" href="https://ee.humanitarianresponse.info/x/#ecZ2zzjJ">Segnala Bufala</a>
 <a class="btn btn-default btn-lg btn-block btn-form" href="https://ee.humanitarianresponse.info/x/#hy7sHGP3">Segnala Documenti/Dati</a>
 <a class="btn btn-default btn-lg btn-block btn-form" href="https://ee.humanitarianresponse.info/x/#Vde7ElAa">Segnala Notizia</a>
+</div>
 

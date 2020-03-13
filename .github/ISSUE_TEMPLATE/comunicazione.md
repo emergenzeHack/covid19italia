@@ -11,7 +11,11 @@ Prima di creare la issue accertati:
 -->
 
 
-**Priorità**: bassa | medio | alta
+<!--
+Cambia priorità in bassa, media o alta
+per dare più o meno rilevanza alla segnalazione
+-->
+**Priorità**: bassa
 
 ## Testo della comunicazione
 <!--

@@ -1,0 +1,33 @@
+image: ruby:latest
+
+before_script:
+  - bundle config set clean true
+  - bundle config set jobs $(nproc)
+  - bundle config set path vendor/bundle
+  - bundle install
+
+cache:
+  paths:
+    - vendor/bundle
+
+test:
+  stage: test
+  script:
+    - bundle exec jekyll build -d test
+  artifacts:
+    paths:
+      - test
+  except:
+    - master
+    - gitlab
+
+pages:
+  stage: deploy
+  script:
+    - bundle exec jekyll build -d public
+  artifacts:
+    paths:
+      - public
+  only:
+    - master
+    - gitlab

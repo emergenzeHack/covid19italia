@@ -4,6 +4,7 @@ title: Covid19Italia Help
 subtitle: Un progetto per condividere informazioni e attivarsi a supporto dell'emergenza COVID19
 ---
 
+<center>
 <div class="homepage-categories">
 {% assign categories_without_map = site.data.logos | where: "map", false %}
 {% for category in categories_without_map %}
@@ -14,14 +15,15 @@ subtitle: Un progetto per condividere informazioni e attivarsi a supporto dell'e
     {% endif %}
   {% endcapture %}
   {% assign logo_alt = logo_alt | strip %}
-  <a href="{{ site.baseurl }}/{{ category.link | slugify }}" class="thumbnail" title="{{ logo_alt }}">
+  <a href="{{ site.baseurl }}/{{ category.link }}" class="thumbnail col-md-2" title="{{ logo_alt }}">
     {% if category.logo and category.logo != empty %}
-      <img src="{{ site.baseurl }}{{ category.logo }}" alt="{{ logo_alt }}">
+      <img src="{{ site.baseurl }}{{ category.logo }}" alt="{{ category.logo-alt }}">
     {% endif %}
     {{ category.name }}
   </a>
 {% endfor %}
 </div>
+</center>
 
 <hr class="col-lg-12">
 
@@ -31,15 +33,6 @@ subtitle: Un progetto per condividere informazioni e attivarsi a supporto dell'e
                 <div class="form-group">
                     <label for="search-box">Cosa cerchi?</label>
                     <input type="text" class="form-control" id="search-box" name="query" placeholder="">
-                </div>
-                <div class="form-group">
-                    <label for="labelchoice">Categoria</label>
-                    <select class="form-control" id="labelchoice" name="label">
-                        <option value=""></option>
-                        <option value="Normativa nazionale">Normativa nazionale</option>
-                        <option value="Servizi e iniziative solidali">Servizi e iniziative solidali</option>
-                        <option value="Raccolte fondi">Raccolte fondi</option>
-                    </select>
                 </div>
                 <div class="form-group">
                     <input type="submit" class="btn btn-primary" value="Cerca">

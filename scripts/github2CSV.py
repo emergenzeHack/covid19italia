@@ -7,6 +7,7 @@ import json
 import yaml
 import ConfigParser 
 import os
+import io
 
 FILTER_LABELS=("Accettato",)
 
@@ -21,7 +22,7 @@ try:
 except:
     TOKEN=os.environ.get('GITHUB_PASSWORD')
     USER=os.environ.get('GITHUB_USERNAME')
-    REPO_NAME='terremotocentro_segnalazioni'
+    REPO_NAME='covid19italia_segnalazioni'
     ORG='emergenzeHack'
 
 if not TOKEN:
@@ -44,13 +45,13 @@ CSVFILE=sys.argv[1]
 
 try:
     JSONFILE=sys.argv[2]
-    jwr=file(JSONFILE,"w+")
+    jwr=io.open(JSONFILE,"w+",encoding="utf-8")
 except:
     jwr=None
 
 try:
     GEOJSONFILE=sys.argv[3]
-    gjwr=file(GEOJSONFILE,"w+")
+    gjwr=io.open(GEOJSONFILE,"w+",encoding="utf-8")
 except:
     gjwr=None
 
@@ -70,7 +71,7 @@ issues=r.get_issues(since=lastTime,labels=filter_labels,state='all')
 csvwriter.writerow(("url","id","updated_at","created_at","title","lat","lon","labels","milestone","image","data","body","state"))
 
 if gjwr:
-    gjwr.write('{ "type": "FeatureCollection", "features": ')
+    gjwr.write(unicode('{ "type": "FeatureCollection", "features": '))
 
 csvarray=[]
 jsonarray=[]
@@ -132,8 +133,8 @@ for issue in issues:
 csvwriter.writerows(csvarray)
 
 if jwr:
-    jwr.write(json.dumps(jsonarray,sort_keys=True))
+    jwr.write(json.dumps(jsonarray,ensure_ascii=False,encoding='utf8',sort_keys=True))
 
 if gjwr:
-    gjwr.write(json.dumps(geojsonarray,sort_keys=True)+"}")
+    gjwr.write(json.dumps(geojsonarray,ensure_ascii=False,encoding='utf8',sort_keys=True)+"}")
 

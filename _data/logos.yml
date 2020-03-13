@@ -1,47 +1,32 @@
 - name: MAPPA GENERALE
   logo: /img/icone/11-comunicolpiti.png
   map: true
-  link: mappa
-- name: Mappa Fabbisogni
-  logo: /img/icone/01-fabbisogni.png
-  map: true
-  link: 2016-09-22-mappa-fabbisogni
-- name: Mappa Contatti
-  logo: /img/icone/02-contatti.png
-  map: true
-  link: 2016-09-22-mappa-contatti
-- name: Mappa Alloggi
-  logo: /img/icone/03-alloggi.png
-  map: true
-  link: 2016-09-22-mappa-alloggi
-- name: Mappa Viabilità
-  logo: /img/icone/09-traffico.png
-  map: true
-  link: 2016-08-25-mappa-traffico
-- name: Mappa Comuni Colpiti
-  logo: /img/icone/11-comunicolpiti.png
-  map: true
-  link: 2017-03-21-mappa-comuni-cratere-bis
-- name: Foto Satellitari
-  logo: /img/icone/08-fotosatellitari.png
-  map: true
-  link: 2016-08-28-foto-satellitari
-- name: Risorse Openstreetmap
-  logo: /img/icone/07-openstreetmap.png
-  map: true
-  link: 2016-08-29-risorse-openstreetmap
+  link: mappa/
 - name: SEGNALA
+  logo-alt: Segnala iniziative, servizi, bufale, documenti o effettua una donazione.
   logo: /img/icone/segnala2-tci.png
   map: false
-  link: segnala
-- name: NORMATIVA NAZIONALE
-  logo: /img/icone/tci-legge.png
-  map: false
-  link: normativa_nazionale
-- name: SERVIZI E INIZIATIVE SOLIDALI PRIVATE
+  link: segnala/
+- name: INIZIATIVE SOLIDALI
+  logo-alt: Elenco delle iniziative solidali.
   logo: /img/icone/tci-solidali.png
   map: false
-  link: servizi_e_iniziative_solidali_private
+  link: issues/#servizi-e-iniziative-solidali
+- name: PARTECIPA
+  logo-alt: Istruzioni su come collaborare al progetto.
+  logo: /img/icone/01-fabbisogni.png
+  map: false
+  link: 2020-03-10-sei-uno-sviluppatore-se-vuoi-aiutaci/
+- name: FONTI ISTITUZIONALI
+  logo-alt: Elenco delle fonti istituzionali da cui reperire informazioni ufficiali.
+  logo: /img/icone/tci-legge.png
+  map: false
+  link: fonti-istituzionali/
+- name: ARCHIVIO SEGNALAZIONI
+  logo-alt: Archivio delle segnalazioni divise per categoria.
+  logo: /img/icone/05-segnalazioni.png
+  map: false
+  link: issues/
   #- name: FAKE NEWS
   #  logo: /img/icone/bufala-tci-1.png
   #  map: false
