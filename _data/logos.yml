@@ -12,11 +12,11 @@
   logo: /img/icone/tci-solidali.png
   map: false
   link: issues/#servizi-e-iniziative-solidali
-- name: PARTECIPA
-  logo-alt: Istruzioni su come collaborare al progetto.
+- name: RACCOLTE FONDI
+  logo-alt: raccolte fondi
   logo: /img/icone/01-fabbisogni.png
   map: false
-  link: 2020-03-10-sei-uno-sviluppatore-se-vuoi-aiutaci/
+  link: issues/#raccolte-fondi
 - name: FONTI ISTITUZIONALI
   logo-alt: Elenco delle fonti istituzionali da cui reperire informazioni ufficiali.
   logo: /img/icone/tci-legge.png
