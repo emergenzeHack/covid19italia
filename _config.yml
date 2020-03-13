@@ -38,7 +38,7 @@ navbar-links:
    - Opendata: "opendata/"
   Partecipa!:
    - Aderisci al gruppo Telegram: 'https://t.me/COVID19I" target="_blank'
-   - Contribuisci su GitHub: 'https://github.com/emergenzeHack/covid19italia/wiki" target="_blank'
+   - Contribuisci: 'https://www.covid19italia.help/2020-03-10-sei-uno-sviluppatore-se-vuoi-aiutaci/" target="_blank'
   #  - Rilancia informazioni sui social: ''
 
 # Image to show in the navigation bar - image must be a square (width = height)
