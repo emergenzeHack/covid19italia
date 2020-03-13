@@ -13,23 +13,18 @@ layout: base
     <div class="row">
         <div class="col-md-12">{% if page.state == "closed" %}<strike>{% endif %}<h2>{{page.issue.title}}</h2>{% if page.state == "closed" %}</strike>{% endif %} </div>
     </div>
-    <div class="row">
-        <div class="col-md-2">Stato della segnalazione:</div>
-        <div class="col-md-10"> {{page.state}}</div>
-    </div>
-    <div class="row">
-        <div class="col-md-2">Descrizione:</div>
-        <div class="col-md-10">{% if page.issue.data.descrizione != blank %} {{page.issue.data.descrizione | markdownify}} {% else %} {{page.issue.data.Testo | markdownify}} {% endif %}</div>
-    </div>
+    
     <dl class="row">
         {% for item in page.issue.data %}
         {% if item[1] != blank %}
         <dt class="col-sm-3">{{item[0] | replace: "_", " "}}</dt>
-        {% if item[1] contains '://' %}
-        <a href="{{item[1]}}" target="_blank"><dd class="col-sm-9">{{item[1]}}</dd></a>
+        <dd class="col-sm-9">
+        {% if item[0] == "Telefono" %}
+        <a href="tel:{{item[1] | remove: " "}}" target="_blank">{{item[1]}}</a>
         {% else %}
-        <dd class="col-sm-9">{{item[1] | newline_to_br}}</dd>
+        {{item[1] | strip | auto_link | newline_to_br}}
         {% endif %}
+        </dd>
         {% endif %}
         {% endfor %}
     </dl>
@@ -61,6 +56,7 @@ layout: base
         <div class="col-md-2">Aggiornato:</div>
         <div class="col-md-10"> {{page.issue.updated_at | italianDate}} </div>
     </div>
+    <br>
     {% include social-share.html %}
     <div class="disqus-comments">
         {% include disqus.html %}

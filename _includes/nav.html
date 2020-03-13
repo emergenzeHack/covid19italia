@@ -8,10 +8,10 @@
         <span class="icon-bar"></span>
       </button>
       {% if site.avatar and (layout.show-avatar or page.show-avatar) %}
-      <div class="avatar-container visible-lg visible-md">
+      <div class="avatar-container">
         <div class="avatar-img-border">
           <a itemprop="url" href="https://www.covid19italia.info">
-            <img itemprop="logo" class="avatar-img" src="{{ site.avatar | prepend: site.baseurl | replace: '//', '/' }}" alt="{{ site.title }}" />
+            <img itemprop="logo" class="avatar-img" src="{{ site.avatar | prepend: site.baseurl | replace: '//', '/' }}" alt="{{ site.logo-description }}" />
         </a>
         </div>
       </div>

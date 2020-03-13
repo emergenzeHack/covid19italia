@@ -13,20 +13,29 @@ permalink: /about/
 
 ### Il Progetto
 
-Questo è un progetto non profit, organizzato interamente da volontari e volontarie. È nato per condividere informazioni utili e
-verificate sull'evento di CoronaVirus diffusosi in Italia nel 2020.
+**covid19italia.help** è un progetto no profit, organizzato e diretto interamente da volontari e volontarie. È nato per condividere informazioni utili e verificate sull'evento di Coronavirus diffusosi in Italia nel 2020.
 
-Il progetto si pone come scopo quello di aggregare e non disperdere contenuti utili a tutti provenienti da fonti di varia natura (ufficiali e non) al fine creare valore in un momento di crisi per il paese.
+Lo scopo è quello di verificare, aggregare ed etichettare segnalazioni di varia natura, al fine di mettere in contatto richieste di aiuto e offerte di beni e servizi. 
 
-Il progetto non vuole in alcun modo sostituirsi a fonti istituzionali di informazione a cui rimandiamo caldamente per l'attendibilità.
+Vengono inoltre raccolte e pubblicate iniziative solidali, culturali e dirette a promuovere ed implementare telelavoro e didattica a distanza.
 
-Il progetto, laddove lo si ritenga utile, è usabile da organizzazioni, associazioni, gruppi informali ed anche pubbliche amministrazioni che avessero bisogno di un servizio per informare e attivarsi per rispondere all’emergenza covid19.
+Infine, raccogliamo normative, direttive istituzionali e dati.
+
+Non si intende in alcun modo sostituirsi a fonti istituzionali di informazione a cui rimandiamo caldamente per l'attendibilità.
+
+### Riuso
+
+Ogni componente software che sviluppiamo è rilasciato con una licenza Open Source che ne permette il riuso e ne promuove lo sviluppo pubblicamente.
+
+I dati che raccogliamo e produciamo vengono pubblicati e tenuti aggiornati come [Open Data](https://www.covid19italia.info/opendata/).
+
+Laddove lo si ritenga utile, tutta l'infrastruttura è ri-usabile da organizzazioni, associazioni, gruppi informali ed anche pubbliche amministrazioni che avessero bisogno di un servizio per informare e attivarsi per rispondere all’emergenza covid19.
 
 Il progetto è descritto tramite il nostro [wiki](https://github.com/emergenzeHack/covid19italia/wiki).
 
-L'idea (ed anche buona parte del progetto) è dello stesso team che ha sviluppato il progetto [TerremotoCentroItalia](https://www.terremotocentroitalia.info).
+L'idea ed anche buona parte del progetto è dello stesso team che ha sviluppato il progetto [TerremotoCentroItalia](https://www.terremotocentroitalia.info).
 
-### Credits
+### Ringraziamenti
 
 Un grazie sentito a :
 
@@ -41,12 +50,13 @@ Matteo Fortini, Matteo Tempestini, Antonio Vivace, Vincenzo Tilotta, Maurizio De
 - [Email](mailto:covid19ita@gmail.com)
 - [Twitter](https://twitter.com/ItaliaCovid19)
 - [Instagram](https://www.instagram.com/covid19italia.info/)
-- [Facebook](https://www.facebook.com/covid19italia.info)
+- [Pagina Facebook](https://www.facebook.com/covid19italia.help/)
+- [Gruppo Facebook](https://www.facebook.com/groups/2921275147894653/)
 - [Gruppo Telegram ](https://t.me/COVID19I)
 - [Canale Telegram](https://t.me/COVID19I)
 - [Repository Github](https://github.com/emergenzeHack/covid19italia)
 
-### Tecnologie
+### Tecnologie e Progetti Riusati
 
 - [Beautiful Jekyll](https://deanattali.com/beautiful-jekyll/)
 - [Maptune](https://github.com/gjrichter/maptune)
@@ -57,6 +67,8 @@ Matteo Fortini, Matteo Tempestini, Antonio Vivace, Vincenzo Tilotta, Maurizio De
 - [Glyphicons](http://glyphicons.com)
 - [Jekyll](https://jekyllrb.com/)
 - [Github](http://www.github.com)
+- [Kobotoolbox](https://www.kobotoolbox.org/)
+- [TerremotoCentroItalia](http://www.terremotocentroitalia.info)
 
 ### Press
 

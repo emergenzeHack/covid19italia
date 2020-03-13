@@ -15,6 +15,9 @@ url: "https://covid19italia.info"
 # Name of website
 title: COVID19 Italia
 
+# Logo description
+logo-description: Il logo di covid19italia due cerchi concentrici uno rosso e uno verde ed all'esterno dei semicerchi sparsi
+
 # Short description of your site
 description: Un progetto per condividere informazioni a supporto dell'emergenza COVID19
 
@@ -51,7 +54,8 @@ avatar: /images/covid19italia.png
 author:
   name: COVID19Italia
   email: "mailto:covid19ita@gmail.com"
-  facebook: covid19italia.info  # eg. daattali
+  facebook: covid19italia.help  # eg. daattali
+  facebook_group: 2921275147894653
   github: emergenzeHack/covid19italia    # eg. daattali
   twitter: ItaliaCovid19   # eg. daattali
   #linkedin:   # eg. daattali

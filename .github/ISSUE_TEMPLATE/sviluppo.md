@@ -11,7 +11,11 @@ Prima di creare la issue accertati:
 -->
 
 
-**Priorità**: bassa | medio | alta
+<!--
+Cambia priorità in bassa, media o alta
+per dare più o meno rilevanza alla richiesta
+-->
+**Priorità**: bassa
 
 ## Richiesta
 <!--
@@ -19,8 +23,9 @@ Scrivi quì sotto il testo che descrive lo sviluppo da effettuare
 -->
 
 
-## Test
+## Risolto?
 <!--
-NON MODIFICARE: Metti una X quando sei certo che lo sviluppo sia stato completato e sei contento :-)
+NON MODIFICARE
+Metti una X quando sei certo che il bug sia stato risolto e sei contento :-)
 -->
-* [ ] Test effettuato
+* [ ] Ho verificato che il problema è stato risolto

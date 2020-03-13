@@ -10,8 +10,11 @@ Prima di creare la issue accertati:
 - di aver compilato i campi sotto
 -->
 
-
-**Priorità**: bassa | medio | alta
+<!--
+Cambia priorità in bassa, media o alta
+per dare più o meno rilevanza al problema
+-->
+**Priorità**: bassa
 
 ## Richiesta
 <!--
@@ -24,8 +27,9 @@ Scrivi quì sotto il testo con cui spieghi passo passo come riproduci il bug
 -->
 
 
-## Test
+## Risolto?
 <!--
-NON MODIFICARE: Metti una X quando sei certo che il bug sia stato risolto e sei contento :-)
+NON MODIFICARE
+Metti una X quando sei certo che il bug sia stato risolto e sei contento :-)
 -->
-* [ ] Test effettuato
+* [ ] Ho verificato che il problema è stato risolto
