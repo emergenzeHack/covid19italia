@@ -4,7 +4,7 @@ title: Fake News
 permalink: /fake-news/
 ---
 <div class="panel-group">
-{% assign filteredissues = site.data.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'Bufale'"%}
+{% assign filteredissues = site.data.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'Fake News'"%}
 {% for member in filteredissues %}
 <div class="panel-body">
 <a href="/issues/{{ member.number | datapage_url: '.' }}" class="list-group-item">
