@@ -147,27 +147,32 @@ map.addLayer(markers);
 map.addLayer(osm).setView([42.629381, 13.288372], 5);
 
 function getFeaturesInView() {
-    var features = [];
+    var featuresInView = [];
+    var featuresNotInView = [];
     for (var i=0; i<markerList.length; i++) {
-            if(map.getBounds().contains(L.latLng(markerList[i][0],markerList[i][1]))) {
-            features.push(markerList[i]);
-            }
-            }
-    return features;
+        if(map.getBounds().contains(L.latLng(markerList[i][0],markerList[i][1]))) {
+            featuresInView.push(markerList[i]);
+        } else {
+            featuresNotInView.push(markerList[i]);
+        }
+    }
+    return [featuresInView,featuresNotInView];
 }
 
 function setVisible(element) {
     $("#issue"+element[3]).show();
 }
+function setInVisible(element) {
+    $("#issue"+element[3]).hide();
+}
 
 function onMoveEnd(evt) {
-    $(".issuepanel").hide()
-    inView=getFeaturesInView();
+    [inView,notInView]=getFeaturesInView();
+    notInView.forEach(setInVisible); 
     inView.forEach(setVisible); 
 }
 
 map.on('moveend', onMoveEnd);
-console.log("moveend");
 
 //var geocoder = L.Control.geocoder({collapsed:false,placeholder:"Cerca...",
 //        defaultMarkGeocode: false, geocodingQueryParams: { countrycodes: "it" },
