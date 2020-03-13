@@ -703,6 +703,15 @@ ul.share-buttons .sr-only {
   overflow: hidden;
 }
 
+ul.share-buttons a {
+  color: #404040;
+}
+
+ul.share-buttons a:hover,
+ul.share-buttons a:focus {
+  color: #0085a1;
+}
+
 div.panel-info > div.panel-heading > span.anchor {
 	display: block;
 	position: relative;

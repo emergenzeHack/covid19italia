@@ -6,7 +6,7 @@ permalink: /canali/
 
 <div class="segnala">
 <p>Ecco i canali attraverso cui puoi contattarci, ricevere aggiornamenti, segnalare info utili o necessità: </p>
-         {% if site.author.facebook and site.share-links-active.facebook %}
+         {% if site.author.facebook %}
           <li>
             <a href="https://www.facebook.com/{{ site.author.facebook }}" title="Facebook">
               <span class="fa-stack fa-lg" aria-label="Logo riferito al sito facebook, il carattere f dentro un quadrato blu." role="img">
@@ -16,7 +16,7 @@ permalink: /canali/
             </a><span>da usare per restare in contatto con noi su Facebook</span>
           </li>
          {% endif %}
-         {% if site.author.facebook_group and site.share-links-active.facebook %}
+         {% if site.author.facebook_group %}
           <li>
             <a href="https://www.facebook.com/groups/{{ site.author.facebook_group}}" title="Facebook">
               <span class="fa-stack fa-lg" aria-label="Logo riferito al sito facebook, il carattere f dentro un quadrato blu." role="img">
@@ -26,7 +26,7 @@ permalink: /canali/
             </a><span>da usare per discutere con noi su Facebook</span>
           </li>
          {% endif %}
-         {% if site.author.androidapp and site.share-links-active.androidapp %}
+         {% if site.author.androidapp %}
           <li>
             <a href="https://play.google.com/store/apps/details?id={{ site.author.androidapp }}&hl=it_it" title="Android App">
               <span class="fa-stack fa-lg" aria-label="Logo raffigurante il market di applicazioni android." role="img">
@@ -36,7 +36,7 @@ permalink: /canali/
             </a><span>consulta i contenuti da app android</span>
           </li>
          {% endif %}
-         {% if site.author.github and site.share-links-active.github %}
+         {% if site.author.github %}
           <li>
             <a href="https://github.com/{{ site.author.github }}" title="GitHub">
               <span class="fa-stack fa-lg" aria-label="Logo riferito al sito github, raffigura un gatto con i tentacoli." role="img">
@@ -46,7 +46,7 @@ permalink: /canali/
             </a><span>per collaborare agli sviluppi</span>
           </li>
           {% endif %}
-          {% if site.author.twitter and site.share-links-active.twitter %}
+          {% if site.author.twitter %}
           <li>
             <a href="https://twitter.com/{{ site.author.twitter }}" title="Twitter">
               <span class="fa-stack fa-lg" aria-label="Logo riferito al sito twitter, un uccello di colore celeste." role="img">
@@ -56,7 +56,7 @@ permalink: /canali/
             </a><span>da usare per comunicare con noi su Twitter</span>
           </li>
           {% endif %}
-           {% if site.author.instagram and site.share-links-active.instagram %}
+           {% if site.author.instagram %}
           <li>
             <a href="https://www.instagram.com/{{ site.author.instagram }}" title="Instagram un social network pieno di fotografie.">
               <span class="fa-stack fa-lg" aria-label="Logo riferito a instagram, raffigura una macchina fotografica stilizzata." role="img">
@@ -66,7 +66,7 @@ permalink: /canali/
             </a><span>per vedere le foto su Instagram</span>
           </li>
           {% endif %}
-           {% if site.author.messenger and site.share-links-active.messenger %}
+           {% if site.author.messenger %}
           <li>
             <a href="https://m.me/{{ site.author.messenger }}" title="Messenger una chat">
               <span class="fa-stack fa-lg" aria-label="Logo riferito a Messanger, raffigura una nuvola come quella dei fumetti." role="img">
@@ -76,7 +76,7 @@ permalink: /canali/
             </a><span>per restare aggiornato direttamente da Messenger.</span>
           </li>
           {% endif %}
-          {% if site.author.telegram and site.share-links-active.telegram %}
+          {% if site.author.telegram %}
           <li>
             <a href="{{ site.author.telegram }}" title="Telegram una chat.">
               <span class="fa-stack fa-lg" aria-label="Logo riferito a telegram, raffigura un aereoplano di carta stilizzato." role="img">
@@ -86,7 +86,7 @@ permalink: /canali/
             </a><span>per restare aggiornato con le nostre notizie</span>
           </li>
           {% endif %}
-          {% if site.author.telegram_bot and site.share-links-active.telegram_bot %}
+          {% if site.author.telegram_bot %}
           <li>
             <a href="http://telegram.me/{{ site.author.telegram_bot }}" title="Bot Telegram">
               <span class="fa-stack fa-lg" aria-label="Logo riferito al RoBot testuale su Telegram." role="img">
@@ -96,7 +96,7 @@ permalink: /canali/
             </a><span>per inviare segnalazioni con smartphone dal "campo"</span>
           </li>
           {% endif %}
-          {% if site.author.medium and site.share-links-active.medium %}
+          {% if site.author.medium %}
           <li>
             <a itemprop="sameAs" href="{{ site.author.medium }}" title="medium">
               <span class="fa-stack fa-lg" aria-label="Logo riferito al sito medium, raffigura una M maiuscola bianca su sfondo nero." role="img">
@@ -116,7 +116,7 @@ permalink: /canali/
           </a><span>per rimanere aggiornato sulle nostre segnalazioni</span>
           </li>
           {% endif %}
-          {% if site.author.flickr and site.share-links-active.flickr %}
+          {% if site.author.flickr %}
            <li>
             <a href="https://www.flickr.com/photos/{{ site.author.flickr }}" title="Flickr un sito pieno di fotografie di viaggiatori e appassionati di fotografie.">
               <span class="fa-stack fa-lg" aria-label="Logo riferito a flickr" role="img">
@@ -126,7 +126,7 @@ permalink: /canali/
             </a><span>per caricare foto e media</span>
           </li>
           {% endif %}
-          {% if site.author.waze and site.share-links-active.waze %}
+          {% if site.author.waze %}
               <li>
             <a href="{{ site.author.waze }}" title="Waze">
               <span class="fa-stack fa-lg" aria-label="Logo riferito a Waze ottimo per controllare il traffico automobilistico" role="img">
@@ -144,7 +144,7 @@ permalink: /canali/
               </span>&nbsp;&nbsp;Email
             </a>per segnalare contenuti da rimuovere o scriverci
           </li>
-          {% if site.author.archiveorg and site.share-links-active.archiveorg %}
+          {% if site.author.archiveorg %}
           <li>
             <a itemprop="sameAs" href="{{ site.author.archiveorg }}" title="archive.org archivio di internet.">
               <span class="fa-stack fa-lg" aria-label="Logo riferito al sito archive.org, raffigura un tempio." role="img">
@@ -154,7 +154,7 @@ permalink: /canali/
             </a>archivio dati
           </li>
           {% endif %}
-          {% if site.author.telegram_group and site.share-links-active.telegram_group %}
+          {% if site.author.telegram_group %}
 	         <li>
             <a href="{{ site.author.telegram_group }}" title="Bot Telegram un robot testuale che risponde automaticamente.">
               <span class="fa-stack fa-lg" aria-label="Logo riferito al RoBot testuale su Telegram." role="img">
