@@ -28,27 +28,17 @@ permalink: /issues/
 #map{ height: 600px }
 </style>
 
+{% assign categorieissue = "Raccolte fondi;Raccolte fondi,Notizie;Notizie,Servizi e iniziative solidali;Servizi e iniziative solidali,Iniziative culturali e ricreative;Attivita culturali e ricreative,Consegne e commissioni;Consegne e commissioni,Supporto psicologico;Supporto psicologico" | split: "," %}
+
 
 <div class="row">
 <div class="text-center">
+{% for categoriatuple in categorieissue %}
+{% assign categoria = categoriatuple | split: ";" %}
   <span class="col-xs-12 col-sm-6">
-	  <a href="#raccolte-fondi" class="btn btn-warning btn-lg col-xs-12 mb-15" role="button">Raccolte fondi</a>
+	  <a href="#{{categoria[0] | slugify}}" class="btn btn-success btn-lg col-xs-12 mb-15" role="button">{{categoria[0]}}</a>
 	</span>
-   <span class="col-xs-12 col-sm-6">
-	  <a href="#notizie" class="btn btn-warning btn-lg col-xs-12 mb-15" role="button">Notizie</a>
-	</span>
-  <span class="col-xs-12 col-sm-6">
-    <a href="#servizi-e-iniziative-solidali" class="btn btn-success btn-lg col-xs-12 mb-15" role="button">Servizi e iniziative solidali</a>
-	</span>
-  <span class="col-xs-12 col-sm-6">
-    <a href="#iniziative-culturali-e-ricreative" class="btn btn-success btn-lg col-xs-12 mb-15" role="button">Iniziative culturali e ricreative</a>
-	</span>
-  <span class="col-xs-12 col-sm-6">
-    <a href="#consegne-e-commissioni" class="btn btn-success btn-lg col-xs-12 mb-15" role="button">Consegne e commissioni</a>
-	</span>
-  <span class="col-xs-12 col-sm-6">
-    <a href="#supporto-psicologico" class="btn btn-success btn-lg col-xs-12 mb-15" role="button">Supporto psicologico</a>
-  </span>
+{% endfor %}
 </div>
 </div>
 
@@ -56,12 +46,14 @@ permalink: /issues/
 
 <div class="row"><div class="col-md-12 col-sm-12 col-xs-12"> <div id="map" style="height: 600px;"></div> </div> </div>
 
+{% for categoriatuple in categorieissue %}
+{% assign categoria = categoriatuple | split: ";" %}
 ---
-# Raccolte fondi
+# {{categoria[0]}}
 <div class="panel-group">
-{% assign filteredissues = site.data.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'Raccolte fondi'"%}
+{% assign filteredissues = site.data.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains categoria[1]" %}
 {% for member in filteredissues %}
-<div class="panel-body">
+<div class="panel-body issuepanel" id="issue{{member.number}}">
 <div class="list-group-item">
 <a href="{{site.url}}/issues/{{member.number}}"><h4 class="list-group-item-heading">{{member.title}}</h4></a>
 <dl class="row">
@@ -77,118 +69,8 @@ permalink: /issues/
 </div>
 {% endfor %}
 </div>
+{% endfor %}
 
----
-# Notizie
-<div class="panel-group">
-{% assign filteredissues = site.data.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'Notizia'" %}
-{% for member in filteredissues %}
-<div class="panel-body">
-<div class="list-group-item">
-<a href="{{site.url}}/issues/{{member.number}}"><h4 class="list-group-item-heading">{{member.title}}</h4></a>
-<p class="list-group-item-text">{{member.issue.data.descrizione|markdownify}}</p>
-<dl class="row">
-{% for item in member.issue.data %}
-{% if item[1] != blank %}
-<dt class="col-sm-3">{{item[0] | replace: "_", " "}}</dt>
-<dd class="col-sm-9">{{item[1] | newline_to_br | auto_link}}</dd>
-{% endif %}
-{% endfor %}
-</dl>
-</div>
-{% include social-share-issue.html %}
-</div>
-{% endfor %}
-</div>
-
----
-# Servizi e iniziative solidali
-<div class="panel-group">
-{% assign filteredissues = site.data.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'Servizi e iniziative solidali private' or member.issue.labels contains 'Servizi e iniziative solidali pubbliche'"%}
-{% for member in filteredissues %}
-<div class="panel-body">
-<div class="list-group-item">
-<a href="{{site.url}}/issues/{{member.number}}"><h4 class="list-group-item-heading">{{member.title}}</h4></a>
-<dl class="row">
-{% for item in member.issue.data %}
-{% if item[1] != blank %}
-<dt class="col-sm-3">{{item[0] | replace: "_", " " | capitalize_all}}</dt>
-<dd class="col-sm-9">{{item[1] | newline_to_br | auto_link}}</dd>
-{% endif %}
-{% endfor %}
-</dl>
-</div>
-{% include social-share-issue.html %}
-</div>
-{% endfor %}
-</div>
-
----
-# Iniziative culturali e ricreative
-<div class="panel-group">
-{% assign filteredissues = site.data.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'Attivita culturali e ricreative'" %}
-{% for member in filteredissues %}
-<div class="panel-body">
-<div class="list-group-item">
-<a href="{{site.url}}/issues/{{member.number}}"><h4 class="list-group-item-heading">{{member.title}}</h4></a>
-<p class="list-group-item-text">{{member.issue.data.descrizione|markdownify}}</p>
-<dl class="row">
-{% for item in member.issue.data %}
-{% if item[1] != blank %}
-<dt class="col-sm-3">{{item[0] | replace: "_", " "}}</dt>
-<dd class="col-sm-9">{{item[1] | newline_to_br | auto_link}}</dd>
-{% endif %}
-{% endfor %}
-</dl>
-</div>
-{% include social-share-issue.html %}
-</div>
-{% endfor %}
-</div>
-
----
-# Consegne e commissioni
-<div class="panel-group">
-{% assign filteredissues = site.data.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'Consegne e commissioni'"%}
-{% for member in filteredissues %}
-<div class="panel-body">
-<div class="list-group-item">
-<a href="{{site.url}}/issues/{{member.number}}"><h4 class="list-group-item-heading">{{member.title}}</h4></a>
-<dl class="row">
-{% for item in member.issue.data %}
-{% if item[1] != blank %}
-<dt class="col-sm-3">{{item[0] | replace: "_", " " | capitalize_all}}</dt>
-<dd class="col-sm-9">{{item[1] | newline_to_br | auto_link}}</dd>
-{% endif %}
-{% endfor %}
-</dl>
-</div>
-{% include social-share-issue.html %}
-</div>
-{% endfor %}
-</div>
-
----
-# Supporto psicologico
-<div class="panel-group">
-{% assign filteredissues = site.data.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'Supporto psicologico'"%}
-{% for member in filteredissues %}
-<div class="panel-body">
-<div class="list-group-item">
-<a href="{{site.url}}/issues/{{member.number}}"><h4 class="list-group-item-heading">{{member.title}}</h4></a>
-<dl class="row">
-{% for item in member.issue.data %}
-{% if item[1] != blank %}
-<dt class="col-sm-3">{{item[0] | replace: "_", " " | capitalize_all}}</dt>
-<dd class="col-sm-9">{{item[1] | newline_to_br | auto_link}}</dd>
-{% endif %}
-{% endfor %}
-</dl>
-</div>
-{% include social-share-issue.html %}
-</div>
-{% endfor %}
-</div>
 
 {% assign filteredissues = site.data.issuesjson | where: "state","open" "%}
 <script>
@@ -263,16 +145,41 @@ for (var i=0; i<markerList.length; i++) {
 map.addLayer(markers);
 
 map.addLayer(osm).setView([42.629381, 13.288372], 5);
-var geocoder = L.Control.geocoder({collapsed:false,placeholder:"Cerca...",
-        defaultMarkGeocode: false, geocodingQueryParams: { countrycodes: "it" },
-        })
-.on('markgeocode', function(e) {
-        var latlon=e.geocode.center;
-        $("#lat").html(latlon.lat);
-        $("#lng").html(latlon.lng);
-        var marker = new L.Marker(markerLocation);
-        map.addLayer(marker);
-        })
-.addTo(map);
+
+function getFeaturesInView() {
+    var features = [];
+    for (var i=0; i<markerList.length; i++) {
+            if(map.getBounds().contains(L.latLng(markerList[i][0],markerList[i][1]))) {
+            features.push(markerList[i]);
+            }
+            }
+    return features;
+}
+
+function setVisible(element) {
+    $("#issue"+element[3]).show();
+}
+
+function onMoveEnd(evt) {
+    $(".issuepanel").hide()
+    inView=getFeaturesInView();
+    inView.forEach(setVisible); 
+}
+
+map.on('moveend', onMoveEnd);
+console.log("moveend");
+
+//var geocoder = L.Control.geocoder({collapsed:false,placeholder:"Cerca...",
+//        defaultMarkGeocode: false, geocodingQueryParams: { countrycodes: "it" },
+//        })
+//.on('markgeocode', function(e) {
+//        var latlon=e.geocode.center;
+//        $("#lat").html(latlon.lat);
+//        $("#lng").html(latlon.lng);
+//        var marker = new L.Marker(markerLocation);
+//        map.addLayer(marker);
+//        })
+//.addTo(map);
+
 
 </script>
