@@ -725,6 +725,13 @@ Link: https://www.uniroma1.it/it/notizia/raccolta-fondi-lemergenza-coronavirus-f
 Nome: Fondazione Roma Sapienza
 
 </yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/267,579929358,2020-03-13 10:01:31,2020-03-12 13:12:58,"Appello campagna ""Mi prendo cura del mio vicino"" #Torino",,,"[""Notizia"", ""accettato"", ""form""]",,,"{""Cosa"": ""Appello campagna \""Mi prendo cura del mio vicino\"""", ""Descrizione"": ""L\u2019appello a diventare volontari per le persone pi\u00f9 fragili in questo momento: un modulo ad hoc per aiutare gli anziani del proprio condominio."", ""Link"": ""https://torino.corriere.it/cronaca/20_marzo_07/mi-prendo-cura-mio-vicino-l-appello-diventare-volontari-10ae50b4-6090-11ea-8d61-438e0a276fc4.shtml""}","<pre><yamldata>
+Cosa: Appello campagna ""Mi prendo cura del mio vicino""
+Descrizione: ""L\u2019appello a diventare volontari per le persone pi\xF9 fragili in\
+  \ questo momento: un modulo ad hoc per aiutare gli anziani del proprio condominio.""
+Link: https://torino.corriere.it/cronaca/20_marzo_07/mi-prendo-cura-mio-vicino-l-appello-diventare-volontari-10ae50b4-6090-11ea-8d61-438e0a276fc4.shtml
+
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/266,579927635,2020-03-12 17:18:22,2020-03-12 13:10:05,"Appello ""per un buon vicinato""",,,"[""Notizia"", ""accettato"", ""form""]",,,"{""Cosa"": ""Appello \""per un buon vicinato\"""", ""Descrizione"": ""L'iniziativa \""Mi prendo cura del mio vicino\"", promossa dall'assessore alla Cultura del Municipio 3 di Milano, Luca Costamagna, \u00e8 sostenuta dall'assessore all'Urbanistica, Pierfrancesco Maran, e in consiglio comunale da Alice Arienta. L'invito, diffuso con un post anche sui social, \u00e8 di non dimenticare \""chi \u00e8 solo, chi \u00e8 anziano, chi ha paura\"" soprattutto se nel proprio condominio \""c'\u00e8 qualcuno in questa condizione\"" nei giorni dell'emergenza Covid-19."", ""Link"": ""https://www.ilgiorno.it/milano/cronaca/coronavirus-appello-per-buon-vicinato-da-assessore-e-consiglieri-1.5055209"", ""meta/deprecatedID"": ""uuid:e909aa5a-75d5-4d1c-a145-75e7ca5a5365""}","<pre><yamldata>
 Cosa: Appello ""per un buon vicinato""
 Descrizione: ""L'iniziativa \""Mi prendo cura del mio vicino\"", promossa dall'assessore\
@@ -808,6 +815,13 @@ Destinatari: Tutte e tutti
 Link: https://www.openddb.it/streaming-di-comunita/
 Titolo: ""Streaming di comunit\xE0""
 natura: culturale-ricr
+
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/253,579891397,2020-03-13 10:03:34,2020-03-12 12:03:37,Contro il Covid-19- DONA all’Ospedale di Cetraro,,,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Contro il Covid-19- DONA all\u2019Ospedale di Cetraro"", ""Link"": ""https://www.gofundme.com/f/contro-il-covid19-dona-allospedale-di-cetraro?utm_source=facebook&utm_medium=social&utm_campaign=p_cp+share-sheet&fbclid=IwAR2muSHbMThKAcpZ8Xnm_aN1ZZShhNORR1YoeK1liVN8jVeuUGE99TgCSu8"", ""Nome"": ""Miriam Grosso Ciponte"", ""Posizione"": ""39.530592 15.91854 0 0""}","<pre><yamldata>
+Descrizione: ""Contro il Covid-19- DONA all\u2019Ospedale di Cetraro""
+Link: https://www.gofundme.com/f/contro-il-covid19-dona-allospedale-di-cetraro?utm_source=facebook&utm_medium=social&utm_campaign=p_cp+share-sheet&fbclid=IwAR2muSHbMThKAcpZ8Xnm_aN1ZZShhNORR1YoeK1liVN8jVeuUGE99TgCSu8
+Nome: Miriam Grosso Ciponte
+Posizione: 39.530592 15.91854 0 0
 
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/251,579873870,2020-03-12 12:00:38,2020-03-12 11:29:19,Sostegno psicologico telefonico #Montesilvano (PE),,,"[""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Azienda Speciale Montesilvano"", ""Descrizione"": ""Il numero \u00e8 085 4481216. Risponderanno specialisti dei servizi sociali che sapranno trovare le giuste parole per dare sollievo e tranquillit\u00e0 alle persone stressate, ansiose e prese dal panico a causa della situazione di emergenza che stiamo vivendo."", ""Destinatari"": ""tutti"", ""Natura"": ""solidale"", ""Posizione"": ""42.514487 14.15405 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Sostegno psicologico telefonico"", ""meta/deprecatedID"": ""uuid:c878bfd9-85fb-47ef-a9fa-e5c429b928ed""}","<pre><yamldata>
