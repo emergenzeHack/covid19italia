@@ -104,7 +104,7 @@ for issue in issues:
         pass
 
     if data.has_key("Posizione"):
-        (lat,lon) = data["Posizione"].split(" ")[::2]
+        (lat,lon) = data["Posizione"].split(" ")[:2]
 
     if data.has_key("immagine"):
         image=data['immagine']
