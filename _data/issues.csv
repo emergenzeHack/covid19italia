@@ -885,6 +885,36 @@ Descrizione: ""I punti di assistenza territoriale di Cori, Cisterna, Priverno, S
 Link: https://www.ausl.latina.it/attachments/category/14/Ordinanza%20DG%20del%2011%20Marzo%202020.pdf
 
 </yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/243,579867977,2020-03-13 10:16:43,2020-03-12 11:18:33,Consiglio Letture di Fumetti e Laboratori di fumet,,,"[""Attivita culturali e ricreative"", ""Didattica a distanza e-learning"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Grafite Scuola di Fumetto, Disegno e illustrazione"", ""Descrizione"": ""Grafite Scuola di Fumetto, Disegno e Illustrazione ha deciso di attivare  micro attivit\u00e0 d'intrattenimento online, per un pubblico che spazia dai pi\u00f9 piccini agli adulti, legate al mondo del fumetto e della lettura.\n\nDa oggi parte la rubrica che consiglia tre letture, rigorosamente a fumetti che \u00e8 possibile reperire anche negli store online delle case editrici nazionali ed estere.\n\nNei prossimi giorni verranno attivare anche lezioni gratuite, dalla  pagina ufficiale social di Facebook, per tutti i bambini che vogliano disegnare in compagnia di docenti esperti."", ""Destinatari"": ""Bambini dai 6 anni in su, adolescenti e adulti"", ""Link"": ""https://www.facebook.com/Grafite.Grafica.e.Fumetto/"", ""Natura"": ""didattica"", ""Titolo"": ""Consiglio Letture di Fumetti e Laboratori di fumetto per bambini""}","<pre><yamldata>
+Da_chi_offerta: Grafite Scuola di Fumetto, Disegno e illustrazione
+Descrizione: ""Grafite Scuola di Fumetto, Disegno e Illustrazione ha deciso di attivare\
+  \  micro attivit\xE0 d'intrattenimento online, per un pubblico che spazia dai pi\xF9\
+  \ piccini agli adulti, legate al mondo del fumetto e della lettura.\n\nDa oggi parte\
+  \ la rubrica che consiglia tre letture, rigorosamente a fumetti che \xE8 possibile\
+  \ reperire anche negli store online delle case editrici nazionali ed estere.\n\n\
+  Nei prossimi giorni verranno attivare anche lezioni gratuite, dalla  pagina ufficiale\
+  \ social di Facebook, per tutti i bambini che vogliano disegnare in compagnia di\
+  \ docenti esperti.""
+Destinatari: Bambini dai 6 anni in su, adolescenti e adulti
+Link: https://www.facebook.com/Grafite.Grafica.e.Fumetto/
+Natura: didattica
+Titolo: Consiglio Letture di Fumetti e Laboratori di fumetto per bambini
+
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/242,579867546,2020-03-13 10:17:58,2020-03-12 11:17:48,Spesa a Domicilio #Crotone,,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Coop Crotone (Via Giovanni Paolo II)"", ""Descrizione"": ""Spesa a domicilio a titolo totalmente gratuito per ordini superiori a 30 euro.\n\nTel 3914225686"", ""Destinatari"": ""Senza limiti di et\u00e0"", ""Link"": ""https://www.facebook.com/coopcrotone/"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Spesa a Domicilio""}","<pre><yamldata>
+Da_chi_offerta: Coop Crotone (Via Giovanni Paolo II)
+Descrizione: 'Spesa a domicilio a titolo totalmente gratuito per ordini superiori
+  a 30 euro.
+
+
+  Tel 3914225686'
+Destinatari: ""Senza limiti di et\xE0""
+Link: https://www.facebook.com/coopcrotone/
+Natura: solidale
+Tipo_di_soggetto: privato
+Titolo: Spesa a Domicilio
+
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/236,579857918,2020-03-12 18:59:27,2020-03-12 11:00:36,Linea telefonica per lavoratori in difficoltà,,,"[""Sostegno lavoro e imprese"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Potere al popolo"", ""Descrizione"": "" Come puntualmente accade in occasione di ogni evento emergenziale, anche nel caso dell'odierno coronavirus spuntano gli sciacalli e i profittatori. In questi giorni fioccano da ogni dove le segnalazioni pi\u00f9 disparate: pressioni per andare in ferie forzate, lavoratori che non sanno come regolarsi rispetto alle richieste di non venire a lavoro (frequentemente con sospensione dello stipendio), dipendenti licenziati di punto in bianco, deregolamentazione nei settori dove \u00e8 possibile l'utilizzo del lavoro a distanza, mancanza di sistemi adeguati per la tutela della salute dei dipendenti, e si potrebbero fare mille altri esempi.\n\n Hai un dubbio? Sei stato licenziato a causa del corona-virus? Non sai se quello che il tuo datore di lavoro sta pretendendo in questo periodo \u00e8 legale? Vuoi segnalare la situazione del tuo luogo di lavoro?\nChiamaci, chiedi, segnala:\n\ndal Luned\u00ec al Venerd\u00ec\ndalle 11:30 alle 13:00 al 3283965965\ndalle 13,00 alle 15,00 al 3208719037\ndalle ore 18:00 alle 19:30 al 3519675727\ndalle 19:00 alle 20:30 al 3272979156"", ""Destinatari"": ""Lavoratori che hanno bisogno di consulenza"", ""Link"": ""https://poterealpopolo.org/il-coronavirus-non-contagi-i-diritti-dei-lavoratori-parte-la-nostra-assistenza-telefonica/"", ""Natura"": ""sostegno-lavor"", ""Titolo"": ""Linea telefonica per lavoratori in difficolt\u00e0""}","<pre><yamldata>
 Da_chi_offerta: Potere al popolo
 Descrizione: "" Come puntualmente accade in occasione di ogni evento\
@@ -1655,16 +1685,6 @@ fonte: http://pigneto.romatoday.it/pigneto/progetto-spesa-anziani-sparwasser.htm
 provincia: Roma
 regione: Lazio
 tag: Consegne e commissioni
-</yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/134,578926040,2020-03-12 11:40:42,2020-03-10 23:53:44,Consegne e commissioni a domicilio #Cosenza,,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato""]",,,"{""chi"": ""Ass. La Terra di Piero"", ""comune"": ""Cosenza"", ""contatti"": ""info@laterradipiero.it"", ""descrizione"": ""Servizi a domicilio"", ""destinatari"": ""Tutti"", ""fonte"": ""https://www.facebook.com/880454068642880/posts/2988423671179232/"", ""provincia"": ""Cosenza"", ""regione"": ""Calabria"", ""tag"": ""Servizi e iniziative solidali private""}","<pre><yamldata>chi: Ass. La Terra di Piero
-comune: Cosenza
-contatti: info@laterradipiero.it
-descrizione: Servizi a domicilio
-destinatari: Tutti
-fonte: https://www.facebook.com/880454068642880/posts/2988423671179232/
-provincia: Cosenza
-regione: Calabria
-tag: Servizi e iniziative solidali private
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/133,578926035,2020-03-11 14:26:54,2020-03-10 23:53:43,Numero Radio Ciroma per segnalare disagi e criticità #Ciroma (CS),,,"[""Contatti utili"", ""Informazioni utili"", ""accettato""]",,,"{""chi"": ""Radio Ciroma"", ""comune"": ""Cosenza"", ""contatti"": ""366 4185972"", ""descrizione"": ""Informazioni su disagi e criticit\u00e0"", ""destinatari"": ""tutti"", ""fonte"": ""https://www.facebook.com/photo.php?fbid=10218261149973887&set=p.10218261149973887&type=3&theater"", ""provincia"": ""Cosenza"", ""regione"": ""Calabria"", ""tag"": ""Servizi e iniziative solidali private""}","<pre><yamldata>chi: Radio Ciroma
 comune: Cosenza
