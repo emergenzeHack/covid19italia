@@ -915,6 +915,30 @@ Tipo_di_soggetto: privato
 Titolo: Spesa a Domicilio
 
 </yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/240,579860990,2020-03-13 10:21:15,2020-03-12 11:06:10,Spesa alimentare e sanitaria #Avellino,,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comunit\u00e0 resistente avellinese"", ""Descrizione"": ""Attivo il numero 0825 784631 e il centralino presso la Misericordia, che sar\u00e0 anche il centro operativo del sistema di aiuto volontari, a cui \u00e8 possibile segnalare le necessit\u00e0 per spesa alimentare e sanitaria."", ""Destinatari"": ""anziani, diversamente abili e persone sole con problematiche sanitarie"", ""Link"": ""https://www.facebook.com/SomaAvellino/photos/a.185436282076457/547183339235081/?type=3&theater"", ""Natura"": ""solidale"", ""Posizione"": ""40.91433 14.788846 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Spesa alimentare e sanitaria""}","<pre><yamldata>
+Da_chi_offerta: ""Comunit\xE0 resistente avellinese""
+Descrizione: ""Attivo il numero 0825 784631 e il centralino presso la Misericordia,\
+  \ che sar\xE0 anche il centro operativo del sistema di aiuto volontari, a cui \xE8\
+  \ possibile segnalare le necessit\xE0 per spesa alimentare e sanitaria.""
+Destinatari: anziani, diversamente abili e persone sole con problematiche sanitarie
+Link: https://www.facebook.com/SomaAvellino/photos/a.185436282076457/547183339235081/?type=3&theater
+Natura: solidale
+Posizione: 40.91433 14.788846 0 0
+Tipo_di_soggetto: privato
+Titolo: Spesa alimentare e sanitaria
+
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/239,579858500,2020-03-13 10:23:25,2020-03-12 11:01:42,Spesa e farmaci a domicilio #Roma,,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Nonna Roma - banco del mutuo soccorso"", ""Descrizione"": ""Consegna di beni di prima necessit\u00e0 e commissioni"", ""Destinatari"": ""over 65, soggetti deboli"", ""Link"": ""https://www.facebook.com/associazionenonnaroma/photos/a.1862332007427517/2549364052057639/?type=3&theater"", ""Natura"": ""solidale"", ""Posizione"": ""41.800108 12.600858 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Spesa e farmaci a domicilio""}","<pre><yamldata>
+Da_chi_offerta: Nonna Roma - banco del mutuo soccorso
+Descrizione: ""Consegna di beni di prima necessit\xE0 e commissioni""
+Destinatari: over 65, soggetti deboli
+Link: https://www.facebook.com/associazionenonnaroma/photos/a.1862332007427517/2549364052057639/?type=3&theater
+Natura: solidale
+Posizione: 41.800108 12.600858 0 0
+Tipo_di_soggetto: privato
+Titolo: Spesa e farmaci a domicilio
+
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/236,579857918,2020-03-12 18:59:27,2020-03-12 11:00:36,Linea telefonica per lavoratori in difficoltà,,,"[""Sostegno lavoro e imprese"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Potere al popolo"", ""Descrizione"": "" Come puntualmente accade in occasione di ogni evento emergenziale, anche nel caso dell'odierno coronavirus spuntano gli sciacalli e i profittatori. In questi giorni fioccano da ogni dove le segnalazioni pi\u00f9 disparate: pressioni per andare in ferie forzate, lavoratori che non sanno come regolarsi rispetto alle richieste di non venire a lavoro (frequentemente con sospensione dello stipendio), dipendenti licenziati di punto in bianco, deregolamentazione nei settori dove \u00e8 possibile l'utilizzo del lavoro a distanza, mancanza di sistemi adeguati per la tutela della salute dei dipendenti, e si potrebbero fare mille altri esempi.\n\n Hai un dubbio? Sei stato licenziato a causa del corona-virus? Non sai se quello che il tuo datore di lavoro sta pretendendo in questo periodo \u00e8 legale? Vuoi segnalare la situazione del tuo luogo di lavoro?\nChiamaci, chiedi, segnala:\n\ndal Luned\u00ec al Venerd\u00ec\ndalle 11:30 alle 13:00 al 3283965965\ndalle 13,00 alle 15,00 al 3208719037\ndalle ore 18:00 alle 19:30 al 3519675727\ndalle 19:00 alle 20:30 al 3272979156"", ""Destinatari"": ""Lavoratori che hanno bisogno di consulenza"", ""Link"": ""https://poterealpopolo.org/il-coronavirus-non-contagi-i-diritti-dei-lavoratori-parte-la-nostra-assistenza-telefonica/"", ""Natura"": ""sostegno-lavor"", ""Titolo"": ""Linea telefonica per lavoratori in difficolt\u00e0""}","<pre><yamldata>
 Da_chi_offerta: Potere al popolo
 Descrizione: "" Come puntualmente accade in occasione di ogni evento\
@@ -1686,6 +1710,16 @@ provincia: Roma
 regione: Lazio
 tag: Consegne e commissioni
 </yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/134,578926040,2020-03-13 10:22:31,2020-03-10 23:53:44,Consegne e commissioni a domicilio #Cosenza,,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato""]",,,"{""chi"": ""Ass. La Terra di Piero"", ""comune"": ""Cosenza"", ""contatti"": ""info@laterradipiero.it"", ""descrizione"": ""Servizi a domicilio"", ""destinatari"": ""Tutti"", ""fonte"": ""https://www.facebook.com/880454068642880/posts/2988423671179232/"", ""provincia"": ""Cosenza"", ""regione"": ""Calabria"", ""tag"": ""Servizi e iniziative solidali private""}","<pre><yamldata>chi: Ass. La Terra di Piero
+comune: Cosenza
+contatti: info@laterradipiero.it
+descrizione: Servizi a domicilio
+destinatari: Tutti
+fonte: https://www.facebook.com/880454068642880/posts/2988423671179232/
+provincia: Cosenza
+regione: Calabria
+tag: Servizi e iniziative solidali private
+</yamldata></pre>",closed
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/133,578926035,2020-03-11 14:26:54,2020-03-10 23:53:43,Numero Radio Ciroma per segnalare disagi e criticità #Ciroma (CS),,,"[""Contatti utili"", ""Informazioni utili"", ""accettato""]",,,"{""chi"": ""Radio Ciroma"", ""comune"": ""Cosenza"", ""contatti"": ""366 4185972"", ""descrizione"": ""Informazioni su disagi e criticit\u00e0"", ""destinatari"": ""tutti"", ""fonte"": ""https://www.facebook.com/photo.php?fbid=10218261149973887&set=p.10218261149973887&type=3&theater"", ""provincia"": ""Cosenza"", ""regione"": ""Calabria"", ""tag"": ""Servizi e iniziative solidali private""}","<pre><yamldata>chi: Radio Ciroma
 comune: Cosenza
 contatti: 366 4185972
