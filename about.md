@@ -23,13 +23,19 @@ Infine, raccogliamo normative, direttive istituzionali e dati.
 
 Non si intende in alcun modo sostituirsi a fonti istituzionali di informazione a cui rimandiamo caldamente per l'attendibilità.
 
-Il progetto, laddove lo si ritenga utile, è usabile da organizzazioni, associazioni, gruppi informali ed anche pubbliche amministrazioni che avessero bisogno di un servizio per informare e attivarsi per rispondere all’emergenza covid19.
+### Riuso
+
+Ogni componente software che sviluppiamo è rilasciato con una licenza Open Source che ne permette il riuso e ne promuove lo sviluppo pubblicamente.
+
+I dati che raccogliamo e produciamo vengono pubblicati e tenuti aggiornati come [Open Data](https://www.covid19italia.info/opendata/).
+
+Laddove lo si ritenga utile, tutta l'infrastruttura è ri-usabile da organizzazioni, associazioni, gruppi informali ed anche pubbliche amministrazioni che avessero bisogno di un servizio per informare e attivarsi per rispondere all’emergenza covid19.
 
 Il progetto è descritto tramite il nostro [wiki](https://github.com/emergenzeHack/covid19italia/wiki).
 
 L'idea ed anche buona parte del progetto è dello stesso team che ha sviluppato il progetto [TerremotoCentroItalia](https://www.terremotocentroitalia.info).
 
-### Credits
+### Ringraziamenti
 
 Un grazie sentito a :
 
