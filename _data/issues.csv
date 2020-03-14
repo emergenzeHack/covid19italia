@@ -3089,7 +3089,7 @@ provincia: Roma
 regione: Lazio
 tag: Raccolta fondi
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/84,578924963,2020-03-11 15:24:18,2020-03-10 23:50:03,Raccolta fondi per ospedale di #Bergamo,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Tifosi dell'Atalanta"", ""comune"": ""Bergamo"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per l'ospedale di Bergamo"", ""destinatari"": """", ""fonte"": ""https://www.inews24.it/2020/03/10/atalanta-solidarieta-tifosi-coronavirus-ospedale-bergamo/"", ""provincia"": ""Bergamo"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Tifosi dell'Atalanta
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/84,578924963,2020-03-14 13:06:54,2020-03-10 23:50:03,Raccolta fondi per ospedale di #Bergamo,45.6872029,9.638849222162662,"[""Bollettino"", ""Raccolte fondi"", ""accettato""]",,,"{""Posizione"": ""45.6872029 9.638849222162662 0 0"", ""chi"": ""Tifosi dell'Atalanta"", ""comune"": ""Bergamo"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per l'ospedale di Bergamo"", ""destinatari"": """", ""fonte"": ""https://www.inews24.it/2020/03/10/atalanta-solidarieta-tifosi-coronavirus-ospedale-bergamo/"", ""provincia"": ""Bergamo"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Tifosi dell'Atalanta
 comune: Bergamo
 contatti: ''
 descrizione: Raccolta fondi per l'ospedale di Bergamo
@@ -3098,6 +3098,7 @@ fonte: https://www.inews24.it/2020/03/10/atalanta-solidarieta-tifosi-coronavirus
 provincia: Bergamo
 regione: Lombardia
 tag: Raccolta fondi
+Posizione: 45.6872029 9.638849222162662 0 0
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/83,578924958,2020-03-14 13:05:14,2020-03-10 23:50:02,Raccolta fondi per potenziare terapia intensiva Ospedale #Ancona,43.602151,13.4554432,"[""Raccolte fondi"", ""accettato""]",,,"{""Posizione"": ""43.602151 13.4554432 0 0"", ""chi"": ""Privata cittadina in collaborazione con azienda ospedaliera"", ""comune"": ""Ancona"", ""contatti"": """", ""descrizione"": ""potenziamento terapia intensiva Azienda Ospedali Riuniti di Torrette."", ""destinatari"": ""tutti"", ""fonte"": ""https://www.gofundme.com/f/donazione-per-ospedale-torrette?utm_source=customer&utm_medium=copy_link&utm_campaign=m_pd+share-sheet"", ""provincia"": ""Ancona"", ""regione"": ""Marche"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Privata cittadina in collaborazione con azienda ospedaliera
 comune: Ancona
