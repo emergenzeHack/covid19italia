@@ -3139,7 +3139,7 @@ provincia: Monza
 regione: Lombardia
 tag: Raccolta fondi
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/79,578924929,2020-03-11 15:31:49,2020-03-10 23:49:58,Raccolta fondi Fondazione Comunità Bresciana per Ospedali #Brescia,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Fondazione Comunita Bresciana Onlus"", ""comune"": ""Brescia"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per Ospedali bresciani"", ""destinatari"": ""tutti"", ""fonte"": ""https://www.giornaledibrescia.it/brescia-e-hinterland/aiutiamobrescia-la-raccolta-fondi-per-gli-ospedali-bresciani-1.3465790?fbclid=IwAR0nAj44EoQXlyk9Cf22_L0wBojOPTtlOgizEHPZsVBp1JPNrAbMHuoGVRw"", ""provincia"": ""Brescia"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Fondazione Comunita Bresciana Onlus
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/79,578924929,2020-03-14 12:56:50,2020-03-10 23:49:58,Raccolta fondi Fondazione Comunità Bresciana per Ospedali #Brescia,45.55746175,10.231261014351258,"[""Raccolte fondi"", ""accettato""]",,,"{""Posizione"": ""45.55746175 10.231261014351258 0 0"", ""chi"": ""Fondazione Comunita Bresciana Onlus"", ""comune"": ""Brescia"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per Ospedali bresciani"", ""destinatari"": ""tutti"", ""fonte"": ""https://www.giornaledibrescia.it/brescia-e-hinterland/aiutiamobrescia-la-raccolta-fondi-per-gli-ospedali-bresciani-1.3465790?fbclid=IwAR0nAj44EoQXlyk9Cf22_L0wBojOPTtlOgizEHPZsVBp1JPNrAbMHuoGVRw"", ""provincia"": ""Brescia"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Fondazione Comunita Bresciana Onlus
 comune: Brescia
 contatti: ''
 descrizione: Raccolta fondi per Ospedali bresciani
@@ -3148,6 +3148,7 @@ fonte: https://www.giornaledibrescia.it/brescia-e-hinterland/aiutiamobrescia-la-
 provincia: Brescia
 regione: Lombardia
 tag: Raccolta fondi
+Posizione: 45.55746175 10.231261014351258 0 0 
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/78,578924921,2020-03-14 12:51:48,2020-03-10 23:49:57,Raccolta fondi per acquisto materiale di protezione individuale per volontari #Lodi,45.1793292,9.6483958,"[""Raccolte fondi"", ""accettato""]",,,"{""Posizione"": ""45.1793292 9.6483958 0 0"", ""chi"": ""Associazione Volontaria Croce Casalese e Paesi Limitrofi"", ""comune"": ""Lodi"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per acquisto di materiale di protezione individuale (mascherine FFP2/3, disinfettanti, tute protettive, guanti e occhiali) e altri presidi di tipo essenziale per l'implementazione dei protocolli d'emergenza."", ""destinatari"": ""residenti prov. Lodi"", ""fonte"": ""https://www.gofundme.com/f/vqmkx9-aiutaci-ad-aiutare?fbclid=IwAR2_nOU3wD4aWialN-fGVF8MfSpZG-iSFUYiQqMjgZU3NogavzdOP0nhzBY"", ""provincia"": ""Lodi"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Associazione Volontaria Croce Casalese e Paesi Limitrofi
 comune: Lodi
