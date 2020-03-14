@@ -2919,7 +2919,7 @@ provincia: Milano
 regione: Lombardia
 tag: Raccolta fondi
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/139,578926059,2020-03-11 11:03:49,2020-03-10 23:53:48,Raccolta fondi per Ospedale Maggiore Policlinico di #Milano ,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Ospedale Maggiore Policlinico"", ""comune"": ""Milano "", ""contatti"": """", ""descrizione"": ""Raccolta Fondi Ospedale Maggiore Policlinico"", ""destinatari"": ""Tutt"", ""fonte"": ""https://www.policlinico.mi.it/donazioni-lotta-al-coronavirus"", ""provincia"": ""Milano"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Ospedale Maggiore Policlinico
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/139,578926059,2020-03-14 16:21:40,2020-03-10 23:53:48,Raccolta fondi per Ospedale Maggiore Policlinico di #Milano ,45.462833,9.1984326,"[""Raccolte fondi"", ""accettato""]",,,"{""Posizione"": ""45.462833 9.1984326 0 0"", ""chi"": ""Ospedale Maggiore Policlinico"", ""comune"": ""Milano "", ""contatti"": """", ""descrizione"": ""Raccolta Fondi Ospedale Maggiore Policlinico"", ""destinatari"": ""Tutt"", ""fonte"": ""https://www.policlinico.mi.it/donazioni-lotta-al-coronavirus"", ""provincia"": ""Milano"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Ospedale Maggiore Policlinico
 comune: 'Milano '
 contatti: ''
 descrizione: Raccolta Fondi Ospedale Maggiore Policlinico
@@ -2928,6 +2928,7 @@ fonte: https://www.policlinico.mi.it/donazioni-lotta-al-coronavirus
 provincia: Milano
 regione: Lombardia
 tag: Raccolta fondi
+Posizione: 45.462833 9.1984326 0 0
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/138,578926057,2020-03-14 16:20:28,2020-03-10 23:53:47,Raccolta fondi IRCCS San Raffaele di #Milano,45.4991896,9.2291827,"[""Raccolte fondi"", ""accettato""]",,,"{""Posizione"": ""45.4991896 9.2291827 0 0"", ""chi"": ""Ospedale San Raffaele"", ""comune"": ""Milano "", ""contatti"": """", ""descrizione"": ""Raccolta fondi IRCCS San Raffaele"", ""destinatari"": ""Tutti"", ""fonte"": ""https://register.hsr.it/donazioni/donazione.aspx"", ""provincia"": ""Milano"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Ospedale San Raffaele
 comune: 'Milano '
