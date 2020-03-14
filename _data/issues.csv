@@ -3018,7 +3018,7 @@ provincia: Italia
 regione: Italia
 tag: Servizi e iniziative solidali pubbliche
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/91,578925309,2020-03-11 23:02:49,2020-03-10 23:51:07,Comune di #Milano: indirizzo mail per raccogliere iniziative a favore over 65,,,"[""Servizi e iniziative solidali pubbliche"", ""accettato""]",,,"{""chi"": ""Comune di Milano"", ""comune"": ""Milano"", ""contatti"": ""milanoaiuta@comune.milano.it"", ""descrizione"": ""Raccolta disponibilit\u00e0 per servizi di sostegno a anziani e altre persone che non possono uscire"", ""destinatari"": ""Over 65"", ""fonte"": ""https://www.comune.milano.it/-/politiche-sociali.-milano-aiuta-un-indirizzo-mail-per-raccogliere-le-iniziative-a-favore-degli-over-65"", ""provincia"": ""Milano"", ""regione"": ""Lombardia"", ""tag"": ""Servizi e iniziative solidali pubbliche""}","<pre><yamldata>chi: Comune di Milano
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/91,578925309,2020-03-14 13:23:32,2020-03-10 23:51:07,Comune di #Milano: indirizzo mail per raccogliere iniziative a favore over 65,45.4633626,9.1899309,"[""Bollettino"", ""Servizi e iniziative solidali pubbliche"", ""accettato""]",,,"{""Posizione"": ""45.4633626 9.1899309 0 0"", ""chi"": ""Comune di Milano"", ""comune"": ""Milano"", ""contatti"": ""milanoaiuta@comune.milano.it"", ""descrizione"": ""Raccolta disponibilit\u00e0 per servizi di sostegno a anziani e altre persone che non possono uscire"", ""destinatari"": ""Over 65"", ""fonte"": ""https://www.comune.milano.it/-/politiche-sociali.-milano-aiuta-un-indirizzo-mail-per-raccogliere-le-iniziative-a-favore-degli-over-65"", ""provincia"": ""Milano"", ""regione"": ""Lombardia"", ""tag"": ""Servizi e iniziative solidali pubbliche""}","<pre><yamldata>chi: Comune di Milano
 comune: Milano
 contatti: milanoaiuta@comune.milano.it
 descrizione: ""Raccolta disponibilit\xE0 per servizi di sostegno a anziani e altre\
@@ -3028,6 +3028,7 @@ fonte: https://www.comune.milano.it/-/politiche-sociali.-milano-aiuta-un-indiriz
 provincia: Milano
 regione: Lombardia
 tag: Servizi e iniziative solidali pubbliche
+Posizione: 45.4633626 9.1899309 0 0
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/90,578924999,2020-03-14 13:19:29,2020-03-10 23:50:09,Raccolta fondi per potenziare terapie intensive #Abruzzo,42.3537442,13.3954059,"[""Bollettino"", ""Raccolte fondi"", ""accettato""]",,,"{""Posizione"": ""42.3537442 13.3954059 0 0"", ""chi"": ""Si Scrive Abruzzo"", ""comune"": """", ""contatti"": """", ""descrizione"": ""Campagna per potenziare le terapie intensive degli ospedali nella regione Abruzzo"", ""destinatari"": ""ASL Abruzzo"", ""fonte"": ""https://www.gofundme.com/f/abruzzo-rafforziamo-la-terapia-intensiva?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet"", ""provincia"": """", ""regione"": ""Abruzzo"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Si Scrive Abruzzo
 comune: ''
