@@ -588,7 +588,7 @@ Destinatari: Personale medico
 Link: https://www.facebook.com/ti.no.7140?sk=wall&fref=gs&dti=2921275147894653&hc_location=group_dialog
 </yamldata></pre>
 ",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/403,581169599,2020-03-14 21:55:17,2020-03-14 11:41:12,Centro antiviolenza Eva offre supporto telefonico h24 #BustoArsizio,,,"[""Bollettino"", ""Donne"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Centro Antiviolenza Eva onlus"", ""Descrizione"": ""Si conferma reperibilit\u00e0 telefonica h 24 per i nostri servizi"", ""Link"": ""https://www.dropbox.com/s/vkf8fneiuvwziwr/Volantino%20retro%202018.pdf?dl=0"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Reperibilit\u00e0""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/403,581169599,2020-03-14 21:55:50,2020-03-14 11:41:12,Centro antiviolenza Eva offre supporto telefonico h24 #BustoArsizio,,,"[""Bollettino"", ""Donne"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Centro Antiviolenza Eva onlus"", ""Descrizione"": ""Si conferma reperibilit\u00e0 telefonica h 24 per i nostri servizi"", ""Link"": ""https://www.dropbox.com/s/vkf8fneiuvwziwr/Volantino%20retro%202018.pdf?dl=0"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Reperibilit\u00e0""}","<pre><yamldata>
 Da_chi_offerta: Centro Antiviolenza Eva onlus
 Descrizione: Si conferma reperibilità telefonica h 24 per i nostri servizi
 Link: https://www.dropbox.com/s/vkf8fneiuvwziwr/Volantino%20retro%202018.pdf?dl=0
@@ -957,7 +957,7 @@ Posizione: 42.348088 13.398353 0 0
 Tipo_di_soggetto: privato
 Titolo: Supporto per le donne che subiscono violenza domestica
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/376,580920464,2020-03-14 21:50:27,2020-03-13 23:07:45,I-Dea Centro Antiviolenza offre supporto telefonico per donne #Maccarese #Fiumicino ,,,"[""Donne"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Cosa"": ""Supporto per donne che subiscono violenza domestica"", ""Descrizione"": ""Disponibilit\u00e0 H24 per colloqui telefonici di supporto, per emergenze contattare invece forze dell'ordine"", ""Destinatari"": ""Donne che subiscono violenza domestica"", ""Indirizzo"": ""41.877323 12.214706 0 0"", ""Link"": ""https://www.facebook.com/centroantiviolenza.idea"", ""Telefono"": ""3661245342""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/376,580920464,2020-03-14 21:56:05,2020-03-13 23:07:45,I-Dea Centro Antiviolenza offre supporto telefonico per donne #Maccarese #Fiumicino ,,,"[""Donne"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Cosa"": ""Supporto per donne che subiscono violenza domestica"", ""Descrizione"": ""Disponibilit\u00e0 H24 per colloqui telefonici di supporto, per emergenze contattare invece forze dell'ordine"", ""Destinatari"": ""Donne che subiscono violenza domestica"", ""Indirizzo"": ""41.877323 12.214706 0 0"", ""Link"": ""https://www.facebook.com/centroantiviolenza.idea"", ""Telefono"": ""3661245342""}","<pre><yamldata>
 Cosa: Supporto per donne che subiscono violenza domestica
 Descrizione: Disponibilità H24 per colloqui telefonici di supporto, per emergenze
   contattare invece forze dell'ordine
@@ -2925,7 +2925,7 @@ Titolo: Supporto psicologico telefonico
 meta/deprecatedID: uuid:a3047295-d066-49b1-95eb-8d9e34ecde11
 natura: solidale
 ```",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/164,579351957,2020-03-14 21:44:16,2020-03-11 15:31:46,A #Brindisi il centro antiviolenza rimane attivo,,,"[""Bollettino"", ""Donne"", ""Notizie"", ""accettato"", ""form""]",,,{},"```
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/164,579351957,2020-03-14 21:56:25,2020-03-11 15:31:46,A #Brindisi il centro antiviolenza rimane attivo,,,"[""Bollettino"", ""Donne"", ""Notizie"", ""Supporto psicologico"", ""accettato"", ""form""]",,,{},"```
 Cosa: 'CAV cittadini attivi #Brindisi'
 Descrizione: ""Dopo aver discusso insieme agli altri CAV della Regione Puglia, Brindisi\
   \ sta mantenendo aperto il servizio:\n-\tassistenza telefonica \n-\tda ieri stanno\
