@@ -3049,7 +3049,7 @@ provincia: ''
 regione: ''
 tag: Raccolta fondi
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/88,578924989,2020-03-11 12:19:21,2020-03-10 23:50:07,Raccolta Fondi online per sostenere Ospedale di #LameziaTerme,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Vincenzo Bernardi"", ""comune"": ""Lamezia Terme"", ""contatti"": """", ""descrizione"": ""Raccolta Fondi online per sostenere Ospedale di Lamezia Terme"", ""destinatari"": ""\u2018tutti\u2019"", ""fonte"": ""https://www.gofundme.com/f/raccolta-fondi-covid19-ospedale-di-lamezia-terme?fbclid=IwAR2gUvAXo5xe0FnNGEPc8_FOx3xiDHC18QPA0RCiYt53TZyiZ8hqYHT4tMk"", ""provincia"": ""Cosenza"", ""regione"": ""Calabria"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Vincenzo Bernardi
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/88,578924989,2020-03-14 13:14:26,2020-03-10 23:50:07,Raccolta Fondi online per sostenere Ospedale di #LameziaTerme,38.9391666,16.2634823,"[""Raccolte fondi"", ""accettato""]",,,"{""Posizione"": ""38.9391666 16.2634823 0 0"", ""chi"": ""Vincenzo Bernardi"", ""comune"": ""Lamezia Terme"", ""contatti"": """", ""descrizione"": ""Raccolta Fondi online per sostenere Ospedale di Lamezia Terme"", ""destinatari"": ""\u2018tutti\u2019"", ""fonte"": ""https://www.gofundme.com/f/raccolta-fondi-covid19-ospedale-di-lamezia-terme?fbclid=IwAR2gUvAXo5xe0FnNGEPc8_FOx3xiDHC18QPA0RCiYt53TZyiZ8hqYHT4tMk"", ""provincia"": ""Cosenza"", ""regione"": ""Calabria"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Vincenzo Bernardi
 comune: Lamezia Terme
 contatti: ''
 descrizione: Raccolta Fondi online per sostenere Ospedale di Lamezia Terme
@@ -3058,6 +3058,7 @@ fonte: https://www.gofundme.com/f/raccolta-fondi-covid19-ospedale-di-lamezia-ter
 provincia: Cosenza
 regione: Calabria
 tag: Raccolta fondi
+Posizione: 38.9391666 16.2634823 0 0 
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/87,578924984,2020-03-14 13:12:01,2020-03-10 23:50:06,Raccolta fondi online per sostenere Azienda Ospedaliera #Catanzaro,38.9183594,16.5849566,"[""Bollettino"", ""Raccolte fondi"", ""accettato""]",,,"{""Posizione"": ""38.9183594 16.5849566 0 0"", ""chi"": ""Club Service Catanzaro"", ""comune"": ""Catanzaro"", ""contatti"": """", ""descrizione"": ""Raccolta Fondi per sostenere Azienda Ospedaliera Pugliese-Ciaccio"", ""destinatari"": ""tutti"", ""fonte"": ""https://www.gofundme.com/f/emergenza-covid19-aiutiamo-il-puglieseciaccio?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet&fbclid=IwAR1expolR3-WdZT3pG7XCrJVH401W8bcGI8unHh9b_X1Zv63PmufHsRac8A"", ""provincia"": ""Catanzaro"", ""regione"": ""Calabria"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Club Service Catanzaro
 comune: Catanzaro
