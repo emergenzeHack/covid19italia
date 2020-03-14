@@ -1,5 +1,5 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/515,581390196,2020-03-14 22:02:28,2020-03-14 22:01:02,Raccolta fondi per il servizio sanitario della Regione #Molise,,,"[""Bollettino"", ""Posizione da verificare"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Alla luce dell'emergenza sanitaria che ha coinvolto l'Italia e, di conseguenza, anche la Regione Molise\nabbiamo deciso di attivarci per supportare il sistema sanitario Molisano.\n\nI fondi raccolti saranno donati a favore dell'Azienda sanitaria regionale del Molise.\n\nOgnuno pu\u00f2 fare la sua parte, basta anche un piccolo contributo per fare la differenza.\n\nFacciamo in modo che le donazioni si diffondano pi\u00f9 velocemente del virus!\nGRAZIE DI CUORE"", ""Indirizzo"": ""41.35691056 13.42990802"", ""Link"": ""https://www.facebook.com/groups/covid19italia/permalink/2928461120509389/"", ""Nome"": ""raccolta fondi a favore dell'Azienda sanitaria regionale del Molise.""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/515,581390196,2020-03-14 22:07:06,2020-03-14 22:01:02,Raccolta fondi per il servizio sanitario della Regione #Molise,,,"[""Bollettino"", ""Posizione da verificare"", ""Raccolte fondi"", ""accettato"", ""form""]",,,{},"<pre><yamldata>
 Descrizione: 'Alla luce dell''emergenza sanitaria che ha coinvolto l''Italia e, di
   conseguenza, anche la Regione Molise
 
@@ -15,7 +15,11 @@ Descrizione: 'Alla luce dell''emergenza sanitaria che ha coinvolto l''Italia e, 
   Facciamo in modo che le donazioni si diffondano più velocemente del virus!
 
   GRAZIE DI CUORE'
-Indirizzo: 41.35691056 13.42990802
+Indirizzo: 41.5553562,14.6571837
+--
+
+
+
 Link: https://www.facebook.com/groups/covid19italia/permalink/2928461120509389/
 Nome: raccolta fondi a favore dell'Azienda sanitaria regionale del Molise.
 </yamldata></pre>",open
@@ -2080,7 +2084,7 @@ Descrizione: Servizio per tutti i residenti over 65 nel comune di Cogliate per c
 Link: https://www.ilnotiziario.net/wp/2020/03/06/coronavirus-cogliate-comune-volontari-spesa-farmaci-domicilio/
 Posizione: 45.64548 9.08073 0 0
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/290,580040474,2020-03-13 16:51:15,2020-03-12 15:57:51,Sportello lavoro #Milano,45.46109,9.19001,"[""Sostegno lavoro e imprese"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""LatoB - L'altro lato di Milano"", ""Descrizione"": ""L\u2019avvocato che si occupa da un anno dello sportello lavoro \u00e8 disponibile per chi avesse dubbi sulla propria situazione lavorativa, i propri diritti e doveri soprattutto sotto la nuova ordinanza. Scrivete alla pagina FB di lato B per fissare un appuntamento telefonico o le vostre domande."", ""Destinatari"": ""Tutti e tutte"", ""Link"": ""http://www.latobmilano.it/2020/03/coronavirus-lato-b-chiude-le-attivita-continuano/ | https://www.facebook.com/LatoBmilano/?__tn__=kC-R&eid=ARCBr-4xTLHU2vFNMuVec4R_FgcBbqFcYZ3WdRcp-7Z9U6v7kIGB63j0_ZGffGzXBRxHSsi57oMZTcWy&hc_ref=ARQ3cpBOE3c8D7r32cvcWPH8YqHiumKxgL5kTUasnR-IUynA3AkPBbqn18nKBa6KjTo&fref=nf&__xts__[0]=68.ARDEaw7r7itur7WNITEOX1gV-FhCDskAIPIC2HD9UqUVhmcCGX1tDYHty-ST9_6jUvWe-mgSrcBAR4nbbzA-XkOZXUntndNyUU0pg4G7M5FnVqYqOpho4LGMk1czCApiAg-8j9979jyhhW1GLKpD4YOey8kxysWPaTOIl5TdEk5_AfDT5FRO5P6lKMsVicBKUvB5PIeTbCd7uFBGhxMkFRhcMeQAFH4BEBriMpbXksELg0ws_sE9mQeJ77cic-H7sJbQ1ObEvemTUmFO5IfNJdrj3jzCSHynKkUKWRkUYFa1Ax02S-R9r0jfJs3g6PI99aCZteaMx-0jNqJf1A"", ""Natura"": ""sostegno-lavor"", ""Posizione"": ""45.46109 9.19001 0 0"", ""Titolo"": ""Sportello lavoro""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/290,580040474,2020-03-14 22:06:48,2020-03-12 15:57:51,"Sportello lavoro, consulenza legale telefonica #Milano",45.46109,9.19001,"[""Informazioni utili"", ""Notizie"", ""Sostegno lavoro e imprese"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""LatoB - L'altro lato di Milano"", ""Descrizione"": ""L\u2019avvocato che si occupa da un anno dello sportello lavoro \u00e8 disponibile per chi avesse dubbi sulla propria situazione lavorativa, i propri diritti e doveri soprattutto sotto la nuova ordinanza. Scrivete alla pagina FB di lato B per fissare un appuntamento telefonico o le vostre domande."", ""Destinatari"": ""Tutti e tutte"", ""Link"": ""http://www.latobmilano.it/2020/03/coronavirus-lato-b-chiude-le-attivita-continuano/ | https://www.facebook.com/LatoBmilano/?__tn__=kC-R&eid=ARCBr-4xTLHU2vFNMuVec4R_FgcBbqFcYZ3WdRcp-7Z9U6v7kIGB63j0_ZGffGzXBRxHSsi57oMZTcWy&hc_ref=ARQ3cpBOE3c8D7r32cvcWPH8YqHiumKxgL5kTUasnR-IUynA3AkPBbqn18nKBa6KjTo&fref=nf&__xts__[0]=68.ARDEaw7r7itur7WNITEOX1gV-FhCDskAIPIC2HD9UqUVhmcCGX1tDYHty-ST9_6jUvWe-mgSrcBAR4nbbzA-XkOZXUntndNyUU0pg4G7M5FnVqYqOpho4LGMk1czCApiAg-8j9979jyhhW1GLKpD4YOey8kxysWPaTOIl5TdEk5_AfDT5FRO5P6lKMsVicBKUvB5PIeTbCd7uFBGhxMkFRhcMeQAFH4BEBriMpbXksELg0ws_sE9mQeJ77cic-H7sJbQ1ObEvemTUmFO5IfNJdrj3jzCSHynKkUKWRkUYFa1Ax02S-R9r0jfJs3g6PI99aCZteaMx-0jNqJf1A"", ""Natura"": ""sostegno-lavor"", ""Posizione"": ""45.46109 9.19001 0 0"", ""Titolo"": ""Sportello lavoro""}","<pre><yamldata>
 Da_chi_offerta: LatoB - L'altro lato di Milano
 Descrizione: ""L\u2019avvocato che si occupa da un anno dello sportello lavoro \xE8\
   \ disponibile per chi avesse dubbi sulla propria situazione lavorativa, i propri\
