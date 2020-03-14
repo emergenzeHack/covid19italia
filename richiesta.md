@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Richiesta aiuto
+title: Richieste di Aiuto
 permalink: /richiesta/
 ---
 <div class="panel-group">
