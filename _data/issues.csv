@@ -1,4 +1,13 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/398,581160614,2020-03-14 11:15:04,2020-03-14 11:14:27,Avviso pubblico per manifestazione di interesse Medici Regione #Lombardia,,,"[""Bollettino"", ""Notizie"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""Avviso pubblico per manifestazione di interesse Medici Regione #Lombardia"", ""Descrizione"": ""Nell\u2019ambito dell\u2019emergenza sanitaria Coronavirus Regione Lombardia approva un avviso pubblico volto a raccogliere manifestazioni di interesse per prestare attivit\u00e0 assistenziale nelle Aziende/Enti Sanitari e Sociosanitari della Lombardia"", ""Destinatari"": ""Medici specialisti, medici specializzandi e medici laureati"", ""Indirizzo"": ""45.46442 9.188859 0 0"", ""Link"": ""https://www.regione.lombardia.it/wps/portal/istituzionale/HP/DettaglioBando/servizi-e-informazioni/enti-e-operatori/sistema-welfare/avviso-medici-specializzandi/avviso-medici-specializzandi""}","<pre><yamldata>
+Cosa: 'Avviso pubblico per manifestazione di interesse Medici Regione #Lombardia'
+Descrizione: Nell’ambito dell’emergenza sanitaria Coronavirus Regione Lombardia approva
+  un avviso pubblico volto a raccogliere manifestazioni di interesse per prestare
+  attività assistenziale nelle Aziende/Enti Sanitari e Sociosanitari della Lombardia
+Destinatari: Medici specialisti, medici specializzandi e medici laureati
+Indirizzo: 45.46442 9.188859 0 0
+Link: https://www.regione.lombardia.it/wps/portal/istituzionale/HP/DettaglioBando/servizi-e-informazioni/enti-e-operatori/sistema-welfare/avviso-medici-specializzandi/avviso-medici-specializzandi
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/394,581156114,2020-03-14 11:01:31,2020-03-14 11:00:38,Ricerca volontari consegne a domicilio Comune di #Brescia,45.540819,10.210716,"[""Bollettino"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune Brescia"", ""Descrizione"": ""Il Comune di Brescia cerca giovani in salute disposti a portare la spese agli anziani e alle persone in condizione di fragilit\u00e0. Se vuoi dare una mano manda una mail a: cdqborgotrento@comune.brescia.it"", ""Destinatari"": ""Giovani Comune di Brescia"", ""Natura"": ""solidale"", ""Posizione"": ""45.540819 10.210716 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Ricerca volontari consegne a domicilio Comune di #Brescia""}","<pre><yamldata>
 Da_chi_offerta: Comune Brescia
 Descrizione: 'Il Comune di Brescia cerca giovani in salute disposti a portare la spese
@@ -2958,7 +2967,7 @@ provincia: Lodi
 regione: Lombardia
 tag: Raccolta fondi
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/77,578924918,2020-03-11 15:35:26,2020-03-10 23:49:56,Raccolta per Azienda Ospedaliera #Cosenza per acquisto materiale sanitario,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Alfredo Taranto"", ""comune"": ""Cosenza"", ""contatti"": """", ""descrizione"": ""Raccolta per Azienda Ospedaliera di Cosenza per l\u2019acquisto di materiale medico e/o sanitario"", ""destinatari"": ""tutti"", ""fonte"": ""https://www.gofundme.com/f/calabria-anticovid"", ""provincia"": ""Cosenza"", ""regione"": ""Calabria"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Alfredo Taranto
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/77,578924918,2020-03-14 11:17:53,2020-03-10 23:49:56,Raccolta per Azienda Ospedaliera #Cosenza per acquisto materiale sanitario,,,"[""Bollettino"", ""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Alfredo Taranto"", ""comune"": ""Cosenza"", ""contatti"": """", ""descrizione"": ""Raccolta per Azienda Ospedaliera di Cosenza per l\u2019acquisto di materiale medico e/o sanitario"", ""destinatari"": ""tutti"", ""fonte"": ""https://www.gofundme.com/f/calabria-anticovid"", ""provincia"": ""Cosenza"", ""regione"": ""Calabria"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Alfredo Taranto
 comune: Cosenza
 contatti: ''
 descrizione: ""Raccolta per Azienda Ospedaliera di Cosenza per l\u2019acquisto di materiale medico e/o sanitario""
