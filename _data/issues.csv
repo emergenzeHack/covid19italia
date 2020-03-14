@@ -2899,7 +2899,7 @@ Descrizione: ""La Fondazione Cineteca di Milano ha reso gratuito il catalogo in 
   \ dei film. \xC8 sufficiente registrarsi.""
 Link: https://www.cinetecamilano.it/biblioteca
 ```",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/145,578926092,2020-03-11 11:37:57,2020-03-10 23:53:54,Raccolta fondi per aiutare ospedali a #Bologna,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Fondazione Policlinico Santa Orsola"", ""comune"": ""Bologna"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per aiutare concretamente le persone che lavorano negli ospedali di Bologna."", ""destinatari"": ""Personale ospedaliero"", ""fonte"": ""https://www.fondazionesantorsola.it/progetti/piu-forti-insieme/"", ""provincia"": ""Bologna"", ""regione"": ""Emilia-Romagna"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: ""Fondazione Policlinico Santa Orsola""
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/145,578926092,2020-03-14 16:26:46,2020-03-10 23:53:54,Raccolta fondi per aiutare ospedali a #Bologna,44.4936714,11.3430347,"[""Raccolte fondi"", ""accettato""]",,,"{""Posizione"": ""44.4936714 11.3430347 0 0"", ""chi"": ""Fondazione Policlinico Santa Orsola"", ""comune"": ""Bologna"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per aiutare concretamente le persone che lavorano negli ospedali di Bologna."", ""destinatari"": ""Personale ospedaliero"", ""fonte"": ""https://www.fondazionesantorsola.it/progetti/piu-forti-insieme/"", ""provincia"": ""Bologna"", ""regione"": ""Emilia-Romagna"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: ""Fondazione Policlinico Santa Orsola""
 comune: Bologna
 contatti: ''
 descrizione: Raccolta fondi per aiutare concretamente le persone che lavorano negli ospedali di Bologna.
@@ -2908,6 +2908,7 @@ fonte: https://www.fondazionesantorsola.it/progetti/piu-forti-insieme/
 provincia: Bologna
 regione: Emilia-Romagna
 tag: Raccolta fondi
+Posizione: 44.4936714 11.3430347 0 0
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/140,578926062,2020-03-14 16:23:44,2020-03-10 23:53:49,Raccolta fondi Regione #Lombardia per aziende ospedaliere,45.4896043,9.1944312,"[""Raccolte fondi"", ""accettato""]",,,"{""Posizione"": ""45.4896043 9.1944312 0 0"", ""chi"": ""Regione Lombardia"", ""comune"": ""Milano "", ""contatti"": """", ""descrizione"": ""Raccolta fondi aziende ospedaliere lombarde"", ""destinatari"": ""Tutti"", ""fonte"": ""https://www.lombardianotizie.online/coronavirus-conto-corrente/"", ""provincia"": ""Milano"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Regione Lombardia
 comune: 'Milano '
