@@ -2976,7 +2976,7 @@ provincia: Bologna
 regione: Italia
 tag: Servizi e iniziative solidali pubbliche
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/95,578925335,2020-03-11 12:15:40,2020-03-10 23:51:11,"Teatro Massimo #Palermo, streaming no stop di opere, concerti, spettacoli",,,"[""Attivita culturali e ricreative"", ""accettato""]",,,{},"<pre><yamldata>chi: Teatro Massimo di Palermo
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/95,578925335,2020-03-14 13:28:45,2020-03-10 23:51:11,"Teatro Massimo #Palermo, streaming no stop di opere, concerti, spettacoli",,,"[""Attivita culturali e ricreative"", ""accettato""]",,,{},"<pre><yamldata>chi: Teatro Massimo di Palermo
 comune: Palermo
 contatti:
 descrizione: Programmazione no stop streaming di opere, concerti, spettacoli. Ogni giorno viene comunicato il programma: un palinsesto di opere, concerti e spettacoli, visite guidate virtuali e nuove proposte per guardare avanti, in attesa di riaprire il teatro.
@@ -2985,6 +2985,7 @@ fonte: 'http://www.teatromassimo.it/archivio/notizie/non-vi-lasciamo-senza-music
 provincia: Pa
 regione: Italia
 tag: Servizi e iniziative solidali pubbliche
+Posizione: 38.1186079 13.3558637 0 0
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/94,578925328,2020-03-14 13:27:22,2020-03-10 23:51:10,Pronto Intervento Sociale: spesa e farmacia a domicilio #Ancona (AN),43.5050144,13.1391944,"[""Bollettino"", ""Servizi e iniziative solidali pubbliche"", ""accettato""]",,,"{""Posizione"": ""43.5050144 13.1391944 0 0"", ""chi"": ""Comune Ancona"", ""comune"": ""Ancona"", ""contatti"": ""071 54488 "", ""descrizione"": ""Per le persone che si trovano in condizioni di fragilit\u00e0 (per motivi di salute, per et\u00e0, assenza di una rete familiare di sostegno, per isolamento disposto dalle autorit\u00e0 sanitaria) \u00e8 attivo dall\u2019 11 marzo 2020 un numero di Pronto Intervento Sociale tel. 071 54488 a cui rivolgersi per informazioni utili e chiarimenti per spesa e farmaci a domicilio. Il numero sar\u00e0 attivo tutti i giorni (festivi compresi) dalle 8 alle 19."", ""destinatari"": ""Over 65"", ""fonte"": ""https://www.comune.ancona.gov.it/ankonline/precauzioni-contro-coronavirus-annullate-manifestazioni-di-carnevale/"", ""provincia"": ""Ancona"", ""regione"": ""Marche"", ""tag"": ""Servizi e iniziative solidali pubbliche""}","<pre><yamldata>chi: Comune Ancona
 comune: Ancona
