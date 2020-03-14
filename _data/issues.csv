@@ -3005,7 +3005,7 @@ provincia: Grosseto
 regione: Toscana
 tag: Consegne e commissioni
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/123,578925991,2020-03-12 10:48:06,2020-03-10 23:53:35,Commissioni a domicilio (farmaci e alimenti) #ArquataDelTronto (AP),,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato""]",,,"{""Telefono"": ""0736 802459"", ""chi"": ""Croce Verde"", ""comune"": ""Arquata del Tronto"", ""descrizione"": ""commissioni (farmaci e alimenti)"", ""destinatari"": ""anziani/e e persone con particolari difficolt\u00e0 dei comuni di Arquata del Tronto e Acquasanta Terme"", ""fonte"": """", ""provincia"": ""Ascoli Piceno"", ""regione"": ""Marche"", ""tag"": ""Consegne e commissioni""}","<pre><yamldata>chi: Croce Verde
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/123,578925991,2020-03-14 15:58:59,2020-03-10 23:53:35,Commissioni a domicilio (farmaci e alimenti) #ArquataDelTronto (AP),42.7723609,13.2965826,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato""]",,,"{""Posizione"": ""42.7723609 13.2965826 0 0"", ""Telefono"": ""0736 802459"", ""chi"": ""Croce Verde"", ""comune"": ""Arquata del Tronto"", ""descrizione"": ""commissioni (farmaci e alimenti)"", ""destinatari"": ""anziani/e e persone con particolari difficolt\u00e0 dei comuni di Arquata del Tronto e Acquasanta Terme"", ""fonte"": """", ""provincia"": ""Ascoli Piceno"", ""regione"": ""Marche"", ""tag"": ""Consegne e commissioni""}","<pre><yamldata>chi: Croce Verde
 comune: Arquata del Tronto
 Telefono: 0736 802459
 descrizione: commissioni (farmaci e alimenti)
@@ -3015,6 +3015,7 @@ fonte: ''
 provincia: Ascoli Piceno
 regione: Marche
 tag: Consegne e commissioni
+Posizione: 42.7723609 13.2965826 0 0
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/122,578925987,2020-03-11 14:13:48,2020-03-10 23:53:34,Informazioni su Covid19 per stranieri/e,,,"[""Informazioni utili"", ""accettato""]",,,"{""chi"": ""Il grande colibr\u00ec"", ""comune"": ""Nazionale"", ""contatti"": """", ""descrizione"": ""informazioni su Covid19 in lingua e con video, per stranieri"", ""destinatari"": ""stranieri"", ""fonte"": ""https://www.ilgrandecolibri.com/coronavirus-spiegato-migranti-asilanti/"", ""provincia"": """", ""regione"": """", ""tag"": ""Informazioni utili""}","<pre><yamldata>chi: ""Il grande colibrì""
 comune: Nazionale
