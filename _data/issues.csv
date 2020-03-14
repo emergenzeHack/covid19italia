@@ -1,5 +1,5 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/381,580934770,2020-03-13 23:43:15,2020-03-13 23:41:32,"Ananke Centro Antiviolenza, supporto alle donne #Pescara",42.461219,14.212063,"[""Bollettino"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Ananke Centro Antiviolenza"", ""Descrizione"": ""Accoglienza telefonica attiva H24. \nPer casi urgenti e gravi contattare le forze dell'ordine. \nSupporto psicologico e legale via skype o telefono.\n\nTel. +39 085 4283851\nMail: info@centroananke.it"", ""Destinatari"": ""donne vittime di violenza domestica"", ""Link"": ""https://www.centroananke.it/"", ""Natura"": ""solidale"", ""Posizione"": ""42.461219 14.212063 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Supporto alle donne vittime di violenza""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/381,580934770,2020-03-14 00:05:06,2020-03-13 23:41:32,"Ananke Centro Antiviolenza, supporto alle donne #Pescara",42.461219,14.212063,"[""Bollettino"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Ananke Centro Antiviolenza"", ""Descrizione"": ""Accoglienza telefonica attiva H24. \nPer casi urgenti e gravi contattare le forze dell'ordine. \nSupporto psicologico e legale via skype o telefono.\n\nTel. +39 085 4283851\nMail: info@centroananke.it"", ""Destinatari"": ""donne vittime di violenza domestica"", ""Link"": ""https://www.centroananke.it/"", ""Natura"": ""solidale"", ""Posizione"": ""42.461219 14.212063 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Supporto alle donne vittime di violenza""}","<pre><yamldata>
 Da_chi_offerta: Ananke Centro Antiviolenza
 Descrizione: ""Accoglienza telefonica attiva H24. \nPer casi urgenti e gravi contattare\
   \ le forze dell'ordine. \nSupporto psicologico e legale via skype o telefono.\n\n\
@@ -10,7 +10,8 @@ Natura: solidale
 Posizione: 42.461219 14.212063 0 0
 Tipo_di_soggetto: privato
 Titolo: Supporto alle donne vittime di violenza
-</yamldata></pre>",open
+</yamldata></pre>
+",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/380,580933222,2020-03-13 23:42:12,2020-03-13 23:37:27,"Cerchi d'Acqua Centro Antiviolenza, supporto telefonico per le donne #Milano",45.466259,9.188738,"[""Bollettino"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Cerchi d'Acqua"", ""Descrizione"": ""Centro chiuso ma assistenza e colloqui telefono. \nPer casi di emergenza ridirezione a Polizia e/o CaseFamiglia.\n\ntel 02 5843 0117"", ""Destinatari"": ""donne vittime di violenza domestica"", ""Link"": ""https://www.facebook.com/Cerchi-DAcqua-Centro-Antiviolenza-Cooperativa-Sociale-197366713643929/?ref=br_rs"", ""Natura"": ""solidale"", ""Posizione"": ""45.466259 9.188738 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Supporto telefonico per le donne""}","<pre><yamldata>
 Da_chi_offerta: Cerchi d'Acqua
 Descrizione: ""Centro chiuso ma assistenza e colloqui telefono. \nPer casi di emergenza\
