@@ -1,4 +1,18 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/423,581252767,2020-03-14 15:28:31,2020-03-14 15:27:23,Fiabe al telefono per tutte le bambine e tutti i bambini #Messina,38.195072,15.549436,"[""Giochi/intrattenimento bambini"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Associazione Solletico di Messina"", ""Descrizione"": ""Associazione Solletico di Messina ha messo in campo per tutte le bambine e tutti i bambini, un servizio GRATUITO di lettura telefonica di fiabe.\nTel. 3533331639\n\nServizio disponibile dal luned\u00ec al venerd\u00ec, dalle 10-12 e dalle 16-22."", ""Destinatari"": ""Bambine e bambini"", ""Natura"": ""solidale"", ""Posizione"": ""38.195072 15.549436 0 0"", ""Tipo_di_soggetto"": ""privato""}","<pre><yamldata>
+Da_chi_offerta: Associazione Solletico di Messina
+Descrizione: 'Associazione Solletico di Messina ha messo in campo per tutte le bambine
+  e tutti i bambini, un servizio GRATUITO di lettura telefonica di fiabe.
+
+  Tel. 3533331639
+
+
+  Servizio disponibile dal lunedì al venerdì, dalle 10-12 e dalle 16-22.'
+Destinatari: Bambine e bambini
+Natura: solidale
+Posizione: 38.195072 15.549436 0 0
+Tipo_di_soggetto: privato
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/422,581244277,2020-03-14 15:05:13,2020-03-14 15:04:33,Ricerca volontari commissioni a domicilio Comune di #Bari,41.11588,16.856787,"[""Bollettino"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Bari"", ""Descrizione"": ""VORRESTI DIVENTARE VOLONTARIO/A per aiutare nelle consegne a domicilio di beni alimentari, di prima necessit\u00e0 e farmaci, per i cittadini in difficolt\u00e0 che ne faranno richiesta?\n\nPossono aderire volontari appartenenti ad associazioni, ma anche singoli cittadini, inviando la propria disponibilit\u00e0 alla mail segreteriawelfarebari@comune.bari.it."", ""Destinatari"": ""Associazioni, cittadine e cittadini Comune di Bari"", ""Link"": ""http://www.comune.bari.it/-/contenimento-e-gestione-dell-emergenza-epidemiologica-pronto-il-piano-di-azioni-e-misure-dell-assessorato-al-welfare-a-sostegno-delle-persone-fragili-?fbclid=IwAR0lceZqsTe1MY-_fVp9QhylEFQAF3UAuB_mPoosKzBxgQBhJIgF888WB4c"", ""Natura"": ""solidale"", ""Posizione"": ""41.11588 16.856787 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Ricerca volontari commissioni a domicilio Comune di #Bari""}","<pre><yamldata>
 Da_chi_offerta: Comune di Bari
 Descrizione: 'VORRESTI DIVENTARE VOLONTARIO/A per aiutare nelle consegne a domicilio
@@ -3188,7 +3202,7 @@ provincia: L'Aquila
 regione: Abruzzo
 tag: Servizi e iniziative solidali pubbliche
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/97,578925348,2020-03-11 11:48:58,2020-03-10 23:51:12,Consegne a domicilio over 65 #Angera (VA),,,"[""Servizi e iniziative solidali pubbliche"", ""accettato""]",,,"{""chi"": ""Comune di Angera "", ""comune"": ""Angera"", ""contatti"": ""0331 932147"", ""descrizione"": ""L\u2019Amministrazione Comunale a tutela dei soggetti fragili e delle persone di et\u00e0 superiore ai 65 anni, che non hanno alcun sostegno da parte dei familiari, ha attivato un servizio di consegna a domicilio della spesa alimentare, dei medicinali e di qualsiasi altro bene di prima necessit\u00e0.  "", ""destinatari"": ""over 65"", ""fonte"": ""https://www.comune.angera.va.it/servizi/notizie/notizie_fase02.aspx?ID=11670"", ""provincia"": ""Varese"", ""regione"": ""Lombardia"", ""tag"": ""Servizi e iniziative solidali pubbliche""}","<pre><yamldata>chi: 'Comune di Angera '
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/97,578925348,2020-03-14 15:28:25,2020-03-10 23:51:12,Consegne a domicilio over 65 #Angera (VA),45.7721876,8.5751222,"[""Bollettino"", ""Servizi e iniziative solidali pubbliche"", ""accettato""]",,,"{""Posizione"": ""45.7721876 8.5751222 0 0"", ""chi"": ""Comune di Angera "", ""comune"": ""Angera"", ""contatti"": ""0331 932147"", ""descrizione"": ""L\u2019Amministrazione Comunale a tutela dei soggetti fragili e delle persone di et\u00e0 superiore ai 65 anni, che non hanno alcun sostegno da parte dei familiari, ha attivato un servizio di consegna a domicilio della spesa alimentare, dei medicinali e di qualsiasi altro bene di prima necessit\u00e0.  "", ""destinatari"": ""over 65"", ""fonte"": ""https://www.comune.angera.va.it/servizi/notizie/notizie_fase02.aspx?ID=11670"", ""provincia"": ""Varese"", ""regione"": ""Lombardia"", ""tag"": ""Servizi e iniziative solidali pubbliche""}","<pre><yamldata>chi: 'Comune di Angera '
 comune: Angera
 contatti: '0331 932147'
 descrizione: ""L’Amministrazione Comunale a tutela dei soggetti fragili e delle persone di età superiore ai 65 anni, che non hanno alcun sostegno da parte dei familiari, ha attivato un servizio di consegna a domicilio della spesa alimentare, dei medicinali e di qualsiasi altro bene di prima necessità.  ""
@@ -3197,6 +3211,7 @@ fonte: 'https://www.comune.angera.va.it/servizi/notizie/notizie_fase02.aspx?ID=1
 provincia: Varese
 regione: Lombardia
 tag: Servizi e iniziative solidali pubbliche
+Posizione: 45.7721876 8.5751222 0 0
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/96,578925340,2020-03-14 13:30:59,2020-03-10 23:51:12,Cineteca di #Bologna offre lezioni di cinema online,44.5023377,11.334667890687236,"[""Attivita culturali e ricreative"", ""Didattica a distanza e-learning"", ""accettato""]",,,"{""Posizione"": ""44.5023377 11.334667890687236 0 0"", ""chi"": ""Cineteca di Bologna"", ""comune"": ""Bologna"", ""contatti"": ""https://festival.ilcinemaritrovato.it/lezioni-di-cinema-3/?fbclid=IwAR2jhW6RPJM-bWKMgIrv-_pFNvhA7rOHvCwiCjW9cwC-aV-aIImzs2XT6cA"", ""descrizione"": ""Lezioni di cinema on line tenute da grandi registi e attori."", ""destinatari"": ""Tutti"", ""fonte"": """", ""provincia"": ""Bologna"", ""regione"": ""Italia"", ""tag"": ""Servizi e iniziative solidali pubbliche""}","<pre><yamldata>chi: Cineteca di Bologna
 comune: Bologna
