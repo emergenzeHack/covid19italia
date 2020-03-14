@@ -69,7 +69,7 @@ Posizione: 41.809596 12.452142 0 0
 Tipo_di_soggetto: pubblico
 Titolo: 'Municipio VIII Solidale #Roma'
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/426,581259139,2020-03-14 16:10:06,2020-03-14 15:44:23,Si cercano persone con competenze per sviluppare dispositivi medici,,,"[""Bollettino"", ""Richiesta aiuto"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Cosa"": ""Si cercano persone con compertenze per sviluppare dispositivi medici"", ""Descrizione"": ""ProjectOpenAir \u00e8 la piattaforma che sta lavorando su dispositivi medici, come ventilatori open source, per trovare una soluzione semplice e veloce da riprodurre e assemblare localmente in tutto il mondo.\n\nSe hai qualche competenza che ritieni possa essere d''aiuto, unisciti al gruppo di Helpful Engineering.'"", ""Destinatari"": ""Ingegnere e ingegneri"", ""Link"": ""www.projectopenair.org""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/426,581259139,2020-03-14 16:24:15,2020-03-14 15:44:23,Si cercano persone con competenze per sviluppare dispositivi medici,,,"[""Bollettino"", ""Richiesta aiuto"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,{},"<pre><yamldata>
 Cosa: Si cercano persone con compertenze per sviluppare dispositivi medici
 Descrizione: ProjectOpenAir è la piattaforma che sta lavorando su dispositivi
   medici, come ventilatori open source, per trovare una soluzione semplice e veloce
@@ -77,7 +77,7 @@ Descrizione: ProjectOpenAir è la piattaforma che sta lavorando su dispositivi
 
 
   Se hai qualche competenza che ritieni possa essere d''aiuto, unisciti al gruppo
-  di Helpful Engineering.'
+  di Helpful Engineering: opensourcehumankind@gmail.com'
 Destinatari: Ingegnere e ingegneri
 Link: www.projectopenair.org
 </yamldata></pre>",open
@@ -2909,7 +2909,7 @@ provincia: Bologna
 regione: Emilia-Romagna
 tag: Raccolta fondi
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/140,578926062,2020-03-11 11:03:01,2020-03-10 23:53:49,Raccolta fondi Regione #Lombardia per aziende ospedaliere,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Regione Lombardia"", ""comune"": ""Milano "", ""contatti"": """", ""descrizione"": ""Raccolta fondi aziende ospedaliere lombarde"", ""destinatari"": ""Tutti"", ""fonte"": ""https://www.lombardianotizie.online/coronavirus-conto-corrente/"", ""provincia"": ""Milano"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Regione Lombardia
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/140,578926062,2020-03-14 16:23:44,2020-03-10 23:53:49,Raccolta fondi Regione #Lombardia per aziende ospedaliere,45.4896043,9.1944312,"[""Raccolte fondi"", ""accettato""]",,,"{""Posizione"": ""45.4896043 9.1944312 0 0"", ""chi"": ""Regione Lombardia"", ""comune"": ""Milano "", ""contatti"": """", ""descrizione"": ""Raccolta fondi aziende ospedaliere lombarde"", ""destinatari"": ""Tutti"", ""fonte"": ""https://www.lombardianotizie.online/coronavirus-conto-corrente/"", ""provincia"": ""Milano"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Regione Lombardia
 comune: 'Milano '
 contatti: ''
 descrizione: Raccolta fondi aziende ospedaliere lombarde
@@ -2918,6 +2918,7 @@ fonte: https://www.lombardianotizie.online/coronavirus-conto-corrente/
 provincia: Milano
 regione: Lombardia
 tag: Raccolta fondi
+Posizione: 45.4896043 9.1944312 0 0
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/139,578926059,2020-03-14 16:21:40,2020-03-10 23:53:48,Raccolta fondi per Ospedale Maggiore Policlinico di #Milano ,45.462833,9.1984326,"[""Raccolte fondi"", ""accettato""]",,,"{""Posizione"": ""45.462833 9.1984326 0 0"", ""chi"": ""Ospedale Maggiore Policlinico"", ""comune"": ""Milano "", ""contatti"": """", ""descrizione"": ""Raccolta Fondi Ospedale Maggiore Policlinico"", ""destinatari"": ""Tutt"", ""fonte"": ""https://www.policlinico.mi.it/donazioni-lotta-al-coronavirus"", ""provincia"": ""Milano"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Ospedale Maggiore Policlinico
 comune: 'Milano '
