@@ -1,4 +1,20 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/430,581267359,2020-03-14 16:17:25,2020-03-14 16:07:25,mascherine prodotte con le stampanti 3D: modello a disposizione di tutti,,,"[""Bollettino"", ""Donazioni beni/strumenti"", ""accettato"", ""form""]",,,"{""Cosa"": ""mascherine prodotte con le stampanti 3D: modello a disposizione di tutti"", ""Descrizione"": ""Coronavirus, mascherine prodotte con le stampanti 3D: \""Il nostro modello \u00e8 a disposizione di tutti\""\n\u00c8 il progetto pugliese-siciliano Open source mask"", ""Destinatari"": ""tutti"", ""Link"": ""https://www.facebook.com/groups/covid19italia/permalink/2928262043862630/""}","<pre><yamldata>
+Cosa: 'mascherine prodotte con le stampanti 3D: modello a disposizione di tutti'
+Descrizione: 'Coronavirus, mascherine prodotte con le stampanti 3D: ""Il nostro modello
+  è a disposizione di tutti""
+
+  È il progetto pugliese-siciliano Open source mask'
+Destinatari: tutti
+Link: https://www.facebook.com/groups/covid19italia/permalink/2928262043862630/
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/428,581266096,2020-03-14 16:17:51,2020-03-14 16:03:39,URGENTE: Donazione sangue #AVIS Regione #Lazio,,,"[""Bollettino"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""Urge Donazione Sangue"", ""Descrizione"": ""Urge Donazione Sangue: possibile prenotare per effettuare le donazioni #regionelazio"", ""Destinatari"": ""AVIS Regione Lazio"", ""Link"": ""https://www.facebook.com/groups/covid19italia/permalink/2928348280520673/""}","<pre><yamldata>
+Cosa: Urge Donazione Sangue
+Descrizione: 'Urge Donazione Sangue: possibile prenotare per effettuare le donazioni
+  #regionelazio'
+Destinatari: AVIS Regione Lazio
+Link: https://www.facebook.com/groups/covid19italia/permalink/2928348280520673/
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/427,581263785,2020-03-14 15:57:25,2020-03-14 15:56:53,Municipio VIII Solidale #Roma,41.809596,12.452142,"[""Bollettino"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Municipio VIII Roma"", ""Descrizione"": ""Siete soli in casa?\n\nChiamateci: 0640060606\n\nservizio attivo dalle 9,00 alle 13,00\ne dalle 14,00 alle 18,00\ndal luned\u00ec al venerd\u00ec"", ""Destinatari"": ""Cittadine e cittadini Municipio VIII Roma"", ""Link"": ""https://www.comune.fi.it/comunicati-stampa/coronavirus-da-lunedi-nuovo-servizio-di-consegna-domiciliare-gratuita-di-farmaci?language_content_entity=it"", ""Natura"": ""solidale"", ""Posizione"": ""41.809596 12.452142 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Municipio VIII Solidale #Roma""}","<pre><yamldata>
 Da_chi_offerta: Municipio VIII Roma
 Descrizione: 'Siete soli in casa?
@@ -2889,16 +2905,17 @@ provincia: Milano
 regione: Lombardia
 tag: Raccolta fondi
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/137,578926052,2020-03-12 00:18:56,2020-03-10 23:53:46,"Traduzione in arabo, urdu, bengalese, spagnolo, francese e inglese dei decreti",,,"[""Servizi e iniziative solidali private"", ""accettato""]",,,"{""chi"": ""associazione Diritti per tutti"", ""comune"": ""Brescia"", ""contatti"": """", ""descrizione"": ""Traduzione in arabo, urdu, bengalese, spagnolo, francese e inglese dei decreti"", ""destinatari"": ""Stranieri"", ""fonte"": ""http://www.vita.it/it/article/2020/03/10/decreto-coronavirus-le-traduzioni-in-arabo-urdu-e-bengalese/154350/"", ""provincia"": ""Brescia"", ""regione"": ""Lombardia"", ""tag"": ""Servizi e iniziative solidali private""}","<pre><yamldata>chi: associazione Diritti per tutti
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/137,578926052,2020-03-14 16:18:34,2020-03-10 23:53:46,"Traduzione in arabo, urdu, bengalese, spagnolo, francese e inglese dei decreti",45.5325273,10.2129982,"[""Servizi e iniziative solidali private"", ""accettato""]",,,"{""Posizione"": ""45.5325273 10.2129982 0 0"", ""chi"": ""associazione Diritti per tutti"", ""comune"": ""Brescia"", ""contatti"": """", ""descrizione"": ""Traduzione in arabo, urdu, bengalese, spagnolo, francese e inglese dei decreti"", ""destinatari"": ""Stranieri"", ""fonte"": ""https://www.facebook.com/Associazionedirittipertutti/"", ""provincia"": ""Brescia"", ""regione"": ""Lombardia"", ""tag"": ""Servizi e iniziative solidali private""}","<pre><yamldata>chi: associazione Diritti per tutti
 comune: Brescia
 contatti: ''
 descrizione: Traduzione in arabo, urdu, bengalese, spagnolo, francese e inglese dei
   decreti
 destinatari: Stranieri
-fonte: http://www.vita.it/it/article/2020/03/10/decreto-coronavirus-le-traduzioni-in-arabo-urdu-e-bengalese/154350/
+fonte: https://www.facebook.com/Associazionedirittipertutti/
 provincia: Brescia
 regione: Lombardia
 tag: Servizi e iniziative solidali private
+Posizione: 45.5325273 10.2129982 0 0
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/136,578926047,2020-03-14 16:13:53,2020-03-10 23:53:46,Spesa a domicilio per anziani #Catanzaro,38.82996034999999,16.43155687627833,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato""]",,,"{""Posizione"": ""38.82996034999999 16.43155687627833 0 0"", ""chi"": ""CSV"", ""comune"": ""Catanzaro"", ""contatti"": ""0961-790647 - info@csvcatanzaro.it"", ""descrizione"": ""Spesa a domicilio per anziani"", ""destinatari"": ""anziani over 65"", ""fonte"": ""https://www.comune.catanzaro.it/covid-19-concolino-insieme-a-csv-servizio-spesa-a-domicilio-per-over-75/?fbclid=IwAR3ZvwupnzgnW3p_rjGNnwqClc_jY1iWiYXq9m7dSRXYpZtqVPosm6slVSY"", ""provincia"": ""Catanzaro"", ""regione"": ""Calabria"", ""tag"": ""Consegne e commissioni""}","<pre><yamldata>chi: CSV
 comune: Catanzaro
