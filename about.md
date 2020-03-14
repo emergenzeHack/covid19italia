@@ -35,7 +35,7 @@ Il progetto è descritto tramite il nostro [wiki](https://github.com/emergenzeHa
 
 L'idea ed anche buona parte del progetto è dello stesso team che ha sviluppato il progetto [TerremotoCentroItalia](https://www.terremotocentroitalia.info).
 
-### Ringraziamenti
+### Credits
 
 Un grazie sentito a :
 
