@@ -13,6 +13,18 @@ Tipo_di_soggetto: pubblico
 Titolo: 'Il Segretariato sociale del Municipio Roma III risponde per informazioni
   commissioni e consegne a domicilio #Roma'
 </yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/432,581274838,2020-03-14 16:32:30,2020-03-14 16:28:30,Consegne cibo o medicinali a domicilio Comune di Livigno,46.538696,10.134802,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Livigno"", ""Descrizione"": ""Se non puoi uscire di casa e hai difficolt\u00e0 a reperire cibo o medicinali, puoi chiamare il numero di supporto sociale comunale 0342 991100 attivo tutti i giorni dalle ore 8:30 alle ore 12:30 e dalle 14:00 alle ore 17:00."", ""Destinatari"": ""Anziani >65 e impossibilitati ad uscire di casa"", ""Link"": ""https://www.comune.livigno.so.it/"", ""Natura"": ""solidale"", ""Posizione"": ""46.538696 10.134802 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Consegne cibo o medicinali a domicilio Comune di Livigno""}","<pre><yamldata>
+Da_chi_offerta: Comune di Livigno
+Descrizione: Se non puoi uscire di casa e hai difficoltà a reperire cibo o medicinali,
+  puoi chiamare il numero di supporto sociale comunale 0342 991100 attivo tutti i
+  giorni dalle ore 8:30 alle ore 12:30 e dalle 14:00 alle ore 17:00.
+Destinatari: Anziani >65 e impossibilitati ad uscire di casa
+Link: https://www.comune.livigno.so.it/
+Natura: solidale
+Posizione: 46.538696 10.134802 0 0
+Tipo_di_soggetto: pubblico
+Titolo: Consegne cibo o medicinali a domicilio Comune di Livigno
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/430,581267359,2020-03-14 16:18:44,2020-03-14 16:07:25,Mascherine stampate in 3D: modello a disposizione di tutti,,,"[""Bollettino"", ""Donazioni beni/strumenti"", ""accettato"", ""form""]",,,"{""Cosa"": ""mascherine prodotte con le stampanti 3D: modello a disposizione di tutti"", ""Descrizione"": ""Coronavirus, mascherine prodotte con le stampanti 3D: \""Il nostro modello \u00e8 a disposizione di tutti\""\n\u00c8 il progetto pugliese-siciliano Open source mask"", ""Destinatari"": ""tutti"", ""Link"": ""https://www.facebook.com/groups/covid19italia/permalink/2928262043862630/""}","<pre><yamldata>
 Cosa: 'mascherine prodotte con le stampanti 3D: modello a disposizione di tutti'
 Descrizione: 'Coronavirus, mascherine prodotte con le stampanti 3D: ""Il nostro modello
