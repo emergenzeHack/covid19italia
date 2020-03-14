@@ -1,4 +1,15 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/516,581396911,2020-03-14 22:25:06,2020-03-14 22:22:14,Sportello di informazione e sostegno psicologico #torino,,,"[""Bollettino"", ""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Protezione Civile e Psicologi per il Popolo Torino"", ""Descrizione"": ""Sportello di informazione e sostegno psicologico #torino. Linea diretta con gli psicologi dell'emergenza"", ""Destinatari"": ""tutti"", ""Indirizzo"": ""45.1016373 7.6341223"", ""Link"": ""https://www.facebook.com/groups/covid19italia/permalink/2928528527169315/"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Sportello di informazione e sostegno psicologico #torino""}","<pre><yamldata>
+Da_chi_offerta: Protezione Civile e Psicologi per il Popolo Torino
+Descrizione: 'Sportello di informazione e sostegno psicologico #torino. Linea diretta
+  con gli psicologi dell''emergenza'
+Destinatari: tutti
+Indirizzo: 45.1016373 7.6341223
+Link: https://www.facebook.com/groups/covid19italia/permalink/2928528527169315/
+Natura: solidale
+Tipo_di_soggetto: pubblico
+Titolo: 'Sportello di informazione e sostegno psicologico #torino'
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/515,581390196,2020-03-14 22:07:25,2020-03-14 22:01:02,Raccolta fondi per il servizio sanitario della Regione #Molise,,,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,{},"<pre><yamldata>
 Descrizione: 'Alla luce dell''emergenza sanitaria che ha coinvolto l''Italia e, di
   conseguenza, anche la Regione Molise
@@ -217,7 +228,7 @@ Posizione: 46.538696 10.134802 0 0
 Tipo_di_soggetto: pubblico
 Titolo: Consegne cibo o medicinali a domicilio Comune di Livigno
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/430,581267359,2020-03-14 16:18:44,2020-03-14 16:07:25,Mascherine stampate in 3D: modello a disposizione di tutti,,,"[""Bollettino"", ""Donazioni beni/strumenti"", ""accettato"", ""form""]",,,"{""Cosa"": ""mascherine prodotte con le stampanti 3D: modello a disposizione di tutti"", ""Descrizione"": ""Coronavirus, mascherine prodotte con le stampanti 3D: \""Il nostro modello \u00e8 a disposizione di tutti\""\n\u00c8 il progetto pugliese-siciliano Open source mask"", ""Destinatari"": ""tutti"", ""Link"": ""https://www.facebook.com/groups/covid19italia/permalink/2928262043862630/""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/430,581267359,2020-03-14 22:24:42,2020-03-14 16:07:25,Mascherine stampate in 3D: modello a disposizione di tutti,,,"[""Bollettino"", ""Donazioni beni/strumenti"", ""accettato"", ""form""]",,,"{""Cosa"": ""mascherine prodotte con le stampanti 3D: modello a disposizione di tutti"", ""Descrizione"": ""Coronavirus, mascherine prodotte con le stampanti 3D: \""Il nostro modello \u00e8 a disposizione di tutti\""\n\u00c8 il progetto pugliese-siciliano Open source mask"", ""Destinatari"": ""tutti"", ""Link"": ""https://www.facebook.com/groups/covid19italia/permalink/2928262043862630/""}","<pre><yamldata>
 Cosa: 'mascherine prodotte con le stampanti 3D: modello a disposizione di tutti'
 Descrizione: 'Coronavirus, mascherine prodotte con le stampanti 3D: ""Il nostro modello
   è a disposizione di tutti""
@@ -2032,7 +2043,7 @@ Tipo_di_soggetto: privato
 Titolo: Aiuto per chi avesse problemi a fare la spesa
 Posizione: 43.52350 11.56759 0 0
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/295,580049756,2020-03-14 22:23:31,2020-03-12 16:11:42,Cibo e medicinali a domicilio: le iniziative in #Brianza,,,"[""Servizi e iniziative solidali private"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Cosa"": ""Cibo e medicinali a domicilio: le iniziative in Brianza"", ""Descrizione"": ""I Comuni e le associazioni si muovono per non fare uscire soprattutto le persone pi\u00f9 fragili dalla propria abitazione. Un elenco delle iniziative fin qui messe in campo."", ""Link"": ""https://www.ilcittadinomb.it/stories/Cronaca/coronavirus-cibo-e-medicinali-a-domicilio-per-le-persone-anziane-le-iniziative_1343943_11/""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/295,580049756,2020-03-14 22:24:24,2020-03-12 16:11:42,Cibo e medicinali a domicilio: le iniziative in #Brianza,,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Cosa"": ""Cibo e medicinali a domicilio: le iniziative in Brianza"", ""Descrizione"": ""I Comuni e le associazioni si muovono per non fare uscire soprattutto le persone pi\u00f9 fragili dalla propria abitazione. Un elenco delle iniziative fin qui messe in campo."", ""Link"": ""https://www.ilcittadinomb.it/stories/Cronaca/coronavirus-cibo-e-medicinali-a-domicilio-per-le-persone-anziane-le-iniziative_1343943_11/""}","<pre><yamldata>
 Cosa: 'Cibo e medicinali a domicilio: le iniziative in Brianza'
 Descrizione: ""I Comuni e le associazioni si muovono per non fare uscire soprattutto\
   \ le persone pi\xF9 fragili dalla propria abitazione. Un elenco delle iniziative\
@@ -2086,7 +2097,7 @@ Natura: culturale-ricr
 Titolo: Goodmorning Genova
 
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/291,580041219,2020-03-13 16:49:26,2020-03-12 15:58:54,Spese e farmaci e domicilio #Cogliate (MB),45.64548,9.08073,"[""Consegne e commissioni"", ""Notizie"", ""accettato"", ""form""]",,,"{""Cosa"": ""Comune coi volontari porta spese e farmaci e domicilio"", ""Descrizione"": ""Servizio per tutti i residenti over 65 nel comune di Cogliate per consegna a domicilio di spesa e farmaci organizzato dal Comune con il supporto del Gruppo volontari Cogliate."", ""Link"": ""https://www.ilnotiziario.net/wp/2020/03/06/coronavirus-cogliate-comune-volontari-spesa-farmaci-domicilio/"", ""Posizione"": ""45.64548 9.08073 0 0""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/291,580041219,2020-03-14 22:24:02,2020-03-12 15:58:54,Spese e farmaci e domicilio #Cogliate (MB),45.64548,9.08073,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Cosa"": ""Comune coi volontari porta spese e farmaci e domicilio"", ""Descrizione"": ""Servizio per tutti i residenti over 65 nel comune di Cogliate per consegna a domicilio di spesa e farmaci organizzato dal Comune con il supporto del Gruppo volontari Cogliate."", ""Link"": ""https://www.ilnotiziario.net/wp/2020/03/06/coronavirus-cogliate-comune-volontari-spesa-farmaci-domicilio/"", ""Posizione"": ""45.64548 9.08073 0 0""}","<pre><yamldata>
 Cosa: Comune coi volontari porta spese e farmaci e domicilio
 Descrizione: Servizio per tutti i residenti over 65 nel comune di Cogliate per consegna
   a domicilio di spesa e farmaci organizzato dal Comune con il supporto del Gruppo
@@ -2154,18 +2165,18 @@ Descrizione: Informazioni sulle iniziative solidali promosse da Esselunga, dalla
 Link: https://www.esselunga.it/cms/homepage.html/
 
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/284,580008067,2020-03-12 22:10:11,2020-03-12 15:09:28,I giovani si mobilitano per poter assicurare la spesa agi anziani #Venezia,,,"[""Consegne e commissioni"", ""Notizie"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Cosa"": ""I giovani si mobilitano per poter assicurare la spesa agi anziani #Venezia"", ""Descrizione"": ""A Venezia generazione '90. Un gruppo di giovani che si mettono a disposizione per la spesa agli anziani"", ""Link"": ""https://www.facebook.com/generazione90/photos/a.594259937410630/1475825895920692/?type=3&theater""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/284,580008067,2020-03-14 22:25:09,2020-03-12 15:09:28,I giovani si mobilitano per poter assicurare la spesa agi anziani #Venezia,,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Cosa"": ""I giovani si mobilitano per poter assicurare la spesa agi anziani #Venezia"", ""Descrizione"": ""A Venezia generazione '90. Un gruppo di giovani che si mettono a disposizione per la spesa agli anziani"", ""Link"": ""https://www.facebook.com/generazione90/photos/a.594259937410630/1475825895920692/?type=3&theater""}","<pre><yamldata>
 Cosa: 'I giovani si mobilitano per poter assicurare la spesa agi anziani #Venezia'
 Descrizione: A Venezia generazione '90. Un gruppo di giovani che si mettono a disposizione
   per la spesa agli anziani
 Link: https://www.facebook.com/generazione90/photos/a.594259937410630/1475825895920692/?type=3&theater
 
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/283,579998927,2020-03-12 22:43:03,2020-03-12 14:56:20,"""raccontaunlibraio"" Libri a domicilio",,,"[""Consegne e commissioni"", ""Notizie"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Cosa"": ""Libri a domicilio: quali librerie offrono questo servizi"", ""Descrizione"": ""Alcune librerie hanno dato vita a diverse iniziative, o hanno valorizzato ancora di pi\u00f9 i servizi che gi\u00e0 offrivano, per coltivare il proprio rapporto con i lettori e le lettrici."", ""Link"": ""https://raccontaunlibraio.com/2020/03/06/librerie-coronavirus/""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/283,579998927,2020-03-14 22:26:02,2020-03-12 14:56:20,"""raccontaunlibraio"" Libri a domicilio",,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Cosa"": ""Libri a domicilio: quali librerie offrono questo servizi"", ""Descrizione"": ""Nolts librerie in tutta Italia hanno dato vita a diverse iniziative, o hanno valorizzato ancora di pi\u00f9 i servizi che gi\u00e0 offrivano, per coltivare il proprio rapporto con i lettori e le lettrici. Al link un elenco in continuo aggiornamento"", ""Link"": ""https://raccontaunlibraio.com/2020/03/06/librerie-coronavirus/""}","<pre><yamldata>
 Cosa: 'Libri a domicilio: quali librerie offrono questo servizi'
-Descrizione: ""Alcune librerie hanno dato vita a diverse iniziative, o hanno valorizzato\
+Descrizione: ""Nolts librerie in tutta Italia hanno dato vita a diverse iniziative, o hanno valorizzato\
   \ ancora di pi\xF9 i servizi che gi\xE0 offrivano, per coltivare il proprio rapporto\
-  \ con i lettori e le lettrici.""
+  \ con i lettori e le lettrici. Al link un elenco in continuo aggiornamento""
 Link: https://raccontaunlibraio.com/2020/03/06/librerie-coronavirus/
 
 </yamldata></pre>",open
