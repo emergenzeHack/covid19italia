@@ -1,4 +1,20 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/415,581218486,2020-03-14 14:03:58,2020-03-14 13:52:59,Scuola di territorio - Contributi video per i più piccoli,41.870337,12.495975,"[""Bollettino"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Municipio Roma VIII Garbatella"", ""Descrizione"": ""Il Municipio VIII e le varie realt\u00e0 che compongono la sua comunit\u00e0 hanno pensato ad un modo alternativo per essere \u201crete di connessione\u201d anche nella gestione di questa emergenza. \n\nSi tratta di una piattaforma online che raccoglie una serie di contribuiti video (tra i tanti c\u2019\u00e8 anche il nostro con una breve lezione di giornalismo) destinati ai pi\u00f9 piccoli. \n\nIntrattenimento, storie, attivit\u00e0 e piccole lezioni appunto, per una formazione unica, divertente e alternativa.\nSupporto per screen reader attivato."", ""Destinatari"": ""bambini e bambine"", ""Link"": ""https://garbatella100x100.it/scuola-di-territorio/"", ""Natura"": ""solidale"", ""Posizione"": ""41.870337 12.495975 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Scuola di territorio - Contributi video per i pi\u00f9 piccoli""}","<pre><yamldata>
+Da_chi_offerta: Municipio Roma VIII Garbatella
+Descrizione: ""Il Municipio VIII e le varie realtà che compongono la sua comunità hanno\
+  \ pensato ad un modo alternativo per essere “rete di connessione” anche nella gestione\
+  \ di questa emergenza. \n\nSi tratta di una piattaforma online che raccoglie una\
+  \ serie di contribuiti video (tra i tanti c’è anche il nostro con una breve lezione\
+  \ di giornalismo) destinati ai più piccoli. \n\nIntrattenimento, storie, attività\
+  \ e piccole lezioni appunto, per una formazione unica, divertente e alternativa.\n\
+  Supporto per screen reader attivato.""
+Destinatari: bambini e bambine
+Link: https://garbatella100x100.it/scuola-di-territorio/
+Natura: solidale
+Posizione: 41.870337 12.495975 0 0
+Tipo_di_soggetto: pubblico
+Titolo: Scuola di territorio - Contributi video per i più piccoli
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/407,581178910,2020-03-14 12:19:45,2020-03-14 12:06:21,Didattica a distanza offerta da TEDx #Varese,45.821218,8.825834,"[""Attivita culturali e ricreative"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""TEDx Varese"", ""Descrizione"": ""TED x Varese ha implementato un\u2019area per supportare i docenti e le scuole che vogliono attivare forme di didattica a distanza avvalendosi di contenuti e strumenti gratuiti messi a disposizione da TED-Ed, il programma di TED dedicato all\u2019educazione.\nScopritela qui: https://www.tedxvarese.com/studenti/"", ""Destinatari"": ""Docenti"", ""Link"": ""https://www.tedxvarese.com/studenti/?fbclid=IwAR2hqJLrasgtasc_YvT9kgPoaoqv1YUGOR1H8B8q5WMdKUiBnbWXjRPTQwE"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""45.821218 8.825834 0 0"", ""Titolo"": ""Didattica a distanza offerta da TEDx #Varese""}","<pre><yamldata>
 Da_chi_offerta: TEDx Varese
 Descrizione: 'TED x Varese ha implementato un’area per supportare i docenti e le scuole
