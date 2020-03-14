@@ -3039,7 +3039,7 @@ provincia: ''
 regione: Abruzzo
 tag: Raccolta fondi
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/89,578924993,2020-03-11 12:17:57,2020-03-10 23:50:08,Raccolta fondi Fondazione Arca per servizi alle persone senza dimora ,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Fondazione Arca"", ""comune"": ""Tutta Italia"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per dotare di dispositivi e materiali protettivi gli operatori dei servizi alle persone senza dimora."", ""destinatari"": ""Operatori servizi persone senza dimora "", ""fonte"": ""https://www.facebook.com/donate/543942392915387/"", ""provincia"": """", ""regione"": """", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Fondazione Arca
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/89,578924993,2020-03-14 13:17:46,2020-03-10 23:50:08,Raccolta fondi Fondazione Arca per servizi alle persone senza dimora ,45.4770487,9.2011876,"[""Bollettino"", ""Raccolte fondi"", ""accettato""]",,,"{""Posizione"": ""45.4770487 9.2011876 0 0"", ""chi"": ""Fondazione Arca"", ""comune"": ""Tutta Italia"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per dotare di dispositivi e materiali protettivi gli operatori dei servizi alle persone senza dimora."", ""destinatari"": ""Operatori servizi persone senza dimora "", ""fonte"": ""https://www.facebook.com/donate/543942392915387/"", ""provincia"": """", ""regione"": """", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Fondazione Arca
 comune: Tutta Italia
 contatti: ''
 descrizione: Raccolta fondi per dotare di dispositivi e materiali protettivi gli operatori dei servizi alle persone senza dimora.
@@ -3048,6 +3048,7 @@ fonte: https://www.facebook.com/donate/543942392915387/
 provincia: ''
 regione: ''
 tag: Raccolta fondi
+Posizione: 45.4770487 9.2011876 0 0 
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/88,578924989,2020-03-14 13:14:26,2020-03-10 23:50:07,Raccolta Fondi online per sostenere Ospedale di #LameziaTerme,38.9391666,16.2634823,"[""Raccolte fondi"", ""accettato""]",,,"{""Posizione"": ""38.9391666 16.2634823 0 0"", ""chi"": ""Vincenzo Bernardi"", ""comune"": ""Lamezia Terme"", ""contatti"": """", ""descrizione"": ""Raccolta Fondi online per sostenere Ospedale di Lamezia Terme"", ""destinatari"": ""\u2018tutti\u2019"", ""fonte"": ""https://www.gofundme.com/f/raccolta-fondi-covid19-ospedale-di-lamezia-terme?fbclid=IwAR2gUvAXo5xe0FnNGEPc8_FOx3xiDHC18QPA0RCiYt53TZyiZ8hqYHT4tMk"", ""provincia"": ""Cosenza"", ""regione"": ""Calabria"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Vincenzo Bernardi
 comune: Lamezia Terme
