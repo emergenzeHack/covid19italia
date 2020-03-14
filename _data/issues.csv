@@ -3189,7 +3189,7 @@ provincia: 'Milano '
 regione: 'Lombardia '
 tag: Donazioni materiali/strumenti
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/102,578925856,2020-03-11 22:59:01,2020-03-10 23:53:06,"Weekend gratuito per medici e infermieri ospedali di #Crema, #Seriate e #Lodi",,,"[""Servizi e iniziative solidali private"", ""accettato""]",,,"{""chi"": ""Bed&Breakfast di Michela Mazzucchelli"", ""comune"": ""Costa Volpino"", ""contatti"": """", ""descrizione"": ""Weekend gratuito per 15 medici e infermieri degli ospedali di Crema, Seriate e Lodi"", ""destinatari"": """", ""fonte"": ""https://milano.repubblica.it/cronaca/2020/03/06/news/coronavirus_b_b_lago_d_iseo_offre_soggiorno_medici_infermieri-250431477/"", ""provincia"": ""Bergamo"", ""regione"": ""Lombardia"", ""tag"": ""Servizi e iniziative solidali private""}","<pre><yamldata>chi: Bed&Breakfast di Michela Mazzucchelli
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/102,578925856,2020-03-14 15:50:57,2020-03-10 23:53:06,"Weekend gratuito per medici e infermieri ospedali di #Crema, #Seriate e #Lodi",45.829888,10.098161,"[""Servizi e iniziative solidali private"", ""accettato""]",,,"{""Posizione"": ""45.829888 10.098161 0 0"", ""chi"": ""Bed&Breakfast di Michela Mazzucchelli"", ""comune"": ""Costa Volpino"", ""contatti"": """", ""descrizione"": ""Weekend gratuito per 15 medici e infermieri degli ospedali di Crema, Seriate e Lodi"", ""destinatari"": """", ""fonte"": ""https://milano.repubblica.it/cronaca/2020/03/06/news/coronavirus_b_b_lago_d_iseo_offre_soggiorno_medici_infermieri-250431477/"", ""provincia"": ""Bergamo"", ""regione"": ""Lombardia"", ""tag"": ""Servizi e iniziative solidali private""}","<pre><yamldata>chi: Bed&Breakfast di Michela Mazzucchelli
 comune: Costa Volpino
 contatti: ''
 descrizione: Weekend gratuito per 15 medici e infermieri degli ospedali di Crema,
@@ -3199,6 +3199,7 @@ fonte: https://milano.repubblica.it/cronaca/2020/03/06/news/coronavirus_b_b_lago
 provincia: Bergamo
 regione: Lombardia
 tag: Servizi e iniziative solidali private
+Posizione: 45.829888 10.098161 0 0
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/101,578925850,2020-03-11 15:03:27,2020-03-10 23:53:05,Traduzione in comunicazione alternativa aumentativa decalogo Ministero della Salute,,,"[""Informazioni utili"", ""Servizi e iniziative solidali private"", ""accettato""]",,,"{""chi"": ""Anffas Trento"", ""comune"": null, ""contatti"": """", ""descrizione"": ""Traduzione in comunicazione alternativa aumentativa decalogo Ministero della Salute."", ""destinatari"": ""persone con disabilit\u00e0 intellettiva"", ""fonte"": ""http://www.anffas.tn.it/component/k2/item/824-coronavirus.html"", ""provincia"": null, ""regione"": null, ""tag"": ""Sostegno al lavoro""}","<pre><yamldata>chi: 'Anffas Trento'
 comune:
