@@ -1,5 +1,18 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/382,580971997,2020-03-14 09:13:46,2020-03-14 01:21:04,Sportello famiglia chiuso fino al 25/03 #Trieste,,,"[""Notizia"", ""accettato"", ""form""]",,,"{""Cosa"": ""Emergenza COVID-19: sportello famiglia"", ""Descrizione"": ""Lo Sportello famiglia sar\u00e0 chiuso al pubblico fino al 25/03/2020.\nLe domande di accesso/rinnovo di Carta Famiglia, bonus e contributi vari potranno essere inviate esclusivamente per posta elettronica al seguente indirizzo: comune.trieste@certgov.fvg.it"", ""Link"": ""https://www.comune.trieste.it/-/emergenza-covid-19-sportello-famiglia""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/385,581124383,2020-03-14 09:25:13,2020-03-14 09:23:43,Corsi online Coursera gratis fino a settembre,,,"[""Didattica a distanza e-learning"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Coursera"", ""Descrizione"": ""Attraverso Coursera for Campus sar\u00e0 pi\u00f9 semplice per le universit\u00e0 italiane offrire agli studenti corsi online dei migliori atenei e partner di settore. Gli istituti avranno accesso al catalogo fino al 31 luglio 2020, dopodich\u00e9 sono previste estensioni mensili, a seconda delle valutazioni dei rischi. Gli studenti che si iscrivono entro il 31 luglio continueranno ad avere accesso fino al 30 settembre 2020."", ""Destinatari"": ""Universit\u00e0 italiane"", ""Link"": ""https://www.fortuneita.com/2020/03/13/tutti-i-corsi-online-coursera-gratis-per-gli-italiani-fino-a-settembre/?fbclid=IwAR22shB8I1Zh0tzSSDbL45CHvUngPPxSfPgh0QuTvkfkR9Rg5ENLC4aGelU"", ""Natura"": ""didattica"", ""Titolo"": ""Corsi online Coursera gratis fino a settembre""}","<pre><yamldata>
+Da_chi_offerta: Coursera
+Descrizione: Attraverso Coursera for Campus sarà più semplice per le università italiane
+  offrire agli studenti corsi online dei migliori atenei e partner di settore. Gli
+  istituti avranno accesso al catalogo fino al 31 luglio 2020, dopodiché sono previste
+  estensioni mensili, a seconda delle valutazioni dei rischi. Gli studenti che si
+  iscrivono entro il 31 luglio continueranno ad avere accesso fino al 30 settembre
+  2020.
+Destinatari: Università italiane
+Link: https://www.fortuneita.com/2020/03/13/tutti-i-corsi-online-coursera-gratis-per-gli-italiani-fino-a-settembre/?fbclid=IwAR22shB8I1Zh0tzSSDbL45CHvUngPPxSfPgh0QuTvkfkR9Rg5ENLC4aGelU
+Natura: didattica
+Titolo: Corsi online Coursera gratis fino a settembre
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/382,580971997,2020-03-14 09:18:10,2020-03-14 01:21:04,Sportello famiglia chiuso fino al 25/03 #Trieste,,,"[""Informazioni utili"", ""Notizie"", ""accettato"", ""form""]",,,"{""Cosa"": ""Emergenza COVID-19: sportello famiglia"", ""Descrizione"": ""Lo Sportello famiglia sar\u00e0 chiuso al pubblico fino al 25/03/2020.\nLe domande di accesso/rinnovo di Carta Famiglia, bonus e contributi vari potranno essere inviate esclusivamente per posta elettronica al seguente indirizzo: comune.trieste@certgov.fvg.it"", ""Link"": ""https://www.comune.trieste.it/-/emergenza-covid-19-sportello-famiglia""}","<pre><yamldata>
 Cosa: 'Emergenza COVID-19: sportello famiglia'
 Descrizione: 'Lo Sportello famiglia sarà chiuso al pubblico fino al 25/03/2020.
 
@@ -114,6 +127,14 @@ Natura: solidale
 Posizione: 41.921899 12.481384 0 0
 Tipo_di_soggetto: privato
 Titolo: 'Consegna Farmacia a domicilio per persone disabilità o grave malattia #Italia'
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/371,580886376,2020-03-14 09:19:06,2020-03-13 22:02:35,Diventa volontario del progetto Milano Aiuta - Comune di #Milano,45.464676,9.191394,"[""Bollettino"", ""Informazioni utili"", ""Notizie"", ""accettato"", ""form""]",,,"{""Cosa"": ""Come diventare volontario del progetto Milano Aiuta del Comune di Milano"", ""Descrizione"": ""Il Comune di Milano cerca volontari per l\u2019iniziativa Milano Aiuta che offre supporto e aiuto alle persone anziane in difficolt\u00e0. Per candidarsi come volontario si pu\u00f2 scrivere all'indirizzo mail per.volontariato@comune.milano.it"", ""Link"": ""https://www.comune.milano.it/-/coronavirus.-milano-aiuta-al-via-il-percorso-telefonico-dedicato-agli-over-65"", ""Posizione"": ""45.464676 9.191394 0 0""}","<pre><yamldata>
+Cosa: Come diventare volontario del progetto Milano Aiuta del Comune di Milano
+Descrizione: Il Comune di Milano cerca volontari per l’iniziativa Milano Aiuta che
+  offre supporto e aiuto alle persone anziane in difficoltà. Per candidarsi come volontario
+  si può scrivere all'indirizzo mail per.volontariato@comune.milano.it
+Link: https://www.comune.milano.it/-/coronavirus.-milano-aiuta-al-via-il-percorso-telefonico-dedicato-agli-over-65
+Posizione: 45.464676 9.191394 0 0
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/370,580869500,2020-03-13 21:43:29,2020-03-13 21:37:28,Servizio Farmaci a domicilio a Caprarica di #Lecce,40.262418,18.24525,"[""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Centro Operativo Comunale Caprarica di Lecce"", ""Descrizione"": ""Contattando il COC e le associazioni ActionAid Lecce e Orsa Maggiore Protezione Civile \u00e8 possibile ricevere a domicilio i farmaci.\nPrenotare ogni giorno entro le 12:15 al 3290534185.\n\nPer consegna pasti, spesa, farmaci, giornali, pagamento bollette ad anziani e soggetti deboli \u2013 3290534185."", ""Destinatari"": ""Cittadini di Caprarica di Lecce"", ""Natura"": ""solidale"", ""Posizione"": ""40.262418 18.24525 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Servizio Farmaci a domicilio""}","<pre><yamldata>
 Da_chi_offerta: Centro Operativo Comunale Caprarica di Lecce
