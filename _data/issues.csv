@@ -2995,7 +2995,7 @@ provincia: Italia
 regione: Italia
 tag: ""Attivit\xE0 culturali e ricreative""
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/124,578925992,2020-03-12 11:02:44,2020-03-10 23:53:36,Commissioni a domicilio (alimenti e farmaci) #IsolaDelGiglio (GR),,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato""]",,,"{""chi"": ""Comitato San Mamiliano"", ""comune"": ""Isola del Giglio"", ""contatti"": ""Stefania 3290245553, Filippo 3286934513, Fabio 3338179662, Andrea 3402612926"", ""descrizione"": ""commisioni (alimenti e farmaci)"", ""destinatari"": ""anziani e malati"", ""fonte"": ""https://www.ilgiunco.net/2020/03/10/la-solidarieta-ai-tempi-del-coronavirus-sono-michele-del-terzo-piano-se-volete-vado-a-farvi-la-spesa/"", ""provincia"": ""Grosseto"", ""regione"": ""Toscana"", ""tag"": ""Consegne e commissioni""}","<pre><yamldata>chi: Comitato San Mamiliano
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/124,578925992,2020-03-14 16:00:54,2020-03-10 23:53:36,Commissioni a domicilio (alimenti e farmaci) #IsolaDelGiglio (GR),42.7723609,13.2965826,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato""]",,,"{""Posizione"": ""42.7723609 13.2965826 0 0"", ""chi"": ""Comitato San Mamiliano"", ""comune"": ""Isola del Giglio"", ""contatti"": ""Stefania 3290245553, Filippo 3286934513, Fabio 3338179662, Andrea 3402612926"", ""descrizione"": ""commisioni (alimenti e farmaci)"", ""destinatari"": ""anziani e malati"", ""fonte"": ""https://www.ilgiunco.net/2020/03/10/la-solidarieta-ai-tempi-del-coronavirus-sono-michele-del-terzo-piano-se-volete-vado-a-farvi-la-spesa/"", ""provincia"": ""Grosseto"", ""regione"": ""Toscana"", ""tag"": ""Consegne e commissioni""}","<pre><yamldata>chi: Comitato San Mamiliano
 comune: Isola del Giglio
 contatti: Stefania 3290245553, Filippo 3286934513, Fabio 3338179662, Andrea 3402612926
 descrizione: commisioni (alimenti e farmaci)
@@ -3004,6 +3004,7 @@ fonte: https://www.ilgiunco.net/2020/03/10/la-solidarieta-ai-tempi-del-coronavir
 provincia: Grosseto
 regione: Toscana
 tag: Consegne e commissioni
+Posizione: 42.7723609 13.2965826 0 0
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/123,578925991,2020-03-14 15:58:59,2020-03-10 23:53:35,Commissioni a domicilio (farmaci e alimenti) #ArquataDelTronto (AP),42.7723609,13.2965826,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato""]",,,"{""Posizione"": ""42.7723609 13.2965826 0 0"", ""Telefono"": ""0736 802459"", ""chi"": ""Croce Verde"", ""comune"": ""Arquata del Tronto"", ""descrizione"": ""commissioni (farmaci e alimenti)"", ""destinatari"": ""anziani/e e persone con particolari difficolt\u00e0 dei comuni di Arquata del Tronto e Acquasanta Terme"", ""fonte"": """", ""provincia"": ""Ascoli Piceno"", ""regione"": ""Marche"", ""tag"": ""Consegne e commissioni""}","<pre><yamldata>chi: Croce Verde
 comune: Arquata del Tronto
