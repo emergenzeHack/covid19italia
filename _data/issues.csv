@@ -2961,7 +2961,7 @@ provincia: Italia
 regione: Italia
 tag: Didattica a distanza
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/129,578926015,2020-03-11 11:05:13,2020-03-10 23:53:40,Visione gratuita film #Ischia Film Festival,,,"[""Attivita culturali e ricreative"", ""accettato""]",,,"{""chi"": ""Ischia Film Festival"", ""comune"": ""Italia"", ""contatti"": """", ""descrizione"": ""Visione libera e gratuita dei film in concorso a Ischia Film Festival"", ""destinatari"": ""tutti"", ""fonte"": ""http://www.ischiafilmfestival.it/index.php/it/iscrivere-un-film?fbclid=IwAR0UuphpaD8Cvw5Pv32kKuBy8aB9aQbGBDvAgdAPmQ6N4PcqHfs3pp5r5TM"", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Attivit\u00e0 culturali e ricreative""}","<pre><yamldata>chi: Ischia Film Festival
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/129,578926015,2020-03-14 16:09:58,2020-03-10 23:53:40,Visione gratuita film #Ischia Film Festival,40.734205,13.947125,"[""Attivita culturali e ricreative"", ""accettato""]",,,"{""Posizione"": ""40.734205 13.947125 0 0"", ""chi"": ""Ischia Film Festival"", ""comune"": ""Italia"", ""contatti"": """", ""descrizione"": ""Visione libera e gratuita dei film in concorso a Ischia Film Festival"", ""destinatari"": ""tutti"", ""fonte"": ""http://www.ischiafilmfestival.it/index.php/it/iscrivere-un-film?fbclid=IwAR0UuphpaD8Cvw5Pv32kKuBy8aB9aQbGBDvAgdAPmQ6N4PcqHfs3pp5r5TM"", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Attivit\u00e0 culturali e ricreative""}","<pre><yamldata>chi: Ischia Film Festival
 comune: Italia
 contatti: ''
 descrizione: Visione libera e gratuita dei film in concorso a Ischia Film Festival
@@ -2970,6 +2970,7 @@ fonte: http://www.ischiafilmfestival.it/index.php/it/iscrivere-un-film?fbclid=Iw
 provincia: Italia
 regione: Italia
 tag: ""Attivit\xE0 culturali e ricreative""
+Posizione: 40.734205 13.947125 0 0
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/128,578926012,2020-03-11 11:20:41,2020-03-10 23:53:39,Lettura giornaliera di tutto il Decamerone,,,"[""Attivita culturali e ricreative"", ""accettato""]",,,"{""chi"": ""lavoratori della cultura"", ""comune"": ""Italia"", ""contatti"": ""https://www.facebook.com/decamerone2020/"", ""descrizione"": ""Lettura giornaliera di tutto il Decamerone, dal 29 febbraio al 9 marzo."", ""destinatari"": ""tutti"", ""fonte"": ""https://www.facebook.com/decamerone2020/"", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Attivit\u00e0 culturali e ricreative""}","<pre><yamldata>chi: lavoratori della cultura
 comune: Italia
@@ -2981,7 +2982,7 @@ provincia: Italia
 regione: Italia
 tag: ""Attivit\xE0 culturali e ricreative""
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/127,578926006,2020-03-11 14:20:49,2020-03-10 23:53:38,Supporto alla comunità della Social Street Baia del Re #Milano,,,"[""Servizi e iniziative solidali private"", ""accettato""]",,,"{""chi"": ""social street - baia del re "", ""comune"": ""Milano "", ""contatti"": ""social baia del re "", ""descrizione"": ""La social street aiuta la comunit\u00e0 per spesa, medicine e beni prima necessit\u00e0"", ""destinatari"": ""tutti "", ""fonte"": ""https://www.facebook.com/pages/category/Community-Organization/Baia-del-Re-121969331146757/"", ""provincia"": ""Milano"", ""regione"": ""lombardia "", ""tag"": ""Servizi e iniziative solidali private""}","<pre><yamldata>chi: 'social street - baia del re '
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/127,578926006,2020-03-14 16:08:41,2020-03-10 23:53:38,Supporto alla comunità della Social Street Baia del Re #Milano,45.435307,9.1781905,"[""Servizi e iniziative solidali private"", ""accettato""]",,,"{""Posizione"": ""45.435307 9.1781905 0 0"", ""chi"": ""social street - baia del re "", ""comune"": ""Milano "", ""contatti"": ""social baia del re "", ""descrizione"": ""La social street aiuta la comunit\u00e0 per spesa, medicine e beni prima necessit\u00e0"", ""destinatari"": ""tutti "", ""fonte"": ""https://www.facebook.com/pages/category/Community-Organization/Baia-del-Re-121969331146757/"", ""provincia"": ""Milano"", ""regione"": ""lombardia "", ""tag"": ""Servizi e iniziative solidali private""}","<pre><yamldata>chi: 'social street - baia del re '
 comune: 'Milano '
 contatti: 'social baia del re '
 descrizione: ""La social street aiuta la comunità per spesa, medicine e beni prima necessità""
@@ -2990,6 +2991,7 @@ fonte: 'https://www.facebook.com/pages/category/Community-Organization/Baia-del-
 provincia: Milano
 regione: 'lombardia '
 tag: Servizi e iniziative solidali private
+Posizione: 45.435307 9.1781905 0 0
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/126,578925998,2020-03-14 16:02:47,2020-03-10 23:53:37,Disposizioni decreto tradotte in varie lingue,45.5398022,10.2200214,"[""Informazioni utili"", ""accettato""]",,,"{""Posizione"": ""45.5398022 10.2200214 0 0"", ""chi"": ""Radio Onda d'urto"", ""comune"": ""Italia"", ""contatti"": """", ""descrizione"": ""Disposizioni decreto tradotte in varie lingue"", ""destinatari"": ""Persone che parlano inglese, framcese, russo, spagnolo, wolof, pashtun, pulaar, bambara."", ""fonte"": ""https://www.radiondadurto.org/2020/03/10/coronavirus-traduzioni-multilingue-sulle-disposizioni-anti-contagio/"", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Informazioni utili""}","<pre><yamldata>chi: Radio Onda d'urto
 comune: Italia
