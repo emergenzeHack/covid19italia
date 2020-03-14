@@ -2900,7 +2900,7 @@ provincia: Brescia
 regione: Lombardia
 tag: Servizi e iniziative solidali private
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/136,578926047,2020-03-11 22:49:19,2020-03-10 23:53:46,Spesa a domicilio per anziani #Catanzaro,,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato""]",,,"{""chi"": ""CSV"", ""comune"": ""Catanzaro"", ""contatti"": ""0961-790647 - info@csvcatanzaro.it"", ""descrizione"": ""Spesa a domicilio per anziani"", ""destinatari"": ""anziani over 65"", ""fonte"": ""https://www.comune.catanzaro.it/covid-19-concolino-insieme-a-csv-servizio-spesa-a-domicilio-per-over-75/?fbclid=IwAR3ZvwupnzgnW3p_rjGNnwqClc_jY1iWiYXq9m7dSRXYpZtqVPosm6slVSY"", ""provincia"": ""Catanzaro"", ""regione"": ""Calabria"", ""tag"": ""Consegne e commissioni""}","<pre><yamldata>chi: CSV
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/136,578926047,2020-03-14 16:13:53,2020-03-10 23:53:46,Spesa a domicilio per anziani #Catanzaro,38.82996034999999,16.43155687627833,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato""]",,,"{""Posizione"": ""38.82996034999999 16.43155687627833 0 0"", ""chi"": ""CSV"", ""comune"": ""Catanzaro"", ""contatti"": ""0961-790647 - info@csvcatanzaro.it"", ""descrizione"": ""Spesa a domicilio per anziani"", ""destinatari"": ""anziani over 65"", ""fonte"": ""https://www.comune.catanzaro.it/covid-19-concolino-insieme-a-csv-servizio-spesa-a-domicilio-per-over-75/?fbclid=IwAR3ZvwupnzgnW3p_rjGNnwqClc_jY1iWiYXq9m7dSRXYpZtqVPosm6slVSY"", ""provincia"": ""Catanzaro"", ""regione"": ""Calabria"", ""tag"": ""Consegne e commissioni""}","<pre><yamldata>chi: CSV
 comune: Catanzaro
 contatti: 0961-790647 - info@csvcatanzaro.it
 descrizione: Spesa a domicilio per anziani
@@ -2909,8 +2909,9 @@ fonte: https://www.comune.catanzaro.it/covid-19-concolino-insieme-a-csv-servizio
 provincia: Catanzaro
 regione: Calabria
 tag: Consegne e commissioni
+Posizione: 38.82996034999999 16.43155687627833 0 0
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/135,578926045,2020-03-11 22:50:12,2020-03-10 23:53:45,Spesa a domicilio per anziani #Roma,,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato""]",,,"{""chi"": ""Circolo Arci Sprawasser"", ""comune"": ""Roma"", ""contatti"": ""3917274709"", ""descrizione"": ""Spesa a domicilio per anziani"", ""destinatari"": ""anziani over 65"", ""fonte"": ""http://pigneto.romatoday.it/pigneto/progetto-spesa-anziani-sparwasser.html?fbclid=IwAR3V67Tp7IdHQ7EXfZPVrSm9j-76Hfny5rY5pzqqN4FXODN_vJXviCcEUqY"", ""provincia"": ""Roma"", ""regione"": ""Lazio"", ""tag"": ""Consegne e commissioni""}","<pre><yamldata>chi: Circolo Arci Sprawasser
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/135,578926045,2020-03-14 16:13:01,2020-03-10 23:53:45,Spesa a domicilio per anziani #Roma,41.8860053,12.5385431,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato""]",,,"{""Posizione"": ""41.8860053 12.5385431 0 0"", ""chi"": ""Circolo Arci Sprawasser"", ""comune"": ""Roma"", ""contatti"": ""3917274709"", ""descrizione"": ""Spesa a domicilio per anziani"", ""destinatari"": ""anziani over 65"", ""fonte"": ""http://pigneto.romatoday.it/pigneto/progetto-spesa-anziani-sparwasser.html?fbclid=IwAR3V67Tp7IdHQ7EXfZPVrSm9j-76Hfny5rY5pzqqN4FXODN_vJXviCcEUqY"", ""provincia"": ""Roma"", ""regione"": ""Lazio"", ""tag"": ""Consegne e commissioni""}","<pre><yamldata>chi: Circolo Arci Sprawasser
 comune: Roma
 contatti: '3917274709'
 descrizione: Spesa a domicilio per anziani
@@ -2919,6 +2920,7 @@ fonte: http://pigneto.romatoday.it/pigneto/progetto-spesa-anziani-sparwasser.htm
 provincia: Roma
 regione: Lazio
 tag: Consegne e commissioni
+Posizione: 41.8860053 12.5385431 0 0
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/133,578926035,2020-03-14 16:11:43,2020-03-10 23:53:43,Numero Radio Ciroma per segnalare disagi e criticità #Ciroma (CS),39.596685300000004,16.333055599019605,"[""Contatti utili"", ""Informazioni utili"", ""accettato""]",,,"{""Posizione"": ""39.596685300000004 16.333055599019605 0 0"", ""chi"": ""Radio Ciroma"", ""comune"": ""Cosenza"", ""contatti"": ""366 4185972"", ""descrizione"": ""Informazioni su disagi e criticit\u00e0"", ""destinatari"": ""tutti"", ""fonte"": ""https://www.facebook.com/photo.php?fbid=10218261149973887&set=p.10218261149973887&type=3&theater"", ""provincia"": ""Cosenza"", ""regione"": ""Calabria"", ""tag"": ""Servizi e iniziative solidali private""}","<pre><yamldata>chi: Radio Ciroma
 comune: Cosenza
