@@ -94,6 +94,19 @@ Posizione: 44.493564 11.355499 0 0
 Tipo_di_soggetto: privato
 Titolo: 'Supporto psicologico e traduzione informazioni sanitarie #Bologna'
 </yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/410,581207945,2020-03-14 14:19:17,2020-03-14 13:22:51,"Ass.NuovaMente, Spesa e medicinali a domicilio #Rosarno",38.486315,15.977085,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Associazione NuovaMente"", ""Descrizione"": ""Il coronavirus ci limita nel darci la mano, ma non nel darci una mano. \nL'associazione NuovaMente \u00e8 a disposizione per tutte le persone che avessero bisogno di qualcosa, di un aiuto, che sia fare la spesa,  acquistare e ritirare le medicine.\n\nContatto per chi ha bisogno: 393 968 3720"", ""Destinatari"": ""anziani e persone con problemi di salute"", ""Link"": ""https://m.facebook.com/associazionenuovamenterosarno/photos/a.374418266081465/1240518099471473/?type=3&source=48"", ""Natura"": ""solidale"", ""Posizione"": ""38.486315 15.977085 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Spesa e medicinali a domicilio #Rosarno""}","<pre><yamldata>
+Da_chi_offerta: Associazione NuovaMente
+Descrizione: ""Il coronavirus ci limita nel darci la mano, ma non nel darci una mano.\
+  \ \nL'associazione NuovaMente è a disposizione per tutte le persone che avessero\
+  \ bisogno di qualcosa, di un aiuto, che sia fare la spesa,  acquistare e ritirare\
+  \ le medicine.\n\nContatto per chi ha bisogno: 393 968 3720""
+Destinatari: anziani e persone con problemi di salute
+Link: https://m.facebook.com/associazionenuovamenterosarno/photos/a.374418266081465/1240518099471473/?type=3&source=48
+Natura: solidale
+Posizione: 38.486315 15.977085 0 0
+Tipo_di_soggetto: privato
+Titolo: 'Spesa e medicinali a domicilio #Rosarno'
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/407,581178910,2020-03-14 12:19:45,2020-03-14 12:06:21,Didattica a distanza offerta da TEDx #Varese,45.821218,8.825834,"[""Attivita culturali e ricreative"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""TEDx Varese"", ""Descrizione"": ""TED x Varese ha implementato un\u2019area per supportare i docenti e le scuole che vogliono attivare forme di didattica a distanza avvalendosi di contenuti e strumenti gratuiti messi a disposizione da TED-Ed, il programma di TED dedicato all\u2019educazione.\nScopritela qui: https://www.tedxvarese.com/studenti/"", ""Destinatari"": ""Docenti"", ""Link"": ""https://www.tedxvarese.com/studenti/?fbclid=IwAR2hqJLrasgtasc_YvT9kgPoaoqv1YUGOR1H8B8q5WMdKUiBnbWXjRPTQwE"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""45.821218 8.825834 0 0"", ""Titolo"": ""Didattica a distanza offerta da TEDx #Varese""}","<pre><yamldata>
 Da_chi_offerta: TEDx Varese
 Descrizione: 'TED x Varese ha implementato un’area per supportare i docenti e le scuole
@@ -3010,6 +3023,17 @@ provincia: Bergamo
 regione: Lombardia
 tag: Servizi e iniziative solidali private
 </yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/102,578925856,2020-03-11 22:59:01,2020-03-10 23:53:06,"Weekend gratuito per medici e infermieri ospedali di #Crema, #Seriate e #Lodi",,,"[""Servizi e iniziative solidali private"", ""accettato""]",,,"{""chi"": ""Bed&Breakfast di Michela Mazzucchelli"", ""comune"": ""Costa Volpino"", ""contatti"": """", ""descrizione"": ""Weekend gratuito per 15 medici e infermieri degli ospedali di Crema, Seriate e Lodi"", ""destinatari"": """", ""fonte"": ""https://milano.repubblica.it/cronaca/2020/03/06/news/coronavirus_b_b_lago_d_iseo_offre_soggiorno_medici_infermieri-250431477/"", ""provincia"": ""Bergamo"", ""regione"": ""Lombardia"", ""tag"": ""Servizi e iniziative solidali private""}","<pre><yamldata>chi: Bed&Breakfast di Michela Mazzucchelli
+comune: Costa Volpino
+contatti: ''
+descrizione: Weekend gratuito per 15 medici e infermieri degli ospedali di Crema,
+  Seriate e Lodi
+destinatari: ''
+fonte: https://milano.repubblica.it/cronaca/2020/03/06/news/coronavirus_b_b_lago_d_iseo_offre_soggiorno_medici_infermieri-250431477/
+provincia: Bergamo
+regione: Lombardia
+tag: Servizi e iniziative solidali private
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/101,578925850,2020-03-11 15:03:27,2020-03-10 23:53:05,Traduzione in comunicazione alternativa aumentativa decalogo Ministero della Salute,,,"[""Informazioni utili"", ""Servizi e iniziative solidali private"", ""accettato""]",,,"{""chi"": ""Anffas Trento"", ""comune"": null, ""contatti"": """", ""descrizione"": ""Traduzione in comunicazione alternativa aumentativa decalogo Ministero della Salute."", ""destinatari"": ""persone con disabilit\u00e0 intellettiva"", ""fonte"": ""http://www.anffas.tn.it/component/k2/item/824-coronavirus.html"", ""provincia"": null, ""regione"": null, ""tag"": ""Sostegno al lavoro""}","<pre><yamldata>chi: 'Anffas Trento'
 comune:
 contatti: ''
@@ -3324,17 +3348,6 @@ provincia: Milano
 regione: Lombardia
 tag: Raccolta fondi
 Posizione: 45.5058688 9.264359 0 0
-</yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/72,578924901,2020-03-13 16:39:18,2020-03-10 23:49:53,Raccolta fondi per terapia intensiva Ospedale di #Cremona,45.291622,9.8549212,"[""Bollettino"", ""Raccolte fondi"", ""accettato""]",,,"{""Posizione"": ""45.291622 9.8549212 0 0"", ""chi"": """", ""comune"": ""Cremona"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per rafforzare la terapia intensiva Ospedale di Cremona"", ""destinatari"": ""tutti"", ""fonte"": ""https://www.gofundme.com/f/raccolta-fondi-per-l039-ospedale-di-cremona"", ""provincia"": ""Milano"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: ''
-comune: Cremona
-contatti: ''
-descrizione: Raccolta fondi per rafforzare la terapia intensiva Ospedale di Cremona
-destinatari: tutti
-fonte: https://www.gofundme.com/f/raccolta-fondi-per-l039-ospedale-di-cremona
-provincia: Milano
-regione: Lombardia
-tag: Raccolta fondi
-Posizione: 45.291622 9.8549212 0 0
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/70,578924894,2020-03-13 16:35:07,2020-03-10 23:49:51,Raccolta fondi Caritas #Lodi ,45.4411644,9.4645945,"[""Bollettino"", ""Raccolte fondi"", ""Sostegno lavoro e imprese"", ""accettato""]",,,"{""Posizione"": ""45.4411644 9.4645945 0 0"", ""chi"": ""Caritas Lodi"", ""comune"": ""Lodi"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per supportare Centro Raccolta Solidale e per fondo a sostegno di chi ha perso il lavoro."", ""destinatari"": ""famiglie in difficolt\u00e0, disoccupati"", ""fonte"": ""http://caritas.diocesi.lodi.it/blog/2020/03/06/coronavirus/?fbclid=IwAR0v5jiNMfm3TPdtHChDL9_-Ixt1735vOqYuSHn8ihoGDpVaDK0xHOJO_74"", ""provincia"": ""Lodi"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Caritas Lodi
 comune: Lodi
