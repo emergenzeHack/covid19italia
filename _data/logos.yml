@@ -22,11 +22,11 @@
   logo: /img/icone/tci-legge.png
   map: false
   link: fonti-istituzionali/
-# - name: INIZIATIVE CULTURALI E CREATIVE
-#   logo-alt: Iniziative culturali e creative.
-#   logo: /img/icone/tci-solidali.png              #       SERVE ICONA NUOVA??
-#   map: false
-#   link: issues/#iniziative-culturali-e-ricreative
+- name: RICHIESTE DI AIUTO
+  logo-alt: richieste di aiuto
+  logo: /img/icone/alloggi2-tci.png              #       SERVE ICONA NUOVA??
+  map: false
+  link: richiesta/
 #- name: NOTIZIE
 #  logo-alt: Notizie e informazioni utili.
 #  logo: /img/icone/news2-tci.png
