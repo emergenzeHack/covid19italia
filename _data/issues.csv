@@ -1,4 +1,24 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/427,581263785,2020-03-14 15:57:25,2020-03-14 15:56:53,Municipio VIII Solidale #Roma,41.809596,12.452142,"[""Bollettino"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Municipio VIII Roma"", ""Descrizione"": ""Siete soli in casa?\n\nChiamateci: 0640060606\n\nservizio attivo dalle 9,00 alle 13,00\ne dalle 14,00 alle 18,00\ndal luned\u00ec al venerd\u00ec"", ""Destinatari"": ""Cittadine e cittadini Municipio VIII Roma"", ""Link"": ""https://www.comune.fi.it/comunicati-stampa/coronavirus-da-lunedi-nuovo-servizio-di-consegna-domiciliare-gratuita-di-farmaci?language_content_entity=it"", ""Natura"": ""solidale"", ""Posizione"": ""41.809596 12.452142 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Municipio VIII Solidale #Roma""}","<pre><yamldata>
+Da_chi_offerta: Municipio VIII Roma
+Descrizione: 'Siete soli in casa?
+
+
+  Chiamateci: 0640060606
+
+
+  servizio attivo dalle 9,00 alle 13,00
+
+  e dalle 14,00 alle 18,00
+
+  dal lunedì al venerdì'
+Destinatari: Cittadine e cittadini Municipio VIII Roma
+Link: https://www.comune.fi.it/comunicati-stampa/coronavirus-da-lunedi-nuovo-servizio-di-consegna-domiciliare-gratuita-di-farmaci?language_content_entity=it
+Natura: solidale
+Posizione: 41.809596 12.452142 0 0
+Tipo_di_soggetto: pubblico
+Titolo: 'Municipio VIII Solidale #Roma'
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/426,581259139,2020-03-14 15:45:34,2020-03-14 15:44:23,Si cercano persone con competenze per sviluppare dispositivi medici,,,"[""Bollettino"", ""Richiesta aiuto"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Cosa"": ""Si cercano persone con compertenze per sviluppare dispositivi medici"", ""Descrizione"": ""www.projectopenair.org \u00e8 la piattaforma che sta lavorando su dispositivi medici, come ventilatori open source, per trovare una soluzione semplice e veloce da riprodurre e assemblare localmente in tutto il mondo.\n\nSe hai qualche competenza che ritieni possa essere d'aiuto, unisciti al gruppo di Helpful Engineering."", ""Destinatari"": ""Ingegnere e ingegneri"", ""Link"": ""http://bit.ly/2U6DJTd""}","<pre><yamldata>
 Cosa: Si cercano persone con compertenze per sviluppare dispositivi medici
 Descrizione: 'www.projectopenair.org è la piattaforma che sta lavorando su dispositivi
