@@ -34,6 +34,30 @@ Posizione: 45.540819 10.210716 0 0
 Tipo_di_soggetto: pubblico
 Titolo: 'Ricerca volontari consegne a domicilio Comune di #Brescia'
 </yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/393,581155623,2020-03-14 11:37:14,2020-03-14 10:59:16,Raccolta fondi ASST #Bergamo Ovest,,,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Donazione COVID-19\u201d. Non essendo noi una Onlus non potranno essere detraibili dalla dichiarazione dei redditi, ma la nostra ASST, se il donatore fornir\u00e0 i propri estremi e un indirizzo, ricever\u00e0 la ricevuta attestante il pagamento\u201d.\n\nEcco gli estremi del conto corrente dell\u2019ASST di Bergamo Ovest:\n\nIBAN IT 81 G 05696 53640 000007000X13\nCOD. SWIFT POSOIT22\nCAUSALE: Donazione COVID-19\n\nPer informazioni e per le pratiche rivolgersi all\u2019UOS Affari generali e legali, Tel. 0363/424524 \u2013 294 Email: affari_generali@asst-bgovest.it PEC: protocollo@pec.asst-bgovest.it"", ""Nome"": ""ASST Bergamo Ovest"", ""group_bq2vf46/BIC_SWIFT"": ""POSOIT22"", ""group_bq2vf46/Causale"": ""Donazione COVID-19"", ""group_bq2vf46/IBAN"": ""IT 81 G 05696 53640 000007000X13"", ""group_bq2vf46/Intestazione"": ""DaASST di Bergamo Ovest:""}","<pre><yamldata>
+Descrizione: 'Donazione COVID-19”. Non essendo noi una Onlus non potranno essere detraibili
+  dalla dichiarazione dei redditi, ma la nostra ASST, se il donatore fornirà i propri
+  estremi e un indirizzo, riceverà la ricevuta attestante il pagamento”.
+
+
+  Ecco gli estremi del conto corrente dell’ASST di Bergamo Ovest:
+
+
+  IBAN IT 81 G 05696 53640 000007000X13
+
+  COD. SWIFT POSOIT22
+
+  CAUSALE: Donazione COVID-19
+
+
+  Per informazioni e per le pratiche rivolgersi all’UOS Affari generali e legali,
+  Tel. 0363/424524 – 294 Email: affari_generali@asst-bgovest.it PEC: protocollo@pec.asst-bgovest.it'
+Nome: ASST Bergamo Ovest
+group_bq2vf46/BIC_SWIFT: POSOIT22
+group_bq2vf46/Causale: Donazione COVID-19
+group_bq2vf46/IBAN: IT 81 G 05696 53640 000007000X13
+group_bq2vf46/Intestazione: 'DaASST di Bergamo Ovest:'
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/392,581154146,2020-03-14 11:34:18,2020-03-14 10:55:00,Raccolta fondi per poter aiutare la struttura sanitaria di Camerino a fronteggiare l'emergenza del C,43.127619,13.050737,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Raccolta fondi per poter aiutare la struttura sanitaria di Camerino a fronteggiare l'emergenza del Covid-19"", ""Link"": ""https://www.gofundme.com/f/emergenza-covid19-camerino"", ""Nome"": ""Ospedale di Camerino"", ""Posizione"": ""43.127619 13.050737 0 0""}","<pre><yamldata>
 Descrizione: Raccolta fondi per poter aiutare la struttura sanitaria di Camerino a
   fronteggiare l'emergenza del Covid-19
