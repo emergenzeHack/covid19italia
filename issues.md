@@ -71,42 +71,25 @@ permalink: /issues/
 </div>
 {% endfor %}
 
-
 {% assign filteredissues = site.data.issuesjson | where: "state","open" "%}
+
 <script>
 var markerList=[];
+
 {% for member in filteredissues %}
-{% if member.issue.data.Posizione != blank %}
-{% assign coordinate = member.issue.data.Posizione | split: ' ' %}
-markerList.push([{{coordinate[0]}}, {{coordinate[1]}}, "{{member.title|uri_escape}}", "{{ member.number }}", ""]);
-{% endif %}
+    {% if member.issue.data.Posizione != blank %}
+        {% assign labels = member.issue.labels %}
+        {% assign coordinate = member.issue.data.Posizione | split: ' ' %}
+        markerList.push([{{coordinate[0]}}, {{coordinate[1]}}, "{{member.title|uri_escape}}", "{{ member.number }}", {{labels}}]);
+    {% endif %}
 {% endfor %}
 
-var alloggiMarker = L.AwesomeMarkers.icon({
-icon: 'home',
-prefix: 'fa',
-markerColor: 'green'
-});
-var fabbisogniMarker = L.AwesomeMarkers.icon({
-icon: 'child',
-prefix: 'fa',
-markerColor: 'blue'
-});
-var notizieutiliMarker = L.AwesomeMarkers.icon({
-icon: 'newspaper-o',
-prefix: 'fa',
-markerColor: 'orange'
-});
-var donazioniMarker = L.AwesomeMarkers.icon({
-icon: 'handshake-o',
-prefix: 'fa',
-markerColor: 'red'
-});
-var raccoltefondiMarker = L.AwesomeMarkers.icon({
-icon: 'money',
-prefix: 'fa',
-markerColor: 'blue'
-});
+// define icons
+var iniziativeSolidali = L.AwesomeMarkers.icon({icon: 'handshake-o', markerColor: 'blue', prefix: 'fa'}); // iniziative solidali pubbliche e private
+var raccolteFondi = L.AwesomeMarkers.icon({icon: 'eur', markerColor: 'purple', prefix: 'fa'});
+var richiestaAiuto = L.AwesomeMarkers.icon({icon: 'question', markerColor: 'darkblue', prefix: 'fa'});
+var supportoPsicologico = L.AwesomeMarkers.icon({icon: 'phone', markerColor: 'green', prefix: 'fa'});
+var iconaDefault = L.AwesomeMarkers.icon({icon: '', markerColor: 'darkpurple'});
 
 // initialize the map
 var map = L.map('map')
@@ -127,19 +110,34 @@ for (var i=0; i<markerList.length; i++) {
     var lon = markerList[i][1];
     var popupText = markerList[i][2];
     var popupURL = markerList[i][3];
-    var type = markerList[i][4]
+    var labels = markerList[i][4];
+    var iconaFinale;
 
-        if (!isNaN(lat) && !isNaN(lon)) {
-            var markerLocation = new L.LatLng(lat, lon);
-            var marker = new L.Marker(markerLocation);
+    // Raccolte fondi, Supporto psicologico, Servizi e iniziative solidali pubbliche, Servizi e iniziative solidali private, Richiesta aiuto
 
-            markers.addLayer(marker);
+    if (labels.indexOf("Raccolte fondi") >= 0) {
+        iconaFinale = raccolteFondi;
+    } else if (labels.indexOf("Supporto psicologico") >= 0) {
+        iconaFinale = supportoPsicologico;
+    } else if (labels.indexOf("Servizi e iniziative solidali pubbliche") >= 0 || labels.indexOf("Servizi e iniziative solidali private") >= 0) {
+        iconaFinale = iniziativeSolidali;
+    } else if (labels.indexOf("Richiesta aiuto") >= 0) {
+        iconaFinale = richiestaAiuto;
+    } else {
+        iconaFinale = iconaDefault;
+    }
 
-            marker.bindPopup("<a href=\"" + popupURL + "\">" + decodeURI(popupText) + "</a>");
+    if (!isNaN(lat) && !isNaN(lon)) {
+        var markerLocation = new L.LatLng(lat, lon);
+        var marker = new L.Marker(markerLocation, {icon: iconaFinale});
 
-            sumLat += lat;
-            sumLon += lon;
-        }
+        markers.addLayer(marker);
+
+        marker.bindPopup("<a href=\"" + popupURL + "\">" + decodeURI(popupText) + "</a>");
+
+        sumLat += lat;
+        sumLon += lon;
+    }
 }
 
 map.addLayer(markers);
