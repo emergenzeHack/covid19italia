@@ -3191,7 +3191,7 @@ provincia: ''
 regione: ''
 tag: Sostegno al lavoro
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/98,578925353,2020-03-11 11:57:22,2020-03-10 23:51:13,Consegne a domicilio #Barrea (AQ),,,"[""Servizi e iniziative solidali pubbliche"", ""accettato""]",,,"{""chi"": ""Comune di Barrea"", ""comune"": ""Barrea"", ""contatti"": ""347 8533277"", ""descrizione"": ""servizio di consegna a domicilio della spesa alimentare, dei medicinali e di qualsiasi altro bene di prima necessit\u00e0. "", ""destinatari"": ""tutti"", ""fonte"": """", ""provincia"": ""L'Aquila"", ""regione"": ""Abruzzo"", ""tag"": ""Servizi e iniziative solidali pubbliche""}","<pre><yamldata>chi: Comune di Barrea
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/98,578925353,2020-03-14 15:30:35,2020-03-10 23:51:13,Consegne a domicilio #Barrea (AQ),41.7584905,13.9907295,"[""Servizi e iniziative solidali pubbliche"", ""accettato""]",,,"{""Posizione"": ""41.7584905 13.9907295 0 0"", ""chi"": ""Comune di Barrea"", ""comune"": ""Barrea"", ""contatti"": ""347 8533277"", ""descrizione"": ""servizio di consegna a domicilio della spesa alimentare, dei medicinali e di qualsiasi altro bene di prima necessit\u00e0. "", ""destinatari"": ""tutti"", ""fonte"": """", ""provincia"": ""L'Aquila"", ""regione"": ""Abruzzo"", ""tag"": ""Servizi e iniziative solidali pubbliche""}","<pre><yamldata>chi: Comune di Barrea
 comune: Barrea
 contatti: 347 8533277
 descrizione: ""servizio di consegna a domicilio della spesa alimentare, dei medicinali\
@@ -3201,6 +3201,7 @@ fonte: ''
 provincia: L'Aquila
 regione: Abruzzo
 tag: Servizi e iniziative solidali pubbliche
+Posizione: 41.7584905 13.9907295 0 0
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/97,578925348,2020-03-14 15:28:25,2020-03-10 23:51:12,Consegne a domicilio over 65 #Angera (VA),45.7721876,8.5751222,"[""Bollettino"", ""Servizi e iniziative solidali pubbliche"", ""accettato""]",,,"{""Posizione"": ""45.7721876 8.5751222 0 0"", ""chi"": ""Comune di Angera "", ""comune"": ""Angera"", ""contatti"": ""0331 932147"", ""descrizione"": ""L\u2019Amministrazione Comunale a tutela dei soggetti fragili e delle persone di et\u00e0 superiore ai 65 anni, che non hanno alcun sostegno da parte dei familiari, ha attivato un servizio di consegna a domicilio della spesa alimentare, dei medicinali e di qualsiasi altro bene di prima necessit\u00e0.  "", ""destinatari"": ""over 65"", ""fonte"": ""https://www.comune.angera.va.it/servizi/notizie/notizie_fase02.aspx?ID=11670"", ""provincia"": ""Varese"", ""regione"": ""Lombardia"", ""tag"": ""Servizi e iniziative solidali pubbliche""}","<pre><yamldata>chi: 'Comune di Angera '
 comune: Angera
