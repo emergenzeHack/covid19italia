@@ -31,6 +31,24 @@ Descrizione: 'www.projectopenair.org è la piattaforma che sta lavorando su disp
 Destinatari: Ingegnere e ingegneri
 Link: http://bit.ly/2U6DJTd
 </yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/425,581258201,2020-03-14 16:04:03,2020-03-14 15:41:46,Consegne e commissioni gratuite a domicilio #CroceRossaItaliana,,,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Croce Rossa Italiana"", ""Descrizione"": ""Questo \u00e8 il tempo della responsabilit\u00e0 ma anche della solidariet\u00e0. I volontari della Croce rossa italiana, in collaborazione con Federfarma, hanno intensificato il servizio di consegna dei farmaci a domicilio per i pi\u00f9 vulnerabili. In particolare over 65 o persone non autosufficienti, soggetti con sintomatologia da infezione respiratoria e febbre (temperatura superiore a 37,5\u00b0) o sottoposti alla misura della quarantena o risultati positivi al virus. Il servizio \u00e8 attivo su tutto il territorio nazionale."", ""Destinatari"": ""n particolare over 65 o persone non autosufficienti, soggetti con sintomatologia da infezione respiratoria e febbre (temperatura superiore a 37,5\u00b0) o sottoposti alla misura della quarantena o risultati positivi al virus. Il servizio \u00e8 attivo su tutto il territorio nazionale."", ""Link"": ""http://www.salute.gov.it/portale/news/p3_2_1_1_1.jsp?lingua=italiano&menu=notizie&p=dalministero&id=4217"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Spesa e Farmaci a Domicilio""}","<pre><yamldata>
+Da_chi_offerta: Croce Rossa Italiana
+Descrizione: Questo è il tempo della responsabilità ma anche della solidarietà. I
+  volontari della Croce rossa italiana, in collaborazione con Federfarma, hanno intensificato
+  il servizio di consegna dei farmaci a domicilio per i più vulnerabili. In particolare
+  over 65 o persone non autosufficienti, soggetti con sintomatologia da infezione
+  respiratoria e febbre (temperatura superiore a 37,5°) o sottoposti alla misura della
+  quarantena o risultati positivi al virus. Il servizio è attivo su tutto il territorio
+  nazionale.
+Destinatari: n particolare over 65 o persone non autosufficienti, soggetti con sintomatologia
+  da infezione respiratoria e febbre (temperatura superiore a 37,5°) o sottoposti
+  alla misura della quarantena o risultati positivi al virus. Il servizio è attivo
+  su tutto il territorio nazionale.
+Link: http://www.salute.gov.it/portale/news/p3_2_1_1_1.jsp?lingua=italiano&menu=notizie&p=dalministero&id=4217
+Natura: solidale
+Tipo_di_soggetto: privato
+Titolo: Spesa e Farmaci a Domicilio
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/424,581257220,2020-03-14 15:49:33,2020-03-14 15:39:11,Consegne e commissioni a domicilio Comune di #Firenze,43.769684,11.255816,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Anziani Soli per la spesa"", ""Descrizione"": ""Sar\u00e0 dedicato agli over 65 e alle persone immunodepresse e con patologie il nuovo servizio di consegna gratuita a domicilio di farmaci, alimenti e beni di prima necessit\u00e0, che prender\u00e0 il via luned\u00ec. L\u2019iniziativa \u00e8 rivolta ai cittadini residenti a Firenze che non sono in regime di isolamento fiduciario o quarantena ed \u00e8 resa possibile grazie anche alla collaborazione di Afam Farmacie comunali e Federfarma.\n\nPensato dal Comune di Firenze insieme ai Coordinamenti territoriali della Misericordia, della Croce Rossa Italiana e dell\u2019Anpas coordinati dall\u2019associazione Esculapio, il progetto nasce per dare un ulteriore sostegno alle persone pi\u00f9 fragili e contrastare il diffondersi del Coronavirus, limitando il pi\u00f9 possibile le uscite di casa.\n\nIl servizio di ricezione delle telefonate sar\u00e0 attivo dalle 8 alle 16.30 dal luned\u00ec al venerd\u00ec, festivi e prefestivi esclusi. Chi \u00e8 interessato potr\u00e0 chiamare il call center istituito dal Comune per dare informazioni e supporto agli anziani, allo 0553282200."", ""Destinatari"": ""Over 65"", ""Link"": ""https://www.comune.fi.it/comunicati-stampa/coronavirus-da-lunedi-nuovo-servizio-di-consegna-domiciliare-gratuita-di-farmaci?language_content_entity=it"", ""Natura"": ""solidale"", ""Posizione"": ""43.769684 11.255816 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Spesa per over 65 e immunodepressi""}","<pre><yamldata>
 Da_chi_offerta: Anziani Soli per la spesa
 Descrizione: 'Sarà dedicato agli over 65 e alle persone immunodepresse e con patologie
@@ -2973,7 +2991,7 @@ provincia: Milano
 regione: 'lombardia '
 tag: Servizi e iniziative solidali private
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/126,578925998,2020-03-10 23:56:06,2020-03-10 23:53:37,Disposizioni decreto tradotte in varie lingue,,,"[""Informazioni utili"", ""accettato""]",,,"{""chi"": ""Radio Onda d'urto"", ""comune"": ""Italia"", ""contatti"": """", ""descrizione"": ""Disposizioni decreto tradotte in varie lingue"", ""destinatari"": ""Persone che parlano inglese, framcese, russo, spagnolo, wolof, pashtun, pulaar, bambara."", ""fonte"": ""https://www.radiondadurto.org/2020/03/10/coronavirus-traduzioni-multilingue-sulle-disposizioni-anti-contagio/"", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Informazioni utili""}","<pre><yamldata>chi: Radio Onda d'urto
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/126,578925998,2020-03-14 16:02:47,2020-03-10 23:53:37,Disposizioni decreto tradotte in varie lingue,45.5398022,10.2200214,"[""Informazioni utili"", ""accettato""]",,,"{""Posizione"": ""45.5398022 10.2200214 0 0"", ""chi"": ""Radio Onda d'urto"", ""comune"": ""Italia"", ""contatti"": """", ""descrizione"": ""Disposizioni decreto tradotte in varie lingue"", ""destinatari"": ""Persone che parlano inglese, framcese, russo, spagnolo, wolof, pashtun, pulaar, bambara."", ""fonte"": ""https://www.radiondadurto.org/2020/03/10/coronavirus-traduzioni-multilingue-sulle-disposizioni-anti-contagio/"", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Informazioni utili""}","<pre><yamldata>chi: Radio Onda d'urto
 comune: Italia
 contatti: ''
 descrizione: Disposizioni decreto tradotte in varie lingue
@@ -2983,6 +3001,7 @@ fonte: https://www.radiondadurto.org/2020/03/10/coronavirus-traduzioni-multiling
 provincia: Italia
 regione: Italia
 tag: Informazioni utili
+Posizione: 45.5398022 10.2200214 0 0
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/125,578925996,2020-03-11 11:41:59,2020-03-10 23:53:37,Su Telegram storie lette ad alta voce,,,"[""Attivita culturali e ricreative"", ""Giochi/intrattenimento bambini"", ""accettato""]",,,"{""chi"": ""canale telegram @storiealtelefono "", ""comune"": ""Italia"", ""contatti"": ""canale telegram @storiealtelefono per registrare storie"", ""descrizione"": ""Storie lette ad alta voce sul canale Telegram @storiealtelefono"", ""destinatari"": ""tutti"", ""fonte"": ""https://www.radiocittafujiko.it/resistenza-al-coronavirus-2-le-storie-al-telefono-di-chi-e-senza-reddito/?fbclid=IwAR3IYyyk0MGzxtxM3TrI1kycHivJW8_ip1arTX-f3xRqWNvpQt_Bs0hS1_o"", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Attivit\u00e0 culturali e ricreative""}","<pre><yamldata>chi: 'canale telegram @storiealtelefono '
 comune: Italia
