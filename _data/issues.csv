@@ -3129,7 +3129,7 @@ provincia: ''
 regione: Puglia
 tag: Raccolta fondi
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/80,578924934,2020-03-11 15:30:42,2020-03-10 23:49:59,Raccolta fondi per acquisto materiali di protezione per volontari Croce Rossa #Monza,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Croce Rossa Monza"", ""comune"": ""Monza"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per acquisto di materiale di protezione per i volontari."", ""destinatari"": ""tutti"", ""fonte"": ""https://www.gofundme.com/f/yqppre-cri-monza-coronavirus-2019"", ""provincia"": ""Monza"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Croce Rossa Monza
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/80,578924934,2020-03-14 12:58:32,2020-03-10 23:49:59,Raccolta fondi per acquisto materiali di protezione per volontari Croce Rossa #Monza,45.5765081,9.26791783339991,"[""Raccolte fondi"", ""accettato""]",,,"{""Posizione"": ""45.5765081 9.26791783339991 0 0"", ""chi"": ""Croce Rossa Monza"", ""comune"": ""Monza"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per acquisto di materiale di protezione per i volontari."", ""destinatari"": ""tutti"", ""fonte"": ""https://www.gofundme.com/f/yqppre-cri-monza-coronavirus-2019"", ""provincia"": ""Monza"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Croce Rossa Monza
 comune: Monza
 contatti: ''
 descrizione: Raccolta fondi per acquisto di materiale di protezione per i volontari.
@@ -3138,6 +3138,7 @@ fonte: https://www.gofundme.com/f/yqppre-cri-monza-coronavirus-2019
 provincia: Monza
 regione: Lombardia
 tag: Raccolta fondi
+Posizione: 45.5765081 9.26791783339991 0 0 
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/79,578924929,2020-03-14 12:56:50,2020-03-10 23:49:58,Raccolta fondi Fondazione Comunità Bresciana per Ospedali #Brescia,45.55746175,10.231261014351258,"[""Raccolte fondi"", ""accettato""]",,,"{""Posizione"": ""45.55746175 10.231261014351258 0 0"", ""chi"": ""Fondazione Comunita Bresciana Onlus"", ""comune"": ""Brescia"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per Ospedali bresciani"", ""destinatari"": ""tutti"", ""fonte"": ""https://www.giornaledibrescia.it/brescia-e-hinterland/aiutiamobrescia-la-raccolta-fondi-per-gli-ospedali-bresciani-1.3465790?fbclid=IwAR0nAj44EoQXlyk9Cf22_L0wBojOPTtlOgizEHPZsVBp1JPNrAbMHuoGVRw"", ""provincia"": ""Brescia"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Fondazione Comunita Bresciana Onlus
 comune: Brescia
