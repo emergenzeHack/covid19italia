@@ -3079,7 +3079,7 @@ provincia: Torino
 regione: Piemonte
 tag: Raccolta fondi
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/85,578924968,2020-03-11 12:26:39,2020-03-10 23:50:04,Raccolta fondi online Comunità di Sant’Egidio per persone senza dimora e anziani in difficoltà,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Comunit\u00e0 di Sant'Egidio"", ""comune"": ""Roma"", ""contatti"": """", ""descrizione"": ""Raccolta fondi online per offrire generi utili, come alimentari, gel igienizzanti e fazzoletti di carta a senzatetto e anziani soli."", ""destinatari"": ""persone senza dimora, anziani"", ""fonte"": ""https://www.facebook.com/donate/503579490301582/10221812290241438/"", ""provincia"": ""Roma"", ""regione"": ""Lazio"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: ""Comunit\xE0 di Sant'Egidio""
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/85,578924968,2020-03-14 13:08:58,2020-03-10 23:50:04,Raccolta fondi online Comunità di Sant’Egidio per persone senza dimora e anziani in difficoltà,41.890213,12.4690343,"[""Bollettino"", ""Raccolte fondi"", ""accettato""]",,,"{""Posizione"": ""41.890213 12.4690343 0 0"", ""chi"": ""Comunit\u00e0 di Sant'Egidio"", ""comune"": ""Roma"", ""contatti"": """", ""descrizione"": ""Raccolta fondi online per offrire generi utili, come alimentari, gel igienizzanti e fazzoletti di carta a senzatetto e anziani soli."", ""destinatari"": ""persone senza dimora, anziani"", ""fonte"": ""https://www.facebook.com/donate/503579490301582/10221812290241438/"", ""provincia"": ""Roma"", ""regione"": ""Lazio"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: ""Comunit\xE0 di Sant'Egidio""
 comune: Roma
 contatti: ''
 descrizione: Raccolta fondi online per offrire generi utili, come alimentari, gel igienizzanti e fazzoletti di carta a senzatetto e anziani soli.
@@ -3088,6 +3088,7 @@ fonte: https://www.facebook.com/donate/503579490301582/10221812290241438/
 provincia: Roma
 regione: Lazio
 tag: Raccolta fondi
+Posizione: 41.890213 12.4690343 0 0
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/84,578924963,2020-03-14 13:06:54,2020-03-10 23:50:03,Raccolta fondi per ospedale di #Bergamo,45.6872029,9.638849222162662,"[""Bollettino"", ""Raccolte fondi"", ""accettato""]",,,"{""Posizione"": ""45.6872029 9.638849222162662 0 0"", ""chi"": ""Tifosi dell'Atalanta"", ""comune"": ""Bergamo"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per l'ospedale di Bergamo"", ""destinatari"": """", ""fonte"": ""https://www.inews24.it/2020/03/10/atalanta-solidarieta-tifosi-coronavirus-ospedale-bergamo/"", ""provincia"": ""Bergamo"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Tifosi dell'Atalanta
 comune: Bergamo
