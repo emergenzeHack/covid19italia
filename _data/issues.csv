@@ -1,5 +1,37 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/389,581139806,2020-03-14 10:11:51,2020-03-14 10:11:11,"Spazi Donna WeWorld presenti a Milano (Giambellino), Roma (San Basilio) #Napoli aperti per attività ",,,"[""Bollettino"", ""Informazioni utili"", ""Notizie"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""WeWorld Onlus"", ""Descrizione"": ""Gli Spazi Donna WeWorld di Roma (San Basilio), Napoli (Scampia) e di Milano (Giambellino) in adempimento alle linee guida restano aperti per attivit\u00e0 individuali e hanno potenziato servizi di sostegno e ascolto a distanza, via mail o telefono.\n\nChi ha bisogno pu\u00f2 contattarci scrivendo a: ascoltodonna@weworld.it."", ""Destinatari"": ""Donne"", ""Link"": ""https://www.weworld.it/donne-ancora-piu-isolate/?fbclid=IwAR0_aTaoq8X5437YpPER11ooiiOSyD5SjPHxJrbCJRsH2n6q_8TZQX_nvD0"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Spazi Donna WeWorld presenti a Milano (Giambellino), Roma (San Basilio) #Napoli aperti per attivit\u00e0 individuali""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/390,581143041,2020-03-14 10:22:55,2020-03-14 10:21:18,"COVID-19 - Regole di prevenzione in inglese, francese, arabo, bambara, pasthu e wolof",41.117011,16.870278,"[""Fonti istituzionali"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Regione Puglia"", ""Descrizione"": ""La Regione Puglia ha pubblicato sul portale istituzionale video informativi sul Coronavirus IN 6 LINGUE STRANIERE: inglese, francese, arabo, wolof, pashtu, bambara.\n\nI video, realizzatI nell\u2019ambito del progetto FARI (Formazione Accoglienza Risposta Inclusione), illustrano le ultimissime disposizioni nazionali in materia di prevenzione.\n\nSempre a cura del progetto FARI, a supporto del Numero Verde regionale (800-713931) \u00e8 presente da oggi un servizio telefonico per richiedere informazioni generali sul coronavirus in 16 lingue (attivo il luned\u00ec, mercoled\u00ec e venerd\u00ec ore 8-14 e il marted\u00ec e gioved\u00ec ore 8-18).\n\nI numeri di telefono dedicati sono i seguenti:\n\u260e 099-4585489 (per le seguenti lingue: inglese, francese, spagnolo, arabo, russo, polacco, serere, wolof, fula)\n\u260e 0831-510416 (per le seguenti lingue: inglese, francese, spagnolo, arabo, tedesco, albanese, rumeno, turco, kassonke, bambara, mandinga)."", ""Destinatari"": ""Persone di lingua inglese, francese, arabo, bambara, pasthu e wolof"", ""Link"": ""http://www.regione.puglia.it/coronavirus-video-lingue"", ""Natura"": ""solidale"", ""Posizione"": ""41.117011 16.870278 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""COVID-19 - Regole di prevenzione in inglese, francese, arabo, bambara, pasthu e wolof""}","<pre><yamldata>
+Da_chi_offerta: Regione Puglia
+Descrizione: 'La Regione Puglia ha pubblicato sul portale istituzionale video informativi
+  sul Coronavirus IN 6 LINGUE STRANIERE: inglese, francese, arabo, wolof, pashtu,
+  bambara.
+
+
+  I video, realizzatI nell’ambito del progetto FARI (Formazione Accoglienza Risposta
+  Inclusione), illustrano le ultimissime disposizioni nazionali in materia di prevenzione.
+
+
+  Sempre a cura del progetto FARI, a supporto del Numero Verde regionale (800-713931)
+  è presente da oggi un servizio telefonico per richiedere informazioni generali sul
+  coronavirus in 16 lingue (attivo il lunedì, mercoledì e venerdì ore 8-14 e il martedì
+  e giovedì ore 8-18).
+
+
+  I numeri di telefono dedicati sono i seguenti:
+
+  ☎ 099-4585489 (per le seguenti lingue: inglese, francese, spagnolo, arabo, russo,
+  polacco, serere, wolof, fula)
+
+  ☎ 0831-510416 (per le seguenti lingue: inglese, francese, spagnolo, arabo, tedesco,
+  albanese, rumeno, turco, kassonke, bambara, mandinga).'
+Destinatari: Persone di lingua inglese, francese, arabo, bambara, pasthu e wolof
+Link: http://www.regione.puglia.it/coronavirus-video-lingue
+Natura: solidale
+Posizione: 41.117011 16.870278 0 0
+Tipo_di_soggetto: pubblico
+Titolo: COVID-19 - Regole di prevenzione in inglese, francese, arabo, bambara, pasthu
+  e wolof
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/389,581139806,2020-03-14 10:12:39,2020-03-14 10:11:11,Spazi Donna WeWorld aperti per attività individuali #Milano #Roma #Napoli ,,,"[""Bollettino"", ""Informazioni utili"", ""Notizie"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""WeWorld Onlus"", ""Descrizione"": ""Gli Spazi Donna WeWorld di Roma (San Basilio), Napoli (Scampia) e di Milano (Giambellino) in adempimento alle linee guida restano aperti per attivit\u00e0 individuali e hanno potenziato servizi di sostegno e ascolto a distanza, via mail o telefono.\n\nChi ha bisogno pu\u00f2 contattarci scrivendo a: ascoltodonna@weworld.it."", ""Destinatari"": ""Donne"", ""Link"": ""https://www.weworld.it/donne-ancora-piu-isolate/?fbclid=IwAR0_aTaoq8X5437YpPER11ooiiOSyD5SjPHxJrbCJRsH2n6q_8TZQX_nvD0"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Spazi Donna WeWorld presenti a Milano (Giambellino), Roma (San Basilio) #Napoli aperti per attivit\u00e0 individuali""}","<pre><yamldata>
 Da_chi_offerta: WeWorld Onlus
 Descrizione: 'Gli Spazi Donna WeWorld di Roma (San Basilio), Napoli (Scampia) e di
   Milano (Giambellino) in adempimento alle linee guida restano aperti per attività
