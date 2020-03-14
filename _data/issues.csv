@@ -2997,7 +2997,7 @@ provincia: Ancona
 regione: Marche
 tag: Servizi e iniziative solidali pubbliche
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/93,578925322,2020-03-11 23:01:22,2020-03-10 23:51:09,Raccolta fondi Fondazione #Bergamo per sostegno anziani soli e famiglie con minori,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Fondazione Bergamo"", ""comune"": ""Bergamo"", ""contatti"": """", ""descrizione"": ""sostegno agli anziani in condizione di solitudine e isolamento preventivo e il supporto alle famiglie con minori"", ""destinatari"": ""over 65"", ""fonte"": ""http://www.fondazionebergamo.it/news/sosteniamobergamo/"", ""provincia"": ""Bergamo"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Fondazione Bergamo
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/93,578925322,2020-03-14 13:25:52,2020-03-10 23:51:09,Raccolta fondi Fondazione #Bergamo per sostegno anziani soli e famiglie con minori,45.6912852,9.6736657,"[""Bollettino"", ""Raccolte fondi"", ""accettato""]",,,"{""Posizione"": ""45.6912852 9.6736657 0 0"", ""chi"": ""Fondazione Bergamo"", ""comune"": ""Bergamo"", ""contatti"": """", ""descrizione"": ""sostegno agli anziani in condizione di solitudine e isolamento preventivo e il supporto alle famiglie con minori"", ""destinatari"": ""over 65"", ""fonte"": ""http://www.fondazionebergamo.it/news/sosteniamobergamo/"", ""provincia"": ""Bergamo"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Fondazione Bergamo
 comune: Bergamo
 contatti: ''
 descrizione: sostegno agli anziani in condizione di solitudine e isolamento preventivo
@@ -3007,6 +3007,7 @@ fonte: http://www.fondazionebergamo.it/news/sosteniamobergamo/
 provincia: Bergamo
 regione: Lombardia
 tag: Raccolta fondi
+Posizione: 45.6912852 9.6736657 0 0
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/92,578925313,2020-03-11 11:09:28,2020-03-10 23:51:08,Elenco servizi digitali gratuiti per imprese e persone,,,"[""Servizi e iniziative solidali pubbliche"", ""accettato""]",,,"{""chi"": ""Agid - Solidariet\u00e0 digitale"", ""comune"": ""Italia"", ""contatti"": """", ""descrizione"": ""Sito che raccoglie tutti i servizi digitali gratuiti per imprese e cittadini"", ""destinatari"": ""Tutte e tutti"", ""fonte"": ""https://solidarietadigitale.agid.gov.it/?fbclid=IwAR3RRsTt948UxECBvv_YwnBsys7u9qmH0GFB-zToMxJwgEVz6iOghU4xmfM"", ""provincia"": ""Italia"", ""regione"": ""Italia"", ""tag"": ""Servizi e iniziative solidali pubbliche""}","<pre><yamldata>chi: ""Agid - Solidariet\xE0 digitale""
 comune: Italia
