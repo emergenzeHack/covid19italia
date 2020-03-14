@@ -3109,7 +3109,7 @@ provincia: Ancona
 regione: Marche
 tag: Raccolta fondi
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/82,578924952,2020-03-11 15:26:58,2020-03-10 23:50:01,Raccolta fondi per potenziamento attrezzature ospedale di #Jesi,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""ImpAct Associazione Culturale"", ""comune"": ""Jesi"", ""contatti"": """", ""descrizione"": ""Potenziamento attrezzature Ospedale Carlo Urbani."", ""destinatari"": ""tutti"", ""fonte"": ""https://it-it.facebook.com/associazioneimpact/"", ""provincia"": ""Ancona"", ""regione"": ""Marche"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: ImpAct Associazione Culturale
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/82,578924952,2020-03-14 13:02:34,2020-03-10 23:50:01,Raccolta fondi per potenziamento attrezzature ospedale di #Jesi,43.5255851,13.2295018,"[""Raccolte fondi"", ""accettato""]",,,"{""Posizione"": ""43.5255851 13.2295018 0 0"", ""chi"": ""ImpAct Associazione Culturale"", ""comune"": ""Jesi"", ""contatti"": """", ""descrizione"": ""Potenziamento attrezzature Ospedale Carlo Urbani."", ""destinatari"": ""tutti"", ""fonte"": ""https://it-it.facebook.com/associazioneimpact/"", ""provincia"": ""Ancona"", ""regione"": ""Marche"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: ImpAct Associazione Culturale
 comune: Jesi
 contatti: ''
 descrizione: Potenziamento attrezzature Ospedale Carlo Urbani.
@@ -3118,8 +3118,9 @@ fonte: https://it-it.facebook.com/associazioneimpact/
 provincia: Ancona
 regione: Marche
 tag: Raccolta fondi
+Posizione: 43.5255851 13.2295018 0 0 
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/81,578924939,2020-03-11 15:29:13,2020-03-10 23:49:59,Raccolta fondi per potenziare terapie intensive ospedali della #Puglia,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Barbara Palazzi"", ""comune"": """", ""contatti"": """", ""descrizione"": ""Potenziare ventilatori polmonari e monitor multi parametrici degli ospedali della Puglia."", ""destinatari"": ""tutti"", ""fonte"": ""https://www.gofundme.com/f/tztxv-rafforziamo-la-terapia-intensiva-a-bari?utm_source=facebook&utm_medium=social&utm_campaign=m_pd+share-sheet&fbclid=IwAR0HdYdw3_wA_a79mIxkgPdQShyluXmdyMFzV2KKkyhJPA69M97tsiw9oY4"", ""provincia"": """", ""regione"": ""Puglia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Barbara Palazzi
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/81,578924939,2020-03-14 13:01:18,2020-03-10 23:49:59,Raccolta fondi per potenziare terapie intensive ospedali della #Puglia,40.8512764,17.1190352,"[""Raccolte fondi"", ""accettato""]",,,"{""Posizione"": ""40.8512764 17.1190352 0 0"", ""chi"": ""Barbara Palazzi"", ""comune"": """", ""contatti"": """", ""descrizione"": ""Potenziare ventilatori polmonari e monitor multi parametrici degli ospedali della Puglia."", ""destinatari"": ""tutti"", ""fonte"": ""https://www.gofundme.com/f/tztxv-rafforziamo-la-terapia-intensiva-a-bari?utm_source=facebook&utm_medium=social&utm_campaign=m_pd+share-sheet&fbclid=IwAR0HdYdw3_wA_a79mIxkgPdQShyluXmdyMFzV2KKkyhJPA69M97tsiw9oY4"", ""provincia"": """", ""regione"": ""Puglia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Barbara Palazzi
 comune: ''
 contatti: ''
 descrizione: Potenziare ventilatori polmonari e monitor multi parametrici degli ospedali della Puglia.
@@ -3128,6 +3129,7 @@ fonte: https://www.gofundme.com/f/tztxv-rafforziamo-la-terapia-intensiva-a-bari?
 provincia: ''
 regione: Puglia
 tag: Raccolta fondi
+Posizione:  40.8512764 17.1190352 0 0 
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/80,578924934,2020-03-14 12:58:32,2020-03-10 23:49:59,Raccolta fondi per acquisto materiali di protezione per volontari Croce Rossa #Monza,45.5765081,9.26791783339991,"[""Raccolte fondi"", ""accettato""]",,,"{""Posizione"": ""45.5765081 9.26791783339991 0 0"", ""chi"": ""Croce Rossa Monza"", ""comune"": ""Monza"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per acquisto di materiale di protezione per i volontari."", ""destinatari"": ""tutti"", ""fonte"": ""https://www.gofundme.com/f/yqppre-cri-monza-coronavirus-2019"", ""provincia"": ""Monza"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Croce Rossa Monza
 comune: Monza
