@@ -1,5 +1,5 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/407,581178910,2020-03-14 12:06:37,2020-03-14 12:06:21,Didattica a distanza offerta da TEDx #Varese,45.821218,8.825834,"[""Attivita culturali e ricreative"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""TEDx Varese"", ""Descrizione"": ""TED x Varese ha implementato un\u2019area per supportare i docenti e le scuole che vogliono attivare forme di didattica a distanza avvalendosi di contenuti e strumenti gratuiti messi a disposizione da TED-Ed, il programma di TED dedicato all\u2019educazione.\nScopritela qui: https://www.tedxvarese.com/studenti/"", ""Destinatari"": ""Docenti"", ""Link"": ""https://www.tedxvarese.com/studenti/?fbclid=IwAR2hqJLrasgtasc_YvT9kgPoaoqv1YUGOR1H8B8q5WMdKUiBnbWXjRPTQwE"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""45.821218 8.825834 0 0"", ""Titolo"": ""Didattica a distanza offerta da TEDx #Varese""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/407,581178910,2020-03-14 12:19:45,2020-03-14 12:06:21,Didattica a distanza offerta da TEDx #Varese,45.821218,8.825834,"[""Attivita culturali e ricreative"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""TEDx Varese"", ""Descrizione"": ""TED x Varese ha implementato un\u2019area per supportare i docenti e le scuole che vogliono attivare forme di didattica a distanza avvalendosi di contenuti e strumenti gratuiti messi a disposizione da TED-Ed, il programma di TED dedicato all\u2019educazione.\nScopritela qui: https://www.tedxvarese.com/studenti/"", ""Destinatari"": ""Docenti"", ""Link"": ""https://www.tedxvarese.com/studenti/?fbclid=IwAR2hqJLrasgtasc_YvT9kgPoaoqv1YUGOR1H8B8q5WMdKUiBnbWXjRPTQwE"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""45.821218 8.825834 0 0"", ""Titolo"": ""Didattica a distanza offerta da TEDx #Varese""}","<pre><yamldata>
 Da_chi_offerta: TEDx Varese
 Descrizione: 'TED x Varese ha implementato un’area per supportare i docenti e le scuole
   che vogliono attivare forme di didattica a distanza avvalendosi di contenuti e strumenti
@@ -11,7 +11,8 @@ Link: https://www.tedxvarese.com/studenti/?fbclid=IwAR2hqJLrasgtasc_YvT9kgPoaoqv
 Natura: culturale-ricr
 Posizione: 45.821218 8.825834 0 0
 Titolo: 'Didattica a distanza offerta da TEDx #Varese'
-</yamldata></pre>",open
+</yamldata></pre>
+",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/404,581169991,2020-03-14 12:03:05,2020-03-14 11:42:20,Cura figlie e figli del personale medico,,,"[""Bollettino"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""Cura figlie e figli del personale medico"", ""Descrizione"": ""Si cercano soluzioni dal basso per supportare il personale medico nella cura dei figli e delle figlie durante i turni lavorativi in questo periodo di emergenza."", ""Destinatari"": ""Personale medico"", ""Link"": ""https://www.facebook.com/ti.no.7140?sk=wall&fref=gs&dti=2921275147894653&hc_location=group_dialog""}","<pre><yamldata>
 Cosa: Cura figlie e figli del personale medico
 Descrizione: Si cercano soluzioni dal basso per supportare il personale medico nella
