@@ -3029,7 +3029,7 @@ provincia: Milano
 regione: Lombardia
 tag: Servizi e iniziative solidali pubbliche
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/90,578924999,2020-03-11 10:24:01,2020-03-10 23:50:09,Raccolta fondi per potenziare terapie intensive #Abruzzo,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Si Scrive Abruzzo"", ""comune"": """", ""contatti"": """", ""descrizione"": ""Campagna per potenziare le terapie intensive degli ospedali nella regione Abruzzo"", ""destinatari"": ""ASL Abruzzo"", ""fonte"": ""https://www.gofundme.com/f/abruzzo-rafforziamo-la-terapia-intensiva?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet"", ""provincia"": """", ""regione"": ""Abruzzo"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Si Scrive Abruzzo
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/90,578924999,2020-03-14 13:19:29,2020-03-10 23:50:09,Raccolta fondi per potenziare terapie intensive #Abruzzo,42.3537442,13.3954059,"[""Bollettino"", ""Raccolte fondi"", ""accettato""]",,,"{""Posizione"": ""42.3537442 13.3954059 0 0"", ""chi"": ""Si Scrive Abruzzo"", ""comune"": """", ""contatti"": """", ""descrizione"": ""Campagna per potenziare le terapie intensive degli ospedali nella regione Abruzzo"", ""destinatari"": ""ASL Abruzzo"", ""fonte"": ""https://www.gofundme.com/f/abruzzo-rafforziamo-la-terapia-intensiva?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet"", ""provincia"": """", ""regione"": ""Abruzzo"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Si Scrive Abruzzo
 comune: ''
 contatti: ''
 descrizione: ""Campagna per potenziare le terapie intensive degli ospedali nella regione Abruzzo""
@@ -3038,6 +3038,7 @@ fonte: https://www.gofundme.com/f/abruzzo-rafforziamo-la-terapia-intensiva?utm_s
 provincia: ''
 regione: Abruzzo
 tag: Raccolta fondi
+Posizione:  42.3537442 13.3954059 0 0
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/89,578924993,2020-03-14 13:17:46,2020-03-10 23:50:08,Raccolta fondi Fondazione Arca per servizi alle persone senza dimora ,45.4770487,9.2011876,"[""Bollettino"", ""Raccolte fondi"", ""accettato""]",,,"{""Posizione"": ""45.4770487 9.2011876 0 0"", ""chi"": ""Fondazione Arca"", ""comune"": ""Tutta Italia"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per dotare di dispositivi e materiali protettivi gli operatori dei servizi alle persone senza dimora."", ""destinatari"": ""Operatori servizi persone senza dimora "", ""fonte"": ""https://www.facebook.com/donate/543942392915387/"", ""provincia"": """", ""regione"": """", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Fondazione Arca
 comune: Tutta Italia
