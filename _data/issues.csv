@@ -3029,7 +3029,7 @@ provincia: Milano
 regione: Lombardia
 tag: Servizi e iniziative solidali pubbliche
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/90,578924999,2020-03-11 10:24:01,2020-03-10 23:50:09,Raccolta fondi per potenziare terapie intensive #Abruzzo,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Si Scrive Abruzzo"", ""comune"": """", ""contatti"": """", ""descrizione"": ""Campagna per potenziare le terapie intensive degli ospedali nella regione Abruzzo"", ""destinatari"": ""ASL Abruzzo"", ""fonte"": ""https://www.gofundme.com/f/abruzzo-rafforziamo-la-terapia-intensiva?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet"", ""provincia"": """", ""regione"": ""Abruzzo"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Si Scrive Abruzzo
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/90,578924999,2020-03-14 13:19:29,2020-03-10 23:50:09,Raccolta fondi per potenziare terapie intensive #Abruzzo,42.3537442,13.3954059,"[""Bollettino"", ""Raccolte fondi"", ""accettato""]",,,"{""Posizione"": ""42.3537442 13.3954059 0 0"", ""chi"": ""Si Scrive Abruzzo"", ""comune"": """", ""contatti"": """", ""descrizione"": ""Campagna per potenziare le terapie intensive degli ospedali nella regione Abruzzo"", ""destinatari"": ""ASL Abruzzo"", ""fonte"": ""https://www.gofundme.com/f/abruzzo-rafforziamo-la-terapia-intensiva?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet"", ""provincia"": """", ""regione"": ""Abruzzo"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Si Scrive Abruzzo
 comune: ''
 contatti: ''
 descrizione: ""Campagna per potenziare le terapie intensive degli ospedali nella regione Abruzzo""
@@ -3038,8 +3038,9 @@ fonte: https://www.gofundme.com/f/abruzzo-rafforziamo-la-terapia-intensiva?utm_s
 provincia: ''
 regione: Abruzzo
 tag: Raccolta fondi
+Posizione:  42.3537442 13.3954059 0 0
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/89,578924993,2020-03-11 12:17:57,2020-03-10 23:50:08,Raccolta fondi Fondazione Arca per servizi alle persone senza dimora ,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Fondazione Arca"", ""comune"": ""Tutta Italia"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per dotare di dispositivi e materiali protettivi gli operatori dei servizi alle persone senza dimora."", ""destinatari"": ""Operatori servizi persone senza dimora "", ""fonte"": ""https://www.facebook.com/donate/543942392915387/"", ""provincia"": """", ""regione"": """", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Fondazione Arca
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/89,578924993,2020-03-14 13:17:46,2020-03-10 23:50:08,Raccolta fondi Fondazione Arca per servizi alle persone senza dimora ,45.4770487,9.2011876,"[""Bollettino"", ""Raccolte fondi"", ""accettato""]",,,"{""Posizione"": ""45.4770487 9.2011876 0 0"", ""chi"": ""Fondazione Arca"", ""comune"": ""Tutta Italia"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per dotare di dispositivi e materiali protettivi gli operatori dei servizi alle persone senza dimora."", ""destinatari"": ""Operatori servizi persone senza dimora "", ""fonte"": ""https://www.facebook.com/donate/543942392915387/"", ""provincia"": """", ""regione"": """", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Fondazione Arca
 comune: Tutta Italia
 contatti: ''
 descrizione: Raccolta fondi per dotare di dispositivi e materiali protettivi gli operatori dei servizi alle persone senza dimora.
@@ -3048,8 +3049,9 @@ fonte: https://www.facebook.com/donate/543942392915387/
 provincia: ''
 regione: ''
 tag: Raccolta fondi
+Posizione: 45.4770487 9.2011876 0 0 
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/88,578924989,2020-03-11 12:19:21,2020-03-10 23:50:07,Raccolta Fondi online per sostenere Ospedale di #LameziaTerme,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Vincenzo Bernardi"", ""comune"": ""Lamezia Terme"", ""contatti"": """", ""descrizione"": ""Raccolta Fondi online per sostenere Ospedale di Lamezia Terme"", ""destinatari"": ""\u2018tutti\u2019"", ""fonte"": ""https://www.gofundme.com/f/raccolta-fondi-covid19-ospedale-di-lamezia-terme?fbclid=IwAR2gUvAXo5xe0FnNGEPc8_FOx3xiDHC18QPA0RCiYt53TZyiZ8hqYHT4tMk"", ""provincia"": ""Cosenza"", ""regione"": ""Calabria"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Vincenzo Bernardi
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/88,578924989,2020-03-14 13:14:26,2020-03-10 23:50:07,Raccolta Fondi online per sostenere Ospedale di #LameziaTerme,38.9391666,16.2634823,"[""Raccolte fondi"", ""accettato""]",,,"{""Posizione"": ""38.9391666 16.2634823 0 0"", ""chi"": ""Vincenzo Bernardi"", ""comune"": ""Lamezia Terme"", ""contatti"": """", ""descrizione"": ""Raccolta Fondi online per sostenere Ospedale di Lamezia Terme"", ""destinatari"": ""\u2018tutti\u2019"", ""fonte"": ""https://www.gofundme.com/f/raccolta-fondi-covid19-ospedale-di-lamezia-terme?fbclid=IwAR2gUvAXo5xe0FnNGEPc8_FOx3xiDHC18QPA0RCiYt53TZyiZ8hqYHT4tMk"", ""provincia"": ""Cosenza"", ""regione"": ""Calabria"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Vincenzo Bernardi
 comune: Lamezia Terme
 contatti: ''
 descrizione: Raccolta Fondi online per sostenere Ospedale di Lamezia Terme
@@ -3058,8 +3060,9 @@ fonte: https://www.gofundme.com/f/raccolta-fondi-covid19-ospedale-di-lamezia-ter
 provincia: Cosenza
 regione: Calabria
 tag: Raccolta fondi
+Posizione: 38.9391666 16.2634823 0 0 
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/87,578924984,2020-03-12 10:17:57,2020-03-10 23:50:06,Raccolta fondi online per sostenere Azienda Ospedaliera #Catanzaro,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Club Service Catanzaro"", ""comune"": ""Catanzaro"", ""contatti"": """", ""descrizione"": ""Raccolta Fondi per sostenere Azienda Ospedaliera Pugliese-Ciaccio"", ""destinatari"": ""tutti"", ""fonte"": ""https://www.gofundme.com/f/emergenza-covid19-aiutiamo-il-puglieseciaccio?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet&fbclid=IwAR1expolR3-WdZT3pG7XCrJVH401W8bcGI8unHh9b_X1Zv63PmufHsRac8A"", ""provincia"": ""Catanzaro"", ""regione"": ""Calabria"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Club Service Catanzaro
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/87,578924984,2020-03-14 13:12:01,2020-03-10 23:50:06,Raccolta fondi online per sostenere Azienda Ospedaliera #Catanzaro,38.9183594,16.5849566,"[""Bollettino"", ""Raccolte fondi"", ""accettato""]",,,"{""Posizione"": ""38.9183594 16.5849566 0 0"", ""chi"": ""Club Service Catanzaro"", ""comune"": ""Catanzaro"", ""contatti"": """", ""descrizione"": ""Raccolta Fondi per sostenere Azienda Ospedaliera Pugliese-Ciaccio"", ""destinatari"": ""tutti"", ""fonte"": ""https://www.gofundme.com/f/emergenza-covid19-aiutiamo-il-puglieseciaccio?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet&fbclid=IwAR1expolR3-WdZT3pG7XCrJVH401W8bcGI8unHh9b_X1Zv63PmufHsRac8A"", ""provincia"": ""Catanzaro"", ""regione"": ""Calabria"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Club Service Catanzaro
 comune: Catanzaro
 contatti: ''
 descrizione: Raccolta Fondi per sostenere Azienda Ospedaliera Pugliese-Ciaccio
@@ -3068,6 +3071,7 @@ fonte: https://www.gofundme.com/f/emergenza-covid19-aiutiamo-il-puglieseciaccio?
 provincia: Catanzaro
 regione: Calabria
 tag: Raccolta fondi
+Posizione: 38.9183594 16.5849566 0 0
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/86,578924978,2020-03-11 12:23:07,2020-03-10 23:50:05,Raccolta fondi online per sostenere Città della Salute di #Torino,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Francesco Pecco Bagnaia"", ""comune"": ""Chivasso"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per sostenere Citt\\xE0 della Salute di Torino"", ""destinatari"": ""tutti"", ""fonte"": ""https://www.gofundme.com/f/exfz34-insieme-contro-il-virus?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet"", ""provincia"": ""Torino"", ""regione"": ""Piemonte"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Francesco Pecco Bagnaia
 comune: Chivasso
@@ -3079,7 +3083,7 @@ provincia: Torino
 regione: Piemonte
 tag: Raccolta fondi
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/85,578924968,2020-03-11 12:26:39,2020-03-10 23:50:04,Raccolta fondi online Comunità di Sant’Egidio per persone senza dimora e anziani in difficoltà,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Comunit\u00e0 di Sant'Egidio"", ""comune"": ""Roma"", ""contatti"": """", ""descrizione"": ""Raccolta fondi online per offrire generi utili, come alimentari, gel igienizzanti e fazzoletti di carta a senzatetto e anziani soli."", ""destinatari"": ""persone senza dimora, anziani"", ""fonte"": ""https://www.facebook.com/donate/503579490301582/10221812290241438/"", ""provincia"": ""Roma"", ""regione"": ""Lazio"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: ""Comunit\xE0 di Sant'Egidio""
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/85,578924968,2020-03-14 13:08:58,2020-03-10 23:50:04,Raccolta fondi online Comunità di Sant’Egidio per persone senza dimora e anziani in difficoltà,41.890213,12.4690343,"[""Bollettino"", ""Raccolte fondi"", ""accettato""]",,,"{""Posizione"": ""41.890213 12.4690343 0 0"", ""chi"": ""Comunit\u00e0 di Sant'Egidio"", ""comune"": ""Roma"", ""contatti"": """", ""descrizione"": ""Raccolta fondi online per offrire generi utili, come alimentari, gel igienizzanti e fazzoletti di carta a senzatetto e anziani soli."", ""destinatari"": ""persone senza dimora, anziani"", ""fonte"": ""https://www.facebook.com/donate/503579490301582/10221812290241438/"", ""provincia"": ""Roma"", ""regione"": ""Lazio"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: ""Comunit\xE0 di Sant'Egidio""
 comune: Roma
 contatti: ''
 descrizione: Raccolta fondi online per offrire generi utili, come alimentari, gel igienizzanti e fazzoletti di carta a senzatetto e anziani soli.
@@ -3088,8 +3092,9 @@ fonte: https://www.facebook.com/donate/503579490301582/10221812290241438/
 provincia: Roma
 regione: Lazio
 tag: Raccolta fondi
+Posizione: 41.890213 12.4690343 0 0
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/84,578924963,2020-03-11 15:24:18,2020-03-10 23:50:03,Raccolta fondi per ospedale di #Bergamo,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Tifosi dell'Atalanta"", ""comune"": ""Bergamo"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per l'ospedale di Bergamo"", ""destinatari"": """", ""fonte"": ""https://www.inews24.it/2020/03/10/atalanta-solidarieta-tifosi-coronavirus-ospedale-bergamo/"", ""provincia"": ""Bergamo"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Tifosi dell'Atalanta
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/84,578924963,2020-03-14 13:06:54,2020-03-10 23:50:03,Raccolta fondi per ospedale di #Bergamo,45.6872029,9.638849222162662,"[""Bollettino"", ""Raccolte fondi"", ""accettato""]",,,"{""Posizione"": ""45.6872029 9.638849222162662 0 0"", ""chi"": ""Tifosi dell'Atalanta"", ""comune"": ""Bergamo"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per l'ospedale di Bergamo"", ""destinatari"": """", ""fonte"": ""https://www.inews24.it/2020/03/10/atalanta-solidarieta-tifosi-coronavirus-ospedale-bergamo/"", ""provincia"": ""Bergamo"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Tifosi dell'Atalanta
 comune: Bergamo
 contatti: ''
 descrizione: Raccolta fondi per l'ospedale di Bergamo
@@ -3098,8 +3103,9 @@ fonte: https://www.inews24.it/2020/03/10/atalanta-solidarieta-tifosi-coronavirus
 provincia: Bergamo
 regione: Lombardia
 tag: Raccolta fondi
+Posizione: 45.6872029 9.638849222162662 0 0
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/83,578924958,2020-03-11 15:25:50,2020-03-10 23:50:02,Raccolta fondi per potenziare terapia intensiva Ospedale #Ancona,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Privata cittadina in collaborazione con azienda ospedaliera"", ""comune"": ""Ancona"", ""contatti"": """", ""descrizione"": ""potenziamento terapia intensiva Azienda Ospedali Riuniti di Torrette."", ""destinatari"": ""tutti"", ""fonte"": ""https://www.gofundme.com/f/donazione-per-ospedale-torrette?utm_source=customer&utm_medium=copy_link&utm_campaign=m_pd+share-sheet"", ""provincia"": ""Ancona"", ""regione"": ""Marche"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Privata cittadina in collaborazione con azienda ospedaliera
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/83,578924958,2020-03-14 13:05:14,2020-03-10 23:50:02,Raccolta fondi per potenziare terapia intensiva Ospedale #Ancona,43.602151,13.4554432,"[""Raccolte fondi"", ""accettato""]",,,"{""Posizione"": ""43.602151 13.4554432 0 0"", ""chi"": ""Privata cittadina in collaborazione con azienda ospedaliera"", ""comune"": ""Ancona"", ""contatti"": """", ""descrizione"": ""potenziamento terapia intensiva Azienda Ospedali Riuniti di Torrette."", ""destinatari"": ""tutti"", ""fonte"": ""https://www.gofundme.com/f/donazione-per-ospedale-torrette?utm_source=customer&utm_medium=copy_link&utm_campaign=m_pd+share-sheet"", ""provincia"": ""Ancona"", ""regione"": ""Marche"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Privata cittadina in collaborazione con azienda ospedaliera
 comune: Ancona
 contatti: ''
 descrizione: potenziamento terapia intensiva Azienda Ospedali Riuniti di Torrette.
@@ -3108,8 +3114,9 @@ fonte: https://www.gofundme.com/f/donazione-per-ospedale-torrette?utm_source=cus
 provincia: Ancona
 regione: Marche
 tag: Raccolta fondi
+Posizione: 43.602151 13.4554432 0 0
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/82,578924952,2020-03-11 15:26:58,2020-03-10 23:50:01,Raccolta fondi per potenziamento attrezzature ospedale di #Jesi,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""ImpAct Associazione Culturale"", ""comune"": ""Jesi"", ""contatti"": """", ""descrizione"": ""Potenziamento attrezzature Ospedale Carlo Urbani."", ""destinatari"": ""tutti"", ""fonte"": ""https://it-it.facebook.com/associazioneimpact/"", ""provincia"": ""Ancona"", ""regione"": ""Marche"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: ImpAct Associazione Culturale
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/82,578924952,2020-03-14 13:02:34,2020-03-10 23:50:01,Raccolta fondi per potenziamento attrezzature ospedale di #Jesi,43.5255851,13.2295018,"[""Raccolte fondi"", ""accettato""]",,,"{""Posizione"": ""43.5255851 13.2295018 0 0"", ""chi"": ""ImpAct Associazione Culturale"", ""comune"": ""Jesi"", ""contatti"": """", ""descrizione"": ""Potenziamento attrezzature Ospedale Carlo Urbani."", ""destinatari"": ""tutti"", ""fonte"": ""https://it-it.facebook.com/associazioneimpact/"", ""provincia"": ""Ancona"", ""regione"": ""Marche"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: ImpAct Associazione Culturale
 comune: Jesi
 contatti: ''
 descrizione: Potenziamento attrezzature Ospedale Carlo Urbani.
@@ -3118,8 +3125,9 @@ fonte: https://it-it.facebook.com/associazioneimpact/
 provincia: Ancona
 regione: Marche
 tag: Raccolta fondi
+Posizione: 43.5255851 13.2295018 0 0 
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/81,578924939,2020-03-11 15:29:13,2020-03-10 23:49:59,Raccolta fondi per potenziare terapie intensive ospedali della #Puglia,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Barbara Palazzi"", ""comune"": """", ""contatti"": """", ""descrizione"": ""Potenziare ventilatori polmonari e monitor multi parametrici degli ospedali della Puglia."", ""destinatari"": ""tutti"", ""fonte"": ""https://www.gofundme.com/f/tztxv-rafforziamo-la-terapia-intensiva-a-bari?utm_source=facebook&utm_medium=social&utm_campaign=m_pd+share-sheet&fbclid=IwAR0HdYdw3_wA_a79mIxkgPdQShyluXmdyMFzV2KKkyhJPA69M97tsiw9oY4"", ""provincia"": """", ""regione"": ""Puglia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Barbara Palazzi
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/81,578924939,2020-03-14 13:01:18,2020-03-10 23:49:59,Raccolta fondi per potenziare terapie intensive ospedali della #Puglia,40.8512764,17.1190352,"[""Raccolte fondi"", ""accettato""]",,,"{""Posizione"": ""40.8512764 17.1190352 0 0"", ""chi"": ""Barbara Palazzi"", ""comune"": """", ""contatti"": """", ""descrizione"": ""Potenziare ventilatori polmonari e monitor multi parametrici degli ospedali della Puglia."", ""destinatari"": ""tutti"", ""fonte"": ""https://www.gofundme.com/f/tztxv-rafforziamo-la-terapia-intensiva-a-bari?utm_source=facebook&utm_medium=social&utm_campaign=m_pd+share-sheet&fbclid=IwAR0HdYdw3_wA_a79mIxkgPdQShyluXmdyMFzV2KKkyhJPA69M97tsiw9oY4"", ""provincia"": """", ""regione"": ""Puglia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Barbara Palazzi
 comune: ''
 contatti: ''
 descrizione: Potenziare ventilatori polmonari e monitor multi parametrici degli ospedali della Puglia.
@@ -3128,6 +3136,7 @@ fonte: https://www.gofundme.com/f/tztxv-rafforziamo-la-terapia-intensiva-a-bari?
 provincia: ''
 regione: Puglia
 tag: Raccolta fondi
+Posizione:  40.8512764 17.1190352 0 0 
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/80,578924934,2020-03-14 12:58:32,2020-03-10 23:49:59,Raccolta fondi per acquisto materiali di protezione per volontari Croce Rossa #Monza,45.5765081,9.26791783339991,"[""Raccolte fondi"", ""accettato""]",,,"{""Posizione"": ""45.5765081 9.26791783339991 0 0"", ""chi"": ""Croce Rossa Monza"", ""comune"": ""Monza"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per acquisto di materiale di protezione per i volontari."", ""destinatari"": ""tutti"", ""fonte"": ""https://www.gofundme.com/f/yqppre-cri-monza-coronavirus-2019"", ""provincia"": ""Monza"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Croce Rossa Monza
 comune: Monza
