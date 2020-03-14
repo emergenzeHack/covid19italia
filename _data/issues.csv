@@ -3149,7 +3149,7 @@ provincia: Brescia
 regione: Lombardia
 tag: Raccolta fondi
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/78,578924921,2020-03-11 15:34:01,2020-03-10 23:49:57,Raccolta fondi per acquisto materiale di protezione individuale per volontari #Lodi,,,"[""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Associazione Volontaria Croce Casalese e Paesi Limitrofi"", ""comune"": ""Lodi"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per acquisto di materiale di protezione individuale (mascherine FFP2/3, disinfettanti, tute protettive, guanti e occhiali) e altri presidi di tipo essenziale per l'implementazione dei protocolli d'emergenza."", ""destinatari"": ""residenti prov. Lodi"", ""fonte"": ""https://www.gofundme.com/f/vqmkx9-aiutaci-ad-aiutare?fbclid=IwAR2_nOU3wD4aWialN-fGVF8MfSpZG-iSFUYiQqMjgZU3NogavzdOP0nhzBY"", ""provincia"": ""Lodi"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Associazione Volontaria Croce Casalese e Paesi Limitrofi
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/78,578924921,2020-03-14 12:51:48,2020-03-10 23:49:57,Raccolta fondi per acquisto materiale di protezione individuale per volontari #Lodi,45.1793292,9.6483958,"[""Raccolte fondi"", ""accettato""]",,,"{""Posizione"": ""45.1793292 9.6483958 0 0"", ""chi"": ""Associazione Volontaria Croce Casalese e Paesi Limitrofi"", ""comune"": ""Lodi"", ""contatti"": """", ""descrizione"": ""Raccolta fondi per acquisto di materiale di protezione individuale (mascherine FFP2/3, disinfettanti, tute protettive, guanti e occhiali) e altri presidi di tipo essenziale per l'implementazione dei protocolli d'emergenza."", ""destinatari"": ""residenti prov. Lodi"", ""fonte"": ""https://www.gofundme.com/f/vqmkx9-aiutaci-ad-aiutare?fbclid=IwAR2_nOU3wD4aWialN-fGVF8MfSpZG-iSFUYiQqMjgZU3NogavzdOP0nhzBY"", ""provincia"": ""Lodi"", ""regione"": ""Lombardia"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Associazione Volontaria Croce Casalese e Paesi Limitrofi
 comune: Lodi
 contatti: ''
 descrizione: Raccolta fondi per acquisto di materiale di protezione individuale (mascherine FFP2/3, disinfettanti, tute protettive, guanti e occhiali) e altri presidi di tipo essenziale per l'implementazione dei protocolli d'emergenza.
@@ -3158,6 +3158,7 @@ fonte: https://www.gofundme.com/f/vqmkx9-aiutaci-ad-aiutare?fbclid=IwAR2_nOU3wD4
 provincia: Lodi
 regione: Lombardia
 tag: Raccolta fondi
+Posizione: 45.1793292 9.6483958 0 0 
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/77,578924918,2020-03-14 11:17:53,2020-03-10 23:49:56,Raccolta per Azienda Ospedaliera #Cosenza per acquisto materiale sanitario,,,"[""Bollettino"", ""Raccolte fondi"", ""accettato""]",,,"{""chi"": ""Alfredo Taranto"", ""comune"": ""Cosenza"", ""contatti"": """", ""descrizione"": ""Raccolta per Azienda Ospedaliera di Cosenza per l\u2019acquisto di materiale medico e/o sanitario"", ""destinatari"": ""tutti"", ""fonte"": ""https://www.gofundme.com/f/calabria-anticovid"", ""provincia"": ""Cosenza"", ""regione"": ""Calabria"", ""tag"": ""Raccolta fondi""}","<pre><yamldata>chi: Alfredo Taranto
 comune: Cosenza
