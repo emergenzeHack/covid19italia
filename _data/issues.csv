@@ -1,11 +1,25 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/404,581169991,2020-03-14 11:42:40,2020-03-14 11:42:20,Cura figlie e figli del personale medico,,,"[""Bollettino"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""Cura figlie e figli del personale medico"", ""Descrizione"": ""Si cercano soluzioni dal basso per supportare il personale medico nella cura dei figli e delle figlie durante i turni lavorativi in questo periodo di emergenza."", ""Destinatari"": ""Personale medico"", ""Link"": ""https://www.facebook.com/ti.no.7140?sk=wall&fref=gs&dti=2921275147894653&hc_location=group_dialog""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/407,581178910,2020-03-14 12:06:37,2020-03-14 12:06:21,Didattica a distanza offerta da TEDx #Varese,45.821218,8.825834,"[""Attivita culturali e ricreative"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""TEDx Varese"", ""Descrizione"": ""TED x Varese ha implementato un\u2019area per supportare i docenti e le scuole che vogliono attivare forme di didattica a distanza avvalendosi di contenuti e strumenti gratuiti messi a disposizione da TED-Ed, il programma di TED dedicato all\u2019educazione.\nScopritela qui: https://www.tedxvarese.com/studenti/"", ""Destinatari"": ""Docenti"", ""Link"": ""https://www.tedxvarese.com/studenti/?fbclid=IwAR2hqJLrasgtasc_YvT9kgPoaoqv1YUGOR1H8B8q5WMdKUiBnbWXjRPTQwE"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""45.821218 8.825834 0 0"", ""Titolo"": ""Didattica a distanza offerta da TEDx #Varese""}","<pre><yamldata>
+Da_chi_offerta: TEDx Varese
+Descrizione: 'TED x Varese ha implementato un’area per supportare i docenti e le scuole
+  che vogliono attivare forme di didattica a distanza avvalendosi di contenuti e strumenti
+  gratuiti messi a disposizione da TED-Ed, il programma di TED dedicato all’educazione.
+
+  Scopritela qui: https://www.tedxvarese.com/studenti/'
+Destinatari: Docenti
+Link: https://www.tedxvarese.com/studenti/?fbclid=IwAR2hqJLrasgtasc_YvT9kgPoaoqv1YUGOR1H8B8q5WMdKUiBnbWXjRPTQwE
+Natura: culturale-ricr
+Posizione: 45.821218 8.825834 0 0
+Titolo: 'Didattica a distanza offerta da TEDx #Varese'
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/404,581169991,2020-03-14 12:03:05,2020-03-14 11:42:20,Cura figlie e figli del personale medico,,,"[""Bollettino"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""Cura figlie e figli del personale medico"", ""Descrizione"": ""Si cercano soluzioni dal basso per supportare il personale medico nella cura dei figli e delle figlie durante i turni lavorativi in questo periodo di emergenza."", ""Destinatari"": ""Personale medico"", ""Link"": ""https://www.facebook.com/ti.no.7140?sk=wall&fref=gs&dti=2921275147894653&hc_location=group_dialog""}","<pre><yamldata>
 Cosa: Cura figlie e figli del personale medico
 Descrizione: Si cercano soluzioni dal basso per supportare il personale medico nella
   cura dei figli e delle figlie durante i turni lavorativi in questo periodo di emergenza.
 Destinatari: Personale medico
 Link: https://www.facebook.com/ti.no.7140?sk=wall&fref=gs&dti=2921275147894653&hc_location=group_dialog
-</yamldata></pre>",open
+</yamldata></pre>
+",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/401,581167898,2020-03-14 11:54:21,2020-03-14 11:36:09,Supporto psicologico telefonico gratuito #SIPEM,,,"[""Bollettino"", ""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Societ\u00e0 italiana di psicologia delle emergenze"", ""Descrizione"": ""Servizio gratuito di supporto psicologico telefonico \n\nNUMERI VERDI\nLazio - 3395893978 oppure 3470013559. Tutti i giorni dalle 8 alle 20. Attivato da SIPEM SoS Lazio, insieme alle associazioni NSA Roma Nord e ProContinuum Psy. Si rivolge a cittadini, operatori sanitari, soccorritori e forze dell'ordine.\n\nLombardia - mandare una mail a sipemsoslombardia@gmail.com o sms/whatsapp al numero 3791898986. Si verr\u00e0 ricontattati entro 48 ore.\n\nSardegna - 800197500 o 3791663230, tutti i giorni dalle 15 alle 19.\n\nEmilia Romagna - Inviare una mail a Info@sipem-er.it indicando un numero di telefomo, si verr\u00e0 ricontattati dagli psicologi.\n\nPuglia - Sei psicologhe hanno attivato il servizio \""Socialmente, sostegno psicologico gratuito\"". dott.ssa Ilaria Granieri: 3289123368. Dott.ssa Marta Ingrosso: 3280350674. Dott.ssa Selene Anna Paolo: 3275976153. Dott.ssa Francesca Prete: 3206166647. Dott.ssa: Paola Rizzo: 3478500402. Dott.ssa Laura Pezzuto: 3297931960\n\nBasilicata e Puglia, solo per operatori sanitari - consulenze gratuite per chi \u00e8 in prima linea contro il Covid-19. Istituto Gestalt di Puglia allo 0832-323862, dal luned\u00ec al venerd\u00ec dalle ore 9.30 alle ore 13.00, o inviare una mail a: igp@apuliagestalt.it\n\nMagnano, Piemonte - Il Comune ha attivato il numero 327/1065172, dal luned\u00ec al gioved\u00ec dalle 9 alle 13 e dalle 14 alle 17 ed il venerd\u00ec dalle 9 alle 13.\n\nJesi, Marche - Per i cittadini di Jesi il Comune ha attivato due numeri: 0731.538426 o 333.2127712, raggiungibili dal luned\u00ec al venerd\u00ec, dalle ore 9.30 alle ore 11.00."", ""Destinatari"": ""Tutte e tutti"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Pronto? Ho l'ansia!""}","<pre><yamldata>
 Da_chi_offerta: Società italiana di psicologia delle emergenze
 Descrizione: ""Servizio gratuito di supporto psicologico telefonico \n\nNUMERI VERDI\n\
@@ -31,6 +45,13 @@ Destinatari: Tutte e tutti
 Natura: solidale
 Tipo_di_soggetto: pubblico
 Titolo: Pronto? Ho l'ansia!
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/400,581166324,2020-03-14 12:09:38,2020-03-14 11:31:43,Non è vero che Bill Gates aveva predetto l'epidemia Covid-19 nel 2015,,,"[""Fake News"", ""accettato"", ""form""]",,,"{""Cosa"": ""No! Bill Gates non aveva predetto l'epidemia Covid-19 nel 2015"", ""Descrizione"": ""Alcune testate giornalistiche parlano di una presunta profezia dell'epidemia Covid-19 da parte di Bill Gates nel 2015, ma guardando il video originale si scopre tutt'altro."", ""Link"": ""https://www.open.online/2020/03/14/la-profezia-di-bill-gates-sul-coronavirus-nel-2015-no-al-contrario-e-stato-fin-troppo-ottimista/""}","<pre><yamldata>
+Cosa: No! Bill Gates non aveva predetto l'epidemia Covid-19 nel 2015
+Descrizione: Alcune testate giornalistiche parlano di una presunta profezia dell'epidemia
+  Covid-19 da parte di Bill Gates nel 2015, ma guardando il video originale si scopre
+  tutt'altro.
+Link: https://www.open.online/2020/03/14/la-profezia-di-bill-gates-sul-coronavirus-nel-2015-no-al-contrario-e-stato-fin-troppo-ottimista/
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/399,581166258,2020-03-14 11:32:24,2020-03-14 11:31:31,Fondo di mutuo soccorso del Comune di #Milano,45.463803,9.190744,"[""Bollettino"", ""Notizie"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Il Sindaco di Milano Giuseppe Sala ha annunciato la costituzione di un fondo di mutuo soccorso destinato ad aiutare coloro che pi\u00f9 di altri sono messi in difficolt\u00e0 dalla situazione che stiamo vivendo e, successivamente, a sostenere la ripresa delle attivit\u00e0 cittadine.\n\nIl fondo, che si aggiunge allo stanziamento di 3 milioni di euro gi\u00e0 approvato dal Consiglio comunale, \u00e8 aperto alla partecipazione economica di singoli cittadini, di imprese e associazioni che vogliano dare il loro contribuito."", ""IBAN"": ""IT58G0306901783100000000551"", ""Link"": ""https://www.comune.milano.it/-/coronavirus.-dal-comune-di-milano-un-fondo-di-mutuo-soccorso?fbclid=IwAR0K5HBZT6doOvefLdNJBhltnbsMgL2WGbGh2xHPBIt-5ek5ISH5cWFlY9M"", ""Nome"": ""Comune di Milano"", ""Posizione"": ""45.463803 9.190744 0 0""}","<pre><yamldata>
 Descrizione: 'Il Sindaco di Milano Giuseppe Sala ha annunciato la costituzione di
