@@ -2966,7 +2966,7 @@ provincia: Varese
 regione: Lombardia
 tag: Servizi e iniziative solidali pubbliche
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/96,578925340,2020-03-11 12:01:26,2020-03-10 23:51:12,Cineteca di #Bologna offre lezioni di cinema online,,,"[""Attivita culturali e ricreative"", ""Didattica a distanza e-learning"", ""accettato""]",,,"{""chi"": ""Cineteca di Bologna"", ""comune"": ""Bologna"", ""contatti"": ""https://festival.ilcinemaritrovato.it/lezioni-di-cinema-3/?fbclid=IwAR2jhW6RPJM-bWKMgIrv-_pFNvhA7rOHvCwiCjW9cwC-aV-aIImzs2XT6cA"", ""descrizione"": ""Lezioni di cinema on line tenute da grandi registi e attori."", ""destinatari"": ""Tutti"", ""fonte"": """", ""provincia"": ""Bologna"", ""regione"": ""Italia"", ""tag"": ""Servizi e iniziative solidali pubbliche""}","<pre><yamldata>chi: Cineteca di Bologna
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/96,578925340,2020-03-14 13:30:59,2020-03-10 23:51:12,Cineteca di #Bologna offre lezioni di cinema online,44.5023377,11.334667890687236,"[""Attivita culturali e ricreative"", ""Didattica a distanza e-learning"", ""accettato""]",,,"{""Posizione"": ""44.5023377 11.334667890687236 0 0"", ""chi"": ""Cineteca di Bologna"", ""comune"": ""Bologna"", ""contatti"": ""https://festival.ilcinemaritrovato.it/lezioni-di-cinema-3/?fbclid=IwAR2jhW6RPJM-bWKMgIrv-_pFNvhA7rOHvCwiCjW9cwC-aV-aIImzs2XT6cA"", ""descrizione"": ""Lezioni di cinema on line tenute da grandi registi e attori."", ""destinatari"": ""Tutti"", ""fonte"": """", ""provincia"": ""Bologna"", ""regione"": ""Italia"", ""tag"": ""Servizi e iniziative solidali pubbliche""}","<pre><yamldata>chi: Cineteca di Bologna
 comune: Bologna
 contatti: https://festival.ilcinemaritrovato.it/lezioni-di-cinema-3/?fbclid=IwAR2jhW6RPJM-bWKMgIrv-_pFNvhA7rOHvCwiCjW9cwC-aV-aIImzs2XT6cA
 descrizione: Lezioni di cinema on line tenute da grandi registi e attori.
@@ -2975,7 +2975,8 @@ fonte: ''
 provincia: Bologna
 regione: Italia
 tag: Servizi e iniziative solidali pubbliche
-</yamldata></pre>",open
+Posizione: 44.5023377 11.334667890687236 0 0
+<yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/95,578925335,2020-03-14 13:28:45,2020-03-10 23:51:11,"Teatro Massimo #Palermo, streaming no stop di opere, concerti, spettacoli",,,"[""Attivita culturali e ricreative"", ""accettato""]",,,{},"<pre><yamldata>chi: Teatro Massimo di Palermo
 comune: Palermo
 contatti:
