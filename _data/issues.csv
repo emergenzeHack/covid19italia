@@ -166,15 +166,6 @@ Indirizzo: 41.5553562 14.6571837
 Link: https://www.facebook.com/groups/covid19italia/permalink/2928461120509389/
 Nome: raccolta fondi a favore dell'Azienda sanitaria regionale del Molise.
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/514,581387270,2020-03-14 21:57:54,2020-03-14 21:53:01,"RICERCA MEDICI SPECIALISTI, SPECIALIZZANDI E LAUREATI PER SSR REGIONE #CALABRIA",,,"[""Bollettino"", ""Posizione mancante"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""DISPONIBILITA\u2019 DI MEDICI SPECIALISTI, MEDICI SPECIALIZZANDI E MEDICI LAUREATI A PRESTARE ATTIVITA\u2019 CLINICO ASSISTENZIALE NELLE AZIENDE DEL SSR DELLA REGIONE CALABRIA"", ""Descrizione"": ""AVVISO PUBBLICO PER MANIFESTAZIONE DI INTERESSE FINALIZZATA AD ACQUISIRE LA DISPONIBILITA\u2019 DI MEDICI SPECIALISTI, MEDICI SPECIALIZZANDI E MEDICI LAUREATI A PRESTARE ATTIVITA\u2019 CLINICO ASSISTENZIALE NELLE AZIENDE DEL SSR DELLA REGIONE CALABRIA"", ""Destinatari"": ""medici"", ""Link"": ""https://www.facebook.com/groups/covid19italia/permalink/2925493427472825/""}","<pre><yamldata>
-Cosa: DISPONIBILITA’ DI MEDICI SPECIALISTI, MEDICI SPECIALIZZANDI E MEDICI LAUREATI
-  A PRESTARE ATTIVITA’ CLINICO ASSISTENZIALE NELLE AZIENDE DEL SSR DELLA REGIONE CALABRIA
-Descrizione: AVVISO PUBBLICO PER MANIFESTAZIONE DI INTERESSE FINALIZZATA AD ACQUISIRE
-  LA DISPONIBILITA’ DI MEDICI SPECIALISTI, MEDICI SPECIALIZZANDI E MEDICI LAUREATI
-  A PRESTARE ATTIVITA’ CLINICO ASSISTENZIALE NELLE AZIENDE DEL SSR DELLA REGIONE CALABRIA
-Destinatari: medici
-Link: https://www.facebook.com/groups/covid19italia/permalink/2925493427472825/
-</yamldata></pre>",closed
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/512,581377064,2020-03-14 22:39:18,2020-03-14 21:20:57,Carenza sangue #Lazio: punti raccolta sangue di Avis #Roma,,,"[""Bollettino"", ""Informazioni utili"", ""Posizione mancante"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""AVIS Roma"", ""Descrizione"": ""Domani saranno presenti diverse ambulanze per la donazione del sangue di fronte alcune parrocchie romane. Per chi volesse donare, in questo momento di grave carenza, potete trovare al link sotto il punto di donazione pi\u00f9 vicino a voi."", ""Destinatari"": ""Tutti"", ""Link"": ""https://www.avisroma.it/eventi/categoria/raccolta-sangue/elenco/?fbclid=IwAR1s8Q7HN4_FbzRUVn5LGScqtsH-KomhJdTqMc9uuthc02jzHkjC3F88934"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Punti raccolta sangue""}","<pre><yamldata>
 Da_chi_offerta: AVIS Roma
 Descrizione: Domani saranno presenti diverse ambulanze per la donazione del sangue
@@ -3330,6 +3321,29 @@ Natura_dell_iniziativa: solidale
 Tipo_di_soggetto: privato
 Titolo: CROTONE-Emergenza Covid19
 ```",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/159,579294490,2020-03-11 19:02:29,2020-03-11 14:12:39,Raccolta fondi per l'Ospedale Jazzolino di #ViboValentia ,,,"[""Raccolte fondi"", ""accettato""]",,,"{""Da_chi_offerta"": ""Associazioni: Valentia, Calabriafood Official e Welcome to Favelas Vibo"", ""Descrizione"": ""Siamo i ragazzi dell\u2019associazione Valentia, Calabriafood Official e Welcome to Favelas Vibo, insieme a tanti giovani Vibonesi.\nNel nostro piccolo e nelle nostre possibilit\u00e0 possiamo fare la differenza. Donate e se non potete condividete. In questi momenti bisogna rimanere uniti.  Anche un piccolo contributo pu\u00f2 fare la differenza.\nIn questa fase cosi drammatica, dal punto di vista sociale e sanitario, possiamo e dobbiamo anche noi fare qualcosa.\n\nPer tale motivo abbiamo pensato di organizzare questa raccolta fondi a favore dell'Ospedale Jazzolino di VIbo Valentia per rafforzare la terapia intensiva e/o per l\u2019acquisto di materiale medico sanitario necessario a fronteggiare l\u2019emergenza COVID-19\n\nComunichiamo che il ricavato verr\u00e0 devoluto interamente per affrontare l\u2019acquisto di materiale medico e/o sanitario necessario a fronteggiare l\u2019emergenza COVID-19.\nIl materiale da acquistare verr\u00e0 indicato dall'Azienda Ospedaliera  secondo le proprie esigenze, da valutare anche alla luce della cifra finale che verr\u00e0 raggiunta. \n\nAl termine della raccolta verranno specificate le modalit\u00e0 di erogazione e dimostrazione dell'avvenuta erogazione."", ""Destinatari"": ""Ospedale Vibo Valentia"", ""Link"": ""https://www.gofundme.com/f/raccolta-fondi-a-favore-dell039ospedale-jazzolino"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Covid-19, raccolta fondi ospedale di Vibo Valentia""}","<pre><yamldata>
+Da_chi_offerta: 'Associazioni: Valentia, Calabriafood Official e Welcome to Favelas
+  Vibo'
+Descrizione: ""Siamo i ragazzi dell\u2019associazione Valentia, Calabriafood Official\
+  \ e Welcome to Favelas Vibo, insieme a tanti giovani Vibonesi.\nNel nostro piccolo\
+  \ e nelle nostre possibilit\xE0 possiamo fare la differenza. Donate e se non potete\
+  \ condividete. In questi momenti bisogna rimanere uniti.  Anche un piccolo contributo\
+  \ pu\xF2 fare la differenza.\nIn questa fase cosi drammatica, dal punto di vista\
+  \ sociale e sanitario, possiamo e dobbiamo anche noi fare qualcosa.\n\nPer tale\
+  \ motivo abbiamo pensato di organizzare questa raccolta fondi a favore dell'Ospedale\
+  \ Jazzolino di VIbo Valentia per rafforzare la terapia intensiva e/o per l\u2019\
+  acquisto di materiale medico sanitario necessario a fronteggiare l\u2019emergenza\
+  \ COVID-19\n\nComunichiamo che il ricavato verr\xE0 devoluto interamente per affrontare\
+  \ l\u2019acquisto di materiale medico e/o sanitario necessario a fronteggiare l\u2019\
+  emergenza COVID-19.\nIl materiale da acquistare verr\xE0 indicato dall'Azienda Ospedaliera\
+  \  secondo le proprie esigenze, da valutare anche alla luce della cifra finale che\
+  \ verr\xE0 raggiunta. \n\nAl termine della raccolta verranno specificate le modalit\xE0\
+  \ di erogazione e dimostrazione dell'avvenuta erogazione.""
+Destinatari: Ospedale Vibo Valentia
+Link: https://www.gofundme.com/f/raccolta-fondi-a-favore-dell039ospedale-jazzolino
+Tipo_di_soggetto: privato
+Titolo: Covid-19, raccolta fondi ospedale di Vibo Valentia
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/159,579294490,2020-03-11 19:02:29,2020-03-11 14:12:39,Raccolta fondi per l'Ospedale Jazzolino di #ViboValentia ,,,"[""Raccolte fondi"", ""accettato""]",,,"{""Da_chi_offerta"": ""Associazioni: Valentia, Calabriafood Official e Welcome to Favelas Vibo"", ""Descrizione"": ""Siamo i ragazzi dell\u2019associazione Valentia, Calabriafood Official e Welcome to Favelas Vibo, insieme a tanti giovani Vibonesi.\nNel nostro piccolo e nelle nostre possibilit\u00e0 possiamo fare la differenza. Donate e se non potete condividete. In questi momenti bisogna rimanere uniti.  Anche un piccolo contributo pu\u00f2 fare la differenza.\nIn questa fase cosi drammatica, dal punto di vista sociale e sanitario, possiamo e dobbiamo anche noi fare qualcosa.\n\nPer tale motivo abbiamo pensato di organizzare questa raccolta fondi a favore dell'Ospedale Jazzolino di VIbo Valentia per rafforzare la terapia intensiva e/o per l\u2019acquisto di materiale medico sanitario necessario a fronteggiare l\u2019emergenza COVID-19\n\nComunichiamo che il ricavato verr\u00e0 devoluto interamente per affrontare l\u2019acquisto di materiale medico e/o sanitario necessario a fronteggiare l\u2019emergenza COVID-19.\nIl materiale da acquistare verr\u00e0 indicato dall'Azienda Ospedaliera  secondo le proprie esigenze, da valutare anche alla luce della cifra finale che verr\u00e0 raggiunta. \n\nAl termine della raccolta verranno specificate le modalit\u00e0 di erogazione e dimostrazione dell'avvenuta erogazione."", ""Destinatari"": ""Ospedale Vibo Valentia"", ""Link"": ""https://www.gofundme.com/f/raccolta-fondi-a-favore-dell039ospedale-jazzolino"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Covid-19, raccolta fondi ospedale di Vibo Valentia""}","<pre><yamldata>
 Da_chi_offerta: 'Associazioni: Valentia, Calabriafood Official e Welcome to Favelas
   Vibo'
