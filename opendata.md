@@ -15,3 +15,5 @@ Nome            |Dataset         |Licenza         |Link Licenza    |Fonte       
 {% for member in site.data.opendata %} {{member.Nome}} | [Dataset]({{member.Dataset}}) | {{member.Licenza}} | [Link Licenza]({{member.Linklicenza}}) | [Fonte]({{member.Fonte}}) | {{member.Formato}} | {{member.Note}}
 {% endfor %}
 
+
+Se hai un servizio che può usare il formato Feed RSS puoi anche usare [questo feed rss delle segnalazioni](http://feeds.feedburner.com/covid19ita_segnalazioni) oppure [questo feed delle notizie nel bollettino](https://script.google.com/macros/s/AKfycbxTuPFn9ePZOhI7et2f8nSPjkjlhd9zqHth9sOVYRZ6Va09zmE/exec).
