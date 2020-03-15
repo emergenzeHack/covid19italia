@@ -1,4 +1,32 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/541,581635092,2020-03-15 11:33:57,2020-03-15 11:32:23,Cercasi volontari per consegne a domicilio Comune di #Latina,,,"[""Bollettino"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""Cercasi volontari da affiancare alla rete istituzionale dei servizi sociali Comune di #Latina"", ""Descrizione"": ""Si cercano volontari da affiancare alla rete istituzionale dei servizi sociali.\n\nI settori di intervento per i quali si richiede integrare il supporto ai volontari gi\u00e0 attivi sono:\n- il servizio presso la mensa della Caritas;\n- la consegna di pacchi a domicilio per persone anziane, immunodepressi o nuclei familiari con bambini;\n- solo per gli studenti di medicina, l\u2019affiancamento alle attivit\u00e0 di accoglienza della Croce Rossa presso il dormitorio dell\u2019emergenza freddo senza dimora.\n\nPer dare la propria disponibilit\u00e0 \u00e8 possibile contattare: Croce Rossa Italiana - Comitato di Latina al numero verde 800065510 o all\u2019indirizzo email latina@cri.it; Caritas al numero 3394560629."", ""Destinatari"": ""Persone che vogliano diventare volontarie"", ""Email"": ""latina@cri.it"", ""Indirizzo"": ""41.467091 12.903395 0 0"", ""Link"": ""https://www.facebook.com/comunedilatina/photos/a.163242761144055/661295804672079/?type=3&theater&ifg=1"", ""Telefono"": ""800065510""}","<pre><yamldata>
+Cosa: 'Cercasi volontari da affiancare alla rete istituzionale dei servizi sociali
+  Comune di #Latina'
+Descrizione: 'Si cercano volontari da affiancare alla rete istituzionale dei servizi
+  sociali.
+
+
+  I settori di intervento per i quali si richiede integrare il supporto ai volontari
+  già attivi sono:
+
+  - il servizio presso la mensa della Caritas;
+
+  - la consegna di pacchi a domicilio per persone anziane, immunodepressi o nuclei
+  familiari con bambini;
+
+  - solo per gli studenti di medicina, l’affiancamento alle attività di accoglienza
+  della Croce Rossa presso il dormitorio dell’emergenza freddo senza dimora.
+
+
+  Per dare la propria disponibilità è possibile contattare: Croce Rossa Italiana -
+  Comitato di Latina al numero verde 800065510 o all’indirizzo email latina@cri.it;
+  Caritas al numero 3394560629.'
+Destinatari: Persone che vogliano diventare volontarie
+Email: latina@cri.it
+Indirizzo: 41.467091 12.903395 0 0
+Link: https://www.facebook.com/comunedilatina/photos/a.163242761144055/661295804672079/?type=3&theater&ifg=1
+Telefono: '800065510'
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/539,581629714,2020-03-15 11:16:43,2020-03-15 11:15:57,Consegne e commissioni gratuite Comune di #CoriglianoRossano #Cosenza,39.575544,16.633683,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Corigliano-Rossano (CS)"", ""Descrizione"": ""Chiunque avesse necessit\u00e0 di fare la spesa alimentare pu\u00f2 contattare il numero di telefono 349.7493109 e verr\u00e0 messo in contatto con il referente delle Croce Rossa della propria zona che si occuper\u00e0, quindi, di fare la spesa."", ""Destinatari"": ""Persone con disabilit\u00e0, anziane, ammalte, in accertato stato di bisogno"", ""Natura"": ""solidale"", ""Posizione"": ""39.575544 16.633683 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Consegne e commissioni gratuite Comune di Corigliano-Rossano #Cosenza""}","<pre><yamldata>
 Da_chi_offerta: Comune di Corigliano-Rossano (CS)
 Descrizione: Chiunque avesse necessità di fare la spesa alimentare può contattare
