@@ -1,5 +1,5 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/595,581850517,2020-03-15 22:31:32,2020-03-15 22:27:35,Raccolta Fondi per Protezione Civile #Emilia Romagna,,,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""BIC_SWIFT"": ""UNCRITM1BA2"", ""Causale"": ""Insieme si pu\u00f2 Emilia-Romagna contro il Coronavirus"", ""Descrizione"": ""Tanti hanno chiesto di poter fare donazioni. Per questo, la Regione ha deciso di dare la possibilit\u00e0 a chiunque voglia farlo di dare un contributo per la gestione dell\u2019emergenza sanitaria legata al Coronavirus, versando sul conto corrente della Protezione civile regionale dell\u2019Emilia-Romagna"", ""IBAN"": ""IT69G0200802435000104428964"", ""Indirizzo"": ""41.89277044 12.48366723"", ""Intestazione"": ""Protezione Civile regionale"", ""Link"": ""http://www.regione.emilia-romagna.it/coronavirus/donazioni"", ""Nome"": ""Protezione Civile Emilia Romagna""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/595,581850517,2020-03-15 23:09:34,2020-03-15 22:27:35,Raccolta Fondi per Protezione Civile #EmiliaRomagna,,,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""BIC_SWIFT"": ""UNCRITM1BA2"", ""Causale"": ""Insieme si pu\u00f2 Emilia-Romagna contro il Coronavirus"", ""Descrizione"": ""Tanti hanno chiesto di poter fare donazioni. Per questo, la Regione ha deciso di dare la possibilit\u00e0 a chiunque voglia farlo di dare un contributo per la gestione dell\u2019emergenza sanitaria legata al Coronavirus, versando sul conto corrente della Protezione civile regionale dell\u2019Emilia-Romagna"", ""IBAN"": ""IT69G0200802435000104428964"", ""Indirizzo"": ""44.433313299999995 11.394502576340368"", ""Intestazione"": ""Protezione Civile regionale"", ""Link"": ""http://www.regione.emilia-romagna.it/coronavirus/donazioni"", ""Nome"": ""Protezione Civile Emilia Romagna""}","<pre><yamldata>
 BIC_SWIFT: UNCRITM1BA2
 Causale: Insieme si può Emilia-Romagna contro il Coronavirus
 Descrizione: Tanti hanno chiesto di poter fare donazioni. Per questo, la Regione ha
@@ -7,12 +7,12 @@ Descrizione: Tanti hanno chiesto di poter fare donazioni. Per questo, la Regione
   la gestione dell’emergenza sanitaria legata al Coronavirus, versando sul conto corrente
   della Protezione civile regionale dell’Emilia-Romagna
 IBAN: IT69G0200802435000104428964
-Indirizzo: 41.89277044 12.48366723
+Indirizzo: 44.433313299999995 11.394502576340368
 Intestazione: Protezione Civile regionale
 Link: http://www.regione.emilia-romagna.it/coronavirus/donazioni
 Nome: Protezione Civile Emilia Romagna
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/594,581849766,2020-03-15 22:32:28,2020-03-15 22:25:12,Raccolta Fondi per Ospedale Metropolitano #Reggio Calabria per acquisto ventilatori polmonari,38.113821,15.65995,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""\u00c8 stata istituita una raccolta fondi per l'acquisto di ventilatori polmonari e per aumentare i posti in terapia intensiva"", ""Link"": ""https://www.gofundme.com/f/terapia-intensiva-ospedale-reggio-calabria?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet"", ""Nome"": ""Grande Ospedale Metropolitano #Reggio Calabria"", ""Posizione"": ""38.113821 15.65995 0 0""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/594,581849766,2020-03-15 23:10:56,2020-03-15 22:25:12,Raccolta Fondi per Ospedale Metropolitano #ReggioCalabria per acquisto ventilatori polmonari,38.113821,15.65995,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""\u00c8 stata istituita una raccolta fondi per l'acquisto di ventilatori polmonari e per aumentare i posti in terapia intensiva"", ""Link"": ""https://www.gofundme.com/f/terapia-intensiva-ospedale-reggio-calabria?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet"", ""Nome"": ""Grande Ospedale Metropolitano #Reggio Calabria"", ""Posizione"": ""38.113821 15.65995 0 0""}","<pre><yamldata>
 Descrizione: È stata istituita una raccolta fondi per l'acquisto di ventilatori polmonari
   e per aumentare i posti in terapia intensiva
 Link: https://www.gofundme.com/f/terapia-intensiva-ospedale-reggio-calabria?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet
@@ -53,30 +53,27 @@ Tipo_di_soggetto: pubblico
 Titolo: Asl Toscana Sud Est - gruppo Fb (chiuso), spazio di incontro e condivisione
   virtuale
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/589,581840570,2020-03-15 23:06:14,2020-03-15 21:53:51,Comune di #Firenze - linea telefonica e equipe per over 65 #Firenze,43.769585,11.262162,"[""Bollettino"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Firenze"", ""Descrizione"": ""una linea telefonica, una sorta di call center, attraverso la quale i nonni potranno avere compagnia e informazioni. Il nuovo servizio sar\u00e0 attivo a partire dalle 14.30 e per usufruirne baster\u00e0 comporre il numero 0553282200, attivo dalle 8 alle 16.30 dal luned\u00ec al venerd\u00ec.\nA disposizione degli anziani ci saranno degli operatori, che avranno una duplice funzione: passiva, ovvero di ascolto degli anziani e di successiva segnalazione delle loro esigenze ai Servizi sociali del Comune; e attiva, ovvero di sorveglianza sanitaria per monitorare gli anziani fragili segnalati dai Servizi sociali dell'amministrazione per prevenire eventuali successivi interventi e ricoveri.\nDa gioved\u00ec pomeriggio poi sar\u00e0 operativa un\u2019equipe multiprofessionale della Societ\u00e0 della Salute di Firenze ad alta integrazione socio sanitaria, composta da un assistente sociale, un infermiere e un medico.\nL\u2019\u00e9quipe risponder\u00e0 al numero 055/2616277 nei giorni di luned\u00ec, mercoled\u00ec e venerd\u00ec dalle 10 alle 12 e il marted\u00ec e il gioved\u00ec dalle 14.30 alle 16.30 e fornir\u00e0 risposte alle richieste di informazioni sui percorsi della non autosufficienza e sui percorsi disabilit\u00e0. Chi chiamer\u00e0 sar\u00e0 ascoltato, orientato e informato. L'\u00e9quipe sar\u00e0 in collegamento anche con i Servizi territoriali: ospedale, segretariato sociale e medici di famiglia."", ""Destinatari"": ""over - 65"", ""Link"": ""https://www.comune.fi.it/comunicati-stampa/coronavirus-due-nuovi-servizi-gli-anziani-da-domani-linea-telefonica-dedicata-e?language_content_entity=it"", ""Natura"": ""solidale"", ""Posizione"": ""43.769585 11.262162 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Linea telefonica per over-65 e attivazione equipe SDS #Firenze""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/589,581840570,2020-03-15 23:06:49,2020-03-15 21:53:51,Comune di #Firenze - linea telefonica e equipe per over 65 #Firenze,43.769585,11.262162,"[""Bollettino"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Firenze"", ""Descrizione"": ""una linea telefonica, una sorta di call center, attraverso la quale i nonni potranno avere compagnia e informazioni. Il nuovo servizio sar\u00e0 attivo a partire dalle 14.30 e per usufruirne baster\u00e0 comporre il numero 0553282200, attivo dalle 8 alle 16.30 dal luned\u00ec al venerd\u00ec. A disposizione degli anziani ci saranno degli operatori, che avranno una duplice funzione: passiva, ovvero di ascolto degli anziani e di successiva segnalazione delle loro esigenze ai Servizi sociali del Comune; e attiva, ovvero di sorveglianza sanitaria per monitorare gli anziani fragili segnalati dai Servizi sociali dell'amministrazione per prevenire eventuali successivi interventi e ricoveri. Da gioved\u00ec pomeriggio poi sar\u00e0 operativa un\u2019equipe multiprofessionale della Societ\u00e0 della Salute di Firenze ad alta integrazione socio sanitaria, composta da un assistente sociale, un infermiere e un medico. L\u2019\u00e9quipe risponder\u00e0 al numero 055/2616277 nei giorni di luned\u00ec, mercoled\u00ec e venerd\u00ec dalle 10 alle 12 e il marted\u00ec e il gioved\u00ec dalle 14.30 alle 16.30 e fornir\u00e0 risposte alle richieste di informazioni sui percorsi della non autosufficienza e sui percorsi disabilit\u00e0. Chi chiamer\u00e0 sar\u00e0 ascoltato, orientato e informato. L'\u00e9quipe sar\u00e0 in collegamento anche con i Servizi territoriali: ospedale, segretariato sociale e medici di famiglia."", ""Destinatari"": ""over 65"", ""Link"": ""https://www.comune.fi.it/comunicati-stampa/coronavirus-due-nuovi-servizi-gli-anziani-da-domani-linea-telefonica-dedicata-e?language_content_entity=it"", ""Natura"": ""solidale"", ""Posizione"": ""43.769585 11.262162 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Linea telefonica per over-65 e attivazione equipe SDS #Firenze""}","<pre><yamldata>
 Da_chi_offerta: Comune di Firenze
 Descrizione: 'una linea telefonica, una sorta di call center, attraverso la quale
   i nonni potranno avere compagnia e informazioni. Il nuovo servizio sarà attivo a
   partire dalle 14.30 e per usufruirne basterà comporre il numero 0553282200, attivo
   dalle 8 alle 16.30 dal lunedì al venerdì.
-
   A disposizione degli anziani ci saranno degli operatori, che avranno una duplice
   funzione: passiva, ovvero di ascolto degli anziani e di successiva segnalazione
   delle loro esigenze ai Servizi sociali del Comune; e attiva, ovvero di sorveglianza
   sanitaria per monitorare gli anziani fragili segnalati dai Servizi sociali dell''amministrazione
   per prevenire eventuali successivi interventi e ricoveri.
-
   Da giovedì pomeriggio poi sarà operativa un’equipe multiprofessionale della Società
   della Salute di Firenze ad alta integrazione socio sanitaria, composta da un assistente
   sociale, un infermiere e un medico.
-
   L’équipe risponderà al numero 055/2616277 nei giorni di lunedì, mercoledì e venerdì
   dalle 10 alle 12 e il martedì e il giovedì dalle 14.30 alle 16.30 e fornirà risposte
   alle richieste di informazioni sui percorsi della non autosufficienza e sui percorsi
   disabilità. Chi chiamerà sarà ascoltato, orientato e informato. L''équipe sarà in
   collegamento anche con i Servizi territoriali: ospedale, segretariato sociale e
   medici di famiglia.'
-Destinatari: over - 65
+Destinatari: over 65
 Link: https://www.comune.fi.it/comunicati-stampa/coronavirus-due-nuovi-servizi-gli-anziani-da-domani-linea-telefonica-dedicata-e?language_content_entity=it
 Natura: solidale
 Posizione: 43.769585 11.262162 0 0
@@ -94,6 +91,13 @@ Natura: solidale
 Tipo_di_soggetto: pubblico
 Titolo: Noi ci siamo
 Posizione: 40.878411 14.342932 0 0
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/584,581821837,2020-03-15 23:11:39,2020-03-15 20:53:07,Ipoclorito di sodio: Arpa Piemonte sconsiglia l'uso massivo,45.336702,15.46875,"[""Notizie"", ""accettato"", ""form""]",,,"{""Cosa"": ""Ipoclorito di sodio: sconsigliato l'uso massivo"", ""Descrizione"": ""Importante parere di Arpa Piemonte: l\u2019uso massiccio di candeggina sulle strade \u00e8 sconsigliato."", ""Link"": ""http://www.arpa.piemonte.it/news/ipoclorito-di-sodio-sconsigliato-luso-massivo"", ""Posizione"": ""45.336702 15.46875 0 0""}","<pre><yamldata>
+Cosa: 'Ipoclorito di sodio: sconsigliato l''uso massivo'
+Descrizione: 'Importante parere di Arpa Piemonte: l’uso massiccio di candeggina sulle
+  strade è sconsigliato.'
+Link: http://www.arpa.piemonte.it/news/ipoclorito-di-sodio-sconsigliato-luso-massivo
+Posizione: 45.336702 15.46875 0 0
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/583,581801786,2020-03-15 21:25:28,2020-03-15 19:51:55,Aiuto Psicologico Gratuito S.O.G.IT. per operatori emergenza e cittadini #Trieste,,,"[""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,{},"<pre><yamldata>
 Da_chi_offerta: S.O.G.It.
@@ -1815,7 +1819,7 @@ Natura: solidale
 Tipo_di_soggetto: pubblico
 Titolo: Pronto? Ho l'ansia!
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/400,581166324,2020-03-15 19:01:47,2020-03-14 11:31:43,Non è vero che Bill Gates aveva predetto l'epidemia Covid-19 nel 2015,,,"[""Fake News"", ""accettato"", ""form""]",,,"{""Cosa"": ""No! Bill Gates non aveva predetto l'epidemia Covid-19 nel 2015"", ""Descrizione"": ""Alcune testate giornalistiche parlano di una presunta profezia dell'epidemia Covid-19 da parte di Bill Gates nel 2015, ma guardando il video originale si scopre tutt'altro."", ""Link"": ""https://www.open.online/2020/03/14/la-profezia-di-bill-gates-sul-coronavirus-nel-2015-no-al-contrario-e-stato-fin-troppo-ottimista/""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/400,581166324,2020-03-15 23:09:34,2020-03-14 11:31:43,Non è vero che Bill Gates aveva predetto l'epidemia Covid-19 nel 2015,,,"[""Fake News"", ""accettato"", ""form""]",,,"{""Cosa"": ""No! Bill Gates non aveva predetto l'epidemia Covid-19 nel 2015"", ""Descrizione"": ""Alcune testate giornalistiche parlano di una presunta profezia dell'epidemia Covid-19 da parte di Bill Gates nel 2015, ma guardando il video originale si scopre tutt'altro."", ""Link"": ""https://www.open.online/2020/03/14/la-profezia-di-bill-gates-sul-coronavirus-nel-2015-no-al-contrario-e-stato-fin-troppo-ottimista/""}","<pre><yamldata>
 Cosa: No! Bill Gates non aveva predetto l'epidemia Covid-19 nel 2015
 Descrizione: Alcune testate giornalistiche parlano di una presunta profezia dell'epidemia
   Covid-19 da parte di Bill Gates nel 2015, ma guardando il video originale si scopre
@@ -2996,7 +3000,7 @@ Tipo_di_soggetto: privato
 Titolo: Servizio gratuito di supporto psicologico via e-mail
 
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/311,580142836,2020-03-14 22:22:39,2020-03-12 18:34:46,"Bianconero, regala audiolibri per bambini ",,,"[""Attivita culturali e ricreative"", ""accettato"", ""form""]",,,"{""Cosa"": ""Bianconero, audiolibri per bambini regalati"", ""Descrizione"": ""La Biancoenero, casa editrice per bambini, regala libri e audiolibri\\ \\ per trascorrere lietamente i prossimi giorni. \\nInoltrateli alle famiglie con\\ \\ lettori giovani e meno giovani! Si inizia con Huckleberry Finn\\"", ""Link"": ""http://www.biancoeneroedizioni.it/negozio/""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/311,580142836,2020-03-15 23:26:29,2020-03-12 18:34:46,"Bianconero, regala audiolibri per bambini ",,,"[""Attivita culturali e ricreative"", ""accettato"", ""da sistemare"", ""form""]",,,"{""Cosa"": ""Bianconero, audiolibri per bambini regalati"", ""Descrizione"": ""La Biancoenero, casa editrice per bambini, regala libri e audiolibri\\ \\ per trascorrere lietamente i prossimi giorni. \\nInoltrateli alle famiglie con\\ \\ lettori giovani e meno giovani! Si inizia con Huckleberry Finn\\"", ""Link"": ""http://www.biancoeneroedizioni.it/negozio/""}","<pre><yamldata>
 Cosa: Bianconero, audiolibri per bambini regalati
 Descrizione: La Biancoenero, casa editrice per bambini, regala libri e audiolibri\
   \ per trascorrere lietamente i prossimi giorni. \nInoltrateli alle famiglie con\
@@ -3210,7 +3214,7 @@ Link: https://lattedimammamia.blogspot.com/?m=1
 Telefono: '3405372985'
 
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/293,580045497,2020-03-13 16:47:45,2020-03-12 16:05:04,#facciolaspesadacasa #Matera e provincia,,,"[""Bollettino"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,{},"<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/293,580045497,2020-03-15 23:26:18,2020-03-12 16:05:04,#facciolaspesadacasa #Matera e provincia,,,"[""Bollettino"", ""Servizi e iniziative solidali private"", ""accettato"", ""da sistemare"", ""form""]",,,{},"<pre><yamldata>
 Da_chi_offerta: Imprese commerciali della provincia di Matera
 Descrizione: ""Dopo l'iscrizione, si pu\xF2 inserire l'indirizzo email dove si desidera\
   \ ricevere gli ordini, le generalit\xE0 del proprietario dell'attivit\xE0 e la lista\
@@ -3635,14 +3639,14 @@ Descrizione: ""Il Consiglio Nazionale delle Ricerche sta conducendo lo studio \"
 Link: https://docs.google.com/forms/d/e/1FAIpQLSeAoxSjq-IvDbBqG-wMU0u9saZEgLpnHSi5X_egKeKz85mqmg/viewform?usp=sf_link
 
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/247,579869710,2020-03-13 10:09:39,2020-03-12 11:21:37,Il canale youtube raccoglie video in diverse lingu,47.989922,11.953125,"[""Informazioni utili"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Il canale youtube raccoglie video in diverse lingue per informare il maggior numero di persone sull'emergenza in corso e sulle misure adottate dal Governo italiano."", ""Destinatari"": ""Cittadini stranieri, persone all'interno dei centri di accoglienza"", ""Link"": ""https://www.youtube.com/channel/UCtFMtwTD9Ai89ba5qspLIJw/featured?view_as=subscriber"", ""Natura"": ""solidale"", ""Posizione"": ""47.989922 11.953125 0 0"", ""Tipo_di_soggetto"": ""privato""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/247,579869710,2020-03-15 23:26:45,2020-03-12 11:21:37,Covid19-Information for all: canale YouTube con video informativi in diverse lingue,41.8954656,12.4823243,"[""Informazioni utili"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Il canale youtube raccoglie video in diverse lingue per informare il maggior numero di persone sull'emergenza in corso e sulle misure adottate dal Governo italiano."", ""Destinatari"": ""Cittadini stranieri, persone all'interno dei centri di accoglienza"", ""Link"": ""https://www.youtube.com/channel/UCtFMtwTD9Ai89ba5qspLIJw/featured?view_as=subscriber"", ""Natura"": ""solidale"", ""Posizione"": ""41.8954656 12.4823243"", ""Tipo_di_soggetto"": ""privato""}","<pre><yamldata>
 Descrizione: Il canale youtube raccoglie video in diverse lingue per informare il
   maggior numero di persone sull'emergenza in corso e sulle misure adottate dal Governo
   italiano.
 Destinatari: Cittadini stranieri, persone all'interno dei centri di accoglienza
 Link: https://www.youtube.com/channel/UCtFMtwTD9Ai89ba5qspLIJw/featured?view_as=subscriber
 Natura: solidale
-Posizione: 47.989922 11.953125 0 0
+Posizione: 41.8954656 12.4823243
 Tipo_di_soggetto: privato
 
 </yamldata></pre>",open
@@ -4106,7 +4110,7 @@ Tipo_di_soggetto: privato
 Titolo: Casa Pigneto, un quartiere solidale
 natura: solidale
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/172,579379338,2020-03-12 16:34:52,2020-03-11 16:09:15,Comune di #Jesi attiva supporto psicologico telefonico,,,"[""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,{},"```
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/172,579379338,2020-03-15 23:26:15,2020-03-11 16:09:15,Comune di #Jesi attiva supporto psicologico telefonico,,,"[""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""da sistemare"", ""form""]",,,{},"```
 Da_chi_offerta: Comune di Jesi
 Descrizione: ""Il Comune di Jesi, che si avvale della collaborazione della psicologa-psicoterapeuta Romina Pulita, garantisce un servizio di sportello telefonico per superare paure, ansie e sostenere i cittadini in questo momento difficile e particolare. Potete chiamare ai seguenti numeri tel. 0731.538426 o 333.2127712 dal lun. al ven. dalle ore 9.30 alle ore 11.00.”
 Destinatari: cittadine e cittadini di Jesi
@@ -4132,7 +4136,7 @@ Descrizione: ""Dopo aver discusso insieme agli altri CAV della Regione Puglia, B
   \ luned\xEC, mercoled\xEC e venerd\xEC dalle 18.00 alle 20.00""
 Posizione: 40.63392 17.939713 0 0
 ```",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/163,579349963,2020-03-14 21:57:57,2020-03-11 15:29:08,A #Bari il centro antiviolenza rimane attivo,,,"[""Bollettino"", ""Donne"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,{},"```
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/163,579349963,2020-03-15 23:26:25,2020-03-11 15:29:08,A #Bari il centro antiviolenza rimane attivo,,,"[""Bollettino"", ""Donne"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""da sistemare"", ""form""]",,,{},"```
 Cosa: 'centro antiviolenza Bari'
 Descrizione: ""I Centri Antiviolenza di BAri non si fermano. Di seguito i contatti:\n\
   \nCentro Antiviolenza del Comune di Bari:\nStrada S. Giorgio n. 21, Bari\nNumero\
@@ -4141,12 +4145,12 @@ Descrizione: ""I Centri Antiviolenza di BAri non si fermano. Di seguito i contat
   \ 18.30.\nhttps://www.centroantiviolenzabari.it/\n\nCAV Paola Labriola: \nVia Napoli\
   \ 308, Bari\nSede ass. G.I.R.AF.F.AH""
 ```",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/162,579331954,2020-03-14 22:30:34,2020-03-11 15:04:10,ilmanifesto.it gratis per tutte e tutti,,,"[""Notizie"", ""accettato"", ""form""]",,,{},"```
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/162,579331954,2020-03-15 23:26:22,2020-03-11 15:04:10,ilmanifesto.it gratis per tutte e tutti,,,"[""Notizie"", ""accettato"", ""da sistemare"", ""form""]",,,{},"```
 Cosa: ""Gi\xF9 il muro: ilmanifesto.it gratis per tutti""
 Descrizione: ‘Servizio gratuito di fruizione del quotidiano on-line (abbassato paywall)’
 Link: https://ilmanifesto.it/giu-il-muro-ilmanifesto-it-gratis-per-tutti/
 ```",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/160,579296089,2020-03-11 22:22:52,2020-03-11 14:14:47,Raccolta fondi per ospedale di #Crotone,,,"[""Raccolte fondi"", ""accettato""]",,,{},"```
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/160,579296089,2020-03-15 23:27:09,2020-03-11 14:14:47,Raccolta fondi per ospedale di #Crotone,,,"[""Raccolte fondi"", ""accettato"", ""da sistemare""]",,,{},"```
 Da_chi_offerta: Matteo Arminio
 Descrizione: ""Mi chiamo Matteo Arminio, sono un tecnico sanitario di radiologia medica,\
   \ sono preoccupato e ho deciso di agire istintivamente. \nHo cercato su google vari\
@@ -4194,7 +4198,7 @@ Link: https://www.gofundme.com/f/raccolta-fondi-a-favore-dell039ospedale-jazzoli
 Tipo_di_soggetto: privato
 Titolo: Covid-19, raccolta fondi ospedale di Vibo Valentia
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/158,579292984,2020-03-12 21:38:36,2020-03-11 14:10:25,Donazioni per Ospedali  #ReggioCalabria,,,"[""Raccolte fondi"", ""accettato""]",,,{},"```
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/158,579292984,2020-03-15 23:26:40,2020-03-11 14:10:25,Donazioni per Ospedali  #ReggioCalabria,,,"[""Raccolte fondi"", ""accettato"", ""da sistemare""]",,,{},"```
 Da_chi_offerta: Simona Vazzana
 Descrizione: ""La situazione in Italia dovuta al COVID-9 \xE8 degenerata con le partenze\
   \ di domenica mattina per tutto il sud Italia. I decessi aumentano di giorno in\
@@ -4214,7 +4218,7 @@ Natura_dell_iniziativa: solidale
 Tipo_di_soggetto: privato
 Titolo: Ospedale Riuniti di Reggio Calabria - COVID-19
 ```",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/157,579291637,2020-03-12 15:59:36,2020-03-11 14:08:29,Raccolta fondi per presidio Ospedaliero Spoke di #CoriglianoRossano,,,"[""Raccolte fondi"", ""accettato""]",,,{},"```
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/157,579291637,2020-03-15 23:26:37,2020-03-11 14:08:29,Raccolta fondi per presidio Ospedaliero Spoke di #CoriglianoRossano,,,"[""Raccolte fondi"", ""accettato"", ""da sistemare""]",,,{},"```
 Descrizione: ""Raccolta fondi per il presidio Ospedaliero Spoke di Corigliano Rossano per acquisto di materiale medico e/o sanitario necessario a fronteggiare COVID-19. Il materiale da acquistare è da valutare con personale medico anche alla luce della cifra finale raggiunta. Al termine della raccolta verranno specificate modalita di erogazione e dimostrazione dell'avvenuta erogazione.""
 Destinatari: Presidio Osp. Spoke di Corigliano-Rossano
 Link: https://www.gofundme.com/f/covid19-ospedale-di-corigliano-rossano?utm_source=whatsapp-visit&utm_medium=chat&utm_campaign=p_cp+share-sheet
@@ -4222,7 +4226,7 @@ Natura_dell_iniziativa: solidale
 Tipo_di_soggetto: privato
 Titolo: COVID-19 Presidio Osp. Spoke di Corigliano-Rossano
 ```",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/156,579290146,2020-03-11 17:05:50,2020-03-11 14:06:20,Donazione per ASL #Cosenza,,,"[""Raccolte fondi"", ""accettato""]",,,{},"```
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/156,579290146,2020-03-15 23:26:33,2020-03-11 14:06:20,Donazione per ASL #Cosenza,,,"[""Raccolte fondi"", ""accettato"", ""da sistemare""]",,,{},"```
 Descrizione: ""Il ricavato verr\xE0 devoluto all\u2019Azienda Ospedaliera di Cosenza\
   \ e sar\xE0 vincolato all\u2019acquisto di materiale medico e/o sanitario necessario\
   \ a fronteggiare l\u2019emergenza COVID-19,\nquali attrezzature per l\u2019UTI,\
@@ -4235,7 +4239,7 @@ Natura_dell_iniziativa: solidale
 Tipo_di_soggetto: privato
 Titolo: Cosenza Anti-Covid
 ```",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/153,579250617,2020-03-13 17:33:21,2020-03-11 13:07:21,Consegna libri e vini a #Firenze,,,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato""]",,,{},"```
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/153,579250617,2020-03-15 23:26:10,2020-03-11 13:07:21,Consegna libri e vini a #Firenze,,,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""da sistemare""]",,,{},"```
 Cosa: Todomodo (libreria - Firenze
 Descrizione: ""La bottega rimarr\xE0 chiusa, ma i libri e i vini li potrete ordinare\
   \ ugualmente.\nCome ?\nPuoi prenotare i tuoi libri e/o la tua bottiglia di vino\
@@ -4245,7 +4249,7 @@ Descrizione: ""La bottega rimarr\xE0 chiusa, ma i libri e i vini li potrete ordi
   \ potete pagare in\ncontanti\ncarte di credito\nbancomat""
 Link: http://todomodo.org/
 ```",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/151,579227697,2020-03-12 18:13:35,2020-03-11 12:26:41,Supporto psicologico gratuito #Palermo,,,"[""Supporto psicologico"", ""accettato"", ""form""]",,,{},"Da_chi_offerta: Dott.ssa Giovanna Schittino
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/151,579227697,2020-03-15 23:24:04,2020-03-11 12:26:41,Supporto psicologico gratuito #Palermo,,,"[""Supporto psicologico"", ""accettato"", ""da sistemare"", ""form""]",,,{},"Da_chi_offerta: Dott.ssa Giovanna Schittino
 Descrizione: ""Buongiorno a tutte/i, sono una psicologa psicoterapeuta di Palermo e,\
   \ volendo mettere a disposizione il mio aiuto, mi rendo disponibile gratuitamente\
   \ per un contatto telefonico per chiunque senta il bisogno di un aiuto psicologico.\
@@ -4260,7 +4264,7 @@ Tipo_di_soggetto: privato
 Titolo: Sostegno psicologico telefonico
 meta/deprecatedID: uuid:c878bfd9-85fb-47ef-a9fa-e5c429b928ed
 ",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/150,579202630,2020-03-11 11:46:24,2020-03-11 11:41:58,Rafforzamento servizio di Taxi sociale per anziani #Adelfia (BA),,,"[""Servizi e iniziative solidali pubbliche"", ""accettato""]",,,{},"chi: 'Comune di Adelfia'
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/150,579202630,2020-03-15 23:26:06,2020-03-11 11:41:58,Rafforzamento servizio di Taxi sociale per anziani #Adelfia (BA),,,"[""Servizi e iniziative solidali pubbliche"", ""accettato"", ""da sistemare""]",,,{},"chi: 'Comune di Adelfia'
 comune: Adelfia
 contatti: '3448609617'
 descrizione: ""Il Comune di Adelfia ha rafforzato il servizio di Taxi sociale per anziani per over 65 in situazioni di fragilità senza reti familiari per approvvigionamento beni prima necessità""
@@ -4288,7 +4292,7 @@ Link: https://www.gofundme.com/f/coronavirus-terapia-intensiva-senigallia?utm_so
 Nome: Rotaract Club Senigallia
 Posizione: 43.7148603 13.217754 0 0
 </yamldata></pre> ",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/146,579114701,2020-03-11 22:34:10,2020-03-11 09:16:45,Accesso gratuito catalogo film in streaming di Cineteca di #Milano,,,"[""Attivita culturali e ricreative"", ""accettato""]",,,{},"```
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/146,579114701,2020-03-15 23:26:02,2020-03-11 09:16:45,Accesso gratuito catalogo film in streaming di Cineteca di #Milano,,,"[""Attivita culturali e ricreative"", ""accettato"", ""da sistemare""]",,,{},"```
 Cosa: Catalogo di film in streaming gratuiti
 Descrizione: ""La Fondazione Cineteca di Milano ha reso gratuito il catalogo in streaming\
   \ dei film. \xC8 sufficiente registrarsi.""
@@ -4709,7 +4713,7 @@ regione: 'Lombardia '
 tag: Sostegno al lavoro
 Posizione: 45.4449916 9.1793239 0 0
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/99,578925841,2020-03-11 12:01:05,2020-03-10 23:53:03,Streaming di comunità,,,"[""Attivita culturali e ricreative"", ""accettato""]",,,{},"<pre><yamldata>chi: Smk Videofactory
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/99,578925841,2020-03-15 23:23:59,2020-03-10 23:53:03,Streaming di comunità,,,"[""Attivita culturali e ricreative"", ""accettato"", ""da sistemare""]",,,{},"<pre><yamldata>chi: Smk Videofactory
 comune: ''
 contatti: ''
 descrizione: ""Streaming di comunità: Una lunga programmazione di video, film e documentari per ribadire il valore della cultura dal basso e della sua diffusione. Senza dover pagare per forza.""
@@ -4753,7 +4757,7 @@ regione: Italia
 tag: Servizi e iniziative solidali pubbliche
 Posizione: 44.5023377 11.334667890687236 0 0
 <yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/95,578925335,2020-03-14 13:28:45,2020-03-10 23:51:11,"Teatro Massimo #Palermo, streaming no stop di opere, concerti, spettacoli",,,"[""Attivita culturali e ricreative"", ""accettato""]",,,{},"<pre><yamldata>chi: Teatro Massimo di Palermo
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/95,578925335,2020-03-15 23:25:57,2020-03-10 23:51:11,"Teatro Massimo #Palermo, streaming no stop di opere, concerti, spettacoli",,,"[""Attivita culturali e ricreative"", ""accettato"", ""da sistemare""]",,,{},"<pre><yamldata>chi: Teatro Massimo di Palermo
 comune: Palermo
 contatti:
 descrizione: Programmazione no stop streaming di opere, concerti, spettacoli. Ogni giorno viene comunicato il programma: un palinsesto di opere, concerti e spettacoli, visite guidate virtuali e nuove proposte per guardare avanti, in attesa di riaprire il teatro.
