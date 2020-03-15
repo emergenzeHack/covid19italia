@@ -1,6 +1,6 @@
 ---
 layout: issuelist
 title: Richieste di Aiuto
-permalink: /fondi/
+permalink: /richiesta/
 categorieissue: Richiesta aiuto;Richiesta aiuto
 ---
