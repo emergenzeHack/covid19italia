@@ -11,6 +11,7 @@ categorieissue:
  - Supporto psicologico;Supporto psicologico
  - Sostegno lavoro e imprese;Sostegno lavoro e imprese
  - Donazioni beni/strumenti;Donazioni beni/strumenti
+ - Didattica a distanza e-learning;Didattica a distanza e-learning
 categorieMapAll: true
 ---
 
