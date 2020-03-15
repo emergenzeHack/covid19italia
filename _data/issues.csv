@@ -15,6 +15,16 @@ Tipo_di_soggetto: privato
 Titolo: 'Servizio telefonico di ascolto e supporto psicologico di Psicologi per i
   Popoli #Lazio'
 </yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/567,581733215,2020-03-15 16:26:18,2020-03-15 16:15:24,IusTeam offe sportello legale di orientamento durante l'emergenza,,,"[""Sostegno lavoro e imprese"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""IusTeam - Rete di avvocati"", ""Descrizione"": ""La rete di avvocati IusTeam riunisce diversi professionisti sparsi sul territorio ed offre un servizio gratuito di orientamento per tutti quei soggetti coinvolti dai provvedimenti adottati dal Governo italiano durante l'emergenza sanitaria"", ""Destinatari"": ""Imprese e professionisti"", ""Link"": ""https://www.iusteam.net/iusteam-a-fianco-delle-piccole-imprese-delle-ditte-individuali-e-dei-professionisti-nellemergenza-coronavirus/"", ""Natura"": ""sostegno-lavor"", ""Titolo"": ""Sportello legale di orientamento durante l'emergenza""}","<pre><yamldata>
+Da_chi_offerta: IusTeam - Rete di avvocati
+Descrizione: La rete di avvocati IusTeam riunisce diversi professionisti sparsi sul
+  territorio ed offre un servizio gratuito di orientamento per tutti quei soggetti
+  coinvolti dai provvedimenti adottati dal Governo italiano durante l'emergenza sanitaria
+Destinatari: Imprese e professionisti
+Link: https://www.iusteam.net/iusteam-a-fianco-delle-piccole-imprese-delle-ditte-individuali-e-dei-professionisti-nellemergenza-coronavirus/
+Natura: sostegno-lavor
+Titolo: Sportello legale di orientamento durante l'emergenza
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/565,581724699,2020-03-15 15:55:23,2020-03-15 15:49:13,Mappa #DonazioneSangue su tutto il territorio nazionale,,,"[""Bollettino"", ""Dati utili"", ""Informazioni utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Mappa punti di raccolta per la donazione del sangue su tutto il territorio nazionale"", ""Descrizione"": ""Sul sito del Centro nazionale sangue \u00e8 disponibile un sistema di localizzazione dei Punti di Raccolta aperti ai cittadini su tutto il territorio italiano. Per effettuare la ricerca \u00e8 sufficiente selezionare dalla mappa o dai menu a tendina a sinistra la propria regione, la provincia e il comune. \nDai risultati della ricerca si potr\u00e0 conoscere l'indirizzo del Punto di Raccolta e decidere il percorso pi\u00f9 breve dove effettuare la Donazione tramite una Mappa Interattiva."", ""Fonte"": ""Centro nazionale sangue"", ""Link"": ""https://cns.sanita.it/GEOBLOOD/""}","<pre><yamldata>
 Cosa: Mappa punti di raccolta per la donazione del sangue su tutto il territorio nazionale
 Descrizione: ""Sul sito del Centro nazionale sangue è disponibile un sistema di localizzazione\
