@@ -1,4 +1,19 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/560,581705945,2020-03-15 14:57:08,2020-03-15 14:56:02,Istituto Gestalt Firenze offre supporto psicologico a personale medico e infermieristico,43.769622,11.267316,"[""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Istituto Gestalt Firenze I.G.F."", ""Descrizione"": ""Per gli operatori del Sistema Sanitario Nazionale e per tutti gli operatori sanitari coinvolti nell'assistenza alle persone.\nScriveteci roma@igf-gestalt.it oppure\nsegreteriagestaltfirenze@gmail.com"", ""Destinatari"": ""Operatori del Sistema Sanitario Nazionale e per tutti gli operatori sanitari"", ""Link"": ""www.igf-gestalt.it"", ""Natura"": ""solidale"", ""Posizione"": ""43.769622 11.267316 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Istituto Gestalt Firenze offre supporto psicologico""}","<pre><yamldata>
+Da_chi_offerta: Istituto Gestalt Firenze I.G.F.
+Descrizione: 'Per gli operatori del Sistema Sanitario Nazionale e per tutti gli operatori
+  sanitari coinvolti nell''assistenza alle persone.
+
+  Scriveteci roma@igf-gestalt.it oppure
+
+  segreteriagestaltfirenze@gmail.com'
+Destinatari: Operatori del Sistema Sanitario Nazionale e per tutti gli operatori sanitari
+Link: www.igf-gestalt.it
+Natura: solidale
+Posizione: 43.769622 11.267316 0 0
+Tipo_di_soggetto: privato
+Titolo: Istituto Gestalt Firenze offre supporto psicologico
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/559,581700937,2020-03-15 14:43:04,2020-03-15 14:42:02,Consegne e commissioni della Misericordia Campo di Marte #Firenze,43.779073,11.273582,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Misericordia Campo di Marte Firenze"", ""Descrizione"": ""La Misericordia del Campo di Marte a Firenze vista l'emergenza COVID-19 organizza un servizio di aiuto domiciliare di consegna spesa, ritiro ricette, medicinali o altri servizi simili.\nTelefonare al numero: 3357263322"", ""Destinatari"": ""Persone anziane o in difficolt\u00e0 di salute"", ""Natura"": ""solidale"", ""Posizione"": ""43.779073 11.273582 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Consegne e commissioni della Misericordia Campo di Marte #Firenze""}","<pre><yamldata>
 Da_chi_offerta: Misericordia Campo di Marte Firenze
 Descrizione: 'La Misericordia del Campo di Marte a Firenze vista l''emergenza COVID-19
