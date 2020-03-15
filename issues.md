@@ -9,6 +9,7 @@ categorieissue:
  - Iniziative culturali e ricreative;Attivita culturali e ricreative
  - Consegne e commissioni;Consegne e commissioni
  - Supporto psicologico;Supporto psicologico
+ - Sostegno lavoro e imprese;Sostegno lavoro e imprese
 categorieMapAll: true
 ---
 
