@@ -29,6 +29,6 @@
   link: richiesta/
 - name: FAKE NEWS
   logo-alt: le fake news
-  logo: /img/icone/bufala-tci1.png              #       SERVE ICONA NUOVA??
+  logo: /img/icone/bufala-tci-1.png              #       SERVE ICONA NUOVA??
   map: false
   link: fake-news/
