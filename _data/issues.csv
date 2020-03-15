@@ -1,4 +1,14 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/563,581712838,2020-03-15 15:37:57,2020-03-15 15:15:08,"Coronavirus, vocabolario breve dell’epidemia realizzato da #Iss e #Treccani",,,"[""Bollettino"", ""Informazioni utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Coronavirus, vocabolario breve dell\u2019epidemia realizzato da Iss e Treccani"", ""Descrizione"": ""Le parole del coronavirus. Istituto superiore di sanit\u00e0 e Treccani hanno realizzato, nell\u2019ambito del progetto #leparolevalgono, un vocabolario breve dell\u2019epidemia. Uno strumento utile per docenti e studenti che oggi si servono delle piattaforme online. 10 parole importanti per comprendere l'emergenza sanitaria derivante dalla diffusione della Covid-19."", ""Fonte"": ""Istituto superiore di sanit\u00e0"", ""Link"": ""https://www.iss.it/primo-piano/-/asset_publisher/o4oGR9qmvUz9/content/id/5297029""}","<pre><yamldata>
+Cosa: Coronavirus, vocabolario breve dell’epidemia realizzato da Iss e Treccani
+Descrizione: 'Le parole del coronavirus. Istituto superiore di sanità e Treccani hanno
+  realizzato, nell’ambito del progetto #leparolevalgono, un vocabolario breve dell’epidemia.
+  Uno strumento utile per docenti e studenti che oggi si servono delle piattaforme
+  online. 10 parole importanti per comprendere l''emergenza sanitaria derivante dalla
+  diffusione della Covid-19.'
+Fonte: Istituto superiore di sanità
+Link: https://www.iss.it/primo-piano/-/asset_publisher/o4oGR9qmvUz9/content/id/5297029
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/562,581709025,2020-03-15 15:06:20,2020-03-15 15:04:24,Novità per i farmaci con ricetta #Firenze,43.773,11.253262,"[""Bollettino"", ""Notizie"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Cosa"": ""Novit\u00e0 per i farmaci con ricetta #Firenze"", ""Descrizione"": ""Il Sistema Sanitario della Regione Toscana si sta attrezzando per ridurre al minimo i contatti tra pazienti ed evitare code negli ambulatori.\nPer la prescrizione dei farmaci non servir\u00e0 andare allo studio medico ma sar\u00e0 sufficiente il numero di ricetta elettronica (NRE), che verr\u00e0 comunicato dal proprio medico tramite sms sul cellulare del paziente, da esibire in farmacia insieme alla tessera sanitaria."", ""Link"": ""https://www.facebook.com/cittadifirenzeufficiale/photos/a.318005551543893/3200191179991968/?type=3&theater&ifg=1"", ""Posizione"": ""43.773 11.253262 0 0""}","<pre><yamldata>
 Cosa: 'Novità per i farmaci con ricetta #Firenze'
 Descrizione: 'Il Sistema Sanitario della Regione Toscana si sta attrezzando per ridurre
