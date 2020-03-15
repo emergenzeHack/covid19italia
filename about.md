@@ -3,13 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-<div class="text-center">
-	<a href="#il-progetto" class="btn btn-primary btn-lg" role="button">Il Progetto</a>
-	<a href="#credits" class="btn btn-primary btn-lg" role="button">Credits</a>
-	<a href="#contatti" class="btn btn-primary btn-lg" role="button">Contatti</a>
-</div>
-
+  
 ### Il Progetto
 
 **covid19italia.help** è un progetto no profit, organizzato e diretto interamente da volontari e volontarie. È nato per condividere informazioni utili e verificate sull'evento di Coronavirus diffusosi in Italia nel 2020.
