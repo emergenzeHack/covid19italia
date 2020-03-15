@@ -1,4 +1,21 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/564,581717398,2020-03-15 15:39:43,2020-03-15 15:28:23,"Servizio telefonico di ascolto, consulenza e orientamento donne in gravidanza e puerpere ASST #Monza",45.602689,9.260702,"[""Bollettino"", ""Donne"", ""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""ASST Monza Regione Lombardia"", ""Descrizione"": ""Ad integrazione delle attivit\u00e0 del Percorso Nascita dal 16 marzo 2020, vista l\u2019emergenza epidemiologica in corso, le Ostetriche dei Consultori Familiari offrono un Servizio telefonico di ascolto, consulenza e orientamento (con possibilit\u00e0 di attivare consultazioni anche psicologiche e sociali ove necessarie) rivolto alle donne in gravidanza ed alle puerpere al numero 039 2335101 il luned\u00ec, il  mercoled\u00ec e il venerd\u00ec dalle ore 13.30 alle ore 15.30."", ""Destinatari"": ""Donne in gravidanza ed alle puerpere"", ""Link"": ""https://www.asst-monza.it/en/famiglia-maternita-e-infanzia?fbclid=IwAR0uXcR0_Hry_OD2HTeIiZbU0f_B1t0b4cf_L-oKLhnNKJNxxOH70NqXFa8"", ""Natura"": ""solidale"", ""Posizione"": ""45.602689 9.260702 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""offrono un Servizio telefonico di ascolto, consulenza e orientamento (con possibilit\u00e0 di attivare consultazioni anche psicologiche e sociali ove necessarie) rivolto alle donne in gravidanza ed alle puerpere ASST Monza""}","<pre><yamldata>
+Da_chi_offerta: ASST Monza Regione Lombardia
+Descrizione: Ad integrazione delle attività del Percorso Nascita dal 16 marzo 2020,
+  vista l’emergenza epidemiologica in corso, le Ostetriche dei Consultori Familiari
+  offrono un Servizio telefonico di ascolto, consulenza e orientamento (con possibilità
+  di attivare consultazioni anche psicologiche e sociali ove necessarie) rivolto alle
+  donne in gravidanza ed alle puerpere al numero 039 2335101 il lunedì, il  mercoledì
+  e il venerdì dalle ore 13.30 alle ore 15.30.
+Destinatari: Donne in gravidanza ed alle puerpere
+Link: https://www.asst-monza.it/en/famiglia-maternita-e-infanzia?fbclid=IwAR0uXcR0_Hry_OD2HTeIiZbU0f_B1t0b4cf_L-oKLhnNKJNxxOH70NqXFa8
+Natura: solidale
+Posizione: 45.602689 9.260702 0 0
+Tipo_di_soggetto: pubblico
+Titolo: offrono un Servizio telefonico di ascolto, consulenza e orientamento (con
+  possibilità di attivare consultazioni anche psicologiche e sociali ove necessarie)
+  rivolto alle donne in gravidanza ed alle puerpere ASST Monza
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/563,581712838,2020-03-15 15:37:57,2020-03-15 15:15:08,"Coronavirus, vocabolario breve dell’epidemia realizzato da #Iss e #Treccani",,,"[""Bollettino"", ""Informazioni utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Coronavirus, vocabolario breve dell\u2019epidemia realizzato da Iss e Treccani"", ""Descrizione"": ""Le parole del coronavirus. Istituto superiore di sanit\u00e0 e Treccani hanno realizzato, nell\u2019ambito del progetto #leparolevalgono, un vocabolario breve dell\u2019epidemia. Uno strumento utile per docenti e studenti che oggi si servono delle piattaforme online. 10 parole importanti per comprendere l'emergenza sanitaria derivante dalla diffusione della Covid-19."", ""Fonte"": ""Istituto superiore di sanit\u00e0"", ""Link"": ""https://www.iss.it/primo-piano/-/asset_publisher/o4oGR9qmvUz9/content/id/5297029""}","<pre><yamldata>
 Cosa: Coronavirus, vocabolario breve dell’epidemia realizzato da Iss e Treccani
 Descrizione: 'Le parole del coronavirus. Istituto superiore di sanità e Treccani hanno
