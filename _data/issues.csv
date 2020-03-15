@@ -1,4 +1,24 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/521,581420388,2020-03-15 00:02:10,2020-03-14 23:37:52,"Comune di #Firenze, nuovo servizio di consegna gratuita di farmaci e spesa per over 65 e immunodepressi",43.771295,11.250593,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Firenze"", ""Descrizione"": ""Sar\u00e0 dedicato agli over 65 e alle persone immunodepresse e con patologie il nuovo servizio di consegna gratuita a domicilio di farmaci, alimenti e beni di prima necessit\u00e0. L\u2019iniziativa \u00e8 rivolta ai cittadini residenti a Firenze che non sono in regime di isolamento fiduciario o quarantena. Il servizio di ricezione delle telefonate sar\u00e0 attivo dalle 8 alle 16.30 dal luned\u00ec al venerd\u00ec, festivi e prefestivi esclusi. Chi \u00e8 interessato potr\u00e0 chiamare il call center istituito dal Comune per dare informazioni e supporto agli anziani, allo 0553282200. \nPotranno beneficiare del nuovo servizio gli over 65 e le persone affette da patologie croniche, ovvero con stati di immunodepressione congenita o acquisita e coloro che non hanno una rete parentale nel raggio di 10 chilometri."", ""Destinatari"": ""Over 65, immunodepressi"", ""Link"": ""https://www.comune.fi.it/comunicati-stampa/coronavirus-da-lunedi-nuovo-servizio-di-consegna-domiciliare-gratuita-di-farmaci"", ""Natura"": ""solidale"", ""Posizione"": ""43.771295 11.250593 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Comune di Firenze, nuovo servizio di consegna domiciliare gratuita di farmaci e spesa per over 65 e immunodepressi""}","<pre><yamldata>
+Da_chi_offerta: Comune di Firenze
+Descrizione: ""Sarà dedicato agli over 65 e alle persone immunodepresse e con patologie\
+  \ il nuovo servizio di consegna gratuita a domicilio di farmaci, alimenti e beni\
+  \ di prima necessità. L’iniziativa è rivolta ai cittadini residenti a Firenze che\
+  \ non sono in regime di isolamento fiduciario o quarantena. Il servizio di ricezione\
+  \ delle telefonate sarà attivo dalle 8 alle 16.30 dal lunedì al venerdì, festivi\
+  \ e prefestivi esclusi. Chi è interessato potrà chiamare il call center istituito\
+  \ dal Comune per dare informazioni e supporto agli anziani, allo 0553282200. \n\
+  Potranno beneficiare del nuovo servizio gli over 65 e le persone affette da patologie\
+  \ croniche, ovvero con stati di immunodepressione congenita o acquisita e coloro\
+  \ che non hanno una rete parentale nel raggio di 10 chilometri.""
+Destinatari: Over 65, immunodepressi
+Link: https://www.comune.fi.it/comunicati-stampa/coronavirus-da-lunedi-nuovo-servizio-di-consegna-domiciliare-gratuita-di-farmaci
+Natura: solidale
+Posizione: 43.771295 11.250593 0 0
+Tipo_di_soggetto: pubblico
+Titolo: Comune di Firenze, nuovo servizio di consegna domiciliare gratuita di farmaci
+  e spesa per over 65 e immunodepressi
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/519,581402745,2020-03-14 23:03:50,2020-03-14 22:41:16,Spesa a casa a #ReggioCalabria,38.113247,15.649141,"[""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Croce Rossa Italiana Reggio Calabria"", ""Descrizione"": ""La Croce Rossa a Reggio Calabria attiva un numero per dare ulteriore assistenza alle persone sole e in difficolt\u00e0. \nNessuno verr\u00e0 lasciato solo, basta chiamare il numero verde 800 065510."", ""Destinatari"": ""Anziani"", ""Link"": ""https://www.ilreggino.it/featured/2020/03/14/coronavirus-a-reggio-calabria-gli-angeli-in-rosso-della-cri-sempre-in-prima-linea/"", ""Natura"": ""solidale"", ""Posizione"": ""38.113247 15.649141 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Spesa a casa""}","<pre><yamldata>
 Da_chi_offerta: Croce Rossa Italiana Reggio Calabria
 Descrizione: ""La Croce Rossa a Reggio Calabria attiva un numero per dare ulteriore\
