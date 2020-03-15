@@ -1,4 +1,17 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/559,581700937,2020-03-15 14:43:04,2020-03-15 14:42:02,Consegne e commissioni della Misericordia Campo di Marte #Firenze,43.779073,11.273582,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Misericordia Campo di Marte Firenze"", ""Descrizione"": ""La Misericordia del Campo di Marte a Firenze vista l'emergenza COVID-19 organizza un servizio di aiuto domiciliare di consegna spesa, ritiro ricette, medicinali o altri servizi simili.\nTelefonare al numero: 3357263322"", ""Destinatari"": ""Persone anziane o in difficolt\u00e0 di salute"", ""Natura"": ""solidale"", ""Posizione"": ""43.779073 11.273582 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Consegne e commissioni della Misericordia Campo di Marte #Firenze""}","<pre><yamldata>
+Da_chi_offerta: Misericordia Campo di Marte Firenze
+Descrizione: 'La Misericordia del Campo di Marte a Firenze vista l''emergenza COVID-19
+  organizza un servizio di aiuto domiciliare di consegna spesa, ritiro ricette, medicinali
+  o altri servizi simili.
+
+  Telefonare al numero: 3357263322'
+Destinatari: Persone anziane o in difficoltà di salute
+Natura: solidale
+Posizione: 43.779073 11.273582 0 0
+Tipo_di_soggetto: privato
+Titolo: 'Consegne e commissioni della Misericordia Campo di Marte #Firenze'
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/554,581679142,2020-03-15 14:30:35,2020-03-15 13:40:38,AIPEC fornisce supporto web alle imprese,,,"[""Sostegno lavoro e imprese"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""AIPEC - Associazione Italiana Imprenditori per un Economia di Comunione"", ""Descrizione"": ""-Formare il personale della vostra impresa per potenziare la possibilit\u00e0 di collegarvi online con\nclienti, fornitori, dipendenti e collaboratori.\n-Fornire direttamente assistenza alla vostra organizzazione per spostare online i vostri corsi e le\nvostre formazioni, cos\u00ec da non doverli sospendere totalmente\n-Studiare insieme nuovi format da poter mettere online per le prossime settimane e mesi,\nsecondo la vocazione della vostra organizzazione e i vostri contenuti."", ""Destinatari"": ""imprenditori"", ""Link"": ""www.aipec.it"", ""Natura"": ""sostegno-lavor"", ""Titolo"": ""Supporto web alle imprese""}","<pre><yamldata>
 Da_chi_offerta: AIPEC - Associazione Italiana Imprenditori per un Economia di Comunione
 Descrizione: '-Formare il personale della vostra impresa per potenziare la possibilità
