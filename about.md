@@ -42,7 +42,7 @@ Matteo Fortini, Matteo Tempestini, Antonio Vivace, Vincenzo Tilotta, Maurizio De
 
 - [Email](mailto:covid19ita@gmail.com)
 - [Twitter](https://twitter.com/ItaliaCovid19)
-- [Instagram](https://www.instagram.com/covid19italia.info/)
+- [Instagram](https://www.instagram.com/covid19italia.help/)
 - [Pagina Facebook](https://www.facebook.com/covid19italia.help/)
 - [Gruppo Facebook](https://www.facebook.com/groups/2921275147894653/)
 - [Gruppo Telegram ](https://t.me/COVID19I)
