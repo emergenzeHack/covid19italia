@@ -27,8 +27,8 @@
   logo: /img/icone/alloggi2-tci.png              #       SERVE ICONA NUOVA??
   map: false
   link: richiesta/
-- name: TUTTE LE SEGNALAZIONI
-  logo-alt: Archivio di tutte le segnalazioni.
-  logo: /img/icone/05-segnalazioni.png
+- name: FAKE NEWS
+  logo-alt: le fake news
+  logo: /img/icone/bufala-tci1.png              #       SERVE ICONA NUOVA??
   map: false
-  link: issues/
+  link: fake-news/
