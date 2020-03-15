@@ -1,6 +1,6 @@
 ---
 layout: issuelist
-title: Segnalazioni
+title: Iniziative Solidali
 permalink: /issues/
 categorieissue:
  - Raccolte fondi;Raccolte fondi

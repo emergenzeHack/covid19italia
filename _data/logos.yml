@@ -11,7 +11,7 @@
   logo-alt: Elenco delle iniziative solidali.
   logo: /img/icone/tci-solidali.png
   map: false
-  link: issues/#servizi-e-iniziative-solidali
+  link: issues/
 - name: RACCOLTE FONDI
   logo-alt: raccolte fondi
   logo: /img/icone/01-fabbisogni.png
@@ -27,18 +27,8 @@
   logo: /img/icone/alloggi2-tci.png              #       SERVE ICONA NUOVA??
   map: false
   link: richiesta/
-#- name: NOTIZIE
-#  logo-alt: Notizie e informazioni utili.
-#  logo: /img/icone/news2-tci.png
-#  map: false
-#  link: issues/#notizie
 - name: TUTTE LE SEGNALAZIONI
   logo-alt: Archivio di tutte le segnalazioni.
   logo: /img/icone/05-segnalazioni.png
   map: false
   link: issues/
-
-  #- name: FAKE NEWS
-  #  logo: /img/icone/bufala-tci-1.png
-  #  map: false
-  #  link: fake_news
