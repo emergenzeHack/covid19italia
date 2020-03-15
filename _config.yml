@@ -27,7 +27,8 @@ navbar-links:
   Segnala: "segnala/"
   Aggiornamenti:
      - News: "news/"
-     - Fake News: "fake-news/"
+     - Blog : "post/"
+     #- Fake News: "fake-news/"
   # Link Utili:
   #   - Iniziative solidali: "servizi_e_iniziative_solidali/"
   #   - Opendata: "opendata/"
@@ -35,7 +36,6 @@ navbar-links:
    - About: "about/"
    - Press: "press/"
    - Canali di Comunicazione: "canali/"
-   - Blog : "post/"
    - Opendata: "opendata/"
   Partecipa!:
    - Aderisci al gruppo Telegram: 'https://t.me/COVID19I" target="_blank'
