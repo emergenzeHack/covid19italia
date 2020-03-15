@@ -1,4 +1,22 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/592,581844054,2020-03-15 22:06:59,2020-03-15 22:05:31,Comune di Bologna - Agenda Culturale in streaming #Bologna,44.495654,11.34359,"[""Attivita culturali e ricreative"", ""Bollettino"", ""Informazioni utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Comune di Bologna - Agenda Culturale #Bologna"", ""Descrizione"": ""attivit\u00e0 di streaming per concerti, letture, attivit\u00e0 didattiche, spettacoli teatrali e mostre nei musei"", ""Link"": ""http://agenda.comune.bologna.it/cultura/"", ""Posizione"": ""44.495654 11.34359 0 0""}","<pre><yamldata>
+Cosa: 'Comune di Bologna - Agenda Culturale #Bologna'
+Descrizione: attività di streaming per concerti, letture, attività didattiche, spettacoli
+  teatrali e mostre nei musei
+Link: http://agenda.comune.bologna.it/cultura/
+Posizione: 44.495654 11.34359 0 0
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/591,581843469,2020-03-15 22:07:49,2020-03-15 22:03:29,Ingrazione del Centro Operativo Comunale (C.O.C.)  #Reggio Calabria,38.102022,15.63945,"[""Notizia"", ""accettato"", ""form""]",,,"{""Cosa"": ""Ingrazione del C.O.C. - Centro Operativo Comunale"", ""Descrizione"": ""Integrazione Centro Operativo Comunale (C.O.C) a cura della Protezione Civile comunale, con le funzioni di supporto al volontariato, materiali, mezzi e risorse umane.\n\nhttp://www.reggiocal.it/online/Home/PrimoPiano/articolo110712.html"", ""Link"": ""http://www.reggiocal.it/on-line/Home/PrimoPiano/articolo110712.html"", ""Posizione"": ""38.102022 15.63945 0 0""}","<pre><yamldata>
+Cosa: Ingrazione del C.O.C. - Centro Operativo Comunale
+Descrizione: 'Integrazione Centro Operativo Comunale (C.O.C) a cura della Protezione
+  Civile comunale, con le funzioni di supporto al volontariato, materiali, mezzi e
+  risorse umane.
+
+
+  http://www.reggiocal.it/online/Home/PrimoPiano/articolo110712.html'
+Link: http://www.reggiocal.it/on-line/Home/PrimoPiano/articolo110712.html
+Posizione: 38.102022 15.63945 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/589,581840570,2020-03-15 21:55:10,2020-03-15 21:53:51,Comune di Firenze - linea telefonica e equipe SDS per over 65 #Firenze,43.769585,11.262162,"[""Bollettino"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Firenze"", ""Descrizione"": ""una linea telefonica, una sorta di call center, attraverso la quale i nonni potranno avere compagnia e informazioni. Il nuovo servizio sar\u00e0 attivo a partire dalle 14.30 e per usufruirne baster\u00e0 comporre il numero 0553282200, attivo dalle 8 alle 16.30 dal luned\u00ec al venerd\u00ec.\nA disposizione degli anziani ci saranno degli operatori, che avranno una duplice funzione: passiva, ovvero di ascolto degli anziani e di successiva segnalazione delle loro esigenze ai Servizi sociali del Comune; e attiva, ovvero di sorveglianza sanitaria per monitorare gli anziani fragili segnalati dai Servizi sociali dell'amministrazione per prevenire eventuali successivi interventi e ricoveri.\nDa gioved\u00ec pomeriggio poi sar\u00e0 operativa un\u2019equipe multiprofessionale della Societ\u00e0 della Salute di Firenze ad alta integrazione socio sanitaria, composta da un assistente sociale, un infermiere e un medico.\nL\u2019\u00e9quipe risponder\u00e0 al numero 055/2616277 nei giorni di luned\u00ec, mercoled\u00ec e venerd\u00ec dalle 10 alle 12 e il marted\u00ec e il gioved\u00ec dalle 14.30 alle 16.30 e fornir\u00e0 risposte alle richieste di informazioni sui percorsi della non autosufficienza e sui percorsi disabilit\u00e0. Chi chiamer\u00e0 sar\u00e0 ascoltato, orientato e informato. L'\u00e9quipe sar\u00e0 in collegamento anche con i Servizi territoriali: ospedale, segretariato sociale e medici di famiglia."", ""Destinatari"": ""over - 65"", ""Link"": ""https://www.comune.fi.it/comunicati-stampa/coronavirus-due-nuovi-servizi-gli-anziani-da-domani-linea-telefonica-dedicata-e?language_content_entity=it"", ""Natura"": ""solidale"", ""Posizione"": ""43.769585 11.262162 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Linea telefonica per over-65 e attivazione equipe SDS #Firenze""}","<pre><yamldata>
 Da_chi_offerta: Comune di Firenze
 Descrizione: 'una linea telefonica, una sorta di call center, attraverso la quale
