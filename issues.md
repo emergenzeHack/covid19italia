@@ -71,7 +71,7 @@ permalink: /issues/
 </div>
 {% endfor %}
 
-{% assign filteredissues = site.data.issuesjson | where: "state","open" "%}
+{% assign filteredissues = site.data.issuesjson | where: "state","open" %}
 
 <script>
 var markerList=[];
