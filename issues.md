@@ -4,7 +4,7 @@ title: Iniziative Solidali
 permalink: /issues/
 categorieissue:
  - Raccolte fondi;Raccolte fondi
- - Bambini;Bambini
+ - Giochi/intrattenimento bambini;Giochi/intrattenimento bambini
  - Servizi e iniziative solidali;Servizi e iniziative solidali
  - Iniziative culturali e ricreative;Attivita culturali e ricreative
  - Consegne e commissioni;Consegne e commissioni

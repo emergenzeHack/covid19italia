@@ -1,6 +1,6 @@
 ---
 layout: issuelist
 title: Iniziative per bambini
-permalink: /bambini/
-categorieissue: Bambini;Bambini
+permalink: /giochi-intrattenimento-bambini/
+categorieissue: Giochi/intrattenimento bambini;Giochi/intrattenimento bambini
 ---
