@@ -1,4 +1,28 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/539,581629714,2020-03-15 11:16:43,2020-03-15 11:15:57,Consegne e commissioni gratuite Comune di #CoriglianoRossano #Cosenza,39.575544,16.633683,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Corigliano-Rossano (CS)"", ""Descrizione"": ""Chiunque avesse necessit\u00e0 di fare la spesa alimentare pu\u00f2 contattare il numero di telefono 349.7493109 e verr\u00e0 messo in contatto con il referente delle Croce Rossa della propria zona che si occuper\u00e0, quindi, di fare la spesa."", ""Destinatari"": ""Persone con disabilit\u00e0, anziane, ammalte, in accertato stato di bisogno"", ""Natura"": ""solidale"", ""Posizione"": ""39.575544 16.633683 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Consegne e commissioni gratuite Comune di Corigliano-Rossano #Cosenza""}","<pre><yamldata>
+Da_chi_offerta: Comune di Corigliano-Rossano (CS)
+Descrizione: Chiunque avesse necessità di fare la spesa alimentare può contattare
+  il numero di telefono 349.7493109 e verrà messo in contatto con il referente delle
+  Croce Rossa della propria zona che si occuperà, quindi, di fare la spesa.
+Destinatari: Persone con disabilità, anziane, ammalte, in accertato stato di bisogno
+Natura: solidale
+Posizione: 39.575544 16.633683 0 0
+Tipo_di_soggetto: pubblico
+Titolo: 'Consegne e commissioni gratuite Comune di Corigliano-Rossano #Cosenza'
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/538,581628474,2020-03-15 11:12:36,2020-03-15 11:12:12,Supporto psicologico telefonico Comune di #CoriglianoRossano #Cosenza,39.592726,16.633907,"[""Bollettino"", ""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Corigliano-Rossano (CS)"", ""Descrizione"": ""Da luned\u00ec 16 via a sportello supporto psicologico telefonico.\nDal luned\u00ec al venerd\u00ec dalle ore 10 alle ore 18.\nNumero amico: 0983356482"", ""Destinatari"": ""Cittadine e cittadini del Comune di Corigliano-Rossano"", ""Natura"": ""solidale"", ""Posizione"": ""39.592726 16.633907 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Supporto psicologico telefonico Comune di #CoriglianoRossano #Cosenza""}","<pre><yamldata>
+Da_chi_offerta: Comune di Corigliano-Rossano (CS)
+Descrizione: 'Da lunedì 16 via a sportello supporto psicologico telefonico.
+
+  Dal lunedì al venerdì dalle ore 10 alle ore 18.
+
+  Numero amico: 0983356482'
+Destinatari: Cittadine e cittadini del Comune di Corigliano-Rossano
+Natura: solidale
+Posizione: 39.592726 16.633907 0 0
+Tipo_di_soggetto: pubblico
+Titolo: 'Supporto psicologico telefonico Comune di #CoriglianoRossano #Cosenza'
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/531,581581876,2020-03-15 10:08:27,2020-03-15 08:32:18,Science Web Festival online dal 14/3/2020 al 23/3/2020,41.806369,12.680374,"[""Attivita culturali e ricreative"", ""Didattica a distanza e-learning"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Frascati Scienza"", ""Descrizione"": ""Si tratta di un grande festival scientifico, della durata di 10 giorni, con un programma fitto di eventi in video, tutti rigorosamente online, ospitati dalle piattaforme social (Facebook, Instagram e YouTube) del festival. L\u2019intento \u00e8 quello di portare sollievo alle migliaia di studenti e studentesse lontani dai banchi di scuola, ma non solo: gli eventi sono pensati per tutta la famiglia, dai pi\u00f9 piccini fino agli adulti."", ""Destinatari"": ""Tutti, in particolare studenti"", ""Link"": ""https://www.frascatiscienza.it/eventlist/?evs=2790"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""41.806369 12.680374"", ""Titolo"": ""Science Web Festival""}","<pre><yamldata>
 Da_chi_offerta: Frascati Scienza
 Descrizione: 'Si tratta di un grande festival scientifico, della durata di 10 giorni,
