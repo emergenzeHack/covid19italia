@@ -10,6 +10,7 @@ categorieissue:
  - Consegne e commissioni;Consegne e commissioni
  - Supporto psicologico;Supporto psicologico
  - Sostegno lavoro e imprese;Sostegno lavoro e imprese
+ - Donazioni beni/strumenti;Donazioni beni/strumenti
 categorieMapAll: true
 ---
 
