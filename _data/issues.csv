@@ -1,4 +1,17 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/571,581739204,2020-03-15 16:33:50,2020-03-15 16:32:59,Supporto psicologico - numero verde Ordine degli Psicologi della #Sardegna,39.224158,9.119704,"[""Bollettino"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Ordine degli Psicologi della Sardegna"", ""Descrizione"": ""Da luned\u00ec 9 marzo 2020 il numero verde 800197500 e il numero 3791663230 del servizio \""Filo diretto psicologico Coronavirus COVID-19\"" sar\u00e0 attivo tutti i giorni dalle 15:00 alle 19:00."", ""Destinatari"": ""Tutte e tutti"", ""Link"": ""https://psicosardegna.it/news/filo_diretto_psicologico_coronavirus--593.html?fbclid=IwAR0IfhX15jcro7b7sLAFcioAcfSSOniuL0VE2E2kpYpMVyLDno9KHL2cgkA"", ""Natura"": ""solidale"", ""Posizione"": ""39.224158 9.119704 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Supporto psicologico - numero verde messo a disposizione dall'Ordine degli Psicologi della #Sardegna""}","<pre><yamldata>
+Da_chi_offerta: Ordine degli Psicologi della Sardegna
+Descrizione: Da lunedì 9 marzo 2020 il numero verde 800197500 e il numero 3791663230
+  del servizio ""Filo diretto psicologico Coronavirus COVID-19"" sarà attivo tutti i
+  giorni dalle 15:00 alle 19:00.
+Destinatari: Tutte e tutti
+Link: https://psicosardegna.it/news/filo_diretto_psicologico_coronavirus--593.html?fbclid=IwAR0IfhX15jcro7b7sLAFcioAcfSSOniuL0VE2E2kpYpMVyLDno9KHL2cgkA
+Natura: solidale
+Posizione: 39.224158 9.119704 0 0
+Tipo_di_soggetto: privato
+Titolo: 'Supporto psicologico - numero verde messo a disposizione dall''Ordine degli
+  Psicologi della #Sardegna'
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/569,581734747,2020-03-15 16:23:25,2020-03-15 16:20:04,Servizio telefonico di ascolto e supporto psicologico di Psicologi per i Popoli #Lazio,41.907499,12.490618,"[""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Psicologi per i Popoli - Lazio"", ""Descrizione"": ""A causa dell'aggravarsi della situazione abbiamo attivato un servizio telefonico GRATUITO di ascolto e supporto PSICOLOGICO rivolto a tutti coloro che a causa del loro attuale disagio emotivo necessitano di un sostegno per meglio gestire INCERTEZZE e PAURE. \nIl servizio sar\u00e0 attivo al n. 351 784 1411 nei giorni di Marted\u00ec, Mercoled\u00ec e Gioved\u00ec dalle ore 10,00 alle 12,00 e dalle 15,00 alle 17,00."", ""Destinatari"": ""Tutte e tutti residenti nel Lazio"", ""Link"": ""https://www.facebook.com/PsicologiPerIPopoliLazio/photos/a.829539027098445/2983770008341992/?type=3&theater&ifg=1"", ""Natura"": ""solidale"", ""Posizione"": ""41.907499 12.490618 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Servizio telefonico di ascolto e supporto psicologico di Psicologi per i Popoli #Lazio""}","<pre><yamldata>
 Da_chi_offerta: Psicologi per i Popoli - Lazio
 Descrizione: ""A causa dell'aggravarsi della situazione abbiamo attivato un servizio\
