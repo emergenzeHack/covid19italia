@@ -1,4 +1,29 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/595,581850517,2020-03-15 22:31:32,2020-03-15 22:27:35,Raccolta Fondi per Protezione Civile #Emilia Romagna,,,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""BIC_SWIFT"": ""UNCRITM1BA2"", ""Causale"": ""Insieme si pu\u00f2 Emilia-Romagna contro il Coronavirus"", ""Descrizione"": ""Tanti hanno chiesto di poter fare donazioni. Per questo, la Regione ha deciso di dare la possibilit\u00e0 a chiunque voglia farlo di dare un contributo per la gestione dell\u2019emergenza sanitaria legata al Coronavirus, versando sul conto corrente della Protezione civile regionale dell\u2019Emilia-Romagna"", ""IBAN"": ""IT69G0200802435000104428964"", ""Indirizzo"": ""41.89277044 12.48366723"", ""Intestazione"": ""Protezione Civile regionale"", ""Link"": ""http://www.regione.emilia-romagna.it/coronavirus/donazioni"", ""Nome"": ""Protezione Civile Emilia Romagna""}","<pre><yamldata>
+BIC_SWIFT: UNCRITM1BA2
+Causale: Insieme si può Emilia-Romagna contro il Coronavirus
+Descrizione: Tanti hanno chiesto di poter fare donazioni. Per questo, la Regione ha
+  deciso di dare la possibilità a chiunque voglia farlo di dare un contributo per
+  la gestione dell’emergenza sanitaria legata al Coronavirus, versando sul conto corrente
+  della Protezione civile regionale dell’Emilia-Romagna
+IBAN: IT69G0200802435000104428964
+Indirizzo: 41.89277044 12.48366723
+Intestazione: Protezione Civile regionale
+Link: http://www.regione.emilia-romagna.it/coronavirus/donazioni
+Nome: Protezione Civile Emilia Romagna
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/594,581849766,2020-03-15 22:32:28,2020-03-15 22:25:12,Raccolta Fondi per Ospedale Metropolitano #Reggio Calabria per acquisto ventilatori polmonari,38.113821,15.65995,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""\u00c8 stata istituita una raccolta fondi per l'acquisto di ventilatori polmonari e per aumentare i posti in terapia intensiva"", ""Link"": ""https://www.gofundme.com/f/terapia-intensiva-ospedale-reggio-calabria?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet"", ""Nome"": ""Grande Ospedale Metropolitano #Reggio Calabria"", ""Posizione"": ""38.113821 15.65995 0 0""}","<pre><yamldata>
+Descrizione: È stata istituita una raccolta fondi per l'acquisto di ventilatori polmonari
+  e per aumentare i posti in terapia intensiva
+Link: https://www.gofundme.com/f/terapia-intensiva-ospedale-reggio-calabria?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet
+Nome: 'Grande Ospedale Metropolitano #Reggio Calabria'
+Posizione: 38.113821 15.65995 0 0
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/593,581845452,2020-03-15 22:33:18,2020-03-15 22:10:24,Raccolte fondi,41.857996,12.631404,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Link"": ""https://www.gofundme.com/f/tor-vergata-per-l039emergenza-coronavirus"", ""Nome"": ""Policlinico Tor vergata"", ""Posizione"": ""41.857996 12.631404 0 0""}","<pre><yamldata>
+Link: https://www.gofundme.com/f/tor-vergata-per-l039emergenza-coronavirus
+Nome: Policlinico Tor vergata
+Posizione: 41.857996 12.631404 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/592,581844054,2020-03-15 22:06:59,2020-03-15 22:05:31,Comune di Bologna - Agenda Culturale in streaming #Bologna,44.495654,11.34359,"[""Attivita culturali e ricreative"", ""Bollettino"", ""Informazioni utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Comune di Bologna - Agenda Culturale #Bologna"", ""Descrizione"": ""attivit\u00e0 di streaming per concerti, letture, attivit\u00e0 didattiche, spettacoli teatrali e mostre nei musei"", ""Link"": ""http://agenda.comune.bologna.it/cultura/"", ""Posizione"": ""44.495654 11.34359 0 0""}","<pre><yamldata>
 Cosa: 'Comune di Bologna - Agenda Culturale #Bologna'
 Descrizione: attività di streaming per concerti, letture, attività didattiche, spettacoli
