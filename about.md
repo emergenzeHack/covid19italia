@@ -8,7 +8,6 @@ permalink: /about/
 	<a href="#il-progetto" class="btn btn-primary btn-lg" role="button">Il Progetto</a>
 	<a href="#credits" class="btn btn-primary btn-lg" role="button">Credits</a>
 	<a href="#contatti" class="btn btn-primary btn-lg" role="button">Contatti</a>
-	<a href="#press" class="btn btn-primary btn-lg" role="button">Press</a>
 </div>
 
 ### Il Progetto
@@ -70,9 +69,3 @@ Matteo Fortini, Matteo Tempestini, Antonio Vivace, Vincenzo Tilotta, Maurizio De
 - [Kobotoolbox](https://www.kobotoolbox.org/)
 - [TerremotoCentroItalia](http://www.terremotocentroitalia.info)
 
-### Press
-
-|Data         | Dove    | Titolo |
-|:------------|:--------|:------|
-|{% for member in site.data.press %}{{member.data}} | {{member.fonte}} | [{{member.titolo}}]({{member.link}})|
-{% endfor %}
