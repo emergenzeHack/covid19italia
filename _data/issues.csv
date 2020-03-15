@@ -52,6 +52,16 @@ Tipo_di_soggetto: privato
 Titolo: Consegne gratuite frutta e verdura
 Posizione: 45.48606 9.79765
 </yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/527,581442743,2020-03-15 11:24:20,2020-03-15 00:52:29,"Coronavirus, indicazioni per i familiari e per gli operatori sanitari su come assistere a casa i paz",,,"[""Bollettino"", ""Informazioni utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Coronavirus, indicazioni per i familiari e per gli operatori sanitari su come assistere a casa i pazienti"", ""Descrizione"": ""La finalit\u00e0 di questa guida \u00e8 duplice: fornire indicazioni chiare per gli operatori sanitari e per chi si prende cura di malati di COVID-19 e allo stesso tempo evitare casi secondari dovuti a trasmissione del virus."", ""Fonte"": ""Istituto Superiore di Sanit\u00e0"", ""Indirizzo"": ""45.37791048 9.21145887"", ""Link"": ""http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioNotizieNuovoCoronavirus.jsp?lingua=italiano&menu=notizie&p=dalministero&id=4190""}","<pre><yamldata>
+Cosa: Coronavirus, indicazioni per i familiari e per gli operatori sanitari su come
+  assistere a casa i pazienti
+Descrizione: 'La finalità di questa guida è duplice: fornire indicazioni chiare per
+  gli operatori sanitari e per chi si prende cura di malati di COVID-19 e allo stesso
+  tempo evitare casi secondari dovuti a trasmissione del virus.'
+Fonte: Istituto Superiore di Sanità
+Indirizzo: 45.37791048 9.21145887
+Link: http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioNotizieNuovoCoronavirus.jsp?lingua=italiano&menu=notizie&p=dalministero&id=4190
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/526,581439651,2020-03-15 00:42:38,2020-03-15 00:42:07,ASL #Alessandria attiva linea telefonica per supporto psicologico,44.907031,8.6101,"[""Bollettino"", ""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Cosa"": ""Asl Alessandria attiva linea telefonica per supporto psicologico"", ""Descrizione"": ""L'ASL AL ha attivato una linea telefonica che risponde al numero 0131 30 63 38 per fornire supporto psicologico a chi necessiti di essere ascoltato ed aiutato ad affrontare le problematicit\u00e0 emotive e relazionali proprie dell\u2019emergenza nazionale COVID19.\nLa linea \u00e8 attiva dal luned\u00ec al venerd\u00ec con i seguenti orari: luned\u00ec, marted\u00ec e gioved\u00ec la mattina dalle 8:30 alle 12:30 e nel pomeriggio dalle 14:00 alle 17:00, mentre il mercoled\u00ec e il venerd\u00ec solo la mattina dalle 8:30 alle 12:30.\nAl numero rispondono educatori del Dipartimento Patologie Dipendenze (SERD) che, a seconda delle problematiche esposte, possono indirizzare le chiamate anche agli psicologi dell\u2019ASL AL o al personale del servizio di neuropsichiatria."", ""Link"": ""https://www.ilmonferrato.it/articolo/1g-TDpbllke4QPXQvf-6hg/coronavirus-da-lunedi-l-asl-al-attivera-una-linea-telefonica-per-fornire-supporto-psicologico"", ""Posizione"": ""44.907031 8.6101 0 0""}","<pre><yamldata>
 Cosa: Asl Alessandria attiva linea telefonica per supporto psicologico
 Descrizione: 'L''ASL AL ha attivato una linea telefonica che risponde al numero 0131
@@ -3321,29 +3331,6 @@ Natura_dell_iniziativa: solidale
 Tipo_di_soggetto: privato
 Titolo: CROTONE-Emergenza Covid19
 ```",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/159,579294490,2020-03-11 19:02:29,2020-03-11 14:12:39,Raccolta fondi per l'Ospedale Jazzolino di #ViboValentia ,,,"[""Raccolte fondi"", ""accettato""]",,,"{""Da_chi_offerta"": ""Associazioni: Valentia, Calabriafood Official e Welcome to Favelas Vibo"", ""Descrizione"": ""Siamo i ragazzi dell\u2019associazione Valentia, Calabriafood Official e Welcome to Favelas Vibo, insieme a tanti giovani Vibonesi.\nNel nostro piccolo e nelle nostre possibilit\u00e0 possiamo fare la differenza. Donate e se non potete condividete. In questi momenti bisogna rimanere uniti.  Anche un piccolo contributo pu\u00f2 fare la differenza.\nIn questa fase cosi drammatica, dal punto di vista sociale e sanitario, possiamo e dobbiamo anche noi fare qualcosa.\n\nPer tale motivo abbiamo pensato di organizzare questa raccolta fondi a favore dell'Ospedale Jazzolino di VIbo Valentia per rafforzare la terapia intensiva e/o per l\u2019acquisto di materiale medico sanitario necessario a fronteggiare l\u2019emergenza COVID-19\n\nComunichiamo che il ricavato verr\u00e0 devoluto interamente per affrontare l\u2019acquisto di materiale medico e/o sanitario necessario a fronteggiare l\u2019emergenza COVID-19.\nIl materiale da acquistare verr\u00e0 indicato dall'Azienda Ospedaliera  secondo le proprie esigenze, da valutare anche alla luce della cifra finale che verr\u00e0 raggiunta. \n\nAl termine della raccolta verranno specificate le modalit\u00e0 di erogazione e dimostrazione dell'avvenuta erogazione."", ""Destinatari"": ""Ospedale Vibo Valentia"", ""Link"": ""https://www.gofundme.com/f/raccolta-fondi-a-favore-dell039ospedale-jazzolino"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Covid-19, raccolta fondi ospedale di Vibo Valentia""}","<pre><yamldata>
-Da_chi_offerta: 'Associazioni: Valentia, Calabriafood Official e Welcome to Favelas
-  Vibo'
-Descrizione: ""Siamo i ragazzi dell\u2019associazione Valentia, Calabriafood Official\
-  \ e Welcome to Favelas Vibo, insieme a tanti giovani Vibonesi.\nNel nostro piccolo\
-  \ e nelle nostre possibilit\xE0 possiamo fare la differenza. Donate e se non potete\
-  \ condividete. In questi momenti bisogna rimanere uniti.  Anche un piccolo contributo\
-  \ pu\xF2 fare la differenza.\nIn questa fase cosi drammatica, dal punto di vista\
-  \ sociale e sanitario, possiamo e dobbiamo anche noi fare qualcosa.\n\nPer tale\
-  \ motivo abbiamo pensato di organizzare questa raccolta fondi a favore dell'Ospedale\
-  \ Jazzolino di VIbo Valentia per rafforzare la terapia intensiva e/o per l\u2019\
-  acquisto di materiale medico sanitario necessario a fronteggiare l\u2019emergenza\
-  \ COVID-19\n\nComunichiamo che il ricavato verr\xE0 devoluto interamente per affrontare\
-  \ l\u2019acquisto di materiale medico e/o sanitario necessario a fronteggiare l\u2019\
-  emergenza COVID-19.\nIl materiale da acquistare verr\xE0 indicato dall'Azienda Ospedaliera\
-  \  secondo le proprie esigenze, da valutare anche alla luce della cifra finale che\
-  \ verr\xE0 raggiunta. \n\nAl termine della raccolta verranno specificate le modalit\xE0\
-  \ di erogazione e dimostrazione dell'avvenuta erogazione.""
-Destinatari: Ospedale Vibo Valentia
-Link: https://www.gofundme.com/f/raccolta-fondi-a-favore-dell039ospedale-jazzolino
-Tipo_di_soggetto: privato
-Titolo: Covid-19, raccolta fondi ospedale di Vibo Valentia
-</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/159,579294490,2020-03-11 19:02:29,2020-03-11 14:12:39,Raccolta fondi per l'Ospedale Jazzolino di #ViboValentia ,,,"[""Raccolte fondi"", ""accettato""]",,,"{""Da_chi_offerta"": ""Associazioni: Valentia, Calabriafood Official e Welcome to Favelas Vibo"", ""Descrizione"": ""Siamo i ragazzi dell\u2019associazione Valentia, Calabriafood Official e Welcome to Favelas Vibo, insieme a tanti giovani Vibonesi.\nNel nostro piccolo e nelle nostre possibilit\u00e0 possiamo fare la differenza. Donate e se non potete condividete. In questi momenti bisogna rimanere uniti.  Anche un piccolo contributo pu\u00f2 fare la differenza.\nIn questa fase cosi drammatica, dal punto di vista sociale e sanitario, possiamo e dobbiamo anche noi fare qualcosa.\n\nPer tale motivo abbiamo pensato di organizzare questa raccolta fondi a favore dell'Ospedale Jazzolino di VIbo Valentia per rafforzare la terapia intensiva e/o per l\u2019acquisto di materiale medico sanitario necessario a fronteggiare l\u2019emergenza COVID-19\n\nComunichiamo che il ricavato verr\u00e0 devoluto interamente per affrontare l\u2019acquisto di materiale medico e/o sanitario necessario a fronteggiare l\u2019emergenza COVID-19.\nIl materiale da acquistare verr\u00e0 indicato dall'Azienda Ospedaliera  secondo le proprie esigenze, da valutare anche alla luce della cifra finale che verr\u00e0 raggiunta. \n\nAl termine della raccolta verranno specificate le modalit\u00e0 di erogazione e dimostrazione dell'avvenuta erogazione."", ""Destinatari"": ""Ospedale Vibo Valentia"", ""Link"": ""https://www.gofundme.com/f/raccolta-fondi-a-favore-dell039ospedale-jazzolino"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Covid-19, raccolta fondi ospedale di Vibo Valentia""}","<pre><yamldata>
 Da_chi_offerta: 'Associazioni: Valentia, Calabriafood Official e Welcome to Favelas
   Vibo'
