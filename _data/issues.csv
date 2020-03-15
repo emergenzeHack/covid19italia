@@ -1,4 +1,21 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/526,581439651,2020-03-15 00:42:38,2020-03-15 00:42:07,ASL #Alessandria attiva linea telefonica per supporto psicologico,44.907031,8.6101,"[""Bollettino"", ""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Cosa"": ""Asl Alessandria attiva linea telefonica per supporto psicologico"", ""Descrizione"": ""L'ASL AL ha attivato una linea telefonica che risponde al numero 0131 30 63 38 per fornire supporto psicologico a chi necessiti di essere ascoltato ed aiutato ad affrontare le problematicit\u00e0 emotive e relazionali proprie dell\u2019emergenza nazionale COVID19.\nLa linea \u00e8 attiva dal luned\u00ec al venerd\u00ec con i seguenti orari: luned\u00ec, marted\u00ec e gioved\u00ec la mattina dalle 8:30 alle 12:30 e nel pomeriggio dalle 14:00 alle 17:00, mentre il mercoled\u00ec e il venerd\u00ec solo la mattina dalle 8:30 alle 12:30.\nAl numero rispondono educatori del Dipartimento Patologie Dipendenze (SERD) che, a seconda delle problematiche esposte, possono indirizzare le chiamate anche agli psicologi dell\u2019ASL AL o al personale del servizio di neuropsichiatria."", ""Link"": ""https://www.ilmonferrato.it/articolo/1g-TDpbllke4QPXQvf-6hg/coronavirus-da-lunedi-l-asl-al-attivera-una-linea-telefonica-per-fornire-supporto-psicologico"", ""Posizione"": ""44.907031 8.6101 0 0""}","<pre><yamldata>
+Cosa: Asl Alessandria attiva linea telefonica per supporto psicologico
+Descrizione: 'L''ASL AL ha attivato una linea telefonica che risponde al numero 0131
+  30 63 38 per fornire supporto psicologico a chi necessiti di essere ascoltato ed
+  aiutato ad affrontare le problematicità emotive e relazionali proprie dell’emergenza
+  nazionale COVID19.
+
+  La linea è attiva dal lunedì al venerdì con i seguenti orari: lunedì, martedì e
+  giovedì la mattina dalle 8:30 alle 12:30 e nel pomeriggio dalle 14:00 alle 17:00,
+  mentre il mercoledì e il venerdì solo la mattina dalle 8:30 alle 12:30.
+
+  Al numero rispondono educatori del Dipartimento Patologie Dipendenze (SERD) che,
+  a seconda delle problematiche esposte, possono indirizzare le chiamate anche agli
+  psicologi dell’ASL AL o al personale del servizio di neuropsichiatria.'
+Link: https://www.ilmonferrato.it/articolo/1g-TDpbllke4QPXQvf-6hg/coronavirus-da-lunedi-l-asl-al-attivera-una-linea-telefonica-per-fornire-supporto-psicologico
+Posizione: 44.907031 8.6101 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/525,581424617,2020-03-15 00:02:49,2020-03-14 23:52:22,A #Pisa prosegue il servizio di ascolto telefonico del centro antiviolenza Casa della donna,43.721296,10.389908,"[""Bollettino"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Cosa"": ""A Pisa prosegue il servizio di ascolto telefonico del centro antiviolenza Casa della donna"", ""Descrizione"": ""La Casa della donna di Pisa ha sospeso tutte le attivit\u00e0 ma il servizio di ascolto del centro antiviolenza (050 561628) funziona regolarmente ed \u00e8 a disposizione di tutte le donne che, anche in questa emergenza, vivono situazioni di maltrattamenti e conflitti col proprio partner. Al link ulteriori info e orari."", ""Link"": ""https://www.casadelladonnapisa.it/emergenza-coronavirus/"", ""Posizione"": ""43.721296 10.389908 0 0""}","<pre><yamldata>
 Cosa: A Pisa prosegue il servizio di ascolto telefonico del centro antiviolenza Casa
   della donna
