@@ -1,4 +1,24 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/623,582294575,2020-03-16 13:57:08,2020-03-16 13:27:30,"ARCS #Friuli Venezia Giulia - ricerca urgente di oss, infermieri, medici",45.6500335,13.7706559,"[""Bollettino"", ""Richiesta aiuto"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Descrizione"": ""L\u2019ARCS (azienda regionale per il Coordinamento della Salute), in seguito all\u2019attuale emergenza sanitaria dovuta al diffondersi del Covid19, ha emanato alcuni bandi per la ricerca di diverse figure professionali."", ""Indirizzo"": ""45.43490484 12.33845214"", ""Link"": ""https://triesteparla.wordpress.com/2020/03/15/emergenza-coronavirus-in-friuli-venezia-giulia-si-cercano-urgentemente-operatori-socio-sanitari-infermieri-medici-e-tecnici-tutti-i-bandi-nellarticolo/"", ""Natura"": ""solidale"", ""Posizione"": ""45.6500335 13.7706559 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""In Friuli Venezia Giulia si cercano urgentemente operatori socio sanitari, infermieri, medici, e tecnici.""}","<pre><yamldata>
+Descrizione: L’ARCS (azienda regionale per il Coordinamento della Salute), in seguito
+  all’attuale emergenza sanitaria dovuta al diffondersi del Covid19, ha emanato alcuni
+  bandi per la ricerca di diverse figure professionali.
+Indirizzo: 45.43490484 12.33845214
+Link: https://triesteparla.wordpress.com/2020/03/15/emergenza-coronavirus-in-friuli-venezia-giulia-si-cercano-urgentemente-operatori-socio-sanitari-infermieri-medici-e-tecnici-tutti-i-bandi-nellarticolo/
+Natura: solidale
+Tipo_di_soggetto: pubblico
+Titolo: In Friuli Venezia Giulia si cercano urgentemente operatori socio sanitari,
+  infermieri, medici, e tecnici.
+Posizione: 45.6500335 13.7706559 0 0
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/622,582276623,2020-03-16 13:51:02,2020-03-16 13:00:56,Help 3D - Chiarimento sulle valvole in 3D #Brescia,45.538716,10.222435,"[""Informazioni utili"", ""Notizia"", ""accettato"", ""form""]",,,"{""Cosa"": ""Brescia: chiarimento sulle valvole stampate in 3D"", ""Descrizione"": ""Le valvole stampate in 3D a Brescia dopo reverse engineering.\nChiarimenti su norme, tecnologie, ..."", ""Link"": ""https://help3d.it/valvole-stampate-in-3d-a-brescia-facciamo-chiarezza/"", ""Posizione"": ""45.538716 10.222435 0 0""}","<pre><yamldata>
+Cosa: 'Brescia: chiarimento sulle valvole stampate in 3D'
+Descrizione: 'Le valvole stampate in 3D a Brescia dopo reverse engineering.
+
+  Chiarimenti su norme, tecnologie, ...'
+Link: https://help3d.it/valvole-stampate-in-3d-a-brescia-facciamo-chiarezza/
+Posizione: 45.538716 10.222435 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/621,582264763,2020-03-16 12:44:34,2020-03-16 12:42:09,Raccolta fondi #HopeOnlus per donazioni attrezzature negli ospedali e materiale sanitario,,,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Hope \u00e8 un\u2019organizzazione non profit, laica e indipendente che aiuta bambini e comunit\u00e0 in difficolt\u00e0 in Italia e in Medio Oriente realizzando interventi di aiuto umanitario e di sviluppo sostenibile a tutela della salute e dell\u2019educazione. Hope d\u00e0 ogni giorno una speranza a un bambino in pi\u00f9.\n\nHope utilizza modelli operativi del settore profit e li applica alla realizzazione di programmi umanitari. Risponde a richieste di aiuto per bisogni specifici di ospedali, orfanotrofi, scuole, asili, centri di accoglienza e di primo soccorso.\n\nSta lavorando dal 2 marzo 2020 7 giorni su 7, 24 ore su 24 con gli ospedali milanesi e lombardi per rispondere alle loro necessit\u00e0 urgenti e fondamentali per salvare pi\u00f9 vite possibili nella Epidemia da Coronavirus.\n\nOpera con una Task Force di Emergenza di professionisti specializzati."", ""Indirizzo"": ""43.84340093 13.01966068"", ""Link"": ""https://www.hopeonlus.org/coronavirus/?fbclid=IwAR1zHf7RX9Jhb6jwPVZMO4eXnMkHiYZW624XtaSAIaFU1NBTjzeV4-XgShI"", ""Nome"": ""Hope Onlus""}","<pre><yamldata>
 Descrizione: 'Hope è un’organizzazione non profit, laica e indipendente che aiuta
   bambini e comunità in difficoltà in Italia e in Medio Oriente realizzando interventi
@@ -409,7 +429,7 @@ Descrizione: attività di streaming per concerti, letture, attività didattiche,
 Link: http://agenda.comune.bologna.it/cultura/
 Posizione: 44.495654 11.34359 0 0
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/591,581843469,2020-03-15 22:07:49,2020-03-15 22:03:29,Ingrazione del Centro Operativo Comunale (C.O.C.)  #Reggio Calabria,38.102022,15.63945,"[""Notizia"", ""accettato"", ""form""]",,,"{""Cosa"": ""Ingrazione del C.O.C. - Centro Operativo Comunale"", ""Descrizione"": ""Integrazione Centro Operativo Comunale (C.O.C) a cura della Protezione Civile comunale, con le funzioni di supporto al volontariato, materiali, mezzi e risorse umane.\n\nhttp://www.reggiocal.it/online/Home/PrimoPiano/articolo110712.html"", ""Link"": ""http://www.reggiocal.it/on-line/Home/PrimoPiano/articolo110712.html"", ""Posizione"": ""38.102022 15.63945 0 0""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/591,581843469,2020-03-16 12:55:05,2020-03-15 22:03:29,Ingrazione del Centro Operativo Comunale (C.O.C.)  #Reggio Calabria,38.102022,15.63945,"[""Notizia"", ""Notizie"", ""accettato"", ""form""]",,,"{""Cosa"": ""Ingrazione del C.O.C. - Centro Operativo Comunale"", ""Descrizione"": ""Integrazione Centro Operativo Comunale (C.O.C) a cura della Protezione Civile comunale, con le funzioni di supporto al volontariato, materiali, mezzi e risorse umane.\n\nhttp://www.reggiocal.it/online/Home/PrimoPiano/articolo110712.html"", ""Link"": ""http://www.reggiocal.it/on-line/Home/PrimoPiano/articolo110712.html"", ""Posizione"": ""38.102022 15.63945 0 0""}","<pre><yamldata>
 Cosa: Ingrazione del C.O.C. - Centro Operativo Comunale
 Descrizione: 'Integrazione Centro Operativo Comunale (C.O.C) a cura della Protezione
   Civile comunale, con le funzioni di supporto al volontariato, materiali, mezzi e
@@ -2187,7 +2207,7 @@ Natura: solidale
 Tipo_di_soggetto: pubblico
 Titolo: Pronto? Ho l'ansia!
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/400,581166324,2020-03-15 23:09:34,2020-03-14 11:31:43,Non è vero che Bill Gates aveva predetto l'epidemia Covid-19 nel 2015,,,"[""Fake News"", ""accettato"", ""form""]",,,"{""Cosa"": ""No! Bill Gates non aveva predetto l'epidemia Covid-19 nel 2015"", ""Descrizione"": ""Alcune testate giornalistiche parlano di una presunta profezia dell'epidemia Covid-19 da parte di Bill Gates nel 2015, ma guardando il video originale si scopre tutt'altro."", ""Link"": ""https://www.open.online/2020/03/14/la-profezia-di-bill-gates-sul-coronavirus-nel-2015-no-al-contrario-e-stato-fin-troppo-ottimista/""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/400,581166324,2020-03-16 13:26:25,2020-03-14 11:31:43,Non è vero che Bill Gates aveva predetto l'epidemia Covid-19 nel 2015,,,"[""Fake News"", ""accettato"", ""form""]",,,"{""Cosa"": ""No! Bill Gates non aveva predetto l'epidemia Covid-19 nel 2015"", ""Descrizione"": ""Alcune testate giornalistiche parlano di una presunta profezia dell'epidemia Covid-19 da parte di Bill Gates nel 2015, ma guardando il video originale si scopre tutt'altro."", ""Link"": ""https://www.open.online/2020/03/14/la-profezia-di-bill-gates-sul-coronavirus-nel-2015-no-al-contrario-e-stato-fin-troppo-ottimista/""}","<pre><yamldata>
 Cosa: No! Bill Gates non aveva predetto l'epidemia Covid-19 nel 2015
 Descrizione: Alcune testate giornalistiche parlano di una presunta profezia dell'epidemia
   Covid-19 da parte di Bill Gates nel 2015, ma guardando il video originale si scopre
