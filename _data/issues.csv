@@ -1,4 +1,26 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/621,582264763,2020-03-16 12:44:34,2020-03-16 12:42:09,Raccolta fondi #HopeOnlus per donazioni attrezzature negli ospedali e materiale sanitario,,,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Hope \u00e8 un\u2019organizzazione non profit, laica e indipendente che aiuta bambini e comunit\u00e0 in difficolt\u00e0 in Italia e in Medio Oriente realizzando interventi di aiuto umanitario e di sviluppo sostenibile a tutela della salute e dell\u2019educazione. Hope d\u00e0 ogni giorno una speranza a un bambino in pi\u00f9.\n\nHope utilizza modelli operativi del settore profit e li applica alla realizzazione di programmi umanitari. Risponde a richieste di aiuto per bisogni specifici di ospedali, orfanotrofi, scuole, asili, centri di accoglienza e di primo soccorso.\n\nSta lavorando dal 2 marzo 2020 7 giorni su 7, 24 ore su 24 con gli ospedali milanesi e lombardi per rispondere alle loro necessit\u00e0 urgenti e fondamentali per salvare pi\u00f9 vite possibili nella Epidemia da Coronavirus.\n\nOpera con una Task Force di Emergenza di professionisti specializzati."", ""Indirizzo"": ""43.84340093 13.01966068"", ""Link"": ""https://www.hopeonlus.org/coronavirus/?fbclid=IwAR1zHf7RX9Jhb6jwPVZMO4eXnMkHiYZW624XtaSAIaFU1NBTjzeV4-XgShI"", ""Nome"": ""Hope Onlus""}","<pre><yamldata>
+Descrizione: 'Hope è un’organizzazione non profit, laica e indipendente che aiuta
+  bambini e comunità in difficoltà in Italia e in Medio Oriente realizzando interventi
+  di aiuto umanitario e di sviluppo sostenibile a tutela della salute e dell’educazione.
+  Hope dà ogni giorno una speranza a un bambino in più.
+
+
+  Hope utilizza modelli operativi del settore profit e li applica alla realizzazione
+  di programmi umanitari. Risponde a richieste di aiuto per bisogni specifici di ospedali,
+  orfanotrofi, scuole, asili, centri di accoglienza e di primo soccorso.
+
+
+  Sta lavorando dal 2 marzo 2020 7 giorni su 7, 24 ore su 24 con gli ospedali milanesi
+  e lombardi per rispondere alle loro necessità urgenti e fondamentali per salvare
+  più vite possibili nella Epidemia da Coronavirus.
+
+
+  Opera con una Task Force di Emergenza di professionisti specializzati.'
+Indirizzo: 43.84340093 13.01966068
+Link: https://www.hopeonlus.org/coronavirus/?fbclid=IwAR1zHf7RX9Jhb6jwPVZMO4eXnMkHiYZW624XtaSAIaFU1NBTjzeV4-XgShI
+Nome: Hope Onlus
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/620,582257022,2020-03-16 12:40:06,2020-03-16 12:28:52,Luca Zanelli,44.47667,11.63834,"[""Informazioni utili"", ""Notizia"", ""accettato"", ""form""]",,,"{""Cosa"": ""Luca Zanelli"", ""Descrizione"": ""Ordinanza Regionale per il controllo del capoluogo di Medicina e Ganzanigo. Modulo di autorizzazione in entrata"", ""Link"": ""https://www.comune.medicina.bo.it/autorizzazione-in-entrata-per-medicina-e-ganzanigo-il-modulo/?fbclid=IwAR0Z4m0p0tooq2pLpRQNpQ0wMmNTX5exs6kBitiT5Sm9ftEsQO6q_U7VGD4"", ""Posizione"": ""44.47667 11.63834 0 0""}","<pre><yamldata>
 Cosa: Luca Zanelli
 Descrizione: Ordinanza Regionale per il controllo del capoluogo di Medicina e Ganzanigo.
