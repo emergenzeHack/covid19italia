@@ -13,7 +13,7 @@ url: "https://covid19italia.help"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: COVID19 Italia
+title: Covid19Italia.help
 
 # Logo description
 logo-description: Il logo di covid19italia due cerchi concentrici uno rosso e uno verde ed all'esterno dei semicerchi sparsi
@@ -36,10 +36,10 @@ navbar-links:
    - About: "about/"
    - Press: "press/"
    - Canali di Comunicazione: "canali/"
-   - Opendata: "opendata/"
+   - Open Data: "opendata/"
   Partecipa!:
    - Aderisci al gruppo Telegram: 'https://t.me/COVID19I" target="_blank'
-   - Contribuisci: 'https://www.covid19italia.help/2020-03-10-sei-uno-sviluppatore-se-vuoi-aiutaci/" target="_blank'
+   - Contribuisci: 'contribuisci/'
   #  - Rilancia informazioni sui social: ''
 
 # Image to show in the navigation bar - image must be a square (width = height)

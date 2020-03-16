@@ -74,7 +74,7 @@ Eccoti le istruzioni, passo dopo passo:
 
 Come posso rendermi utile attraverso i miei social? 
 
-Parla del progetto. In questo [post](http://localhost:4000/2020-03-11-come-postare-sui-social/) spieghiamo come utilizzare i social in modo utile per far fronte ad emergenze.
+Parla del progetto. In questo [post](2020-03-11-come-postare-sui-social/) spieghiamo come utilizzare i social in modo utile per far fronte ad emergenze.
 
 Se hai un profilo **Facebook**:
 
@@ -111,12 +111,11 @@ Certo. C’è un problema che interessa la collettività. Un pezzetto di questa 
 In un’emergenza, ad esempio, il problema è che siamo travolti dalle informazioni e non sappiamo bene dove trovarle, come segnalarle.
 Covid19Italia.help è una possibile soluzione. 
 
-L’approccio che si applica a un progetto come questo si chiama AGOPENDI.
-AGOPENDI sta per AGgregate, OPEN, DIstribute. Cioè:
+L’approccio che si applica a un progetto come questo si chiama AGOPENDI. AGOPENDI sta per AGgregate, OPEN, DIstribute. Cioè:
 
-Aggrega i contenuti. I contenuti non sono strutturati e provengono da varie fonti (social media, mail, contatti etc…). La piattaforma li aggrega tramite un gran lavoro manuale di moderazione e di strutturazione in modo tale da dare loro una struttura “standard” e farne dei dati effettivamente riusabili.
-Apre i dati.Tutti i dati ricavati sono accessibili. Dovendo aggregare e strutturare, aprire i dati consente sviluppo di ulteriore informazione e servizio. E’ valore che si libera in modo piuttosto agevole. 
-Distrubuisce le informazioni. Ciò che è dato aperto può essere facilmente reso una nuova informazioni utile. Come? Con un servizio. Quale? Si può dare libero sfogo alla fantasia ma sempre senza esagerare e cercando strumenti utilizzati o comunque semplicemente divulgabili. Per esempio, Covid19Italia.help ha un sito, un profilo Twitter, una pagina Facebook, un gruppo Facebook, Instagram, un canale Telegram da cui chiunque può ricondividere le singole segnalazioni.
+- Aggrega i contenuti. I contenuti non sono strutturati e provengono da varie fonti (social media, mail, contatti etc…). La piattaforma li aggrega tramite un gran lavoro manuale di moderazione e di strutturazione in modo tale da dare loro una struttura “standard” e farne dei dati effettivamente riusabili.
+- Apre i dati.Tutti i dati ricavati sono accessibili. Dovendo aggregare e strutturare, aprire i dati consente sviluppo di ulteriore informazione e servizio. E’ valore che si libera in modo piuttosto agevole. 
+- Distrubuisce le informazioni. Ciò che è dato aperto può essere facilmente reso una nuova informazioni utile. Come? Con un servizio. Quale? Si può dare libero sfogo alla fantasia ma sempre senza esagerare e cercando strumenti utilizzati o comunque semplicemente divulgabili. Per esempio, Covid19Italia.help ha un sito, un profilo Twitter, una pagina Facebook, un gruppo Facebook, Instagram, un canale Telegram da cui chiunque può ricondividere le singole segnalazioni.
 
 Tutto questo può essere riutilizzato in futuro e migliorato.
 
