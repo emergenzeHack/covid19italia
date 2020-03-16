@@ -1,4 +1,15 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/602,582114630,2020-03-16 09:40:53,2020-03-16 08:54:45,Mappa in aggiornamento su servizi a domicilio #GioiadelColle #Bari,40.796728,16.92359,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Negozi, farmacie, alimentari del comune di Gioia del Colle"", ""Descrizione"": ""Mappa in aggiornamento sui negozi, farmacie, alimentari che offrono servizio di approvvigionamento di beni e servizi a domicilio"", ""Destinatari"": ""Gioia del Colle"", ""Link"": ""https://www.google.com/maps/d/viewer?mid=1oS8nqqj63wEG8ktq7pcDyj5kPJRzRf_v&hl=it&fbclid=IwAR3G-KwQX29bUahMkLEIwvwG3WNkzDJU7d96sW668gNSzUukwNXzvxLXodE&ll=40.80597499516789%2C16.900460000000066&z=13"", ""Natura"": ""solidale"", ""Posizione"": ""40.796728 16.92359 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Delivery Casa""}","<pre><yamldata>
+Da_chi_offerta: Negozi, farmacie, alimentari del comune di Gioia del Colle
+Descrizione: Mappa in aggiornamento sui negozi, farmacie, alimentari che offrono servizio
+  di approvvigionamento di beni e servizi a domicilio
+Destinatari: Gioia del Colle
+Link: https://www.google.com/maps/d/viewer?mid=1oS8nqqj63wEG8ktq7pcDyj5kPJRzRf_v&hl=it&fbclid=IwAR3G-KwQX29bUahMkLEIwvwG3WNkzDJU7d96sW668gNSzUukwNXzvxLXodE&ll=40.80597499516789%2C16.900460000000066&z=13
+Natura: solidale
+Tipo_di_soggetto: privato
+Titolo: Delivery Casa
+Posizione: 40.796728 16.92359 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/598,581879216,2020-03-16 08:50:26,2020-03-15 23:52:37,"#Toscana, per ritirare i farmaci basta un codice, la ricetta si stampa direttamente in farmacia",43.79366875,11.222513136213019,"[""Bollettino"", ""Contatti utili"", ""Informazioni utili"", ""Notizie"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Regione Toscana"", ""Descrizione"": ""La Toscana si attrezza per far fronte sempre pi\u00f9 all'emergenza. Con il numero di ricetta comunicato tramite Sms e la Tessera sanitaria, si possono ritirare i medicinali direttamente in farmacia senza doversi recare in ambulatorio dal medico."", ""Destinatari"": ""Tutti i residenti in Toscana"", ""Link"": ""https://www.toscana-notizie.it/-/farmaci-per-ritirarli-basta-un-codice-la-ricetta-si-stampa-direttamente-in-farmacia"", ""Natura"": ""solidale"", ""Posizione"": ""43.79366875 11.222513136213019 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Toscana, per ritirare i farmaci basta un codice, la ricetta si stampa direttamente in farmacia""}","<pre><yamldata>
 Da_chi_offerta: Regione Toscana
 Descrizione: La Toscana si attrezza per far fronte sempre più all'emergenza. Con il
