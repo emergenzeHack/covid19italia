@@ -1,4 +1,24 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/627,582326915,2020-03-16 14:13:21,2020-03-16 14:07:17,Passatempo al Sud,,,"[""Attivita culturali e ricreative"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Regione Campania"", ""Descrizione"": ""Regione Campania, con il contributo di Scabec, ha voluto attivare sul proprio sito istituzionale questa sezione, una sorta di \""catalogo\"" di siti, blog, link, pagine social e tutto quanto pu\u00f2 essere utile ai genitori, ai nonni e ai ragazzi, per orientarsi e per raggiungere facilmente ci\u00f2 che si cerca."", ""Destinatari"": ""Cittadini Cmapani"", ""Link"": ""http://www.regione.campania.it/regione/it/news/regione-informa/passatempo-al-sud-giorni-pieni-di-libri-arte-musica-e-allegria?page=1&fbclid=IwAR0lrwXAXoXA_HWwz_WZaTx_97U968AzCYyMGW1ZjMBI95ZZd98JeTjwgK0"", ""Natura"": ""culturale-ricr"", ""Titolo"": ""Passatempo al Sud""}","<pre><yamldata>
+Da_chi_offerta: Regione Campania
+Descrizione: Regione Campania, con il contributo di Scabec, ha voluto attivare sul
+  proprio sito istituzionale questa sezione, una sorta di ""catalogo"" di siti, blog,
+  link, pagine social e tutto quanto può essere utile ai genitori, ai nonni e ai ragazzi,
+  per orientarsi e per raggiungere facilmente ciò che si cerca.
+Destinatari: Cittadini Cmapani
+Link: http://www.regione.campania.it/regione/it/news/regione-informa/passatempo-al-sud-giorni-pieni-di-libri-arte-musica-e-allegria?page=1&fbclid=IwAR0lrwXAXoXA_HWwz_WZaTx_97U968AzCYyMGW1ZjMBI95ZZd98JeTjwgK0
+Natura: culturale-ricr
+Titolo: Passatempo al Sud
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/626,582321373,2020-03-16 14:15:02,2020-03-16 14:02:19,"Roma: Stop a versamento rette per asili e mense scolastiche. Differite scadenze Tari, Cosap e canoni",41.891049,12.489326,"[""Fonti istituzionali"", ""Notizia"", ""Notizie"", ""accettato"", ""form""]",,,"{""Cosa"": ""Roma: Stop a versamento rette per asili e mense scolastiche. Differite scadenze Tari, Cosap e canoni mercati"", ""Descrizione"": ""La Giunta Capitolina ha disposto l\u2019annullamento del versamento delle quote contributive per gli asili nido e per le mense scolastiche nelle scuole d\u2019infanzia, per il periodo di chiusura dovuto all\u2019emergenza Covid-19."", ""Link"": ""https://www.comune.roma.it/web/it/notizia/coronavirus-stop-a-versamento-rette-per-asili-e-mense-scolastiche-differite-scadenze-tari-cosap-e-canoni-mercati.page?fbclid=IwAR2ow2vbFCORKZBDdItBI1WLYzUBPd3Eo9qiyfqBLtkTRsWMBGr6ZefQIFA"", ""Posizione"": ""41.891049 12.489326 0 0""}","<pre><yamldata>
+Cosa: 'Roma: Stop a versamento rette per asili e mense scolastiche. Differite scadenze
+  Tari, Cosap e canoni mercati'
+Descrizione: La Giunta Capitolina ha disposto l’annullamento del versamento delle
+  quote contributive per gli asili nido e per le mense scolastiche nelle scuole d’infanzia,
+  per il periodo di chiusura dovuto all’emergenza Covid-19.
+Link: https://www.comune.roma.it/web/it/notizia/coronavirus-stop-a-versamento-rette-per-asili-e-mense-scolastiche-differite-scadenze-tari-cosap-e-canoni-mercati.page?fbclid=IwAR2ow2vbFCORKZBDdItBI1WLYzUBPd3Eo9qiyfqBLtkTRsWMBGr6ZefQIFA
+Posizione: 41.891049 12.489326 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/623,582294575,2020-03-16 13:57:08,2020-03-16 13:27:30,"ARCS #Friuli Venezia Giulia - ricerca urgente di oss, infermieri, medici",45.6500335,13.7706559,"[""Bollettino"", ""Richiesta aiuto"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Descrizione"": ""L\u2019ARCS (azienda regionale per il Coordinamento della Salute), in seguito all\u2019attuale emergenza sanitaria dovuta al diffondersi del Covid19, ha emanato alcuni bandi per la ricerca di diverse figure professionali."", ""Indirizzo"": ""45.43490484 12.33845214"", ""Link"": ""https://triesteparla.wordpress.com/2020/03/15/emergenza-coronavirus-in-friuli-venezia-giulia-si-cercano-urgentemente-operatori-socio-sanitari-infermieri-medici-e-tecnici-tutti-i-bandi-nellarticolo/"", ""Natura"": ""solidale"", ""Posizione"": ""45.6500335 13.7706559 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""In Friuli Venezia Giulia si cercano urgentemente operatori socio sanitari, infermieri, medici, e tecnici.""}","<pre><yamldata>
 Descrizione: L’ARCS (azienda regionale per il Coordinamento della Salute), in seguito
   all’attuale emergenza sanitaria dovuta al diffondersi del Covid19, ha emanato alcuni
