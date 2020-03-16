@@ -1,4 +1,33 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/606,582156455,2020-03-16 10:03:45,2020-03-16 10:01:25,#ANCI promuove iniziative delle aziende durante emergenza COVID-19,,,"[""Bollettino"", ""Servizi e iniziative solidali pubbliche"", ""Sostegno lavoro e imprese"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""ANCI"", ""Descrizione"": ""Sui canali social di ANCI verranno promosse le iniziative messe in campo dalle aziende per fronteggiare l\u2019emergenza da COVID-19.\nSegnala l\u2019iniziativa della tua azienda a @ANCI_comunicare e la rilanceranno!"", ""Destinatari"": ""Aziende"", ""Link"": ""https://twitter.com/ANCI_comunicare/status/1238554647180312582"", ""Natura"": ""sostegno-lavor"", ""Titolo"": ""#ANCI promuove sui social iniziative delle aziende durante l'emergenza COVID-19""}","<pre><yamldata>
+Da_chi_offerta: ANCI
+Descrizione: 'Sui canali social di ANCI verranno promosse le iniziative messe in campo
+  dalle aziende per fronteggiare l’emergenza da COVID-19.
+
+  Segnala l’iniziativa della tua azienda a @ANCI_comunicare e la rilanceranno!'
+Destinatari: Aziende
+Link: https://twitter.com/ANCI_comunicare/status/1238554647180312582
+Natura: sostegno-lavor
+Titolo: '#ANCI promuove sui social iniziative delle aziende durante l''emergenza COVID-19'
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/603,582143180,2020-03-16 10:03:20,2020-03-16 09:40:37,Servizio di consegna spesa e farmaci a domicilio,46.469326,11.329345,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Croce Rossa Italiana - Comitato Provincia Autonoma di Bolzano"", ""Descrizione"": ""Servizio nei seguenti comuni:\n- Laives, S. Cristina, Ortisei, Selva, Laion, Castelrotto, Lana, Cermes, Marlengo, Postal, Gargazzone, Egna, Montagna, Salorno, Termeno, Cortina, Magr\u00e9\n\nNumero di telefono: 0473 320078\nDal luned\u00ec al venerd\u00ec dalle 09:00 alle 17:00"", ""Destinatari"": ""Anziani e persone sole"", ""Link"": ""https://www.facebook.com/crocerossa.altoadige/photos/pcb.3417731961587120/3417728188254164/?type=1&theater"", ""Natura"": ""solidale"", ""Posizione"": ""46.469326 11.329345 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Servizio di consegna spesa e farmaci a domicilio""}","<pre><yamldata>
+Da_chi_offerta: Croce Rossa Italiana - Comitato Provincia Autonoma di Bolzano
+Descrizione: 'Servizio nei seguenti comuni:
+
+  - Laives, S. Cristina, Ortisei, Selva, Laion, Castelrotto, Lana, Cermes, Marlengo,
+  Postal, Gargazzone, Egna, Montagna, Salorno, Termeno, Cortina, Magré
+
+
+  Numero di telefono: 0473 320078
+
+  Dal lunedì al venerdì dalle 09:00 alle 17:00'
+Destinatari: Anziani e persone sole
+Link: https://www.facebook.com/crocerossa.altoadige/photos/pcb.3417731961587120/3417728188254164/?type=1&theater
+Natura: solidale
+Posizione: 46.469326 11.329345 0 0
+Tipo_di_soggetto: privato
+Titolo: Servizio di consegna spesa e farmaci a domicilio
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/602,582114630,2020-03-16 09:40:53,2020-03-16 08:54:45,Mappa in aggiornamento su servizi a domicilio #GioiadelColle #Bari,40.796728,16.92359,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Negozi, farmacie, alimentari del comune di Gioia del Colle"", ""Descrizione"": ""Mappa in aggiornamento sui negozi, farmacie, alimentari che offrono servizio di approvvigionamento di beni e servizi a domicilio"", ""Destinatari"": ""Gioia del Colle"", ""Link"": ""https://www.google.com/maps/d/viewer?mid=1oS8nqqj63wEG8ktq7pcDyj5kPJRzRf_v&hl=it&fbclid=IwAR3G-KwQX29bUahMkLEIwvwG3WNkzDJU7d96sW668gNSzUukwNXzvxLXodE&ll=40.80597499516789%2C16.900460000000066&z=13"", ""Natura"": ""solidale"", ""Posizione"": ""40.796728 16.92359 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Delivery Casa""}","<pre><yamldata>
 Da_chi_offerta: Negozi, farmacie, alimentari del comune di Gioia del Colle
 Descrizione: Mappa in aggiornamento sui negozi, farmacie, alimentari che offrono servizio
