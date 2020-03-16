@@ -1,18 +1,19 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/653,582550617,2020-03-16 19:31:41,2020-03-16 19:30:41,APP Regione #Lazio Doctor COVID: monitoraggio persone che si trovano in sorveglianza ,41.893135,12.505279,"[""Bollettino"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Regione Lazio"", ""Descrizione"": ""Scarica la nuova app della Regione \u2018Lazio Doctor COVID\u2019 in collaborazione con i medici di medicina generale in particolare con la collaborazione del vice segretario nazionale della FIMMG, Pierluigi Bartoletti e che permetter\u00e0 un rapido ed immediato monitoraggio delle persone che si trovano in sorveglianza domiciliare.\n\nIl medico potr\u00e0 accedere online o attraverso la app, che partir\u00e0 prima per Android e a seguire per IOS, stabilendo cos\u00ec un contatto diretto con il paziente per la sorveglianza sanitaria a distanza in totale sicurezza"", ""Destinatari"": ""Cittadine e cittadini Regione Lazio"", ""Natura"": ""solidale"", ""Posizione"": ""41.893135 12.505279 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""APP della Regione #Lazio Doctor COVID per monitoraggio delle persone che si trovano in sorveglianza domiciliare""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/653,582550617,2020-03-16 22:59:38,2020-03-16 19:30:41,APP Regione #Lazio Doctor COVID: monitoraggio persone che si trovano in sorveglianza ,41.893135,12.505279,"[""Bollettino"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Comune"": ""Roma"", ""Da_chi_offerta"": ""Regione Lazio"", ""Descrizione"": ""Scarica la nuova app della Regione \u2018Lazio Doctor COVID\u2019 in collaborazione con i medici di medicina generale in particolare con la collaborazione del vice segretario nazionale della FIMMG, Pierluigi Bartoletti e che permetter\u00e0 un rapido ed immediato monitoraggio delle persone che si trovano in sorveglianza domiciliare.\n\nIl medico potr\u00e0 accedere online o attraverso la app, che partir\u00e0 prima per Android e a seguire per IOS, stabilendo cos\u00ec un contatto diretto con il paziente per la sorveglianza sanitaria a distanza in totale sicurezza"", ""Destinatari"": ""Cittadine e cittadini Regione Lazio"", ""Natura"": ""solidale"", ""Posizione"": ""41.893135 12.505279 0 0"", ""Provincia"": ""-"", ""Regione"": ""Lazio"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""APP della Regione #Lazio Doctor COVID per monitoraggio delle persone che si trovano in sorveglianza domiciliare""}","<pre><yamldata>
+Comune: Roma
 Da_chi_offerta: Regione Lazio
-Descrizione: 'Scarica la nuova app della Regione ‘Lazio Doctor COVID’ in collaborazione
-  con i medici di medicina generale in particolare con la collaborazione del vice
-  segretario nazionale della FIMMG, Pierluigi Bartoletti e che permetterà un rapido
-  ed immediato monitoraggio delle persone che si trovano in sorveglianza domiciliare.
-
-
-  Il medico potrà accedere online o attraverso la app, che partirà prima per Android
-  e a seguire per IOS, stabilendo così un contatto diretto con il paziente per la
-  sorveglianza sanitaria a distanza in totale sicurezza'
+Descrizione: ""Scarica la nuova app della Regione \u2018Lazio Doctor COVID\u2019 in\
+  \ collaborazione con i medici di medicina generale in particolare con la collaborazione\
+  \ del vice segretario nazionale della FIMMG, Pierluigi Bartoletti e che permetter\xE0\
+  \ un rapido ed immediato monitoraggio delle persone che si trovano in sorveglianza\
+  \ domiciliare.\n\nIl medico potr\xE0 accedere online o attraverso la app, che partir\xE0\
+  \ prima per Android e a seguire per IOS, stabilendo cos\xEC un contatto diretto\
+  \ con il paziente per la sorveglianza sanitaria a distanza in totale sicurezza""
 Destinatari: Cittadine e cittadini Regione Lazio
 Natura: solidale
 Posizione: 41.893135 12.505279 0 0
+Provincia: '-'
+Regione: Lazio
 Tipo_di_soggetto: pubblico
 Titolo: 'APP della Regione #Lazio Doctor COVID per monitoraggio delle persone che
   si trovano in sorveglianza domiciliare'
@@ -90,30 +91,35 @@ Descrizione: ""Uffici Postali\nPoste Italiane, in ottemperanza agli ultimi provv
   \ centri operativi o restituzioni al mittente.""
 Link: https://www.poste.it/emergenza-covid19.html?fbclid=IwAR22-ymSmzFcBvFmmiKvikQZv_5MITst3ipv1QSgujpxJpeRMdMyQHzIalw
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/648,582519290,2020-03-16 19:34:50,2020-03-16 18:34:17,Regione #Toscana volontariato e grande distribuzione per spesa a domicilio per persone fragili,43.75795,11.31858,"[""Notizia"", ""accettato"", ""form""]",,,"{""Cosa"": ""Accordo Regione Toscana, volontariato e grande distribuzione per spesa a domicilio per anziani e persone fragili"", ""Descrizione"": ""Spesa a domicilio per anziani, per le categorie a rischio, per le persone che non possono uscire dalla propria abitazione e che non possono contare sull\u2019aiuto di familiari o conoscenti per la consegna a domicilio di beni alimentari e di prima necessit\u00e0.\nE\u2019 stato approvato oggi lo schema di protocollo tra Regione, Anci e soggetti della grande distribuzione (Coop l\u2019ha gi\u00e0 sottoscritto, in procinto di sottoscriverlo anche Conad e Esselunga, e comunque il protocollo \u00e8 aperto a tutti i soggetti della GD) che permetter\u00e0 il servizio tramite il terzo settore e il volontariato. Ulteriori info al link."", ""Link"": ""https://www.toscana-notizie.it/-/coronavirus-spesa-a-domicilio-per-anziani-e-persone-fragili"", ""Posizione"": ""43.75795 11.31858""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/648,582519290,2020-03-16 22:59:43,2020-03-16 18:34:17,Regione #Toscana volontariato e grande distribuzione per spesa a domicilio per persone fragili,43.75795,11.31858,"[""Notizia"", ""accettato"", ""form""]",,,"{""Comune"": ""Bagno a Ripoli"", ""Cosa"": ""Accordo Regione Toscana, volontariato e grande distribuzione per spesa a domicilio per anziani e persone fragili"", ""Descrizione"": ""Spesa a domicilio per anziani, per le categorie a rischio, per le persone che non possono uscire dalla propria abitazione e che non possono contare sull\u2019aiuto di familiari o conoscenti per la consegna a domicilio di beni alimentari e di prima necessit\u00e0.\nE\u2019 stato approvato oggi lo schema di protocollo tra Regione, Anci e soggetti della grande distribuzione (Coop l\u2019ha gi\u00e0 sottoscritto, in procinto di sottoscriverlo anche Conad e Esselunga, e comunque il protocollo \u00e8 aperto a tutti i soggetti della GD) che permetter\u00e0 il servizio tramite il terzo settore e il volontariato. Ulteriori info al link."", ""Link"": ""https://www.toscana-notizie.it/-/coronavirus-spesa-a-domicilio-per-anziani-e-persone-fragili"", ""Posizione"": ""43.75795 11.31858"", ""Provincia"": ""-"", ""Regione"": ""Toscana""}","<pre><yamldata>
+Comune: Bagno a Ripoli
 Cosa: Accordo Regione Toscana, volontariato e grande distribuzione per spesa a domicilio
   per anziani e persone fragili
-Descrizione: 'Spesa a domicilio per anziani, per le categorie a rischio, per le persone
-  che non possono uscire dalla propria abitazione e che non possono contare sull’aiuto
-  di familiari o conoscenti per la consegna a domicilio di beni alimentari e di prima
-  necessità.
-
-  E’ stato approvato oggi lo schema di protocollo tra Regione, Anci e soggetti della
-  grande distribuzione (Coop l’ha già sottoscritto, in procinto di sottoscriverlo
-  anche Conad e Esselunga, e comunque il protocollo è aperto a tutti i soggetti della
-  GD) che permetterà il servizio tramite il terzo settore e il volontariato. Ulteriori
-  info al link.'
-Posizione: 43.75795 11.31858
+Descrizione: ""Spesa a domicilio per anziani, per le categorie a rischio, per le persone\
+  \ che non possono uscire dalla propria abitazione e che non possono contare sull\u2019\
+  aiuto di familiari o conoscenti per la consegna a domicilio di beni alimentari e\
+  \ di prima necessit\xE0.\nE\u2019 stato approvato oggi lo schema di protocollo tra\
+  \ Regione, Anci e soggetti della grande distribuzione (Coop l\u2019ha gi\xE0 sottoscritto,\
+  \ in procinto di sottoscriverlo anche Conad e Esselunga, e comunque il protocollo\
+  \ \xE8 aperto a tutti i soggetti della GD) che permetter\xE0 il servizio tramite\
+  \ il terzo settore e il volontariato. Ulteriori info al link.""
 Link: https://www.toscana-notizie.it/-/coronavirus-spesa-a-domicilio-per-anziani-e-persone-fragili
+Posizione: 43.75795 11.31858
+Provincia: '-'
+Regione: Toscana
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/647,582501500,2020-03-16 19:24:56,2020-03-16 18:03:59,SVS Pubblica Assistenza #Livorno promuove servizio di ascolto psicologico gratuito,43.550508,10.323243,"[""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Cosa"": ""Un aiuto per restare in casa insieme"", ""Descrizione"": ""Servizio di ascolto telefonico e supporto psicologico organizzato da SVS Pubblica Assistenza Livorno"", ""Link"": ""https://www.pubblicaassistenza.it/wp/blog/un-aiuto-per-restareacasa-insieme/"", ""Posizione"": ""43.550508 10.323243 0 0""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/647,582501500,2020-03-16 22:59:44,2020-03-16 18:03:59,SVS Pubblica Assistenza #Livorno promuove servizio di ascolto psicologico gratuito,43.550508,10.323243,"[""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Comune"": ""Livorno"", ""Cosa"": ""Un aiuto per restare in casa insieme"", ""Descrizione"": ""Servizio di ascolto telefonico e supporto psicologico organizzato da SVS Pubblica Assistenza Livorno"", ""Link"": ""https://www.pubblicaassistenza.it/wp/blog/un-aiuto-per-restareacasa-insieme/"", ""Posizione"": ""43.550508 10.323243 0 0"", ""Provincia"": ""Livorno"", ""Regione"": ""Toscana""}","<pre><yamldata>
+Comune: Livorno
 Cosa: Un aiuto per restare in casa insieme
 Descrizione: Servizio di ascolto telefonico e supporto psicologico organizzato da
   SVS Pubblica Assistenza Livorno
 Link: https://www.pubblicaassistenza.it/wp/blog/un-aiuto-per-restareacasa-insieme/
 Posizione: 43.550508 10.323243 0 0
+Provincia: Livorno
+Regione: Toscana
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/646,582498924,2020-03-16 19:09:08,2020-03-16 17:59:41,Favole al telefono della Cooperativa Sociale Lo Scrigno Onlus #Milano,45.412927,9.173262,"[""Giochi/intrattenimento bambini"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Cooperativa Sociale Lo Scrigno Onlus"", ""Descrizione"": ""Gli educatori e le educatrici dello Scrigno si offrono per leggere bellissime storie al telefono!\nSegui la Cooperativa Sociale Lo Scrigno Onlus su Facebook e mandaci un messaggio via Messeneger per essere contattata/o e avere tutte le informazioni."", ""Destinatari"": ""Bambine e bambini"", ""Link"": ""https://www.facebook.com/CooperativaSocialeLoScrignoOnlus/photos/rpp.459078597452644/3608894845804321/?type=3&theater"", ""Natura"": ""solidale"", ""Posizione"": ""45.412927 9.173262 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Favole al telefono della Cooperativa Sociale Lo Scrigno Onlus #Milano""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/646,582498924,2020-03-16 22:59:47,2020-03-16 17:59:41,Favole al telefono della Cooperativa Sociale Lo Scrigno Onlus #Milano,45.412927,9.173262,"[""Giochi/intrattenimento bambini"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Comune"": ""Milano"", ""Da_chi_offerta"": ""Cooperativa Sociale Lo Scrigno Onlus"", ""Descrizione"": ""Gli educatori e le educatrici dello Scrigno si offrono per leggere bellissime storie al telefono!\nSegui la Cooperativa Sociale Lo Scrigno Onlus su Facebook e mandaci un messaggio via Messeneger per essere contattata/o e avere tutte le informazioni."", ""Destinatari"": ""Bambine e bambini"", ""Link"": ""https://www.facebook.com/CooperativaSocialeLoScrignoOnlus/photos/rpp.459078597452644/3608894845804321/?type=3&theater"", ""Natura"": ""solidale"", ""Posizione"": ""45.412927 9.173262 0 0"", ""Provincia"": ""-"", ""Regione"": ""Lombardia"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Favole al telefono della Cooperativa Sociale Lo Scrigno Onlus #Milano""}","<pre><yamldata>
+Comune: Milano
 Da_chi_offerta: Cooperativa Sociale Lo Scrigno Onlus
 Descrizione: 'Gli educatori e le educatrici dello Scrigno si offrono per leggere bellissime
   storie al telefono!
@@ -124,43 +130,46 @@ Destinatari: Bambine e bambini
 Link: https://www.facebook.com/CooperativaSocialeLoScrignoOnlus/photos/rpp.459078597452644/3608894845804321/?type=3&theater
 Natura: solidale
 Posizione: 45.412927 9.173262 0 0
+Provincia: '-'
+Regione: Lombardia
 Tipo_di_soggetto: privato
 Titolo: 'Favole al telefono della Cooperativa Sociale Lo Scrigno Onlus #Milano'
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/645,582498553,2020-03-16 19:18:41,2020-03-16 17:59:04,#Macerata: mappa dei negozi con consegna a domicilio,43.30073,13.45359,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Mappa delle attivit\u00e0 commerciali di Macerata che fanno consegne a domicilio"", ""Destinatari"": ""Cittadine e cittadini che necessitano di consegne a domicilio"", ""Link"": ""https://public.flourish.studio/visualisation/1554356/"", ""Natura"": ""solidale"", ""Posizione"": ""43.30073 13.45359"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""#Macerata: mappa dei negozi con consegna a domicilio""}","<pre><yamldata>
-Descrizione: Mappa delle attività commerciali di Macerata che fanno consegne a domicilio
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/645,582498553,2020-03-16 22:59:49,2020-03-16 17:59:04,#Macerata: mappa dei negozi con consegna a domicilio,43.30073,13.45359,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Comune"": ""Macerata"", ""Descrizione"": ""Mappa delle attivit\u00e0 commerciali di Macerata che fanno consegne a domicilio"", ""Destinatari"": ""Cittadine e cittadini che necessitano di consegne a domicilio"", ""Link"": ""https://public.flourish.studio/visualisation/1554356/"", ""Natura"": ""solidale"", ""Posizione"": ""43.30073 13.45359"", ""Provincia"": ""Macerata"", ""Regione"": ""Marche"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""#Macerata: mappa dei negozi con consegna a domicilio""}","<pre><yamldata>
+Comune: Macerata
+Descrizione: ""Mappa delle attivit\xE0 commerciali di Macerata che fanno consegne a\
+  \ domicilio""
 Destinatari: Cittadine e cittadini che necessitano di consegne a domicilio
 Link: https://public.flourish.studio/visualisation/1554356/
 Natura: solidale
 Posizione: 43.30073 13.45359
+Provincia: Macerata
+Regione: Marche
 Tipo_di_soggetto: privato
 Titolo: '#Macerata: mappa dei negozi con consegna a domicilio'
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/644,582488660,2020-03-16 19:08:25,2020-03-16 17:47:01,"Raccolta fondi per il GOM ""Bianchi-Melacrino-Morelli"" di #ReggioCalabria #RC",38.112713,15.659348,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""La Direzione Aziendale del Grande Ospedale Metropolitano \""Bianchi-Melacrino-Morelli\"" di Reggio Calabria ringrazia Francesco e Fabiana Gentile, Emanuele Ielo e Marco Costantino, organizzatori della raccolta fondi sulla piattaforma GoFundMe.com, al link https://www.gofundme.com/f/terapia-intensiva-ospedale-reggi\u2026, per il nobile gesto di solidariet\u00e0 che denota, inoltre, grande senso civico e vicinanza alle istituzioni.\nVenerd\u00ec la raccolta fondi ha superato i 100.00,00 euro, e proprio in serata il G. O. M. ha completato l'iter procedurale per l'accettazione delle donazioni.\nL'ospedale ringrazia tutti coloro che hanno donato anche individualmente o in riferimento ad altre iniziative e comunica che tutti i fondi raccolti dalle donazioni saranno impegnati per fronteggiare l'emergenza COVID-19 attraverso l'acquisto di attrezzature e strumentazioni sanitarie.\nSecondo i principi di trasparenza e legalit\u00e0 che ispirano le pubbliche amministrazioni, ed al fine di alimentare il clima di fiducia, l\u2019ospedale si impegna a rendicontare alla cittadinanza quanto avr\u00e0 ricevuto in termini di donazioni e come queste risorse saranno state impiegate.\n\nStaff Direzione Generale"", ""Link"": ""https://www.gofundme.com/f/terapia-intensiva-ospedale-reggio-calabria?fbclid=IwAR29I4CpnfvGvbE9ClMiZe8yqEP7gveSy-PNQ7bBg5_vV_CS_wfmdpOka6o"", ""Nome"": ""Ospedale Bianchi-Malacrin\u00f2-Morelli #ReggioCalabria #RC"", ""Posizione"": ""38.112713 15.659348 0 0""}","<pre><yamldata>
-Descrizione: 'La Direzione Aziendale del Grande Ospedale Metropolitano ""Bianchi-Melacrino-Morelli""
-  di Reggio Calabria ringrazia Francesco e Fabiana Gentile, Emanuele Ielo e Marco
-  Costantino, organizzatori della raccolta fondi sulla piattaforma GoFundMe.com, al
-  link https://www.gofundme.com/f/terapia-intensiva-ospedale-reggi…, per il nobile
-  gesto di solidarietà che denota, inoltre, grande senso civico e vicinanza alle istituzioni.
-
-  Venerdì la raccolta fondi ha superato i 100.00,00 euro, e proprio in serata il G.
-  O. M. ha completato l''iter procedurale per l''accettazione delle donazioni.
-
-  L''ospedale ringrazia tutti coloro che hanno donato anche individualmente o in riferimento
-  ad altre iniziative e comunica che tutti i fondi raccolti dalle donazioni saranno
-  impegnati per fronteggiare l''emergenza COVID-19 attraverso l''acquisto di attrezzature
-  e strumentazioni sanitarie.
-
-  Secondo i principi di trasparenza e legalità che ispirano le pubbliche amministrazioni,
-  ed al fine di alimentare il clima di fiducia, l’ospedale si impegna a rendicontare
-  alla cittadinanza quanto avrà ricevuto in termini di donazioni e come queste risorse
-  saranno state impiegate.
-
-
-  Staff Direzione Generale'
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/644,582488660,2020-03-16 22:59:51,2020-03-16 17:47:01,"Raccolta fondi per il GOM ""Bianchi-Melacrino-Morelli"" di #ReggioCalabria #RC",38.112713,15.659348,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Comune"": ""Reggio di Calabria"", ""Descrizione"": ""La Direzione Aziendale del Grande Ospedale Metropolitano \""Bianchi-Melacrino-Morelli\"" di Reggio Calabria ringrazia Francesco e Fabiana Gentile, Emanuele Ielo e Marco Costantino, organizzatori della raccolta fondi sulla piattaforma GoFundMe.com, al link https://www.gofundme.com/f/terapia-intensiva-ospedale-reggi\u2026, per il nobile gesto di solidariet\u00e0 che denota, inoltre, grande senso civico e vicinanza alle istituzioni.\nVenerd\u00ec la raccolta fondi ha superato i 100.00,00 euro, e proprio in serata il G. O. M. ha completato l'iter procedurale per l'accettazione delle donazioni.\nL'ospedale ringrazia tutti coloro che hanno donato anche individualmente o in riferimento ad altre iniziative e comunica che tutti i fondi raccolti dalle donazioni saranno impegnati per fronteggiare l'emergenza COVID-19 attraverso l'acquisto di attrezzature e strumentazioni sanitarie.\nSecondo i principi di trasparenza e legalit\u00e0 che ispirano le pubbliche amministrazioni, ed al fine di alimentare il clima di fiducia, l\u2019ospedale si impegna a rendicontare alla cittadinanza quanto avr\u00e0 ricevuto in termini di donazioni e come queste risorse saranno state impiegate.\n\nStaff Direzione Generale"", ""Link"": ""https://www.gofundme.com/f/terapia-intensiva-ospedale-reggio-calabria?fbclid=IwAR29I4CpnfvGvbE9ClMiZe8yqEP7gveSy-PNQ7bBg5_vV_CS_wfmdpOka6o"", ""Nome"": ""Ospedale Bianchi-Malacrin\u00f2-Morelli #ReggioCalabria #RC"", ""Posizione"": ""38.112713 15.659348 0 0"", ""Provincia"": ""-"", ""Regione"": ""Calabria""}","<pre><yamldata>
+Comune: Reggio di Calabria
+Descrizione: ""La Direzione Aziendale del Grande Ospedale Metropolitano \""Bianchi-Melacrino-Morelli\""\
+  \ di Reggio Calabria ringrazia Francesco e Fabiana Gentile, Emanuele Ielo e Marco\
+  \ Costantino, organizzatori della raccolta fondi sulla piattaforma GoFundMe.com,\
+  \ al link https://www.gofundme.com/f/terapia-intensiva-ospedale-reggi\u2026, per\
+  \ il nobile gesto di solidariet\xE0 che denota, inoltre, grande senso civico e vicinanza\
+  \ alle istituzioni.\nVenerd\xEC la raccolta fondi ha superato i 100.00,00 euro,\
+  \ e proprio in serata il G. O. M. ha completato l'iter procedurale per l'accettazione\
+  \ delle donazioni.\nL'ospedale ringrazia tutti coloro che hanno donato anche individualmente\
+  \ o in riferimento ad altre iniziative e comunica che tutti i fondi raccolti dalle\
+  \ donazioni saranno impegnati per fronteggiare l'emergenza COVID-19 attraverso l'acquisto\
+  \ di attrezzature e strumentazioni sanitarie.\nSecondo i principi di trasparenza\
+  \ e legalit\xE0 che ispirano le pubbliche amministrazioni, ed al fine di alimentare\
+  \ il clima di fiducia, l\u2019ospedale si impegna a rendicontare alla cittadinanza\
+  \ quanto avr\xE0 ricevuto in termini di donazioni e come queste risorse saranno\
+  \ state impiegate.\n\nStaff Direzione Generale""
 Link: https://www.gofundme.com/f/terapia-intensiva-ospedale-reggio-calabria?fbclid=IwAR29I4CpnfvGvbE9ClMiZe8yqEP7gveSy-PNQ7bBg5_vV_CS_wfmdpOka6o
-Nome: 'Ospedale Bianchi-Malacrinò-Morelli #ReggioCalabria #RC'
+Nome: ""Ospedale Bianchi-Malacrin\xF2-Morelli #ReggioCalabria #RC""
 Posizione: 38.112713 15.659348 0 0
+Provincia: '-'
+Regione: Calabria
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/643,582485461,2020-03-16 19:05:29,2020-03-16 17:41:31,#CroceRossa cerca personale sanitario disponibilità immediata,,,"[""Bollettino"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""Croce Rossa cerca medici e infermieri con disponibilit\u00e0 immediata"", ""Descrizione"": ""La Croce rossa italiana in coordinamento con il ministero della Salute lancia un appello urgente per reclutare immediatamente personale sanitario per far fronte all\u2019emergenza Covid-19.\n\n\""Ricerchiamo medici, infermieri, operatori socio sanitari e personale sanitario con disponibilit\u00e0 immediata per supporto nelle aree pi\u00f9 colpite. Invia un sms al numero 435.35.35\"". \n\nDigita la tua qualifica, ad esempio \""disponibilit\u00e0 immediata medico\"", e sarai ricontattato da un operatore della Croce rossa."", ""Link"": ""http://www.salute.gov.it/portale/news/p3_2_1_1_1.jsp?lingua=italiano&menu=notizie&p=dalministero&id=4244""}","<pre><yamldata>
 Cosa: Croce Rossa cerca medici e infermieri con disponibilità immediata
@@ -173,7 +182,8 @@ Descrizione: ""La Croce rossa italiana in coordinamento con il ministero della S
   \ da un operatore della Croce rossa.""
 Link: http://www.salute.gov.it/portale/news/p3_2_1_1_1.jsp?lingua=italiano&menu=notizie&p=dalministero&id=4244
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/640,582439487,2020-03-16 19:08:46,2020-03-16 16:35:04, Ritiro ricette mediche e consegna a domicilio prodotti farmaceutici #Udine,46.06537,13.236809,"[""Consegne e commissioni"", ""Contatti utili"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Protezione Civile Comune di Udine - CRI - Ferderfarma"", ""Descrizione"": ""Ritiro ricette mediche e consegna a domicilio di prodotti farmaceutici (numero verde gratuito)"", ""Destinatari"": ""anziani over 65"", ""Link"": ""https://www.comune.udine.it/novita/notizie/2358-protezione-civile-e-no-alla-solit-udine-in-aiuto-degli-anziani"", ""Natura"": ""solidale"", ""Posizione"": ""46.06537 13.236809 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Emergenza coronavirus""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/640,582439487,2020-03-16 22:59:53,2020-03-16 16:35:04, Ritiro ricette mediche e consegna a domicilio prodotti farmaceutici #Udine,46.06537,13.236809,"[""Consegne e commissioni"", ""Contatti utili"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Comune"": ""Udine"", ""Da_chi_offerta"": ""Protezione Civile Comune di Udine - CRI - Ferderfarma"", ""Descrizione"": ""Ritiro ricette mediche e consegna a domicilio di prodotti farmaceutici (numero verde gratuito)"", ""Destinatari"": ""anziani over 65"", ""Link"": ""https://www.comune.udine.it/novita/notizie/2358-protezione-civile-e-no-alla-solit-udine-in-aiuto-degli-anziani"", ""Natura"": ""solidale"", ""Posizione"": ""46.06537 13.236809 0 0"", ""Provincia"": ""Udine"", ""Regione"": ""Friuli Venezia Giulia"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Emergenza coronavirus""}","<pre><yamldata>
+Comune: Udine
 Da_chi_offerta: Protezione Civile Comune di Udine - CRI - Ferderfarma
 Descrizione: Ritiro ricette mediche e consegna a domicilio di prodotti farmaceutici
   (numero verde gratuito)
@@ -181,6 +191,8 @@ Destinatari: anziani over 65
 Link: https://www.comune.udine.it/novita/notizie/2358-protezione-civile-e-no-alla-solit-udine-in-aiuto-degli-anziani
 Natura: solidale
 Posizione: 46.06537 13.236809 0 0
+Provincia: Udine
+Regione: Friuli Venezia Giulia
 Tipo_di_soggetto: pubblico
 Titolo: Emergenza coronavirus
 </yamldata></pre>",open
@@ -249,83 +261,86 @@ Descrizione: '🟢 Se NON sei positivo al tampone e NON sei in quarantena:
   Agiamo in modo responsabile e restiamo a casa!'
 Link: http://www.iss.it/coronavirus
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/636,582379259,2020-03-16 15:18:58,2020-03-16 15:17:18,Come contattare servizi e sportelli sociali durante l'emergenza Comune di #Bologna,44.494929,11.336796,"[""Bollettino"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Servizi e Sportelli Sociali Comune di Bologna"", ""Descrizione"": ""Ricordiamo che i servizi sociali sono regolarmente aperti. Per contrastare la diffusione del coronavirus il Comune di Bologna invita tutta la cittadinanza a non recarsi agli sportelli sociali, ma a contattarli prioritariamente telefonicamente o online nei consueti orari di apertura marted\u00ec e gioved\u00ec dalle 8.15 alle 17.30.\nPer i soli Sportelli sociali dei territori di Borgo Panigale Reno, Navile e Santo Stefano la chiusura \u00e8 anticipata alle ore 14 fino a nuova comunicazione.  \nQuesti i recapiti da utilizzare:\n\u2022\tSportello sociale Borgo Panigale Reno, tel. 0516418275 - 0516418208 - serviziosocialeborgopanigalereno@comune.bologna.it\n\u2022\tSportello sociale  Navile, tel. 0514151313 - 0514151356 - 0514151306 -   serviziosocialenavile@comune.bologna.it\n\u2022\tSportello sociale  Porto Saragozza, tel. 0512197894 - 0512197897 - 0512197891 - serviziosocialeportosaragozza@comune.bologna.it\n\u2022\tSportello sociale  Savena, tel. 0512197481 - serviziosocialesavena@comune.bologna.it\n\u2022\tSportello sociale  San Donato San Vitale, 0512196370 - serviziosocialesandonatosanvitale@comune.bologna.it\n\u2022\tSportello sociale  Santo Stefano, tel.  0512197030 - 0512197048 -   serviziosocialesantostefano@comune.bologna.it\n\nSi invita a utilizzare questi contatti in particolare per:\n- segnalare situazioni di rilevante necessit\u00e0, come ad esempio: dimissioni ospedaliere di anziani, situazioni di non autosufficienza, situazioni di violenza domestica e di genere, situazioni di fragilit\u00e0 sociale e abitativa.  L'operatore rilever\u00e0 il bisogno e attiver\u00e0 il contatto con il servizio sociale professionale.\n- richiedere l'attivazione o il rinnovo dei bonus energetici (bonus acqua, luce e gas) o dei contributi per l'abbattimento delle barriere architettoniche, l'acquisto e adattamento di veicoli destinati a persone disabili, l'acquisto di attrezzature che favoriscano la permanenza nella propria abitazione delle persone disabili gravi. L'operatore fornir\u00e0 tutte le informazioni utili per trasmettere la domanda in forma telematica.\n\nSi ricorda inoltre che:\n- le persone in possesso di credenziali SPID possono attivare e rinnovare i bonus energetici (acqua, luce e gas) tramite la App \""Bologna Welfare\"" scaricabile gratuitamente dagli appstore per smartphone\n-  tutte le informazioni sulla rete dei servizi sociali cittadini e il supporto all'utilizzo della App \""Bologna Welfare\"" si possono sempre richiedere anche tramite telefono ed email contattando il Punto Unico informativo degli sportelli  sociali a questi recapiti:\ntel. 0512197878 \u2013 sportellosocialebologna@comune.bologna.it\nluned\u00ec: 9-13 e 13.30-16\nmarted\u00ec: 9-13 e 13.30-17.30\nmercoled\u00ec: 9-13\ngioved\u00ec: 9-13 e 13.30-1 7.30\nvenerd\u00ec: 9-13 e 13.30-16"", ""Destinatari"": ""Cittadine e cittadini Comune di Bologna"", ""Link"": ""http://www.comune.bologna.it/sportellosociale/"", ""Natura"": ""solidale"", ""Posizione"": ""44.494929 11.336796 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Come contattare i servizi e gli sportelli sociali durante l'emergenza Comune di #Bologna""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/636,582379259,2020-03-16 22:59:55,2020-03-16 15:17:18,Come contattare servizi e sportelli sociali durante l'emergenza Comune di #Bologna,44.494929,11.336796,"[""Bollettino"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Comune"": ""Bologna"", ""Da_chi_offerta"": ""Servizi e Sportelli Sociali Comune di Bologna"", ""Descrizione"": ""Ricordiamo che i servizi sociali sono regolarmente aperti. Per contrastare la diffusione del coronavirus il Comune di Bologna invita tutta la cittadinanza a non recarsi agli sportelli sociali, ma a contattarli prioritariamente telefonicamente o online nei consueti orari di apertura marted\u00ec e gioved\u00ec dalle 8.15 alle 17.30.\nPer i soli Sportelli sociali dei territori di Borgo Panigale Reno, Navile e Santo Stefano la chiusura \u00e8 anticipata alle ore 14 fino a nuova comunicazione.  \nQuesti i recapiti da utilizzare:\n\u2022\tSportello sociale Borgo Panigale Reno, tel. 0516418275 - 0516418208 - serviziosocialeborgopanigalereno@comune.bologna.it\n\u2022\tSportello sociale  Navile, tel. 0514151313 - 0514151356 - 0514151306 -   serviziosocialenavile@comune.bologna.it\n\u2022\tSportello sociale  Porto Saragozza, tel. 0512197894 - 0512197897 - 0512197891 - serviziosocialeportosaragozza@comune.bologna.it\n\u2022\tSportello sociale  Savena, tel. 0512197481 - serviziosocialesavena@comune.bologna.it\n\u2022\tSportello sociale  San Donato San Vitale, 0512196370 - serviziosocialesandonatosanvitale@comune.bologna.it\n\u2022\tSportello sociale  Santo Stefano, tel.  0512197030 - 0512197048 -   serviziosocialesantostefano@comune.bologna.it\n\nSi invita a utilizzare questi contatti in particolare per:\n- segnalare situazioni di rilevante necessit\u00e0, come ad esempio: dimissioni ospedaliere di anziani, situazioni di non autosufficienza, situazioni di violenza domestica e di genere, situazioni di fragilit\u00e0 sociale e abitativa.  L'operatore rilever\u00e0 il bisogno e attiver\u00e0 il contatto con il servizio sociale professionale.\n- richiedere l'attivazione o il rinnovo dei bonus energetici (bonus acqua, luce e gas) o dei contributi per l'abbattimento delle barriere architettoniche, l'acquisto e adattamento di veicoli destinati a persone disabili, l'acquisto di attrezzature che favoriscano la permanenza nella propria abitazione delle persone disabili gravi. L'operatore fornir\u00e0 tutte le informazioni utili per trasmettere la domanda in forma telematica.\n\nSi ricorda inoltre che:\n- le persone in possesso di credenziali SPID possono attivare e rinnovare i bonus energetici (acqua, luce e gas) tramite la App \""Bologna Welfare\"" scaricabile gratuitamente dagli appstore per smartphone\n-  tutte le informazioni sulla rete dei servizi sociali cittadini e il supporto all'utilizzo della App \""Bologna Welfare\"" si possono sempre richiedere anche tramite telefono ed email contattando il Punto Unico informativo degli sportelli  sociali a questi recapiti:\ntel. 0512197878 \u2013 sportellosocialebologna@comune.bologna.it\nluned\u00ec: 9-13 e 13.30-16\nmarted\u00ec: 9-13 e 13.30-17.30\nmercoled\u00ec: 9-13\ngioved\u00ec: 9-13 e 13.30-1 7.30\nvenerd\u00ec: 9-13 e 13.30-16"", ""Destinatari"": ""Cittadine e cittadini Comune di Bologna"", ""Link"": ""http://www.comune.bologna.it/sportellosociale/"", ""Natura"": ""solidale"", ""Posizione"": ""44.494929 11.336796 0 0"", ""Provincia"": ""-"", ""Regione"": ""Emilia-Romagna"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Come contattare i servizi e gli sportelli sociali durante l'emergenza Comune di #Bologna""}","<pre><yamldata>
+Comune: Bologna
 Da_chi_offerta: Servizi e Sportelli Sociali Comune di Bologna
 Descrizione: ""Ricordiamo che i servizi sociali sono regolarmente aperti. Per contrastare\
   \ la diffusione del coronavirus il Comune di Bologna invita tutta la cittadinanza\
   \ a non recarsi agli sportelli sociali, ma a contattarli prioritariamente telefonicamente\
-  \ o online nei consueti orari di apertura martedì e giovedì dalle 8.15 alle 17.30.\n\
-  Per i soli Sportelli sociali dei territori di Borgo Panigale Reno, Navile e Santo\
-  \ Stefano la chiusura è anticipata alle ore 14 fino a nuova comunicazione.  \nQuesti\
-  \ i recapiti da utilizzare:\n•\tSportello sociale Borgo Panigale Reno, tel. 0516418275\
-  \ - 0516418208 - serviziosocialeborgopanigalereno@comune.bologna.it\n•\tSportello\
-  \ sociale  Navile, tel. 0514151313 - 0514151356 - 0514151306 -   serviziosocialenavile@comune.bologna.it\n\
-  •\tSportello sociale  Porto Saragozza, tel. 0512197894 - 0512197897 - 0512197891\
-  \ - serviziosocialeportosaragozza@comune.bologna.it\n•\tSportello sociale  Savena,\
-  \ tel. 0512197481 - serviziosocialesavena@comune.bologna.it\n•\tSportello sociale\
-  \  San Donato San Vitale, 0512196370 - serviziosocialesandonatosanvitale@comune.bologna.it\n\
-  •\tSportello sociale  Santo Stefano, tel.  0512197030 - 0512197048 -   serviziosocialesantostefano@comune.bologna.it\n\
+  \ o online nei consueti orari di apertura marted\xEC e gioved\xEC dalle 8.15 alle\
+  \ 17.30.\nPer i soli Sportelli sociali dei territori di Borgo Panigale Reno, Navile\
+  \ e Santo Stefano la chiusura \xE8 anticipata alle ore 14 fino a nuova comunicazione.\
+  \  \nQuesti i recapiti da utilizzare:\n\u2022\tSportello sociale Borgo Panigale\
+  \ Reno, tel. 0516418275 - 0516418208 - serviziosocialeborgopanigalereno@comune.bologna.it\n\
+  \u2022\tSportello sociale  Navile, tel. 0514151313 - 0514151356 - 0514151306 - \
+  \  serviziosocialenavile@comune.bologna.it\n\u2022\tSportello sociale  Porto Saragozza,\
+  \ tel. 0512197894 - 0512197897 - 0512197891 - serviziosocialeportosaragozza@comune.bologna.it\n\
+  \u2022\tSportello sociale  Savena, tel. 0512197481 - serviziosocialesavena@comune.bologna.it\n\
+  \u2022\tSportello sociale  San Donato San Vitale, 0512196370 - serviziosocialesandonatosanvitale@comune.bologna.it\n\
+  \u2022\tSportello sociale  Santo Stefano, tel.  0512197030 - 0512197048 -   serviziosocialesantostefano@comune.bologna.it\n\
   \nSi invita a utilizzare questi contatti in particolare per:\n- segnalare situazioni\
-  \ di rilevante necessità, come ad esempio: dimissioni ospedaliere di anziani, situazioni\
-  \ di non autosufficienza, situazioni di violenza domestica e di genere, situazioni\
-  \ di fragilità sociale e abitativa.  L'operatore rileverà il bisogno e attiverà\
-  \ il contatto con il servizio sociale professionale.\n- richiedere l'attivazione\
-  \ o il rinnovo dei bonus energetici (bonus acqua, luce e gas) o dei contributi per\
-  \ l'abbattimento delle barriere architettoniche, l'acquisto e adattamento di veicoli\
-  \ destinati a persone disabili, l'acquisto di attrezzature che favoriscano la permanenza\
-  \ nella propria abitazione delle persone disabili gravi. L'operatore fornirà tutte\
-  \ le informazioni utili per trasmettere la domanda in forma telematica.\n\nSi ricorda\
-  \ inoltre che:\n- le persone in possesso di credenziali SPID possono attivare e\
-  \ rinnovare i bonus energetici (acqua, luce e gas) tramite la App \""Bologna Welfare\""\
-  \ scaricabile gratuitamente dagli appstore per smartphone\n-  tutte le informazioni\
-  \ sulla rete dei servizi sociali cittadini e il supporto all'utilizzo della App\
-  \ \""Bologna Welfare\"" si possono sempre richiedere anche tramite telefono ed email\
-  \ contattando il Punto Unico informativo degli sportelli  sociali a questi recapiti:\n\
-  tel. 0512197878 – sportellosocialebologna@comune.bologna.it\nlunedì: 9-13 e 13.30-16\n\
-  martedì: 9-13 e 13.30-17.30\nmercoledì: 9-13\ngiovedì: 9-13 e 13.30-1 7.30\nvenerdì:\
-  \ 9-13 e 13.30-16""
+  \ di rilevante necessit\xE0, come ad esempio: dimissioni ospedaliere di anziani,\
+  \ situazioni di non autosufficienza, situazioni di violenza domestica e di genere,\
+  \ situazioni di fragilit\xE0 sociale e abitativa.  L'operatore rilever\xE0 il bisogno\
+  \ e attiver\xE0 il contatto con il servizio sociale professionale.\n- richiedere\
+  \ l'attivazione o il rinnovo dei bonus energetici (bonus acqua, luce e gas) o dei\
+  \ contributi per l'abbattimento delle barriere architettoniche, l'acquisto e adattamento\
+  \ di veicoli destinati a persone disabili, l'acquisto di attrezzature che favoriscano\
+  \ la permanenza nella propria abitazione delle persone disabili gravi. L'operatore\
+  \ fornir\xE0 tutte le informazioni utili per trasmettere la domanda in forma telematica.\n\
+  \nSi ricorda inoltre che:\n- le persone in possesso di credenziali SPID possono\
+  \ attivare e rinnovare i bonus energetici (acqua, luce e gas) tramite la App \""\
+  Bologna Welfare\"" scaricabile gratuitamente dagli appstore per smartphone\n-  tutte\
+  \ le informazioni sulla rete dei servizi sociali cittadini e il supporto all'utilizzo\
+  \ della App \""Bologna Welfare\"" si possono sempre richiedere anche tramite telefono\
+  \ ed email contattando il Punto Unico informativo degli sportelli  sociali a questi\
+  \ recapiti:\ntel. 0512197878 \u2013 sportellosocialebologna@comune.bologna.it\n\
+  luned\xEC: 9-13 e 13.30-16\nmarted\xEC: 9-13 e 13.30-17.30\nmercoled\xEC: 9-13\n\
+  gioved\xEC: 9-13 e 13.30-1 7.30\nvenerd\xEC: 9-13 e 13.30-16""
 Destinatari: Cittadine e cittadini Comune di Bologna
 Link: http://www.comune.bologna.it/sportellosociale/
 Natura: solidale
 Posizione: 44.494929 11.336796 0 0
+Provincia: '-'
+Regione: Emilia-Romagna
 Tipo_di_soggetto: pubblico
 Titolo: 'Come contattare i servizi e gli sportelli sociali durante l''emergenza Comune
   di #Bologna'
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/635,582370534,2020-03-16 16:50:01,2020-03-16 15:06:22,Non sei sola. Lucha y Siesta: contatti utili,41.861419,12.557276,"[""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Lucha y Siesta"", ""Descrizione"": ""Sappiamo che in periodi di crisi, come quella che stiamo vivendo, le dinamiche violente si acuiscono.\nPer questo anche se ci troviamo costrette a rimandare i colloqui di persona, la Casa delle Donne Lucha y Siesta c'\u00e8!\nLe operatrici di Lucha y Siesta sono reperibili per ascolto e accompagno h 24 per:\ncolloqui telefonici al numero 3291221342\no attraverso mail all\u2019indirizzo\nnonseisola.lucha@gmail.com\nAbbiamo inoltre deciso di aprire un canale diretto via chat, per permettere a pi\u00f9 donne possibili di raggiungerci e mettersi in comunicazione con noi, perch\u00e9 chiuse in casa non sempre sar\u00e0 possibile poter telefonare, attraverso l\u2019account FB @lucha.ysiesta."", ""Destinatari"": ""Donne e minori vittime di violenza domestica"", ""Link"": ""https://luchaysiesta.wordpress.com/"", ""Natura"": ""solidale"", ""Posizione"": ""41.861419 12.557276 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Non sei sola""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/635,582370534,2020-03-16 22:59:56,2020-03-16 15:06:22,Non sei sola. Lucha y Siesta: contatti utili,41.861419,12.557276,"[""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Comune"": ""Roma"", ""Da_chi_offerta"": ""Lucha y Siesta"", ""Descrizione"": ""Sappiamo che in periodi di crisi, come quella che stiamo vivendo, le dinamiche violente si acuiscono.\nPer questo anche se ci troviamo costrette a rimandare i colloqui di persona, la Casa delle Donne Lucha y Siesta c'\u00e8!\nLe operatrici di Lucha y Siesta sono reperibili per ascolto e accompagno h 24 per:\ncolloqui telefonici al numero 3291221342\no attraverso mail all\u2019indirizzo\nnonseisola.lucha@gmail.com\nAbbiamo inoltre deciso di aprire un canale diretto via chat, per permettere a pi\u00f9 donne possibili di raggiungerci e mettersi in comunicazione con noi, perch\u00e9 chiuse in casa non sempre sar\u00e0 possibile poter telefonare, attraverso l\u2019account FB @lucha.ysiesta."", ""Destinatari"": ""Donne e minori vittime di violenza domestica"", ""Link"": ""https://luchaysiesta.wordpress.com/"", ""Natura"": ""solidale"", ""Posizione"": ""41.861419 12.557276 0 0"", ""Provincia"": ""-"", ""Regione"": ""Lazio"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Non sei sola""}","<pre><yamldata>
+Comune: Roma
 Da_chi_offerta: Lucha y Siesta
-Descrizione: 'Sappiamo che in periodi di crisi, come quella che stiamo vivendo, le
-  dinamiche violente si acuiscono.
-
-  Per questo anche se ci troviamo costrette a rimandare i colloqui di persona, la
-  Casa delle Donne Lucha y Siesta c''è!
-
-  Le operatrici di Lucha y Siesta sono reperibili per ascolto e accompagno h 24 per:
-
-  colloqui telefonici al numero 3291221342
-
-  o attraverso mail all’indirizzo
-
-  nonseisola.lucha@gmail.com
-
-  Abbiamo inoltre deciso di aprire un canale diretto via chat, per permettere a più
-  donne possibili di raggiungerci e mettersi in comunicazione con noi, perché chiuse
-  in casa non sempre sarà possibile poter telefonare, attraverso l’account FB @lucha.ysiesta.'
+Descrizione: ""Sappiamo che in periodi di crisi, come quella che stiamo vivendo, le\
+  \ dinamiche violente si acuiscono.\nPer questo anche se ci troviamo costrette a\
+  \ rimandare i colloqui di persona, la Casa delle Donne Lucha y Siesta c'\xE8!\n\
+  Le operatrici di Lucha y Siesta sono reperibili per ascolto e accompagno h 24 per:\n\
+  colloqui telefonici al numero 3291221342\no attraverso mail all\u2019indirizzo\n\
+  nonseisola.lucha@gmail.com\nAbbiamo inoltre deciso di aprire un canale diretto via\
+  \ chat, per permettere a pi\xF9 donne possibili di raggiungerci e mettersi in comunicazione\
+  \ con noi, perch\xE9 chiuse in casa non sempre sar\xE0 possibile poter telefonare,\
+  \ attraverso l\u2019account FB @lucha.ysiesta.""
 Destinatari: Donne e minori vittime di violenza domestica
 Link: https://luchaysiesta.wordpress.com/
 Natura: solidale
 Posizione: 41.861419 12.557276 0 0
+Provincia: '-'
+Regione: Lazio
 Tipo_di_soggetto: privato
 Titolo: Non sei sola
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/634,582367452,2020-03-16 21:55:21,2020-03-16 15:02:25,Urgente: mancanza DPI studio medico #Piemonte,45.080856,7.662103,"[""Bollettino"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""Urgente mancanza DPI"", ""Descrizione"": ""Sono un'infermiera del Piemonte e lavoro a Torino in uno studio medico e ad oggi non abbiamo DPI (dispositivi di protezione individuale) forniti dall'Asl. Abbiamo acquistato a nostre spese camici monouso, cuffie monouso, occhiali protettivi, guanti, termometro a distanza, mascherine chirurgiche! Siamo sprovvisti di mascherine FFP3, provate ad ordinare online senza successo ovviamente, senza contare i costi proibitivi. Chi pu\u00f2 aiutarci a trovare mascherine e altri DPI pu\u00f2 scrivermi a inf.martinelli@gmail.com grazie!"", ""Posizione"": ""45.080856 7.662103 314.3000183105469 13.381999969482422""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/634,582367452,2020-03-16 22:59:58,2020-03-16 15:02:25,Urgente: mancanza DPI studio medico #Piemonte,45.080856,7.662103,"[""Bollettino"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Comune"": ""Torino"", ""Cosa"": ""Urgente mancanza DPI"", ""Descrizione"": ""Sono un'infermiera del Piemonte e lavoro a Torino in uno studio medico e ad oggi non abbiamo DPI (dispositivi di protezione individuale) forniti dall'Asl. Abbiamo acquistato a nostre spese camici monouso, cuffie monouso, occhiali protettivi, guanti, termometro a distanza, mascherine chirurgiche! Siamo sprovvisti di mascherine FFP3, provate ad ordinare online senza successo ovviamente, senza contare i costi proibitivi. Chi pu\u00f2 aiutarci a trovare mascherine e altri DPI pu\u00f2 scrivermi a inf.martinelli@gmail.com grazie!"", ""Posizione"": ""45.080856 7.662103 314.3000183105469 13.381999969482422"", ""Provincia"": ""-"", ""Regione"": ""Piemonte""}","<pre><yamldata>
+Comune: Torino
 Cosa: Urgente mancanza DPI
-Descrizione: Sono un'infermiera del Piemonte e lavoro a Torino in uno studio medico e ad oggi
-  non abbiamo DPI (dispositivi di protezione individuale) forniti dall'Asl. Abbiamo
-  acquistato a nostre spese camici monouso, cuffie monouso, occhiali protettivi, guanti,
-  termometro a distanza, mascherine chirurgiche! Siamo sprovvisti di mascherine FFP3,
-  provate ad ordinare online senza successo ovviamente, senza contare i costi proibitivi. Chi può aiutarci a trovare mascherine e altri DPI può scrivermi a inf.martinelli@gmail.com grazie! 
+Descrizione: ""Sono un'infermiera del Piemonte e lavoro a Torino in uno studio medico\
+  \ e ad oggi non abbiamo DPI (dispositivi di protezione individuale) forniti dall'Asl.\
+  \ Abbiamo acquistato a nostre spese camici monouso, cuffie monouso, occhiali protettivi,\
+  \ guanti, termometro a distanza, mascherine chirurgiche! Siamo sprovvisti di mascherine\
+  \ FFP3, provate ad ordinare online senza successo ovviamente, senza contare i costi\
+  \ proibitivi. Chi pu\xF2 aiutarci a trovare mascherine e altri DPI pu\xF2 scrivermi\
+  \ a inf.martinelli@gmail.com grazie!""
 Posizione: 45.080856 7.662103 314.3000183105469 13.381999969482422
+Provincia: '-'
+Regione: Piemonte
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/633,582365933,2020-03-16 16:07:34,2020-03-16 15:00:22,Medici senza frontiere: servono aiuti urgenti per proteggere personale medico. Appello ai paesi euro,,,"[""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""Medici senza frontiere: servono aiuti urgenti per proteggere personale medico. Appello ai paesi europei"", ""Descrizione"": ""In questo momento di grave emergenza Medici senza frontiere Italia lancia un appello ai Paesi europei perch\u00e9 dimostrino solidariet\u00e0 al di l\u00e0 dei propri confini nazionali.\nForniture mediche essenziali, inclusi dispositivi di protezione individuale a partire dalle mascherine per proteggere gli operatori sanitari, devono essere inviate con urgenza dove sono pi\u00f9 criticamente necessarie.\nIn questo momento di crisi, nessun paese pu\u00f2 farcela da solo, nessuno pu\u00f2 produrre tutte le forniture di cui ha bisogno. Tutti gli Stati membri europei devono al pi\u00f9 presto rendere operativi i meccanismi di solidariet\u00e0 predisposti dall\u2019Unione Europea e condividere le risorse necessarie per combattere la pandemia nelle aree in cui oggi \u00e8 pi\u00f9 violenta."", ""Destinatari"": ""Paesi europei"", ""Link"": ""https://t.co/2ZqQ9CWd2o?amp=1""}","<pre><yamldata>
 Cosa: 'Medici senza frontiere: servono aiuti urgenti per proteggere personale medico.
@@ -364,7 +379,8 @@ Natura: culturale-ricr
 Posizione: 42.336413 -71.090823 0 0
 Titolo: Design for Emergency
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/631,582354434,2020-03-16 14:58:45,2020-03-16 14:45:15,"Le favole di Giorgia, una storia al giorno contro il Covid-19",41.936785,12.372061,"[""Attivita culturali e ricreative"", ""Bollettino"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Giorgia Staiano"", ""Descrizione"": ""Sono Giorgia, una terapista della riabilitazione di Roma. Ogni giorno lavoro in ospedale e di passione scrivo storie, e ho deciso di dare il mio contributo tutti i giorni regalando una favola ai bambini. Ho creato la pagina Facebook https://www.facebook.com/Le-Favole-di-Giorgia-100139488284126/\nDove Ogni mattina carico un video dove leggo una delle mie favole, mentre alle 18 ogni sera una nuova storia."", ""Destinatari"": ""Bambini, insegnanti, famiglie"", ""Link"": ""https://www.facebook.com/Le-Favole-di-Giorgia-100139488284126/"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""41.936785 12.372061 0 15.243000030517578"", ""Titolo"": ""Le favole di Giorgia, una storia al giorno contro il Covid-19""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/631,582354434,2020-03-16 23:00:03,2020-03-16 14:45:15,"Le favole di Giorgia, una storia al giorno contro il Covid-19",41.936785,12.372061,"[""Attivita culturali e ricreative"", ""Bollettino"", ""accettato"", ""form""]",,,"{""Comune"": ""Roma"", ""Da_chi_offerta"": ""Giorgia Staiano"", ""Descrizione"": ""Sono Giorgia, una terapista della riabilitazione di Roma. Ogni giorno lavoro in ospedale e di passione scrivo storie, e ho deciso di dare il mio contributo tutti i giorni regalando una favola ai bambini. Ho creato la pagina Facebook https://www.facebook.com/Le-Favole-di-Giorgia-100139488284126/\nDove Ogni mattina carico un video dove leggo una delle mie favole, mentre alle 18 ogni sera una nuova storia."", ""Destinatari"": ""Bambini, insegnanti, famiglie"", ""Link"": ""https://www.facebook.com/Le-Favole-di-Giorgia-100139488284126/"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""41.936785 12.372061 0 15.243000030517578"", ""Provincia"": ""-"", ""Regione"": ""Lazio"", ""Titolo"": ""Le favole di Giorgia, una storia al giorno contro il Covid-19""}","<pre><yamldata>
+Comune: Roma
 Da_chi_offerta: Giorgia Staiano
 Descrizione: 'Sono Giorgia, una terapista della riabilitazione di Roma. Ogni giorno
   lavoro in ospedale e di passione scrivo storie, e ho deciso di dare il mio contributo
@@ -376,99 +392,99 @@ Destinatari: Bambini, insegnanti, famiglie
 Link: https://www.facebook.com/Le-Favole-di-Giorgia-100139488284126/
 Natura: culturale-ricr
 Posizione: 41.936785 12.372061 0 15.243000030517578
+Provincia: '-'
+Regione: Lazio
 Titolo: Le favole di Giorgia, una storia al giorno contro il Covid-19
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/629,582342341,2020-03-16 14:29:12,2020-03-16 14:28:16,A casa ma non soli - Commissioni a domicilio a #Firenze,43.770017,11.255583,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Arci Firenze"", ""Descrizione"": ""Molti nostri Circoli e Associazioni, in questi giorni cos\u00ec difficili, si sono gi\u00e0 messi in moto per garantire un supporto sociale e/o culturale agli altri, in particolar modo alle persone pi\u00f9 deboli. Qui l'elenco: https://www.facebook.com/arcifirenze/photos/a.815320281867457/2972327982833332/?type=3&theater&ifg=1"", ""Link"": ""https://www.facebook.com/arcifirenze/photos/a.815320281867457/2972327982833332/?type=3&theater&ifg=1"", ""Natura"": ""solidale"", ""Posizione"": ""43.770017 11.255583 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""A casa ma non soli - Commissioni a domicilio a #Firenze""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/629,582342341,2020-03-16 23:00:06,2020-03-16 14:28:16,A casa ma non soli - Commissioni a domicilio a #Firenze,43.770017,11.255583,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Comune"": ""Firenze"", ""Da_chi_offerta"": ""Arci Firenze"", ""Descrizione"": ""Molti nostri Circoli e Associazioni, in questi giorni cos\u00ec difficili, si sono gi\u00e0 messi in moto per garantire un supporto sociale e/o culturale agli altri, in particolar modo alle persone pi\u00f9 deboli. Qui l'elenco: https://www.facebook.com/arcifirenze/photos/a.815320281867457/2972327982833332/?type=3&theater&ifg=1"", ""Link"": ""https://www.facebook.com/arcifirenze/photos/a.815320281867457/2972327982833332/?type=3&theater&ifg=1"", ""Natura"": ""solidale"", ""Posizione"": ""43.770017 11.255583 0 0"", ""Provincia"": ""-"", ""Regione"": ""Toscana"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""A casa ma non soli - Commissioni a domicilio a #Firenze""}","<pre><yamldata>
+Comune: Firenze
 Da_chi_offerta: Arci Firenze
-Descrizione: 'Molti nostri Circoli e Associazioni, in questi giorni così difficili,
-  si sono già messi in moto per garantire un supporto sociale e/o culturale agli altri,
-  in particolar modo alle persone più deboli. Qui l''elenco: https://www.facebook.com/arcifirenze/photos/a.815320281867457/2972327982833332/?type=3&theater&ifg=1'
+Descrizione: ""Molti nostri Circoli e Associazioni, in questi giorni cos\xEC difficili,\
+  \ si sono gi\xE0 messi in moto per garantire un supporto sociale e/o culturale agli\
+  \ altri, in particolar modo alle persone pi\xF9 deboli. Qui l'elenco: https://www.facebook.com/arcifirenze/photos/a.815320281867457/2972327982833332/?type=3&theater&ifg=1""
 Link: https://www.facebook.com/arcifirenze/photos/a.815320281867457/2972327982833332/?type=3&theater&ifg=1
 Natura: solidale
 Posizione: 43.770017 11.255583 0 0
+Provincia: '-'
+Regione: Toscana
 Tipo_di_soggetto: privato
 Titolo: 'A casa ma non soli - Commissioni a domicilio a #Firenze'
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/628,582330887,2020-03-16 14:18:04,2020-03-16 14:12:39,Progetto di supporto ai giovani di #Silea (TV),45.653306,12.297169,"[""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Cooperativa La Esse"", ""Descrizione"": ""Coordinato da La Esse, il progetto ha attivato appositamente un nuovo profilo Skype, pgsilea, per favorire la connessione diretta per i ragazzi, ma anche per i loro genitori, per offrire, in questo momento di difficolt\u00e0, sostegno e informazioni, scambiare idee, dare consigli o anche semplicemente per dialogare, riducendo la solitudine e condividendo un momento di quotidianit\u00e0."", ""Destinatari"": ""Giovani del Comune di Silea"", ""Link"": ""http://www.laesse.org/news/pgsilea"", ""Natura"": ""solidale"", ""Posizione"": ""45.653306 12.297169 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Progetto Giovani Comune di Silea""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/628,582330887,2020-03-16 23:00:08,2020-03-16 14:12:39,Progetto di supporto ai giovani di #Silea (TV),45.653306,12.297169,"[""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Comune"": ""Silea"", ""Da_chi_offerta"": ""Cooperativa La Esse"", ""Descrizione"": ""Coordinato da La Esse, il progetto ha attivato appositamente un nuovo profilo Skype, pgsilea, per favorire la connessione diretta per i ragazzi, ma anche per i loro genitori, per offrire, in questo momento di difficolt\u00e0, sostegno e informazioni, scambiare idee, dare consigli o anche semplicemente per dialogare, riducendo la solitudine e condividendo un momento di quotidianit\u00e0."", ""Destinatari"": ""Giovani del Comune di Silea"", ""Link"": ""http://www.laesse.org/news/pgsilea"", ""Natura"": ""solidale"", ""Posizione"": ""45.653306 12.297169 0 0"", ""Provincia"": ""Treviso"", ""Regione"": ""Veneto"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Progetto Giovani Comune di Silea""}","<pre><yamldata>
+Comune: Silea
 Da_chi_offerta: Cooperativa La Esse
-Descrizione: Coordinato da La Esse, il progetto ha attivato appositamente un nuovo
-  profilo Skype, pgsilea, per favorire la connessione diretta per i ragazzi, ma anche
-  per i loro genitori, per offrire, in questo momento di difficoltà, sostegno e informazioni,
-  scambiare idee, dare consigli o anche semplicemente per dialogare, riducendo la
-  solitudine e condividendo un momento di quotidianità.
+Descrizione: ""Coordinato da La Esse, il progetto ha attivato appositamente un nuovo\
+  \ profilo Skype, pgsilea, per favorire la connessione diretta per i ragazzi, ma\
+  \ anche per i loro genitori, per offrire, in questo momento di difficolt\xE0, sostegno\
+  \ e informazioni, scambiare idee, dare consigli o anche semplicemente per dialogare,\
+  \ riducendo la solitudine e condividendo un momento di quotidianit\xE0.""
 Destinatari: Giovani del Comune di Silea
 Link: http://www.laesse.org/news/pgsilea
 Natura: solidale
 Posizione: 45.653306 12.297169 0 0
+Provincia: Treviso
+Regione: Veneto
 Tipo_di_soggetto: privato
 Titolo: Progetto Giovani Comune di Silea
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/626,582321373,2020-03-16 16:58:08,2020-03-16 14:02:19,"Stop a versamento rette per asili e mense scolastiche. Differite scadenze Tari, Cosap e canoni #Roma",41.891049,12.489326,"[""Bollettino"", ""Fonti istituzionali"", ""Notizia"", ""Notizie"", ""accettato"", ""form""]",,,"{""Cosa"": ""Roma: Stop a versamento rette per asili e mense scolastiche. Differite scadenze Tari, Cosap e canoni mercati"", ""Descrizione"": ""La Giunta Capitolina ha disposto l\u2019annullamento del versamento delle quote contributive per gli asili nido e per le mense scolastiche nelle scuole d\u2019infanzia, per il periodo di chiusura dovuto all\u2019emergenza Covid-19."", ""Link"": ""https://www.comune.roma.it/web/it/notizia/coronavirus-stop-a-versamento-rette-per-asili-e-mense-scolastiche-differite-scadenze-tari-cosap-e-canoni-mercati.page?fbclid=IwAR2ow2vbFCORKZBDdItBI1WLYzUBPd3Eo9qiyfqBLtkTRsWMBGr6ZefQIFA"", ""Posizione"": ""41.891049 12.489326 0 0""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/626,582321373,2020-03-16 23:00:10,2020-03-16 14:02:19,"Stop a versamento rette per asili e mense scolastiche. Differite scadenze Tari, Cosap e canoni #Roma",41.891049,12.489326,"[""Bollettino"", ""Fonti istituzionali"", ""Notizia"", ""Notizie"", ""accettato"", ""form""]",,,"{""Comune"": ""Roma"", ""Cosa"": ""Roma: Stop a versamento rette per asili e mense scolastiche. Differite scadenze Tari, Cosap e canoni mercati"", ""Descrizione"": ""La Giunta Capitolina ha disposto l\u2019annullamento del versamento delle quote contributive per gli asili nido e per le mense scolastiche nelle scuole d\u2019infanzia, per il periodo di chiusura dovuto all\u2019emergenza Covid-19."", ""Link"": ""https://www.comune.roma.it/web/it/notizia/coronavirus-stop-a-versamento-rette-per-asili-e-mense-scolastiche-differite-scadenze-tari-cosap-e-canoni-mercati.page?fbclid=IwAR2ow2vbFCORKZBDdItBI1WLYzUBPd3Eo9qiyfqBLtkTRsWMBGr6ZefQIFA"", ""Posizione"": ""41.891049 12.489326 0 0"", ""Provincia"": ""-"", ""Regione"": ""Lazio""}","<pre><yamldata>
+Comune: Roma
 Cosa: 'Roma: Stop a versamento rette per asili e mense scolastiche. Differite scadenze
   Tari, Cosap e canoni mercati'
-Descrizione: La Giunta Capitolina ha disposto l’annullamento del versamento delle
-  quote contributive per gli asili nido e per le mense scolastiche nelle scuole d’infanzia,
-  per il periodo di chiusura dovuto all’emergenza Covid-19.
+Descrizione: ""La Giunta Capitolina ha disposto l\u2019annullamento del versamento\
+  \ delle quote contributive per gli asili nido e per le mense scolastiche nelle scuole\
+  \ d\u2019infanzia, per il periodo di chiusura dovuto all\u2019emergenza Covid-19.""
 Link: https://www.comune.roma.it/web/it/notizia/coronavirus-stop-a-versamento-rette-per-asili-e-mense-scolastiche-differite-scadenze-tari-cosap-e-canoni-mercati.page?fbclid=IwAR2ow2vbFCORKZBDdItBI1WLYzUBPd3Eo9qiyfqBLtkTRsWMBGr6ZefQIFA
 Posizione: 41.891049 12.489326 0 0
+Provincia: '-'
+Regione: Lazio
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/624,582309770,2020-03-16 14:39:10,2020-03-16 13:48:26,avviso del Comune per gli anziani in quarantena e senza assistenza #Pantelleria #Trapani,36.829898,11.939667,"[""Bollettino"", ""Consegne e commissioni"", ""Contatti utili"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Pantelleria"", ""Descrizione"": ""SI AVVISA LA CITTADINANZA CHE CON ORDINANZA SINDACALE NR 23\nDEL 13 MARZO 2020, \u00c8 STATO ATTIVATO IL CENTRO OPERATIVO\nCOMUNALE DI PROTEZIONE CIVILE AL FINE DI DARE INFORMAZIONI E\nSUPPORTO A COLORO CHE SI TROVANO IN PARTICOLARI SITUAZIONI\n(ANZIANI, PERSONE IN QUARANTENA FIDUCIARIA CHE NON\nDISPONGONO DI RETE FAMILIARE O DI BUON VICINATO)\nQUALSIASI INFORMAZIONE O RICHIESTE DI ASSISTENZA\n\nCONTATTARE I SEGUENTI RECAPITI:\n\npantelleriaemergenzacovid19@gmail.com\n\n320 439 6535\n\n(Si prega di non contattare questi recapiti per informazioni sanitarie)\n\nIl Numero \u00e8 operativo dal luned\u00ec alla domenica dalle ore 8.00 alle ore 18.00"", ""Destinatari"": ""anziani"", ""Link"": ""https://www.ilgiornaledipantelleria.it/pantelleria-coronavirus-avviso-del-comune-per-gli-anziani-in-quarantena-e-senza-assistenza/?fbclid=IwAR0Z7q_N1hqBmmLFa0gcWGH0BW4tUo8eYRp7AdRYtp4N2XPM7G-jc4-00dU"", ""Natura"": ""solidale"", ""Posizione"": ""36.829898 11.939667 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""avviso del Comune per gli anziani in quarantena e senza assistenza #Pantelleria #Trapani""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/624,582309770,2020-03-16 23:00:12,2020-03-16 13:48:26,avviso del Comune per gli anziani in quarantena e senza assistenza #Pantelleria #Trapani,36.829898,11.939667,"[""Bollettino"", ""Consegne e commissioni"", ""Contatti utili"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Comune"": ""Pantelleria"", ""Da_chi_offerta"": ""Comune di Pantelleria"", ""Descrizione"": ""SI AVVISA LA CITTADINANZA CHE CON ORDINANZA SINDACALE NR 23\nDEL 13 MARZO 2020, \u00c8 STATO ATTIVATO IL CENTRO OPERATIVO\nCOMUNALE DI PROTEZIONE CIVILE AL FINE DI DARE INFORMAZIONI E\nSUPPORTO A COLORO CHE SI TROVANO IN PARTICOLARI SITUAZIONI\n(ANZIANI, PERSONE IN QUARANTENA FIDUCIARIA CHE NON\nDISPONGONO DI RETE FAMILIARE O DI BUON VICINATO)\nQUALSIASI INFORMAZIONE O RICHIESTE DI ASSISTENZA\n\nCONTATTARE I SEGUENTI RECAPITI:\n\npantelleriaemergenzacovid19@gmail.com\n\n320 439 6535\n\n(Si prega di non contattare questi recapiti per informazioni sanitarie)\n\nIl Numero \u00e8 operativo dal luned\u00ec alla domenica dalle ore 8.00 alle ore 18.00"", ""Destinatari"": ""anziani"", ""Link"": ""https://www.ilgiornaledipantelleria.it/pantelleria-coronavirus-avviso-del-comune-per-gli-anziani-in-quarantena-e-senza-assistenza/?fbclid=IwAR0Z7q_N1hqBmmLFa0gcWGH0BW4tUo8eYRp7AdRYtp4N2XPM7G-jc4-00dU"", ""Natura"": ""solidale"", ""Posizione"": ""36.829898 11.939667 0 0"", ""Provincia"": ""Trapani"", ""Regione"": ""Sicilia"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""avviso del Comune per gli anziani in quarantena e senza assistenza #Pantelleria #Trapani""}","<pre><yamldata>
+Comune: Pantelleria
 Da_chi_offerta: Comune di Pantelleria
-Descrizione: 'SI AVVISA LA CITTADINANZA CHE CON ORDINANZA SINDACALE NR 23
-
-  DEL 13 MARZO 2020, È STATO ATTIVATO IL CENTRO OPERATIVO
-
-  COMUNALE DI PROTEZIONE CIVILE AL FINE DI DARE INFORMAZIONI E
-
-  SUPPORTO A COLORO CHE SI TROVANO IN PARTICOLARI SITUAZIONI
-
-  (ANZIANI, PERSONE IN QUARANTENA FIDUCIARIA CHE NON
-
-  DISPONGONO DI RETE FAMILIARE O DI BUON VICINATO)
-
-  QUALSIASI INFORMAZIONE O RICHIESTE DI ASSISTENZA
-
-
-  CONTATTARE I SEGUENTI RECAPITI:
-
-
-  pantelleriaemergenzacovid19@gmail.com
-
-
-  320 439 6535
-
-
-  (Si prega di non contattare questi recapiti per informazioni sanitarie)
-
-
-  Il Numero è operativo dal lunedì alla domenica dalle ore 8.00 alle ore 18.00'
+Descrizione: ""SI AVVISA LA CITTADINANZA CHE CON ORDINANZA SINDACALE NR 23\nDEL 13\
+  \ MARZO 2020, \xC8 STATO ATTIVATO IL CENTRO OPERATIVO\nCOMUNALE DI PROTEZIONE CIVILE\
+  \ AL FINE DI DARE INFORMAZIONI E\nSUPPORTO A COLORO CHE SI TROVANO IN PARTICOLARI\
+  \ SITUAZIONI\n(ANZIANI, PERSONE IN QUARANTENA FIDUCIARIA CHE NON\nDISPONGONO DI\
+  \ RETE FAMILIARE O DI BUON VICINATO)\nQUALSIASI INFORMAZIONE O RICHIESTE DI ASSISTENZA\n\
+  \nCONTATTARE I SEGUENTI RECAPITI:\n\npantelleriaemergenzacovid19@gmail.com\n\n320\
+  \ 439 6535\n\n(Si prega di non contattare questi recapiti per informazioni sanitarie)\n\
+  \nIl Numero \xE8 operativo dal luned\xEC alla domenica dalle ore 8.00 alle ore 18.00""
 Destinatari: anziani
 Link: https://www.ilgiornaledipantelleria.it/pantelleria-coronavirus-avviso-del-comune-per-gli-anziani-in-quarantena-e-senza-assistenza/?fbclid=IwAR0Z7q_N1hqBmmLFa0gcWGH0BW4tUo8eYRp7AdRYtp4N2XPM7G-jc4-00dU
 Natura: solidale
 Posizione: 36.829898 11.939667 0 0
+Provincia: Trapani
+Regione: Sicilia
 Tipo_di_soggetto: pubblico
 Titolo: 'avviso del Comune per gli anziani in quarantena e senza assistenza #Pantelleria
   #Trapani'
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/623,582294575,2020-03-16 13:57:08,2020-03-16 13:27:30,"ARCS #Friuli Venezia Giulia - ricerca urgente di oss, infermieri, medici",45.6500335,13.7706559,"[""Bollettino"", ""Richiesta aiuto"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Descrizione"": ""L\u2019ARCS (azienda regionale per il Coordinamento della Salute), in seguito all\u2019attuale emergenza sanitaria dovuta al diffondersi del Covid19, ha emanato alcuni bandi per la ricerca di diverse figure professionali."", ""Indirizzo"": ""45.43490484 12.33845214"", ""Link"": ""https://triesteparla.wordpress.com/2020/03/15/emergenza-coronavirus-in-friuli-venezia-giulia-si-cercano-urgentemente-operatori-socio-sanitari-infermieri-medici-e-tecnici-tutti-i-bandi-nellarticolo/"", ""Natura"": ""solidale"", ""Posizione"": ""45.6500335 13.7706559 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""In Friuli Venezia Giulia si cercano urgentemente operatori socio sanitari, infermieri, medici, e tecnici.""}","<pre><yamldata>
-Descrizione: L’ARCS (azienda regionale per il Coordinamento della Salute), in seguito
-  all’attuale emergenza sanitaria dovuta al diffondersi del Covid19, ha emanato alcuni
-  bandi per la ricerca di diverse figure professionali.
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/623,582294575,2020-03-16 23:00:14,2020-03-16 13:27:30,"ARCS #Friuli Venezia Giulia - ricerca urgente di oss, infermieri, medici",45.6500335,13.7706559,"[""Bollettino"", ""Richiesta aiuto"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Comune"": ""Trieste"", ""Descrizione"": ""L\u2019ARCS (azienda regionale per il Coordinamento della Salute), in seguito all\u2019attuale emergenza sanitaria dovuta al diffondersi del Covid19, ha emanato alcuni bandi per la ricerca di diverse figure professionali."", ""Indirizzo"": ""45.43490484 12.33845214"", ""Link"": ""https://triesteparla.wordpress.com/2020/03/15/emergenza-coronavirus-in-friuli-venezia-giulia-si-cercano-urgentemente-operatori-socio-sanitari-infermieri-medici-e-tecnici-tutti-i-bandi-nellarticolo/"", ""Natura"": ""solidale"", ""Posizione"": ""45.6500335 13.7706559 0 0"", ""Provincia"": ""Trieste"", ""Regione"": ""Friuli Venezia Giulia"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""In Friuli Venezia Giulia si cercano urgentemente operatori socio sanitari, infermieri, medici, e tecnici.""}","<pre><yamldata>
+Comune: Trieste
+Descrizione: ""L\u2019ARCS (azienda regionale per il Coordinamento della Salute), in\
+  \ seguito all\u2019attuale emergenza sanitaria dovuta al diffondersi del Covid19,\
+  \ ha emanato alcuni bandi per la ricerca di diverse figure professionali.""
 Indirizzo: 45.43490484 12.33845214
 Link: https://triesteparla.wordpress.com/2020/03/15/emergenza-coronavirus-in-friuli-venezia-giulia-si-cercano-urgentemente-operatori-socio-sanitari-infermieri-medici-e-tecnici-tutti-i-bandi-nellarticolo/
 Natura: solidale
+Posizione: 45.6500335 13.7706559 0 0
+Provincia: Trieste
+Regione: Friuli Venezia Giulia
 Tipo_di_soggetto: pubblico
 Titolo: In Friuli Venezia Giulia si cercano urgentemente operatori socio sanitari,
   infermieri, medici, e tecnici.
-Posizione: 45.6500335 13.7706559 0 0
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/622,582276623,2020-03-16 13:51:02,2020-03-16 13:00:56,Help 3D - Chiarimento sulle valvole in 3D #Brescia,45.538716,10.222435,"[""Informazioni utili"", ""Notizia"", ""accettato"", ""form""]",,,"{""Cosa"": ""Brescia: chiarimento sulle valvole stampate in 3D"", ""Descrizione"": ""Le valvole stampate in 3D a Brescia dopo reverse engineering.\nChiarimenti su norme, tecnologie, ..."", ""Link"": ""https://help3d.it/valvole-stampate-in-3d-a-brescia-facciamo-chiarezza/"", ""Posizione"": ""45.538716 10.222435 0 0""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/622,582276623,2020-03-16 23:00:16,2020-03-16 13:00:56,Help 3D - Chiarimento sulle valvole in 3D #Brescia,45.538716,10.222435,"[""Informazioni utili"", ""Notizia"", ""accettato"", ""form""]",,,"{""Comune"": ""Brescia"", ""Cosa"": ""Brescia: chiarimento sulle valvole stampate in 3D"", ""Descrizione"": ""Le valvole stampate in 3D a Brescia dopo reverse engineering.\nChiarimenti su norme, tecnologie, ..."", ""Link"": ""https://help3d.it/valvole-stampate-in-3d-a-brescia-facciamo-chiarezza/"", ""Posizione"": ""45.538716 10.222435 0 0"", ""Provincia"": ""Brescia"", ""Regione"": ""Lombardia""}","<pre><yamldata>
+Comune: Brescia
 Cosa: 'Brescia: chiarimento sulle valvole stampate in 3D'
 Descrizione: 'Le valvole stampate in 3D a Brescia dopo reverse engineering.
 
   Chiarimenti su norme, tecnologie, ...'
 Link: https://help3d.it/valvole-stampate-in-3d-a-brescia-facciamo-chiarezza/
 Posizione: 45.538716 10.222435 0 0
+Provincia: Brescia
+Regione: Lombardia
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/621,582264763,2020-03-16 12:44:34,2020-03-16 12:42:09,Raccolta fondi #HopeOnlus per donazioni attrezzature negli ospedali e materiale sanitario,,,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Hope \u00e8 un\u2019organizzazione non profit, laica e indipendente che aiuta bambini e comunit\u00e0 in difficolt\u00e0 in Italia e in Medio Oriente realizzando interventi di aiuto umanitario e di sviluppo sostenibile a tutela della salute e dell\u2019educazione. Hope d\u00e0 ogni giorno una speranza a un bambino in pi\u00f9.\n\nHope utilizza modelli operativi del settore profit e li applica alla realizzazione di programmi umanitari. Risponde a richieste di aiuto per bisogni specifici di ospedali, orfanotrofi, scuole, asili, centri di accoglienza e di primo soccorso.\n\nSta lavorando dal 2 marzo 2020 7 giorni su 7, 24 ore su 24 con gli ospedali milanesi e lombardi per rispondere alle loro necessit\u00e0 urgenti e fondamentali per salvare pi\u00f9 vite possibili nella Epidemia da Coronavirus.\n\nOpera con una Task Force di Emergenza di professionisti specializzati."", ""Indirizzo"": ""43.84340093 13.01966068"", ""Link"": ""https://www.hopeonlus.org/coronavirus/?fbclid=IwAR1zHf7RX9Jhb6jwPVZMO4eXnMkHiYZW624XtaSAIaFU1NBTjzeV4-XgShI"", ""Nome"": ""Hope Onlus""}","<pre><yamldata>
 Descrizione: 'Hope è un’organizzazione non profit, laica e indipendente che aiuta
@@ -492,12 +508,15 @@ Indirizzo: 43.84340093 13.01966068
 Link: https://www.hopeonlus.org/coronavirus/?fbclid=IwAR1zHf7RX9Jhb6jwPVZMO4eXnMkHiYZW624XtaSAIaFU1NBTjzeV4-XgShI
 Nome: Hope Onlus
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/620,582257022,2020-03-16 12:49:22,2020-03-16 12:28:52,Ordinanza Regionale per il controllo del capoluogo di #Medicina #Ganzanigo (BO),44.47667,11.63834,"[""Fonti istituzionali"", ""Informazioni utili"", ""Notizia"", ""Notizie"", ""accettato"", ""form""]",,,"{""Cosa"": ""Luca Zanelli"", ""Descrizione"": ""Ordinanza Regionale per il controllo del capoluogo di Medicina e Ganzanigo. Modulo di autorizzazione in entrata"", ""Link"": ""https://www.comune.medicina.bo.it/autorizzazione-in-entrata-per-medicina-e-ganzanigo-il-modulo/?fbclid=IwAR0Z4m0p0tooq2pLpRQNpQ0wMmNTX5exs6kBitiT5Sm9ftEsQO6q_U7VGD4"", ""Posizione"": ""44.47667 11.63834 0 0""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/620,582257022,2020-03-16 23:00:18,2020-03-16 12:28:52,Ordinanza Regionale per il controllo del capoluogo di #Medicina #Ganzanigo (BO),44.47667,11.63834,"[""Fonti istituzionali"", ""Informazioni utili"", ""Notizia"", ""Notizie"", ""accettato"", ""form""]",,,"{""Comune"": ""Medicina"", ""Cosa"": ""Luca Zanelli"", ""Descrizione"": ""Ordinanza Regionale per il controllo del capoluogo di Medicina e Ganzanigo. Modulo di autorizzazione in entrata"", ""Link"": ""https://www.comune.medicina.bo.it/autorizzazione-in-entrata-per-medicina-e-ganzanigo-il-modulo/?fbclid=IwAR0Z4m0p0tooq2pLpRQNpQ0wMmNTX5exs6kBitiT5Sm9ftEsQO6q_U7VGD4"", ""Posizione"": ""44.47667 11.63834 0 0"", ""Provincia"": ""-"", ""Regione"": ""Emilia-Romagna""}","<pre><yamldata>
+Comune: Medicina
 Cosa: Luca Zanelli
 Descrizione: Ordinanza Regionale per il controllo del capoluogo di Medicina e Ganzanigo.
   Modulo di autorizzazione in entrata
 Link: https://www.comune.medicina.bo.it/autorizzazione-in-entrata-per-medicina-e-ganzanigo-il-modulo/?fbclid=IwAR0Z4m0p0tooq2pLpRQNpQ0wMmNTX5exs6kBitiT5Sm9ftEsQO6q_U7VGD4
 Posizione: 44.47667 11.63834 0 0
+Provincia: '-'
+Regione: Emilia-Romagna
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/619,582254438,2020-03-16 12:25:42,2020-03-16 12:24:44,Raccolta fondi #Emergency per affrontare l’emergenza COVID-19,,,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""E' un momento molto difficile per tutta l\u2019Italia: per questo ci siamo messi a disposizione delle autorit\u00e0 sanitarie per affrontare l\u2019emergenza. Per farlo, abbiamo bisogno anche del tuo aiuto.\n\nCosa stiamo facendo?\nTutelare le fasce pi\u00f9 deboli della comunit\u00e0 \u00e8 essenziale per prevenire la diffusione del contagio perci\u00f2:\n\n- Siamo stati autorizzati dalla Protezione civile a intervenire nella risposta all\u2019emergenza e stiamo lavorando per mettere a disposizione del Sistema sanitario nazionale le nostre competenze di gestione dei malati in caso di epidemie, maturate combattendo Ebola in Sierra Leone nel 2014 e 2015.\n\n- In tutta Italia i nostri ambulatori rimangono aperti: abbiamo adottato un protocollo di triage che permette di individuare pazienti con sintomi compatibili con il virus, di informarli e indirizzarli ai servizi competenti.\n\n- A Milano, insieme al Comune, abbiamo attivato un servizio per aiutare le persone pi\u00f9 a rischio consegnando loro pasti, alimentari, farmaci e beni di prima necessit\u00e0.\n\n- Sempre a Milano stiamo lavorando per la prevenzione nelle strutture di accoglienza delle persone senza fissa dimora e dei minori non accompagnati."", ""Indirizzo"": ""45.46679408 9.1903474"", ""Link"": ""https://sostieni.emergency.it/emergenzaitalia/index.php?idc=20.ONE.WEB.EMERCOVID.186&utm_campaign=appelli&utm_medium=email&utm_source=prospect&utm_content=%5B20.ONE.WEB.EMERCOVID.186%5D+Appello+Covid+%282020-03-15%29&fbclid=IwAR14Px7BSoXeIurajhyL8MDcEFBNnKMvIIIvuGRNMjqc9t7IUVdu9Y8Eu_k"", ""Nome"": ""Emergency""}","<pre><yamldata>
 Descrizione: 'E'' un momento molto difficile per tutta l’Italia: per questo ci siamo
@@ -532,27 +551,36 @@ Indirizzo: 45.46679408 9.1903474
 Link: https://sostieni.emergency.it/emergenzaitalia/index.php?idc=20.ONE.WEB.EMERCOVID.186&utm_campaign=appelli&utm_medium=email&utm_source=prospect&utm_content=%5B20.ONE.WEB.EMERCOVID.186%5D+Appello+Covid+%282020-03-15%29&fbclid=IwAR14Px7BSoXeIurajhyL8MDcEFBNnKMvIIIvuGRNMjqc9t7IUVdu9Y8Eu_k
 Nome: Emergency
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/618,582253239,2020-03-16 12:34:10,2020-03-16 12:22:47,Nuovo Coronavirus: domande frequenti sulle misure per le persone con disabilità,41.853196,12.546387,"[""Bollettino"", ""Fonti istituzionali"", ""accettato"", ""form""]",,,"{""Cosa"": ""Nuovo Coronavirus: domande frequenti sulle misure per le persone con disabilit\u00e0"", ""Descrizione"": ""La Presidenza del Consiglio dei Ministri e il Ministero della Salute pubblicano Faq su emergenza coronavirus, aggiornate periodicamente in base alle disposizioni, rivolte alle persone con disabilit\u00e0. \u00c8 possibile trovarle sul sito dell\u2019Ufficio per le politiche in favore delle persone con disabilit\u00e0, dove vengono pubblicati anche i vademecum del Ministero della Salute in forma accessibile. Ricordiamo poi che i bollettini del Dipartimento di Protezione Civile sono disponibili anche in versione LIS (Lingua dei Segni Italiana) sul canale YouTube del Dipartimento. Gli estratti dei bollettini sono disponibili, in forma scritta, sul sito del Dipartimento."", ""Fonte"": ""Presidenza del Consiglio dei Ministri"", ""Link"": ""http://disabilita.governo.it/it/notizie/nuovo-coronavirus-domande-frequenti-sulle-misure-per-le-persone-con-disabilita/"", ""Posizione"": ""41.853196 12.546387 0 0""}","<pre><yamldata>
-Cosa: 'Nuovo Coronavirus: domande frequenti sulle misure per le persone con disabilità'
-Descrizione: La Presidenza del Consiglio dei Ministri e il Ministero della Salute
-  pubblicano Faq su emergenza coronavirus, aggiornate periodicamente in base alle disposizioni, rivolte alle persone con disabilità. È possibile trovarle sul sito dell’Ufficio per le politiche in favore delle persone con disabilità, dove vengono pubblicati anche i vademecum
-  del Ministero della Salute in forma accessibile. Ricordiamo poi che i bollettini del Dipartimento di
-  Protezione Civile sono disponibili anche in versione LIS (Lingua dei Segni Italiana)
-  sul canale YouTube del Dipartimento. Gli estratti dei bollettini sono disponibili,
-  in forma scritta, sul sito del Dipartimento.
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/618,582253239,2020-03-16 23:00:20,2020-03-16 12:22:47,Nuovo Coronavirus: domande frequenti sulle misure per le persone con disabilità,41.853196,12.546387,"[""Bollettino"", ""Fonti istituzionali"", ""accettato"", ""form""]",,,"{""Comune"": ""Roma"", ""Cosa"": ""Nuovo Coronavirus: domande frequenti sulle misure per le persone con disabilit\u00e0"", ""Descrizione"": ""La Presidenza del Consiglio dei Ministri e il Ministero della Salute pubblicano Faq su emergenza coronavirus, aggiornate periodicamente in base alle disposizioni, rivolte alle persone con disabilit\u00e0. \u00c8 possibile trovarle sul sito dell\u2019Ufficio per le politiche in favore delle persone con disabilit\u00e0, dove vengono pubblicati anche i vademecum del Ministero della Salute in forma accessibile. Ricordiamo poi che i bollettini del Dipartimento di Protezione Civile sono disponibili anche in versione LIS (Lingua dei Segni Italiana) sul canale YouTube del Dipartimento. Gli estratti dei bollettini sono disponibili, in forma scritta, sul sito del Dipartimento."", ""Fonte"": ""Presidenza del Consiglio dei Ministri"", ""Link"": ""http://disabilita.governo.it/it/notizie/nuovo-coronavirus-domande-frequenti-sulle-misure-per-le-persone-con-disabilita/"", ""Posizione"": ""41.853196 12.546387 0 0"", ""Provincia"": ""-"", ""Regione"": ""Lazio""}","<pre><yamldata>
+Comune: Roma
+Cosa: ""Nuovo Coronavirus: domande frequenti sulle misure per le persone con disabilit\xE0""
+Descrizione: ""La Presidenza del Consiglio dei Ministri e il Ministero della Salute\
+  \ pubblicano Faq su emergenza coronavirus, aggiornate periodicamente in base alle\
+  \ disposizioni, rivolte alle persone con disabilit\xE0. \xC8 possibile trovarle\
+  \ sul sito dell\u2019Ufficio per le politiche in favore delle persone con disabilit\xE0\
+  , dove vengono pubblicati anche i vademecum del Ministero della Salute in forma\
+  \ accessibile. Ricordiamo poi che i bollettini del Dipartimento di Protezione Civile\
+  \ sono disponibili anche in versione LIS (Lingua dei Segni Italiana) sul canale\
+  \ YouTube del Dipartimento. Gli estratti dei bollettini sono disponibili, in forma\
+  \ scritta, sul sito del Dipartimento.""
 Fonte: Presidenza del Consiglio dei Ministri
 Link: http://disabilita.governo.it/it/notizie/nuovo-coronavirus-domande-frequenti-sulle-misure-per-le-persone-con-disabilita/
 Posizione: 41.853196 12.546387 0 0
+Provincia: '-'
+Regione: Lazio
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/617,582248140,2020-03-16 12:24:09,2020-03-16 12:14:51,Pasti Gratis per Anziani #GalatiMamertino (ME),38.032533,14.769891,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Ristorante Degusto"", ""Descrizione"": ""Iniziativa benefica per affrontare l\u2019emergenza coronavirus a Galati Mamertino, dove il ristorante Degusto dello chef Pino Drago ha messo a punto un servizio gratuito di consegna dei pasti agli anziani."", ""Destinatari"": ""Anziani residenti a Galati Mamertino"", ""Link"": ""https://www.tempostretto.it/news/coronavirus-e-solidarieta-a-galati-mamertino-pasti-gratis-agli-anziani.html?refresh_ce"", ""Natura"": ""solidale"", ""Posizione"": ""38.032533 14.769891 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Pasti Gratis per Anziani""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/617,582248140,2020-03-16 23:00:22,2020-03-16 12:14:51,Pasti Gratis per Anziani #GalatiMamertino (ME),38.032533,14.769891,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Comune"": ""Galati Mamertino"", ""Da_chi_offerta"": ""Ristorante Degusto"", ""Descrizione"": ""Iniziativa benefica per affrontare l\u2019emergenza coronavirus a Galati Mamertino, dove il ristorante Degusto dello chef Pino Drago ha messo a punto un servizio gratuito di consegna dei pasti agli anziani."", ""Destinatari"": ""Anziani residenti a Galati Mamertino"", ""Link"": ""https://www.tempostretto.it/news/coronavirus-e-solidarieta-a-galati-mamertino-pasti-gratis-agli-anziani.html?refresh_ce"", ""Natura"": ""solidale"", ""Posizione"": ""38.032533 14.769891 0 0"", ""Provincia"": ""-"", ""Regione"": ""Sicilia"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Pasti Gratis per Anziani""}","<pre><yamldata>
+Comune: Galati Mamertino
 Da_chi_offerta: Ristorante Degusto
-Descrizione: Iniziativa benefica per affrontare l’emergenza coronavirus a Galati Mamertino,
-  dove il ristorante Degusto dello chef Pino Drago ha messo a punto un servizio gratuito
-  di consegna dei pasti agli anziani.
+Descrizione: ""Iniziativa benefica per affrontare l\u2019emergenza coronavirus a Galati\
+  \ Mamertino, dove il ristorante Degusto dello chef Pino Drago ha messo a punto un\
+  \ servizio gratuito di consegna dei pasti agli anziani.""
 Destinatari: Anziani residenti a Galati Mamertino
 Link: https://www.tempostretto.it/news/coronavirus-e-solidarieta-a-galati-mamertino-pasti-gratis-agli-anziani.html?refresh_ce
 Natura: solidale
 Posizione: 38.032533 14.769891 0 0
+Provincia: '-'
+Regione: Sicilia
 Tipo_di_soggetto: privato
 Titolo: Pasti Gratis per Anziani
 </yamldata></pre>",open
@@ -564,34 +592,40 @@ Descrizione: Su Whatsapp circola screenshot di una presunta circolare in formato
   nel mese di Agosto. È falso! Al link tutte le spiegazioni.
 Link: https://www.open.online/2020/03/10/la-falsa-circolare-dellinps-e-le-pensioni-al-50-ad-aprile-per-colpa-del-coronavirus/
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/615,582232612,2020-03-16 12:17:12,2020-03-16 11:55:32,Salute Donna #Catanzaro: 5 medici rispondono ai malati oncologici #Calabria,38.908036,16.591304,"[""Bollettino"", ""Informazioni utili"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Salute Donna Catanzaro"", ""Descrizione"": ""Parte luned\u00ec 16 marzo l\u2019iniziativa promossa dalla sezione catanzarese di Salute Donna: i pazienti oncologici calabresi potranno telefonare a cinque medici per risolvere ogni loro dubbio riguardo il coronavirus. Numeri e orari al link: https://lacnews24.it/salute/coronavirus-oncologi-calabresi-rispondono_113049/?fbclid=IwAR2ACJYS3UntxQKMQs2njbvksLJ0zdeh-8JdrgnBMmEOMZgbfzoGg4U9Ics"", ""Destinatari"": ""Malati oncologici Calabria"", ""Link"": ""https://lacnews24.it/salute/coronavirus-oncologi-calabresi-rispondono_113049/?fbclid=IwAR2ACJYS3UntxQKMQs2njbvksLJ0zdeh-8JdrgnBMmEOMZgbfzoGg4U9Ics"", ""Natura"": ""solidale"", ""Posizione"": ""38.908036 16.591304 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""5 medici calabresi rispondono ai malati oncologici""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/615,582232612,2020-03-16 23:00:23,2020-03-16 11:55:32,Salute Donna #Catanzaro: 5 medici rispondono ai malati oncologici #Calabria,38.908036,16.591304,"[""Bollettino"", ""Informazioni utili"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Comune"": ""Catanzaro"", ""Da_chi_offerta"": ""Salute Donna Catanzaro"", ""Descrizione"": ""Parte luned\u00ec 16 marzo l\u2019iniziativa promossa dalla sezione catanzarese di Salute Donna: i pazienti oncologici calabresi potranno telefonare a cinque medici per risolvere ogni loro dubbio riguardo il coronavirus. Numeri e orari al link: https://lacnews24.it/salute/coronavirus-oncologi-calabresi-rispondono_113049/?fbclid=IwAR2ACJYS3UntxQKMQs2njbvksLJ0zdeh-8JdrgnBMmEOMZgbfzoGg4U9Ics"", ""Destinatari"": ""Malati oncologici Calabria"", ""Link"": ""https://lacnews24.it/salute/coronavirus-oncologi-calabresi-rispondono_113049/?fbclid=IwAR2ACJYS3UntxQKMQs2njbvksLJ0zdeh-8JdrgnBMmEOMZgbfzoGg4U9Ics"", ""Natura"": ""solidale"", ""Posizione"": ""38.908036 16.591304 0 0"", ""Provincia"": ""Catanzaro"", ""Regione"": ""Calabria"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""5 medici calabresi rispondono ai malati oncologici""}","<pre><yamldata>
+Comune: Catanzaro
 Da_chi_offerta: Salute Donna Catanzaro
-Descrizione: 'Parte lunedì 16 marzo l’iniziativa promossa dalla sezione catanzarese
-  di Salute Donna: i pazienti oncologici calabresi potranno telefonare a cinque medici
-  per risolvere ogni loro dubbio riguardo il coronavirus. Numeri e orari al link:
-  https://lacnews24.it/salute/coronavirus-oncologi-calabresi-rispondono_113049/?fbclid=IwAR2ACJYS3UntxQKMQs2njbvksLJ0zdeh-8JdrgnBMmEOMZgbfzoGg4U9Ics'
+Descrizione: ""Parte luned\xEC 16 marzo l\u2019iniziativa promossa dalla sezione catanzarese\
+  \ di Salute Donna: i pazienti oncologici calabresi potranno telefonare a cinque\
+  \ medici per risolvere ogni loro dubbio riguardo il coronavirus. Numeri e orari\
+  \ al link: https://lacnews24.it/salute/coronavirus-oncologi-calabresi-rispondono_113049/?fbclid=IwAR2ACJYS3UntxQKMQs2njbvksLJ0zdeh-8JdrgnBMmEOMZgbfzoGg4U9Ics""
 Destinatari: Malati oncologici Calabria
 Link: https://lacnews24.it/salute/coronavirus-oncologi-calabresi-rispondono_113049/?fbclid=IwAR2ACJYS3UntxQKMQs2njbvksLJ0zdeh-8JdrgnBMmEOMZgbfzoGg4U9Ics
 Natura: solidale
 Posizione: 38.908036 16.591304 0 0
+Provincia: Catanzaro
+Regione: Calabria
 Tipo_di_soggetto: pubblico
 Titolo: 5 medici calabresi rispondono ai malati oncologici
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/614,582226700,2020-03-16 12:27:16,2020-03-16 11:45:43,Audio Whatsapp della presunta avvocata e i “rimedi difensivi” per chi viene fermato dalla polizia,45.542803,10.20994,"[""Fake News"", ""accettato"", ""form""]",,,"{""Cosa"": ""L\u2019audio Whatsapp della presunta avvocata e i \u201crimedi difensivi\u201d per chi viene fermato dalla polizia"", ""Descrizione"": ""Circola un audio Whatsapp dove una donna, che si presenta come \u201cSimona Veneri\u201d dello Studio di Maurizio Sorrentino di Brescia, spiega come evitare di trovarsi il casellario giudiziale \u201csegnato\u201d nel caso venisse violato il divieto di circolare (senza giustificato motivo) previsto dal decreto Conte per l\u2019emergenza coronavirus.\nL\u2019audio, che in mancanza di conferme potrebbe non essere stato registrato dall\u2019avvocata bresciana, presenta alcuni punti dubbiosi che non coincidono con le spiegazioni fornite da altri avvocati in merito ai guai in cui si potrebbero cacciare i cittadini nel caso di violassero il provvedimento. Al link tutte le spiegazioni e il comunicato della Camera Penale di Brescia."", ""Link"": ""https://www.open.online/2020/03/14/coronavirus-laudio-whatsapp-della-presunta-avvocatessa-e-i-rimedi-difensivi-per-chi-viene-fermato-dalla-polizia/"", ""Posizione"": ""45.542803 10.20994 0 0""}","<pre><yamldata>
-Cosa: L’audio Whatsapp della presunta avvocata e i “rimedi difensivi” per chi viene
-  fermato dalla polizia
-Descrizione: 'Circola un audio Whatsapp dove una donna, che si presenta come “Simona
-  Veneri” dello Studio di Maurizio Sorrentino di Brescia, spiega come evitare di trovarsi
-  il casellario giudiziale “segnato” nel caso venisse violato il divieto di circolare
-  (senza giustificato motivo) previsto dal decreto Conte per l’emergenza coronavirus.
-
-  L’audio, che in mancanza di conferme potrebbe non essere stato registrato dall’avvocata
-  bresciana, presenta alcuni punti dubbiosi che non coincidono con le spiegazioni
-  fornite da altri avvocati in merito ai guai in cui si potrebbero cacciare i cittadini
-  nel caso di violassero il provvedimento. Al link tutte le spiegazioni e il comunicato
-  della Camera Penale di Brescia.'
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/614,582226700,2020-03-16 23:00:25,2020-03-16 11:45:43,Audio Whatsapp della presunta avvocata e i “rimedi difensivi” per chi viene fermato dalla polizia,45.542803,10.20994,"[""Fake News"", ""accettato"", ""form""]",,,"{""Comune"": ""Brescia"", ""Cosa"": ""L\u2019audio Whatsapp della presunta avvocata e i \u201crimedi difensivi\u201d per chi viene fermato dalla polizia"", ""Descrizione"": ""Circola un audio Whatsapp dove una donna, che si presenta come \u201cSimona Veneri\u201d dello Studio di Maurizio Sorrentino di Brescia, spiega come evitare di trovarsi il casellario giudiziale \u201csegnato\u201d nel caso venisse violato il divieto di circolare (senza giustificato motivo) previsto dal decreto Conte per l\u2019emergenza coronavirus.\nL\u2019audio, che in mancanza di conferme potrebbe non essere stato registrato dall\u2019avvocata bresciana, presenta alcuni punti dubbiosi che non coincidono con le spiegazioni fornite da altri avvocati in merito ai guai in cui si potrebbero cacciare i cittadini nel caso di violassero il provvedimento. Al link tutte le spiegazioni e il comunicato della Camera Penale di Brescia."", ""Link"": ""https://www.open.online/2020/03/14/coronavirus-laudio-whatsapp-della-presunta-avvocatessa-e-i-rimedi-difensivi-per-chi-viene-fermato-dalla-polizia/"", ""Posizione"": ""45.542803 10.20994 0 0"", ""Provincia"": ""Brescia"", ""Regione"": ""Lombardia""}","<pre><yamldata>
+Comune: Brescia
+Cosa: ""L\u2019audio Whatsapp della presunta avvocata e i \u201Crimedi difensivi\u201D\
+  \ per chi viene fermato dalla polizia""
+Descrizione: ""Circola un audio Whatsapp dove una donna, che si presenta come \u201C\
+  Simona Veneri\u201D dello Studio di Maurizio Sorrentino di Brescia, spiega come\
+  \ evitare di trovarsi il casellario giudiziale \u201Csegnato\u201D nel caso venisse\
+  \ violato il divieto di circolare (senza giustificato motivo) previsto dal decreto\
+  \ Conte per l\u2019emergenza coronavirus.\nL\u2019audio, che in mancanza di conferme\
+  \ potrebbe non essere stato registrato dall\u2019avvocata bresciana, presenta alcuni\
+  \ punti dubbiosi che non coincidono con le spiegazioni fornite da altri avvocati\
+  \ in merito ai guai in cui si potrebbero cacciare i cittadini nel caso di violassero\
+  \ il provvedimento. Al link tutte le spiegazioni e il comunicato della Camera Penale\
+  \ di Brescia.""
 Link: https://www.open.online/2020/03/14/coronavirus-laudio-whatsapp-della-presunta-avvocatessa-e-i-rimedi-difensivi-per-chi-viene-fermato-dalla-polizia/
 Posizione: 45.542803 10.20994 0 0
+Provincia: Brescia
+Regione: Lombardia
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/613,582226400,2020-03-16 11:59:14,2020-03-16 11:45:13,5 medici calabresi rispondono ai malati oncologici #Calabria,41.893945,12.481762,"[""Notizia"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Cosa"": ""Coronavirus, 5 medici calabresi rispondono ai malati oncologici: ecco i numeri"", ""Descrizione"": ""Parte luned\u00ec 16 marzo l\u2019iniziativa promossa dalla sezione catanzarese di Salute Donna: i pazienti oncologici calabresi potranno telefonare a cinque medici per risolvere ogni loro dubbio riguardo il coronavirus.\nA questo link chi chiamare e in quali orari: https://lacnews24.it/salute/coronavirus-oncologi-calabresi-rispondono_113049/?fbclid=IwAR2ACJYS3UntxQKMQs2njbvksLJ0zdeh-8JdrgnBMmEOMZgbfzoGg4U9Ics"", ""Link"": ""https://lacnews24.it/salute/coronavirus-oncologi-calabresi-rispondono_113049/?fbclid=IwAR2ACJYS3UntxQKMQs2njbvksLJ0zdeh-8JdrgnBMmEOMZgbfzoGg4U9Ics"", ""Posizione"": ""41.893945 12.481762 0 0""}","<pre><yamldata>
 Cosa: 'Coronavirus, 5 medici calabresi rispondono ai malati oncologici: ecco i numeri'
@@ -660,50 +694,36 @@ Destinatari: Volontari associazioni
 Indirizzo: 43.723552 10.401043 0 0
 Link: http://www.sds.zonapisana.it/index.php?option=com_content&view=article&id=1476:avviso-rivolto-a-soggetti-del-terzo-settore-e-del-volontariato-interessati-ad-aderire-al-servizio-di-consegna-spesa-a-domicilio&catid=87&Itemid=119
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/609,582194941,2020-03-16 12:06:32,2020-03-16 10:54:12,Raccolta fondi Ospedali San Paolo e San Carlo #Milano,45.4327276,9.1573136,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""BIC_SWIFT"": ""BLOPIT22565"", ""Causale"": ""EMERGENZA CORONAVIRUS OSPEDALI SAN PAOLO E SAN CARLO"", ""Descrizione"": ""EMERGENZA COVID \u2013 19\nAIUTA GLI OSPEDALI SAN PAOLO E SAN CARLO\nLa situazione di emergenza che stiamo vivendo ha fatto si che nascessero in questi giorni   molteplici azioni di raccolta fondi, iniziative personali di cittadini, pazienti e dipendenti .\n\nAl fine di rendere questi gesti di solidariet\u00e0 spontanea e vicinanza a tutti i nostri operatori ufficiali, sicuri e trasparenti l\u2019ASST Santi Paolo e Carlo ha deciso di promuovere una Campagna di raccolta fondi istituzionale.\n\nChiunque potr\u00e0 donare quello che pu\u00f2 sul conto corrente della nostra ASST.\n\nLa sfida \u00e8 quella di riuscire a supportare le attivit\u00e0 e l'acquisto di apparecchiature specifiche, utili per far fronte all'emergenza sanitaria che stiamo vivendo.\n\nVi informiamo inoltre che l\u2019unico canale istituzionale \u00e8 quello sopra indicato, poich\u00e9 molte sono le segnalazioni di raccolte fondi a favore dei nostri ospedali per fronteggiare l\u2019emergenza sanitaria.\n\nGRAZIE PERCHE\u2019 SOLO INSIEME POSSIAMO AFFRONTARE QUESTA EMERGENZA\n\n@ASSTSANTIPAOLOCARLO\nwww.asst-santipaolocarlo.it"", ""Email"": ""comunicazione@asst-santipaolocarlo.it"", ""IBAN"": ""IT92F0311101634000000000003"", ""Intestazione"": ""ASST SANTI PAOLO E CARLO"", ""Link"": ""http://www.asst-santipaolocarlo.it/"", ""Nome"": ""ASST Santi Paolo e Carlo"", ""Posizione"": ""45.4327276 9.1573136 0 0""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/609,582194941,2020-03-16 23:00:27,2020-03-16 10:54:12,Raccolta fondi Ospedali San Paolo e San Carlo #Milano,45.4327276,9.1573136,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""BIC_SWIFT"": ""BLOPIT22565"", ""Causale"": ""EMERGENZA CORONAVIRUS OSPEDALI SAN PAOLO E SAN CARLO"", ""Comune"": ""Milano"", ""Descrizione"": ""EMERGENZA COVID \u2013 19\nAIUTA GLI OSPEDALI SAN PAOLO E SAN CARLO\nLa situazione di emergenza che stiamo vivendo ha fatto si che nascessero in questi giorni   molteplici azioni di raccolta fondi, iniziative personali di cittadini, pazienti e dipendenti .\n\nAl fine di rendere questi gesti di solidariet\u00e0 spontanea e vicinanza a tutti i nostri operatori ufficiali, sicuri e trasparenti l\u2019ASST Santi Paolo e Carlo ha deciso di promuovere una Campagna di raccolta fondi istituzionale.\n\nChiunque potr\u00e0 donare quello che pu\u00f2 sul conto corrente della nostra ASST.\n\nLa sfida \u00e8 quella di riuscire a supportare le attivit\u00e0 e l'acquisto di apparecchiature specifiche, utili per far fronte all'emergenza sanitaria che stiamo vivendo.\n\nVi informiamo inoltre che l\u2019unico canale istituzionale \u00e8 quello sopra indicato, poich\u00e9 molte sono le segnalazioni di raccolte fondi a favore dei nostri ospedali per fronteggiare l\u2019emergenza sanitaria.\n\nGRAZIE PERCHE\u2019 SOLO INSIEME POSSIAMO AFFRONTARE QUESTA EMERGENZA\n\n@ASSTSANTIPAOLOCARLO\nwww.asst-santipaolocarlo.it"", ""Email"": ""comunicazione@asst-santipaolocarlo.it"", ""IBAN"": ""IT92F0311101634000000000003"", ""Intestazione"": ""ASST SANTI PAOLO E CARLO"", ""Link"": ""http://www.asst-santipaolocarlo.it/"", ""Nome"": ""ASST Santi Paolo e Carlo"", ""Posizione"": ""45.4327276 9.1573136 0 0"", ""Provincia"": ""-"", ""Regione"": ""Lombardia""}","<pre><yamldata>
 BIC_SWIFT: BLOPIT22565
 Causale: EMERGENZA CORONAVIRUS OSPEDALI SAN PAOLO E SAN CARLO
-Descrizione: 'EMERGENZA COVID – 19
-
-  AIUTA GLI OSPEDALI SAN PAOLO E SAN CARLO
-
-  La situazione di emergenza che stiamo vivendo ha fatto si che nascessero in questi
-  giorni   molteplici azioni di raccolta fondi, iniziative personali di cittadini,
-  pazienti e dipendenti .
-
-
-  Al fine di rendere questi gesti di solidarietà spontanea e vicinanza a tutti i nostri
-  operatori ufficiali, sicuri e trasparenti l’ASST Santi Paolo e Carlo ha deciso di
-  promuovere una Campagna di raccolta fondi istituzionale.
-
-
-  Chiunque potrà donare quello che può sul conto corrente della nostra ASST.
-
-
-  La sfida è quella di riuscire a supportare le attività e l''acquisto di apparecchiature
-  specifiche, utili per far fronte all''emergenza sanitaria che stiamo vivendo.
-
-
-  Vi informiamo inoltre che l’unico canale istituzionale è quello sopra indicato,
-  poiché molte sono le segnalazioni di raccolte fondi a favore dei nostri ospedali
-  per fronteggiare l’emergenza sanitaria.
-
-
-  GRAZIE PERCHE’ SOLO INSIEME POSSIAMO AFFRONTARE QUESTA EMERGENZA
-
-
-  @ASSTSANTIPAOLOCARLO
-
-  www.asst-santipaolocarlo.it'
+Comune: Milano
+Descrizione: ""EMERGENZA COVID \u2013 19\nAIUTA GLI OSPEDALI SAN PAOLO E SAN CARLO\n\
+  La situazione di emergenza che stiamo vivendo ha fatto si che nascessero in questi\
+  \ giorni   molteplici azioni di raccolta fondi, iniziative personali di cittadini,\
+  \ pazienti e dipendenti .\n\nAl fine di rendere questi gesti di solidariet\xE0 spontanea\
+  \ e vicinanza a tutti i nostri operatori ufficiali, sicuri e trasparenti l\u2019\
+  ASST Santi Paolo e Carlo ha deciso di promuovere una Campagna di raccolta fondi\
+  \ istituzionale.\n\nChiunque potr\xE0 donare quello che pu\xF2 sul conto corrente\
+  \ della nostra ASST.\n\nLa sfida \xE8 quella di riuscire a supportare le attivit\xE0\
+  \ e l'acquisto di apparecchiature specifiche, utili per far fronte all'emergenza\
+  \ sanitaria che stiamo vivendo.\n\nVi informiamo inoltre che l\u2019unico canale\
+  \ istituzionale \xE8 quello sopra indicato, poich\xE9 molte sono le segnalazioni\
+  \ di raccolte fondi a favore dei nostri ospedali per fronteggiare l\u2019emergenza\
+  \ sanitaria.\n\nGRAZIE PERCHE\u2019 SOLO INSIEME POSSIAMO AFFRONTARE QUESTA EMERGENZA\n\
+  \n@ASSTSANTIPAOLOCARLO\nwww.asst-santipaolocarlo.it""
 Email: comunicazione@asst-santipaolocarlo.it
 IBAN: IT92F0311101634000000000003
 Intestazione: ASST SANTI PAOLO E CARLO
 Link: http://www.asst-santipaolocarlo.it/
 Nome: ASST Santi Paolo e Carlo
 Posizione: 45.4327276 9.1573136 0 0
+Provincia: '-'
+Regione: Lombardia
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/607,582161173,2020-03-16 10:24:20,2020-03-16 10:09:06,RACCOLTA FONDI PER OSPEDALE DI CAMERINO #CAMERINO (MC),43.127612,13.050723,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Causale"": ""Donazione per l'Ospedale di Camerino (MC)"", ""Descrizione"": ""APPELLO URGENTE DELLA DOTTORESSA MAZZOLI - PNEUMOLOGA DELL'OSPEDALE DI CAMERINO (MC) \n\nSe volete veramente darci una mano donate e fate donare  all'Associazione 'a cuore...aperto dell'ospedale di Camerino' registrata all'agenzia delle Entrate dal 2013. Ne sono fondatrice ed attenta ed onestissima tesoriera (unico pregio in mezzo a mille difetti). Mi stanno chiedendo dalla semiintensiva tanto materiale (broncoscopi monouso, caschi-C-pap, visiere etc) ed anche nella 'grande medicina' servono tante cose. Stamattina ho chiesto uno sfigmomanometro elettronico  senza fonendo per evitare contaminazioni, dopo 20 minuti la Salus ce lo ha portato in regalo da Matelica. Se qualcuno sa lavorare col computer potrebbe organizzare una raccolta fondi on line o quello che pensate meglio. Io non so farlo e purtroppo non ho tempo. Grazie per quello che potrete fare per i nostri ricoverati. \n\nIban associazione: IT27O0845668830000000055071 BBC banca dei Sibillini filiale di Camerino"", ""IBAN"": ""IT27O0845668830000000055071"", ""Intestazione"": ""Associazione 'a cuore...aperto dell'ospedale di Camerino"", ""Link"": ""http://www.appenninocamerte.info/notizie-cronaca/item/10832-camerino-servono-tante-cose-aiutateci"", ""Nome"": ""Associazione 'a cuore...aperto dell'ospedale di Camerino"", ""Posizione"": ""43.127612 13.050723 0 0""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/607,582161173,2020-03-16 23:00:29,2020-03-16 10:09:06,RACCOLTA FONDI PER OSPEDALE DI CAMERINO #CAMERINO (MC),43.127612,13.050723,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Causale"": ""Donazione per l'Ospedale di Camerino (MC)"", ""Comune"": ""Camerino"", ""Descrizione"": ""APPELLO URGENTE DELLA DOTTORESSA MAZZOLI - PNEUMOLOGA DELL'OSPEDALE DI CAMERINO (MC) \n\nSe volete veramente darci una mano donate e fate donare  all'Associazione 'a cuore...aperto dell'ospedale di Camerino' registrata all'agenzia delle Entrate dal 2013. Ne sono fondatrice ed attenta ed onestissima tesoriera (unico pregio in mezzo a mille difetti). Mi stanno chiedendo dalla semiintensiva tanto materiale (broncoscopi monouso, caschi-C-pap, visiere etc) ed anche nella 'grande medicina' servono tante cose. Stamattina ho chiesto uno sfigmomanometro elettronico  senza fonendo per evitare contaminazioni, dopo 20 minuti la Salus ce lo ha portato in regalo da Matelica. Se qualcuno sa lavorare col computer potrebbe organizzare una raccolta fondi on line o quello che pensate meglio. Io non so farlo e purtroppo non ho tempo. Grazie per quello che potrete fare per i nostri ricoverati. \n\nIban associazione: IT27O0845668830000000055071 BBC banca dei Sibillini filiale di Camerino"", ""IBAN"": ""IT27O0845668830000000055071"", ""Intestazione"": ""Associazione 'a cuore...aperto dell'ospedale di Camerino"", ""Link"": ""http://www.appenninocamerte.info/notizie-cronaca/item/10832-camerino-servono-tante-cose-aiutateci"", ""Nome"": ""Associazione 'a cuore...aperto dell'ospedale di Camerino"", ""Posizione"": ""43.127612 13.050723 0 0"", ""Provincia"": ""Macerata"", ""Regione"": ""Marche""}","<pre><yamldata>
 Causale: Donazione per l'Ospedale di Camerino (MC)
+Comune: Camerino
 Descrizione: ""APPELLO URGENTE DELLA DOTTORESSA MAZZOLI - PNEUMOLOGA DELL'OSPEDALE\
   \ DI CAMERINO (MC) \n\nSe volete veramente darci una mano donate e fate donare \
   \ all'Associazione 'a cuore...aperto dell'ospedale di Camerino' registrata all'agenzia\
@@ -722,6 +742,8 @@ Intestazione: Associazione 'a cuore...aperto dell'ospedale di Camerino
 Link: http://www.appenninocamerte.info/notizie-cronaca/item/10832-camerino-servono-tante-cose-aiutateci
 Nome: Associazione 'a cuore...aperto dell'ospedale di Camerino
 Posizione: 43.127612 13.050723 0 0
+Provincia: Macerata
+Regione: Marche
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/606,582156455,2020-03-16 10:03:45,2020-03-16 10:01:25,#ANCI promuove iniziative delle aziende durante emergenza COVID-19,,,"[""Bollettino"", ""Servizi e iniziative solidali pubbliche"", ""Sostegno lavoro e imprese"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""ANCI"", ""Descrizione"": ""Sui canali social di ANCI verranno promosse le iniziative messe in campo dalle aziende per fronteggiare l\u2019emergenza da COVID-19.\nSegnala l\u2019iniziativa della tua azienda a @ANCI_comunicare e la rilanceranno!"", ""Destinatari"": ""Aziende"", ""Link"": ""https://twitter.com/ANCI_comunicare/status/1238554647180312582"", ""Natura"": ""sostegno-lavor"", ""Titolo"": ""#ANCI promuove sui social iniziative delle aziende durante l'emergenza COVID-19""}","<pre><yamldata>
 Da_chi_offerta: ANCI
@@ -734,18 +756,21 @@ Link: https://twitter.com/ANCI_comunicare/status/1238554647180312582
 Natura: sostegno-lavor
 Titolo: '#ANCI promuove sui social iniziative delle aziende durante l''emergenza COVID-19'
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/605,582152805,2020-03-16 10:46:45,2020-03-16 09:56:14,Didattica d'emergenza #Bolzano #ProvinciaBolzano,46.49833,11.354767,"[""Bollettino"", ""Didattica a distanza e-learning"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Linux User Group Bolzano-Bozen-Bulsan"", ""Descrizione"": ""Raccolta PC/Notebook non pi\u00f9 vecchi di 10 anni e funzionanti.\nOfferta di sistemi di videoconferenza d\u2019emergenza con base EU."", ""Destinatari"": ""Scuole della Provincia di Bolzano"", ""Link"": ""https://www.lugbz.org/la-didattica-demergenza/"", ""Natura"": ""didattica"", ""Posizione"": ""46.49833 11.354767 0 0"", ""Titolo"": ""Didattica d'emergenza""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/605,582152805,2020-03-16 23:00:30,2020-03-16 09:56:14,Didattica d'emergenza #Bolzano #ProvinciaBolzano,46.49833,11.354767,"[""Bollettino"", ""Didattica a distanza e-learning"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Comune"": ""Bolzano"", ""Da_chi_offerta"": ""Linux User Group Bolzano-Bozen-Bulsan"", ""Descrizione"": ""Raccolta PC/Notebook non pi\u00f9 vecchi di 10 anni e funzionanti.\nOfferta di sistemi di videoconferenza d\u2019emergenza con base EU."", ""Destinatari"": ""Scuole della Provincia di Bolzano"", ""Link"": ""https://www.lugbz.org/la-didattica-demergenza/"", ""Natura"": ""didattica"", ""Posizione"": ""46.49833 11.354767 0 0"", ""Provincia"": ""Bolzano"", ""Regione"": ""Trentino-Alto Adige"", ""Titolo"": ""Didattica d'emergenza""}","<pre><yamldata>
+Comune: Bolzano
 Da_chi_offerta: Linux User Group Bolzano-Bozen-Bulsan
-Descrizione: 'Raccolta PC/Notebook non più vecchi di 10 anni e funzionanti.
-
-  Offerta di sistemi di videoconferenza d’emergenza con base EU.'
+Descrizione: ""Raccolta PC/Notebook non pi\xF9 vecchi di 10 anni e funzionanti.\nOfferta\
+  \ di sistemi di videoconferenza d\u2019emergenza con base EU.""
 Destinatari: Scuole della Provincia di Bolzano
 Link: https://www.lugbz.org/la-didattica-demergenza/
 Natura: didattica
 Posizione: 46.49833 11.354767 0 0
+Provincia: Bolzano
+Regione: Trentino-Alto Adige
 Titolo: Didattica d'emergenza
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/604,582148526,2020-03-16 10:20:03,2020-03-16 09:49:14,"Servizio psicologico, consulenze telefoniche #Bolzano #ProvinciaBolzano",46.498286,11.310199,"[""Bollettino"", ""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Azienda Sanitaria dell'Alto Adige"", ""Descrizione"": ""Consulenze telefoniche alla popolazione ed ai collaboratori/alle collaboratrici per richieste di sostegno psicologico in generale o relative alla sofferenza psichica e insicurezza rispetto al COVID-19."", ""Destinatari"": ""popolazione"", ""Link"": ""http://www.provincia.bz.it/news/it/news.asp?news_action=4&news_article_id=636335"", ""Natura"": ""solidale"", ""Posizione"": ""46.498286 11.310199 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Servizio psicologico, consulenze telefoniche""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/604,582148526,2020-03-16 23:00:32,2020-03-16 09:49:14,"Servizio psicologico, consulenze telefoniche #Bolzano #ProvinciaBolzano",46.498286,11.310199,"[""Bollettino"", ""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Comune"": ""Bolzano"", ""Da_chi_offerta"": ""Azienda Sanitaria dell'Alto Adige"", ""Descrizione"": ""Consulenze telefoniche alla popolazione ed ai collaboratori/alle collaboratrici per richieste di sostegno psicologico in generale o relative alla sofferenza psichica e insicurezza rispetto al COVID-19."", ""Destinatari"": ""popolazione"", ""Link"": ""http://www.provincia.bz.it/news/it/news.asp?news_action=4&news_article_id=636335"", ""Natura"": ""solidale"", ""Posizione"": ""46.498286 11.310199 0 0"", ""Provincia"": ""Bolzano"", ""Regione"": ""Trentino-Alto Adige"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Servizio psicologico, consulenze telefoniche""}","<pre><yamldata>
+Comune: Bolzano
 Da_chi_offerta: Azienda Sanitaria dell'Alto Adige
 Descrizione: Consulenze telefoniche alla popolazione ed ai collaboratori/alle collaboratrici
   per richieste di sostegno psicologico in generale o relative alla sofferenza psichica
@@ -754,37 +779,40 @@ Destinatari: popolazione
 Link: http://www.provincia.bz.it/news/it/news.asp?news_action=4&news_article_id=636335
 Natura: solidale
 Posizione: 46.498286 11.310199 0 0
+Provincia: Bolzano
+Regione: Trentino-Alto Adige
 Tipo_di_soggetto: pubblico
 Titolo: Servizio psicologico, consulenze telefoniche
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/603,582143180,2020-03-16 10:20:26,2020-03-16 09:40:37,Servizio di consegna spesa e farmaci a domicilio #Bolzano #ProvinciaBolzano,46.469326,11.329345,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Croce Rossa Italiana - Comitato Provincia Autonoma di Bolzano"", ""Descrizione"": ""Servizio nei seguenti comuni:\n- Laives, S. Cristina, Ortisei, Selva, Laion, Castelrotto, Lana, Cermes, Marlengo, Postal, Gargazzone, Egna, Montagna, Salorno, Termeno, Cortina, Magr\u00e9\n\nNumero di telefono: 0473 320078\nDal luned\u00ec al venerd\u00ec dalle 09:00 alle 17:00"", ""Destinatari"": ""Anziani e persone sole"", ""Link"": ""https://www.facebook.com/crocerossa.altoadige/photos/pcb.3417731961587120/3417728188254164/?type=1&theater"", ""Natura"": ""solidale"", ""Posizione"": ""46.469326 11.329345 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Servizio di consegna spesa e farmaci a domicilio""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/603,582143180,2020-03-16 23:00:34,2020-03-16 09:40:37,Servizio di consegna spesa e farmaci a domicilio #Bolzano #ProvinciaBolzano,46.469326,11.329345,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Comune"": ""Bolzano"", ""Da_chi_offerta"": ""Croce Rossa Italiana - Comitato Provincia Autonoma di Bolzano"", ""Descrizione"": ""Servizio nei seguenti comuni:\n- Laives, S. Cristina, Ortisei, Selva, Laion, Castelrotto, Lana, Cermes, Marlengo, Postal, Gargazzone, Egna, Montagna, Salorno, Termeno, Cortina, Magr\u00e9\n\nNumero di telefono: 0473 320078\nDal luned\u00ec al venerd\u00ec dalle 09:00 alle 17:00"", ""Destinatari"": ""Anziani e persone sole"", ""Link"": ""https://www.facebook.com/crocerossa.altoadige/photos/pcb.3417731961587120/3417728188254164/?type=1&theater"", ""Natura"": ""solidale"", ""Posizione"": ""46.469326 11.329345 0 0"", ""Provincia"": ""Bolzano"", ""Regione"": ""Trentino-Alto Adige"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Servizio di consegna spesa e farmaci a domicilio""}","<pre><yamldata>
+Comune: Bolzano
 Da_chi_offerta: Croce Rossa Italiana - Comitato Provincia Autonoma di Bolzano
-Descrizione: 'Servizio nei seguenti comuni:
-
-  - Laives, S. Cristina, Ortisei, Selva, Laion, Castelrotto, Lana, Cermes, Marlengo,
-  Postal, Gargazzone, Egna, Montagna, Salorno, Termeno, Cortina, Magré
-
-
-  Numero di telefono: 0473 320078
-
-  Dal lunedì al venerdì dalle 09:00 alle 17:00'
+Descrizione: ""Servizio nei seguenti comuni:\n- Laives, S. Cristina, Ortisei, Selva,\
+  \ Laion, Castelrotto, Lana, Cermes, Marlengo, Postal, Gargazzone, Egna, Montagna,\
+  \ Salorno, Termeno, Cortina, Magr\xE9\n\nNumero di telefono: 0473 320078\nDal luned\xEC\
+  \ al venerd\xEC dalle 09:00 alle 17:00""
 Destinatari: Anziani e persone sole
 Link: https://www.facebook.com/crocerossa.altoadige/photos/pcb.3417731961587120/3417728188254164/?type=1&theater
 Natura: solidale
 Posizione: 46.469326 11.329345 0 0
+Provincia: Bolzano
+Regione: Trentino-Alto Adige
 Tipo_di_soggetto: privato
 Titolo: Servizio di consegna spesa e farmaci a domicilio
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/602,582114630,2020-03-16 09:40:53,2020-03-16 08:54:45,Mappa in aggiornamento su servizi a domicilio #GioiadelColle #Bari,40.796728,16.92359,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Negozi, farmacie, alimentari del comune di Gioia del Colle"", ""Descrizione"": ""Mappa in aggiornamento sui negozi, farmacie, alimentari che offrono servizio di approvvigionamento di beni e servizi a domicilio"", ""Destinatari"": ""Gioia del Colle"", ""Link"": ""https://www.google.com/maps/d/viewer?mid=1oS8nqqj63wEG8ktq7pcDyj5kPJRzRf_v&hl=it&fbclid=IwAR3G-KwQX29bUahMkLEIwvwG3WNkzDJU7d96sW668gNSzUukwNXzvxLXodE&ll=40.80597499516789%2C16.900460000000066&z=13"", ""Natura"": ""solidale"", ""Posizione"": ""40.796728 16.92359 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Delivery Casa""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/602,582114630,2020-03-16 23:00:35,2020-03-16 08:54:45,Mappa in aggiornamento su servizi a domicilio #GioiadelColle #Bari,40.796728,16.92359,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Comune"": ""Gioia del Colle"", ""Da_chi_offerta"": ""Negozi, farmacie, alimentari del comune di Gioia del Colle"", ""Descrizione"": ""Mappa in aggiornamento sui negozi, farmacie, alimentari che offrono servizio di approvvigionamento di beni e servizi a domicilio"", ""Destinatari"": ""Gioia del Colle"", ""Link"": ""https://www.google.com/maps/d/viewer?mid=1oS8nqqj63wEG8ktq7pcDyj5kPJRzRf_v&hl=it&fbclid=IwAR3G-KwQX29bUahMkLEIwvwG3WNkzDJU7d96sW668gNSzUukwNXzvxLXodE&ll=40.80597499516789%2C16.900460000000066&z=13"", ""Natura"": ""solidale"", ""Posizione"": ""40.796728 16.92359 0 0"", ""Provincia"": ""-"", ""Regione"": ""Puglia"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Delivery Casa""}","<pre><yamldata>
+Comune: Gioia del Colle
 Da_chi_offerta: Negozi, farmacie, alimentari del comune di Gioia del Colle
 Descrizione: Mappa in aggiornamento sui negozi, farmacie, alimentari che offrono servizio
   di approvvigionamento di beni e servizi a domicilio
 Destinatari: Gioia del Colle
 Link: https://www.google.com/maps/d/viewer?mid=1oS8nqqj63wEG8ktq7pcDyj5kPJRzRf_v&hl=it&fbclid=IwAR3G-KwQX29bUahMkLEIwvwG3WNkzDJU7d96sW668gNSzUukwNXzvxLXodE&ll=40.80597499516789%2C16.900460000000066&z=13
 Natura: solidale
+Posizione: 40.796728 16.92359 0 0
+Provincia: '-'
+Regione: Puglia
 Tipo_di_soggetto: privato
 Titolo: Delivery Casa
-Posizione: 40.796728 16.92359 0 0
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/601,582106859,2020-03-16 16:05:15,2020-03-16 08:42:15,"NON è vero che: il MEF ha comunicato la chiusura delle attività edili, derivate e fabbriche",,,"[""Bollettino"", ""Fake News"", ""accettato"", ""form""]",,,"{""Cosa"": ""Falso il Comunicato MEF sulla chiusura delle attivit\u00e0 edili, derivate e fabbriche"", ""Descrizione"": ""Circola un comunicato MEF che annuncia sospensione di tutte le attivit\u00e0 lavorative edili e derivate e di tutte le fabbriche del territorio, con alcune eccezioni. Tutto Falso."", ""Link"": ""https://twitter.com/MEF_GOV/status/1239463398355677185""}","<pre><yamldata>
 Cosa: Falso il Comunicato MEF sulla chiusura delle attività edili, derivate e fabbriche
@@ -793,24 +821,31 @@ Descrizione: Circola un comunicato MEF che annuncia sospensione di tutte le atti
   Tutto Falso.
 Link: https://twitter.com/MEF_GOV/status/1239463398355677185
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/600,582105286,2020-03-16 10:37:51,2020-03-16 08:39:47,RACCOLTA FONDI OSPEDALE TRIGONA #NOTO (SR),36.89089,15.07065,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Riapertura OSPEDALE TRIGONA DI NOTO(SR) tramite gofundme"", ""Link"": ""https://www.gofundme.com/f/raccolta-fondi-per-l039ospedale-trigona-di-noto?utm_source=facebook&utm_medium=social&utm_campaign=p_cp+share-sheet&fbclid=IwAR0xOxiELpKjxgFEcUGDxdSrju9wmZv_somPemTHjuk7VC0Rdv6-sE3alPs"", ""Nome"": ""Samuele Mazza"", ""Posizione"": ""36.89089 15.07065 0 0""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/600,582105286,2020-03-16 23:00:37,2020-03-16 08:39:47,RACCOLTA FONDI OSPEDALE TRIGONA #NOTO (SR),36.89089,15.07065,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Comune"": ""Noto"", ""Descrizione"": ""Riapertura OSPEDALE TRIGONA DI NOTO(SR) tramite gofundme"", ""Link"": ""https://www.gofundme.com/f/raccolta-fondi-per-l039ospedale-trigona-di-noto?utm_source=facebook&utm_medium=social&utm_campaign=p_cp+share-sheet&fbclid=IwAR0xOxiELpKjxgFEcUGDxdSrju9wmZv_somPemTHjuk7VC0Rdv6-sE3alPs"", ""Nome"": ""Samuele Mazza"", ""Posizione"": ""36.89089 15.07065 0 0"", ""Provincia"": ""Siracusa"", ""Regione"": ""Sicilia""}","<pre><yamldata>
+Comune: Noto
 Descrizione: Riapertura OSPEDALE TRIGONA DI NOTO(SR) tramite gofundme
 Link: https://www.gofundme.com/f/raccolta-fondi-per-l039ospedale-trigona-di-noto?utm_source=facebook&utm_medium=social&utm_campaign=p_cp+share-sheet&fbclid=IwAR0xOxiELpKjxgFEcUGDxdSrju9wmZv_somPemTHjuk7VC0Rdv6-sE3alPs
 Nome: Samuele Mazza
 Posizione: 36.89089 15.07065 0 0
+Provincia: Siracusa
+Regione: Sicilia
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/598,581879216,2020-03-16 08:50:26,2020-03-15 23:52:37,"#Toscana, per ritirare i farmaci basta un codice, la ricetta si stampa direttamente in farmacia",43.79366875,11.222513136213019,"[""Bollettino"", ""Contatti utili"", ""Informazioni utili"", ""Notizie"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Regione Toscana"", ""Descrizione"": ""La Toscana si attrezza per far fronte sempre pi\u00f9 all'emergenza. Con il numero di ricetta comunicato tramite Sms e la Tessera sanitaria, si possono ritirare i medicinali direttamente in farmacia senza doversi recare in ambulatorio dal medico."", ""Destinatari"": ""Tutti i residenti in Toscana"", ""Link"": ""https://www.toscana-notizie.it/-/farmaci-per-ritirarli-basta-un-codice-la-ricetta-si-stampa-direttamente-in-farmacia"", ""Natura"": ""solidale"", ""Posizione"": ""43.79366875 11.222513136213019 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Toscana, per ritirare i farmaci basta un codice, la ricetta si stampa direttamente in farmacia""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/598,581879216,2020-03-16 23:00:39,2020-03-15 23:52:37,"#Toscana, per ritirare i farmaci basta un codice, la ricetta si stampa direttamente in farmacia",43.79366875,11.222513136213019,"[""Bollettino"", ""Contatti utili"", ""Informazioni utili"", ""Notizie"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Comune"": ""Firenze"", ""Da_chi_offerta"": ""Regione Toscana"", ""Descrizione"": ""La Toscana si attrezza per far fronte sempre pi\u00f9 all'emergenza. Con il numero di ricetta comunicato tramite Sms e la Tessera sanitaria, si possono ritirare i medicinali direttamente in farmacia senza doversi recare in ambulatorio dal medico."", ""Destinatari"": ""Tutti i residenti in Toscana"", ""Link"": ""https://www.toscana-notizie.it/-/farmaci-per-ritirarli-basta-un-codice-la-ricetta-si-stampa-direttamente-in-farmacia"", ""Natura"": ""solidale"", ""Posizione"": ""43.79366875 11.222513136213019 0 0"", ""Provincia"": ""-"", ""Regione"": ""Toscana"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Toscana, per ritirare i farmaci basta un codice, la ricetta si stampa direttamente in farmacia""}","<pre><yamldata>
+Comune: Firenze
 Da_chi_offerta: Regione Toscana
-Descrizione: La Toscana si attrezza per far fronte sempre più all'emergenza. Con il
-  numero di ricetta comunicato tramite Sms e la Tessera sanitaria, si possono ritirare
-  i medicinali direttamente in farmacia senza doversi recare in ambulatorio dal medico.
+Descrizione: ""La Toscana si attrezza per far fronte sempre pi\xF9 all'emergenza. Con\
+  \ il numero di ricetta comunicato tramite Sms e la Tessera sanitaria, si possono\
+  \ ritirare i medicinali direttamente in farmacia senza doversi recare in ambulatorio\
+  \ dal medico.""
 Destinatari: Tutti i residenti in Toscana
 Link: https://www.toscana-notizie.it/-/farmaci-per-ritirarli-basta-un-codice-la-ricetta-si-stampa-direttamente-in-farmacia
 Natura: solidale
+Posizione: 43.79366875 11.222513136213019 0 0
+Provincia: '-'
+Regione: Toscana
 Tipo_di_soggetto: pubblico
 Titolo: Toscana, per ritirare i farmaci basta un codice, la ricetta si stampa direttamente
   in farmacia
-Posizione: 43.79366875 11.222513136213019 0 0
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/596,581869822,2020-03-16 12:09:36,2020-03-15 23:26:43,Bando Commissione europea per startup e aziende per offrire soluzioni tecnologiche contro il coronavirus,50.845522,4.35195,"[""Bollettino"", ""Notizie"", ""Sostegno lavoro e imprese"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Unione Europea"", ""Descrizione"": ""La Commissione europea chiede alle startup e alle PMI tecnologie e innovazioni che potrebbero aiutare a trattare, testare, monitorare o altri aspetti dell'epidemia di Coronavirus da applicare urgentemente al prossimo round di finanziamenti del Consiglio europeo per l'innovazione. La scadenza per le domande all'acceleratore EIC \u00e8 alle 17:00 di mercoled\u00ec 18 marzo (ora di Bruxelles). Con un budget di 164 milioni di euro, questo invito \u00e8 \""dal basso verso l'alto\"", il che significa che non ci sono priorit\u00e0 tematiche predefinite e i candidati con innovazioni pertinenti al Coronavirus saranno valutati allo stesso modo degli altri candidati. Ciononostante, la Commissione cercher\u00e0 di accelerare la concessione di sovvenzioni EIC e finanziamenti misti (che combinano sovvenzioni e investimenti azionari) alle innovazioni pertinenti del Coronavirus, nonch\u00e9 di facilitare l'accesso ad altri finanziamenti e fonti di investimento. L'EIC sta gi\u00e0 supportando una serie di start-up e PMI con innovazioni rilevanti per Coronavirus, che hanno ricevuto finanziamenti nei round precedenti. Ci\u00f2 include il progetto EpiShuttle per unit\u00e0 di isolamento specializzate, il progetto m-TAP per la tecnologia di filtrazione per rimuovere materiale virale e il progetto MBENT per tracciare la mobilit\u00e0 umana durante le epidemie."", ""Destinatari"": ""Startup con idee innovative per il Covid-19"", ""Link"": ""https://ec.europa.eu/info/news/startups-and-smes-innovative-solutions-welcome-2020-mar-13_en"", ""Natura"": ""sostegno-lavoro"", ""Posizione"": ""50.845522 4.35195 0 0"", ""Titolo"": ""Applications welcome from startups and SMEs with innovative solutions to tackle Coronavirus outbreak""}","<pre><yamldata>
 Da_chi_offerta: Unione Europea
@@ -851,26 +886,36 @@ Intestazione: Protezione Civile regionale
 Link: http://www.regione.emilia-romagna.it/coronavirus/donazioni
 Nome: Protezione Civile Emilia Romagna
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/594,581849766,2020-03-15 23:10:56,2020-03-15 22:25:12,Raccolta Fondi per Ospedale Metropolitano #ReggioCalabria per acquisto ventilatori polmonari,38.113821,15.65995,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""\u00c8 stata istituita una raccolta fondi per l'acquisto di ventilatori polmonari e per aumentare i posti in terapia intensiva"", ""Link"": ""https://www.gofundme.com/f/terapia-intensiva-ospedale-reggio-calabria?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet"", ""Nome"": ""Grande Ospedale Metropolitano #Reggio Calabria"", ""Posizione"": ""38.113821 15.65995 0 0""}","<pre><yamldata>
-Descrizione: È stata istituita una raccolta fondi per l'acquisto di ventilatori polmonari
-  e per aumentare i posti in terapia intensiva
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/594,581849766,2020-03-16 23:00:42,2020-03-15 22:25:12,Raccolta Fondi per Ospedale Metropolitano #ReggioCalabria per acquisto ventilatori polmonari,38.113821,15.65995,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Comune"": ""Reggio di Calabria"", ""Descrizione"": ""\u00c8 stata istituita una raccolta fondi per l'acquisto di ventilatori polmonari e per aumentare i posti in terapia intensiva"", ""Link"": ""https://www.gofundme.com/f/terapia-intensiva-ospedale-reggio-calabria?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet"", ""Nome"": ""Grande Ospedale Metropolitano #Reggio Calabria"", ""Posizione"": ""38.113821 15.65995 0 0"", ""Provincia"": ""-"", ""Regione"": ""Calabria""}","<pre><yamldata>
+Comune: Reggio di Calabria
+Descrizione: ""\xC8 stata istituita una raccolta fondi per l'acquisto di ventilatori\
+  \ polmonari e per aumentare i posti in terapia intensiva""
 Link: https://www.gofundme.com/f/terapia-intensiva-ospedale-reggio-calabria?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet
 Nome: 'Grande Ospedale Metropolitano #Reggio Calabria'
 Posizione: 38.113821 15.65995 0 0
+Provincia: '-'
+Regione: Calabria
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/593,581845452,2020-03-15 22:54:10,2020-03-15 22:10:24,Raccolte fondi online per Policlinico Tor Vergata #Roma,41.857996,12.631404,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Link"": ""https://www.gofundme.com/f/tor-vergata-per-l039emergenza-coronavirus"", ""Nome"": ""Policlinico Tor vergata"", ""Posizione"": ""41.857996 12.631404 0 0""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/593,581845452,2020-03-16 23:00:43,2020-03-15 22:10:24,Raccolte fondi online per Policlinico Tor Vergata #Roma,41.857996,12.631404,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Comune"": ""Roma"", ""Link"": ""https://www.gofundme.com/f/tor-vergata-per-l039emergenza-coronavirus"", ""Nome"": ""Policlinico Tor vergata"", ""Posizione"": ""41.857996 12.631404 0 0"", ""Provincia"": ""-"", ""Regione"": ""Lazio""}","<pre><yamldata>
+Comune: Roma
 Link: https://www.gofundme.com/f/tor-vergata-per-l039emergenza-coronavirus
 Nome: Policlinico Tor vergata
 Posizione: 41.857996 12.631404 0 0
+Provincia: '-'
+Regione: Lazio
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/592,581844054,2020-03-15 22:06:59,2020-03-15 22:05:31,Comune di Bologna - Agenda Culturale in streaming #Bologna,44.495654,11.34359,"[""Attivita culturali e ricreative"", ""Bollettino"", ""Informazioni utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Comune di Bologna - Agenda Culturale #Bologna"", ""Descrizione"": ""attivit\u00e0 di streaming per concerti, letture, attivit\u00e0 didattiche, spettacoli teatrali e mostre nei musei"", ""Link"": ""http://agenda.comune.bologna.it/cultura/"", ""Posizione"": ""44.495654 11.34359 0 0""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/592,581844054,2020-03-16 23:00:45,2020-03-15 22:05:31,Comune di Bologna - Agenda Culturale in streaming #Bologna,44.495654,11.34359,"[""Attivita culturali e ricreative"", ""Bollettino"", ""Informazioni utili"", ""accettato"", ""form""]",,,"{""Comune"": ""Bologna"", ""Cosa"": ""Comune di Bologna - Agenda Culturale #Bologna"", ""Descrizione"": ""attivit\u00e0 di streaming per concerti, letture, attivit\u00e0 didattiche, spettacoli teatrali e mostre nei musei"", ""Link"": ""http://agenda.comune.bologna.it/cultura/"", ""Posizione"": ""44.495654 11.34359 0 0"", ""Provincia"": ""-"", ""Regione"": ""Emilia-Romagna""}","<pre><yamldata>
+Comune: Bologna
 Cosa: 'Comune di Bologna - Agenda Culturale #Bologna'
-Descrizione: attività di streaming per concerti, letture, attività didattiche, spettacoli
-  teatrali e mostre nei musei
+Descrizione: ""attivit\xE0 di streaming per concerti, letture, attivit\xE0 didattiche,\
+  \ spettacoli teatrali e mostre nei musei""
 Link: http://agenda.comune.bologna.it/cultura/
 Posizione: 44.495654 11.34359 0 0
+Provincia: '-'
+Regione: Emilia-Romagna
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/591,581843469,2020-03-16 12:55:05,2020-03-15 22:03:29,Ingrazione del Centro Operativo Comunale (C.O.C.)  #Reggio Calabria,38.102022,15.63945,"[""Notizia"", ""Notizie"", ""accettato"", ""form""]",,,"{""Cosa"": ""Ingrazione del C.O.C. - Centro Operativo Comunale"", ""Descrizione"": ""Integrazione Centro Operativo Comunale (C.O.C) a cura della Protezione Civile comunale, con le funzioni di supporto al volontariato, materiali, mezzi e risorse umane.\n\nhttp://www.reggiocal.it/online/Home/PrimoPiano/articolo110712.html"", ""Link"": ""http://www.reggiocal.it/on-line/Home/PrimoPiano/articolo110712.html"", ""Posizione"": ""38.102022 15.63945 0 0""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/591,581843469,2020-03-16 23:00:47,2020-03-15 22:03:29,Ingrazione del Centro Operativo Comunale (C.O.C.)  #Reggio Calabria,38.102022,15.63945,"[""Notizia"", ""Notizie"", ""accettato"", ""form""]",,,"{""Comune"": ""Reggio di Calabria"", ""Cosa"": ""Ingrazione del C.O.C. - Centro Operativo Comunale"", ""Descrizione"": ""Integrazione Centro Operativo Comunale (C.O.C) a cura della Protezione Civile comunale, con le funzioni di supporto al volontariato, materiali, mezzi e risorse umane.\n\nhttp://www.reggiocal.it/online/Home/PrimoPiano/articolo110712.html"", ""Link"": ""http://www.reggiocal.it/on-line/Home/PrimoPiano/articolo110712.html"", ""Posizione"": ""38.102022 15.63945 0 0"", ""Provincia"": ""-"", ""Regione"": ""Calabria""}","<pre><yamldata>
+Comune: Reggio di Calabria
 Cosa: Ingrazione del C.O.C. - Centro Operativo Comunale
 Descrizione: 'Integrazione Centro Operativo Comunale (C.O.C) a cura della Protezione
   Civile comunale, con le funzioni di supporto al volontariato, materiali, mezzi e
@@ -880,42 +925,52 @@ Descrizione: 'Integrazione Centro Operativo Comunale (C.O.C) a cura della Protez
   http://www.reggiocal.it/online/Home/PrimoPiano/articolo110712.html'
 Link: http://www.reggiocal.it/on-line/Home/PrimoPiano/articolo110712.html
 Posizione: 38.102022 15.63945 0 0
+Provincia: '-'
+Regione: Calabria
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/590,581842541,2020-03-15 23:03:39,2020-03-15 22:00:22,Asl Toscana Sud Est - Gruppo Facebook (chiuso) per chi è in sorveglianza attiva #Arezzo #Grosseto #Siena,43.278605,11.781189,"[""Bollettino"", ""Informazioni utili"", ""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Asl Toscana Sud Est"", ""Descrizione"": ""Gruppo Facebook (chiuso) attivato da Asl dove chi \u00e8 in isolamento ad Arezzo, Siena e Grosseto pu\u00f2 porre domande e scambiarsi esperienze con il supporto di personale specializzato: psicologi psicoterapeuti, esperti della prevenzione e di malattie infettive."", ""Destinatari"": ""persone in sorveglianza attiva a Arezzo Siena Grosseto"", ""Link"": ""https://www.uslsudest.toscana.it/comunicati-stampa/c-siamo-coronavirus-spazio-di-incontro-e-condivisione-virtuale-per-le-persone-in-isolamento-domiciliare"", ""Natura"": ""solidale"", ""Posizione"": ""43.278605 11.781189 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Asl Toscana Sud Est - gruppo Fb (chiuso), spazio di incontro e condivisione virtuale""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/590,581842541,2020-03-16 23:00:49,2020-03-15 22:00:22,Asl Toscana Sud Est - Gruppo Facebook (chiuso) per chi è in sorveglianza attiva #Arezzo #Grosseto #Siena,43.278605,11.781189,"[""Bollettino"", ""Informazioni utili"", ""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Comune"": ""Foiano della Chiana"", ""Da_chi_offerta"": ""Asl Toscana Sud Est"", ""Descrizione"": ""Gruppo Facebook (chiuso) attivato da Asl dove chi \u00e8 in isolamento ad Arezzo, Siena e Grosseto pu\u00f2 porre domande e scambiarsi esperienze con il supporto di personale specializzato: psicologi psicoterapeuti, esperti della prevenzione e di malattie infettive."", ""Destinatari"": ""persone in sorveglianza attiva a Arezzo Siena Grosseto"", ""Link"": ""https://www.uslsudest.toscana.it/comunicati-stampa/c-siamo-coronavirus-spazio-di-incontro-e-condivisione-virtuale-per-le-persone-in-isolamento-domiciliare"", ""Natura"": ""solidale"", ""Posizione"": ""43.278605 11.781189 0 0"", ""Provincia"": ""Arezzo"", ""Regione"": ""Toscana"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Asl Toscana Sud Est - gruppo Fb (chiuso), spazio di incontro e condivisione virtuale""}","<pre><yamldata>
+Comune: Foiano della Chiana
 Da_chi_offerta: Asl Toscana Sud Est
-Descrizione: ""Gruppo Facebook (chiuso) attivato da Asl dove chi è in isolamento ad Arezzo, Siena e Grosseto può porre domande e scambiarsi esperienze con il supporto di personale specializzato: psicologi psicoterapeuti, esperti della prevenzione e di malattie infettive.""
-Destinatari: 'persone in sorveglianza attiva a Arezzo Siena Grosseto'
+Descrizione: ""Gruppo Facebook (chiuso) attivato da Asl dove chi \xE8 in isolamento\
+  \ ad Arezzo, Siena e Grosseto pu\xF2 porre domande e scambiarsi esperienze con il\
+  \ supporto di personale specializzato: psicologi psicoterapeuti, esperti della prevenzione\
+  \ e di malattie infettive.""
+Destinatari: persone in sorveglianza attiva a Arezzo Siena Grosseto
 Link: https://www.uslsudest.toscana.it/comunicati-stampa/c-siamo-coronavirus-spazio-di-incontro-e-condivisione-virtuale-per-le-persone-in-isolamento-domiciliare
 Natura: solidale
 Posizione: 43.278605 11.781189 0 0
+Provincia: Arezzo
+Regione: Toscana
 Tipo_di_soggetto: pubblico
 Titolo: Asl Toscana Sud Est - gruppo Fb (chiuso), spazio di incontro e condivisione
   virtuale
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/589,581840570,2020-03-15 23:06:49,2020-03-15 21:53:51,Comune di #Firenze - linea telefonica e equipe per over 65 #Firenze,43.769585,11.262162,"[""Bollettino"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Firenze"", ""Descrizione"": ""una linea telefonica, una sorta di call center, attraverso la quale i nonni potranno avere compagnia e informazioni. Il nuovo servizio sar\u00e0 attivo a partire dalle 14.30 e per usufruirne baster\u00e0 comporre il numero 0553282200, attivo dalle 8 alle 16.30 dal luned\u00ec al venerd\u00ec. A disposizione degli anziani ci saranno degli operatori, che avranno una duplice funzione: passiva, ovvero di ascolto degli anziani e di successiva segnalazione delle loro esigenze ai Servizi sociali del Comune; e attiva, ovvero di sorveglianza sanitaria per monitorare gli anziani fragili segnalati dai Servizi sociali dell'amministrazione per prevenire eventuali successivi interventi e ricoveri. Da gioved\u00ec pomeriggio poi sar\u00e0 operativa un\u2019equipe multiprofessionale della Societ\u00e0 della Salute di Firenze ad alta integrazione socio sanitaria, composta da un assistente sociale, un infermiere e un medico. L\u2019\u00e9quipe risponder\u00e0 al numero 055/2616277 nei giorni di luned\u00ec, mercoled\u00ec e venerd\u00ec dalle 10 alle 12 e il marted\u00ec e il gioved\u00ec dalle 14.30 alle 16.30 e fornir\u00e0 risposte alle richieste di informazioni sui percorsi della non autosufficienza e sui percorsi disabilit\u00e0. Chi chiamer\u00e0 sar\u00e0 ascoltato, orientato e informato. L'\u00e9quipe sar\u00e0 in collegamento anche con i Servizi territoriali: ospedale, segretariato sociale e medici di famiglia."", ""Destinatari"": ""over 65"", ""Link"": ""https://www.comune.fi.it/comunicati-stampa/coronavirus-due-nuovi-servizi-gli-anziani-da-domani-linea-telefonica-dedicata-e?language_content_entity=it"", ""Natura"": ""solidale"", ""Posizione"": ""43.769585 11.262162 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Linea telefonica per over-65 e attivazione equipe SDS #Firenze""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/589,581840570,2020-03-16 23:00:51,2020-03-15 21:53:51,Comune di #Firenze - linea telefonica e equipe per over 65 #Firenze,43.769585,11.262162,"[""Bollettino"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Comune"": ""Firenze"", ""Da_chi_offerta"": ""Comune di Firenze"", ""Descrizione"": ""una linea telefonica, una sorta di call center, attraverso la quale i nonni potranno avere compagnia e informazioni. Il nuovo servizio sar\u00e0 attivo a partire dalle 14.30 e per usufruirne baster\u00e0 comporre il numero 0553282200, attivo dalle 8 alle 16.30 dal luned\u00ec al venerd\u00ec. A disposizione degli anziani ci saranno degli operatori, che avranno una duplice funzione: passiva, ovvero di ascolto degli anziani e di successiva segnalazione delle loro esigenze ai Servizi sociali del Comune; e attiva, ovvero di sorveglianza sanitaria per monitorare gli anziani fragili segnalati dai Servizi sociali dell'amministrazione per prevenire eventuali successivi interventi e ricoveri. Da gioved\u00ec pomeriggio poi sar\u00e0 operativa un\u2019equipe multiprofessionale della Societ\u00e0 della Salute di Firenze ad alta integrazione socio sanitaria, composta da un assistente sociale, un infermiere e un medico. L\u2019\u00e9quipe risponder\u00e0 al numero 055/2616277 nei giorni di luned\u00ec, mercoled\u00ec e venerd\u00ec dalle 10 alle 12 e il marted\u00ec e il gioved\u00ec dalle 14.30 alle 16.30 e fornir\u00e0 risposte alle richieste di informazioni sui percorsi della non autosufficienza e sui percorsi disabilit\u00e0. Chi chiamer\u00e0 sar\u00e0 ascoltato, orientato e informato. L'\u00e9quipe sar\u00e0 in collegamento anche con i Servizi territoriali: ospedale, segretariato sociale e medici di famiglia."", ""Destinatari"": ""over 65"", ""Link"": ""https://www.comune.fi.it/comunicati-stampa/coronavirus-due-nuovi-servizi-gli-anziani-da-domani-linea-telefonica-dedicata-e?language_content_entity=it"", ""Natura"": ""solidale"", ""Posizione"": ""43.769585 11.262162 0 0"", ""Provincia"": ""-"", ""Regione"": ""Toscana"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Linea telefonica per over-65 e attivazione equipe SDS #Firenze""}","<pre><yamldata>
+Comune: Firenze
 Da_chi_offerta: Comune di Firenze
-Descrizione: 'una linea telefonica, una sorta di call center, attraverso la quale
-  i nonni potranno avere compagnia e informazioni. Il nuovo servizio sarà attivo a
-  partire dalle 14.30 e per usufruirne basterà comporre il numero 0553282200, attivo
-  dalle 8 alle 16.30 dal lunedì al venerdì.
-  A disposizione degli anziani ci saranno degli operatori, che avranno una duplice
-  funzione: passiva, ovvero di ascolto degli anziani e di successiva segnalazione
-  delle loro esigenze ai Servizi sociali del Comune; e attiva, ovvero di sorveglianza
-  sanitaria per monitorare gli anziani fragili segnalati dai Servizi sociali dell''amministrazione
-  per prevenire eventuali successivi interventi e ricoveri.
-  Da giovedì pomeriggio poi sarà operativa un’equipe multiprofessionale della Società
-  della Salute di Firenze ad alta integrazione socio sanitaria, composta da un assistente
-  sociale, un infermiere e un medico.
-  L’équipe risponderà al numero 055/2616277 nei giorni di lunedì, mercoledì e venerdì
-  dalle 10 alle 12 e il martedì e il giovedì dalle 14.30 alle 16.30 e fornirà risposte
-  alle richieste di informazioni sui percorsi della non autosufficienza e sui percorsi
-  disabilità. Chi chiamerà sarà ascoltato, orientato e informato. L''équipe sarà in
-  collegamento anche con i Servizi territoriali: ospedale, segretariato sociale e
-  medici di famiglia.'
+Descrizione: ""una linea telefonica, una sorta di call center, attraverso la quale\
+  \ i nonni potranno avere compagnia e informazioni. Il nuovo servizio sar\xE0 attivo\
+  \ a partire dalle 14.30 e per usufruirne baster\xE0 comporre il numero 0553282200,\
+  \ attivo dalle 8 alle 16.30 dal luned\xEC al venerd\xEC. A disposizione degli anziani\
+  \ ci saranno degli operatori, che avranno una duplice funzione: passiva, ovvero\
+  \ di ascolto degli anziani e di successiva segnalazione delle loro esigenze ai Servizi\
+  \ sociali del Comune; e attiva, ovvero di sorveglianza sanitaria per monitorare\
+  \ gli anziani fragili segnalati dai Servizi sociali dell'amministrazione per prevenire\
+  \ eventuali successivi interventi e ricoveri. Da gioved\xEC pomeriggio poi sar\xE0\
+  \ operativa un\u2019equipe multiprofessionale della Societ\xE0 della Salute di Firenze\
+  \ ad alta integrazione socio sanitaria, composta da un assistente sociale, un infermiere\
+  \ e un medico. L\u2019\xE9quipe risponder\xE0 al numero 055/2616277 nei giorni di\
+  \ luned\xEC, mercoled\xEC e venerd\xEC dalle 10 alle 12 e il marted\xEC e il gioved\xEC\
+  \ dalle 14.30 alle 16.30 e fornir\xE0 risposte alle richieste di informazioni sui\
+  \ percorsi della non autosufficienza e sui percorsi disabilit\xE0. Chi chiamer\xE0\
+  \ sar\xE0 ascoltato, orientato e informato. L'\xE9quipe sar\xE0 in collegamento\
+  \ anche con i Servizi territoriali: ospedale, segretariato sociale e medici di famiglia.""
 Destinatari: over 65
 Link: https://www.comune.fi.it/comunicati-stampa/coronavirus-due-nuovi-servizi-gli-anziani-da-domani-linea-telefonica-dedicata-e?language_content_entity=it
 Natura: solidale
 Posizione: 43.769585 11.262162 0 0
+Provincia: '-'
+Regione: Toscana
 Tipo_di_soggetto: pubblico
 Titolo: 'Linea telefonica per over-65 e attivazione equipe SDS #Firenze'
 </yamldata></pre>",open
@@ -941,17 +996,20 @@ Descrizione: ""Ciao,\nallora la mia e una proposta :\nleggendo varie articoli su
   \ vostro sforzo..Ciao.""
 Email: simo@mailo.com
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/585,581826161,2020-03-15 21:22:19,2020-03-15 21:06:38,Consegne a domicilio e supporto psicologico #Volla #Napoli,40.878411,14.342932,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Volla"", ""Descrizione"": ""Consegna a domicilio di prodotti farmaceutici e generi di prima necessit\u00e0- sostegno psicologico"", ""Destinatari"": ""Diversamente abili-over 65 che vivono solo-soggetti che abbiano problematiche accertate"", ""Link"": ""https://comune.volla.na.it/contenuti/158539/servizio-consegna-domicilio-prodotti-farmaceutici"", ""Natura"": ""solidale"", ""Posizione"": ""40.878411 14.342932 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Noi ci siamo""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/585,581826161,2020-03-16 23:00:53,2020-03-15 21:06:38,Consegne a domicilio e supporto psicologico #Volla #Napoli,40.878411,14.342932,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Comune"": ""Volla"", ""Da_chi_offerta"": ""Comune di Volla"", ""Descrizione"": ""Consegna a domicilio di prodotti farmaceutici e generi di prima necessit\u00e0- sostegno psicologico"", ""Destinatari"": ""Diversamente abili-over 65 che vivono solo-soggetti che abbiano problematiche accertate"", ""Link"": ""https://comune.volla.na.it/contenuti/158539/servizio-consegna-domicilio-prodotti-farmaceutici"", ""Natura"": ""solidale"", ""Posizione"": ""40.878411 14.342932 0 0"", ""Provincia"": ""-"", ""Regione"": ""Campania"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Noi ci siamo""}","<pre><yamldata>
+Comune: Volla
 Da_chi_offerta: Comune di Volla
-Descrizione: Consegna a domicilio di prodotti farmaceutici e generi di prima necessità-
-  sostegno psicologico
+Descrizione: ""Consegna a domicilio di prodotti farmaceutici e generi di prima necessit\xE0\
+  - sostegno psicologico""
 Destinatari: Diversamente abili-over 65 che vivono solo-soggetti che abbiano problematiche
   accertate
 Link: https://comune.volla.na.it/contenuti/158539/servizio-consegna-domicilio-prodotti-farmaceutici
 Natura: solidale
+Posizione: 40.878411 14.342932 0 0
+Provincia: '-'
+Regione: Campania
 Tipo_di_soggetto: pubblico
 Titolo: Noi ci siamo
-Posizione: 40.878411 14.342932 0 0
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/584,581821837,2020-03-15 23:11:39,2020-03-15 20:53:07,Ipoclorito di sodio: Arpa Piemonte sconsiglia l'uso massivo,45.336702,15.46875,"[""Notizie"", ""accettato"", ""form""]",,,"{""Cosa"": ""Ipoclorito di sodio: sconsigliato l'uso massivo"", ""Descrizione"": ""Importante parere di Arpa Piemonte: l\u2019uso massiccio di candeggina sulle strade \u00e8 sconsigliato."", ""Link"": ""http://www.arpa.piemonte.it/news/ipoclorito-di-sodio-sconsigliato-luso-massivo"", ""Posizione"": ""45.336702 15.46875 0 0""}","<pre><yamldata>
 Cosa: 'Ipoclorito di sodio: sconsigliato l''uso massivo'
@@ -970,34 +1028,40 @@ Posizione: 45.645123 13.780185 0 20
 Tipo_di_soggetto: privato
 Titolo: Aiuto Psicologico Gratuito con ""Respira"" della s.O.G.It.
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/582,581801533,2020-03-15 21:13:30,2020-03-15 19:51:11,"Catalogo di libri, arte e musica per giovani e famiglie della Regione #Campania",40.851608,14.25905,"[""Attivita culturali e ricreative"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Regione Campania"", ""Descrizione"": ""In questi giorni cos\u00ec complicati il mondo della scuola, della cultura, dell'intrattenimento e del sociale della nostra regione e in tutta Italia  si \u00e8 mobilitato in maniera egregia per trasformare le proprie attivit\u00e0 in qualcosa di fruibile anche restando a casa. \n\nLe iniziative in rete sono tantissime e di grande interesse, ogni ora ne arrivano di nuove. E' per questo che la Regione Campania, con il contributo di Scabec, ha voluto attivare sul proprio sito istituzionale questa sezione, una sorta di \""catalogo\"" di siti, blog, link, pagine social e tutto quanto pu\u00f2 essere utile ai genitori, ai nonni e ai ragazzi, per orientarsi e per raggiungere facilmente ci\u00f2 che si cerca.  \n\nMano a mano che arriveranno altre segnalazioni le aggiungeremo. Chi vuole partecipare con la propria proposta o con i propri progetti in rete pu\u00f2 inviarci la segnalazione e le informazioni alla mail passatempoalsud@gmail.com, specificando in quale sezione vuole essere inserito. \n\n#restiamoacasa #andratuttobene #iostoacasa"", ""Destinatari"": ""tutti, giovani"", ""Link"": ""http://www.regione.campania.it/regione/it/news/regione-informa/passatempo-al-sud-giorni-pieni-di-libri-arte-musica-e-allegria?page=1&fbclid=IwAR342PEnmCRd_Cd_EyrIqzl57Y_sOd_4LDP1RWbNxIXfjSkB1-J5B-OURHY"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""40.851608 14.25905 0 0"", ""Titolo"": ""Passatempo (al Sud): giorni pieni di libri, arte, musica e allegria""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/582,581801533,2020-03-16 23:00:55,2020-03-15 19:51:11,"Catalogo di libri, arte e musica per giovani e famiglie della Regione #Campania",40.851608,14.25905,"[""Attivita culturali e ricreative"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Comune"": ""Napoli"", ""Da_chi_offerta"": ""Regione Campania"", ""Descrizione"": ""In questi giorni cos\u00ec complicati il mondo della scuola, della cultura, dell'intrattenimento e del sociale della nostra regione e in tutta Italia  si \u00e8 mobilitato in maniera egregia per trasformare le proprie attivit\u00e0 in qualcosa di fruibile anche restando a casa. \n\nLe iniziative in rete sono tantissime e di grande interesse, ogni ora ne arrivano di nuove. E' per questo che la Regione Campania, con il contributo di Scabec, ha voluto attivare sul proprio sito istituzionale questa sezione, una sorta di \""catalogo\"" di siti, blog, link, pagine social e tutto quanto pu\u00f2 essere utile ai genitori, ai nonni e ai ragazzi, per orientarsi e per raggiungere facilmente ci\u00f2 che si cerca.  \n\nMano a mano che arriveranno altre segnalazioni le aggiungeremo. Chi vuole partecipare con la propria proposta o con i propri progetti in rete pu\u00f2 inviarci la segnalazione e le informazioni alla mail passatempoalsud@gmail.com, specificando in quale sezione vuole essere inserito. \n\n#restiamoacasa #andratuttobene #iostoacasa"", ""Destinatari"": ""tutti, giovani"", ""Link"": ""http://www.regione.campania.it/regione/it/news/regione-informa/passatempo-al-sud-giorni-pieni-di-libri-arte-musica-e-allegria?page=1&fbclid=IwAR342PEnmCRd_Cd_EyrIqzl57Y_sOd_4LDP1RWbNxIXfjSkB1-J5B-OURHY"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""40.851608 14.25905 0 0"", ""Provincia"": ""-"", ""Regione"": ""Campania"", ""Titolo"": ""Passatempo (al Sud): giorni pieni di libri, arte, musica e allegria""}","<pre><yamldata>
+Comune: Napoli
 Da_chi_offerta: Regione Campania
-Descrizione: ""In questi giorni così complicati il mondo della scuola, della cultura,\
+Descrizione: ""In questi giorni cos\xEC complicati il mondo della scuola, della cultura,\
   \ dell'intrattenimento e del sociale della nostra regione e in tutta Italia  si\
-  \ è mobilitato in maniera egregia per trasformare le proprie attività in qualcosa\
+  \ \xE8 mobilitato in maniera egregia per trasformare le proprie attivit\xE0 in qualcosa\
   \ di fruibile anche restando a casa. \n\nLe iniziative in rete sono tantissime e\
   \ di grande interesse, ogni ora ne arrivano di nuove. E' per questo che la Regione\
   \ Campania, con il contributo di Scabec, ha voluto attivare sul proprio sito istituzionale\
   \ questa sezione, una sorta di \""catalogo\"" di siti, blog, link, pagine social e\
-  \ tutto quanto può essere utile ai genitori, ai nonni e ai ragazzi, per orientarsi\
-  \ e per raggiungere facilmente ciò che si cerca.  \n\nMano a mano che arriveranno\
+  \ tutto quanto pu\xF2 essere utile ai genitori, ai nonni e ai ragazzi, per orientarsi\
+  \ e per raggiungere facilmente ci\xF2 che si cerca.  \n\nMano a mano che arriveranno\
   \ altre segnalazioni le aggiungeremo. Chi vuole partecipare con la propria proposta\
-  \ o con i propri progetti in rete può inviarci la segnalazione e le informazioni\
+  \ o con i propri progetti in rete pu\xF2 inviarci la segnalazione e le informazioni\
   \ alla mail passatempoalsud@gmail.com, specificando in quale sezione vuole essere\
   \ inserito. \n\n#restiamoacasa #andratuttobene #iostoacasa""
 Destinatari: tutti, giovani
 Link: http://www.regione.campania.it/regione/it/news/regione-informa/passatempo-al-sud-giorni-pieni-di-libri-arte-musica-e-allegria?page=1&fbclid=IwAR342PEnmCRd_Cd_EyrIqzl57Y_sOd_4LDP1RWbNxIXfjSkB1-J5B-OURHY
 Natura: culturale-ricr
 Posizione: 40.851608 14.25905 0 0
+Provincia: '-'
+Regione: Campania
 Titolo: 'Passatempo (al Sud): giorni pieni di libri, arte, musica e allegria'
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/581,581794319,2020-03-15 19:46:50,2020-03-15 19:29:09,Consegne a domicilio ANPAS elenco per regioni,43.779496,11.205025,"[""Bollettino"", ""Consegne e commissioni"", ""Dati utili"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Cosa"": ""consegna a domicilio delle pubbliche assistenze"", ""Descrizione"": ""L'elenco delle pubbliche assistenze che hanno attivato il servizio di consegna a domicilio di farmaci e beni di prima necessit\u00e0 (in aggiornamento)"", ""Fonte"": ""Associazione Nazionale Pubbliche Assistenze"", ""Link"": ""https://www.anpas.org/consegna-domicilio.html"", ""Posizione"": ""43.779496 11.205025 0 0""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/581,581794319,2020-03-16 23:00:57,2020-03-15 19:29:09,Consegne a domicilio ANPAS elenco per regioni,43.779496,11.205025,"[""Bollettino"", ""Consegne e commissioni"", ""Dati utili"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Comune"": ""Firenze"", ""Cosa"": ""consegna a domicilio delle pubbliche assistenze"", ""Descrizione"": ""L'elenco delle pubbliche assistenze che hanno attivato il servizio di consegna a domicilio di farmaci e beni di prima necessit\u00e0 (in aggiornamento)"", ""Fonte"": ""Associazione Nazionale Pubbliche Assistenze"", ""Link"": ""https://www.anpas.org/consegna-domicilio.html"", ""Posizione"": ""43.779496 11.205025 0 0"", ""Provincia"": ""-"", ""Regione"": ""Toscana""}","<pre><yamldata>
+Comune: Firenze
 Cosa: consegna a domicilio delle pubbliche assistenze
-Descrizione: L'elenco delle pubbliche assistenze che hanno attivato il servizio di
-  consegna a domicilio di farmaci e beni di prima necessità (in aggiornamento)
+Descrizione: ""L'elenco delle pubbliche assistenze che hanno attivato il servizio di\
+  \ consegna a domicilio di farmaci e beni di prima necessit\xE0 (in aggiornamento)""
 Fonte: Associazione Nazionale Pubbliche Assistenze
 Link: https://www.anpas.org/consegna-domicilio.html
 Posizione: 43.779496 11.205025 0 0
+Provincia: '-'
+Regione: Toscana
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/579,581784702,2020-03-15 19:12:32,2020-03-15 19:00:15,Non è vero che il Coronavirus rimane nove giorni sull’asfalto e bisogna lasciare le scarpe fuori,,,"[""Bollettino"", ""Fake News"", ""accettato"", ""form""]",,,"{""Cosa"": ""Non \u00e8 vero che il Coronavirus rimane 9 giorni sull\u2019asfalto e bisogna lasciare le scarpe fuori"", ""Descrizione"": ""Non \u00e8 vero quanto si sostiene in un audio che circola attraverso piattaforme di messaggistica (ad es. WhatsApp) nel quale si afferma che il Coronavirus rimane 9 giorni sull\u2019asfalto e per questo vanno lasciate le scarpe fuori di casa. Infatti secondo l'epidemiologo dell'Istituto superiore di sanit\u00e0 Paolo D\u2019Ancona, in un decalogo pubblicato dalla Stampa, chiarisce che togliersi le scarpe in casa \""una buona norma igienica ma per il Covid-19 no, perch\u00e9 la sua trasmissione avviene con le goccioline che emettiamo tossendo o starnutendo, non in altro modo\""."", ""Link"": ""https://www.bufale.net/nuovo-audio-whatsapp-coronavirus-rimane-vivo-9-giorni-sullasfalto-lasciate-le-scarpe-fuori/""}","<pre><yamldata>
 Cosa: Non è vero che il Coronavirus rimane 9 giorni sull’asfalto e bisogna lasciare
@@ -1011,52 +1075,62 @@ Descrizione: Non è vero quanto si sostiene in un audio che circola attraverso p
   che emettiamo tossendo o starnutendo, non in altro modo"".
 Link: https://www.bufale.net/nuovo-audio-whatsapp-coronavirus-rimane-vivo-9-giorni-sullasfalto-lasciate-le-scarpe-fuori/
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/578,581780913,2020-03-15 21:14:21,2020-03-15 18:48:36,Raccolta fondi per ospedale Cannizzaro di #Catania,37.542672,15.11817,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Causale"": ""Donazione"", ""Descrizione"": ""Raccolta fondi per sostenere Ospedale Cannizzaro di Catania. Intestare bonifico ad Azienda Ospedaliera per Emergenza Cannizzaro, con causale Donazione (dopo il bonifico, trasmettere tramite email ecofin@ospedale-cannizzaro.it i contatti del benefattore e gli estremi per la ricevuta/fattura)."", ""IBAN"": ""IT86F0103016919000001053276"", ""Intestazione"": ""Azienda Ospedaliera per l\u2019Emergenza Cannizzaro"", ""Link"": ""https://www.ospedale-cannizzaro.it/covid-19/default.aspx?news=5809"", ""Nome"": ""Ospedale Cannizzaro (Ct)"", ""Posizione"": ""37.542672 15.11817 0 0""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/578,581780913,2020-03-16 23:00:59,2020-03-15 18:48:36,Raccolta fondi per ospedale Cannizzaro di #Catania,37.542672,15.11817,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Causale"": ""Donazione"", ""Comune"": ""Catania"", ""Descrizione"": ""Raccolta fondi per sostenere Ospedale Cannizzaro di Catania. Intestare bonifico ad Azienda Ospedaliera per Emergenza Cannizzaro, con causale Donazione (dopo il bonifico, trasmettere tramite email ecofin@ospedale-cannizzaro.it i contatti del benefattore e gli estremi per la ricevuta/fattura)."", ""IBAN"": ""IT86F0103016919000001053276"", ""Intestazione"": ""Azienda Ospedaliera per l\u2019Emergenza Cannizzaro"", ""Link"": ""https://www.ospedale-cannizzaro.it/covid-19/default.aspx?news=5809"", ""Nome"": ""Ospedale Cannizzaro (Ct)"", ""Posizione"": ""37.542672 15.11817 0 0"", ""Provincia"": ""-"", ""Regione"": ""Sicilia""}","<pre><yamldata>
 Causale: Donazione
-Descrizione: Raccolta fondi per sostenere Ospedale Cannizzaro di Catania. Intestare bonifico ad Azienda Ospedaliera per Emergenza Cannizzaro, con causale Donazione (dopo il bonifico, trasmettere tramite email ecofin@ospedale-cannizzaro.it i contatti del benefattore e gli estremi per la ricevuta/fattura).
+Comune: Catania
+Descrizione: Raccolta fondi per sostenere Ospedale Cannizzaro di Catania. Intestare
+  bonifico ad Azienda Ospedaliera per Emergenza Cannizzaro, con causale Donazione
+  (dopo il bonifico, trasmettere tramite email ecofin@ospedale-cannizzaro.it i contatti
+  del benefattore e gli estremi per la ricevuta/fattura).
 IBAN: IT86F0103016919000001053276
-Intestazione: Azienda Ospedaliera per l’Emergenza Cannizzaro
+Intestazione: ""Azienda Ospedaliera per l\u2019Emergenza Cannizzaro""
 Link: https://www.ospedale-cannizzaro.it/covid-19/default.aspx?news=5809
 Nome: Ospedale Cannizzaro (Ct)
 Posizione: 37.542672 15.11817 0 0
+Provincia: '-'
+Regione: Sicilia
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/576,581758726,2020-03-15 21:15:33,2020-03-15 17:42:22,Raccolta fondi per Ospedale Civile di #Atessa #Chieti ,42.071803,14.448877,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Siamo Serena Tucci, biologa e ricercatrice universitaria, e Silvia Sciorilli Borrelli, giornalista corrispondente di una testata anglossassone. Insieme, abbiamo deciso di promuovere una raccolta fondi a supporto di un ospedale di area disagiata nel centro Italia: l\u2019Ospedale Civile Di Atessa \u201cSan Camillo de Lellis\"" . L\u2019ospedale si trova nel comune di Atessa in provincia di Chieti (Abruzzo).\n\nAbbiamo poco tempo a disposizione: l\u2019epidemia da coronavirus che ha colpito il nord Italia \u00e8 arrivata nel centro e al sud, regioni con meno risorse ospedaliere a disposizione per fronteggiare questa pandemia.\n\nVogliamo sostenere le comunit\u00e0 che gravitano attorno all\u2019Ospedale di Atessa perch\u00e9 pensiamo che nessuno debba essere lasciato indietro di fronte a quest\u2019emergenza globale. Sono proprio le realt\u00e0 pi\u00f9 piccole, lontane dalle citt\u00e0, come quelle attorno all\u2019Ospedale di Atessa, a non dover essere dimenticate in questo difficile momento.\n\nL\u2019Ospedale di Atessa \u00e8 l\u2019ospedale di riferimento per oltre 40 comunit\u00e0 collinari e montane. Secondo le nuove disposizioni dell\u2019Azienda Sanitaria Locale, l\u2019Ospedale di Atessa diventer\u00e0, nelle prossime settimane, il primo ed unico COVID-Hospital della zona. Si tratta di una struttura preposta al trattamento e ricovero di pazienti affetti da Covid-19 in condizioni critiche. In soli 21 giorni, l\u2019intero ospedale dovr\u00e0 essere completamente riorganizzato.\n\nIl tempo e le risorse sono poche. Crediamo che nessun medico dovrebbe mai trovarsi di fronte alla tragica scelta di quale vita salvare.\n\nDobbiamo unirci per aiutare queste comunit\u00e0 perch\u00e9, di fronte a questa emergenza siamo tutti parte della stessa comunit\u00e0. \nOgnuno di noi pu\u00f2 contribuire. Anche una piccola donazione pu\u00f2 salvare delle vite umane. \n \n\nServono urgentemente attrezzature come:\n \nRespiratori\nDispositivi di protezione individuale\nDispositivi di ventilazione non invasiva\nMonitoraggio emodinamico\nMonitor per monitoraggio parametri vitali\nEcografi portatili\n \nSiamo in stretto contatto con la dott.ssa Daniela Albanese, Primario del Reparto di Anestesia e Rianimazione degli Ospedali di Atessa e Lanciano, con l\u2019Ospedale di Atessa, l\u2019Azienda Sanitaria Locale (ASL) n.2 Lanciano Chieti Vasto (di cui fa parte l\u2019Ospedale di Atessa), e con il Comune di Atessa.\n\nLe vostre donazioni verranno versate direttamente su un conto corrente, creato appositamente per questa emergenza di cui verr\u00e0 dato pubblicamente conto, e saranno utilizzate per l\u2019acquisto delle attrezzature necessarie per fronteggiare questa emergenza. Qualora la raccolta superasse le nostre speranze i fondi verranno devoluti agli altri ospedali della ASL di riferimento."", ""Link"": ""https://www.gofundme.com/f/help-us-breathe-emergenza-coronavirus?utm_source=twitter&utm_medium=social&utm_campaign=p_cp+share-sheet"", ""Nome"": ""Insieme per donare un respiro - raccolta fondi ospedale #Atessa #Chieti"", ""Posizione"": ""42.071803 14.448877 0 0""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/576,581758726,2020-03-16 23:01:00,2020-03-15 17:42:22,Raccolta fondi per Ospedale Civile di #Atessa #Chieti ,42.071803,14.448877,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Comune"": ""Atessa"", ""Descrizione"": ""Siamo Serena Tucci, biologa e ricercatrice universitaria, e Silvia Sciorilli Borrelli, giornalista corrispondente di una testata anglossassone. Insieme, abbiamo deciso di promuovere una raccolta fondi a supporto di un ospedale di area disagiata nel centro Italia: l\u2019Ospedale Civile Di Atessa \u201cSan Camillo de Lellis\"" . L\u2019ospedale si trova nel comune di Atessa in provincia di Chieti (Abruzzo).\n\nAbbiamo poco tempo a disposizione: l\u2019epidemia da coronavirus che ha colpito il nord Italia \u00e8 arrivata nel centro e al sud, regioni con meno risorse ospedaliere a disposizione per fronteggiare questa pandemia.\n\nVogliamo sostenere le comunit\u00e0 che gravitano attorno all\u2019Ospedale di Atessa perch\u00e9 pensiamo che nessuno debba essere lasciato indietro di fronte a quest\u2019emergenza globale. Sono proprio le realt\u00e0 pi\u00f9 piccole, lontane dalle citt\u00e0, come quelle attorno all\u2019Ospedale di Atessa, a non dover essere dimenticate in questo difficile momento.\n\nL\u2019Ospedale di Atessa \u00e8 l\u2019ospedale di riferimento per oltre 40 comunit\u00e0 collinari e montane. Secondo le nuove disposizioni dell\u2019Azienda Sanitaria Locale, l\u2019Ospedale di Atessa diventer\u00e0, nelle prossime settimane, il primo ed unico COVID-Hospital della zona. Si tratta di una struttura preposta al trattamento e ricovero di pazienti affetti da Covid-19 in condizioni critiche. In soli 21 giorni, l\u2019intero ospedale dovr\u00e0 essere completamente riorganizzato.\n\nIl tempo e le risorse sono poche. Crediamo che nessun medico dovrebbe mai trovarsi di fronte alla tragica scelta di quale vita salvare.\n\nDobbiamo unirci per aiutare queste comunit\u00e0 perch\u00e9, di fronte a questa emergenza siamo tutti parte della stessa comunit\u00e0. \nOgnuno di noi pu\u00f2 contribuire. Anche una piccola donazione pu\u00f2 salvare delle vite umane. \n \n\nServono urgentemente attrezzature come:\n \nRespiratori\nDispositivi di protezione individuale\nDispositivi di ventilazione non invasiva\nMonitoraggio emodinamico\nMonitor per monitoraggio parametri vitali\nEcografi portatili\n \nSiamo in stretto contatto con la dott.ssa Daniela Albanese, Primario del Reparto di Anestesia e Rianimazione degli Ospedali di Atessa e Lanciano, con l\u2019Ospedale di Atessa, l\u2019Azienda Sanitaria Locale (ASL) n.2 Lanciano Chieti Vasto (di cui fa parte l\u2019Ospedale di Atessa), e con il Comune di Atessa.\n\nLe vostre donazioni verranno versate direttamente su un conto corrente, creato appositamente per questa emergenza di cui verr\u00e0 dato pubblicamente conto, e saranno utilizzate per l\u2019acquisto delle attrezzature necessarie per fronteggiare questa emergenza. Qualora la raccolta superasse le nostre speranze i fondi verranno devoluti agli altri ospedali della ASL di riferimento."", ""Link"": ""https://www.gofundme.com/f/help-us-breathe-emergenza-coronavirus?utm_source=twitter&utm_medium=social&utm_campaign=p_cp+share-sheet"", ""Nome"": ""Insieme per donare un respiro - raccolta fondi ospedale #Atessa #Chieti"", ""Posizione"": ""42.071803 14.448877 0 0"", ""Provincia"": ""Chieti"", ""Regione"": ""Abruzzo""}","<pre><yamldata>
+Comune: Atessa
 Descrizione: ""Siamo Serena Tucci, biologa e ricercatrice universitaria, e Silvia Sciorilli\
   \ Borrelli, giornalista corrispondente di una testata anglossassone. Insieme, abbiamo\
   \ deciso di promuovere una raccolta fondi a supporto di un ospedale di area disagiata\
-  \ nel centro Italia: l’Ospedale Civile Di Atessa “San Camillo de Lellis\"" . L’ospedale\
-  \ si trova nel comune di Atessa in provincia di Chieti (Abruzzo).\n\nAbbiamo poco\
-  \ tempo a disposizione: l’epidemia da coronavirus che ha colpito il nord Italia\
-  \ è arrivata nel centro e al sud, regioni con meno risorse ospedaliere a disposizione\
-  \ per fronteggiare questa pandemia.\n\nVogliamo sostenere le comunità che gravitano\
-  \ attorno all’Ospedale di Atessa perché pensiamo che nessuno debba essere lasciato\
-  \ indietro di fronte a quest’emergenza globale. Sono proprio le realtà più piccole,\
-  \ lontane dalle città, come quelle attorno all’Ospedale di Atessa, a non dover essere\
-  \ dimenticate in questo difficile momento.\n\nL’Ospedale di Atessa è l’ospedale\
-  \ di riferimento per oltre 40 comunità collinari e montane. Secondo le nuove disposizioni\
-  \ dell’Azienda Sanitaria Locale, l’Ospedale di Atessa diventerà, nelle prossime\
+  \ nel centro Italia: l\u2019Ospedale Civile Di Atessa \u201CSan Camillo de Lellis\""\
+  \ . L\u2019ospedale si trova nel comune di Atessa in provincia di Chieti (Abruzzo).\n\
+  \nAbbiamo poco tempo a disposizione: l\u2019epidemia da coronavirus che ha colpito\
+  \ il nord Italia \xE8 arrivata nel centro e al sud, regioni con meno risorse ospedaliere\
+  \ a disposizione per fronteggiare questa pandemia.\n\nVogliamo sostenere le comunit\xE0\
+  \ che gravitano attorno all\u2019Ospedale di Atessa perch\xE9 pensiamo che nessuno\
+  \ debba essere lasciato indietro di fronte a quest\u2019emergenza globale. Sono\
+  \ proprio le realt\xE0 pi\xF9 piccole, lontane dalle citt\xE0, come quelle attorno\
+  \ all\u2019Ospedale di Atessa, a non dover essere dimenticate in questo difficile\
+  \ momento.\n\nL\u2019Ospedale di Atessa \xE8 l\u2019ospedale di riferimento per\
+  \ oltre 40 comunit\xE0 collinari e montane. Secondo le nuove disposizioni dell\u2019\
+  Azienda Sanitaria Locale, l\u2019Ospedale di Atessa diventer\xE0, nelle prossime\
   \ settimane, il primo ed unico COVID-Hospital della zona. Si tratta di una struttura\
   \ preposta al trattamento e ricovero di pazienti affetti da Covid-19 in condizioni\
-  \ critiche. In soli 21 giorni, l’intero ospedale dovrà essere completamente riorganizzato.\n\
-  \nIl tempo e le risorse sono poche. Crediamo che nessun medico dovrebbe mai trovarsi\
-  \ di fronte alla tragica scelta di quale vita salvare.\n\nDobbiamo unirci per aiutare\
-  \ queste comunità perché, di fronte a questa emergenza siamo tutti parte della stessa\
-  \ comunità. \nOgnuno di noi può contribuire. Anche una piccola donazione può salvare\
-  \ delle vite umane. \n \n\nServono urgentemente attrezzature come:\n \nRespiratori\n\
-  Dispositivi di protezione individuale\nDispositivi di ventilazione non invasiva\n\
-  Monitoraggio emodinamico\nMonitor per monitoraggio parametri vitali\nEcografi portatili\n\
-  \ \nSiamo in stretto contatto con la dott.ssa Daniela Albanese, Primario del Reparto\
-  \ di Anestesia e Rianimazione degli Ospedali di Atessa e Lanciano, con l’Ospedale\
-  \ di Atessa, l’Azienda Sanitaria Locale (ASL) n.2 Lanciano Chieti Vasto (di cui\
-  \ fa parte l’Ospedale di Atessa), e con il Comune di Atessa.\n\nLe vostre donazioni\
-  \ verranno versate direttamente su un conto corrente, creato appositamente per questa\
-  \ emergenza di cui verrà dato pubblicamente conto, e saranno utilizzate per l’acquisto\
-  \ delle attrezzature necessarie per fronteggiare questa emergenza. Qualora la raccolta\
-  \ superasse le nostre speranze i fondi verranno devoluti agli altri ospedali della\
-  \ ASL di riferimento.""
+  \ critiche. In soli 21 giorni, l\u2019intero ospedale dovr\xE0 essere completamente\
+  \ riorganizzato.\n\nIl tempo e le risorse sono poche. Crediamo che nessun medico\
+  \ dovrebbe mai trovarsi di fronte alla tragica scelta di quale vita salvare.\n\n\
+  Dobbiamo unirci per aiutare queste comunit\xE0 perch\xE9, di fronte a questa emergenza\
+  \ siamo tutti parte della stessa comunit\xE0. \nOgnuno di noi pu\xF2 contribuire.\
+  \ Anche una piccola donazione pu\xF2 salvare delle vite umane. \n \n\nServono urgentemente\
+  \ attrezzature come:\n \nRespiratori\nDispositivi di protezione individuale\nDispositivi\
+  \ di ventilazione non invasiva\nMonitoraggio emodinamico\nMonitor per monitoraggio\
+  \ parametri vitali\nEcografi portatili\n \nSiamo in stretto contatto con la dott.ssa\
+  \ Daniela Albanese, Primario del Reparto di Anestesia e Rianimazione degli Ospedali\
+  \ di Atessa e Lanciano, con l\u2019Ospedale di Atessa, l\u2019Azienda Sanitaria\
+  \ Locale (ASL) n.2 Lanciano Chieti Vasto (di cui fa parte l\u2019Ospedale di Atessa),\
+  \ e con il Comune di Atessa.\n\nLe vostre donazioni verranno versate direttamente\
+  \ su un conto corrente, creato appositamente per questa emergenza di cui verr\xE0\
+  \ dato pubblicamente conto, e saranno utilizzate per l\u2019acquisto delle attrezzature\
+  \ necessarie per fronteggiare questa emergenza. Qualora la raccolta superasse le\
+  \ nostre speranze i fondi verranno devoluti agli altri ospedali della ASL di riferimento.""
 Link: https://www.gofundme.com/f/help-us-breathe-emergenza-coronavirus?utm_source=twitter&utm_medium=social&utm_campaign=p_cp+share-sheet
 Nome: 'Insieme per donare un respiro - raccolta fondi ospedale #Atessa #Chieti'
 Posizione: 42.071803 14.448877 0 0
+Provincia: Chieti
+Regione: Abruzzo
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/575,581752519,2020-03-15 21:16:44,2020-03-15 17:24:49,"Offro corsi online di francese e inglese, aiuto per i pasti e distribuzione ",,,"[""Donazioni"", ""accettato"", ""form""]",,,"{""Cosa"": ""tempo, corsi online per studenti, cibo e vestiti"", ""Descrizione"": ""Siamo fermi con il lavoro, sono sola, in buona salute e disponibile per dare una mano. Va bene qualsiasi cosa: ospedale, ricovero, aiuto online per corsi francese, inglese, cucinare pasti per chi non pu\u00f2, distribuzione (ho una macchina...) Sono raggiungibile al 335298082 Monika Unger"", ""Destinatari"": ""tutti"", ""Email"": ""info@monikaunger.it"", ""Indirizzo"": ""45.444431 9.149873 0 0"", ""Telefono"": ""335298082""}","<pre><yamldata>
 Cosa: tempo, corsi online per studenti, cibo e vestiti
@@ -1114,31 +1188,37 @@ Tipo_di_soggetto: privato
 Titolo: 'Nasce il canale telegram per chi ha bisogno di interrompere una gravidanza
   #NUDM'
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/571,581739204,2020-03-15 16:33:50,2020-03-15 16:32:59,Supporto psicologico - numero verde Ordine degli Psicologi della #Sardegna,39.224158,9.119704,"[""Bollettino"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Ordine degli Psicologi della Sardegna"", ""Descrizione"": ""Da luned\u00ec 9 marzo 2020 il numero verde 800197500 e il numero 3791663230 del servizio \""Filo diretto psicologico Coronavirus COVID-19\"" sar\u00e0 attivo tutti i giorni dalle 15:00 alle 19:00."", ""Destinatari"": ""Tutte e tutti"", ""Link"": ""https://psicosardegna.it/news/filo_diretto_psicologico_coronavirus--593.html?fbclid=IwAR0IfhX15jcro7b7sLAFcioAcfSSOniuL0VE2E2kpYpMVyLDno9KHL2cgkA"", ""Natura"": ""solidale"", ""Posizione"": ""39.224158 9.119704 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Supporto psicologico - numero verde messo a disposizione dall'Ordine degli Psicologi della #Sardegna""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/571,581739204,2020-03-16 23:01:02,2020-03-15 16:32:59,Supporto psicologico - numero verde Ordine degli Psicologi della #Sardegna,39.224158,9.119704,"[""Bollettino"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Comune"": ""Cagliari"", ""Da_chi_offerta"": ""Ordine degli Psicologi della Sardegna"", ""Descrizione"": ""Da luned\u00ec 9 marzo 2020 il numero verde 800197500 e il numero 3791663230 del servizio \""Filo diretto psicologico Coronavirus COVID-19\"" sar\u00e0 attivo tutti i giorni dalle 15:00 alle 19:00."", ""Destinatari"": ""Tutte e tutti"", ""Link"": ""https://psicosardegna.it/news/filo_diretto_psicologico_coronavirus--593.html?fbclid=IwAR0IfhX15jcro7b7sLAFcioAcfSSOniuL0VE2E2kpYpMVyLDno9KHL2cgkA"", ""Natura"": ""solidale"", ""Posizione"": ""39.224158 9.119704 0 0"", ""Provincia"": ""-"", ""Regione"": ""Sardegna"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Supporto psicologico - numero verde messo a disposizione dall'Ordine degli Psicologi della #Sardegna""}","<pre><yamldata>
+Comune: Cagliari
 Da_chi_offerta: Ordine degli Psicologi della Sardegna
-Descrizione: Da lunedì 9 marzo 2020 il numero verde 800197500 e il numero 3791663230
-  del servizio ""Filo diretto psicologico Coronavirus COVID-19"" sarà attivo tutti i
-  giorni dalle 15:00 alle 19:00.
+Descrizione: ""Da luned\xEC 9 marzo 2020 il numero verde 800197500 e il numero 3791663230\
+  \ del servizio \""Filo diretto psicologico Coronavirus COVID-19\"" sar\xE0 attivo\
+  \ tutti i giorni dalle 15:00 alle 19:00.""
 Destinatari: Tutte e tutti
 Link: https://psicosardegna.it/news/filo_diretto_psicologico_coronavirus--593.html?fbclid=IwAR0IfhX15jcro7b7sLAFcioAcfSSOniuL0VE2E2kpYpMVyLDno9KHL2cgkA
 Natura: solidale
 Posizione: 39.224158 9.119704 0 0
+Provincia: '-'
+Regione: Sardegna
 Tipo_di_soggetto: privato
 Titolo: 'Supporto psicologico - numero verde messo a disposizione dall''Ordine degli
   Psicologi della #Sardegna'
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/569,581734747,2020-03-15 16:23:25,2020-03-15 16:20:04,Servizio telefonico di ascolto e supporto psicologico di Psicologi per i Popoli #Lazio,41.907499,12.490618,"[""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Psicologi per i Popoli - Lazio"", ""Descrizione"": ""A causa dell'aggravarsi della situazione abbiamo attivato un servizio telefonico GRATUITO di ascolto e supporto PSICOLOGICO rivolto a tutti coloro che a causa del loro attuale disagio emotivo necessitano di un sostegno per meglio gestire INCERTEZZE e PAURE. \nIl servizio sar\u00e0 attivo al n. 351 784 1411 nei giorni di Marted\u00ec, Mercoled\u00ec e Gioved\u00ec dalle ore 10,00 alle 12,00 e dalle 15,00 alle 17,00."", ""Destinatari"": ""Tutte e tutti residenti nel Lazio"", ""Link"": ""https://www.facebook.com/PsicologiPerIPopoliLazio/photos/a.829539027098445/2983770008341992/?type=3&theater&ifg=1"", ""Natura"": ""solidale"", ""Posizione"": ""41.907499 12.490618 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Servizio telefonico di ascolto e supporto psicologico di Psicologi per i Popoli #Lazio""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/569,581734747,2020-03-16 23:01:04,2020-03-15 16:20:04,Servizio telefonico di ascolto e supporto psicologico di Psicologi per i Popoli #Lazio,41.907499,12.490618,"[""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Comune"": ""Roma"", ""Da_chi_offerta"": ""Psicologi per i Popoli - Lazio"", ""Descrizione"": ""A causa dell'aggravarsi della situazione abbiamo attivato un servizio telefonico GRATUITO di ascolto e supporto PSICOLOGICO rivolto a tutti coloro che a causa del loro attuale disagio emotivo necessitano di un sostegno per meglio gestire INCERTEZZE e PAURE. \nIl servizio sar\u00e0 attivo al n. 351 784 1411 nei giorni di Marted\u00ec, Mercoled\u00ec e Gioved\u00ec dalle ore 10,00 alle 12,00 e dalle 15,00 alle 17,00."", ""Destinatari"": ""Tutte e tutti residenti nel Lazio"", ""Link"": ""https://www.facebook.com/PsicologiPerIPopoliLazio/photos/a.829539027098445/2983770008341992/?type=3&theater&ifg=1"", ""Natura"": ""solidale"", ""Posizione"": ""41.907499 12.490618 0 0"", ""Provincia"": ""-"", ""Regione"": ""Lazio"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Servizio telefonico di ascolto e supporto psicologico di Psicologi per i Popoli #Lazio""}","<pre><yamldata>
+Comune: Roma
 Da_chi_offerta: Psicologi per i Popoli - Lazio
 Descrizione: ""A causa dell'aggravarsi della situazione abbiamo attivato un servizio\
   \ telefonico GRATUITO di ascolto e supporto PSICOLOGICO rivolto a tutti coloro che\
   \ a causa del loro attuale disagio emotivo necessitano di un sostegno per meglio\
-  \ gestire INCERTEZZE e PAURE. \nIl servizio sarà attivo al n. 351 784 1411 nei giorni\
-  \ di Martedì, Mercoledì e Giovedì dalle ore 10,00 alle 12,00 e dalle 15,00 alle\
-  \ 17,00.""
+  \ gestire INCERTEZZE e PAURE. \nIl servizio sar\xE0 attivo al n. 351 784 1411 nei\
+  \ giorni di Marted\xEC, Mercoled\xEC e Gioved\xEC dalle ore 10,00 alle 12,00 e dalle\
+  \ 15,00 alle 17,00.""
 Destinatari: Tutte e tutti residenti nel Lazio
 Link: https://www.facebook.com/PsicologiPerIPopoliLazio/photos/a.829539027098445/2983770008341992/?type=3&theater&ifg=1
 Natura: solidale
 Posizione: 41.907499 12.490618 0 0
+Provincia: '-'
+Regione: Lazio
 Tipo_di_soggetto: privato
 Titolo: 'Servizio telefonico di ascolto e supporto psicologico di Psicologi per i
   Popoli #Lazio'
