@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contribuisci
+title: Partecipa
 permalink: /contribuisci/
 ---
 
