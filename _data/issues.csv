@@ -1,4 +1,16 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/617,582248140,2020-03-16 12:24:09,2020-03-16 12:14:51,Pasti Gratis per Anziani #GalatiMamertino (ME),38.032533,14.769891,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Ristorante Degusto"", ""Descrizione"": ""Iniziativa benefica per affrontare l\u2019emergenza coronavirus a Galati Mamertino, dove il ristorante Degusto dello chef Pino Drago ha messo a punto un servizio gratuito di consegna dei pasti agli anziani."", ""Destinatari"": ""Anziani residenti a Galati Mamertino"", ""Link"": ""https://www.tempostretto.it/news/coronavirus-e-solidarieta-a-galati-mamertino-pasti-gratis-agli-anziani.html?refresh_ce"", ""Natura"": ""solidale"", ""Posizione"": ""38.032533 14.769891 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Pasti Gratis per Anziani""}","<pre><yamldata>
+Da_chi_offerta: Ristorante Degusto
+Descrizione: Iniziativa benefica per affrontare l’emergenza coronavirus a Galati Mamertino,
+  dove il ristorante Degusto dello chef Pino Drago ha messo a punto un servizio gratuito
+  di consegna dei pasti agli anziani.
+Destinatari: Anziani residenti a Galati Mamertino
+Link: https://www.tempostretto.it/news/coronavirus-e-solidarieta-a-galati-mamertino-pasti-gratis-agli-anziani.html?refresh_ce
+Natura: solidale
+Posizione: 38.032533 14.769891 0 0
+Tipo_di_soggetto: privato
+Titolo: Pasti Gratis per Anziani
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/615,582232612,2020-03-16 12:17:12,2020-03-16 11:55:32,Salute Donna #Catanzaro: 5 medici rispondono ai malati oncologici #Calabria,38.908036,16.591304,"[""Bollettino"", ""Informazioni utili"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Salute Donna Catanzaro"", ""Descrizione"": ""Parte luned\u00ec 16 marzo l\u2019iniziativa promossa dalla sezione catanzarese di Salute Donna: i pazienti oncologici calabresi potranno telefonare a cinque medici per risolvere ogni loro dubbio riguardo il coronavirus. Numeri e orari al link: https://lacnews24.it/salute/coronavirus-oncologi-calabresi-rispondono_113049/?fbclid=IwAR2ACJYS3UntxQKMQs2njbvksLJ0zdeh-8JdrgnBMmEOMZgbfzoGg4U9Ics"", ""Destinatari"": ""Malati oncologici Calabria"", ""Link"": ""https://lacnews24.it/salute/coronavirus-oncologi-calabresi-rispondono_113049/?fbclid=IwAR2ACJYS3UntxQKMQs2njbvksLJ0zdeh-8JdrgnBMmEOMZgbfzoGg4U9Ics"", ""Natura"": ""solidale"", ""Posizione"": ""38.908036 16.591304 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""5 medici calabresi rispondono ai malati oncologici""}","<pre><yamldata>
 Da_chi_offerta: Salute Donna Catanzaro
 Descrizione: 'Parte lunedì 16 marzo l’iniziativa promossa dalla sezione catanzarese
