@@ -6,8 +6,6 @@ _site/
 # Bundler
 .bundle/
 vendor/
-Gemfile.lock
 
 # JetBrains IDE
 .idea
-Gemfile
