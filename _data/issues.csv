@@ -1,4 +1,17 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/598,581879216,2020-03-16 08:50:26,2020-03-15 23:52:37,"#Toscana, per ritirare i farmaci basta un codice, la ricetta si stampa direttamente in farmacia",43.79366875,11.222513136213019,"[""Bollettino"", ""Contatti utili"", ""Informazioni utili"", ""Notizie"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Regione Toscana"", ""Descrizione"": ""La Toscana si attrezza per far fronte sempre pi\u00f9 all'emergenza. Con il numero di ricetta comunicato tramite Sms e la Tessera sanitaria, si possono ritirare i medicinali direttamente in farmacia senza doversi recare in ambulatorio dal medico."", ""Destinatari"": ""Tutti i residenti in Toscana"", ""Link"": ""https://www.toscana-notizie.it/-/farmaci-per-ritirarli-basta-un-codice-la-ricetta-si-stampa-direttamente-in-farmacia"", ""Natura"": ""solidale"", ""Posizione"": ""43.79366875 11.222513136213019 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Toscana, per ritirare i farmaci basta un codice, la ricetta si stampa direttamente in farmacia""}","<pre><yamldata>
+Da_chi_offerta: Regione Toscana
+Descrizione: La Toscana si attrezza per far fronte sempre più all'emergenza. Con il
+  numero di ricetta comunicato tramite Sms e la Tessera sanitaria, si possono ritirare
+  i medicinali direttamente in farmacia senza doversi recare in ambulatorio dal medico.
+Destinatari: Tutti i residenti in Toscana
+Link: https://www.toscana-notizie.it/-/farmaci-per-ritirarli-basta-un-codice-la-ricetta-si-stampa-direttamente-in-farmacia
+Natura: solidale
+Tipo_di_soggetto: pubblico
+Titolo: Toscana, per ritirare i farmaci basta un codice, la ricetta si stampa direttamente
+  in farmacia
+Posizione: 43.79366875 11.222513136213019 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/597,581878126,2020-03-16 08:24:05,2020-03-15 23:49:25,Croce Rossa cerca personale sanitario in #Lombardia,45.6209,9.768893,"[""Bollettino"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""Croce Rossa cerca personale sanitario in Lombardia"", ""Descrizione"": ""Abbiamo necessit\u00e0 di personale sanitario per supporto in Regione Lombardia. Se vuoi fare anche tu la tua parte invia un SMS al numero 435 35 35 digitando \u201cdisponibilit\u00e0 immediata medico\u201d o \u201cdisponibilit\u00e0 immediata infermiere\u201d. Sarete ricontattati."", ""Destinatari"": ""Personale sanitario"", ""Link"": ""https://www.cri.it/15-03-2020-coronavirus-croce-rossa-ricerca-medici-e-infermieri-con-disponibilita-immediata"", ""Posizione"": ""45.6209 9.768893 0 0"", ""Telefono"": ""435 35 35""}","<pre><yamldata>
 Cosa: Croce Rossa cerca personale sanitario in Lombardia
 Descrizione: Abbiamo necessità di personale sanitario per supporto in Regione Lombardia.
