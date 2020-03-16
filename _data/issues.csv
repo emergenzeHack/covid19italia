@@ -1686,11 +1686,14 @@ Regione: Calabria
 Tipo_di_soggetto: pubblico
 Titolo: 'Supporto psicologico telefonico Comune di #CoriglianoRossano #Cosenza'
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/537,581619749,2020-03-15 12:42:33,2020-03-15 10:45:56,Raccolta fondi Azienda Ospedaliera dei Colli - Ospedale Cotugno #Napoli,40.869862,14.214013,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Diamo una mano al Cotugno di Napoli - Covid19"", ""Link"": ""https://www.gofundme.com/f/raccolta-fondi-per-il-cotugno-di-napolicovid19?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet"", ""Nome"": ""Federica De Masi"", ""Posizione"": ""40.869862 14.214013 0 0""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/537,581619749,2020-03-16 23:01:27,2020-03-15 10:45:56,Raccolta fondi Azienda Ospedaliera dei Colli - Ospedale Cotugno #Napoli,40.869862,14.214013,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Comune"": ""Napoli"", ""Descrizione"": ""Diamo una mano al Cotugno di Napoli - Covid19"", ""Link"": ""https://www.gofundme.com/f/raccolta-fondi-per-il-cotugno-di-napolicovid19?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet"", ""Nome"": ""Federica De Masi"", ""Posizione"": ""40.869862 14.214013 0 0"", ""Provincia"": ""-"", ""Regione"": ""Campania""}","<pre><yamldata>
+Comune: Napoli
 Descrizione: Diamo una mano al Cotugno di Napoli - Covid19
 Link: https://www.gofundme.com/f/raccolta-fondi-per-il-cotugno-di-napolicovid19?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet
 Nome: Federica De Masi
 Posizione: 40.869862 14.214013 0 0
+Provincia: '-'
+Regione: Campania
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/536,581617465,2020-03-15 14:06:14,2020-03-15 10:38:50,Il Post: La guida multilingue sull'emergenza covid-19 per stranieri,,,"[""Informazioni utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""La guida multilingue sull'emergenza covid-19 rivolta a stranieri in Italia"", ""Descrizione"": ""La testata ha preparato prima di altre una serie di guide sull'emergenza covid-19 in Italia rivolta a persone straniere, fasce che rischiano di non essere adeguatamente informate su come comportarsi n\u00e9 a quali numeri rivolgersi nel caso abbiano bisogno.\n\nLa guida completa \u00e8 per ora in:\nInglese\nFrancese\nSpagnolo\nArabo\nCinese\nRusso\nRumeno\n\nContiene anche 10 consigli chiave in\nAlbanese\nSomalo\nUrdu\nPortoghese\nBengalese\nPunjabi\nTigrino\nCingalese"", ""Fonte"": ""Il Post"", ""Indirizzo"": ""41.27408726 16.41721938"", ""Link"": ""https://www.ilpost.it/2020/03/10/coronavirus-traduzione-italia/""}","<pre><yamldata>
 Cosa: La guida multilingue sull'emergenza covid-19 rivolta a stranieri in Italia
@@ -1771,67 +1774,68 @@ Fonte: Dipartimento nazionale Protezione Civile
 Indirizzo: 42.52345282 13.0962445
 Link: http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/533,581608287,2020-03-15 11:40:31,2020-03-15 10:08:44,SpesaCassano: beni e servizi direttamente a casa #CassanoDelleMurge #Bari,40.89101,16.76862,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Sul sito \u00e8 possibile cercare negozi, servizi e attivit\u00e0 direttamente facendo clic sulla mappa oppure filtrando negozi per categoria di bene o servizio offerto; visualizzare gli esercizi su mappa; inviare ordini direttamente ai commercianti/esercenti tramite WhatsApp (per chi ha dato disponibilit\u00e0) oppure cliccare sul numero di telefono e contattarli direttamente; visitare i profili social (Facebook) di tutte le attivit\u00e0 facendo clic direttamente sul profilo; aggiungere  in maniera del tutto gratuita (semplicemente registrandosi) nuove attivit\u00e0 o negozi in autonomia e richiedere aiuto per aggiungere o modificare attivit\u00e0 e negozi."", ""Destinatari"": ""Comune Cassano Murge (Bari)"", ""Link"": ""https://spesacassano.it/"", ""Natura"": ""solidale"", ""Posizione"": ""40.89101 16.76862"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""SpesaCassano""}","<pre><yamldata>
-Descrizione: Sul sito è possibile cercare negozi, servizi e attività direttamente
-  facendo clic sulla mappa oppure filtrando negozi per categoria di bene o servizio
-  offerto; visualizzare gli esercizi su mappa; inviare ordini direttamente ai commercianti/esercenti
-  tramite WhatsApp (per chi ha dato disponibilità) oppure cliccare sul numero di telefono
-  e contattarli direttamente; visitare i profili social (Facebook) di tutte le attività
-  facendo clic direttamente sul profilo; aggiungere  in maniera del tutto gratuita
-  (semplicemente registrandosi) nuove attività o negozi in autonomia e richiedere
-  aiuto per aggiungere o modificare attività e negozi.
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/533,581608287,2020-03-16 23:01:28,2020-03-15 10:08:44,SpesaCassano: beni e servizi direttamente a casa #CassanoDelleMurge #Bari,40.89101,16.76862,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Comune"": ""Cassano delle Murge"", ""Descrizione"": ""Sul sito \u00e8 possibile cercare negozi, servizi e attivit\u00e0 direttamente facendo clic sulla mappa oppure filtrando negozi per categoria di bene o servizio offerto; visualizzare gli esercizi su mappa; inviare ordini direttamente ai commercianti/esercenti tramite WhatsApp (per chi ha dato disponibilit\u00e0) oppure cliccare sul numero di telefono e contattarli direttamente; visitare i profili social (Facebook) di tutte le attivit\u00e0 facendo clic direttamente sul profilo; aggiungere  in maniera del tutto gratuita (semplicemente registrandosi) nuove attivit\u00e0 o negozi in autonomia e richiedere aiuto per aggiungere o modificare attivit\u00e0 e negozi."", ""Destinatari"": ""Comune Cassano Murge (Bari)"", ""Link"": ""https://spesacassano.it/"", ""Natura"": ""solidale"", ""Posizione"": ""40.89101 16.76862"", ""Provincia"": ""-"", ""Regione"": ""Puglia"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""SpesaCassano""}","<pre><yamldata>
+Comune: Cassano delle Murge
+Descrizione: ""Sul sito \xE8 possibile cercare negozi, servizi e attivit\xE0 direttamente\
+  \ facendo clic sulla mappa oppure filtrando negozi per categoria di bene o servizio\
+  \ offerto; visualizzare gli esercizi su mappa; inviare ordini direttamente ai commercianti/esercenti\
+  \ tramite WhatsApp (per chi ha dato disponibilit\xE0) oppure cliccare sul numero\
+  \ di telefono e contattarli direttamente; visitare i profili social (Facebook) di\
+  \ tutte le attivit\xE0 facendo clic direttamente sul profilo; aggiungere  in maniera\
+  \ del tutto gratuita (semplicemente registrandosi) nuove attivit\xE0 o negozi in\
+  \ autonomia e richiedere aiuto per aggiungere o modificare attivit\xE0 e negozi.""
 Destinatari: Comune Cassano Murge (Bari)
 Link: https://spesacassano.it/
 Natura: solidale
 Posizione: 40.89101 16.76862
+Provincia: '-'
+Regione: Puglia
 Tipo_di_soggetto: privato
 Titolo: SpesaCassano
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/532,581597181,2020-03-15 12:21:20,2020-03-15 09:30:19,Vicinoesicuro: piattaforma per inserire negozi con consegna a casa ,44.698296,10.630796,"[""Sostegno lavoro e imprese"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""3 volontari"", ""Descrizione"": ""In questo momento in cui per contrastare l'emergenza Coronavirus diventa indispensabile restare tutti a casa, Vicinoesicuro \u00e8 uno strumento concreto per supportare i cittadini e i piccoli commercianti.\n\nIl progetto, completamente gratuito, offre una mappa navigabile di tutte le attivit\u00e0 che effettuano consegne a domicilio: negozi, bar, ristoranti, edicole, lavanderie e altro ancora.\n\nI cittadini possono scegliere la tipologia di attivit\u00e0 di cui hanno bisogno, consultare le informazioni su modalit\u00e0 ed eventuali costi, contattare direttamente l'esercente. I commercianti, registrandosi a Vicinoesicuro, possono aumentare la propria visibilit\u00e0 senza alcun investimento pubblicitario.\n\nIl servizio \u00e8 creato e gestito da volontari. Lanciato inizialmente su Reggio Emilia, su richiesta il servizio si sta attivando velocemente su altre province in tutta Italia.\n\nVicinoesicuro: restare alla giusta distanza dagli altri non significa essere distanti."", ""Destinatari"": ""negozianti e cittadini"", ""Link"": ""https://vicinoesicuro.it/"", ""Natura"": ""sostegno-lavor"", ""Posizione"": ""44.698296 10.630796 0 0"", ""Titolo"": ""vicinoesicuro""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/532,581597181,2020-03-16 23:01:30,2020-03-15 09:30:19,Vicinoesicuro: piattaforma per inserire negozi con consegna a casa ,44.698296,10.630796,"[""Sostegno lavoro e imprese"", ""accettato"", ""form""]",,,"{""Comune"": ""Reggio nell'Emilia"", ""Da_chi_offerta"": ""3 volontari"", ""Descrizione"": ""In questo momento in cui per contrastare l'emergenza Coronavirus diventa indispensabile restare tutti a casa, Vicinoesicuro \u00e8 uno strumento concreto per supportare i cittadini e i piccoli commercianti.\n\nIl progetto, completamente gratuito, offre una mappa navigabile di tutte le attivit\u00e0 che effettuano consegne a domicilio: negozi, bar, ristoranti, edicole, lavanderie e altro ancora.\n\nI cittadini possono scegliere la tipologia di attivit\u00e0 di cui hanno bisogno, consultare le informazioni su modalit\u00e0 ed eventuali costi, contattare direttamente l'esercente. I commercianti, registrandosi a Vicinoesicuro, possono aumentare la propria visibilit\u00e0 senza alcun investimento pubblicitario.\n\nIl servizio \u00e8 creato e gestito da volontari. Lanciato inizialmente su Reggio Emilia, su richiesta il servizio si sta attivando velocemente su altre province in tutta Italia.\n\nVicinoesicuro: restare alla giusta distanza dagli altri non significa essere distanti."", ""Destinatari"": ""negozianti e cittadini"", ""Link"": ""https://vicinoesicuro.it/"", ""Natura"": ""sostegno-lavor"", ""Posizione"": ""44.698296 10.630796 0 0"", ""Provincia"": ""Reggio nell'Emilia"", ""Regione"": ""Emilia-Romagna"", ""Titolo"": ""vicinoesicuro""}","<pre><yamldata>
+Comune: Reggio nell'Emilia
 Da_chi_offerta: 3 volontari
-Descrizione: 'In questo momento in cui per contrastare l''emergenza Coronavirus diventa
-  indispensabile restare tutti a casa, Vicinoesicuro è uno strumento concreto per
-  supportare i cittadini e i piccoli commercianti.
-
-
-  Il progetto, completamente gratuito, offre una mappa navigabile di tutte le attività
-  che effettuano consegne a domicilio: negozi, bar, ristoranti, edicole, lavanderie
-  e altro ancora.
-
-
-  I cittadini possono scegliere la tipologia di attività di cui hanno bisogno, consultare
-  le informazioni su modalità ed eventuali costi, contattare direttamente l''esercente.
-  I commercianti, registrandosi a Vicinoesicuro, possono aumentare la propria visibilità
-  senza alcun investimento pubblicitario.
-
-
-  Il servizio è creato e gestito da volontari. Lanciato inizialmente su Reggio Emilia,
-  su richiesta il servizio si sta attivando velocemente su altre province in tutta
-  Italia.
-
-
-  Vicinoesicuro: restare alla giusta distanza dagli altri non significa essere distanti.'
+Descrizione: ""In questo momento in cui per contrastare l'emergenza Coronavirus diventa\
+  \ indispensabile restare tutti a casa, Vicinoesicuro \xE8 uno strumento concreto\
+  \ per supportare i cittadini e i piccoli commercianti.\n\nIl progetto, completamente\
+  \ gratuito, offre una mappa navigabile di tutte le attivit\xE0 che effettuano consegne\
+  \ a domicilio: negozi, bar, ristoranti, edicole, lavanderie e altro ancora.\n\n\
+  I cittadini possono scegliere la tipologia di attivit\xE0 di cui hanno bisogno,\
+  \ consultare le informazioni su modalit\xE0 ed eventuali costi, contattare direttamente\
+  \ l'esercente. I commercianti, registrandosi a Vicinoesicuro, possono aumentare\
+  \ la propria visibilit\xE0 senza alcun investimento pubblicitario.\n\nIl servizio\
+  \ \xE8 creato e gestito da volontari. Lanciato inizialmente su Reggio Emilia, su\
+  \ richiesta il servizio si sta attivando velocemente su altre province in tutta\
+  \ Italia.\n\nVicinoesicuro: restare alla giusta distanza dagli altri non significa\
+  \ essere distanti.""
 Destinatari: negozianti e cittadini
 Link: https://vicinoesicuro.it/
 Natura: sostegno-lavor
 Posizione: 44.698296 10.630796 0 0
+Provincia: Reggio nell'Emilia
+Regione: Emilia-Romagna
 Titolo: vicinoesicuro
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/531,581581876,2020-03-15 10:08:27,2020-03-15 08:32:18,Science Web Festival online dal 14/3/2020 al 23/3/2020,41.806369,12.680374,"[""Attivita culturali e ricreative"", ""Didattica a distanza e-learning"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Frascati Scienza"", ""Descrizione"": ""Si tratta di un grande festival scientifico, della durata di 10 giorni, con un programma fitto di eventi in video, tutti rigorosamente online, ospitati dalle piattaforme social (Facebook, Instagram e YouTube) del festival. L\u2019intento \u00e8 quello di portare sollievo alle migliaia di studenti e studentesse lontani dai banchi di scuola, ma non solo: gli eventi sono pensati per tutta la famiglia, dai pi\u00f9 piccini fino agli adulti."", ""Destinatari"": ""Tutti, in particolare studenti"", ""Link"": ""https://www.frascatiscienza.it/eventlist/?evs=2790"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""41.806369 12.680374"", ""Titolo"": ""Science Web Festival""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/531,581581876,2020-03-16 23:01:32,2020-03-15 08:32:18,Science Web Festival online dal 14/3/2020 al 23/3/2020,41.806369,12.680374,"[""Attivita culturali e ricreative"", ""Didattica a distanza e-learning"", ""accettato"", ""form""]",,,"{""Comune"": ""Frascati"", ""Da_chi_offerta"": ""Frascati Scienza"", ""Descrizione"": ""Si tratta di un grande festival scientifico, della durata di 10 giorni, con un programma fitto di eventi in video, tutti rigorosamente online, ospitati dalle piattaforme social (Facebook, Instagram e YouTube) del festival. L\u2019intento \u00e8 quello di portare sollievo alle migliaia di studenti e studentesse lontani dai banchi di scuola, ma non solo: gli eventi sono pensati per tutta la famiglia, dai pi\u00f9 piccini fino agli adulti."", ""Destinatari"": ""Tutti, in particolare studenti"", ""Link"": ""https://www.frascatiscienza.it/eventlist/?evs=2790"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""41.806369 12.680374"", ""Provincia"": ""-"", ""Regione"": ""Lazio"", ""Titolo"": ""Science Web Festival""}","<pre><yamldata>
+Comune: Frascati
 Da_chi_offerta: Frascati Scienza
-Descrizione: 'Si tratta di un grande festival scientifico, della durata di 10 giorni,
-  con un programma fitto di eventi in video, tutti rigorosamente online, ospitati
-  dalle piattaforme social (Facebook, Instagram e YouTube) del festival. L’intento
-  è quello di portare sollievo alle migliaia di studenti e studentesse lontani dai
-  banchi di scuola, ma non solo: gli eventi sono pensati per tutta la famiglia, dai
-  più piccini fino agli adulti.'
+Descrizione: ""Si tratta di un grande festival scientifico, della durata di 10 giorni,\
+  \ con un programma fitto di eventi in video, tutti rigorosamente online, ospitati\
+  \ dalle piattaforme social (Facebook, Instagram e YouTube) del festival. L\u2019\
+  intento \xE8 quello di portare sollievo alle migliaia di studenti e studentesse\
+  \ lontani dai banchi di scuola, ma non solo: gli eventi sono pensati per tutta la\
+  \ famiglia, dai pi\xF9 piccini fino agli adulti.""
 Destinatari: Tutti, in particolare studenti
 Link: https://www.frascatiscienza.it/eventlist/?evs=2790
 Natura: culturale-ricr
 Posizione: 41.806369 12.680374
+Provincia: '-'
+Regione: Lazio
 Titolo: Science Web Festival
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/530,581576473,2020-03-15 10:57:30,2020-03-15 08:10:07, Consegne frutta e verdura #Antegnate #Covo #Isso #Barbata #Fontanella #Bergamo e #Gallignano #Cremona,45.48606,9.79765,"[""Consegne e commissioni"", ""Posizione mancante"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""L'orticello"", ""Descrizione"": ""Consegne gratuite di frutta e verdura ad Antegnate Covo Isso Barbata Gallignano e Fontanella\n\nTelefono 0363 907374\nWhatsapp 393 210 2531"", ""Destinatari"": ""Tutte e tutti"", ""Natura"": ""solidale"", ""Posizione"": ""45.48606 9.79765"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Consegne gratuite frutta e verdura""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/530,581576473,2020-03-16 23:01:34,2020-03-15 08:10:07, Consegne frutta e verdura #Antegnate #Covo #Isso #Barbata #Fontanella #Bergamo e #Gallignano #Cremona,45.48606,9.79765,"[""Consegne e commissioni"", ""Posizione mancante"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Comune"": ""Antegnate"", ""Da_chi_offerta"": ""L'orticello"", ""Descrizione"": ""Consegne gratuite di frutta e verdura ad Antegnate Covo Isso Barbata Gallignano e Fontanella\n\nTelefono 0363 907374\nWhatsapp 393 210 2531"", ""Destinatari"": ""Tutte e tutti"", ""Natura"": ""solidale"", ""Posizione"": ""45.48606 9.79765"", ""Provincia"": ""Bergamo"", ""Regione"": ""Lombardia"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Consegne gratuite frutta e verdura""}","<pre><yamldata>
+Comune: Antegnate
 Da_chi_offerta: L'orticello
 Descrizione: 'Consegne gratuite di frutta e verdura ad Antegnate Covo Isso Barbata
   Gallignano e Fontanella
@@ -1842,9 +1846,11 @@ Descrizione: 'Consegne gratuite di frutta e verdura ad Antegnate Covo Isso Barba
   Whatsapp 393 210 2531'
 Destinatari: Tutte e tutti
 Natura: solidale
+Posizione: 45.48606 9.79765
+Provincia: Bergamo
+Regione: Lombardia
 Tipo_di_soggetto: privato
 Titolo: Consegne gratuite frutta e verdura
-Posizione: 45.48606 9.79765
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/527,581442743,2020-03-15 13:30:15,2020-03-15 00:52:29,Guida ISS: indicazioni su come assistere a casa i pazienti,,,"[""Bollettino"", ""Informazioni utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Coronavirus, indicazioni per i familiari e per gli operatori sanitari su come assistere a casa i pazienti"", ""Descrizione"": ""La finalit\u00e0 di questa guida \u00e8 duplice: fornire indicazioni chiare per gli operatori sanitari e per chi si prende cura di malati di COVID-19 e allo stesso tempo evitare casi secondari dovuti a trasmissione del virus."", ""Fonte"": ""Istituto Superiore di Sanit\u00e0"", ""Indirizzo"": ""45.37791048 9.21145887"", ""Link"": ""http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioNotizieNuovoCoronavirus.jsp?lingua=italiano&menu=notizie&p=dalministero&id=4190""}","<pre><yamldata>
 Cosa: Coronavirus, indicazioni per i familiari e per gli operatori sanitari su come
@@ -1856,49 +1862,56 @@ Fonte: Istituto Superiore di Sanità
 Indirizzo: 45.37791048 9.21145887
 Link: http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioNotizieNuovoCoronavirus.jsp?lingua=italiano&menu=notizie&p=dalministero&id=4190
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/526,581439651,2020-03-15 00:42:38,2020-03-15 00:42:07,ASL #Alessandria attiva linea telefonica per supporto psicologico,44.907031,8.6101,"[""Bollettino"", ""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Cosa"": ""Asl Alessandria attiva linea telefonica per supporto psicologico"", ""Descrizione"": ""L'ASL AL ha attivato una linea telefonica che risponde al numero 0131 30 63 38 per fornire supporto psicologico a chi necessiti di essere ascoltato ed aiutato ad affrontare le problematicit\u00e0 emotive e relazionali proprie dell\u2019emergenza nazionale COVID19.\nLa linea \u00e8 attiva dal luned\u00ec al venerd\u00ec con i seguenti orari: luned\u00ec, marted\u00ec e gioved\u00ec la mattina dalle 8:30 alle 12:30 e nel pomeriggio dalle 14:00 alle 17:00, mentre il mercoled\u00ec e il venerd\u00ec solo la mattina dalle 8:30 alle 12:30.\nAl numero rispondono educatori del Dipartimento Patologie Dipendenze (SERD) che, a seconda delle problematiche esposte, possono indirizzare le chiamate anche agli psicologi dell\u2019ASL AL o al personale del servizio di neuropsichiatria."", ""Link"": ""https://www.ilmonferrato.it/articolo/1g-TDpbllke4QPXQvf-6hg/coronavirus-da-lunedi-l-asl-al-attivera-una-linea-telefonica-per-fornire-supporto-psicologico"", ""Posizione"": ""44.907031 8.6101 0 0""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/526,581439651,2020-03-16 23:01:35,2020-03-15 00:42:07,ASL #Alessandria attiva linea telefonica per supporto psicologico,44.907031,8.6101,"[""Bollettino"", ""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Comune"": ""Alessandria"", ""Cosa"": ""Asl Alessandria attiva linea telefonica per supporto psicologico"", ""Descrizione"": ""L'ASL AL ha attivato una linea telefonica che risponde al numero 0131 30 63 38 per fornire supporto psicologico a chi necessiti di essere ascoltato ed aiutato ad affrontare le problematicit\u00e0 emotive e relazionali proprie dell\u2019emergenza nazionale COVID19.\nLa linea \u00e8 attiva dal luned\u00ec al venerd\u00ec con i seguenti orari: luned\u00ec, marted\u00ec e gioved\u00ec la mattina dalle 8:30 alle 12:30 e nel pomeriggio dalle 14:00 alle 17:00, mentre il mercoled\u00ec e il venerd\u00ec solo la mattina dalle 8:30 alle 12:30.\nAl numero rispondono educatori del Dipartimento Patologie Dipendenze (SERD) che, a seconda delle problematiche esposte, possono indirizzare le chiamate anche agli psicologi dell\u2019ASL AL o al personale del servizio di neuropsichiatria."", ""Link"": ""https://www.ilmonferrato.it/articolo/1g-TDpbllke4QPXQvf-6hg/coronavirus-da-lunedi-l-asl-al-attivera-una-linea-telefonica-per-fornire-supporto-psicologico"", ""Posizione"": ""44.907031 8.6101 0 0"", ""Provincia"": ""Alessandria"", ""Regione"": ""Piemonte""}","<pre><yamldata>
+Comune: Alessandria
 Cosa: Asl Alessandria attiva linea telefonica per supporto psicologico
-Descrizione: 'L''ASL AL ha attivato una linea telefonica che risponde al numero 0131
-  30 63 38 per fornire supporto psicologico a chi necessiti di essere ascoltato ed
-  aiutato ad affrontare le problematicità emotive e relazionali proprie dell’emergenza
-  nazionale COVID19.
-
-  La linea è attiva dal lunedì al venerdì con i seguenti orari: lunedì, martedì e
-  giovedì la mattina dalle 8:30 alle 12:30 e nel pomeriggio dalle 14:00 alle 17:00,
-  mentre il mercoledì e il venerdì solo la mattina dalle 8:30 alle 12:30.
-
-  Al numero rispondono educatori del Dipartimento Patologie Dipendenze (SERD) che,
-  a seconda delle problematiche esposte, possono indirizzare le chiamate anche agli
-  psicologi dell’ASL AL o al personale del servizio di neuropsichiatria.'
+Descrizione: ""L'ASL AL ha attivato una linea telefonica che risponde al numero 0131\
+  \ 30 63 38 per fornire supporto psicologico a chi necessiti di essere ascoltato\
+  \ ed aiutato ad affrontare le problematicit\xE0 emotive e relazionali proprie dell\u2019\
+  emergenza nazionale COVID19.\nLa linea \xE8 attiva dal luned\xEC al venerd\xEC con\
+  \ i seguenti orari: luned\xEC, marted\xEC e gioved\xEC la mattina dalle 8:30 alle\
+  \ 12:30 e nel pomeriggio dalle 14:00 alle 17:00, mentre il mercoled\xEC e il venerd\xEC\
+  \ solo la mattina dalle 8:30 alle 12:30.\nAl numero rispondono educatori del Dipartimento\
+  \ Patologie Dipendenze (SERD) che, a seconda delle problematiche esposte, possono\
+  \ indirizzare le chiamate anche agli psicologi dell\u2019ASL AL o al personale del\
+  \ servizio di neuropsichiatria.""
 Link: https://www.ilmonferrato.it/articolo/1g-TDpbllke4QPXQvf-6hg/coronavirus-da-lunedi-l-asl-al-attivera-una-linea-telefonica-per-fornire-supporto-psicologico
 Posizione: 44.907031 8.6101 0 0
+Provincia: Alessandria
+Regione: Piemonte
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/525,581424617,2020-03-15 09:19:58,2020-03-14 23:52:22,A #Pisa prosegue il servizio di ascolto telefonico del centro antiviolenza Casa della donna,43.721296,10.389908,"[""Bollettino"", ""Donne"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Cosa"": ""A Pisa prosegue il servizio di ascolto telefonico del centro antiviolenza Casa della donna"", ""Descrizione"": ""La Casa della donna di Pisa ha sospeso tutte le attivit\u00e0 ma il servizio di ascolto del centro antiviolenza (050 561628) funziona regolarmente ed \u00e8 a disposizione di tutte le donne che, anche in questa emergenza, vivono situazioni di maltrattamenti e conflitti col proprio partner. Al link ulteriori info e orari."", ""Link"": ""https://www.casadelladonnapisa.it/emergenza-coronavirus/"", ""Posizione"": ""43.721296 10.389908 0 0""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/525,581424617,2020-03-16 23:01:37,2020-03-14 23:52:22,A #Pisa prosegue il servizio di ascolto telefonico del centro antiviolenza Casa della donna,43.721296,10.389908,"[""Bollettino"", ""Donne"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Comune"": ""Pisa"", ""Cosa"": ""A Pisa prosegue il servizio di ascolto telefonico del centro antiviolenza Casa della donna"", ""Descrizione"": ""La Casa della donna di Pisa ha sospeso tutte le attivit\u00e0 ma il servizio di ascolto del centro antiviolenza (050 561628) funziona regolarmente ed \u00e8 a disposizione di tutte le donne che, anche in questa emergenza, vivono situazioni di maltrattamenti e conflitti col proprio partner. Al link ulteriori info e orari."", ""Link"": ""https://www.casadelladonnapisa.it/emergenza-coronavirus/"", ""Posizione"": ""43.721296 10.389908 0 0"", ""Provincia"": ""Pisa"", ""Regione"": ""Toscana""}","<pre><yamldata>
+Comune: Pisa
 Cosa: A Pisa prosegue il servizio di ascolto telefonico del centro antiviolenza Casa
   della donna
-Descrizione: La Casa della donna di Pisa ha sospeso tutte le attività ma il servizio
-  di ascolto del centro antiviolenza (050 561628) funziona regolarmente ed è a disposizione
-  di tutte le donne che, anche in questa emergenza, vivono situazioni di maltrattamenti
-  e conflitti col proprio partner. Al link ulteriori info e orari.
+Descrizione: ""La Casa della donna di Pisa ha sospeso tutte le attivit\xE0 ma il servizio\
+  \ di ascolto del centro antiviolenza (050 561628) funziona regolarmente ed \xE8\
+  \ a disposizione di tutte le donne che, anche in questa emergenza, vivono situazioni\
+  \ di maltrattamenti e conflitti col proprio partner. Al link ulteriori info e orari.""
 Link: https://www.casadelladonnapisa.it/emergenza-coronavirus/
 Posizione: 43.721296 10.389908 0 0
+Provincia: Pisa
+Regione: Toscana
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/521,581420388,2020-03-15 00:02:10,2020-03-14 23:37:52,"Comune di #Firenze, nuovo servizio di consegna gratuita di farmaci e spesa per over 65 e immunodepressi",43.771295,11.250593,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Firenze"", ""Descrizione"": ""Sar\u00e0 dedicato agli over 65 e alle persone immunodepresse e con patologie il nuovo servizio di consegna gratuita a domicilio di farmaci, alimenti e beni di prima necessit\u00e0. L\u2019iniziativa \u00e8 rivolta ai cittadini residenti a Firenze che non sono in regime di isolamento fiduciario o quarantena. Il servizio di ricezione delle telefonate sar\u00e0 attivo dalle 8 alle 16.30 dal luned\u00ec al venerd\u00ec, festivi e prefestivi esclusi. Chi \u00e8 interessato potr\u00e0 chiamare il call center istituito dal Comune per dare informazioni e supporto agli anziani, allo 0553282200. \nPotranno beneficiare del nuovo servizio gli over 65 e le persone affette da patologie croniche, ovvero con stati di immunodepressione congenita o acquisita e coloro che non hanno una rete parentale nel raggio di 10 chilometri."", ""Destinatari"": ""Over 65, immunodepressi"", ""Link"": ""https://www.comune.fi.it/comunicati-stampa/coronavirus-da-lunedi-nuovo-servizio-di-consegna-domiciliare-gratuita-di-farmaci"", ""Natura"": ""solidale"", ""Posizione"": ""43.771295 11.250593 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Comune di Firenze, nuovo servizio di consegna domiciliare gratuita di farmaci e spesa per over 65 e immunodepressi""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/521,581420388,2020-03-16 23:01:39,2020-03-14 23:37:52,"Comune di #Firenze, nuovo servizio di consegna gratuita di farmaci e spesa per over 65 e immunodepressi",43.771295,11.250593,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Comune"": ""Firenze"", ""Da_chi_offerta"": ""Comune di Firenze"", ""Descrizione"": ""Sar\u00e0 dedicato agli over 65 e alle persone immunodepresse e con patologie il nuovo servizio di consegna gratuita a domicilio di farmaci, alimenti e beni di prima necessit\u00e0. L\u2019iniziativa \u00e8 rivolta ai cittadini residenti a Firenze che non sono in regime di isolamento fiduciario o quarantena. Il servizio di ricezione delle telefonate sar\u00e0 attivo dalle 8 alle 16.30 dal luned\u00ec al venerd\u00ec, festivi e prefestivi esclusi. Chi \u00e8 interessato potr\u00e0 chiamare il call center istituito dal Comune per dare informazioni e supporto agli anziani, allo 0553282200. \nPotranno beneficiare del nuovo servizio gli over 65 e le persone affette da patologie croniche, ovvero con stati di immunodepressione congenita o acquisita e coloro che non hanno una rete parentale nel raggio di 10 chilometri."", ""Destinatari"": ""Over 65, immunodepressi"", ""Link"": ""https://www.comune.fi.it/comunicati-stampa/coronavirus-da-lunedi-nuovo-servizio-di-consegna-domiciliare-gratuita-di-farmaci"", ""Natura"": ""solidale"", ""Posizione"": ""43.771295 11.250593 0 0"", ""Provincia"": ""-"", ""Regione"": ""Toscana"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Comune di Firenze, nuovo servizio di consegna domiciliare gratuita di farmaci e spesa per over 65 e immunodepressi""}","<pre><yamldata>
+Comune: Firenze
 Da_chi_offerta: Comune di Firenze
-Descrizione: ""Sarà dedicato agli over 65 e alle persone immunodepresse e con patologie\
+Descrizione: ""Sar\xE0 dedicato agli over 65 e alle persone immunodepresse e con patologie\
   \ il nuovo servizio di consegna gratuita a domicilio di farmaci, alimenti e beni\
-  \ di prima necessità. L’iniziativa è rivolta ai cittadini residenti a Firenze che\
-  \ non sono in regime di isolamento fiduciario o quarantena. Il servizio di ricezione\
-  \ delle telefonate sarà attivo dalle 8 alle 16.30 dal lunedì al venerdì, festivi\
-  \ e prefestivi esclusi. Chi è interessato potrà chiamare il call center istituito\
-  \ dal Comune per dare informazioni e supporto agli anziani, allo 0553282200. \n\
-  Potranno beneficiare del nuovo servizio gli over 65 e le persone affette da patologie\
-  \ croniche, ovvero con stati di immunodepressione congenita o acquisita e coloro\
-  \ che non hanno una rete parentale nel raggio di 10 chilometri.""
+  \ di prima necessit\xE0. L\u2019iniziativa \xE8 rivolta ai cittadini residenti a\
+  \ Firenze che non sono in regime di isolamento fiduciario o quarantena. Il servizio\
+  \ di ricezione delle telefonate sar\xE0 attivo dalle 8 alle 16.30 dal luned\xEC\
+  \ al venerd\xEC, festivi e prefestivi esclusi. Chi \xE8 interessato potr\xE0 chiamare\
+  \ il call center istituito dal Comune per dare informazioni e supporto agli anziani,\
+  \ allo 0553282200. \nPotranno beneficiare del nuovo servizio gli over 65 e le persone\
+  \ affette da patologie croniche, ovvero con stati di immunodepressione congenita\
+  \ o acquisita e coloro che non hanno una rete parentale nel raggio di 10 chilometri.""
 Destinatari: Over 65, immunodepressi
 Link: https://www.comune.fi.it/comunicati-stampa/coronavirus-da-lunedi-nuovo-servizio-di-consegna-domiciliare-gratuita-di-farmaci
 Natura: solidale
 Posizione: 43.771295 11.250593 0 0
+Provincia: '-'
+Regione: Toscana
 Tipo_di_soggetto: pubblico
 Titolo: Comune di Firenze, nuovo servizio di consegna domiciliare gratuita di farmaci
   e spesa per over 65 e immunodepressi
@@ -1910,15 +1923,18 @@ Descrizione: La bufala consiste in una serie di consigli provenienti da “un gr
   una “semplice verifica” ogni mattina. Chiaramente falso.
 Link: https://tech.fanpage.it/i-consigli-dei-medici-di-taiwan-per-il-coronavirus-lennesima-bufala-su-whatsapp
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/519,581402745,2020-03-15 00:04:18,2020-03-14 22:41:16,Croce Rossa offre servizio di spesa a casa a #ReggioCalabria per anziani e persone in difficoltà ,38.113247,15.649141,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Croce Rossa Italiana Reggio Calabria"", ""Descrizione"": ""La Croce Rossa a Reggio Calabria attiva un numero per dare ulteriore assistenza alle persone sole e in difficolt\u00e0. \nNessuno verr\u00e0 lasciato solo, basta chiamare il numero verde 800 065510."", ""Destinatari"": ""Anziani"", ""Link"": ""https://www.ilreggino.it/featured/2020/03/14/coronavirus-a-reggio-calabria-gli-angeli-in-rosso-della-cri-sempre-in-prima-linea/"", ""Natura"": ""solidale"", ""Posizione"": ""38.113247 15.649141 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Spesa a casa""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/519,581402745,2020-03-16 23:01:40,2020-03-14 22:41:16,Croce Rossa offre servizio di spesa a casa a #ReggioCalabria per anziani e persone in difficoltà ,38.113247,15.649141,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Comune"": ""Reggio di Calabria"", ""Da_chi_offerta"": ""Croce Rossa Italiana Reggio Calabria"", ""Descrizione"": ""La Croce Rossa a Reggio Calabria attiva un numero per dare ulteriore assistenza alle persone sole e in difficolt\u00e0. \nNessuno verr\u00e0 lasciato solo, basta chiamare il numero verde 800 065510."", ""Destinatari"": ""Anziani"", ""Link"": ""https://www.ilreggino.it/featured/2020/03/14/coronavirus-a-reggio-calabria-gli-angeli-in-rosso-della-cri-sempre-in-prima-linea/"", ""Natura"": ""solidale"", ""Posizione"": ""38.113247 15.649141 0 0"", ""Provincia"": ""-"", ""Regione"": ""Calabria"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Spesa a casa""}","<pre><yamldata>
+Comune: Reggio di Calabria
 Da_chi_offerta: Croce Rossa Italiana Reggio Calabria
 Descrizione: ""La Croce Rossa a Reggio Calabria attiva un numero per dare ulteriore\
-  \ assistenza alle persone sole e in difficoltà. \nNessuno verrà lasciato solo, basta\
-  \ chiamare il numero verde 800 065510.""
+  \ assistenza alle persone sole e in difficolt\xE0. \nNessuno verr\xE0 lasciato solo,\
+  \ basta chiamare il numero verde 800 065510.""
 Destinatari: Anziani
 Link: https://www.ilreggino.it/featured/2020/03/14/coronavirus-a-reggio-calabria-gli-angeli-in-rosso-della-cri-sempre-in-prima-linea/
 Natura: solidale
 Posizione: 38.113247 15.649141 0 0
+Provincia: '-'
+Regione: Calabria
 Tipo_di_soggetto: pubblico
 Titolo: Spesa a casa
 </yamldata></pre>",open
@@ -1981,19 +1997,23 @@ Natura: solidale
 Tipo_di_soggetto: privato
 Titolo: Punti raccolta sangue
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/511,581371922,2020-03-15 00:07:26,2020-03-14 21:04:51,"A Trento e provincia servizio di ascolto e consegna a domicilio (spesa, farmaci) per over 75, immunodepressi, malati cronici",46.075748,11.12273,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Dipartimento Salute e Politiche Sociali in collaborazione con la Protezione civile"", ""Descrizione"": ""Numero di telefono 0461 495244, gratuito, presso la Centrale Unica di Emergenza di via Pedrotti a Trento per necessit\u00e0 quali la spesa, i farmaci, l'ascolto. Le richieste saranno raccolte da personale qualificato e debitamente formato del Dipartimento Salute che risponderanno sette giorni su sette dalle 8 alle 20."", ""Destinatari"": ""persone impossibilitate ad uscire dal proprio domicilio che sono prive di una rete familiare, con oltre 75 anni, malattie croniche o con le difese immunitarie debilitate."", ""Link"": ""https://www.ufficiostampa.provincia.tn.it/Comunicati/Resta-a-casa-passo-io"", ""Natura"": ""solidale"", ""Posizione"": ""46.075748 11.12273 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Aiuti/Richieste (spesa, farmaci, ascolto,ecc) Trento e provincia""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/511,581371922,2020-03-16 23:01:42,2020-03-14 21:04:51,"A Trento e provincia servizio di ascolto e consegna a domicilio (spesa, farmaci) per over 75, immunodepressi, malati cronici",46.075748,11.12273,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Comune"": ""Trento"", ""Da_chi_offerta"": ""Dipartimento Salute e Politiche Sociali in collaborazione con la Protezione civile"", ""Descrizione"": ""Numero di telefono 0461 495244, gratuito, presso la Centrale Unica di Emergenza di via Pedrotti a Trento per necessit\u00e0 quali la spesa, i farmaci, l'ascolto. Le richieste saranno raccolte da personale qualificato e debitamente formato del Dipartimento Salute che risponderanno sette giorni su sette dalle 8 alle 20."", ""Destinatari"": ""persone impossibilitate ad uscire dal proprio domicilio che sono prive di una rete familiare, con oltre 75 anni, malattie croniche o con le difese immunitarie debilitate."", ""Link"": ""https://www.ufficiostampa.provincia.tn.it/Comunicati/Resta-a-casa-passo-io"", ""Natura"": ""solidale"", ""Posizione"": ""46.075748 11.12273 0 0"", ""Provincia"": ""Trento"", ""Regione"": ""Trentino-Alto Adige"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Aiuti/Richieste (spesa, farmaci, ascolto,ecc) Trento e provincia""}","<pre><yamldata>
+Comune: Trento
 Da_chi_offerta: Dipartimento Salute e Politiche Sociali in collaborazione con la Protezione
   civile
-Descrizione: Numero di telefono 0461 495244, gratuito, presso la Centrale Unica di
-  Emergenza di via Pedrotti a Trento per necessità quali la spesa, i farmaci, l'ascolto.
-  Le richieste saranno raccolte da personale qualificato e debitamente formato del
-  Dipartimento Salute che risponderanno sette giorni su sette dalle 8 alle 20.
+Descrizione: ""Numero di telefono 0461 495244, gratuito, presso la Centrale Unica di\
+  \ Emergenza di via Pedrotti a Trento per necessit\xE0 quali la spesa, i farmaci,\
+  \ l'ascolto. Le richieste saranno raccolte da personale qualificato e debitamente\
+  \ formato del Dipartimento Salute che risponderanno sette giorni su sette dalle\
+  \ 8 alle 20.""
 Destinatari: persone impossibilitate ad uscire dal proprio domicilio che sono prive
   di una rete familiare, con oltre 75 anni, malattie croniche o con le difese immunitarie
   debilitate.
 Link: https://www.ufficiostampa.provincia.tn.it/Comunicati/Resta-a-casa-passo-io
 Natura: solidale
 Posizione: 46.075748 11.12273 0 0
+Provincia: Trento
+Regione: Trentino-Alto Adige
 Tipo_di_soggetto: pubblico
 Titolo: Aiuti/Richieste (spesa, farmaci, ascolto,ecc) Trento e provincia
 </yamldata></pre>",open
