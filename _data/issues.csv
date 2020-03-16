@@ -1,4 +1,15 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/629,582342341,2020-03-16 14:29:12,2020-03-16 14:28:16,A casa ma non soli - Commissioni a domicilio a #Firenze,43.770017,11.255583,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Arci Firenze"", ""Descrizione"": ""Molti nostri Circoli e Associazioni, in questi giorni cos\u00ec difficili, si sono gi\u00e0 messi in moto per garantire un supporto sociale e/o culturale agli altri, in particolar modo alle persone pi\u00f9 deboli. Qui l'elenco: https://www.facebook.com/arcifirenze/photos/a.815320281867457/2972327982833332/?type=3&theater&ifg=1"", ""Link"": ""https://www.facebook.com/arcifirenze/photos/a.815320281867457/2972327982833332/?type=3&theater&ifg=1"", ""Natura"": ""solidale"", ""Posizione"": ""43.770017 11.255583 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""A casa ma non soli - Commissioni a domicilio a #Firenze""}","<pre><yamldata>
+Da_chi_offerta: Arci Firenze
+Descrizione: 'Molti nostri Circoli e Associazioni, in questi giorni così difficili,
+  si sono già messi in moto per garantire un supporto sociale e/o culturale agli altri,
+  in particolar modo alle persone più deboli. Qui l''elenco: https://www.facebook.com/arcifirenze/photos/a.815320281867457/2972327982833332/?type=3&theater&ifg=1'
+Link: https://www.facebook.com/arcifirenze/photos/a.815320281867457/2972327982833332/?type=3&theater&ifg=1
+Natura: solidale
+Posizione: 43.770017 11.255583 0 0
+Tipo_di_soggetto: privato
+Titolo: 'A casa ma non soli - Commissioni a domicilio a #Firenze'
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/628,582330887,2020-03-16 14:18:04,2020-03-16 14:12:39,Progetto di supporto ai giovani di #Silea (TV),45.653306,12.297169,"[""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Cooperativa La Esse"", ""Descrizione"": ""Coordinato da La Esse, il progetto ha attivato appositamente un nuovo profilo Skype, pgsilea, per favorire la connessione diretta per i ragazzi, ma anche per i loro genitori, per offrire, in questo momento di difficolt\u00e0, sostegno e informazioni, scambiare idee, dare consigli o anche semplicemente per dialogare, riducendo la solitudine e condividendo un momento di quotidianit\u00e0."", ""Destinatari"": ""Giovani del Comune di Silea"", ""Link"": ""http://www.laesse.org/news/pgsilea"", ""Natura"": ""solidale"", ""Posizione"": ""45.653306 12.297169 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Progetto Giovani Comune di Silea""}","<pre><yamldata>
 Da_chi_offerta: Cooperativa La Esse
 Descrizione: Coordinato da La Esse, il progetto ha attivato appositamente un nuovo
@@ -12,17 +23,6 @@ Natura: solidale
 Posizione: 45.653306 12.297169 0 0
 Tipo_di_soggetto: privato
 Titolo: Progetto Giovani Comune di Silea
-</yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/627,582326915,2020-03-16 14:13:21,2020-03-16 14:07:17,Passatempo al Sud,,,"[""Attivita culturali e ricreative"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Regione Campania"", ""Descrizione"": ""Regione Campania, con il contributo di Scabec, ha voluto attivare sul proprio sito istituzionale questa sezione, una sorta di \""catalogo\"" di siti, blog, link, pagine social e tutto quanto pu\u00f2 essere utile ai genitori, ai nonni e ai ragazzi, per orientarsi e per raggiungere facilmente ci\u00f2 che si cerca."", ""Destinatari"": ""Cittadini Cmapani"", ""Link"": ""http://www.regione.campania.it/regione/it/news/regione-informa/passatempo-al-sud-giorni-pieni-di-libri-arte-musica-e-allegria?page=1&fbclid=IwAR0lrwXAXoXA_HWwz_WZaTx_97U968AzCYyMGW1ZjMBI95ZZd98JeTjwgK0"", ""Natura"": ""culturale-ricr"", ""Titolo"": ""Passatempo al Sud""}","<pre><yamldata>
-Da_chi_offerta: Regione Campania
-Descrizione: Regione Campania, con il contributo di Scabec, ha voluto attivare sul
-  proprio sito istituzionale questa sezione, una sorta di ""catalogo"" di siti, blog,
-  link, pagine social e tutto quanto può essere utile ai genitori, ai nonni e ai ragazzi,
-  per orientarsi e per raggiungere facilmente ciò che si cerca.
-Destinatari: Cittadini Cmapani
-Link: http://www.regione.campania.it/regione/it/news/regione-informa/passatempo-al-sud-giorni-pieni-di-libri-arte-musica-e-allegria?page=1&fbclid=IwAR0lrwXAXoXA_HWwz_WZaTx_97U968AzCYyMGW1ZjMBI95ZZd98JeTjwgK0
-Natura: culturale-ricr
-Titolo: Passatempo al Sud
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/626,582321373,2020-03-16 14:15:02,2020-03-16 14:02:19,"Roma: Stop a versamento rette per asili e mense scolastiche. Differite scadenze Tari, Cosap e canoni",41.891049,12.489326,"[""Fonti istituzionali"", ""Notizia"", ""Notizie"", ""accettato"", ""form""]",,,"{""Cosa"": ""Roma: Stop a versamento rette per asili e mense scolastiche. Differite scadenze Tari, Cosap e canoni mercati"", ""Descrizione"": ""La Giunta Capitolina ha disposto l\u2019annullamento del versamento delle quote contributive per gli asili nido e per le mense scolastiche nelle scuole d\u2019infanzia, per il periodo di chiusura dovuto all\u2019emergenza Covid-19."", ""Link"": ""https://www.comune.roma.it/web/it/notizia/coronavirus-stop-a-versamento-rette-per-asili-e-mense-scolastiche-differite-scadenze-tari-cosap-e-canoni-mercati.page?fbclid=IwAR2ow2vbFCORKZBDdItBI1WLYzUBPd3Eo9qiyfqBLtkTRsWMBGr6ZefQIFA"", ""Posizione"": ""41.891049 12.489326 0 0""}","<pre><yamldata>
 Cosa: 'Roma: Stop a versamento rette per asili e mense scolastiche. Differite scadenze
