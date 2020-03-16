@@ -1,4 +1,67 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/637,582406066,2020-03-16 15:58:54,2020-03-16 15:51:59,Gestione dei rifiuti domestici - Istruzioni dell'Istituto Superiore di Sanità.,,,"[""Bollettino"", ""Fonti istituzionali"", ""Informazioni utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Come raccogliere o gettare i rifiuti domestici - Istruzioni dell'Istituto Superiore di Sanit\u00e0."", ""Descrizione"": ""\ud83d\udfe2 Se NON sei positivo al tampone e NON sei in quarantena:\n\n\u2022 Continua a fare la raccolta differenziata come hai fatto finora.\n\n\u2022 Usa fazzoletti di carta se sei raffreddato e buttali nella raccolta indifferenziata.\n\n\u2022 Se hai usato mascherine e guanti, gettali nella raccolta indifferenziata.\n\n\u2022 Per i rifiuti indifferenziati utilizza due o tre sacchetti possibilmente resistenti (uno dentro l\u2019altro) all\u2019interno del contenitore che usi abitualmente.\n\n\u2022 Chiudi bene il sacchetto.\n\n\u2022 Smaltisci i rifiuti come faresti con un sacchetto di indifferenziata.\n\n\n\ud83d\udd34 Se sei POSITIVO o in quarantena obbligatoria:\n\n\u2022 Non differenziare pi\u00f9 i rifiuti di casa tua.\n\n\u2022 Utilizza due o tre sacchetti possibilmente resistenti (uno dentro l\u2019altro) all\u2019interno del contenitore utilizzato per la raccolta indifferenziata, se possibile a pedale.\n\n\u2022 Tutti i rifiuti (plastica, vetro, carta, umido, metallo e indifferenziata) vanno gettati nello stesso contenitore utilizzato per la raccolta indifferenziata.\n\n\u2022 Anche i fazzoletti o i rotoli di carta, le mascherine, i guanti, e i teli monouso vanno gettati nello stesso contenitore per la raccolta indifferenziata.\n\n\u2022 Indossando guanti monouso chiudi bene i sacchetti senza schiacciarli con le mani utilizzando dei lacci di chiusura o nastro adesivo.\n\n\u2022 Una volta chiusi i sacchetti, i guanti usati vanno gettati nei nuovi sacchetti preparati per la raccolta indifferenziata (due o tre sacchetti possibilmente resistenti, uno dentro l\u2019altro). Subito dopo lavati le mani.\n\n\u2022 Fai smaltire i rifiuti ogni giorno come faresti con un sacchetto di indifferenziata.\n\n\u2022 Gli animali da compagnia non devono accedere nel locale in cui sono presenti i sacchetti di rifiuti.\n\nAgiamo in modo responsabile e restiamo a casa!"", ""Link"": ""http://www.iss.it/coronavirus""}","<pre><yamldata>
+Cosa: Come raccogliere o gettare i rifiuti domestici - Istruzioni dell'Istituto Superiore
+  di Sanità.
+Descrizione: '🟢 Se NON sei positivo al tampone e NON sei in quarantena:
+
+
+  • Continua a fare la raccolta differenziata come hai fatto finora.
+
+
+  • Usa fazzoletti di carta se sei raffreddato e buttali nella raccolta indifferenziata.
+
+
+  • Se hai usato mascherine e guanti, gettali nella raccolta indifferenziata.
+
+
+  • Per i rifiuti indifferenziati utilizza due o tre sacchetti possibilmente resistenti
+  (uno dentro l’altro) all’interno del contenitore che usi abitualmente.
+
+
+  • Chiudi bene il sacchetto.
+
+
+  • Smaltisci i rifiuti come faresti con un sacchetto di indifferenziata.
+
+
+
+  🔴 Se sei POSITIVO o in quarantena obbligatoria:
+
+
+  • Non differenziare più i rifiuti di casa tua.
+
+
+  • Utilizza due o tre sacchetti possibilmente resistenti (uno dentro l’altro) all’interno
+  del contenitore utilizzato per la raccolta indifferenziata, se possibile a pedale.
+
+
+  • Tutti i rifiuti (plastica, vetro, carta, umido, metallo e indifferenziata) vanno
+  gettati nello stesso contenitore utilizzato per la raccolta indifferenziata.
+
+
+  • Anche i fazzoletti o i rotoli di carta, le mascherine, i guanti, e i teli monouso
+  vanno gettati nello stesso contenitore per la raccolta indifferenziata.
+
+
+  • Indossando guanti monouso chiudi bene i sacchetti senza schiacciarli con le mani
+  utilizzando dei lacci di chiusura o nastro adesivo.
+
+
+  • Una volta chiusi i sacchetti, i guanti usati vanno gettati nei nuovi sacchetti
+  preparati per la raccolta indifferenziata (due o tre sacchetti possibilmente resistenti,
+  uno dentro l’altro). Subito dopo lavati le mani.
+
+
+  • Fai smaltire i rifiuti ogni giorno come faresti con un sacchetto di indifferenziata.
+
+
+  • Gli animali da compagnia non devono accedere nel locale in cui sono presenti i
+  sacchetti di rifiuti.
+
+
+  Agiamo in modo responsabile e restiamo a casa!'
+Link: http://www.iss.it/coronavirus
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/636,582379259,2020-03-16 15:18:58,2020-03-16 15:17:18,Come contattare servizi e sportelli sociali durante l'emergenza Comune di #Bologna,44.494929,11.336796,"[""Bollettino"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Servizi e Sportelli Sociali Comune di Bologna"", ""Descrizione"": ""Ricordiamo che i servizi sociali sono regolarmente aperti. Per contrastare la diffusione del coronavirus il Comune di Bologna invita tutta la cittadinanza a non recarsi agli sportelli sociali, ma a contattarli prioritariamente telefonicamente o online nei consueti orari di apertura marted\u00ec e gioved\u00ec dalle 8.15 alle 17.30.\nPer i soli Sportelli sociali dei territori di Borgo Panigale Reno, Navile e Santo Stefano la chiusura \u00e8 anticipata alle ore 14 fino a nuova comunicazione.  \nQuesti i recapiti da utilizzare:\n\u2022\tSportello sociale Borgo Panigale Reno, tel. 0516418275 - 0516418208 - serviziosocialeborgopanigalereno@comune.bologna.it\n\u2022\tSportello sociale  Navile, tel. 0514151313 - 0514151356 - 0514151306 -   serviziosocialenavile@comune.bologna.it\n\u2022\tSportello sociale  Porto Saragozza, tel. 0512197894 - 0512197897 - 0512197891 - serviziosocialeportosaragozza@comune.bologna.it\n\u2022\tSportello sociale  Savena, tel. 0512197481 - serviziosocialesavena@comune.bologna.it\n\u2022\tSportello sociale  San Donato San Vitale, 0512196370 - serviziosocialesandonatosanvitale@comune.bologna.it\n\u2022\tSportello sociale  Santo Stefano, tel.  0512197030 - 0512197048 -   serviziosocialesantostefano@comune.bologna.it\n\nSi invita a utilizzare questi contatti in particolare per:\n- segnalare situazioni di rilevante necessit\u00e0, come ad esempio: dimissioni ospedaliere di anziani, situazioni di non autosufficienza, situazioni di violenza domestica e di genere, situazioni di fragilit\u00e0 sociale e abitativa.  L'operatore rilever\u00e0 il bisogno e attiver\u00e0 il contatto con il servizio sociale professionale.\n- richiedere l'attivazione o il rinnovo dei bonus energetici (bonus acqua, luce e gas) o dei contributi per l'abbattimento delle barriere architettoniche, l'acquisto e adattamento di veicoli destinati a persone disabili, l'acquisto di attrezzature che favoriscano la permanenza nella propria abitazione delle persone disabili gravi. L'operatore fornir\u00e0 tutte le informazioni utili per trasmettere la domanda in forma telematica.\n\nSi ricorda inoltre che:\n- le persone in possesso di credenziali SPID possono attivare e rinnovare i bonus energetici (acqua, luce e gas) tramite la App \""Bologna Welfare\"" scaricabile gratuitamente dagli appstore per smartphone\n-  tutte le informazioni sulla rete dei servizi sociali cittadini e il supporto all'utilizzo della App \""Bologna Welfare\"" si possono sempre richiedere anche tramite telefono ed email contattando il Punto Unico informativo degli sportelli  sociali a questi recapiti:\ntel. 0512197878 \u2013 sportellosocialebologna@comune.bologna.it\nluned\u00ec: 9-13 e 13.30-16\nmarted\u00ec: 9-13 e 13.30-17.30\nmercoled\u00ec: 9-13\ngioved\u00ec: 9-13 e 13.30-1 7.30\nvenerd\u00ec: 9-13 e 13.30-16"", ""Destinatari"": ""Cittadine e cittadini Comune di Bologna"", ""Link"": ""http://www.comune.bologna.it/sportellosociale/"", ""Natura"": ""solidale"", ""Posizione"": ""44.494929 11.336796 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Come contattare i servizi e gli sportelli sociali durante l'emergenza Comune di #Bologna""}","<pre><yamldata>
 Da_chi_offerta: Servizi e Sportelli Sociali Comune di Bologna
 Descrizione: ""Ricordiamo che i servizi sociali sono regolarmente aperti. Per contrastare\
