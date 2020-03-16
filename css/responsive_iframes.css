@@ -1,0 +1,10 @@
+.iframe-embed {
+  width: 100%;
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+.iframe-embed--v200 {
+  height: 200rem;
+}
