@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Opendata
+title: Open Data
 permalink: /opendata/
 ---
 
