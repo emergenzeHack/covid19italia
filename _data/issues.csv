@@ -2356,98 +2356,87 @@ Natura: solidale
 Tipo_di_soggetto: privato
 Titolo: Spesa e Farmaci a Domicilio
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/424,581257220,2020-03-14 15:49:33,2020-03-14 15:39:11,Consegne e commissioni a domicilio Comune di #Firenze,43.769684,11.255816,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Anziani Soli per la spesa"", ""Descrizione"": ""Sar\u00e0 dedicato agli over 65 e alle persone immunodepresse e con patologie il nuovo servizio di consegna gratuita a domicilio di farmaci, alimenti e beni di prima necessit\u00e0, che prender\u00e0 il via luned\u00ec. L\u2019iniziativa \u00e8 rivolta ai cittadini residenti a Firenze che non sono in regime di isolamento fiduciario o quarantena ed \u00e8 resa possibile grazie anche alla collaborazione di Afam Farmacie comunali e Federfarma.\n\nPensato dal Comune di Firenze insieme ai Coordinamenti territoriali della Misericordia, della Croce Rossa Italiana e dell\u2019Anpas coordinati dall\u2019associazione Esculapio, il progetto nasce per dare un ulteriore sostegno alle persone pi\u00f9 fragili e contrastare il diffondersi del Coronavirus, limitando il pi\u00f9 possibile le uscite di casa.\n\nIl servizio di ricezione delle telefonate sar\u00e0 attivo dalle 8 alle 16.30 dal luned\u00ec al venerd\u00ec, festivi e prefestivi esclusi. Chi \u00e8 interessato potr\u00e0 chiamare il call center istituito dal Comune per dare informazioni e supporto agli anziani, allo 0553282200."", ""Destinatari"": ""Over 65"", ""Link"": ""https://www.comune.fi.it/comunicati-stampa/coronavirus-da-lunedi-nuovo-servizio-di-consegna-domiciliare-gratuita-di-farmaci?language_content_entity=it"", ""Natura"": ""solidale"", ""Posizione"": ""43.769684 11.255816 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Spesa per over 65 e immunodepressi""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/424,581257220,2020-03-16 23:02:03,2020-03-14 15:39:11,Consegne e commissioni a domicilio Comune di #Firenze,43.769684,11.255816,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Comune"": ""Firenze"", ""Da_chi_offerta"": ""Anziani Soli per la spesa"", ""Descrizione"": ""Sar\u00e0 dedicato agli over 65 e alle persone immunodepresse e con patologie il nuovo servizio di consegna gratuita a domicilio di farmaci, alimenti e beni di prima necessit\u00e0, che prender\u00e0 il via luned\u00ec. L\u2019iniziativa \u00e8 rivolta ai cittadini residenti a Firenze che non sono in regime di isolamento fiduciario o quarantena ed \u00e8 resa possibile grazie anche alla collaborazione di Afam Farmacie comunali e Federfarma.\n\nPensato dal Comune di Firenze insieme ai Coordinamenti territoriali della Misericordia, della Croce Rossa Italiana e dell\u2019Anpas coordinati dall\u2019associazione Esculapio, il progetto nasce per dare un ulteriore sostegno alle persone pi\u00f9 fragili e contrastare il diffondersi del Coronavirus, limitando il pi\u00f9 possibile le uscite di casa.\n\nIl servizio di ricezione delle telefonate sar\u00e0 attivo dalle 8 alle 16.30 dal luned\u00ec al venerd\u00ec, festivi e prefestivi esclusi. Chi \u00e8 interessato potr\u00e0 chiamare il call center istituito dal Comune per dare informazioni e supporto agli anziani, allo 0553282200."", ""Destinatari"": ""Over 65"", ""Link"": ""https://www.comune.fi.it/comunicati-stampa/coronavirus-da-lunedi-nuovo-servizio-di-consegna-domiciliare-gratuita-di-farmaci?language_content_entity=it"", ""Natura"": ""solidale"", ""Posizione"": ""43.769684 11.255816 0 0"", ""Provincia"": ""-"", ""Regione"": ""Toscana"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Spesa per over 65 e immunodepressi""}","<pre><yamldata>
+Comune: Firenze
 Da_chi_offerta: Anziani Soli per la spesa
-Descrizione: 'Sarà dedicato agli over 65 e alle persone immunodepresse e con patologie
-  il nuovo servizio di consegna gratuita a domicilio di farmaci, alimenti e beni di
-  prima necessità, che prenderà il via lunedì. L’iniziativa è rivolta ai cittadini
-  residenti a Firenze che non sono in regime di isolamento fiduciario o quarantena
-  ed è resa possibile grazie anche alla collaborazione di Afam Farmacie comunali e
-  Federfarma.
-
-
-  Pensato dal Comune di Firenze insieme ai Coordinamenti territoriali della Misericordia,
-  della Croce Rossa Italiana e dell’Anpas coordinati dall’associazione Esculapio,
-  il progetto nasce per dare un ulteriore sostegno alle persone più fragili e contrastare
-  il diffondersi del Coronavirus, limitando il più possibile le uscite di casa.
-
-
-  Il servizio di ricezione delle telefonate sarà attivo dalle 8 alle 16.30 dal lunedì
-  al venerdì, festivi e prefestivi esclusi. Chi è interessato potrà chiamare il call
-  center istituito dal Comune per dare informazioni e supporto agli anziani, allo
-  0553282200.'
+Descrizione: ""Sar\xE0 dedicato agli over 65 e alle persone immunodepresse e con patologie\
+  \ il nuovo servizio di consegna gratuita a domicilio di farmaci, alimenti e beni\
+  \ di prima necessit\xE0, che prender\xE0 il via luned\xEC. L\u2019iniziativa \xE8\
+  \ rivolta ai cittadini residenti a Firenze che non sono in regime di isolamento\
+  \ fiduciario o quarantena ed \xE8 resa possibile grazie anche alla collaborazione\
+  \ di Afam Farmacie comunali e Federfarma.\n\nPensato dal Comune di Firenze insieme\
+  \ ai Coordinamenti territoriali della Misericordia, della Croce Rossa Italiana e\
+  \ dell\u2019Anpas coordinati dall\u2019associazione Esculapio, il progetto nasce\
+  \ per dare un ulteriore sostegno alle persone pi\xF9 fragili e contrastare il diffondersi\
+  \ del Coronavirus, limitando il pi\xF9 possibile le uscite di casa.\n\nIl servizio\
+  \ di ricezione delle telefonate sar\xE0 attivo dalle 8 alle 16.30 dal luned\xEC\
+  \ al venerd\xEC, festivi e prefestivi esclusi. Chi \xE8 interessato potr\xE0 chiamare\
+  \ il call center istituito dal Comune per dare informazioni e supporto agli anziani,\
+  \ allo 0553282200.""
 Destinatari: Over 65
 Link: https://www.comune.fi.it/comunicati-stampa/coronavirus-da-lunedi-nuovo-servizio-di-consegna-domiciliare-gratuita-di-farmaci?language_content_entity=it
 Natura: solidale
 Posizione: 43.769684 11.255816 0 0
+Provincia: '-'
+Regione: Toscana
 Tipo_di_soggetto: pubblico
 Titolo: Spesa per over 65 e immunodepressi
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/423,581252767,2020-03-14 15:28:31,2020-03-14 15:27:23,Fiabe al telefono per tutte le bambine e tutti i bambini #Messina,38.195072,15.549436,"[""Giochi/intrattenimento bambini"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Associazione Solletico di Messina"", ""Descrizione"": ""Associazione Solletico di Messina ha messo in campo per tutte le bambine e tutti i bambini, un servizio GRATUITO di lettura telefonica di fiabe.\nTel. 3533331639\n\nServizio disponibile dal luned\u00ec al venerd\u00ec, dalle 10-12 e dalle 16-22."", ""Destinatari"": ""Bambine e bambini"", ""Natura"": ""solidale"", ""Posizione"": ""38.195072 15.549436 0 0"", ""Tipo_di_soggetto"": ""privato""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/423,581252767,2020-03-16 23:02:05,2020-03-14 15:27:23,Fiabe al telefono per tutte le bambine e tutti i bambini #Messina,38.195072,15.549436,"[""Giochi/intrattenimento bambini"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Comune"": ""Messina"", ""Da_chi_offerta"": ""Associazione Solletico di Messina"", ""Descrizione"": ""Associazione Solletico di Messina ha messo in campo per tutte le bambine e tutti i bambini, un servizio GRATUITO di lettura telefonica di fiabe.\nTel. 3533331639\n\nServizio disponibile dal luned\u00ec al venerd\u00ec, dalle 10-12 e dalle 16-22."", ""Destinatari"": ""Bambine e bambini"", ""Natura"": ""solidale"", ""Posizione"": ""38.195072 15.549436 0 0"", ""Provincia"": ""-"", ""Regione"": ""Sicilia"", ""Tipo_di_soggetto"": ""privato""}","<pre><yamldata>
+Comune: Messina
 Da_chi_offerta: Associazione Solletico di Messina
-Descrizione: 'Associazione Solletico di Messina ha messo in campo per tutte le bambine
-  e tutti i bambini, un servizio GRATUITO di lettura telefonica di fiabe.
-
-  Tel. 3533331639
-
-
-  Servizio disponibile dal lunedì al venerdì, dalle 10-12 e dalle 16-22.'
+Descrizione: ""Associazione Solletico di Messina ha messo in campo per tutte le bambine\
+  \ e tutti i bambini, un servizio GRATUITO di lettura telefonica di fiabe.\nTel.\
+  \ 3533331639\n\nServizio disponibile dal luned\xEC al venerd\xEC, dalle 10-12 e\
+  \ dalle 16-22.""
 Destinatari: Bambine e bambini
 Natura: solidale
 Posizione: 38.195072 15.549436 0 0
+Provincia: '-'
+Regione: Sicilia
 Tipo_di_soggetto: privato
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/422,581244277,2020-03-14 22:47:26,2020-03-14 15:04:33,Cercasi volontari per commissioni a domicilio - Comune di #Bari,41.11588,16.856787,"[""Bollettino"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Bari"", ""Descrizione"": ""VORRESTI DIVENTARE VOLONTARIO/A per aiutare nelle consegne a domicilio di beni alimentari, di prima necessit\u00e0 e farmaci, per i cittadini in difficolt\u00e0 che ne faranno richiesta?\n\nPossono aderire volontari appartenenti ad associazioni, ma anche singoli cittadini, inviando la propria disponibilit\u00e0 alla mail segreteriawelfarebari@comune.bari.it."", ""Destinatari"": ""Associazioni, cittadine e cittadini Comune di Bari"", ""Link"": ""http://www.comune.bari.it/-/contenimento-e-gestione-dell-emergenza-epidemiologica-pronto-il-piano-di-azioni-e-misure-dell-assessorato-al-welfare-a-sostegno-delle-persone-fragili-?fbclid=IwAR0lceZqsTe1MY-_fVp9QhylEFQAF3UAuB_mPoosKzBxgQBhJIgF888WB4c"", ""Natura"": ""solidale"", ""Posizione"": ""41.11588 16.856787 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Ricerca volontari commissioni a domicilio Comune di #Bari""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/422,581244277,2020-03-16 23:02:06,2020-03-14 15:04:33,Cercasi volontari per commissioni a domicilio - Comune di #Bari,41.11588,16.856787,"[""Bollettino"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Comune"": ""Bari"", ""Da_chi_offerta"": ""Comune di Bari"", ""Descrizione"": ""VORRESTI DIVENTARE VOLONTARIO/A per aiutare nelle consegne a domicilio di beni alimentari, di prima necessit\u00e0 e farmaci, per i cittadini in difficolt\u00e0 che ne faranno richiesta?\n\nPossono aderire volontari appartenenti ad associazioni, ma anche singoli cittadini, inviando la propria disponibilit\u00e0 alla mail segreteriawelfarebari@comune.bari.it."", ""Destinatari"": ""Associazioni, cittadine e cittadini Comune di Bari"", ""Link"": ""http://www.comune.bari.it/-/contenimento-e-gestione-dell-emergenza-epidemiologica-pronto-il-piano-di-azioni-e-misure-dell-assessorato-al-welfare-a-sostegno-delle-persone-fragili-?fbclid=IwAR0lceZqsTe1MY-_fVp9QhylEFQAF3UAuB_mPoosKzBxgQBhJIgF888WB4c"", ""Natura"": ""solidale"", ""Posizione"": ""41.11588 16.856787 0 0"", ""Provincia"": ""-"", ""Regione"": ""Puglia"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Ricerca volontari commissioni a domicilio Comune di #Bari""}","<pre><yamldata>
+Comune: Bari
 Da_chi_offerta: Comune di Bari
-Descrizione: 'VORRESTI DIVENTARE VOLONTARIO/A per aiutare nelle consegne a domicilio
-  di beni alimentari, di prima necessità e farmaci, per i cittadini in difficoltà
-  che ne faranno richiesta?
-
-
-  Possono aderire volontari appartenenti ad associazioni, ma anche singoli cittadini,
-  inviando la propria disponibilità alla mail segreteriawelfarebari@comune.bari.it.'
+Descrizione: ""VORRESTI DIVENTARE VOLONTARIO/A per aiutare nelle consegne a domicilio\
+  \ di beni alimentari, di prima necessit\xE0 e farmaci, per i cittadini in difficolt\xE0\
+  \ che ne faranno richiesta?\n\nPossono aderire volontari appartenenti ad associazioni,\
+  \ ma anche singoli cittadini, inviando la propria disponibilit\xE0 alla mail segreteriawelfarebari@comune.bari.it.""
 Destinatari: Associazioni, cittadine e cittadini Comune di Bari
 Link: http://www.comune.bari.it/-/contenimento-e-gestione-dell-emergenza-epidemiologica-pronto-il-piano-di-azioni-e-misure-dell-assessorato-al-welfare-a-sostegno-delle-persone-fragili-?fbclid=IwAR0lceZqsTe1MY-_fVp9QhylEFQAF3UAuB_mPoosKzBxgQBhJIgF888WB4c
 Natura: solidale
 Posizione: 41.11588 16.856787 0 0
+Provincia: '-'
+Regione: Puglia
 Tipo_di_soggetto: pubblico
 Titolo: 'Ricerca volontari commissioni a domicilio Comune di #Bari'
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/421,581242389,2020-03-14 15:04:15,2020-03-14 14:59:25,Consegne e commissioni a domicilio Comune di #Bari,41.125255,16.86199,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Bari"", ""Descrizione"": ""L\u2019assessorato al Welfare ha istituto un piano di sostegno per le persone sole e over 70 in isolamento domiciliare, soggetti vulnerabili asintomatici e i cittadini non autosufficienti e con disabilit\u00e0.\nCon il supporto di una rete di volontari, saranno effettuate consegne a domicilio di beni alimentari, di prima necessit\u00e0 e farmaci, per i cittadini in difficolt\u00e0 che ne faranno richiesta.\n\nPer quanto riguarda la richiesta di spesa e farmaci domicilio, bisogna contattare:\n- il Segretariato sociale comunale dal luned\u00ec al venerd\u00ec, dalle ore 9.30 alle 13, e il marted\u00ec e gioved\u00ec anche nel pomeriggio, dalle ore 14.30 alle 17 (080 5772508)\n- la segreteria dell\u2019assessorato al Welfare dal luned\u00ec al venerd\u00ec, dalle ore 9 alle 13, e il marted\u00ec e gioved\u00ec anche nel pomeriggio, dalle ore 14.30 alle 17\n(segreteriawelfarebari@comune.bari.it. - 0805772523/2503).\n\nPer quanto riguarda le segnalazioni in merito a situazioni di forte isolamento e grave disagio, contattare:\n- il numero verde del Pronto Intervento Sociale - P.I.S. attivo h24 (800 093 470)\n- il Segretariato sociale comunale\n- il numero per l\u2019ascolto sociale in rete con Arci Bari, anche in lingua inglese e francese, dalle ore 16 alle 19 (393 8393197)."", ""Destinatari"": ""Cittadine e cittadini"", ""Link"": ""http://www.comune.bari.it/-/contenimento-e-gestione-dell-emergenza-epidemiologica-pronto-il-piano-di-azioni-e-misure-dell-assessorato-al-welfare-a-sostegno-delle-persone-fragili-?fbclid=IwAR2McKee_-6mK1VIwp1MhHV17HbjEVS-3LyCg4O9kjfvvutd5fyMQIBwe3I"", ""Natura"": ""solidale"", ""Posizione"": ""41.125255 16.86199 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Commissini Comune di #Bari""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/421,581242389,2020-03-16 23:02:08,2020-03-14 14:59:25,Consegne e commissioni a domicilio Comune di #Bari,41.125255,16.86199,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Comune"": ""Bari"", ""Da_chi_offerta"": ""Comune di Bari"", ""Descrizione"": ""L\u2019assessorato al Welfare ha istituto un piano di sostegno per le persone sole e over 70 in isolamento domiciliare, soggetti vulnerabili asintomatici e i cittadini non autosufficienti e con disabilit\u00e0.\nCon il supporto di una rete di volontari, saranno effettuate consegne a domicilio di beni alimentari, di prima necessit\u00e0 e farmaci, per i cittadini in difficolt\u00e0 che ne faranno richiesta.\n\nPer quanto riguarda la richiesta di spesa e farmaci domicilio, bisogna contattare:\n- il Segretariato sociale comunale dal luned\u00ec al venerd\u00ec, dalle ore 9.30 alle 13, e il marted\u00ec e gioved\u00ec anche nel pomeriggio, dalle ore 14.30 alle 17 (080 5772508)\n- la segreteria dell\u2019assessorato al Welfare dal luned\u00ec al venerd\u00ec, dalle ore 9 alle 13, e il marted\u00ec e gioved\u00ec anche nel pomeriggio, dalle ore 14.30 alle 17\n(segreteriawelfarebari@comune.bari.it. - 0805772523/2503).\n\nPer quanto riguarda le segnalazioni in merito a situazioni di forte isolamento e grave disagio, contattare:\n- il numero verde del Pronto Intervento Sociale - P.I.S. attivo h24 (800 093 470)\n- il Segretariato sociale comunale\n- il numero per l\u2019ascolto sociale in rete con Arci Bari, anche in lingua inglese e francese, dalle ore 16 alle 19 (393 8393197)."", ""Destinatari"": ""Cittadine e cittadini"", ""Link"": ""http://www.comune.bari.it/-/contenimento-e-gestione-dell-emergenza-epidemiologica-pronto-il-piano-di-azioni-e-misure-dell-assessorato-al-welfare-a-sostegno-delle-persone-fragili-?fbclid=IwAR2McKee_-6mK1VIwp1MhHV17HbjEVS-3LyCg4O9kjfvvutd5fyMQIBwe3I"", ""Natura"": ""solidale"", ""Posizione"": ""41.125255 16.86199 0 0"", ""Provincia"": ""-"", ""Regione"": ""Puglia"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Commissini Comune di #Bari""}","<pre><yamldata>
+Comune: Bari
 Da_chi_offerta: Comune di Bari
-Descrizione: 'L’assessorato al Welfare ha istituto un piano di sostegno per le persone
-  sole e over 70 in isolamento domiciliare, soggetti vulnerabili asintomatici e i
-  cittadini non autosufficienti e con disabilità.
-
-  Con il supporto di una rete di volontari, saranno effettuate consegne a domicilio
-  di beni alimentari, di prima necessità e farmaci, per i cittadini in difficoltà
-  che ne faranno richiesta.
-
-
-  Per quanto riguarda la richiesta di spesa e farmaci domicilio, bisogna contattare:
-
-  - il Segretariato sociale comunale dal lunedì al venerdì, dalle ore 9.30 alle 13,
-  e il martedì e giovedì anche nel pomeriggio, dalle ore 14.30 alle 17 (080 5772508)
-
-  - la segreteria dell’assessorato al Welfare dal lunedì al venerdì, dalle ore 9 alle
-  13, e il martedì e giovedì anche nel pomeriggio, dalle ore 14.30 alle 17
-
-  (segreteriawelfarebari@comune.bari.it. - 0805772523/2503).
-
-
-  Per quanto riguarda le segnalazioni in merito a situazioni di forte isolamento e
-  grave disagio, contattare:
-
-  - il numero verde del Pronto Intervento Sociale - P.I.S. attivo h24 (800 093 470)
-
-  - il Segretariato sociale comunale
-
-  - il numero per l’ascolto sociale in rete con Arci Bari, anche in lingua inglese
-  e francese, dalle ore 16 alle 19 (393 8393197).'
+Descrizione: ""L\u2019assessorato al Welfare ha istituto un piano di sostegno per le\
+  \ persone sole e over 70 in isolamento domiciliare, soggetti vulnerabili asintomatici\
+  \ e i cittadini non autosufficienti e con disabilit\xE0.\nCon il supporto di una\
+  \ rete di volontari, saranno effettuate consegne a domicilio di beni alimentari,\
+  \ di prima necessit\xE0 e farmaci, per i cittadini in difficolt\xE0 che ne faranno\
+  \ richiesta.\n\nPer quanto riguarda la richiesta di spesa e farmaci domicilio, bisogna\
+  \ contattare:\n- il Segretariato sociale comunale dal luned\xEC al venerd\xEC, dalle\
+  \ ore 9.30 alle 13, e il marted\xEC e gioved\xEC anche nel pomeriggio, dalle ore\
+  \ 14.30 alle 17 (080 5772508)\n- la segreteria dell\u2019assessorato al Welfare\
+  \ dal luned\xEC al venerd\xEC, dalle ore 9 alle 13, e il marted\xEC e gioved\xEC\
+  \ anche nel pomeriggio, dalle ore 14.30 alle 17\n(segreteriawelfarebari@comune.bari.it.\
+  \ - 0805772523/2503).\n\nPer quanto riguarda le segnalazioni in merito a situazioni\
+  \ di forte isolamento e grave disagio, contattare:\n- il numero verde del Pronto\
+  \ Intervento Sociale - P.I.S. attivo h24 (800 093 470)\n- il Segretariato sociale\
+  \ comunale\n- il numero per l\u2019ascolto sociale in rete con Arci Bari, anche\
+  \ in lingua inglese e francese, dalle ore 16 alle 19 (393 8393197).""
 Destinatari: Cittadine e cittadini
 Link: http://www.comune.bari.it/-/contenimento-e-gestione-dell-emergenza-epidemiologica-pronto-il-piano-di-azioni-e-misure-dell-assessorato-al-welfare-a-sostegno-delle-persone-fragili-?fbclid=IwAR2McKee_-6mK1VIwp1MhHV17HbjEVS-3LyCg4O9kjfvvutd5fyMQIBwe3I
 Natura: solidale
 Posizione: 41.125255 16.86199 0 0
+Provincia: '-'
+Regione: Puglia
 Tipo_di_soggetto: pubblico
 Titolo: 'Commissini Comune di #Bari'
 </yamldata></pre>",open
@@ -2462,7 +2451,8 @@ Destinatari: Medici Specialisti, Medici Specializzandi e Medici Laureati
 Indirizzo: 38.105943 15.659821 0 0
 Link: https://portale.regione.calabria.it/website/portaltemplates/view/view.cfm?17056
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/419,581237430,2020-03-14 18:16:07,2020-03-14 14:46:17,Gruppo mutuo aiuto #Torino ,45.076832,7.722674,"[""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Accademia auto mutuo aiuto Torino"", ""Descrizione"": ""Gruppo su FB per scambio informazioni controllate, risorse, indicazioni, riflessioni e vissuti emotivi. Monitorato dai facilitatori AMA dell'Accademia"", ""Destinatari"": ""Tutti"", ""Link"": ""https://www.facebook.com/groups/2767613633465934/"", ""Natura"": ""solidale"", ""Posizione"": ""45.076832 7.722674 0 14.661999702453613"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Accademia aito mutuo aiuto torino - gruppo""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/419,581237430,2020-03-16 23:02:10,2020-03-14 14:46:17,Gruppo mutuo aiuto #Torino ,45.076832,7.722674,"[""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Comune"": ""Torino"", ""Da_chi_offerta"": ""Accademia auto mutuo aiuto Torino"", ""Descrizione"": ""Gruppo su FB per scambio informazioni controllate, risorse, indicazioni, riflessioni e vissuti emotivi. Monitorato dai facilitatori AMA dell'Accademia"", ""Destinatari"": ""Tutti"", ""Link"": ""https://www.facebook.com/groups/2767613633465934/"", ""Natura"": ""solidale"", ""Posizione"": ""45.076832 7.722674 0 14.661999702453613"", ""Provincia"": ""-"", ""Regione"": ""Piemonte"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Accademia aito mutuo aiuto torino - gruppo""}","<pre><yamldata>
+Comune: Torino
 Da_chi_offerta: Accademia auto mutuo aiuto Torino
 Descrizione: Gruppo su FB per scambio informazioni controllate, risorse, indicazioni,
   riflessioni e vissuti emotivi. Monitorato dai facilitatori AMA dell'Accademia
@@ -2470,16 +2460,21 @@ Destinatari: Tutti
 Link: https://www.facebook.com/groups/2767613633465934/
 Natura: solidale
 Posizione: 45.076832 7.722674 0 14.661999702453613
+Provincia: '-'
+Regione: Piemonte
 Tipo_di_soggetto: pubblico
 Titolo: Accademia aito mutuo aiuto torino - gruppo
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/418,581229230,2020-03-14 15:21:33,2020-03-14 14:23:37,Consegne e commissioni a domicilio Comune di #Concorezzo (MB),45.593415,9.33532,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Servizi sociali per richieste di assistenza da parte degli anziani del territorio tel. 039.62800300"", ""Destinatari"": ""Anziani, over 65, persone affette da patologie croniche"", ""Link"": ""https://comune.concorezzo.mb.it/10022-coronavirus-il-comune-potenzia-la-consegna-pasti-a-domicilio-per-gli-anziani/"", ""Natura"": ""solidale"", ""Posizione"": ""45.593415 9.33532 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Pasti e medicine a domicilio""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/418,581229230,2020-03-16 23:02:12,2020-03-14 14:23:37,Consegne e commissioni a domicilio Comune di #Concorezzo (MB),45.593415,9.33532,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Comune"": ""Concorezzo"", ""Descrizione"": ""Servizi sociali per richieste di assistenza da parte degli anziani del territorio tel. 039.62800300"", ""Destinatari"": ""Anziani, over 65, persone affette da patologie croniche"", ""Link"": ""https://comune.concorezzo.mb.it/10022-coronavirus-il-comune-potenzia-la-consegna-pasti-a-domicilio-per-gli-anziani/"", ""Natura"": ""solidale"", ""Posizione"": ""45.593415 9.33532 0 0"", ""Provincia"": ""Monza e della Brianza"", ""Regione"": ""Lombardia"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Pasti e medicine a domicilio""}","<pre><yamldata>
+Comune: Concorezzo
 Descrizione: Servizi sociali per richieste di assistenza da parte degli anziani del
   territorio tel. 039.62800300
 Destinatari: Anziani, over 65, persone affette da patologie croniche
 Link: https://comune.concorezzo.mb.it/10022-coronavirus-il-comune-potenzia-la-consegna-pasti-a-domicilio-per-gli-anziani/
 Natura: solidale
 Posizione: 45.593415 9.33532 0 0
+Provincia: Monza e della Brianza
+Regione: Lombardia
 Tipo_di_soggetto: pubblico
 Titolo: Pasti e medicine a domicilio
 </yamldata></pre>",open
@@ -2499,218 +2494,188 @@ Link: https://covid19.skillando.com/
 Natura: sostegno-lavor
 Titolo: Skillando Digital Volunteering
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/416,581226476,2020-03-14 22:49:14,2020-03-14 14:15:30,Elenco di esercizi che offrono consegne gratuite a domicilio #Monza. ,45.594299,9.336421,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Farmacia Monterosa Farmacia (Anche consulenze telefoniche) 399420033\nSigma supermercato (generi alimentari e non) 0396040197\nIl fornaio di Vigan\u00f2 Roberto Panettiere 0396049291\nSolo natura Alimentari biologici (Freschi e confezionati)\u00a0 039647878\nGastronomia Bertoldi Gastronomia/ Piatti pronti 039648122\nFruit Garden Fruttivendolo 0396040429\nBrambilla frutta e verdura 0396040180\nSapore di Sicilia fruttivendolo 3339781266\nPescheria zermini pescivendolo 0395973939\nEnoteca Colombo di colombo Lorenzo enoteca (vini e acqua) 0396040976\nLaura e le sue torte pasticceria 0396043617\nL'edicola del centro Giornali, riviste, giochi e figurine 3336436497\nL'erboristeria di Ricci dottoressa Elisabetta 039648998\nPhotopiu studio Fotografie e non solo 039648411\nCaroleo Srl Idraulico, elettricista, impresa edile 3392793757\nIl mondo del cucito Servizi di sartoria 3203163560\nIl bouquet servizi floreali 0396040478\nOttica Panzeri ottico e vendita occhiali, lenti a contatto 3205329743\nAvantech\u00a0di Jacopo costa pronto intervento PC 0396908210\nAvantech\u00a0di Jacopo Costa pronto intervento elettrodomestici 039 5968321\nBiffi computer di Biffi Mauro Vendita e assistenza computer 0392913578\nVivere e viaggiare Agenzia Viaggi 0396908169\nSergio e ale Parrucchieri Uomo e Donna 0396040080\nL'edicola di vale Edicola giornali 0396040466\nL'angolo del pane panettiere 0396040410\nFarmacia comunale Farmacia 0396040081"", ""Natura"": ""solidale"", ""Posizione"": ""45.594299 9.336421 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Beni di prima necessit\u00e0, servizi e altri prodotti direttamente a casa""}","<pre><yamldata>
-Descrizione: 'Farmacia Monterosa Farmacia (Anche consulenze telefoniche) 399420033
-
-  Sigma supermercato (generi alimentari e non) 0396040197
-
-  Il fornaio di Viganò Roberto Panettiere 0396049291
-
-  Solo natura Alimentari biologici (Freschi e confezionati)  039647878
-
-  Gastronomia Bertoldi Gastronomia/ Piatti pronti 039648122
-
-  Fruit Garden Fruttivendolo 0396040429
-
-  Brambilla frutta e verdura 0396040180
-
-  Sapore di Sicilia fruttivendolo 3339781266
-
-  Pescheria zermini pescivendolo 0395973939
-
-  Enoteca Colombo di colombo Lorenzo enoteca (vini e acqua) 0396040976
-
-  Laura e le sue torte pasticceria 0396043617
-
-  L''edicola del centro Giornali, riviste, giochi e figurine 3336436497
-
-  L''erboristeria di Ricci dottoressa Elisabetta 039648998
-
-  Photopiu studio Fotografie e non solo 039648411
-
-  Caroleo Srl Idraulico, elettricista, impresa edile 3392793757
-
-  Il mondo del cucito Servizi di sartoria 3203163560
-
-  Il bouquet servizi floreali 0396040478
-
-  Ottica Panzeri ottico e vendita occhiali, lenti a contatto 3205329743
-
-  Avantech di Jacopo costa pronto intervento PC 0396908210
-
-  Avantech di Jacopo Costa pronto intervento elettrodomestici 039 5968321
-
-  Biffi computer di Biffi Mauro Vendita e assistenza computer 0392913578
-
-  Vivere e viaggiare Agenzia Viaggi 0396908169
-
-  Sergio e ale Parrucchieri Uomo e Donna 0396040080
-
-  L''edicola di vale Edicola giornali 0396040466
-
-  L''angolo del pane panettiere 0396040410
-
-  Farmacia comunale Farmacia 0396040081'
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/416,581226476,2020-03-16 23:02:14,2020-03-14 14:15:30,Elenco di esercizi che offrono consegne gratuite a domicilio #Monza. ,45.594299,9.336421,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Comune"": ""Concorezzo"", ""Descrizione"": ""Farmacia Monterosa Farmacia (Anche consulenze telefoniche) 399420033\nSigma supermercato (generi alimentari e non) 0396040197\nIl fornaio di Vigan\u00f2 Roberto Panettiere 0396049291\nSolo natura Alimentari biologici (Freschi e confezionati)\u00a0 039647878\nGastronomia Bertoldi Gastronomia/ Piatti pronti 039648122\nFruit Garden Fruttivendolo 0396040429\nBrambilla frutta e verdura 0396040180\nSapore di Sicilia fruttivendolo 3339781266\nPescheria zermini pescivendolo 0395973939\nEnoteca Colombo di colombo Lorenzo enoteca (vini e acqua) 0396040976\nLaura e le sue torte pasticceria 0396043617\nL'edicola del centro Giornali, riviste, giochi e figurine 3336436497\nL'erboristeria di Ricci dottoressa Elisabetta 039648998\nPhotopiu studio Fotografie e non solo 039648411\nCaroleo Srl Idraulico, elettricista, impresa edile 3392793757\nIl mondo del cucito Servizi di sartoria 3203163560\nIl bouquet servizi floreali 0396040478\nOttica Panzeri ottico e vendita occhiali, lenti a contatto 3205329743\nAvantech\u00a0di Jacopo costa pronto intervento PC 0396908210\nAvantech\u00a0di Jacopo Costa pronto intervento elettrodomestici 039 5968321\nBiffi computer di Biffi Mauro Vendita e assistenza computer 0392913578\nVivere e viaggiare Agenzia Viaggi 0396908169\nSergio e ale Parrucchieri Uomo e Donna 0396040080\nL'edicola di vale Edicola giornali 0396040466\nL'angolo del pane panettiere 0396040410\nFarmacia comunale Farmacia 0396040081"", ""Natura"": ""solidale"", ""Posizione"": ""45.594299 9.336421 0 0"", ""Provincia"": ""Monza e della Brianza"", ""Regione"": ""Lombardia"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Beni di prima necessit\u00e0, servizi e altri prodotti direttamente a casa""}","<pre><yamldata>
+Comune: Concorezzo
+Descrizione: ""Farmacia Monterosa Farmacia (Anche consulenze telefoniche) 399420033\n\
+  Sigma supermercato (generi alimentari e non) 0396040197\nIl fornaio di Vigan\xF2\
+  \ Roberto Panettiere 0396049291\nSolo natura Alimentari biologici (Freschi e confezionati)\_\
+  \ 039647878\nGastronomia Bertoldi Gastronomia/ Piatti pronti 039648122\nFruit Garden\
+  \ Fruttivendolo 0396040429\nBrambilla frutta e verdura 0396040180\nSapore di Sicilia\
+  \ fruttivendolo 3339781266\nPescheria zermini pescivendolo 0395973939\nEnoteca Colombo\
+  \ di colombo Lorenzo enoteca (vini e acqua) 0396040976\nLaura e le sue torte pasticceria\
+  \ 0396043617\nL'edicola del centro Giornali, riviste, giochi e figurine 3336436497\n\
+  L'erboristeria di Ricci dottoressa Elisabetta 039648998\nPhotopiu studio Fotografie\
+  \ e non solo 039648411\nCaroleo Srl Idraulico, elettricista, impresa edile 3392793757\n\
+  Il mondo del cucito Servizi di sartoria 3203163560\nIl bouquet servizi floreali\
+  \ 0396040478\nOttica Panzeri ottico e vendita occhiali, lenti a contatto 3205329743\n\
+  Avantech\_di Jacopo costa pronto intervento PC 0396908210\nAvantech\_di Jacopo Costa\
+  \ pronto intervento elettrodomestici 039 5968321\nBiffi computer di Biffi Mauro\
+  \ Vendita e assistenza computer 0392913578\nVivere e viaggiare Agenzia Viaggi 0396908169\n\
+  Sergio e ale Parrucchieri Uomo e Donna 0396040080\nL'edicola di vale Edicola giornali\
+  \ 0396040466\nL'angolo del pane panettiere 0396040410\nFarmacia comunale Farmacia\
+  \ 0396040081""
 Natura: solidale
 Posizione: 45.594299 9.336421 0 0
+Provincia: Monza e della Brianza
+Regione: Lombardia
 Tipo_di_soggetto: privato
-Titolo: Beni di prima necessità, servizi e altri prodotti direttamente a casa
+Titolo: ""Beni di prima necessit\xE0, servizi e altri prodotti direttamente a casa""
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/415,581218486,2020-03-14 22:49:48,2020-03-14 13:52:59,Municipio VIII Scuola di territorio - Contributi video per i più piccoli #Garbatella,41.870337,12.495975,"[""Attivita culturali e ricreative"", ""Bollettino"", ""Giochi/intrattenimento bambini"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Municipio Roma VIII Garbatella"", ""Descrizione"": ""Il Municipio VIII e le varie realt\u00e0 che compongono la sua comunit\u00e0 hanno pensato ad un modo alternativo per essere \u201crete di connessione\u201d anche nella gestione di questa emergenza. \n\nSi tratta di una piattaforma online che raccoglie una serie di contribuiti video (tra i tanti c\u2019\u00e8 anche il nostro con una breve lezione di giornalismo) destinati ai pi\u00f9 piccoli. \n\nIntrattenimento, storie, attivit\u00e0 e piccole lezioni appunto, per una formazione unica, divertente e alternativa.\nSupporto per screen reader attivato."", ""Destinatari"": ""bambini e bambine"", ""Link"": ""https://garbatella100x100.it/scuola-di-territorio/"", ""Natura"": ""solidale"", ""Posizione"": ""41.870337 12.495975 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Scuola di territorio - Contributi video per i pi\u00f9 piccoli""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/415,581218486,2020-03-16 23:02:15,2020-03-14 13:52:59,Municipio VIII Scuola di territorio - Contributi video per i più piccoli #Garbatella,41.870337,12.495975,"[""Attivita culturali e ricreative"", ""Bollettino"", ""Giochi/intrattenimento bambini"", ""accettato"", ""form""]",,,"{""Comune"": ""Roma"", ""Da_chi_offerta"": ""Municipio Roma VIII Garbatella"", ""Descrizione"": ""Il Municipio VIII e le varie realt\u00e0 che compongono la sua comunit\u00e0 hanno pensato ad un modo alternativo per essere \u201crete di connessione\u201d anche nella gestione di questa emergenza. \n\nSi tratta di una piattaforma online che raccoglie una serie di contribuiti video (tra i tanti c\u2019\u00e8 anche il nostro con una breve lezione di giornalismo) destinati ai pi\u00f9 piccoli. \n\nIntrattenimento, storie, attivit\u00e0 e piccole lezioni appunto, per una formazione unica, divertente e alternativa.\nSupporto per screen reader attivato."", ""Destinatari"": ""bambini e bambine"", ""Link"": ""https://garbatella100x100.it/scuola-di-territorio/"", ""Natura"": ""solidale"", ""Posizione"": ""41.870337 12.495975 0 0"", ""Provincia"": ""-"", ""Regione"": ""Lazio"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Scuola di territorio - Contributi video per i pi\u00f9 piccoli""}","<pre><yamldata>
+Comune: Roma
 Da_chi_offerta: Municipio Roma VIII Garbatella
-Descrizione: ""Il Municipio VIII e le varie realtà che compongono la sua comunità hanno\
-  \ pensato ad un modo alternativo per essere “rete di connessione” anche nella gestione\
-  \ di questa emergenza. \n\nSi tratta di una piattaforma online che raccoglie una\
-  \ serie di contribuiti video (tra i tanti c’è anche il nostro con una breve lezione\
-  \ di giornalismo) destinati ai più piccoli. \n\nIntrattenimento, storie, attività\
-  \ e piccole lezioni appunto, per una formazione unica, divertente e alternativa.\n\
-  Supporto per screen reader attivato.""
+Descrizione: ""Il Municipio VIII e le varie realt\xE0 che compongono la sua comunit\xE0\
+  \ hanno pensato ad un modo alternativo per essere \u201Crete di connessione\u201D\
+  \ anche nella gestione di questa emergenza. \n\nSi tratta di una piattaforma online\
+  \ che raccoglie una serie di contribuiti video (tra i tanti c\u2019\xE8 anche il\
+  \ nostro con una breve lezione di giornalismo) destinati ai pi\xF9 piccoli. \n\n\
+  Intrattenimento, storie, attivit\xE0 e piccole lezioni appunto, per una formazione\
+  \ unica, divertente e alternativa.\nSupporto per screen reader attivato.""
 Destinatari: bambini e bambine
 Link: https://garbatella100x100.it/scuola-di-territorio/
 Natura: solidale
 Posizione: 41.870337 12.495975 0 0
+Provincia: '-'
+Regione: Lazio
 Tipo_di_soggetto: pubblico
-Titolo: Scuola di territorio - Contributi video per i più piccoli
+Titolo: ""Scuola di territorio - Contributi video per i pi\xF9 piccoli""
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/414,581217545,2020-03-14 14:05:44,2020-03-14 13:50:21,Municipio Solidale VIII - Tutti i servizi attivi sul territorio #Roma,41.857198,12.480344,"[""Bollettino"", ""Informazioni utili"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Municipio Roma VIII"", ""Descrizione"": ""Siete soli in casa?\nChiamateci: 0640060606 servizio attivo dalle 9,00 alle 13,00\ne dalle 14,00 alle 18,00 dal luned\u00ec al venerd\u00ec\n\nSi tratta di una piattaforma online che raccoglie prima di tutto i servizi gi\u00e0 attivi sul territorio: \u201cDai supermercati che effettuano servizi a domicilio, fino alle farmacie. I cittadini possono contattare la piattaforma telefonicamente, per poi essere indirizzati ai vari servizi attivi o alla nostra rete di volontari che si sta pian piano attivando\u201d. \n\nAll\u2019interno del sito www.municipio-solidale.it sono presenti tutti i numeri per le emergenze, oltre alle informazioni sui servizi offerti sul territorio. \n\nCi sono anche i collegamenti alle altre due esperienze comunitarie attivate per combattere l\u2019isolamento e rendere queste giornate meno alienanti."", ""Destinatari"": ""abitanti di Roma"", ""Link"": ""www.municipio-solidale.it"", ""Natura"": ""solidale"", ""Posizione"": ""41.857198 12.480344 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Municipio Solidale VIII - Tutti i servizi attivi sul territorio #Roma""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/414,581217545,2020-03-16 23:02:17,2020-03-14 13:50:21,Municipio Solidale VIII - Tutti i servizi attivi sul territorio #Roma,41.857198,12.480344,"[""Bollettino"", ""Informazioni utili"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Comune"": ""Roma"", ""Da_chi_offerta"": ""Municipio Roma VIII"", ""Descrizione"": ""Siete soli in casa?\nChiamateci: 0640060606 servizio attivo dalle 9,00 alle 13,00\ne dalle 14,00 alle 18,00 dal luned\u00ec al venerd\u00ec\n\nSi tratta di una piattaforma online che raccoglie prima di tutto i servizi gi\u00e0 attivi sul territorio: \u201cDai supermercati che effettuano servizi a domicilio, fino alle farmacie. I cittadini possono contattare la piattaforma telefonicamente, per poi essere indirizzati ai vari servizi attivi o alla nostra rete di volontari che si sta pian piano attivando\u201d. \n\nAll\u2019interno del sito www.municipio-solidale.it sono presenti tutti i numeri per le emergenze, oltre alle informazioni sui servizi offerti sul territorio. \n\nCi sono anche i collegamenti alle altre due esperienze comunitarie attivate per combattere l\u2019isolamento e rendere queste giornate meno alienanti."", ""Destinatari"": ""abitanti di Roma"", ""Link"": ""www.municipio-solidale.it"", ""Natura"": ""solidale"", ""Posizione"": ""41.857198 12.480344 0 0"", ""Provincia"": ""-"", ""Regione"": ""Lazio"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Municipio Solidale VIII - Tutti i servizi attivi sul territorio #Roma""}","<pre><yamldata>
+Comune: Roma
 Da_chi_offerta: Municipio Roma VIII
 Descrizione: ""Siete soli in casa?\nChiamateci: 0640060606 servizio attivo dalle 9,00\
-  \ alle 13,00\ne dalle 14,00 alle 18,00 dal lunedì al venerdì\n\nSi tratta di una\
-  \ piattaforma online che raccoglie prima di tutto i servizi già attivi sul territorio:\
-  \ “Dai supermercati che effettuano servizi a domicilio, fino alle farmacie. I cittadini\
-  \ possono contattare la piattaforma telefonicamente, per poi essere indirizzati\
-  \ ai vari servizi attivi o alla nostra rete di volontari che si sta pian piano attivando”.\
-  \ \n\nAll’interno del sito www.municipio-solidale.it sono presenti tutti i numeri\
-  \ per le emergenze, oltre alle informazioni sui servizi offerti sul territorio.\
-  \ \n\nCi sono anche i collegamenti alle altre due esperienze comunitarie attivate\
-  \ per combattere l’isolamento e rendere queste giornate meno alienanti.""
+  \ alle 13,00\ne dalle 14,00 alle 18,00 dal luned\xEC al venerd\xEC\n\nSi tratta\
+  \ di una piattaforma online che raccoglie prima di tutto i servizi gi\xE0 attivi\
+  \ sul territorio: \u201CDai supermercati che effettuano servizi a domicilio, fino\
+  \ alle farmacie. I cittadini possono contattare la piattaforma telefonicamente,\
+  \ per poi essere indirizzati ai vari servizi attivi o alla nostra rete di volontari\
+  \ che si sta pian piano attivando\u201D. \n\nAll\u2019interno del sito www.municipio-solidale.it\
+  \ sono presenti tutti i numeri per le emergenze, oltre alle informazioni sui servizi\
+  \ offerti sul territorio. \n\nCi sono anche i collegamenti alle altre due esperienze\
+  \ comunitarie attivate per combattere l\u2019isolamento e rendere queste giornate\
+  \ meno alienanti.""
 Destinatari: abitanti di Roma
 Link: www.municipio-solidale.it
 Natura: solidale
 Posizione: 41.857198 12.480344 0 0
+Provincia: '-'
+Regione: Lazio
 Tipo_di_soggetto: pubblico
 Titolo: 'Municipio Solidale VIII - Tutti i servizi attivi sul territorio #Roma'
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/413,581216054,2020-03-14 22:51:47,2020-03-14 13:45:59,"Binario 95, Supporto Sociale per persone senza fissa dimora #Roma",41.900549,12.505112,"[""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Binario 95"", ""Descrizione"": ""A Roma, al Binario 95, all\u2019Help Center al magazzino Nextop MSC e al Rifugio Sant\u2019Anna per donne fragili, cos\u00ec come anche negli altri centri partner della nostra rete nazionale, gli operatori continuano a fornire l\u2019assistenza necessaria a chi ha pi\u00f9 bisogno, con una giusta informazione sulle procedure da adottare in caso di rischio, attraverso una cartellonistica multilingue semplificata e ben visibile. \n\nTel 06 44360793"", ""Destinatari"": ""senza fissa dimora"", ""Link"": ""https://www.binario95.it/emergenza-coronavirus-aiutaci-ad-aiutare-chi-non-ha-una-casa/"", ""Natura"": ""solidale"", ""Posizione"": ""41.900549 12.505112 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Supporto Sociale per senza fissa dimora #Roma""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/413,581216054,2020-03-16 23:02:19,2020-03-14 13:45:59,"Binario 95, Supporto Sociale per persone senza fissa dimora #Roma",41.900549,12.505112,"[""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Comune"": ""Roma"", ""Da_chi_offerta"": ""Binario 95"", ""Descrizione"": ""A Roma, al Binario 95, all\u2019Help Center al magazzino Nextop MSC e al Rifugio Sant\u2019Anna per donne fragili, cos\u00ec come anche negli altri centri partner della nostra rete nazionale, gli operatori continuano a fornire l\u2019assistenza necessaria a chi ha pi\u00f9 bisogno, con una giusta informazione sulle procedure da adottare in caso di rischio, attraverso una cartellonistica multilingue semplificata e ben visibile. \n\nTel 06 44360793"", ""Destinatari"": ""senza fissa dimora"", ""Link"": ""https://www.binario95.it/emergenza-coronavirus-aiutaci-ad-aiutare-chi-non-ha-una-casa/"", ""Natura"": ""solidale"", ""Posizione"": ""41.900549 12.505112 0 0"", ""Provincia"": ""-"", ""Regione"": ""Lazio"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Supporto Sociale per senza fissa dimora #Roma""}","<pre><yamldata>
+Comune: Roma
 Da_chi_offerta: Binario 95
-Descrizione: ""A Roma, al Binario 95, all’Help\
-  \ Center al magazzino Nextop MSC e al Rifugio Sant’Anna per donne fragili, così\
-  \ come anche negli altri centri partner della nostra rete nazionale, gli operatori\
-  \ continuano a fornire l’assistenza necessaria a chi ha più bisogno, con una giusta\
-  \ informazione sulle procedure da adottare in caso di rischio, attraverso una cartellonistica\
+Descrizione: ""A Roma, al Binario 95, all\u2019Help Center al magazzino Nextop MSC\
+  \ e al Rifugio Sant\u2019Anna per donne fragili, cos\xEC come anche negli altri\
+  \ centri partner della nostra rete nazionale, gli operatori continuano a fornire\
+  \ l\u2019assistenza necessaria a chi ha pi\xF9 bisogno, con una giusta informazione\
+  \ sulle procedure da adottare in caso di rischio, attraverso una cartellonistica\
   \ multilingue semplificata e ben visibile. \n\nTel 06 44360793""
 Destinatari: senza fissa dimora
 Link: https://www.binario95.it/emergenza-coronavirus-aiutaci-ad-aiutare-chi-non-ha-una-casa/
 Natura: solidale
 Posizione: 41.900549 12.505112 0 0
+Provincia: '-'
+Regione: Lazio
 Tipo_di_soggetto: privato
 Titolo: 'Supporto Sociale per senza fissa dimora #Roma'
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/412,581213771,2020-03-14 22:52:28,2020-03-14 13:39:35,"Ass. Naga, Traduzioni Vademecum Ministero della Salute #Milano",45.464266,9.188284,"[""Bollettino"", ""Informazioni utili"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Associazione Naga Milano"", ""Descrizione"": ""Volantini in italiano, inglese, francese, spagnolo, arabo, cinese, rumeno, albanese, somalo, urdu, portoghese, bengali, punjabi, russo, amarico, tigrino, cingalese.\n\nEcco le traduzioni del vademecum del Ministero della Salute sui comportamenti da tenere per fronteggiare il nuovo coronavirus.\nAnche nell'occasione di questo nuovo aggiornamento ringraziamo le persone che hanno collaborato con noi e le realt\u00e0 che hanno messo a disposizione i loro materiali: Il Grande Colibr\u00ec, Arci nazionale, Progetto Integrazione Cooperativa Sociale ONLUS e Qub\u00ec Padova\n#noiincontriamopersone\nQui il link alla pagina del Naga (https://naga.it/\u2026/traduzioni-decalogo-del-ministero-per-il\u2026/)"", ""Destinatari"": ""persone di origine straniera"", ""Link"": ""https://naga.it/2020/03/13/traduzioni-decalogo-del-ministero-per-il-coronavirus/"", ""Natura"": ""solidale"", ""Posizione"": ""45.464266 9.188284 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Traduzioni del vademecum del Ministero della Salute""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/412,581213771,2020-03-16 23:02:20,2020-03-14 13:39:35,"Ass. Naga, Traduzioni Vademecum Ministero della Salute #Milano",45.464266,9.188284,"[""Bollettino"", ""Informazioni utili"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Comune"": ""Milano"", ""Da_chi_offerta"": ""Associazione Naga Milano"", ""Descrizione"": ""Volantini in italiano, inglese, francese, spagnolo, arabo, cinese, rumeno, albanese, somalo, urdu, portoghese, bengali, punjabi, russo, amarico, tigrino, cingalese.\n\nEcco le traduzioni del vademecum del Ministero della Salute sui comportamenti da tenere per fronteggiare il nuovo coronavirus.\nAnche nell'occasione di questo nuovo aggiornamento ringraziamo le persone che hanno collaborato con noi e le realt\u00e0 che hanno messo a disposizione i loro materiali: Il Grande Colibr\u00ec, Arci nazionale, Progetto Integrazione Cooperativa Sociale ONLUS e Qub\u00ec Padova\n#noiincontriamopersone\nQui il link alla pagina del Naga (https://naga.it/\u2026/traduzioni-decalogo-del-ministero-per-il\u2026/)"", ""Destinatari"": ""persone di origine straniera"", ""Link"": ""https://naga.it/2020/03/13/traduzioni-decalogo-del-ministero-per-il-coronavirus/"", ""Natura"": ""solidale"", ""Posizione"": ""45.464266 9.188284 0 0"", ""Provincia"": ""-"", ""Regione"": ""Lombardia"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Traduzioni del vademecum del Ministero della Salute""}","<pre><yamldata>
+Comune: Milano
 Da_chi_offerta: Associazione Naga Milano
-Descrizione: 'Volantini in italiano, inglese, francese, spagnolo, arabo, cinese, rumeno,
-  albanese, somalo, urdu, portoghese, bengali, punjabi, russo, amarico, tigrino, cingalese.
-
-
-  Ecco le traduzioni del vademecum del Ministero della Salute sui comportamenti da
-  tenere per fronteggiare il nuovo coronavirus.
-
-  Anche nell''occasione di questo nuovo aggiornamento ringraziamo le persone che hanno
-  collaborato con noi e le realtà che hanno messo a disposizione i loro materiali:
-  Il Grande Colibrì, Arci nazionale, Progetto Integrazione Cooperativa Sociale ONLUS
-  e Qubì Padova
-
-  #noiincontriamopersone
-
-  Qui il link alla pagina del Naga (https://naga.it/…/traduzioni-decalogo-del-ministero-per-il…/)'
+Descrizione: ""Volantini in italiano, inglese, francese, spagnolo, arabo, cinese, rumeno,\
+  \ albanese, somalo, urdu, portoghese, bengali, punjabi, russo, amarico, tigrino,\
+  \ cingalese.\n\nEcco le traduzioni del vademecum del Ministero della Salute sui\
+  \ comportamenti da tenere per fronteggiare il nuovo coronavirus.\nAnche nell'occasione\
+  \ di questo nuovo aggiornamento ringraziamo le persone che hanno collaborato con\
+  \ noi e le realt\xE0 che hanno messo a disposizione i loro materiali: Il Grande\
+  \ Colibr\xEC, Arci nazionale, Progetto Integrazione Cooperativa Sociale ONLUS e\
+  \ Qub\xEC Padova\n#noiincontriamopersone\nQui il link alla pagina del Naga (https://naga.it/\u2026\
+  /traduzioni-decalogo-del-ministero-per-il\u2026/)""
 Destinatari: persone di origine straniera
 Link: https://naga.it/2020/03/13/traduzioni-decalogo-del-ministero-per-il-coronavirus/
 Natura: solidale
 Posizione: 45.464266 9.188284 0 0
+Provincia: '-'
+Regione: Lombardia
 Tipo_di_soggetto: privato
 Titolo: Traduzioni del vademecum del Ministero della Salute
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/411,581212624,2020-03-14 14:17:53,2020-03-14 13:36:16,"Laboratorio Salute Popolare, Supporto psicologico e traduzione informazioni sanitarie #Bologna",44.493564,11.355499,"[""Bollettino"", ""Informazioni utili"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Laboratorio Salute Popolare #Bologna"", ""Descrizione"": ""Abbiamo attivato un SERVIZIO DI SUPPORTO PSICOLOGICO TELEFONICO gratuito e di TRADUZIONE DI ALCUNE INFORMAZIONI SANITARIE ESSENZIALI per venire incontro alle esigenze di chi \u00e8 privo di reti sociali, conosce poco la lingua ed \u00e8 disorientato o spaesato dalla situazione, in modo da creare comunit\u00e0 e supporto reciproco per non lasciare indietro nessun*\n\nPer supporto psicologico: 3928959198 (Francesco)\n3383245092 (Diego)\nPer informazioni mediche: 3511226865"", ""Destinatari"": ""tutti e tutte"", ""Link"": ""https://www.facebook.com/labsalutepopolare/photos/rpp.814582445273714/2979861348745802/?type=3&theater"", ""Natura"": ""solidale"", ""Posizione"": ""44.493564 11.355499 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Supporto psicologico e traduzione informazioni sanitarie #Bologna""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/411,581212624,2020-03-16 23:02:22,2020-03-14 13:36:16,"Laboratorio Salute Popolare, Supporto psicologico e traduzione informazioni sanitarie #Bologna",44.493564,11.355499,"[""Bollettino"", ""Informazioni utili"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Comune"": ""Bologna"", ""Da_chi_offerta"": ""Laboratorio Salute Popolare #Bologna"", ""Descrizione"": ""Abbiamo attivato un SERVIZIO DI SUPPORTO PSICOLOGICO TELEFONICO gratuito e di TRADUZIONE DI ALCUNE INFORMAZIONI SANITARIE ESSENZIALI per venire incontro alle esigenze di chi \u00e8 privo di reti sociali, conosce poco la lingua ed \u00e8 disorientato o spaesato dalla situazione, in modo da creare comunit\u00e0 e supporto reciproco per non lasciare indietro nessun*\n\nPer supporto psicologico: 3928959198 (Francesco)\n3383245092 (Diego)\nPer informazioni mediche: 3511226865"", ""Destinatari"": ""tutti e tutte"", ""Link"": ""https://www.facebook.com/labsalutepopolare/photos/rpp.814582445273714/2979861348745802/?type=3&theater"", ""Natura"": ""solidale"", ""Posizione"": ""44.493564 11.355499 0 0"", ""Provincia"": ""-"", ""Regione"": ""Emilia-Romagna"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Supporto psicologico e traduzione informazioni sanitarie #Bologna""}","<pre><yamldata>
+Comune: Bologna
 Da_chi_offerta: 'Laboratorio Salute Popolare #Bologna'
-Descrizione: 'Abbiamo attivato un SERVIZIO DI SUPPORTO PSICOLOGICO TELEFONICO gratuito
-  e di TRADUZIONE DI ALCUNE INFORMAZIONI SANITARIE ESSENZIALI per venire incontro
-  alle esigenze di chi è privo di reti sociali, conosce poco la lingua ed è disorientato
-  o spaesato dalla situazione, in modo da creare comunità e supporto reciproco per
-  non lasciare indietro nessun*
-
-
-  Per supporto psicologico: 3928959198 (Francesco)
-
-  3383245092 (Diego)
-
-  Per informazioni mediche: 3511226865'
+Descrizione: ""Abbiamo attivato un SERVIZIO DI SUPPORTO PSICOLOGICO TELEFONICO gratuito\
+  \ e di TRADUZIONE DI ALCUNE INFORMAZIONI SANITARIE ESSENZIALI per venire incontro\
+  \ alle esigenze di chi \xE8 privo di reti sociali, conosce poco la lingua ed \xE8\
+  \ disorientato o spaesato dalla situazione, in modo da creare comunit\xE0 e supporto\
+  \ reciproco per non lasciare indietro nessun*\n\nPer supporto psicologico: 3928959198\
+  \ (Francesco)\n3383245092 (Diego)\nPer informazioni mediche: 3511226865""
 Destinatari: tutti e tutte
 Link: https://www.facebook.com/labsalutepopolare/photos/rpp.814582445273714/2979861348745802/?type=3&theater
 Natura: solidale
 Posizione: 44.493564 11.355499 0 0
+Provincia: '-'
+Regione: Emilia-Romagna
 Tipo_di_soggetto: privato
 Titolo: 'Supporto psicologico e traduzione informazioni sanitarie #Bologna'
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/410,581207945,2020-03-14 14:19:17,2020-03-14 13:22:51,"Ass.NuovaMente, Spesa e medicinali a domicilio #Rosarno",38.486315,15.977085,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Associazione NuovaMente"", ""Descrizione"": ""Il coronavirus ci limita nel darci la mano, ma non nel darci una mano. \nL'associazione NuovaMente \u00e8 a disposizione per tutte le persone che avessero bisogno di qualcosa, di un aiuto, che sia fare la spesa,  acquistare e ritirare le medicine.\n\nContatto per chi ha bisogno: 393 968 3720"", ""Destinatari"": ""anziani e persone con problemi di salute"", ""Link"": ""https://m.facebook.com/associazionenuovamenterosarno/photos/a.374418266081465/1240518099471473/?type=3&source=48"", ""Natura"": ""solidale"", ""Posizione"": ""38.486315 15.977085 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Spesa e medicinali a domicilio #Rosarno""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/410,581207945,2020-03-16 23:02:24,2020-03-14 13:22:51,"Ass.NuovaMente, Spesa e medicinali a domicilio #Rosarno",38.486315,15.977085,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Comune"": ""Rosarno"", ""Da_chi_offerta"": ""Associazione NuovaMente"", ""Descrizione"": ""Il coronavirus ci limita nel darci la mano, ma non nel darci una mano. \nL'associazione NuovaMente \u00e8 a disposizione per tutte le persone che avessero bisogno di qualcosa, di un aiuto, che sia fare la spesa,  acquistare e ritirare le medicine.\n\nContatto per chi ha bisogno: 393 968 3720"", ""Destinatari"": ""anziani e persone con problemi di salute"", ""Link"": ""https://m.facebook.com/associazionenuovamenterosarno/photos/a.374418266081465/1240518099471473/?type=3&source=48"", ""Natura"": ""solidale"", ""Posizione"": ""38.486315 15.977085 0 0"", ""Provincia"": ""-"", ""Regione"": ""Calabria"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Spesa e medicinali a domicilio #Rosarno""}","<pre><yamldata>
+Comune: Rosarno
 Da_chi_offerta: Associazione NuovaMente
 Descrizione: ""Il coronavirus ci limita nel darci la mano, ma non nel darci una mano.\
-  \ \nL'associazione NuovaMente è a disposizione per tutte le persone che avessero\
+  \ \nL'associazione NuovaMente \xE8 a disposizione per tutte le persone che avessero\
   \ bisogno di qualcosa, di un aiuto, che sia fare la spesa,  acquistare e ritirare\
   \ le medicine.\n\nContatto per chi ha bisogno: 393 968 3720""
 Destinatari: anziani e persone con problemi di salute
 Link: https://m.facebook.com/associazionenuovamenterosarno/photos/a.374418266081465/1240518099471473/?type=3&source=48
 Natura: solidale
 Posizione: 38.486315 15.977085 0 0
+Provincia: '-'
+Regione: Calabria
 Tipo_di_soggetto: privato
 Titolo: 'Spesa e medicinali a domicilio #Rosarno'
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/409,581205830,2020-03-14 14:20:28,2020-03-14 13:16:44,"La Confraternità dell'uvo, Consegna libri a domicilio #Bologna",44.494185,11.342635,"[""Bollettino"", ""Consegne e commissioni"", ""Richiesta aiuto"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""La Confraternita dell'Uva - Libreria, Caf\u00e9, Wine Bar"", ""Descrizione"": ""Se cessassimo del tutto le nostre attivit\u00e0 in questo momento, non potremmo pi\u00f9 riprenderle quando tutto sar\u00e0 tornato alla normalit\u00e0, e speriamo, naturalmente, che ci\u00f2 accada presto.\n\nPer questo vi ricordiamo che se volete sostenerci anche a distanza, SPEDIAMO LIBRI IN TUTTA ITALIA con pieghi di libri (#spedizionegratuita a partire dai 30\u20ac).\n\nVI RICORDIAMO CHE: potete ordinare qualsiasi libro desideriate direttamente da casa, utilizzando il portale GoodBook.it (www.goodbook.it), ritirandolo e pagando direttamente nella nostra libreria senza alcuna spesa di spedizione alla #riapertura.\nAl momento purtroppo non si sa quando i magazzini e i distributori riprenderanno a consegnare.\n\nSe possibile (stiamo ancora cercando di capire se si pu\u00f2 ancora) riprenderemo nella citt\u00e0 di #Bologna CONSEGNA A DOMICILIO GRATUITO in #biciletta di #libri e contr\u00f3ra vini!\n\nScriveteci all'indirizzo barlibrerialaconfraternita@gmail.com per maggiori #info e #ordini."", ""Destinatari"": ""abitanti di Bologna"", ""Link"": ""https://www.facebook.com/La-confraternita-delluva-Libreria-Caf%C3%A8-Wine-Bar-224098721349631/?__tn__=kC-R&eid=ARBJMTEcAlCwyV4Q0No0oKy9Yvnn-zOOdsitKejYbRFeuyc5Om0cEiahwPOBiSQVD1J4L9mFcZRpv8rt&hc_ref=ARSHkCYCyrDjPWCU5KaRV3uf3wTwl2Pu39csvWtcX2PvLvT4ys_wQpnJrd35vXZqJSc&fref=nf"", ""Natura"": ""solidale"", ""Posizione"": ""44.494185 11.342635 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Consegna libri a domicilio gratuito #Bologna""}","<pre><yamldata>
-Da_chi_offerta: La Confraternita dell'Uva - Libreria, Café, Wine Bar
-Descrizione: 'Se cessassimo del tutto le nostre attività in questo momento, non potremmo
-  più riprenderle quando tutto sarà tornato alla normalità, e speriamo, naturalmente,
-  che ciò accada presto.
-
-
-  Per questo vi ricordiamo che se volete sostenerci anche a distanza, SPEDIAMO LIBRI
-  IN TUTTA ITALIA con pieghi di libri (#spedizionegratuita a partire dai 30€).
-
-
-  VI RICORDIAMO CHE: potete ordinare qualsiasi libro desideriate direttamente da casa,
-  utilizzando il portale GoodBook.it (www.goodbook.it), ritirandolo e pagando direttamente
-  nella nostra libreria senza alcuna spesa di spedizione alla #riapertura.
-
-  Al momento purtroppo non si sa quando i magazzini e i distributori riprenderanno
-  a consegnare.
-
-
-  Se possibile (stiamo ancora cercando di capire se si può ancora) riprenderemo nella
-  città di #Bologna CONSEGNA A DOMICILIO GRATUITO in #biciletta di #libri e contróra
-  vini!
-
-
-  Scriveteci all''indirizzo barlibrerialaconfraternita@gmail.com per maggiori #info
-  e #ordini.'
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/409,581205830,2020-03-16 23:02:25,2020-03-14 13:16:44,"La Confraternità dell'uvo, Consegna libri a domicilio #Bologna",44.494185,11.342635,"[""Bollettino"", ""Consegne e commissioni"", ""Richiesta aiuto"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Comune"": ""Bologna"", ""Da_chi_offerta"": ""La Confraternita dell'Uva - Libreria, Caf\u00e9, Wine Bar"", ""Descrizione"": ""Se cessassimo del tutto le nostre attivit\u00e0 in questo momento, non potremmo pi\u00f9 riprenderle quando tutto sar\u00e0 tornato alla normalit\u00e0, e speriamo, naturalmente, che ci\u00f2 accada presto.\n\nPer questo vi ricordiamo che se volete sostenerci anche a distanza, SPEDIAMO LIBRI IN TUTTA ITALIA con pieghi di libri (#spedizionegratuita a partire dai 30\u20ac).\n\nVI RICORDIAMO CHE: potete ordinare qualsiasi libro desideriate direttamente da casa, utilizzando il portale GoodBook.it (www.goodbook.it), ritirandolo e pagando direttamente nella nostra libreria senza alcuna spesa di spedizione alla #riapertura.\nAl momento purtroppo non si sa quando i magazzini e i distributori riprenderanno a consegnare.\n\nSe possibile (stiamo ancora cercando di capire se si pu\u00f2 ancora) riprenderemo nella citt\u00e0 di #Bologna CONSEGNA A DOMICILIO GRATUITO in #biciletta di #libri e contr\u00f3ra vini!\n\nScriveteci all'indirizzo barlibrerialaconfraternita@gmail.com per maggiori #info e #ordini."", ""Destinatari"": ""abitanti di Bologna"", ""Link"": ""https://www.facebook.com/La-confraternita-delluva-Libreria-Caf%C3%A8-Wine-Bar-224098721349631/?__tn__=kC-R&eid=ARBJMTEcAlCwyV4Q0No0oKy9Yvnn-zOOdsitKejYbRFeuyc5Om0cEiahwPOBiSQVD1J4L9mFcZRpv8rt&hc_ref=ARSHkCYCyrDjPWCU5KaRV3uf3wTwl2Pu39csvWtcX2PvLvT4ys_wQpnJrd35vXZqJSc&fref=nf"", ""Natura"": ""solidale"", ""Posizione"": ""44.494185 11.342635 0 0"", ""Provincia"": ""-"", ""Regione"": ""Emilia-Romagna"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Consegna libri a domicilio gratuito #Bologna""}","<pre><yamldata>
+Comune: Bologna
+Da_chi_offerta: ""La Confraternita dell'Uva - Libreria, Caf\xE9, Wine Bar""
+Descrizione: ""Se cessassimo del tutto le nostre attivit\xE0 in questo momento, non\
+  \ potremmo pi\xF9 riprenderle quando tutto sar\xE0 tornato alla normalit\xE0, e\
+  \ speriamo, naturalmente, che ci\xF2 accada presto.\n\nPer questo vi ricordiamo\
+  \ che se volete sostenerci anche a distanza, SPEDIAMO LIBRI IN TUTTA ITALIA con\
+  \ pieghi di libri (#spedizionegratuita a partire dai 30\u20AC).\n\nVI RICORDIAMO\
+  \ CHE: potete ordinare qualsiasi libro desideriate direttamente da casa, utilizzando\
+  \ il portale GoodBook.it (www.goodbook.it), ritirandolo e pagando direttamente nella\
+  \ nostra libreria senza alcuna spesa di spedizione alla #riapertura.\nAl momento\
+  \ purtroppo non si sa quando i magazzini e i distributori riprenderanno a consegnare.\n\
+  \nSe possibile (stiamo ancora cercando di capire se si pu\xF2 ancora) riprenderemo\
+  \ nella citt\xE0 di #Bologna CONSEGNA A DOMICILIO GRATUITO in #biciletta di #libri\
+  \ e contr\xF3ra vini!\n\nScriveteci all'indirizzo barlibrerialaconfraternita@gmail.com\
+  \ per maggiori #info e #ordini.""
 Destinatari: abitanti di Bologna
 Link: https://www.facebook.com/La-confraternita-delluva-Libreria-Caf%C3%A8-Wine-Bar-224098721349631/?__tn__=kC-R&eid=ARBJMTEcAlCwyV4Q0No0oKy9Yvnn-zOOdsitKejYbRFeuyc5Om0cEiahwPOBiSQVD1J4L9mFcZRpv8rt&hc_ref=ARSHkCYCyrDjPWCU5KaRV3uf3wTwl2Pu39csvWtcX2PvLvT4ys_wQpnJrd35vXZqJSc&fref=nf
 Natura: solidale
 Posizione: 44.494185 11.342635 0 0
+Provincia: '-'
+Regione: Emilia-Romagna
 Tipo_di_soggetto: privato
 Titolo: 'Consegna libri a domicilio gratuito #Bologna'
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/407,581178910,2020-03-14 12:19:45,2020-03-14 12:06:21,Didattica a distanza offerta da TEDx #Varese,45.821218,8.825834,"[""Attivita culturali e ricreative"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""TEDx Varese"", ""Descrizione"": ""TED x Varese ha implementato un\u2019area per supportare i docenti e le scuole che vogliono attivare forme di didattica a distanza avvalendosi di contenuti e strumenti gratuiti messi a disposizione da TED-Ed, il programma di TED dedicato all\u2019educazione.\nScopritela qui: https://www.tedxvarese.com/studenti/"", ""Destinatari"": ""Docenti"", ""Link"": ""https://www.tedxvarese.com/studenti/?fbclid=IwAR2hqJLrasgtasc_YvT9kgPoaoqv1YUGOR1H8B8q5WMdKUiBnbWXjRPTQwE"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""45.821218 8.825834 0 0"", ""Titolo"": ""Didattica a distanza offerta da TEDx #Varese""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/407,581178910,2020-03-16 23:02:27,2020-03-14 12:06:21,Didattica a distanza offerta da TEDx #Varese,45.821218,8.825834,"[""Attivita culturali e ricreative"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Comune"": ""Varese"", ""Da_chi_offerta"": ""TEDx Varese"", ""Descrizione"": ""TED x Varese ha implementato un\u2019area per supportare i docenti e le scuole che vogliono attivare forme di didattica a distanza avvalendosi di contenuti e strumenti gratuiti messi a disposizione da TED-Ed, il programma di TED dedicato all\u2019educazione.\nScopritela qui: https://www.tedxvarese.com/studenti/"", ""Destinatari"": ""Docenti"", ""Link"": ""https://www.tedxvarese.com/studenti/?fbclid=IwAR2hqJLrasgtasc_YvT9kgPoaoqv1YUGOR1H8B8q5WMdKUiBnbWXjRPTQwE"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""45.821218 8.825834 0 0"", ""Provincia"": ""Varese"", ""Regione"": ""Lombardia"", ""Titolo"": ""Didattica a distanza offerta da TEDx #Varese""}","<pre><yamldata>
+Comune: Varese
 Da_chi_offerta: TEDx Varese
-Descrizione: 'TED x Varese ha implementato un’area per supportare i docenti e le scuole
-  che vogliono attivare forme di didattica a distanza avvalendosi di contenuti e strumenti
-  gratuiti messi a disposizione da TED-Ed, il programma di TED dedicato all’educazione.
-
-  Scopritela qui: https://www.tedxvarese.com/studenti/'
+Descrizione: ""TED x Varese ha implementato un\u2019area per supportare i docenti e\
+  \ le scuole che vogliono attivare forme di didattica a distanza avvalendosi di contenuti\
+  \ e strumenti gratuiti messi a disposizione da TED-Ed, il programma di TED dedicato\
+  \ all\u2019educazione.\nScopritela qui: https://www.tedxvarese.com/studenti/""
 Destinatari: Docenti
 Link: https://www.tedxvarese.com/studenti/?fbclid=IwAR2hqJLrasgtasc_YvT9kgPoaoqv1YUGOR1H8B8q5WMdKUiBnbWXjRPTQwE
 Natura: culturale-ricr
 Posizione: 45.821218 8.825834 0 0
+Provincia: Varese
+Regione: Lombardia
 Titolo: 'Didattica a distanza offerta da TEDx #Varese'
-</yamldata></pre>
-",open
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/406,581176595,2020-03-15 23:56:24,2020-03-14 12:00:47,Pharmercure Consegna gratuita farmaci #Torino #Piemonte,,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""da sistemare"", ""form""]",,,{},"<pre><yamldata>
 Cosa: Consegna gratuita farmaci
 Descrizione: ""Non solo medici e infermieri, un sentito ringraziamento va anche ai\
@@ -2772,20 +2737,21 @@ Descrizione: Alcune testate giornalistiche parlano di una presunta profezia dell
   tutt'altro.
 Link: https://www.open.online/2020/03/14/la-profezia-di-bill-gates-sul-coronavirus-nel-2015-no-al-contrario-e-stato-fin-troppo-ottimista/
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/399,581166258,2020-03-14 22:32:36,2020-03-14 11:31:31,Fondo di mutuo soccorso del Comune di #Milano,45.463803,9.190744,"[""Bollettino"", ""Notizie"", ""Raccolte fondi"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Il Sindaco di Milano Giuseppe Sala ha annunciato la costituzione di un fondo di mutuo soccorso destinato ad aiutare coloro che pi\u00f9 di altri sono messi in difficolt\u00e0 dalla situazione che stiamo vivendo e, successivamente, a sostenere la ripresa delle attivit\u00e0 cittadine.\n\nIl fondo, che si aggiunge allo stanziamento di 3 milioni di euro gi\u00e0 approvato dal Consiglio comunale, \u00e8 aperto alla partecipazione economica di singoli cittadini, di imprese e associazioni che vogliano dare il loro contribuito."", ""IBAN"": ""IT58G0306901783100000000551"", ""Link"": ""https://www.comune.milano.it/-/coronavirus.-dal-comune-di-milano-un-fondo-di-mutuo-soccorso?fbclid=IwAR0K5HBZT6doOvefLdNJBhltnbsMgL2WGbGh2xHPBIt-5ek5ISH5cWFlY9M"", ""Nome"": ""Comune di Milano"", ""Posizione"": ""45.463803 9.190744 0 0""}","<pre><yamldata>
-Descrizione: 'Il Sindaco di Milano Giuseppe Sala ha annunciato la costituzione di
-  un fondo di mutuo soccorso destinato ad aiutare coloro che più di altri sono messi
-  in difficoltà dalla situazione che stiamo vivendo e, successivamente, a sostenere
-  la ripresa delle attività cittadine.
-
-
-  Il fondo, che si aggiunge allo stanziamento di 3 milioni di euro già approvato dal
-  Consiglio comunale, è aperto alla partecipazione economica di singoli cittadini,
-  di imprese e associazioni che vogliano dare il loro contribuito.'
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/399,581166258,2020-03-16 23:02:29,2020-03-14 11:31:31,Fondo di mutuo soccorso del Comune di #Milano,45.463803,9.190744,"[""Bollettino"", ""Notizie"", ""Raccolte fondi"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Comune"": ""Milano"", ""Descrizione"": ""Il Sindaco di Milano Giuseppe Sala ha annunciato la costituzione di un fondo di mutuo soccorso destinato ad aiutare coloro che pi\u00f9 di altri sono messi in difficolt\u00e0 dalla situazione che stiamo vivendo e, successivamente, a sostenere la ripresa delle attivit\u00e0 cittadine.\n\nIl fondo, che si aggiunge allo stanziamento di 3 milioni di euro gi\u00e0 approvato dal Consiglio comunale, \u00e8 aperto alla partecipazione economica di singoli cittadini, di imprese e associazioni che vogliano dare il loro contribuito."", ""IBAN"": ""IT58G0306901783100000000551"", ""Link"": ""https://www.comune.milano.it/-/coronavirus.-dal-comune-di-milano-un-fondo-di-mutuo-soccorso?fbclid=IwAR0K5HBZT6doOvefLdNJBhltnbsMgL2WGbGh2xHPBIt-5ek5ISH5cWFlY9M"", ""Nome"": ""Comune di Milano"", ""Posizione"": ""45.463803 9.190744 0 0"", ""Provincia"": ""-"", ""Regione"": ""Lombardia""}","<pre><yamldata>
+Comune: Milano
+Descrizione: ""Il Sindaco di Milano Giuseppe Sala ha annunciato la costituzione di\
+  \ un fondo di mutuo soccorso destinato ad aiutare coloro che pi\xF9 di altri sono\
+  \ messi in difficolt\xE0 dalla situazione che stiamo vivendo e, successivamente,\
+  \ a sostenere la ripresa delle attivit\xE0 cittadine.\n\nIl fondo, che si aggiunge\
+  \ allo stanziamento di 3 milioni di euro gi\xE0 approvato dal Consiglio comunale,\
+  \ \xE8 aperto alla partecipazione economica di singoli cittadini, di imprese e associazioni\
+  \ che vogliano dare il loro contribuito.""
 IBAN: IT58G0306901783100000000551
 Link: https://www.comune.milano.it/-/coronavirus.-dal-comune-di-milano-un-fondo-di-mutuo-soccorso?fbclid=IwAR0K5HBZT6doOvefLdNJBhltnbsMgL2WGbGh2xHPBIt-5ek5ISH5cWFlY9M
 Nome: Comune di Milano
 Posizione: 45.463803 9.190744 0 0
+Provincia: '-'
+Regione: Lombardia
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/398,581160614,2020-03-14 22:15:52,2020-03-14 11:14:27,Avviso pubblico manifestazione di interesse Medici Regione #Lombardia,,,"[""Bollettino"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""Avviso pubblico per manifestazione di interesse Medici Regione #Lombardia"", ""Descrizione"": ""Nell\u2019ambito dell\u2019emergenza sanitaria Coronavirus Regione Lombardia approva un avviso pubblico volto a raccogliere manifestazioni di interesse per prestare attivit\u00e0 assistenziale nelle Aziende/Enti Sanitari e Sociosanitari della Lombardia"", ""Destinatari"": ""Medici specialisti, medici specializzandi e medici laureati"", ""Indirizzo"": ""45.46442 9.188859 0 0"", ""Link"": ""https://www.regione.lombardia.it/wps/portal/istituzionale/HP/DettaglioBando/servizi-e-informazioni/enti-e-operatori/sistema-welfare/avviso-medici-specializzandi/avviso-medici-specializzandi""}","<pre><yamldata>
 Cosa: 'Avviso pubblico per manifestazione di interesse Medici Regione #Lombardia'
@@ -2796,91 +2762,73 @@ Destinatari: Medici specialisti, medici specializzandi e medici laureati
 Indirizzo: 45.46442 9.188859 0 0
 Link: https://www.regione.lombardia.it/wps/portal/istituzionale/HP/DettaglioBando/servizi-e-informazioni/enti-e-operatori/sistema-welfare/avviso-medici-specializzandi/avviso-medici-specializzandi
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/397,581160296,2020-03-14 11:49:48,2020-03-14 11:13:32,Consegna spesa e farmaci a domicilio Comune di #Jesi,43.523047,13.24439,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Jesi"", ""Descrizione"": ""SERVIZIO FARMACI A DOMICILIO   \nSi attiva chiamando il NUMERO VERDE 800-065510 ATTIVO TUTTI I GIORNI 24 ORE SU 24: il personale della CROCE ROSSA (CRI) riconoscibile dall'uniforme ritira la ricetta o il promemoria presso il medico e si reca presso la farmacia pi\u00f9 vicina al domicilio dell'utente.\n\nSi pu\u00f2 chiedere di essere inseriti in questo elenco compilando il modulo a questo indirizzo http://bit.ly/3aP723q"", ""Destinatari"": ""persone con oltre 65 anni o non autosufficienti, soggetti con tosse, febbre, soggetti a quarantena o positivi al COVID -19"", ""Link"": ""https://www.comune.jesi.an.it/articoli/Spesa-e-farmaci-a-domicilio/"", ""Natura"": ""solidale"", ""Posizione"": ""43.523047 13.24439 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Spesa e farmaci a domicilio""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/397,581160296,2020-03-16 23:02:30,2020-03-14 11:13:32,Consegna spesa e farmaci a domicilio Comune di #Jesi,43.523047,13.24439,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Comune"": ""Jesi"", ""Da_chi_offerta"": ""Comune di Jesi"", ""Descrizione"": ""SERVIZIO FARMACI A DOMICILIO   \nSi attiva chiamando il NUMERO VERDE 800-065510 ATTIVO TUTTI I GIORNI 24 ORE SU 24: il personale della CROCE ROSSA (CRI) riconoscibile dall'uniforme ritira la ricetta o il promemoria presso il medico e si reca presso la farmacia pi\u00f9 vicina al domicilio dell'utente.\n\nSi pu\u00f2 chiedere di essere inseriti in questo elenco compilando il modulo a questo indirizzo http://bit.ly/3aP723q"", ""Destinatari"": ""persone con oltre 65 anni o non autosufficienti, soggetti con tosse, febbre, soggetti a quarantena o positivi al COVID -19"", ""Link"": ""https://www.comune.jesi.an.it/articoli/Spesa-e-farmaci-a-domicilio/"", ""Natura"": ""solidale"", ""Posizione"": ""43.523047 13.24439 0 0"", ""Provincia"": ""Ancona"", ""Regione"": ""Marche"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Spesa e farmaci a domicilio""}","<pre><yamldata>
+Comune: Jesi
 Da_chi_offerta: Comune di Jesi
 Descrizione: ""SERVIZIO FARMACI A DOMICILIO   \nSi attiva chiamando il NUMERO VERDE\
   \ 800-065510 ATTIVO TUTTI I GIORNI 24 ORE SU 24: il personale della CROCE ROSSA\
   \ (CRI) riconoscibile dall'uniforme ritira la ricetta o il promemoria presso il\
-  \ medico e si reca presso la farmacia più vicina al domicilio dell'utente.\n\nSi\
-  \ può chiedere di essere inseriti in questo elenco compilando il modulo a questo\
+  \ medico e si reca presso la farmacia pi\xF9 vicina al domicilio dell'utente.\n\n\
+  Si pu\xF2 chiedere di essere inseriti in questo elenco compilando il modulo a questo\
   \ indirizzo http://bit.ly/3aP723q""
 Destinatari: persone con oltre 65 anni o non autosufficienti, soggetti con tosse,
   febbre, soggetti a quarantena o positivi al COVID -19
 Link: https://www.comune.jesi.an.it/articoli/Spesa-e-farmaci-a-domicilio/
 Natura: solidale
 Posizione: 43.523047 13.24439 0 0
+Provincia: Ancona
+Regione: Marche
 Tipo_di_soggetto: pubblico
 Titolo: Spesa e farmaci a domicilio
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/395,581156777,2020-03-14 11:47:51,2020-03-14 11:02:44,Consegne e commissioni a domicilio di Insurgencia #Napoli,40.85216,14.265414,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Insurgencia"", ""Descrizione"": ""In questi giorni sono state diffuse le disposizioni di prevenzione e arginamento della diffusione del #Coronavirus, che normano principalmente le forme di relazione, la chiusura di negozi, bar, pub. \ud83d\ude37\n\nMa \u201cstare a casa\u201d significa stravolgere completamente anche le azioni quotidiane pi\u00f9 basilari, compreso uscire per fare la #spesa, o per comprare #medicinali o andare semplicemente al lavoro. Ci sono alcuni soggetti - come immunodepressi e anziani o semplicemente anche chi ha scarsa mobilit\u00e0 - per cui questa situazione amplifica problemi gi\u00e0 esistenti, aumentando l\u2019isolamento e le difficolt\u00e0 di accedere anche ai beni di prima necessit\u00e0. \ud83e\udd56\ud83e\udd5b\ud83c\udf5d\n\nNoi crediamo che l\u2019interconnessione, la #solidariet\u00e0 tra le persone siano la base di una societ\u00e0 libera, crediamo sia arrivato il momento di mettere in campo solidariet\u00e0 dal basso. \ud83d\udd1d\n\nSe non puoi fare la spesa, se non puoi spostarti per acquistare medicinali e altri beni di prima necessit\u00e0, ci pensiamo NOI\u203c\ufe0f\nIn un momento difficile per tutte e tutti come questo serve organizzarsi, praticare solidariet\u00e0, essere vicini gli uni agli altri nelle forme che possiamo mettere in pratica anche in una situazione di #emergenza.\nNaturalmente non dimenticheremo di seguire le norme di sicurezza per contenere il contagio!\n\nDi seguito la lista dei quartieri in cui ci trovate con i relativi numeri di telefono.\n\n\ud83d\udd393332106131 Sanit\u00e0 (Vergini / Miracoli)\n\ud83d\udd393396917133 Sanit\u00e0 (Vergini / Miracoli)\n\ud83d\udd383899419298 Quartieri Spagnoli (Montesanto)\n\u25fc\ufe0f3921862741 (Loggetta/Fuorigrotta)\n\ud83d\udd393459028895 (Vomero/Arenella)\n\ud83d\udd393384110162 (Vomero/Arenella)\n\ud83d\udd3b3888064655 Capodimonte (Porta grande)\n\u25aa\ufe0f3334719889 Piazza Carlo III (Corallo)\n\u25ab\ufe0f3317351302 Museo (Stella)\n\nPER INFO & AIUTARCI CONTATTACI \ud83d\udcaa\ud83c\udffc"", ""Destinatari"": ""abitanti di Napoli"", ""Link"": ""https://www.facebook.com/101878501346258/photos/a.102081894659252/136725391194902/?type=3&theater"", ""Natura"": ""solidale"", ""Posizione"": ""40.85216 14.265414 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""TU RESTA A CASA, LA SPESA LA FACCIAMO NOI!""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/395,581156777,2020-03-16 23:02:32,2020-03-14 11:02:44,Consegne e commissioni a domicilio di Insurgencia #Napoli,,,"[""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,{},"<pre><yamldata>
+Comune: Napoli
 Da_chi_offerta: Insurgencia
-Descrizione: 'In questi giorni sono state diffuse le disposizioni di prevenzione e
-  arginamento della diffusione del #Coronavirus, che normano principalmente le forme
-  di relazione, la chiusura di negozi, bar, pub. 😷
-
-
-  Ma “stare a casa” significa stravolgere completamente anche le azioni quotidiane
-  più basilari, compreso uscire per fare la #spesa, o per comprare #medicinali o andare
-  semplicemente al lavoro. Ci sono alcuni soggetti - come immunodepressi e anziani
-  o semplicemente anche chi ha scarsa mobilità - per cui questa situazione amplifica
-  problemi già esistenti, aumentando l’isolamento e le difficoltà di accedere anche
-  ai beni di prima necessità. 🥖🥛🍝
-
-
-  Noi crediamo che l’interconnessione, la #solidarietà tra le persone siano la base
-  di una società libera, crediamo sia arrivato il momento di mettere in campo solidarietà
-  dal basso. 🔝
-
-
-  Se non puoi fare la spesa, se non puoi spostarti per acquistare medicinali e altri
-  beni di prima necessità, ci pensiamo NOI‼️
-
-  In un momento difficile per tutte e tutti come questo serve organizzarsi, praticare
-  solidarietà, essere vicini gli uni agli altri nelle forme che possiamo mettere in
-  pratica anche in una situazione di #emergenza.
-
-  Naturalmente non dimenticheremo di seguire le norme di sicurezza per contenere il
-  contagio!
-
-
-  Di seguito la lista dei quartieri in cui ci trovate con i relativi numeri di telefono.
-
-
-  🔹3332106131 Sanità (Vergini / Miracoli)
-
-  🔹3396917133 Sanità (Vergini / Miracoli)
-
-  🔸3899419298 Quartieri Spagnoli (Montesanto)
-
-  ◼️3921862741 (Loggetta/Fuorigrotta)
-
-  🔹3459028895 (Vomero/Arenella)
-
-  🔹3384110162 (Vomero/Arenella)
-
-  🔻3888064655 Capodimonte (Porta grande)
-
-  ▪️3334719889 Piazza Carlo III (Corallo)
-
-  ▫️3317351302 Museo (Stella)
-
-
-  PER INFO & AIUTARCI CONTATTACI 💪🏼'
+Descrizione: ""In questi giorni sono state diffuse le disposizioni di prevenzione e\
+  \ arginamento della diffusione del #Coronavirus, che normano principalmente le forme\
+  \ di relazione, la chiusura di negozi, bar, pub. \U0001F637\n\nMa \u201Cstare a\
+  \ casa\u201D significa stravolgere completamente anche le azioni quotidiane pi\xF9\
+  \ basilari, compreso uscire per fare la #spesa, o per comprare #medicinali o andare\
+  \ semplicemente al lavoro. Ci sono alcuni soggetti - come immunodepressi e anziani\
+  \ o semplicemente anche chi ha scarsa mobilit\xE0 - per cui questa situazione amplifica\
+  \ problemi gi\xE0 esistenti, aumentando l\u2019isolamento e le difficolt\xE0 di\
+  \ accedere anche ai beni di prima necessit\xE0. \U0001F956\U0001F95B\U0001F35D\n\
+  \nNoi crediamo che l\u2019interconnessione, la #solidariet\xE0 tra le persone siano\
+  \ la base di una societ\xE0 libera, crediamo sia arrivato il momento di mettere\
+  \ in campo solidariet\xE0 dal basso. \U0001F51D\n\nSe non puoi fare la spesa, se\
+  \ non puoi spostarti per acquistare medicinali e altri beni di prima necessit\xE0\
+  , ci pensiamo NOI\u203C\uFE0F\nIn un momento difficile per tutte e tutti come questo\
+  \ serve organizzarsi, praticare solidariet\xE0, essere vicini gli uni agli altri\
+  \ nelle forme che possiamo mettere in pratica anche in una situazione di #emergenza.\n\
+  Naturalmente non dimenticheremo di seguire le norme di sicurezza per contenere il\
+  \ contagio!\n\nDi seguito la lista dei quartieri in cui ci trovate con i relativi\
+  \ numeri di telefono.\n\n\U0001F5393332106131 Sanit\xE0 (Vergini / Miracoli)\n\U0001F539\
+  3396917133 Sanit\xE0 (Vergini / Miracoli)\n\U0001F5383899419298 Quartieri Spagnoli\
+  \ (Montesanto)\n\u25FC\uFE0F3921862741 (Loggetta/Fuorigrotta)\n\U0001F5393459028895\
+  \ (Vomero/Arenella)\n\U0001F5393384110162 (Vomero/Arenella)\n\U0001F53B3888064655\
+  \ Capodimonte (Porta grande)\n\u25AA\uFE0F3334719889 Piazza Carlo III (Corallo)\n\
+  \u25AB\uFE0F3317351302 Museo (Stella)\n\nPER INFO & AIUTARCI CONTATTACI \U0001F4AA\
+  \U0001F3FC""
 Destinatari: abitanti di Napoli
 Link: https://www.facebook.com/101878501346258/photos/a.102081894659252/136725391194902/?type=3&theater
 Natura: solidale
 Posizione: 40.85216 14.265414 0 0
+Provincia: '-'
+Regione: Campania
 Tipo_di_soggetto: privato
 Titolo: TU RESTA A CASA, LA SPESA LA FACCIAMO NOI!
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/394,581156114,2020-03-14 11:01:31,2020-03-14 11:00:38,Ricerca volontari consegne a domicilio Comune di #Brescia,45.540819,10.210716,"[""Bollettino"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune Brescia"", ""Descrizione"": ""Il Comune di Brescia cerca giovani in salute disposti a portare la spese agli anziani e alle persone in condizione di fragilit\u00e0. Se vuoi dare una mano manda una mail a: cdqborgotrento@comune.brescia.it"", ""Destinatari"": ""Giovani Comune di Brescia"", ""Natura"": ""solidale"", ""Posizione"": ""45.540819 10.210716 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Ricerca volontari consegne a domicilio Comune di #Brescia""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/394,581156114,2020-03-16 23:02:34,2020-03-14 11:00:38,Ricerca volontari consegne a domicilio Comune di #Brescia,45.540819,10.210716,"[""Bollettino"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Comune"": ""Brescia"", ""Da_chi_offerta"": ""Comune Brescia"", ""Descrizione"": ""Il Comune di Brescia cerca giovani in salute disposti a portare la spese agli anziani e alle persone in condizione di fragilit\u00e0. Se vuoi dare una mano manda una mail a: cdqborgotrento@comune.brescia.it"", ""Destinatari"": ""Giovani Comune di Brescia"", ""Natura"": ""solidale"", ""Posizione"": ""45.540819 10.210716 0 0"", ""Provincia"": ""Brescia"", ""Regione"": ""Lombardia"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Ricerca volontari consegne a domicilio Comune di #Brescia""}","<pre><yamldata>
+Comune: Brescia
 Da_chi_offerta: Comune Brescia
-Descrizione: 'Il Comune di Brescia cerca giovani in salute disposti a portare la spese
-  agli anziani e alle persone in condizione di fragilità. Se vuoi dare una mano manda
-  una mail a: cdqborgotrento@comune.brescia.it'
+Descrizione: ""Il Comune di Brescia cerca giovani in salute disposti a portare la spese\
+  \ agli anziani e alle persone in condizione di fragilit\xE0. Se vuoi dare una mano\
+  \ manda una mail a: cdqborgotrento@comune.brescia.it""
 Destinatari: Giovani Comune di Brescia
 Natura: solidale
 Posizione: 45.540819 10.210716 0 0
+Provincia: Brescia
+Regione: Lombardia
 Tipo_di_soggetto: pubblico
 Titolo: 'Ricerca volontari consegne a domicilio Comune di #Brescia'
 </yamldata></pre>",open
@@ -2908,12 +2856,15 @@ group_bq2vf46/Causale: Donazione COVID-19
 group_bq2vf46/IBAN: IT 81 G 05696 53640 000007000X13
 group_bq2vf46/Intestazione: 'DaASST di Bergamo Ovest:'
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/392,581154146,2020-03-14 15:32:30,2020-03-14 10:55:00,Raccolta fondi Ospedale #Camerino (MC),43.127619,13.050737,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Descrizione"": ""Raccolta fondi per poter aiutare la struttura sanitaria di Camerino a fronteggiare l'emergenza del Covid-19"", ""Link"": ""https://www.gofundme.com/f/emergenza-covid19-camerino"", ""Nome"": ""Ospedale di Camerino"", ""Posizione"": ""43.127619 13.050737 0 0""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/392,581154146,2020-03-16 23:02:35,2020-03-14 10:55:00,Raccolta fondi Ospedale #Camerino (MC),43.127619,13.050737,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Comune"": ""Camerino"", ""Descrizione"": ""Raccolta fondi per poter aiutare la struttura sanitaria di Camerino a fronteggiare l'emergenza del Covid-19"", ""Link"": ""https://www.gofundme.com/f/emergenza-covid19-camerino"", ""Nome"": ""Ospedale di Camerino"", ""Posizione"": ""43.127619 13.050737 0 0"", ""Provincia"": ""Macerata"", ""Regione"": ""Marche""}","<pre><yamldata>
+Comune: Camerino
 Descrizione: Raccolta fondi per poter aiutare la struttura sanitaria di Camerino a
   fronteggiare l'emergenza del Covid-19
 Link: https://www.gofundme.com/f/emergenza-covid19-camerino
 Nome: Ospedale di Camerino
 Posizione: 43.127619 13.050737 0 0
+Provincia: Macerata
+Regione: Marche
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/391,581152669,2020-03-14 22:16:08,2020-03-14 10:50:38,Azienda Usl #Parma cerca con urgenza medici da assumere,,,"[""Bollettino"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""Azienda Usl # Parma cerca con urgenza medici da assumere"", ""Descrizione"": ""Per rispondere alle necessit\u00e0 aziendali di cura e assistenza ai malati a causa dell\u2019emergenza sanitaria da Covid-19, e fino al termine della situazione emergenziale, l\u2019Azienda Usl di Parma ha emesso un bando urgente per ricercare medici con contratto di lavoro occasionale o libero professionale.\n\nE\u2019 previsto il conferimento di incarichi di lavoro autonomo a professionisti medici nelle discipline di: medicina interna, malattie infettive, malattie dell\u2019apparato respiratorio e anestesia e rianimazione, medicina e chirurgia d\u2019accettazione e d\u2019urgenza."", ""Destinatari"": ""Medici"", ""Indirizzo"": ""44.801616 10.326888 0 0"", ""Link"": ""https://www.ausl.pr.it/comunicazione_stampa/archivio_3/coronavirus_azienda_parma_cerca_urgenza_medici.aspx?fbclid=IwAR36fXMoYLGz2kCz5M1MaGrM3DxwlMYLQCqU-UjAe_mZ5uUL4MXWAAlMXCA""}","<pre><yamldata>
 Cosa: 'Azienda Usl # Parma cerca con urgenza medici da assumere'
@@ -2930,39 +2881,31 @@ Destinatari: Medici
 Indirizzo: 44.801616 10.326888 0 0
 Link: https://www.ausl.pr.it/comunicazione_stampa/archivio_3/coronavirus_azienda_parma_cerca_urgenza_medici.aspx?fbclid=IwAR36fXMoYLGz2kCz5M1MaGrM3DxwlMYLQCqU-UjAe_mZ5uUL4MXWAAlMXCA
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/390,581143041,2020-03-14 10:50:08,2020-03-14 10:21:18,"COVID-19 - Regole di prevenzione in inglese, francese, arabo, bambara, pasthu e wolof",41.117011,16.870278,"[""Fonti istituzionali"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Regione Puglia"", ""Descrizione"": ""La Regione Puglia ha pubblicato sul portale istituzionale video informativi sul Coronavirus IN 6 LINGUE STRANIERE: inglese, francese, arabo, wolof, pashtu, bambara.\n\nI video, realizzatI nell\u2019ambito del progetto FARI (Formazione Accoglienza Risposta Inclusione), illustrano le ultimissime disposizioni nazionali in materia di prevenzione.\n\nSempre a cura del progetto FARI, a supporto del Numero Verde regionale (800-713931) \u00e8 presente da oggi un servizio telefonico per richiedere informazioni generali sul coronavirus in 16 lingue (attivo il luned\u00ec, mercoled\u00ec e venerd\u00ec ore 8-14 e il marted\u00ec e gioved\u00ec ore 8-18).\n\nI numeri di telefono dedicati sono i seguenti:\n\u260e 099-4585489 (per le seguenti lingue: inglese, francese, spagnolo, arabo, russo, polacco, serere, wolof, fula)\n\u260e 0831-510416 (per le seguenti lingue: inglese, francese, spagnolo, arabo, tedesco, albanese, rumeno, turco, kassonke, bambara, mandinga)."", ""Destinatari"": ""Persone di lingua inglese, francese, arabo, bambara, pasthu e wolof"", ""Link"": ""http://www.regione.puglia.it/coronavirus-video-lingue"", ""Natura"": ""solidale"", ""Posizione"": ""41.117011 16.870278 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""COVID-19 - Regole di prevenzione in inglese, francese, arabo, bambara, pasthu e wolof""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/390,581143041,2020-03-16 23:02:37,2020-03-14 10:21:18,"COVID-19 - Regole di prevenzione in inglese, francese, arabo, bambara, pasthu e wolof",41.117011,16.870278,"[""Fonti istituzionali"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Comune"": ""Bari"", ""Da_chi_offerta"": ""Regione Puglia"", ""Descrizione"": ""La Regione Puglia ha pubblicato sul portale istituzionale video informativi sul Coronavirus IN 6 LINGUE STRANIERE: inglese, francese, arabo, wolof, pashtu, bambara.\n\nI video, realizzatI nell\u2019ambito del progetto FARI (Formazione Accoglienza Risposta Inclusione), illustrano le ultimissime disposizioni nazionali in materia di prevenzione.\n\nSempre a cura del progetto FARI, a supporto del Numero Verde regionale (800-713931) \u00e8 presente da oggi un servizio telefonico per richiedere informazioni generali sul coronavirus in 16 lingue (attivo il luned\u00ec, mercoled\u00ec e venerd\u00ec ore 8-14 e il marted\u00ec e gioved\u00ec ore 8-18).\n\nI numeri di telefono dedicati sono i seguenti:\n\u260e 099-4585489 (per le seguenti lingue: inglese, francese, spagnolo, arabo, russo, polacco, serere, wolof, fula)\n\u260e 0831-510416 (per le seguenti lingue: inglese, francese, spagnolo, arabo, tedesco, albanese, rumeno, turco, kassonke, bambara, mandinga)."", ""Destinatari"": ""Persone di lingua inglese, francese, arabo, bambara, pasthu e wolof"", ""Link"": ""http://www.regione.puglia.it/coronavirus-video-lingue"", ""Natura"": ""solidale"", ""Posizione"": ""41.117011 16.870278 0 0"", ""Provincia"": ""-"", ""Regione"": ""Puglia"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""COVID-19 - Regole di prevenzione in inglese, francese, arabo, bambara, pasthu e wolof""}","<pre><yamldata>
+Comune: Bari
 Da_chi_offerta: Regione Puglia
-Descrizione: 'La Regione Puglia ha pubblicato sul portale istituzionale video informativi
-  sul Coronavirus IN 6 LINGUE STRANIERE: inglese, francese, arabo, wolof, pashtu,
-  bambara.
-
-
-  I video, realizzatI nell’ambito del progetto FARI (Formazione Accoglienza Risposta
-  Inclusione), illustrano le ultimissime disposizioni nazionali in materia di prevenzione.
-
-
-  Sempre a cura del progetto FARI, a supporto del Numero Verde regionale (800-713931)
-  è presente da oggi un servizio telefonico per richiedere informazioni generali sul
-  coronavirus in 16 lingue (attivo il lunedì, mercoledì e venerdì ore 8-14 e il martedì
-  e giovedì ore 8-18).
-
-
-  I numeri di telefono dedicati sono i seguenti:
-
-  ☎ 099-4585489 (per le seguenti lingue: inglese, francese, spagnolo, arabo, russo,
-  polacco, serere, wolof, fula)
-
-  ☎ 0831-510416 (per le seguenti lingue: inglese, francese, spagnolo, arabo, tedesco,
-  albanese, rumeno, turco, kassonke, bambara, mandinga).'
+Descrizione: ""La Regione Puglia ha pubblicato sul portale istituzionale video informativi\
+  \ sul Coronavirus IN 6 LINGUE STRANIERE: inglese, francese, arabo, wolof, pashtu,\
+  \ bambara.\n\nI video, realizzatI nell\u2019ambito del progetto FARI (Formazione\
+  \ Accoglienza Risposta Inclusione), illustrano le ultimissime disposizioni nazionali\
+  \ in materia di prevenzione.\n\nSempre a cura del progetto FARI, a supporto del\
+  \ Numero Verde regionale (800-713931) \xE8 presente da oggi un servizio telefonico\
+  \ per richiedere informazioni generali sul coronavirus in 16 lingue (attivo il luned\xEC\
+  , mercoled\xEC e venerd\xEC ore 8-14 e il marted\xEC e gioved\xEC ore 8-18).\n\n\
+  I numeri di telefono dedicati sono i seguenti:\n\u260E 099-4585489 (per le seguenti\
+  \ lingue: inglese, francese, spagnolo, arabo, russo, polacco, serere, wolof, fula)\n\
+  \u260E 0831-510416 (per le seguenti lingue: inglese, francese, spagnolo, arabo,\
+  \ tedesco, albanese, rumeno, turco, kassonke, bambara, mandinga).""
 Destinatari: Persone di lingua inglese, francese, arabo, bambara, pasthu e wolof
 Link: http://www.regione.puglia.it/coronavirus-video-lingue
 Natura: solidale
 Posizione: 41.117011 16.870278 0 0
+Provincia: '-'
+Regione: Puglia
 Tipo_di_soggetto: pubblico
 Titolo: COVID-19 - Regole di prevenzione in inglese, francese, arabo, bambara, pasthu
   e wolof
-</yamldata></pre>
-",open
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/389,581139806,2020-03-14 22:17:02,2020-03-14 10:11:11,Spazi Donna WeWorld aperti per attività individuali #Milano #Roma #Napoli ,,,"[""Bollettino"", ""Donne"", ""Informazioni utili"", ""Notizie"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""WeWorld Onlus"", ""Descrizione"": ""Gli Spazi Donna WeWorld di Roma (San Basilio), Napoli (Scampia) e di Milano (Giambellino) in adempimento alle linee guida restano aperti per attivit\u00e0 individuali e hanno potenziato servizi di sostegno e ascolto a distanza, via mail o telefono.\n\nChi ha bisogno pu\u00f2 contattarci scrivendo a: ascoltodonna@weworld.it."", ""Destinatari"": ""Donne"", ""Link"": ""https://www.weworld.it/donne-ancora-piu-isolate/?fbclid=IwAR0_aTaoq8X5437YpPER11ooiiOSyD5SjPHxJrbCJRsH2n6q_8TZQX_nvD0"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Spazi Donna WeWorld presenti a Milano (Giambellino), Roma (San Basilio) #Napoli aperti per attivit\u00e0 individuali""}","<pre><yamldata>
 Da_chi_offerta: WeWorld Onlus
 Descrizione: 'Gli Spazi Donna WeWorld di Roma (San Basilio), Napoli (Scampia) e di
@@ -2979,7 +2922,7 @@ Tipo_di_soggetto: privato
 Titolo: 'Spazi Donna WeWorld presenti a Milano (Giambellino), Roma (San Basilio) #Napoli
   aperti per attività individuali'
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/388,581137176,2020-03-14 23:58:40,2020-03-14 10:02:56,Aiuto psicologico a distanza per famiglie promosso da FimminaTv - Casa delle donne #Locri,38.109624,15.648515,"[""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""F\u00ecmminaTv e la sua Casa delle Donne"", ""Descrizione"": ""Curato dall\u2019Associazione EMDR per l\u2019Italia -Psicologi  e dall\u2018Associazione S.IN.A.PSI, su richiesta della nostra Casa delle Donne, parte un servizio di aiuto per le famiglie. Dopo numerose segnalazioni di disagio, legato alla tensione sul Coronavirus, alla permanenza forzata a casa, alle continue notizie di decessi e casi positivi, abbiamo compreso che \u00e8 urgente avviare una serie di interventi. Parte quindi il servizio volontario di un gruppo di psicologi pronto ad aiutare a distanza chi necessita di un supporto. Chiunque sia interessato per s\u00e9 o per altri pu\u00f2 contattare, sulla nostra pagina facebook (https://www.facebook.com/casadelledonnedifimminatv/) o qui di seguito nei commenti, la nostra organizzazione. Vi metteremo in contatto con il team che, mentre scriviamo, sta diventando pi\u00f9 grande con l\u2019adesione di molti professionisti.\n\nLasciate il vostro riferimento, il  vostro numero e, se l\u2019aiuto \u00e8 per un\u2019altra persona, il nome e il numero del soggetto da aiutare. Contatteremo prima voi per conoscere il disagio e poi la persona da aiutare."", ""Destinatari"": ""Famiglie"", ""Link"": ""http://www.fimminatv.it/fimminatv-e-la-sua-casa-delle-donne-organizza-un-aiuto-psicologico-un-team-di-psicologi-pronti-allaiuto-a-distanza/?fbclid=IwAR3QnSHHO37Z1bgCftkaxxk4YVzAKW460UKZfzHzVsTlZLTeYh3q9F0hcUQ"", ""Natura"": ""solidale"", ""Posizione"": ""38.109624 15.648515 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Aiuto psicologico a distanza per famiglie di FimminaTv""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/388,581137176,2020-03-16 23:02:39,2020-03-14 10:02:56,Aiuto psicologico a distanza per famiglie promosso da FimminaTv - Casa delle donne #Locri,38.109624,15.648515,"[""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""F\u00ecmminaTv e la sua Casa delle Donne"", ""Descrizione"": ""Curato dall\u2019Associazione EMDR per l\u2019Italia -Psicologi  e dall\u2018Associazione S.IN.A.PSI, su richiesta della nostra Casa delle Donne, parte un servizio di aiuto per le famiglie. Dopo numerose segnalazioni di disagio, legato alla tensione sul Coronavirus, alla permanenza forzata a casa, alle continue notizie di decessi e casi positivi, abbiamo compreso che \u00e8 urgente avviare una serie di interventi. Parte quindi il servizio volontario di un gruppo di psicologi pronto ad aiutare a distanza chi necessita di un supporto. Chiunque sia interessato per s\u00e9 o per altri pu\u00f2 contattare, sulla nostra pagina facebook (https://www.facebook.com/casadelledonnedifimminatv/) o qui di seguito nei commenti, la nostra organizzazione. Vi metteremo in contatto con il team che, mentre scriviamo, sta diventando pi\u00f9 grande con l\u2019adesione di molti professionisti.\n\nLasciate il vostro riferimento, il  vostro numero e, se l\u2019aiuto \u00e8 per un\u2019altra persona, il nome e il numero del soggetto da aiutare. Contatteremo prima voi per conoscere il disagio e poi la persona da aiutare."", ""Destinatari"": ""Famiglie"", ""Link"": ""http://www.fimminatv.it/fimminatv-e-la-sua-casa-delle-donne-organizza-un-aiuto-psicologico-un-team-di-psicologi-pronti-allaiuto-a-distanza/?fbclid=IwAR3QnSHHO37Z1bgCftkaxxk4YVzAKW460UKZfzHzVsTlZLTeYh3q9F0hcUQ"", ""Natura"": ""solidale"", ""Posizione"": ""38.109624 15.648515 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Aiuto psicologico a distanza per famiglie di FimminaTv""}","<pre><yamldata>
 Da_chi_offerta: FìmminaTv e la sua Casa delle Donne
 Descrizione: 'Curato dall’Associazione EMDR per l’Italia -Psicologi  e dall‘Associazione
   S.IN.A.PSI, su richiesta della nostra Casa delle Donne, parte un servizio di aiuto
