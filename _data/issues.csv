@@ -1,4 +1,18 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/628,582330887,2020-03-16 14:18:04,2020-03-16 14:12:39,Progetto di supporto ai giovani di #Silea (TV),45.653306,12.297169,"[""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Cooperativa La Esse"", ""Descrizione"": ""Coordinato da La Esse, il progetto ha attivato appositamente un nuovo profilo Skype, pgsilea, per favorire la connessione diretta per i ragazzi, ma anche per i loro genitori, per offrire, in questo momento di difficolt\u00e0, sostegno e informazioni, scambiare idee, dare consigli o anche semplicemente per dialogare, riducendo la solitudine e condividendo un momento di quotidianit\u00e0."", ""Destinatari"": ""Giovani del Comune di Silea"", ""Link"": ""http://www.laesse.org/news/pgsilea"", ""Natura"": ""solidale"", ""Posizione"": ""45.653306 12.297169 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Progetto Giovani Comune di Silea""}","<pre><yamldata>
+Da_chi_offerta: Cooperativa La Esse
+Descrizione: Coordinato da La Esse, il progetto ha attivato appositamente un nuovo
+  profilo Skype, pgsilea, per favorire la connessione diretta per i ragazzi, ma anche
+  per i loro genitori, per offrire, in questo momento di difficoltà, sostegno e informazioni,
+  scambiare idee, dare consigli o anche semplicemente per dialogare, riducendo la
+  solitudine e condividendo un momento di quotidianità.
+Destinatari: Giovani del Comune di Silea
+Link: http://www.laesse.org/news/pgsilea
+Natura: solidale
+Posizione: 45.653306 12.297169 0 0
+Tipo_di_soggetto: privato
+Titolo: Progetto Giovani Comune di Silea
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/627,582326915,2020-03-16 14:13:21,2020-03-16 14:07:17,Passatempo al Sud,,,"[""Attivita culturali e ricreative"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Regione Campania"", ""Descrizione"": ""Regione Campania, con il contributo di Scabec, ha voluto attivare sul proprio sito istituzionale questa sezione, una sorta di \""catalogo\"" di siti, blog, link, pagine social e tutto quanto pu\u00f2 essere utile ai genitori, ai nonni e ai ragazzi, per orientarsi e per raggiungere facilmente ci\u00f2 che si cerca."", ""Destinatari"": ""Cittadini Cmapani"", ""Link"": ""http://www.regione.campania.it/regione/it/news/regione-informa/passatempo-al-sud-giorni-pieni-di-libri-arte-musica-e-allegria?page=1&fbclid=IwAR0lrwXAXoXA_HWwz_WZaTx_97U968AzCYyMGW1ZjMBI95ZZd98JeTjwgK0"", ""Natura"": ""culturale-ricr"", ""Titolo"": ""Passatempo al Sud""}","<pre><yamldata>
 Da_chi_offerta: Regione Campania
 Descrizione: Regione Campania, con il contributo di Scabec, ha voluto attivare sul
@@ -762,7 +776,7 @@ Descrizione: 'Le parole del coronavirus. Istituto superiore di sanità e Treccan
 Fonte: Istituto superiore di sanità
 Link: https://www.iss.it/primo-piano/-/asset_publisher/o4oGR9qmvUz9/content/id/5297029
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/562,581709025,2020-03-15 15:06:20,2020-03-15 15:04:24,Novità per i farmaci con ricetta #Firenze,43.773,11.253262,"[""Bollettino"", ""Notizie"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Cosa"": ""Novit\u00e0 per i farmaci con ricetta #Firenze"", ""Descrizione"": ""Il Sistema Sanitario della Regione Toscana si sta attrezzando per ridurre al minimo i contatti tra pazienti ed evitare code negli ambulatori.\nPer la prescrizione dei farmaci non servir\u00e0 andare allo studio medico ma sar\u00e0 sufficiente il numero di ricetta elettronica (NRE), che verr\u00e0 comunicato dal proprio medico tramite sms sul cellulare del paziente, da esibire in farmacia insieme alla tessera sanitaria."", ""Link"": ""https://www.facebook.com/cittadifirenzeufficiale/photos/a.318005551543893/3200191179991968/?type=3&theater&ifg=1"", ""Posizione"": ""43.773 11.253262 0 0""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/562,581709025,2020-03-16 14:18:52,2020-03-15 15:04:24,Novità per i farmaci con ricetta #Firenze,43.773,11.253262,"[""Bollettino"", ""Notizie"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Cosa"": ""Novit\u00e0 per i farmaci con ricetta #Firenze"", ""Descrizione"": ""Il Sistema Sanitario della Regione Toscana si sta attrezzando per ridurre al minimo i contatti tra pazienti ed evitare code negli ambulatori.\nPer la prescrizione dei farmaci non servir\u00e0 andare allo studio medico ma sar\u00e0 sufficiente il numero di ricetta elettronica (NRE), che verr\u00e0 comunicato dal proprio medico tramite sms sul cellulare del paziente, da esibire in farmacia insieme alla tessera sanitaria.\nUPDATE:  Nonostante annunci all\u2019ambulatorio ci sono alcuni problemi e al momento il sistema non funziona e che al massimo possono mandare ricette in carta bianca via mail."", ""Link"": ""https://www.facebook.com/cittadifirenzeufficiale/photos/a.318005551543893/3200191179991968/?type=3&theater&ifg=1"", ""Posizione"": ""43.773 11.253262 0 0""}","<pre><yamldata>
 Cosa: 'Novità per i farmaci con ricetta #Firenze'
 Descrizione: 'Il Sistema Sanitario della Regione Toscana si sta attrezzando per ridurre
   al minimo i contatti tra pazienti ed evitare code negli ambulatori.
@@ -770,7 +784,9 @@ Descrizione: 'Il Sistema Sanitario della Regione Toscana si sta attrezzando per 
   Per la prescrizione dei farmaci non servirà andare allo studio medico ma sarà sufficiente
   il numero di ricetta elettronica (NRE), che verrà comunicato dal proprio medico
   tramite sms sul cellulare del paziente, da esibire in farmacia insieme alla tessera
-  sanitaria.'
+  sanitaria.
+
+UPDATE:  Nonostante annunci all’ambulatorio ci sono alcuni problemi e al momento il sistema non funziona e che al massimo possono mandare ricette in carta bianca via mail.'
 Link: https://www.facebook.com/cittadifirenzeufficiale/photos/a.318005551543893/3200191179991968/?type=3&theater&ifg=1
 Posizione: 43.773 11.253262 0 0
 </yamldata></pre>",open
