@@ -1,4 +1,16 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/623,582294575,2020-03-16 13:57:08,2020-03-16 13:27:30,"ARCS #Friuli Venezia Giulia - ricerca urgente di oss, infermieri, medici",45.6500335,13.7706559,"[""Bollettino"", ""Richiesta aiuto"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Descrizione"": ""L\u2019ARCS (azienda regionale per il Coordinamento della Salute), in seguito all\u2019attuale emergenza sanitaria dovuta al diffondersi del Covid19, ha emanato alcuni bandi per la ricerca di diverse figure professionali."", ""Indirizzo"": ""45.43490484 12.33845214"", ""Link"": ""https://triesteparla.wordpress.com/2020/03/15/emergenza-coronavirus-in-friuli-venezia-giulia-si-cercano-urgentemente-operatori-socio-sanitari-infermieri-medici-e-tecnici-tutti-i-bandi-nellarticolo/"", ""Natura"": ""solidale"", ""Posizione"": ""45.6500335 13.7706559 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""In Friuli Venezia Giulia si cercano urgentemente operatori socio sanitari, infermieri, medici, e tecnici.""}","<pre><yamldata>
+Descrizione: L’ARCS (azienda regionale per il Coordinamento della Salute), in seguito
+  all’attuale emergenza sanitaria dovuta al diffondersi del Covid19, ha emanato alcuni
+  bandi per la ricerca di diverse figure professionali.
+Indirizzo: 45.43490484 12.33845214
+Link: https://triesteparla.wordpress.com/2020/03/15/emergenza-coronavirus-in-friuli-venezia-giulia-si-cercano-urgentemente-operatori-socio-sanitari-infermieri-medici-e-tecnici-tutti-i-bandi-nellarticolo/
+Natura: solidale
+Tipo_di_soggetto: pubblico
+Titolo: In Friuli Venezia Giulia si cercano urgentemente operatori socio sanitari,
+  infermieri, medici, e tecnici.
+Posizione: 45.6500335 13.7706559 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/622,582276623,2020-03-16 13:51:02,2020-03-16 13:00:56,Help 3D - Chiarimento sulle valvole in 3D #Brescia,45.538716,10.222435,"[""Informazioni utili"", ""Notizia"", ""accettato"", ""form""]",,,"{""Cosa"": ""Brescia: chiarimento sulle valvole stampate in 3D"", ""Descrizione"": ""Le valvole stampate in 3D a Brescia dopo reverse engineering.\nChiarimenti su norme, tecnologie, ..."", ""Link"": ""https://help3d.it/valvole-stampate-in-3d-a-brescia-facciamo-chiarezza/"", ""Posizione"": ""45.538716 10.222435 0 0""}","<pre><yamldata>
 Cosa: 'Brescia: chiarimento sulle valvole stampate in 3D'
 Descrizione: 'Le valvole stampate in 3D a Brescia dopo reverse engineering.
