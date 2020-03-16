@@ -4250,7 +4250,8 @@ Descrizione: ""La bottega rimarr\xE0 chiusa, ma i libri e i vini li potrete ordi
   \ potete pagare in\ncontanti\ncarte di credito\nbancomat""
 Link: http://todomodo.org/
 ```",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/151,579227697,2020-03-15 23:24:04,2020-03-11 12:26:41,Supporto psicologico gratuito #Palermo,,,"[""Supporto psicologico"", ""accettato"", ""da sistemare"", ""form""]",,,{},"Da_chi_offerta: Dott.ssa Giovanna Schittino
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/151,579227697,2020-03-16 07:24:02,2020-03-11 12:26:41,Supporto psicologico gratuito #Palermo,38.1112268,13.3524434,"[""Supporto psicologico"", ""accettato"", ""da sistemare"", ""form""]",,,"{""Da_chi_offerta"": ""Dott.ssa Giovanna Schittino"", ""Descrizione"": ""Buongiorno a tutte/i, sono una psicologa psicoterapeuta di Palermo e, volendo mettere a disposizione il mio aiuto, mi rendo disponibile gratuitamente per un contatto telefonico per chiunque senta il bisogno di un aiuto psicologico. Stiamo affrontando un momento di vita extra-ordinario e ci\u00f2 immancabilmente ci espone con pi\u00f9 facilit\u00e0 ad ansie e paure, tutto ci\u00f2 \u00e8 comprensibile ma \u00e8 anche superabile.\nPotete contattarmi al \u27a1\ufe0f3356952503\u2b05\ufe0f\n\nDott.ssa Giovanna Schittino tel. 3356952503"", ""Destinatari"": ""tutti"", ""Natura"": ""solidale"", ""Posizione"": ""38.1112268 13.3524434 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Sostegno psicologico telefonico""}","<pre><yamldata>
+Da_chi_offerta: Dott.ssa Giovanna Schittino
 Descrizione: ""Buongiorno a tutte/i, sono una psicologa psicoterapeuta di Palermo e,\
   \ volendo mettere a disposizione il mio aiuto, mi rendo disponibile gratuitamente\
   \ per un contatto telefonico per chiunque senta il bisogno di un aiuto psicologico.\
@@ -4263,7 +4264,8 @@ Natura: solidale
 Posizione: 38.116188 13.362091 0 0
 Tipo_di_soggetto: privato
 Titolo: Sostegno psicologico telefonico
-meta/deprecatedID: uuid:c878bfd9-85fb-47ef-a9fa-e5c429b928ed
+Posizione: 38.1112268 13.3524434 0 0 
+</yamldata></pre>
 ",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/150,579202630,2020-03-15 23:26:06,2020-03-11 11:41:58,Rafforzamento servizio di Taxi sociale per anziani #Adelfia (BA),,,"[""Servizi e iniziative solidali pubbliche"", ""accettato"", ""da sistemare""]",,,{},"chi: 'Comune di Adelfia'
 comune: Adelfia
