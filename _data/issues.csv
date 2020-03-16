@@ -1,4 +1,18 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/631,582354434,2020-03-16 14:58:45,2020-03-16 14:45:15,"Le favole di Giorgia, una storia al giorno contro il Covid-19",41.936785,12.372061,"[""Attivita culturali e ricreative"", ""Bollettino"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Giorgia Staiano"", ""Descrizione"": ""Sono Giorgia, una terapista della riabilitazione di Roma. Ogni giorno lavoro in ospedale e di passione scrivo storie, e ho deciso di dare il mio contributo tutti i giorni regalando una favola ai bambini. Ho creato la pagina Facebook https://www.facebook.com/Le-Favole-di-Giorgia-100139488284126/\nDove Ogni mattina carico un video dove leggo una delle mie favole, mentre alle 18 ogni sera una nuova storia."", ""Destinatari"": ""Bambini, insegnanti, famiglie"", ""Link"": ""https://www.facebook.com/Le-Favole-di-Giorgia-100139488284126/"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""41.936785 12.372061 0 15.243000030517578"", ""Titolo"": ""Le favole di Giorgia, una storia al giorno contro il Covid-19""}","<pre><yamldata>
+Da_chi_offerta: Giorgia Staiano
+Descrizione: 'Sono Giorgia, una terapista della riabilitazione di Roma. Ogni giorno
+  lavoro in ospedale e di passione scrivo storie, e ho deciso di dare il mio contributo
+  tutti i giorni regalando una favola ai bambini. Ho creato la pagina Facebook https://www.facebook.com/Le-Favole-di-Giorgia-100139488284126/
+
+  Dove Ogni mattina carico un video dove leggo una delle mie favole, mentre alle 18
+  ogni sera una nuova storia.'
+Destinatari: Bambini, insegnanti, famiglie
+Link: https://www.facebook.com/Le-Favole-di-Giorgia-100139488284126/
+Natura: culturale-ricr
+Posizione: 41.936785 12.372061 0 15.243000030517578
+Titolo: Le favole di Giorgia, una storia al giorno contro il Covid-19
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/629,582342341,2020-03-16 14:29:12,2020-03-16 14:28:16,A casa ma non soli - Commissioni a domicilio a #Firenze,43.770017,11.255583,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Arci Firenze"", ""Descrizione"": ""Molti nostri Circoli e Associazioni, in questi giorni cos\u00ec difficili, si sono gi\u00e0 messi in moto per garantire un supporto sociale e/o culturale agli altri, in particolar modo alle persone pi\u00f9 deboli. Qui l'elenco: https://www.facebook.com/arcifirenze/photos/a.815320281867457/2972327982833332/?type=3&theater&ifg=1"", ""Link"": ""https://www.facebook.com/arcifirenze/photos/a.815320281867457/2972327982833332/?type=3&theater&ifg=1"", ""Natura"": ""solidale"", ""Posizione"": ""43.770017 11.255583 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""A casa ma non soli - Commissioni a domicilio a #Firenze""}","<pre><yamldata>
 Da_chi_offerta: Arci Firenze
 Descrizione: 'Molti nostri Circoli e Associazioni, in questi giorni così difficili,
