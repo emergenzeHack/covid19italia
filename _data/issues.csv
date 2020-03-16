@@ -161,19 +161,6 @@ Link: https://www.gofundme.com/f/raccolta-fondi-per-l039ospedale-trigona-di-noto
 Nome: Samuele Mazza
 Posizione: 36.89089 15.07065 0 0
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/599,582101555,2020-03-16 10:52:33,2020-03-16 08:35:01,Autocertificazione Spostamenti,,,"[""Posizione mancante"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Cristian Pibia"", ""Descrizione"": ""Web-app che permette di creare e gestire tutti i moduli di spostamento da mostrare alle forze dell'ordine qualore fosse necessario.\n\nPotr\u00e0 inoltre inviare al comando richiesto il documento compilato per il tuo spostamento."", ""Destinatari"": ""Pubblico"", ""Link"": ""https://autocertificazionespostamenti.it/"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Autocertificazione Spostamenti""}","<pre><yamldata>
-Da_chi_offerta: Cristian Pibia
-Descrizione: 'Web-app che permette di creare e gestire tutti i moduli di spostamento
-  da mostrare alle forze dell''ordine qualore fosse necessario.
-
-
-  Potrà inoltre inviare al comando richiesto il documento compilato per il tuo spostamento.'
-Destinatari: Pubblico
-Link: https://autocertificazionespostamenti.it/
-Natura: solidale
-Tipo_di_soggetto: privato
-Titolo: Autocertificazione Spostamenti
-</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/598,581879216,2020-03-16 08:50:26,2020-03-15 23:52:37,"#Toscana, per ritirare i farmaci basta un codice, la ricetta si stampa direttamente in farmacia",43.79366875,11.222513136213019,"[""Bollettino"", ""Contatti utili"", ""Informazioni utili"", ""Notizie"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Regione Toscana"", ""Descrizione"": ""La Toscana si attrezza per far fronte sempre pi\u00f9 all'emergenza. Con il numero di ricetta comunicato tramite Sms e la Tessera sanitaria, si possono ritirare i medicinali direttamente in farmacia senza doversi recare in ambulatorio dal medico."", ""Destinatari"": ""Tutti i residenti in Toscana"", ""Link"": ""https://www.toscana-notizie.it/-/farmaci-per-ritirarli-basta-un-codice-la-ricetta-si-stampa-direttamente-in-farmacia"", ""Natura"": ""solidale"", ""Posizione"": ""43.79366875 11.222513136213019 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Toscana, per ritirare i farmaci basta un codice, la ricetta si stampa direttamente in farmacia""}","<pre><yamldata>
 Da_chi_offerta: Regione Toscana
 Descrizione: La Toscana si attrezza per far fronte sempre più all'emergenza. Con il
@@ -196,6 +183,32 @@ Destinatari: Personale sanitario
 Link: https://www.cri.it/15-03-2020-coronavirus-croce-rossa-ricerca-medici-e-infermieri-con-disponibilita-immediata
 Telefono: 435 35 35
 Posizione: 45.6209 9.768893 0 0
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/596,581869822,2020-03-16 12:09:36,2020-03-15 23:26:43,Bando Commissione europea per startup e aziende per offrire soluzioni tecnologiche contro il coronavirus,50.845522,4.35195,"[""Bollettino"", ""Notizie"", ""Sostegno lavoro e imprese"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Unione Europea"", ""Descrizione"": ""La Commissione europea chiede alle startup e alle PMI tecnologie e innovazioni che potrebbero aiutare a trattare, testare, monitorare o altri aspetti dell'epidemia di Coronavirus da applicare urgentemente al prossimo round di finanziamenti del Consiglio europeo per l'innovazione. La scadenza per le domande all'acceleratore EIC \u00e8 alle 17:00 di mercoled\u00ec 18 marzo (ora di Bruxelles). Con un budget di 164 milioni di euro, questo invito \u00e8 \""dal basso verso l'alto\"", il che significa che non ci sono priorit\u00e0 tematiche predefinite e i candidati con innovazioni pertinenti al Coronavirus saranno valutati allo stesso modo degli altri candidati. Ciononostante, la Commissione cercher\u00e0 di accelerare la concessione di sovvenzioni EIC e finanziamenti misti (che combinano sovvenzioni e investimenti azionari) alle innovazioni pertinenti del Coronavirus, nonch\u00e9 di facilitare l'accesso ad altri finanziamenti e fonti di investimento. L'EIC sta gi\u00e0 supportando una serie di start-up e PMI con innovazioni rilevanti per Coronavirus, che hanno ricevuto finanziamenti nei round precedenti. Ci\u00f2 include il progetto EpiShuttle per unit\u00e0 di isolamento specializzate, il progetto m-TAP per la tecnologia di filtrazione per rimuovere materiale virale e il progetto MBENT per tracciare la mobilit\u00e0 umana durante le epidemie."", ""Destinatari"": ""Startup con idee innovative per il Covid-19"", ""Link"": ""https://ec.europa.eu/info/news/startups-and-smes-innovative-solutions-welcome-2020-mar-13_en"", ""Natura"": ""sostegno-lavoro"", ""Posizione"": ""50.845522 4.35195 0 0"", ""Titolo"": ""Applications welcome from startups and SMEs with innovative solutions to tackle Coronavirus outbreak""}","<pre><yamldata>
+Da_chi_offerta: Unione Europea
+Descrizione: 'La Commissione europea chiede alle startup e alle PMI tecnologie e innovazioni
+  che potrebbero aiutare a trattare, testare, monitorare o altri aspetti dell''epidemia
+  di Coronavirus da applicare urgentemente al prossimo round di finanziamenti del
+  Consiglio europeo per l''innovazione. La scadenza per le domande all''acceleratore
+  EIC è alle 17:00 di mercoledì 18 marzo (ora di Bruxelles). Con un budget di 164
+  milioni di euro, questo invito è ""dal basso verso l''alto"", il che significa che
+  non ci sono priorità tematiche predefinite e i candidati con innovazioni pertinenti
+  al Coronavirus saranno valutati allo stesso modo degli altri candidati. Ciononostante,
+  la Commissione cercherà di accelerare la concessione di sovvenzioni EIC e finanziamenti
+  misti (che combinano sovvenzioni e investimenti azionari) alle innovazioni pertinenti
+  del Coronavirus, nonché di facilitare l''accesso ad altri finanziamenti e fonti
+  di investimento.
+  L''EIC sta già supportando una serie di start-up e PMI con innovazioni rilevanti
+  per Coronavirus, che hanno ricevuto finanziamenti nei round precedenti. Ciò include
+  il progetto EpiShuttle per unità di isolamento specializzate, il progetto m-TAP
+  per la tecnologia di filtrazione per rimuovere materiale virale e il progetto MBENT
+  per tracciare la mobilità umana durante le epidemie.'
+Destinatari: Startup con idee innovative per il Covid-19
+Link: https://ec.europa.eu/info/news/startups-and-smes-innovative-solutions-welcome-2020-mar-13_en
+Natura: sostegno-lavoro
+Posizione: 50.845522 4.35195 0 0
+Titolo: Applications welcome from startups and SMEs with innovative solutions to tackle
+  Coronavirus outbreak
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/595,581850517,2020-03-15 23:09:34,2020-03-15 22:27:35,Raccolta Fondi per Protezione Civile #EmiliaRomagna,,,"[""Bollettino"", ""Raccolte fondi"", ""accettato"", ""form""]",,,"{""BIC_SWIFT"": ""UNCRITM1BA2"", ""Causale"": ""Insieme si pu\u00f2 Emilia-Romagna contro il Coronavirus"", ""Descrizione"": ""Tanti hanno chiesto di poter fare donazioni. Per questo, la Regione ha deciso di dare la possibilit\u00e0 a chiunque voglia farlo di dare un contributo per la gestione dell\u2019emergenza sanitaria legata al Coronavirus, versando sul conto corrente della Protezione civile regionale dell\u2019Emilia-Romagna"", ""IBAN"": ""IT69G0200802435000104428964"", ""Indirizzo"": ""44.433313299999995 11.394502576340368"", ""Intestazione"": ""Protezione Civile regionale"", ""Link"": ""http://www.regione.emilia-romagna.it/coronavirus/donazioni"", ""Nome"": ""Protezione Civile Emilia Romagna""}","<pre><yamldata>
 BIC_SWIFT: UNCRITM1BA2
