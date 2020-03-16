@@ -235,6 +235,8 @@ prose:
 collections:
   storie:
     output: true
+  segnalazioni:
+    output: true
 
 gems:
   - jekyll-paginate
