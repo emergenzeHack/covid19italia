@@ -131,6 +131,25 @@ Posizione: 41.861419 12.557276 0 0
 Tipo_di_soggetto: privato
 Titolo: Non sei sola
 </yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/633,582365933,2020-03-16 16:07:34,2020-03-16 15:00:22,Medici senza frontiere: servono aiuti urgenti per proteggere personale medico. Appello ai paesi euro,,,"[""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""Medici senza frontiere: servono aiuti urgenti per proteggere personale medico. Appello ai paesi europei"", ""Descrizione"": ""In questo momento di grave emergenza Medici senza frontiere Italia lancia un appello ai Paesi europei perch\u00e9 dimostrino solidariet\u00e0 al di l\u00e0 dei propri confini nazionali.\nForniture mediche essenziali, inclusi dispositivi di protezione individuale a partire dalle mascherine per proteggere gli operatori sanitari, devono essere inviate con urgenza dove sono pi\u00f9 criticamente necessarie.\nIn questo momento di crisi, nessun paese pu\u00f2 farcela da solo, nessuno pu\u00f2 produrre tutte le forniture di cui ha bisogno. Tutti gli Stati membri europei devono al pi\u00f9 presto rendere operativi i meccanismi di solidariet\u00e0 predisposti dall\u2019Unione Europea e condividere le risorse necessarie per combattere la pandemia nelle aree in cui oggi \u00e8 pi\u00f9 violenta."", ""Destinatari"": ""Paesi europei"", ""Link"": ""https://t.co/2ZqQ9CWd2o?amp=1""}","<pre><yamldata>
+Cosa: 'Medici senza frontiere: servono aiuti urgenti per proteggere personale medico.
+  Appello ai paesi europei'
+Descrizione: 'In questo momento di grave emergenza Medici senza frontiere Italia lancia
+  un appello ai Paesi europei perché dimostrino solidarietà al di là dei propri confini
+  nazionali.
+
+  Forniture mediche essenziali, inclusi dispositivi di protezione individuale a partire
+  dalle mascherine per proteggere gli operatori sanitari, devono essere inviate con
+  urgenza dove sono più criticamente necessarie.
+
+  In questo momento di crisi, nessun paese può farcela da solo, nessuno può produrre
+  tutte le forniture di cui ha bisogno. Tutti gli Stati membri europei devono al più
+  presto rendere operativi i meccanismi di solidarietà predisposti dall’Unione Europea
+  e condividere le risorse necessarie per combattere la pandemia nelle aree in cui
+  oggi è più violenta.'
+Destinatari: Paesi europei
+Link: https://t.co/2ZqQ9CWd2o?amp=1
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/632,582362311,2020-03-16 15:24:41,2020-03-16 14:55:38,Iniziative per aiutare a fronteggiare l'emergenza attraverso il Design,42.336413,-71.090823,"[""Attivita culturali e ricreative"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Center for Design, Northeastern University, Boston (USA)"", ""Descrizione"": ""Abbiamo lanciato Design for Emergency, un insieme di iniziative per aiutare a fronteggiare l\u2019emergenza COVID-19 attraverso il design.\nhttps://www.designforemergency.com \n\nIl primo passo per farlo \u00e8 raccogliere informazioni su cosa stanno vivendo le persone che si trovano in zone colpite dal coronavirus, attraverso il questionario anonimo disponibile a questo link: \nhttps://tinyurl.com/designforemergency-survey\n\nIl nostro obiettivo \u00e8 provare a creare, rapidamente, nuove soluzioni per rispondere ai problemi specifici di chi sta affrontando questa emergenza, per intrattenere, connettere e supportare in modo nuovo le persone e la comunit\u00e0. \n\nCi serve l'aiuto di tutti per raccogliere il maggior numero di informazioni, nel pi\u00f9 breve tempo possibile. Grazie a chiunque vorr\u00e0 contribuire e diffondere!"", ""Destinatari"": ""Pubblico generico"", ""Link"": ""https://www.designforemergency.com"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""42.336413 -71.090823 0 0"", ""Titolo"": ""Design for Emergency""}","<pre><yamldata>
 Da_chi_offerta: Center for Design, Northeastern University, Boston (USA)
 Descrizione: ""Abbiamo lanciato Design for Emergency, un insieme di iniziative per\
@@ -713,6 +732,28 @@ Natura: solidale
 Posizione: 43.769585 11.262162 0 0
 Tipo_di_soggetto: pubblico
 Titolo: 'Linea telefonica per over-65 e attivazione equipe SDS #Firenze'
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/588,581836999,2020-03-16 16:08:58,2020-03-15 21:42:04,Proposta Per Una Applicazione Di Monitoraggio e Predizione Di Persone Contagiati,,,"[""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""Proposta Per Una Applicazione Di Monitoraggio e Predizione Di Persone Contagiati"", ""Descrizione"": ""Ciao,\nallora la mia e una proposta :\nleggendo varie articoli su come la cina e riuscita a fermare l'epidemia ho letto questo articolo :\n\nhttps://www.nytimes.com/2020/03/01/business/china-coronavirus-surveillance.html\n\nessendo in un periodo molto delicato e leggendo anche gli tempistiche secondo gli esperti ci ancora da aspettare un po di tempo prima che sara il vacino disponibile e anche provato.. \nmi venuta l'idea di fare una apps ispirata da quest'ultimo, l'idea rapidamente e sfruttare la tecnologia AI + Big Data (informazioni diffuse sulle persone che sono stati contagiati dal sito del governo) per poter tenere monitorato la situazione da un applicazione installata sul smartphone dei cittadini e riuscire a capire i loro spostamenti e se hanno avuto a che fare con  qualcuno che stato dopo contagiato oppure se sono stati in zone rosse e quindi sara dopo facile arrivare e limitare le probabilit\u00e0 delle persone positive e segnalarli subito alle autorit\u00e0..\n\nquesta l'idea in parole povere ci sara da approfondire, a migliorare  e discutere ogni singolo dettaglio.. \nio faccio il sistemista di rete + sviluppatore di software. \nma non ho le capacita sufficienti per poter realizzare questa apps sopra tutto nel ambito del il l'intelligenza artificiale + resource ..\nresto aperto a qualsiasi collaborazione nel mio ambito che potrebbe aiutare in qualche modo in questa epidemia\ne infine Grazie anche a voi per il vostro sforzo..Ciao."", ""Email"": ""simo@mailo.com""}","<pre><yamldata>
+Cosa: Proposta Per Una Applicazione Di Monitoraggio e Predizione Di Persone Contagiati
+Descrizione: ""Ciao,\nallora la mia e una proposta :\nleggendo varie articoli su come\
+  \ la cina e riuscita a fermare l'epidemia ho letto questo articolo :\n\nhttps://www.nytimes.com/2020/03/01/business/china-coronavirus-surveillance.html\n\
+  \nessendo in un periodo molto delicato e leggendo anche gli tempistiche secondo\
+  \ gli esperti ci ancora da aspettare un po di tempo prima che sara il vacino disponibile\
+  \ e anche provato.. \nmi venuta l'idea di fare una apps ispirata da quest'ultimo,\
+  \ l'idea rapidamente e sfruttare la tecnologia AI + Big Data (informazioni diffuse\
+  \ sulle persone che sono stati contagiati dal sito del governo) per poter tenere\
+  \ monitorato la situazione da un applicazione installata sul smartphone dei cittadini\
+  \ e riuscire a capire i loro spostamenti e se hanno avuto a che fare con  qualcuno\
+  \ che stato dopo contagiato oppure se sono stati in zone rosse e quindi sara dopo\
+  \ facile arrivare e limitare le probabilità delle persone positive e segnalarli\
+  \ subito alle autorità..\n\nquesta l'idea in parole povere ci sara da approfondire,\
+  \ a migliorare  e discutere ogni singolo dettaglio.. \nio faccio il sistemista di\
+  \ rete + sviluppatore di software. \nma non ho le capacita sufficienti per poter\
+  \ realizzare questa apps sopra tutto nel ambito del il l'intelligenza artificiale\
+  \ + resource ..\nresto aperto a qualsiasi collaborazione nel mio ambito che potrebbe\
+  \ aiutare in qualche modo in questa epidemia\ne infine Grazie anche a voi per il\
+  \ vostro sforzo..Ciao.""
+Email: simo@mailo.com
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/585,581826161,2020-03-15 21:22:19,2020-03-15 21:06:38,Consegne a domicilio e supporto psicologico #Volla #Napoli,40.878411,14.342932,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Volla"", ""Descrizione"": ""Consegna a domicilio di prodotti farmaceutici e generi di prima necessit\u00e0- sostegno psicologico"", ""Destinatari"": ""Diversamente abili-over 65 che vivono solo-soggetti che abbiano problematiche accertate"", ""Link"": ""https://comune.volla.na.it/contenuti/158539/servizio-consegna-domicilio-prodotti-farmaceutici"", ""Natura"": ""solidale"", ""Posizione"": ""40.878411 14.342932 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Noi ci siamo""}","<pre><yamldata>
 Da_chi_offerta: Comune di Volla
