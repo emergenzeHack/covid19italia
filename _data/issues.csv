@@ -3112,53 +3112,60 @@ Descrizione: Un audio di una sedicente infermiera dell'ospedale Niguarda ( Milan
   intensiva per mancanza di postazioni
 Link: https://www.open.online/2020/03/11/coronavirus-laudio-whatsapp-di-martina-la-cardiologa-di-milano-false-notizie-denunciata/
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/372,580906026,2020-03-13 22:38:16,2020-03-13 22:36:54,Consegna farmacia a domicilio per persone con disabilità o grave malattia #Italia,41.921899,12.481384,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Federfarma"", ""Descrizione"": ""Il servizio consiste nella consegna gratuita dei farmaci a domicilio per casi non urgenti riservato esclusivamente  alle persone che sono impossibilitate a recarsi in farmacia, per disabilit\u00e0 o gravi malattie, e non possono delegare altri soggetti.\n\nPer accedere al servizio chiama il numero verde 800 189 521, attivo nei giorni feriali dal luned\u00ec al venerd\u00ec dalle ore 9.00 alle ore 17.30. Risponder\u00e0 un operatore al quale dovrai indicare le tue generalit\u00e0 e l\u2019indirizzo al quale recapitare il farmaco."", ""Destinatari"": ""persone con disabilit\u00e0 o grave malattia"", ""Link"": ""https://federfarma.it/Servizio-farmaci-a-domicilio.aspx"", ""Natura"": ""solidale"", ""Posizione"": ""41.921899 12.481384 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Consegna Farmacia a domicilio per persone disabilit\u00e0 o grave malattia #Italia""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/372,580906026,2020-03-16 23:02:55,2020-03-13 22:36:54,Consegna farmacia a domicilio per persone con disabilità o grave malattia #Italia,41.921899,12.481384,"[""Bollettino"", ""Consegne e commissioni"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Comune"": ""Roma"", ""Da_chi_offerta"": ""Federfarma"", ""Descrizione"": ""Il servizio consiste nella consegna gratuita dei farmaci a domicilio per casi non urgenti riservato esclusivamente  alle persone che sono impossibilitate a recarsi in farmacia, per disabilit\u00e0 o gravi malattie, e non possono delegare altri soggetti.\n\nPer accedere al servizio chiama il numero verde 800 189 521, attivo nei giorni feriali dal luned\u00ec al venerd\u00ec dalle ore 9.00 alle ore 17.30. Risponder\u00e0 un operatore al quale dovrai indicare le tue generalit\u00e0 e l\u2019indirizzo al quale recapitare il farmaco."", ""Destinatari"": ""persone con disabilit\u00e0 o grave malattia"", ""Link"": ""https://federfarma.it/Servizio-farmaci-a-domicilio.aspx"", ""Natura"": ""solidale"", ""Posizione"": ""41.921899 12.481384 0 0"", ""Provincia"": ""-"", ""Regione"": ""Lazio"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Consegna Farmacia a domicilio per persone disabilit\u00e0 o grave malattia #Italia""}","<pre><yamldata>
+Comune: Roma
 Da_chi_offerta: Federfarma
-Descrizione: 'Il servizio consiste nella consegna gratuita dei farmaci a domicilio
-  per casi non urgenti riservato esclusivamente  alle persone che sono impossibilitate
-  a recarsi in farmacia, per disabilità o gravi malattie, e non possono delegare altri
-  soggetti.
-
-
-  Per accedere al servizio chiama il numero verde 800 189 521, attivo nei giorni feriali
-  dal lunedì al venerdì dalle ore 9.00 alle ore 17.30. Risponderà un operatore al
-  quale dovrai indicare le tue generalità e l’indirizzo al quale recapitare il farmaco.'
-Destinatari: persone con disabilità o grave malattia
+Descrizione: ""Il servizio consiste nella consegna gratuita dei farmaci a domicilio\
+  \ per casi non urgenti riservato esclusivamente  alle persone che sono impossibilitate\
+  \ a recarsi in farmacia, per disabilit\xE0 o gravi malattie, e non possono delegare\
+  \ altri soggetti.\n\nPer accedere al servizio chiama il numero verde 800 189 521,\
+  \ attivo nei giorni feriali dal luned\xEC al venerd\xEC dalle ore 9.00 alle ore\
+  \ 17.30. Risponder\xE0 un operatore al quale dovrai indicare le tue generalit\xE0\
+  \ e l\u2019indirizzo al quale recapitare il farmaco.""
+Destinatari: ""persone con disabilit\xE0 o grave malattia""
 Link: https://federfarma.it/Servizio-farmaci-a-domicilio.aspx
 Natura: solidale
 Posizione: 41.921899 12.481384 0 0
+Provincia: '-'
+Regione: Lazio
 Tipo_di_soggetto: privato
-Titolo: 'Consegna Farmacia a domicilio per persone disabilità o grave malattia #Italia'
+Titolo: ""Consegna Farmacia a domicilio per persone disabilit\xE0 o grave malattia\
+  \ #Italia""
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/371,580886376,2020-03-14 22:18:21,2020-03-13 22:02:35,Comune di #Milano cerca volontari per il progetto Milano Aiuta,45.464676,9.191394,"[""Bollettino"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Cosa"": ""Come diventare volontario del progetto Milano Aiuta del Comune di Milano"", ""Descrizione"": ""Il Comune di Milano cerca volontari per l\u2019iniziativa Milano Aiuta che offre supporto e aiuto alle persone anziane in difficolt\u00e0. Per candidarsi come volontario si pu\u00f2 scrivere all'indirizzo mail per.volontariato@comune.milano.it"", ""Link"": ""https://www.comune.milano.it/-/coronavirus.-milano-aiuta-al-via-il-percorso-telefonico-dedicato-agli-over-65"", ""Posizione"": ""45.464676 9.191394 0 0""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/371,580886376,2020-03-16 23:02:56,2020-03-13 22:02:35,Comune di #Milano cerca volontari per il progetto Milano Aiuta,45.464676,9.191394,"[""Bollettino"", ""Richiesta aiuto"", ""accettato"", ""form""]",,,"{""Comune"": ""Milano"", ""Cosa"": ""Come diventare volontario del progetto Milano Aiuta del Comune di Milano"", ""Descrizione"": ""Il Comune di Milano cerca volontari per l\u2019iniziativa Milano Aiuta che offre supporto e aiuto alle persone anziane in difficolt\u00e0. Per candidarsi come volontario si pu\u00f2 scrivere all'indirizzo mail per.volontariato@comune.milano.it"", ""Link"": ""https://www.comune.milano.it/-/coronavirus.-milano-aiuta-al-via-il-percorso-telefonico-dedicato-agli-over-65"", ""Posizione"": ""45.464676 9.191394 0 0"", ""Provincia"": ""-"", ""Regione"": ""Lombardia""}","<pre><yamldata>
+Comune: Milano
 Cosa: Come diventare volontario del progetto Milano Aiuta del Comune di Milano
-Descrizione: Il Comune di Milano cerca volontari per l’iniziativa Milano Aiuta che
-  offre supporto e aiuto alle persone anziane in difficoltà. Per candidarsi come volontario
-  si può scrivere all'indirizzo mail per.volontariato@comune.milano.it
+Descrizione: ""Il Comune di Milano cerca volontari per l\u2019iniziativa Milano Aiuta\
+  \ che offre supporto e aiuto alle persone anziane in difficolt\xE0. Per candidarsi\
+  \ come volontario si pu\xF2 scrivere all'indirizzo mail per.volontariato@comune.milano.it""
 Link: https://www.comune.milano.it/-/coronavirus.-milano-aiuta-al-via-il-percorso-telefonico-dedicato-agli-over-65
 Posizione: 45.464676 9.191394 0 0
+Provincia: '-'
+Regione: Lombardia
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/370,580869500,2020-03-13 21:43:29,2020-03-13 21:37:28,Servizio Farmaci a domicilio a Caprarica di #Lecce,40.262418,18.24525,"[""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Centro Operativo Comunale Caprarica di Lecce"", ""Descrizione"": ""Contattando il COC e le associazioni ActionAid Lecce e Orsa Maggiore Protezione Civile \u00e8 possibile ricevere a domicilio i farmaci.\nPrenotare ogni giorno entro le 12:15 al 3290534185.\n\nPer consegna pasti, spesa, farmaci, giornali, pagamento bollette ad anziani e soggetti deboli \u2013 3290534185."", ""Destinatari"": ""Cittadini di Caprarica di Lecce"", ""Natura"": ""solidale"", ""Posizione"": ""40.262418 18.24525 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Servizio Farmaci a domicilio""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/370,580869500,2020-03-16 23:02:58,2020-03-13 21:37:28,Servizio Farmaci a domicilio a Caprarica di #Lecce,40.262418,18.24525,"[""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Comune"": ""Caprarica di Lecce"", ""Da_chi_offerta"": ""Centro Operativo Comunale Caprarica di Lecce"", ""Descrizione"": ""Contattando il COC e le associazioni ActionAid Lecce e Orsa Maggiore Protezione Civile \u00e8 possibile ricevere a domicilio i farmaci.\nPrenotare ogni giorno entro le 12:15 al 3290534185.\n\nPer consegna pasti, spesa, farmaci, giornali, pagamento bollette ad anziani e soggetti deboli \u2013 3290534185."", ""Destinatari"": ""Cittadini di Caprarica di Lecce"", ""Natura"": ""solidale"", ""Posizione"": ""40.262418 18.24525 0 0"", ""Provincia"": ""Lecce"", ""Regione"": ""Puglia"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Servizio Farmaci a domicilio""}","<pre><yamldata>
+Comune: Caprarica di Lecce
 Da_chi_offerta: Centro Operativo Comunale Caprarica di Lecce
-Descrizione: 'Contattando il COC e le associazioni ActionAid Lecce e Orsa Maggiore
-  Protezione Civile è possibile ricevere a domicilio i farmaci.
-
-  Prenotare ogni giorno entro le 12:15 al 3290534185.
-
-
-  Per consegna pasti, spesa, farmaci, giornali, pagamento bollette ad anziani e soggetti
-  deboli – 3290534185.'
+Descrizione: ""Contattando il COC e le associazioni ActionAid Lecce e Orsa Maggiore\
+  \ Protezione Civile \xE8 possibile ricevere a domicilio i farmaci.\nPrenotare ogni\
+  \ giorno entro le 12:15 al 3290534185.\n\nPer consegna pasti, spesa, farmaci, giornali,\
+  \ pagamento bollette ad anziani e soggetti deboli \u2013 3290534185.""
 Destinatari: Cittadini di Caprarica di Lecce
 Natura: solidale
 Posizione: 40.262418 18.24525 0 0
+Provincia: Lecce
+Regione: Puglia
 Tipo_di_soggetto: pubblico
 Titolo: Servizio Farmaci a domicilio
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/369,580825612,2020-03-13 22:13:05,2020-03-13 20:22:47,Non è vero che  i migranti sbarcano in Sicilia con sintomi COVID-19,40.923966,14.455636,"[""Fake News"", ""accettato"", ""form""]",,,"{""Cosa"": ""Migranti che sbarcano in Sicilia con sintomi COVID-19"", ""Descrizione"": ""Si tratta di una fake news come riporta il sito Bufale.it"", ""Link"": ""https://www.bufale.net/a-messina-sbarcano-migranti-con-sintomi-coronavirus/"", ""Posizione"": ""40.923966 14.455636 0 20""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/369,580825612,2020-03-16 23:03:00,2020-03-13 20:22:47,Non è vero che  i migranti sbarcano in Sicilia con sintomi COVID-19,40.923966,14.455636,"[""Fake News"", ""accettato"", ""form""]",,,"{""Comune"": ""Marigliano"", ""Cosa"": ""Migranti che sbarcano in Sicilia con sintomi COVID-19"", ""Descrizione"": ""Si tratta di una fake news come riporta il sito Bufale.it"", ""Link"": ""https://www.bufale.net/a-messina-sbarcano-migranti-con-sintomi-coronavirus/"", ""Posizione"": ""40.923966 14.455636 0 20"", ""Provincia"": ""-"", ""Regione"": ""Campania""}","<pre><yamldata>
+Comune: Marigliano
 Cosa: Migranti che sbarcano in Sicilia con sintomi COVID-19
 Descrizione: Si tratta di una fake news come riporta il sito Bufale.it
 Link: https://www.bufale.net/a-messina-sbarcano-migranti-con-sintomi-coronavirus/
 Posizione: 40.923966 14.455636 0 20
+Provincia: '-'
+Regione: Campania
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/368,580818913,2020-03-13 23:02:05,2020-03-13 20:06:47,Colloqui psicologici gratuiti via Skype,,,"[""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Dedalus"", ""Descrizione"": ""3 incontri gratuiti via skype o altro mezzo di videochiamata"", ""Destinatari"": ""Tutti"", ""Link"": ""https://www.facebook.com/Dedalusformazione/posts/2932882193443187"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Colloqui psicologici gratuiti""}","<pre><yamldata>
 Da_chi_offerta: Dedalus
@@ -3169,22 +3176,23 @@ Natura: solidale
 Tipo_di_soggetto: privato
 Titolo: Colloqui psicologici gratuiti
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/367,580775187,2020-03-14 22:14:36,2020-03-13 18:35:59,Assistenza telefonica per lavoratori e supporto gratuito agli anziani,40.854381,14.241844,"[""Servizi e iniziative solidali private"", ""Sostegno lavoro e imprese"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Ex OPG Occupato Je so' pazzo - Potere al Popolo"", ""Descrizione"": ""Numero nazionale di assistenza, segnalazioni e consulenza per lavoratori: \ndal Luned\u00ec al Venerd\u00ec\ndalle 11:30 alle 13:00 al 3283965965\ndalle 13:00 alle 15:00 al 3208719037\ndalle 18:00 alle 19:30 al 3519675727\ndalle 19:00 alle 20:30 al 3272979156\n\noppure scrivere a rete.camere.lavoro@gmail.com\n\nNumero per supporto agli anziani:\n3510722056"", ""Destinatari"": ""Lavoratori, anziani"", ""Link"": ""https://www.facebook.com/exopgjesopazzo/posts/2599353296837984"", ""Natura"": ""solidale"", ""Posizione"": ""40.854381 14.241844 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Assistenza telefonica per lavoratori e supporto gratuito agli anziani""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/367,580775187,2020-03-16 23:03:02,2020-03-13 18:35:59,Assistenza telefonica per lavoratori e supporto gratuito agli anziani,40.854381,14.241844,"[""Servizi e iniziative solidali private"", ""Sostegno lavoro e imprese"", ""accettato"", ""form""]",,,"{""Comune"": ""Napoli"", ""Da_chi_offerta"": ""Ex OPG Occupato Je so' pazzo - Potere al Popolo"", ""Descrizione"": ""Numero nazionale di assistenza, segnalazioni e consulenza per lavoratori: \ndal Luned\u00ec al Venerd\u00ec\ndalle 11:30 alle 13:00 al 3283965965\ndalle 13:00 alle 15:00 al 3208719037\ndalle 18:00 alle 19:30 al 3519675727\ndalle 19:00 alle 20:30 al 3272979156\n\noppure scrivere a rete.camere.lavoro@gmail.com\n\nNumero per supporto agli anziani:\n3510722056"", ""Destinatari"": ""Lavoratori, anziani"", ""Link"": ""https://www.facebook.com/exopgjesopazzo/posts/2599353296837984"", ""Natura"": ""solidale"", ""Posizione"": ""40.854381 14.241844 0 0"", ""Provincia"": ""-"", ""Regione"": ""Campania"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Assistenza telefonica per lavoratori e supporto gratuito agli anziani""}","<pre><yamldata>
+Comune: Napoli
 Da_chi_offerta: Ex OPG Occupato Je so' pazzo - Potere al Popolo
 Descrizione: ""Numero nazionale di assistenza, segnalazioni e consulenza per lavoratori:\
-  \ \ndal Lunedì al Venerdì\ndalle 11:30 alle 13:00 al 3283965965\ndalle 13:00 alle\
-  \ 15:00 al 3208719037\ndalle 18:00 alle 19:30 al 3519675727\ndalle 19:00 alle 20:30\
-  \ al 3272979156\n\noppure scrivere a rete.camere.lavoro@gmail.com\n\nNumero per\
-  \ supporto agli anziani:\n3510722056""
+  \ \ndal Luned\xEC al Venerd\xEC\ndalle 11:30 alle 13:00 al 3283965965\ndalle 13:00\
+  \ alle 15:00 al 3208719037\ndalle 18:00 alle 19:30 al 3519675727\ndalle 19:00 alle\
+  \ 20:30 al 3272979156\n\noppure scrivere a rete.camere.lavoro@gmail.com\n\nNumero\
+  \ per supporto agli anziani:\n3510722056""
 Destinatari: Lavoratori, anziani
 Link: https://www.facebook.com/exopgjesopazzo/posts/2599353296837984
 Natura: solidale
 Posizione: 40.854381 14.241844 0 0
+Provincia: '-'
+Regione: Campania
 Tipo_di_soggetto: privato
 Titolo: Assistenza telefonica per lavoratori e supporto gratuito agli anziani
-
-</yamldata></pre>
-",open
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/366,580737149,2020-03-14 22:09:45,2020-03-13 17:15:41,Emergenza coronavirus: check list imprese per il rispetto della sicurezza dei lavoratori,,,"[""Bollettino"", ""Informazioni utili"", ""Notizie"", ""Sostegno lavoro e imprese"", ""accettato"", ""form""]",,,"{""Cosa"": ""Emergenza coronavirus: check list imprese per il rispetto della sicurezza dei lavoratori"", ""Descrizione"": ""La Regione Marche ha predisposto una check list utile alle imprese per comprendere se sono a norma rispetto alla sicurezza sanitaria e utile ai lavoratori, perch\u00e9 li rende ulteriormente consapevoli rispetto ai comportamenti da tenere sui luoghi di lavoro. Al link il documento."", ""Fonte"": ""Regione Marche"", ""Link"": ""http://www.regione.marche.it/News-ed-Eventi/Post/60846/Coronavirus-check-list-per-le-imprese-per-il-rispetto-della-sicurezza-dei-lavoratori""}","<pre><yamldata>
 Cosa: 'Emergenza coronavirus: check list imprese per il rispetto della sicurezza dei
   lavoratori'
@@ -3196,7 +3204,8 @@ Fonte: Regione Marche
 Link: http://www.regione.marche.it/News-ed-Eventi/Post/60846/Coronavirus-check-list-per-le-imprese-per-il-rispetto-della-sicurezza-dei-lavoratori
 
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/365,580727591,2020-03-13 22:21:46,2020-03-13 16:57:05,Consegna Libri a Domicilio #Milano,45.458403,9.181154,"[""Bollettino"", ""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Libreria Verso"", ""Descrizione"": ""#versopedala - libreria con servizio di consegna libri a domicilio"", ""Destinatari"": ""adulti e bambini"", ""Informativa"": ""OK"", ""Link"": ""http://www.libreriaverso.com/novita/versopedala/"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""45.458403 9.181154 0 0"", ""Titolo"": ""Consegna Libri a Domicilio #Milano""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/365,580727591,2020-03-16 23:03:04,2020-03-13 16:57:05,Consegna Libri a Domicilio #Milano,45.458403,9.181154,"[""Bollettino"", ""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Comune"": ""Milano"", ""Da_chi_offerta"": ""Libreria Verso"", ""Descrizione"": ""#versopedala - libreria con servizio di consegna libri a domicilio"", ""Destinatari"": ""adulti e bambini"", ""Informativa"": ""OK"", ""Link"": ""http://www.libreriaverso.com/novita/versopedala/"", ""Natura"": ""culturale-ricr"", ""Posizione"": ""45.458403 9.181154 0 0"", ""Provincia"": ""-"", ""Regione"": ""Lombardia"", ""Titolo"": ""Consegna Libri a Domicilio #Milano""}","<pre><yamldata>
+Comune: Milano
 Da_chi_offerta: Libreria Verso
 Descrizione: '#versopedala - libreria con servizio di consegna libri a domicilio'
 Destinatari: adulti e bambini
@@ -3204,8 +3213,9 @@ Informativa: OK
 Link: http://www.libreriaverso.com/novita/versopedala/
 Natura: culturale-ricr
 Posizione: 45.458403 9.181154 0 0
+Provincia: '-'
+Regione: Lombardia
 Titolo: 'Consegna Libri a Domicilio #Milano'
-
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/364,580725563,2020-03-13 21:51:14,2020-03-13 16:53:10,Faq Ministero della Salute,,,"[""Fonti istituzionali"", ""Informazioni utili"", ""accettato"", ""form""]",,,"{""Link"": ""http://www.salute.gov.it/portale/malattieInfettive/dettaglioFaqMalattieInfettive.jsp?lingua=italiano&id=228"", ""Nome"": ""MINISTERO DELLA SALUTE"", ""Scopo"": ""FAQ (Frequently Ask Questions) su COVID-19"", ""Telefono"": ""0039 06 59941""}","<pre><yamldata>
 
@@ -3215,61 +3225,43 @@ Scopo: FAQ (Frequently Ask Questions) su COVID-19
 Telefono: 0039 06 59941
 
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/363,580724240,2020-03-13 18:39:02,2020-03-13 16:50:37,Consegna e consigli libri di lettura #Milano,45.499509,9.230185,"[""Attivita culturali e ricreative"", ""Bollettino"", ""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Il Covo della Ladra di Libri"", ""Descrizione"": ""Consegna di libri a domicilio gratuite su Milano - a 2\u20ac su territori nazionale;\nChat 24h per consigli di lettura: WhatsApp al 3487459627"", ""Destinatari"": ""adulti e bambini e bambine"", ""Informativa"": ""OK"", ""Link"": ""http://www.ladradilibri.com/"", ""Natura"": ""solidale"", ""Posizione"": ""45.499509 9.230185 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Consegna e consigli libri di lettura #Milano""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/363,580724240,2020-03-16 23:03:06,2020-03-13 16:50:37,Consegna e consigli libri di lettura #Milano,45.499509,9.230185,"[""Attivita culturali e ricreative"", ""Bollettino"", ""Consegne e commissioni"", ""accettato"", ""form""]",,,"{""Comune"": ""Milano"", ""Da_chi_offerta"": ""Il Covo della Ladra di Libri"", ""Descrizione"": ""Consegna di libri a domicilio gratuite su Milano - a 2\u20ac su territori nazionale;\nChat 24h per consigli di lettura: WhatsApp al 3487459627"", ""Destinatari"": ""adulti e bambini e bambine"", ""Informativa"": ""OK"", ""Link"": ""http://www.ladradilibri.com/"", ""Natura"": ""solidale"", ""Posizione"": ""45.499509 9.230185 0 0"", ""Provincia"": ""-"", ""Regione"": ""Lombardia"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Consegna e consigli libri di lettura #Milano""}","<pre><yamldata>
+Comune: Milano
 Da_chi_offerta: Il Covo della Ladra di Libri
-Descrizione: 'Consegna di libri a domicilio gratuite su Milano - a 2€ su territori
-  nazionale;
-
-  Chat 24h per consigli di lettura: WhatsApp al 3487459627'
+Descrizione: ""Consegna di libri a domicilio gratuite su Milano - a 2\u20AC su territori\
+  \ nazionale;\nChat 24h per consigli di lettura: WhatsApp al 3487459627""
 Destinatari: adulti e bambini e bambine
 Informativa: OK
 Link: http://www.ladradilibri.com/
 Natura: solidale
 Posizione: 45.499509 9.230185 0 0
+Provincia: '-'
+Regione: Lombardia
 Tipo_di_soggetto: privato
 Titolo: 'Consegna e consigli libri di lettura #Milano'
-
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/362,580710798,2020-03-13 22:23:39,2020-03-13 16:26:33,Raccolta beni prima necessità migranti #Roma,41.914139,12.532687,"[""Bollettino"", ""Richiesta aiuto"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Baobab Experience"", ""Descrizione"": ""In questo periodo di emergenza proveremo ad offrire ai migranti i pasti sotto forma di sacchetti contenente frutta e cibo in scatola, panini oppure quando possibile pasti monodose.\nPer questo motivo vi invitiamo a lanciare raccolte volte a recuperare :\nTonno\nCrackers\nPane in cassetta\nCornetti in busta\nPlum-cake\nCarne in scatola\nFrutta\nSucchi di frutta monodose\nBottiglie d\u2019acqua\n\nOltre a queste cose abbiamo bisogno anche di coperte, mascherine e prodotti disinfettanti.\nPunto di raccolta Baobab"", ""Destinatari"": ""Migranti"", ""Informativa"": ""OK"", ""Link"": ""https://www.facebook.com/story.php?story_fbid=2950196055077062&id=1295938570502827&scmts=scwspsdd&extid=KB0d1KiKWVvFBYw6"", ""Natura"": ""solidale"", ""Posizione"": ""41.914139 12.532687 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Raccolta beni prima necessit\u00e0""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/362,580710798,2020-03-16 23:03:08,2020-03-13 16:26:33,Raccolta beni prima necessità migranti #Roma,41.914139,12.532687,"[""Bollettino"", ""Richiesta aiuto"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Comune"": ""Roma"", ""Da_chi_offerta"": ""Baobab Experience"", ""Descrizione"": ""In questo periodo di emergenza proveremo ad offrire ai migranti i pasti sotto forma di sacchetti contenente frutta e cibo in scatola, panini oppure quando possibile pasti monodose.\nPer questo motivo vi invitiamo a lanciare raccolte volte a recuperare :\nTonno\nCrackers\nPane in cassetta\nCornetti in busta\nPlum-cake\nCarne in scatola\nFrutta\nSucchi di frutta monodose\nBottiglie d\u2019acqua\n\nOltre a queste cose abbiamo bisogno anche di coperte, mascherine e prodotti disinfettanti.\nPunto di raccolta Baobab"", ""Destinatari"": ""Migranti"", ""Informativa"": ""OK"", ""Link"": ""https://www.facebook.com/story.php?story_fbid=2950196055077062&id=1295938570502827&scmts=scwspsdd&extid=KB0d1KiKWVvFBYw6"", ""Natura"": ""solidale"", ""Posizione"": ""41.914139 12.532687 0 0"", ""Provincia"": ""-"", ""Regione"": ""Lazio"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Raccolta beni prima necessit\u00e0""}","<pre><yamldata>
+Comune: Roma
 Da_chi_offerta: Baobab Experience
-Descrizione: 'In questo periodo di emergenza proveremo ad offrire ai migranti i pasti
-  sotto forma di sacchetti contenente frutta e cibo in scatola, panini oppure quando
-  possibile pasti monodose.
-
-  Per questo motivo vi invitiamo a lanciare raccolte volte a recuperare :
-
-  Tonno
-
-  Crackers
-
-  Pane in cassetta
-
-  Cornetti in busta
-
-  Plum-cake
-
-  Carne in scatola
-
-  Frutta
-
-  Succhi di frutta monodose
-
-  Bottiglie d’acqua
-
-
-  Oltre a queste cose abbiamo bisogno anche di coperte, mascherine e prodotti disinfettanti.
-
-  Punto di raccolta Baobab'
+Descrizione: ""In questo periodo di emergenza proveremo ad offrire ai migranti i pasti\
+  \ sotto forma di sacchetti contenente frutta e cibo in scatola, panini oppure quando\
+  \ possibile pasti monodose.\nPer questo motivo vi invitiamo a lanciare raccolte\
+  \ volte a recuperare :\nTonno\nCrackers\nPane in cassetta\nCornetti in busta\nPlum-cake\n\
+  Carne in scatola\nFrutta\nSucchi di frutta monodose\nBottiglie d\u2019acqua\n\n\
+  Oltre a queste cose abbiamo bisogno anche di coperte, mascherine e prodotti disinfettanti.\n\
+  Punto di raccolta Baobab""
 Destinatari: Migranti
 Informativa: OK
 Link: https://www.facebook.com/story.php?story_fbid=2950196055077062&id=1295938570502827&scmts=scwspsdd&extid=KB0d1KiKWVvFBYw6
 Natura: solidale
 Posizione: 41.914139 12.532687 0 0
+Provincia: '-'
+Regione: Lazio
 Tipo_di_soggetto: privato
-Titolo: Raccolta beni prima necessità
-
+Titolo: ""Raccolta beni prima necessit\xE0""
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/361,580699058,2020-03-14 22:18:55,2020-03-13 16:05:09,Fondo Cariplo per enti non profit in difficoltà #Milano,45.476121,9.197887,"[""Servizi e iniziative solidali private"", ""Sostegno lavoro e imprese"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Fondazione Cariplo"", ""Descrizione"": ""Il Consiglio di Amministrazione di Fondazione Cariplo ha approvato la costituzione di un fondo di 2 milioni di euro per mitigare gli effetti indesiderati nei confronti degli enti non profit, causati dalle misure di contenimento del COVID-19."", ""Destinatari"": ""enti non - profit"", ""Link"": ""https://www.fondazionecariplo.it/it/news/istituzionali/coronavirus-un-fondo-cariplo-per-le-comunita-in-difficolta.html?mc_cid=b726a9f831&mc_eid=04c847d138"", ""Natura"": ""solidale"", ""Posizione"": ""45.476121 9.197887 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Fondo Cariplo per le comunit\u00e0 in difficolt\u00e0""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/361,580699058,2020-03-16 23:03:09,2020-03-13 16:05:09,Fondo Cariplo per enti non profit in difficoltà #Milano,45.476121,9.197887,"[""Servizi e iniziative solidali private"", ""Sostegno lavoro e imprese"", ""accettato"", ""form""]",,,"{""Comune"": ""Milano"", ""Da_chi_offerta"": ""Fondazione Cariplo"", ""Descrizione"": ""Il Consiglio di Amministrazione di Fondazione Cariplo ha approvato la costituzione di un fondo di 2 milioni di euro per mitigare gli effetti indesiderati nei confronti degli enti non profit, causati dalle misure di contenimento del COVID-19."", ""Destinatari"": ""enti non - profit"", ""Link"": ""https://www.fondazionecariplo.it/it/news/istituzionali/coronavirus-un-fondo-cariplo-per-le-comunita-in-difficolta.html?mc_cid=b726a9f831&mc_eid=04c847d138"", ""Natura"": ""solidale"", ""Posizione"": ""45.476121 9.197887 0 0"", ""Provincia"": ""-"", ""Regione"": ""Lombardia"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Fondo Cariplo per le comunit\u00e0 in difficolt\u00e0""}","<pre><yamldata>
+Comune: Milano
 Da_chi_offerta: Fondazione Cariplo
 Descrizione: Il Consiglio di Amministrazione di Fondazione Cariplo ha approvato la
   costituzione di un fondo di 2 milioni di euro per mitigare gli effetti indesiderati
@@ -3278,27 +3270,32 @@ Destinatari: enti non - profit
 Link: https://www.fondazionecariplo.it/it/news/istituzionali/coronavirus-un-fondo-cariplo-per-le-comunita-in-difficolta.html?mc_cid=b726a9f831&mc_eid=04c847d138
 Natura: solidale
 Posizione: 45.476121 9.197887 0 0
+Provincia: '-'
+Regione: Lombardia
 Tipo_di_soggetto: privato
-Titolo: Fondo Cariplo per le comunità in difficoltà
-
+Titolo: ""Fondo Cariplo per le comunit\xE0 in difficolt\xE0""
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/360,580693895,2020-03-13 21:57:11,2020-03-13 15:56:32,"""non laviamocene le Mani"" servizio di consegna medicinali e cibo ARCI #Barletta",41.320574,16.286241,"[""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Arci Barletta"", ""Descrizione"": ""I volontari del Circolo Arci Cafiero di Barletta mettono a disposizione un servizio gratuito per portare medicinali e cibo a chi \u00e8 solo e non pu\u00f2 muoversi da casa. Il servizio, offerto dai volontari Arci in costante raccordo con i Servizi Sociali della Citt\u00e0 di Barletta, \u00e8 uno degli strumenti che la nostra rete associativa sta mettendo a disposizione dei Comuni e dei cittadini della Puglia."", ""Destinatari"": ""Cittadini soli impossibilitati ad uscire di casa"", ""Informativa"": ""OK"", ""Link"": ""https://www.facebook.com/arci.puglia"", ""Natura"": ""solidale"", ""Posizione"": ""41.320574 16.286241 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""non laviamocene le Mani""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/360,580693895,2020-03-16 23:03:11,2020-03-13 15:56:32,"""non laviamocene le Mani"" servizio di consegna medicinali e cibo ARCI #Barletta",41.320574,16.286241,"[""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Comune"": ""Barletta"", ""Da_chi_offerta"": ""Arci Barletta"", ""Descrizione"": ""I volontari del Circolo Arci Cafiero di Barletta mettono a disposizione un servizio gratuito per portare medicinali e cibo a chi \u00e8 solo e non pu\u00f2 muoversi da casa. Il servizio, offerto dai volontari Arci in costante raccordo con i Servizi Sociali della Citt\u00e0 di Barletta, \u00e8 uno degli strumenti che la nostra rete associativa sta mettendo a disposizione dei Comuni e dei cittadini della Puglia."", ""Destinatari"": ""Cittadini soli impossibilitati ad uscire di casa"", ""Informativa"": ""OK"", ""Link"": ""https://www.facebook.com/arci.puglia"", ""Natura"": ""solidale"", ""Posizione"": ""41.320574 16.286241 0 0"", ""Provincia"": ""Barletta-Andria-Trani"", ""Regione"": ""Puglia"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""non laviamocene le Mani""}","<pre><yamldata>
+Comune: Barletta
 Da_chi_offerta: Arci Barletta
-Descrizione: I volontari del Circolo Arci Cafiero di Barletta mettono a disposizione
-  un servizio gratuito per portare medicinali e cibo a chi è solo e non può muoversi
-  da casa. Il servizio, offerto dai volontari Arci in costante raccordo con i Servizi
-  Sociali della Città di Barletta, è uno degli strumenti che la nostra rete associativa
-  sta mettendo a disposizione dei Comuni e dei cittadini della Puglia.
+Descrizione: ""I volontari del Circolo Arci Cafiero di Barletta mettono a disposizione\
+  \ un servizio gratuito per portare medicinali e cibo a chi \xE8 solo e non pu\xF2\
+  \ muoversi da casa. Il servizio, offerto dai volontari Arci in costante raccordo\
+  \ con i Servizi Sociali della Citt\xE0 di Barletta, \xE8 uno degli strumenti che\
+  \ la nostra rete associativa sta mettendo a disposizione dei Comuni e dei cittadini\
+  \ della Puglia.""
 Destinatari: Cittadini soli impossibilitati ad uscire di casa
 Informativa: OK
 Link: https://www.facebook.com/arci.puglia
 Natura: solidale
 Posizione: 41.320574 16.286241 0 0
+Provincia: Barletta-Andria-Trani
+Regione: Puglia
 Tipo_di_soggetto: privato
 Titolo: non laviamocene le Mani
-
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/359,580692621,2020-03-13 21:58:00,2020-03-13 15:54:27,Sportello telefonico di ascolto ChiamArci #Bari,41.122815,16.857724,"[""Servizi e iniziative solidali private"", ""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Arci Bari"", ""Descrizione"": ""Sportello telefonico di ascolto attivo per supporto psico-sociale\nDegli esperti rispondono ogni giorno dalle 16:00 alle 19:00 in Italiano, Arabo, Inglese, Francese, Spagnolo e Albanese.\nI volontari affrontano richieste di informazioni, attacchi di panico, sostegno antisolitudine."", ""Destinatari"": ""Cittadini Italiani e stranieri"", ""Informativa"": ""OK"", ""Link"": ""https://www.facebook.com/arci.puglia/"", ""Natura"": ""solidale"", ""Posizione"": ""41.122815 16.857724 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""ChiamArci""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/359,580692621,2020-03-16 23:03:13,2020-03-13 15:54:27,Sportello telefonico di ascolto ChiamArci #Bari,41.122815,16.857724,"[""Servizi e iniziative solidali private"", ""Servizi e iniziative solidali pubbliche"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Comune"": ""Bari"", ""Da_chi_offerta"": ""Arci Bari"", ""Descrizione"": ""Sportello telefonico di ascolto attivo per supporto psico-sociale\nDegli esperti rispondono ogni giorno dalle 16:00 alle 19:00 in Italiano, Arabo, Inglese, Francese, Spagnolo e Albanese.\nI volontari affrontano richieste di informazioni, attacchi di panico, sostegno antisolitudine."", ""Destinatari"": ""Cittadini Italiani e stranieri"", ""Informativa"": ""OK"", ""Link"": ""https://www.facebook.com/arci.puglia/"", ""Natura"": ""solidale"", ""Posizione"": ""41.122815 16.857724 0 0"", ""Provincia"": ""-"", ""Regione"": ""Puglia"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""ChiamArci""}","<pre><yamldata>
+Comune: Bari
 Da_chi_offerta: Arci Bari
 Descrizione: 'Sportello telefonico di ascolto attivo per supporto psico-sociale
 
@@ -3311,9 +3308,10 @@ Informativa: OK
 Link: https://www.facebook.com/arci.puglia/
 Natura: solidale
 Posizione: 41.122815 16.857724 0 0
+Provincia: '-'
+Regione: Puglia
 Tipo_di_soggetto: privato
 Titolo: ChiamArci
-
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/358,580684877,2020-03-13 22:30:37,2020-03-13 15:43:03,"Sospensione termini di pagamento piani di rateizzazione tributi  locali, entrate patrimoniali e ingi",,,"[""Informazioni utili"", ""Notizie"", ""Sostegno lavoro e imprese"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Ancona"", ""Descrizione"": ""In considerazione della situazione straordinaria e a sostegno delle famiglie, lavoratori e imprese connesse all\u2019emergenza epidemiologica da Coronavirus, l'Amministrazione comunale sospende fino al 30 maggio 2020 i termini di pagamento dei piani di rateizzazioni concessi riguardanti i tributi locali e le entrate patrimoniali e le ingiunzioni di pagamento (rate di Imu, Tari, rette e altro). I pagamenti sospesi potranno essere effettuati dal 30 giugno salvo altra comunicazione. Info Anconaentrate 800551881"", ""Destinatari"": ""Cittadini e Imprese"", ""Informativa"": ""OK"", ""Link"": ""https://www.comune.ancona.gov.it/ankonline/precauzioni-contro-coronavirus-annullate-manifestazioni-di-carnevale/"", ""Natura"": ""sostegno-lavor"", ""Titolo"": ""Sospensione termini di pagamento piani di rateizzazione tributi  locali, entrate patrimoniali e ingiunzioni""}","<pre><yamldata>
 Da_chi_offerta: Comune di Ancona
@@ -3331,41 +3329,46 @@ Titolo: Sospensione termini di pagamento piani di rateizzazione tributi  locali,
   patrimoniali e ingiunzioni
 
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/357,580651101,2020-03-13 23:06:09,2020-03-13 14:51:44,"Numero amico per supporto psico-sociale anziani, disabili e persone in difficoltà #Bari",41.118162,16.872738,"[""Contatti utili"", ""Informazioni utili"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Coop. soc. Occupazione e solidariet\u00e0"", ""Descrizione"": ""Linea di ascolto per offrire supporto a persone diversamente abili, anziani e loro familiari; per sostenere e supportare cittadine/i in un momento di particolare emergenza e difficolt\u00e0; per garantire informazione e orientamento alla rete dei servizi territoriali; per segnalare situazioni emergenziali e di emarginazione che saranno trasmesse ai servizi territoriali competenti, sociali e sanitari. \n\nIl servizio \u00e8 attivo dal luned\u00ec al Sabato attraverso un'\u00e8quipe di tre Assistenti Sociali:\nDott.ssa Lerro Marianna: dalle 09,00 alle 12,00 al numero 340.26.21.994\nDott.ssa Santoro Margherita: dalle 12,00 alle 15,00 al numero 324.695.08.46\nDott.ssa Santamato Annarita: dalle 15,00 alle 18,00 al numero 393.933.25.38"", ""Destinatari"": ""Tutte/i"", ""Informativa"": ""OK"", ""Natura"": ""solidale"", ""Posizione"": ""41.118162 16.872738 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Numero amico - supporto psico-sociale""}","<pre><yamldata>
-Da_chi_offerta: Coop. soc. Occupazione e solidarietà
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/357,580651101,2020-03-16 23:03:14,2020-03-13 14:51:44,"Numero amico per supporto psico-sociale anziani, disabili e persone in difficoltà #Bari",41.118162,16.872738,"[""Contatti utili"", ""Informazioni utili"", ""Servizi e iniziative solidali private"", ""Supporto psicologico"", ""accettato"", ""form""]",,,"{""Comune"": ""Bari"", ""Da_chi_offerta"": ""Coop. soc. Occupazione e solidariet\u00e0"", ""Descrizione"": ""Linea di ascolto per offrire supporto a persone diversamente abili, anziani e loro familiari; per sostenere e supportare cittadine/i in un momento di particolare emergenza e difficolt\u00e0; per garantire informazione e orientamento alla rete dei servizi territoriali; per segnalare situazioni emergenziali e di emarginazione che saranno trasmesse ai servizi territoriali competenti, sociali e sanitari. \n\nIl servizio \u00e8 attivo dal luned\u00ec al Sabato attraverso un'\u00e8quipe di tre Assistenti Sociali:\nDott.ssa Lerro Marianna: dalle 09,00 alle 12,00 al numero 340.26.21.994\nDott.ssa Santoro Margherita: dalle 12,00 alle 15,00 al numero 324.695.08.46\nDott.ssa Santamato Annarita: dalle 15,00 alle 18,00 al numero 393.933.25.38"", ""Destinatari"": ""Tutte/i"", ""Informativa"": ""OK"", ""Natura"": ""solidale"", ""Posizione"": ""41.118162 16.872738 0 0"", ""Provincia"": ""-"", ""Regione"": ""Puglia"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Numero amico - supporto psico-sociale""}","<pre><yamldata>
+Comune: Bari
+Da_chi_offerta: ""Coop. soc. Occupazione e solidariet\xE0""
 Descrizione: ""Linea di ascolto per offrire supporto a persone diversamente abili,\
   \ anziani e loro familiari; per sostenere e supportare cittadine/i in un momento\
-  \ di particolare emergenza e difficoltà; per garantire informazione e orientamento\
+  \ di particolare emergenza e difficolt\xE0; per garantire informazione e orientamento\
   \ alla rete dei servizi territoriali; per segnalare situazioni emergenziali e di\
   \ emarginazione che saranno trasmesse ai servizi territoriali competenti, sociali\
-  \ e sanitari. \n\nIl servizio è attivo dal lunedì al Sabato attraverso un'èquipe\
-  \ di tre Assistenti Sociali:\nDott.ssa Lerro Marianna: dalle 09,00 alle 12,00 al\
-  \ numero 340.26.21.994\nDott.ssa Santoro Margherita: dalle 12,00 alle 15,00 al numero\
-  \ 324.695.08.46\nDott.ssa Santamato Annarita: dalle 15,00 alle 18,00 al numero 393.933.25.38""
+  \ e sanitari. \n\nIl servizio \xE8 attivo dal luned\xEC al Sabato attraverso un'\xE8\
+  quipe di tre Assistenti Sociali:\nDott.ssa Lerro Marianna: dalle 09,00 alle 12,00\
+  \ al numero 340.26.21.994\nDott.ssa Santoro Margherita: dalle 12,00 alle 15,00 al\
+  \ numero 324.695.08.46\nDott.ssa Santamato Annarita: dalle 15,00 alle 18,00 al numero\
+  \ 393.933.25.38""
 Destinatari: Tutte/i
 Informativa: OK
 Natura: solidale
 Posizione: 41.118162 16.872738 0 0
+Provincia: '-'
+Regione: Puglia
 Tipo_di_soggetto: privato
 Titolo: Numero amico - supporto psico-sociale
-
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/356,580646961,2020-03-13 17:27:05,2020-03-13 14:45:05,Video educativi per bambine e bambini del nido ,41.117904,16.870548,"[""Didattica a distanza e-learning"", ""Giochi/intrattenimento bambini"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Coop.soc. Occupazione e solidariet\u00e0 e Koinos"", ""Descrizione"": ""Il servizio Educativo Integrativo Nidi Bari decide di stare accanto alle famiglie offrendo a genitori e bambini momenti di condivisione per sentirsi particolarmente uniti anche se a distanza. \nAl link sono disponibili brevi video realizzati dalle Coordinatrici ed Educatrici dei Servizio Educativo Integrativo Nidi Bari: https://www.nidibari.org/noirestiamoacasa \n\nOccupazione e Solidariet\u00e0 insieme a Koinos sono le cooperative che, dal 2014, gestiscono in ATI l'attivit\u00e0 educativa pomeridiana ed estiva presso i dieci asili nido comunali a gestione diretta del Comune di Bari."", ""Destinatari"": ""Bambine e bambini in et\u00e0 nido"", ""Informativa"": ""OK"", ""Link"": ""https://www.nidibari.org/noirestiamoacasa"", ""Posizione"": ""41.117904 16.870548 0 0"", ""Titolo"": ""Contenuti educativi nido #noirestiamoacasa""}","<pre><yamldata>
-Da_chi_offerta: Coop.soc. Occupazione e solidarietà e Koinos
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/356,580646961,2020-03-16 23:03:16,2020-03-13 14:45:05,Video educativi per bambine e bambini del nido ,41.117904,16.870548,"[""Didattica a distanza e-learning"", ""Giochi/intrattenimento bambini"", ""accettato"", ""form""]",,,"{""Comune"": ""Bari"", ""Da_chi_offerta"": ""Coop.soc. Occupazione e solidariet\u00e0 e Koinos"", ""Descrizione"": ""Il servizio Educativo Integrativo Nidi Bari decide di stare accanto alle famiglie offrendo a genitori e bambini momenti di condivisione per sentirsi particolarmente uniti anche se a distanza. \nAl link sono disponibili brevi video realizzati dalle Coordinatrici ed Educatrici dei Servizio Educativo Integrativo Nidi Bari: https://www.nidibari.org/noirestiamoacasa \n\nOccupazione e Solidariet\u00e0 insieme a Koinos sono le cooperative che, dal 2014, gestiscono in ATI l'attivit\u00e0 educativa pomeridiana ed estiva presso i dieci asili nido comunali a gestione diretta del Comune di Bari."", ""Destinatari"": ""Bambine e bambini in et\u00e0 nido"", ""Informativa"": ""OK"", ""Link"": ""https://www.nidibari.org/noirestiamoacasa"", ""Posizione"": ""41.117904 16.870548 0 0"", ""Provincia"": ""-"", ""Regione"": ""Puglia"", ""Titolo"": ""Contenuti educativi nido #noirestiamoacasa""}","<pre><yamldata>
+Comune: Bari
+Da_chi_offerta: ""Coop.soc. Occupazione e solidariet\xE0 e Koinos""
 Descrizione: ""Il servizio Educativo Integrativo Nidi Bari decide di stare accanto\
   \ alle famiglie offrendo a genitori e bambini momenti di condivisione per sentirsi\
   \ particolarmente uniti anche se a distanza. \nAl link sono disponibili brevi video\
   \ realizzati dalle Coordinatrici ed Educatrici dei Servizio Educativo Integrativo\
-  \ Nidi Bari: https://www.nidibari.org/noirestiamoacasa \n\nOccupazione e Solidarietà\
-  \ insieme a Koinos sono le cooperative che, dal 2014, gestiscono in ATI l'attività\
+  \ Nidi Bari: https://www.nidibari.org/noirestiamoacasa \n\nOccupazione e Solidariet\xE0\
+  \ insieme a Koinos sono le cooperative che, dal 2014, gestiscono in ATI l'attivit\xE0\
   \ educativa pomeridiana ed estiva presso i dieci asili nido comunali a gestione\
   \ diretta del Comune di Bari.""
-Destinatari: Bambine e bambini in età nido
+Destinatari: ""Bambine e bambini in et\xE0 nido""
 Informativa: OK
 Link: https://www.nidibari.org/noirestiamoacasa
 Posizione: 41.117904 16.870548 0 0
+Provincia: '-'
+Regione: Puglia
 Titolo: 'Contenuti educativi nido #noirestiamoacasa'
-
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/355,580643298,2020-03-14 12:10:48,2020-03-13 14:38:59,Non è vero che verrà disinfettata la #ValledAosta con elicottero,,,"[""Fake News"", ""accettato"", ""form""]",,,"{""Cosa"": ""DISINFEZIONE CON ELICOTTERO"", ""Descrizione"": ""Post su Messaggistica istantanea ( Whatsup, telegram)."", ""Informativa"": ""OK"", ""Link"": ""https://www.lastampa.it/aosta/2020/03/11/news/no-nessun-elicottero-si-alzera-in-volo-per-disinfettare-la-valle-d-aosta-e-una-fake-news-1.38579680""}","<pre><yamldata>
 Cosa: DISINFEZIONE CON ELICOTTERO
