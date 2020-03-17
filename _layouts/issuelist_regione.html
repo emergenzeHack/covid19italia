@@ -2,7 +2,22 @@
 layout: page
 ---
 
-{{content}}
+{% if page.categorieissue %}
+{% assign categorieissue = page.categorieissue %}
+{% else %}
+{% assign categorieissue = site.categorieissue %}
+{% endif %}
+
+<div class="row">
+<div class="text-center">
+{% for categoriatuple in categorieissue %}
+{% assign categoria = categoriatuple | split: ";" %}
+  <span class="col-xs-12 col-sm-6">
+	  <a href="#{{categoria[0] | slugify}}" class="btn btn-success btn-lg col-xs-12 mb-15" role="button">{{categoria[0]}}</a>
+	</span>
+{% endfor %}
+</div>
+</div>
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
    integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
@@ -44,7 +59,7 @@ layout: page
 {% for categoriatuple in categorieissue %}
 {% assign categoria = categoriatuple | split: ";" %}
 
-<h2>{{categoria[0]}}</h2>
+<h2 id="{{categoria[0] | slugify}}">{{categoria[0]}}</h2>
 
 <div class="panel-group">
     {% if page.nome_regione != blank %}
@@ -75,8 +90,8 @@ layout: page
 {% if page.categorieMapAll %}
 {% assign filteredissues = openissues | where: "state","open" %}
 {% else %}
-    {% if page.Regione != blank %}
-    {% assign filteredissues = openissues | where: "state","open" | where_exp: "member", "member.issue.data.Regione == page.Regione" %}
+    {% if page.nome_regione != blank %}
+    {% assign filteredissues = openissues | where: "state","open" | where_exp: "member", "member.issue.data.Regione == page.nome_regione" %}
     {% endif %}
 {% endif %}
 
@@ -171,11 +186,11 @@ function getFeaturesInView() {
 
 function setVisible(element) {
     $("#issue"+element[3]).show();
-    //console.log("Show #issue"+element[3]);
+    console.log("Show #issue"+element[3]);
 }
 function setInVisible(element) {
     $("#issue"+element[3]).hide();
-    //console.log("Hide #issue"+element[3]);
+    console.log("Hide #issue"+element[3]);
 }
 
 function onMoveEnd(evt) {
