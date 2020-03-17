@@ -140,7 +140,7 @@ for (var i=0; i<markerList.length; i++) {
 
         markers.addLayer(marker);
 
-        marker.bindPopup("<a href=\"" + popupURL + "\">" + decodeURI(popupText) + "</a>");
+        marker.bindPopup("<a href=\"/issues/" + popupURL + "\">" + decodeURI(popupText) + "</a>");
 
         sumLat += lat;
         sumLon += lon;
@@ -154,6 +154,8 @@ map.addLayer(osm).setView([42.629381, 13.288372], 5);
 //var group = new L.featureGroup([marker1, marker2, marker3]);
 
 {% if page.fitBounds %}
+console.log(markers);
+console.log(markers.getBounds());
 map.fitBounds(markers.getBounds().pad(0.1));
 {% endif %}
 
