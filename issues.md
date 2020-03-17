@@ -2,16 +2,6 @@
 layout: issuelist
 title: Iniziative Solidali
 permalink: /issues/
-categorieissue:
- - Raccolte fondi;Raccolte fondi
- - Giochi/intrattenimento bambini;Giochi/intrattenimento bambini
- - Servizi e iniziative solidali;Servizi e iniziative solidali
- - Iniziative culturali e ricreative;Attivita culturali e ricreative
- - Consegne e commissioni;Consegne e commissioni
- - Supporto psicologico;Supporto psicologico
- - Sostegno lavoro e imprese;Sostegno lavoro e imprese
- - Donazioni beni/strumenti;Donazioni beni/strumenti
- - Didattica a distanza e-learning;Didattica a distanza e-learning
 categorieMapAll: true
 ---
 
