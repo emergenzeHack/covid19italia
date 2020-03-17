@@ -1,4 +1,13 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/677,582898955,2020-03-17 10:12:06,2020-03-17 10:10:22,Restiamo a casa ma impariamo divertendoci!,,,"[""Attivita culturali e ricreative"", ""Posizione mancante"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Agente 0011"", ""Descrizione"": ""Missioni e attivit\u00e0 da svolgere in questi giorni da passare rigorosamente in casa, riadattate in modo da poter essere affrontate in modalit\u00e0 piccolo gruppo (adulti e bambino o bambina) o in modalit\u00e0 on-line per condivisione."", ""Link"": ""https://agente0011.it/restiamo-a-casa-ma-impariamo-divertendoci/?fbclid=IwAR35sosYXHop1xoUHVT7LtWmFxuRH2paF8-mpbJByGPoQCpfMBAdz4c7yqY"", ""Natura"": ""culturale-ricr"", ""Titolo"": ""Restiamo a casa ma impariamo divertendoci!""}","<pre><yamldata>
+Da_chi_offerta: Agente 0011
+Descrizione: Missioni e attività da svolgere in questi giorni da passare rigorosamente
+  in casa, riadattate in modo da poter essere affrontate in modalità piccolo gruppo
+  (adulti e bambino o bambina) o in modalità on-line per condivisione.
+Link: https://agente0011.it/restiamo-a-casa-ma-impariamo-divertendoci/?fbclid=IwAR35sosYXHop1xoUHVT7LtWmFxuRH2paF8-mpbJByGPoQCpfMBAdz4c7yqY
+Natura: culturale-ricr
+Titolo: Restiamo a casa ma impariamo divertendoci!
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/675,582885455,2020-03-17 09:48:20,2020-03-17 09:47:15,100.000 euro per acquisto ventialtori polmonari #ReggioCalabria,38.101908,15.65799,"[""Notizia"", ""Notizie"", ""accettato"", ""form""]",,,"{""Cosa"": ""100.000 euro per acquisto ventialtori polmonari #ReggioCalabria"", ""Descrizione"": ""Centomila euro stanziati per macchinari destinati ai tre ospedali che insistono sul territorio della Citt\u00e0 Metropolitana: il Grande Ospedale di Reggio Calabria, l'ospedale di Polistena e l'ospedale di Locri."", ""Link"": ""http://ildispaccio.it/reggio-calabria/239270-coronavirus-l-annuncio-di-falcomata-da-citta-metropolitana-100mila-euro-per-acquisto-di-ventilatori-polmonari-per-i-nostri-ospedali?fbclid=IwAR3bK6cXzKB-rOabmSFxB3SYccE8jtsI5AVKirQdINfY9biGAknWtA8qz8k"", ""Posizione"": ""38.101908 15.65799 0 0""}","<pre><yamldata>
 Cosa: '100.000 euro per acquisto ventialtori polmonari #ReggioCalabria'
 Descrizione: 'Centomila euro stanziati per macchinari destinati ai tre ospedali che
