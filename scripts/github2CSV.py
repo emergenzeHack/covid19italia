@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from github import Github
 import datetime
 import csv
@@ -5,14 +7,14 @@ import sys
 from lxml import html
 import json
 import yaml
-import ConfigParser 
+import configparser
 import os
 import io
 
 FILTER_LABELS=("Accettato",)
 
 try:
-    config=ConfigParser.RawConfigParser()
+    config=configparser.RawConfigParser()
     config.read('.github.cfg')
 
     PASS=config.get('GitHub','TOKEN')
@@ -28,19 +30,19 @@ except:
 
 if not TOKEN:
     if not PASS:
-        print "Need a TOKEN"
+        print("Need a TOKEN")
         sys.exit(1)
 
     if not USER:
-        print "Need a USER"
+        print("Need a USER")
         sys.exit(1)
 
 if not REPO_NAME:
-    print "Need a REPO_NAME"
+    print("Need a REPO_NAME")
     sys.exit(1)
 
 if not ORG:
-    print "Need a ORG"
+    print("Need a ORG")
     sys.exit(1)
 
 CSVFILE=sys.argv[1]
@@ -57,7 +59,7 @@ try:
 except:
     gjwr=None
 
-wr=file(CSVFILE,"w+")
+wr=open(CSVFILE,"w+")
 csvwriter=csv.writer(wr,quotechar='"')
 
 lastTime = datetime.datetime(2000,1,1)
@@ -76,7 +78,7 @@ issues=r.get_issues(since=lastTime,labels=filter_labels,state='all')
 csvwriter.writerow(("url","id","updated_at","created_at","title","lat","lon","labels","milestone","image","data","body","state"))
 
 if gjwr:
-    gjwr.write(unicode('{ "type": "FeatureCollection", "features": '))
+    gjwr.write(str('{ "type": "FeatureCollection", "features": '))
 
 csvarray=[]
 jsonarray=[]
@@ -102,37 +104,37 @@ for issue in issues:
         try:
             yamldataRaw=tree.xpath("//yamldata/text()")
             yamldataStr=yamldataRaw[0] if len(yamldataRaw) > 0 else None
-            data=yaml.load(yamldataStr)
+            data=yaml.safe_load(yamldataStr)
         except:
             pass
     except:
         pass
 
-    if data.has_key("Posizione"):
+    if "Posizione" in data:
         (lat,lon) = data["Posizione"].split(" ")[:2]
 
-    if data.has_key("immagine"):
+    if "immagine" in data:
         image=data['immagine']
 
     title=issue.title
     if title is not None:
-        title=title.encode('utf-8')
+        title=title
 
-    labels=labels.encode('utf-8')
+    labels=labels
 
-    csvarray.append((issue.html_url,issue.id,issue.updated_at,issue.created_at,title,lat,lon,labels,issue.milestone,image,json.dumps(data,sort_keys=True),issue.body.encode('utf-8'), issue.state))
+    csvarray.append((issue.html_url,issue.id,issue.updated_at,issue.created_at,title,lat,lon,labels,issue.milestone,image,json.dumps(data,sort_keys=True),issue.body, issue.state))
     
     if jwr:
-        jsonarray.append({"title":issue.title,"number":issue.number,"state":issue.state,"issue":{"url":issue.html_url,"id":issue.id,"updated_at":issue.updated_at.isoformat()+"+00:00","created_at":issue.created_at.isoformat()+"+00:00","title":title,"lat":lat,"lon":lon,"labels":labels,"milestone":issue.milestone.title if issue.milestone else None,"image":image,"data":data,"body":issue.body.encode('utf-8')}})
+        jsonarray.append({"title":issue.title,"number":issue.number,"state":issue.state,"issue":{"url":issue.html_url,"id":issue.id,"updated_at":issue.updated_at.isoformat()+"+00:00","created_at":issue.created_at.isoformat()+"+00:00","title":title,"lat":lat,"lon":lon,"labels":labels,"milestone":issue.milestone.title if issue.milestone else None,"image":image,"data":data,"body":issue.body}})
 
     if gjwr:
-        geojsonarray.append({"type":"Feature","geometry":{"type":"Point","coordinates":[lon,lat]},"properties":{"title":issue.title,"number":issue.number,"state":issue.state,"url":issue.html_url,"id":issue.id,"updated_at":issue.updated_at.isoformat()+"+00:00","created_at":issue.created_at.isoformat()+"+00:00","labels":eval(labels) if labels else None,"milestone":issue.milestone.title if issue.milestone else None,"image":image,"data":data,"body":issue.body.encode('utf-8')}})
+        geojsonarray.append({"type":"Feature","geometry":{"type":"Point","coordinates":[lon,lat]},"properties":{"title":issue.title,"number":issue.number,"state":issue.state,"url":issue.html_url,"id":issue.id,"updated_at":issue.updated_at.isoformat()+"+00:00","created_at":issue.created_at.isoformat()+"+00:00","labels":eval(labels) if labels else None,"milestone":issue.milestone.title if issue.milestone else None,"image":image,"data":data,"body":issue.body}})
 
 csvwriter.writerows(csvarray)
 
 if jwr:
-    jwr.write(json.dumps(jsonarray,ensure_ascii=False,encoding='utf8',sort_keys=True))
+    jwr.write(json.dumps(jsonarray,ensure_ascii=False,sort_keys=True))
 
 if gjwr:
-    gjwr.write(json.dumps(geojsonarray,ensure_ascii=False,encoding='utf8',sort_keys=True)+"}")
+    gjwr.write(json.dumps(geojsonarray,ensure_ascii=False,sort_keys=True)+"}")
 
