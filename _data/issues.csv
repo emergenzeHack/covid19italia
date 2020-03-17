@@ -1,4 +1,14 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/671,582862016,2020-03-17 09:12:59,2020-03-17 09:07:53,L'Estonia offre supporti educativi digitali,,,"[""Bollettino"", ""Didattica a distanza e-learning"", ""Donazioni beni/strumenti"", ""Posizione mancante"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Ministero dell'Educazione e Ricerca Estonia"", ""Descrizione"": ""L'Estonia ha annunciato di condividere tutti i suoi strumenti di educazione digitale per supportare i sistemi educativi di altri paesi durante la crisi COVID-19. L'elenco degli strumenti disponibili a livello internazionale \u00e8 disponibile qui: http://education-nation.99math.com/"", ""Link"": ""https://education-nation.99math.com/"", ""Natura"": ""didattica"", ""Titolo"": ""L'Estonia offre supporti educativi digitali""}","<pre><yamldata>
+Da_chi_offerta: Ministero dell'Educazione e Ricerca Estonia
+Descrizione: 'L''Estonia ha annunciato di condividere tutti i suoi strumenti di educazione
+  digitale per supportare i sistemi educativi di altri paesi durante la crisi COVID-19.
+  L''elenco degli strumenti disponibili a livello internazionale è disponibile qui:
+  http://education-nation.99math.com/'
+Link: https://education-nation.99math.com/
+Natura: didattica
+Titolo: L'Estonia offre supporti educativi digitali
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/669,582858736,2020-03-17 09:11:55,2020-03-17 09:01:49,Croce Rossa Italia: App gratuita per non udenti #Italia,,,"[""Bollettino"", ""Posizione mancante"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Croce Rossa Italiana"", ""Descrizione"": ""La sala operativa di CRI per le Persone si potenzia ulteriormente e da oggi gli operatori saranno in grado di soddisfare le richieste di aiuto anche delle persone non udenti. Grazie alla collaborazione con Pedius, infatti, gli utenti sordi potranno scaricare l\u2019app gratuita \u201cPedius\u201d (realizzata per iOS e Android) sul proprio smartphone, selezionare il servizio Croce Rossa Italiana per inviare la chiamata al numero verde CRI Per Le Persone, 800.065510."", ""Destinatari"": ""Non udenti"", ""Link"": ""https://www.cri.it/16-03-2020-emergenza-covid-19-cri-vicina-persone-sorde-grazie-a-pedius?fbclid=IwAR0UshtJhxjVqmzJhio4eGSaLPsBeW0R8mfGZKoNsyRfIlMhTTMAEy2wwOA"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""App gratuita per non udenti""}","<pre><yamldata>
 Da_chi_offerta: Croce Rossa Italiana
 Descrizione: La sala operativa di CRI per le Persone si potenzia ulteriormente e da
