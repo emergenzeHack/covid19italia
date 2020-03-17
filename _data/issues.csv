@@ -1,23 +1,4 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/678,582902991,2020-03-17 10:18:23,2020-03-17 10:17:14,Raccolta Fondi per Ospedale Spallanzani - Seppelliamo in Corona Virus #Roma,41.867774,12.455998,"[""Bollettino"", ""Raccolte fondi"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Taffo"", ""Descrizione"": ""Questo \u00e8 un momento difficile per noi italiani, ma lo \u00e8 soprattutto per coloro che ogni giorno lottano tra la vita e la morte.\nPer questo motivo abbiamo deciso di aiutare il reparto di Malattie Infettive dell'Ospedale Spallanzani di Roma mediante questa raccolta fondi destinata all'acquisto di strumentazioni per la terapia intensiva e subintensiva.\n\nInvitiamo tutti i nostri fan di Facebook, Instagram e Twitter a donare anche solo 5\u20ac, siamo pi\u00f9 di 250 mila persone possiamo fare tanto insieme."", ""Destinatari"": ""Ospedale Spallanzani"", ""Link"": ""https://www.gofundme.com/f/taffo-seppellisce-il-coronavirus?fbclid=IwAR1JQYuGR2uWTLvmhLxoMHRRXjSshxTBePF5XEOS5YMLnc2UxTeeXPwJH1E"", ""Natura"": ""solidale"", ""Posizione"": ""41.867774 12.455998 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Raccolta Fondi per Ospedale Spallanzani - Seppelliamo in Corona Virus #Roma""}","<pre><yamldata>
-Da_chi_offerta: Taffo
-Descrizione: 'Questo è un momento difficile per noi italiani, ma lo è soprattutto
-  per coloro che ogni giorno lottano tra la vita e la morte.
-
-  Per questo motivo abbiamo deciso di aiutare il reparto di Malattie Infettive dell''Ospedale
-  Spallanzani di Roma mediante questa raccolta fondi destinata all''acquisto di strumentazioni
-  per la terapia intensiva e subintensiva.
-
-
-  Invitiamo tutti i nostri fan di Facebook, Instagram e Twitter a donare anche solo
-  5€, siamo più di 250 mila persone possiamo fare tanto insieme.'
-Destinatari: Ospedale Spallanzani
-Link: https://www.gofundme.com/f/taffo-seppellisce-il-coronavirus?fbclid=IwAR1JQYuGR2uWTLvmhLxoMHRRXjSshxTBePF5XEOS5YMLnc2UxTeeXPwJH1E
-Natura: solidale
-Posizione: 41.867774 12.455998 0 0
-Tipo_di_soggetto: privato
-Titolo: 'Raccolta Fondi per Ospedale Spallanzani - Seppelliamo in Corona Virus #Roma'
-</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/677,582898955,2020-03-17 10:33:15,2020-03-17 10:10:22,Restiamo a casa ma impariamo divertendoci!,,,"[""Attivita culturali e ricreative"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Agente 0011"", ""Descrizione"": ""Missioni e attivit\u00e0 da svolgere in questi giorni da passare rigorosamente in casa, riadattate in modo da poter essere affrontate in modalit\u00e0 piccolo gruppo (adulti e bambino o bambina) o in modalit\u00e0 on-line per condivisione."", ""Link"": ""https://agente0011.it/restiamo-a-casa-ma-impariamo-divertendoci/?fbclid=IwAR35sosYXHop1xoUHVT7LtWmFxuRH2paF8-mpbJByGPoQCpfMBAdz4c7yqY"", ""Natura"": ""culturale-ricr"", ""Titolo"": ""Restiamo a casa ma impariamo divertendoci!""}","<pre><yamldata>
 Da_chi_offerta: Agente 0011
 Descrizione: Missioni e attività da svolgere in questi giorni da passare rigorosamente
@@ -215,6 +196,20 @@ Descrizione: ""Uffici Postali\nPoste Italiane, in ottemperanza agli ultimi provv
   \ per non aggravare l’operatività del network ed evitare giacenze crescenti nei\
   \ centri operativi o restituzioni al mittente.""
 Link: https://www.poste.it/emergenza-covid19.html?fbclid=IwAR22-ymSmzFcBvFmmiKvikQZv_5MITst3ipv1QSgujpxJpeRMdMyQHzIalw
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/651,582542523,2020-03-17 10:57:56,2020-03-16 19:14:41,Consegna famaci a domicilio #Pordenone,45.958238,12.65861,"[""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Comune"": ""Pordenone"", ""Da_chi_offerta"": ""Croce Rossa Italiana e Federfarma"", ""Descrizione"": ""Servizio gratuito dedicato a persone con pi\u00f9 di 65 anni, non autosufficienti o sottoposte alla misura della quarantena in possesso di ricetta medica."", ""Destinatari"": ""non autosufficienti e anziani over 65"", ""Link"": ""https://www.comune.pordenone.it/it/comune/comunicazione/comune-informa/notizie/consegna-farmaci-a-domicilio"", ""Natura"": ""solidale"", ""Posizione"": ""45.958238 12.65861 0 0"", ""Provincia"": ""Pordenone"", ""Regione"": ""Friuli Venezia Giulia"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Consegna famaci a domicilio""}","<pre><yamldata>
+Comune: Pordenone
+Da_chi_offerta: Croce Rossa Italiana e Federfarma
+Descrizione: ""Servizio gratuito dedicato a persone con pi\xF9 di 65 anni, non autosufficienti\
+  \ o sottoposte alla misura della quarantena in possesso di ricetta medica.""
+Destinatari: non autosufficienti e anziani over 65
+Link: https://www.comune.pordenone.it/it/comune/comunicazione/comune-informa/notizie/consegna-farmaci-a-domicilio
+Natura: solidale
+Posizione: 45.958238 12.65861 0 0
+Provincia: Pordenone
+Regione: Friuli Venezia Giulia
+Tipo_di_soggetto: privato
+Titolo: Consegna famaci a domicilio
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/650,582540692,2020-03-17 10:55:13,2020-03-16 19:11:11,Negozi alimentari per spesa a domicilio #Pordenone,45.958148,12.658696,"[""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Comune"": ""Pordenone"", ""Da_chi_offerta"": ""Confcommercio Pordenone"", ""Descrizione"": ""La Confcommercio per facilitare le consegne a casa ha stilato un primo elenco di negozi - alimentari, macellerie, ortofrutta e panifici - in grado di svolgere il servizio"", ""Destinatari"": ""tutti"", ""Link"": ""https://www.comune.pordenone.it/it/comune/comunicazione/comune-informa/notizie/spesa-a-domicilio-a-pordenone?fbclid=IwAR3Tt1u3HwMyyucTtOPOsgWTET5Rp2GxJ2_db55X0Ssf0qGahFBUxJpy5DM"", ""Natura"": ""solidale"", ""Posizione"": ""45.958148 12.658696 0 0"", ""Provincia"": ""Pordenone"", ""Regione"": ""Friuli Venezia Giulia"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Negozi alimentari per spesa  a domicilio""}","<pre><yamldata>
 Comune: Pordenone
