@@ -366,7 +366,7 @@ Facile no?
 
 Per inserire un elemento nella tabella [PRESS](https://www.covid19italia.help/about/#press) procedere come segue:
 
-* Andare su [questo file](https://github.com/emergenzeHack/covid19italia/blob/master/_data/press.csv) dei PRESS
+* Andare su [questo file](https://github.com/emergenzeHack/covid19italia_data/blob/master/press.csv) dei PRESS
 * Cliccare sull'icona matita per editare il file su Github
 ![cliccare l'icona per modificare il file PRESS](https://d186loudes4jlv.cloudfront.net/git/images/github_my_first_repo_readme.png)
 * Aggiungere una riga al file ed inserire in sequenza data,fonte,titolo,link separati da virgola. Nota: non devono esserci virgole ulteriori eccetto quelle che separano i 4 campi.
@@ -415,6 +415,8 @@ sudo apt install build-essential git ruby-full ruby-bundler zlib1g-dev
 ```
 
 Facciamo su github il *fork* del repository, poi cloniamo il nostro fork in locale: `git clone https://github.com/nomeutente/covid19italia.git` (ricordati di sostituire il tuo vero nome utente)
+
+Se si lavora sui dati (_data/) bisognerà forkare e lavorare su covid19italia_data invece che su covid19italia.
 
 Portiamoci all'interno della nuova cartella: `cd covid19italia`
 
