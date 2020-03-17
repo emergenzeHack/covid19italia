@@ -1,4 +1,10 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/692,582966797,2020-03-17 14:10:15,2020-03-17 12:09:44,Dati AUSL (da aprire) #Bologna,,,"[""Dati utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Dati AUSL Bologna (da aprire)"", ""Fonte"": ""Ausl Bologna"", ""Indirizzo"": ""44.4943668 11.3417208"", ""Link"": ""http://www.ausl.bologna.it/per-i-cittadini/coronavirus/report-casi-positivi-e-in-sorveglianza""}","<pre><yamldata>
+Cosa: Dati AUSL Bologna (da aprire)
+Fonte: Ausl Bologna
+Indirizzo: 44.4943668 11.3417208
+Link: http://www.ausl.bologna.it/per-i-cittadini/coronavirus/report-casi-positivi-e-in-sorveglianza
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/688,582947496,2020-03-17 11:34:36,2020-03-17 11:33:26,fornitura e installazione fino a 5.000 Access Point WiFi negli ospedali pubblici,,,"[""Bollettino"", ""Notizia"", ""Notizie"", ""Servizi e iniziative solidali private"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Infratel Itala S.p.A. con MISE e in collaborazione con TIM e Ministero dell\u2019Innovazione"", ""Descrizione"": ""Nell\u2019ambito del progetto \u2018\u2019Piazza WiFi Italia\u2019\u2019 Infratel Itala S.p.A. in accordo con il MISE e in collaborazione con il partner tecnico TIM e il Ministero dell\u2019Innovazione proceder\u00e0 alla fornitura e installazione fino a 5.000 Access Point WiFi negli ospedali pubblici che ne possono fare richiesta attraverso una comunicazione email a ospedaliwifitalia@infratelitalia.it"", ""Destinatari"": ""ospedali"", ""Link"": ""https://wifi.italia.it/it/newsit/13-wifi-italia-negli-ospedali.html"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""fornitura e installazione fino a 5.000 Access Point WiFi negli ospedali pubblici""}","<pre><yamldata>
 Da_chi_offerta: Infratel Itala S.p.A. con MISE e in collaborazione con TIM e Ministero
   dell’Innovazione
