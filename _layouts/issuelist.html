@@ -73,10 +73,10 @@ layout: page
 {% endfor %}
 
 {% if page.categorieMapAll %}
-{% assign filteredissues = openissues | where: "state","open" %}
+{% assign filteredissues = openissues %}
 {% else %}
-    {% if page.Regione != blank %}
-    {% assign filteredissues = openissues | where: "state","open" | where_exp: "member", "member.issue.data.Regione == page.Regione" %}
+    {% if page.nome_regione != blank %}
+    {% assign filteredissues = openissues | where_exp: "member", "member.issue.data.Regione == page.nome_regione" %}
     {% endif %}
 {% endif %}
 
@@ -153,7 +153,9 @@ map.addLayer(osm).setView([42.629381, 13.288372], 5);
 
 //var group = new L.featureGroup([marker1, marker2, marker3]);
 
+{% if page.fitBounds %}
 map.fitBounds(markers.getBounds().pad(0.1));
+{% endif %}
 
 function getFeaturesInView() {
     //console.log("getFeaturesInView");
