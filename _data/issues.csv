@@ -1,4 +1,17 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/679,582916666,2020-03-17 11:15:49,2020-03-17 10:39:30,Dona il tuo aperitivo: raccolta fondi a favore dell'ospedale Belcolle di #Viterbo,42.32683,12.236344,"[""Raccolte fondi"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Eco Sound Fest"", ""Descrizione"": ""A Caprarola (VT) gli organizzatori del festival musicale Eco Sound Fest promuovono una campagna di raccolta fondi per il reparto della terapia intensiva dell'ospedale Belcolle di Viterbo. Alla campagna aderiscono il circolo ARCI \""Le citt\u00e0 invisibili\"" e altre associazioni."", ""Destinatari"": ""Terapia intensiva ospedale Belcolle"", ""Link"": ""https://www.gofundme.com/f/ud58d-il-tuo-aperitivo-contro-il-coronavirus?utm_medium=copy_link&utm_source=customer&utm_campaign=p_lico+share-sheet"", ""Natura"": ""solidale"", ""Posizione"": ""42.32683 12.236344 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Dona il tuo aperitivo""}","<pre><yamldata>
+Da_chi_offerta: Eco Sound Fest
+Descrizione: A Caprarola (VT) gli organizzatori del festival musicale Eco Sound Fest
+  promuovono una campagna di raccolta fondi per il reparto della terapia intensiva
+  dell'ospedale Belcolle di Viterbo. Alla campagna aderiscono il circolo ARCI ""Le
+  città invisibili"" e altre associazioni.
+Destinatari: Terapia intensiva ospedale Belcolle
+Link: https://www.gofundme.com/f/ud58d-il-tuo-aperitivo-contro-il-coronavirus?utm_medium=copy_link&utm_source=customer&utm_campaign=p_lico+share-sheet
+Natura: solidale
+Posizione: 42.32683 12.236344 0 0
+Tipo_di_soggetto: privato
+Titolo: Dona il tuo aperitivo
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/677,582898955,2020-03-17 10:33:15,2020-03-17 10:10:22,Restiamo a casa ma impariamo divertendoci!,,,"[""Attivita culturali e ricreative"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Agente 0011"", ""Descrizione"": ""Missioni e attivit\u00e0 da svolgere in questi giorni da passare rigorosamente in casa, riadattate in modo da poter essere affrontate in modalit\u00e0 piccolo gruppo (adulti e bambino o bambina) o in modalit\u00e0 on-line per condivisione."", ""Link"": ""https://agente0011.it/restiamo-a-casa-ma-impariamo-divertendoci/?fbclid=IwAR35sosYXHop1xoUHVT7LtWmFxuRH2paF8-mpbJByGPoQCpfMBAdz4c7yqY"", ""Natura"": ""culturale-ricr"", ""Titolo"": ""Restiamo a casa ma impariamo divertendoci!""}","<pre><yamldata>
 Da_chi_offerta: Agente 0011
 Descrizione: Missioni e attività da svolgere in questi giorni da passare rigorosamente
@@ -16,7 +29,7 @@ Descrizione: 'Centomila euro stanziati per macchinari destinati ai tre ospedali 
 Link: http://ildispaccio.it/reggio-calabria/239270-coronavirus-l-annuncio-di-falcomata-da-citta-metropolitana-100mila-euro-per-acquisto-di-ventilatori-polmonari-per-i-nostri-ospedali?fbclid=IwAR3bK6cXzKB-rOabmSFxB3SYccE8jtsI5AVKirQdINfY9biGAknWtA8qz8k
 Posizione: 38.101908 15.65799 0 0
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/674,582874434,2020-03-17 09:32:57,2020-03-17 09:27:53,PROROGA DEI PIANI TERAPEUTICI IN TEMA DI CONTENIMENTO E GESTIONE DELL’EMERGENZA EPIDEMIOLOGICA DA CO,,,"[""Bollettino"", ""Notizia"", ""Notizie"", ""Posizione mancante"", ""accettato"", ""form""]",,,"{""Cosa"": ""PROROGA DEI PIANI TERAPEUTICI IN TEMA DI CONTENIMENTO E GESTIONE DELL\u2019EMERGENZA EPIDEMIOLOGICA DA COVID-19"", ""Descrizione"": ""Tutti i pazienti dermatologici affetti da malattie infiammatorie croniche cutanee, quali psoriasi, dermatite atopica, orticaria cronica idiopatica in trattamento con farmaci biologici, possono continuare le somministrazioni dei farmaci suddetti, prestando le attenzioni richieste in questo momento particolare. \u00c8 tuttavia necessario segnalare ogni sintomo di infezione al medico di medicina generale il quale decider\u00e0 quale percorso deve essere intrapreso e allo specialista dermatologo di riferimento."", ""Link"": ""https://www.sidemast.org/blog/proroga-dei-piani-terapeutici/?fbclid=IwAR0FMd0s38faLFs5aisaVnp1VNdFhk91Rbr9rzT0idvmiXMyffvC7BhL-10""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/674,582874434,2020-03-17 11:16:01,2020-03-17 09:27:53,Società Italiana di Dermatologia: PROROGA DEI PIANI TERAPEUTICI,,,"[""Bollettino"", ""Notizia"", ""Notizie"", ""Posizione mancante"", ""accettato"", ""form""]",,,"{""Cosa"": ""PROROGA DEI PIANI TERAPEUTICI IN TEMA DI CONTENIMENTO E GESTIONE DELL\u2019EMERGENZA EPIDEMIOLOGICA DA COVID-19"", ""Descrizione"": ""Tutti i pazienti dermatologici affetti da malattie infiammatorie croniche cutanee, quali psoriasi, dermatite atopica, orticaria cronica idiopatica in trattamento con farmaci biologici, possono continuare le somministrazioni dei farmaci suddetti, prestando le attenzioni richieste in questo momento particolare. \u00c8 tuttavia necessario segnalare ogni sintomo di infezione al medico di medicina generale il quale decider\u00e0 quale percorso deve essere intrapreso e allo specialista dermatologo di riferimento."", ""Link"": ""https://www.sidemast.org/blog/proroga-dei-piani-terapeutici/?fbclid=IwAR0FMd0s38faLFs5aisaVnp1VNdFhk91Rbr9rzT0idvmiXMyffvC7BhL-10""}","<pre><yamldata>
 Cosa: PROROGA DEI PIANI TERAPEUTICI IN TEMA DI CONTENIMENTO E GESTIONE DELL’EMERGENZA
   EPIDEMIOLOGICA DA COVID-19
 Descrizione: Tutti i pazienti dermatologici affetti da malattie infiammatorie croniche
@@ -102,6 +115,22 @@ Descrizione: ""Per comprendere l'emergenza sanitaria che accompagna il diffonder
 Fonte: ""Istituto Superiore di Sanit\xE0""
 Link: http://www.treccani.it/magazine/parolevalgono/Le_parole_del_Coronavirus/index.html
 Posizione: 41.895142 12.476435 0 0
+Provincia: Roma
+Regione: Lazio
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/654,582559633,2020-03-17 11:04:13,2020-03-16 19:46:12,Consigli Istituto Superiore di Sanità sui guanti: perchè usarli e come usarli bene,41.906302,12.515273,"[""Informazioni utili"", ""accettato"", ""form""]",,,"{""Comune"": ""Roma"", ""Cosa"": ""GUANTI Perch\u00e8 usarli e come usarli bene"", ""Descrizione"": ""I GUANTI. Allontanano le infezioni se .... laviamo le mani; li teniamo lontani da bocca, naso, occhi; li eliminiamo - nei rifiuti indifferenziati - dopo averli usati. \n\nNO! Quando servono, NON sono da riutilizzare.\n\nServono se ..... stiamo accudendo un ammalato. Anche a casa.\n\nSe per lavoro facciamo pulizie. Se, per lavoro, maneggiamo alimenti destinati ad altri. \n\nServono a tutti, al supermercato. Quando arriviamo ai banchi di frutta, verdura, pane ed altri alimenti non confezionati, se li cestiniamo con cura prima di passare oltre."", ""Fonte"": ""Istituto Superiore di Sanit\u00e0"", ""Link"": ""https://www.iss.it/coronavirus/-/asset_publisher/1SRKHcCJJQ7E/content/id/5301250"", ""Posizione"": ""41.906302 12.515273 0 0"", ""Provincia"": ""Roma"", ""Regione"": ""Lazio""}","<pre><yamldata>
+Comune: Roma
+Cosa: ""GUANTI Perch\xE8 usarli e come usarli bene""
+Descrizione: ""I GUANTI. Allontanano le infezioni se .... laviamo le mani; li teniamo\
+  \ lontani da bocca, naso, occhi; li eliminiamo - nei rifiuti indifferenziati - dopo\
+  \ averli usati. \n\nNO! Quando servono, NON sono da riutilizzare.\n\nServono se\
+  \ ..... stiamo accudendo un ammalato. Anche a casa.\n\nSe per lavoro facciamo pulizie.\
+  \ Se, per lavoro, maneggiamo alimenti destinati ad altri. \n\nServono a tutti, al\
+  \ supermercato. Quando arriviamo ai banchi di frutta, verdura, pane ed altri alimenti\
+  \ non confezionati, se li cestiniamo con cura prima di passare oltre.""
+Fonte: ""Istituto Superiore di Sanit\xE0""
+Link: https://www.iss.it/coronavirus/-/asset_publisher/1SRKHcCJJQ7E/content/id/5301250
+Posizione: 41.906302 12.515273 0 0
 Provincia: Roma
 Regione: Lazio
 </yamldata></pre>",open
