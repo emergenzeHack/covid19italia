@@ -1,4 +1,29 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/674,582874434,2020-03-17 09:32:57,2020-03-17 09:27:53,PROROGA DEI PIANI TERAPEUTICI IN TEMA DI CONTENIMENTO E GESTIONE DELL’EMERGENZA EPIDEMIOLOGICA DA CO,,,"[""Bollettino"", ""Notizia"", ""Notizie"", ""Posizione mancante"", ""accettato"", ""form""]",,,"{""Cosa"": ""PROROGA DEI PIANI TERAPEUTICI IN TEMA DI CONTENIMENTO E GESTIONE DELL\u2019EMERGENZA EPIDEMIOLOGICA DA COVID-19"", ""Descrizione"": ""Tutti i pazienti dermatologici affetti da malattie infiammatorie croniche cutanee, quali psoriasi, dermatite atopica, orticaria cronica idiopatica in trattamento con farmaci biologici, possono continuare le somministrazioni dei farmaci suddetti, prestando le attenzioni richieste in questo momento particolare. \u00c8 tuttavia necessario segnalare ogni sintomo di infezione al medico di medicina generale il quale decider\u00e0 quale percorso deve essere intrapreso e allo specialista dermatologo di riferimento."", ""Link"": ""https://www.sidemast.org/blog/proroga-dei-piani-terapeutici/?fbclid=IwAR0FMd0s38faLFs5aisaVnp1VNdFhk91Rbr9rzT0idvmiXMyffvC7BhL-10""}","<pre><yamldata>
+Cosa: PROROGA DEI PIANI TERAPEUTICI IN TEMA DI CONTENIMENTO E GESTIONE DELL’EMERGENZA
+  EPIDEMIOLOGICA DA COVID-19
+Descrizione: Tutti i pazienti dermatologici affetti da malattie infiammatorie croniche
+  cutanee, quali psoriasi, dermatite atopica, orticaria cronica idiopatica in trattamento
+  con farmaci biologici, possono continuare le somministrazioni dei farmaci suddetti,
+  prestando le attenzioni richieste in questo momento particolare. È tuttavia necessario
+  segnalare ogni sintomo di infezione al medico di medicina generale il quale deciderà
+  quale percorso deve essere intrapreso e allo specialista dermatologo di riferimento.
+Link: https://www.sidemast.org/blog/proroga-dei-piani-terapeutici/?fbclid=IwAR0FMd0s38faLFs5aisaVnp1VNdFhk91Rbr9rzT0idvmiXMyffvC7BhL-10
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/673,582872654,2020-03-17 09:31:54,2020-03-17 09:25:20,"Spesa e farmaci a domicilio, la mappa dei negozi nel Pinerolese #Pinerolo",44.886289,7.334644,"[""Consegne e commissioni"", ""Contatti utili"", ""Informazioni utili"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Eco del Chisone"", ""Descrizione"": ""Mappa aggiornata dei negozi che svolgono il servizio di consegna a domicilio a Pinerolo e dintorni. Nella news ci sono anche i numeri delle organizzazioni che sul territorio aiutano persone anziane o in difficolt\u00e0 per la spesa e i farmaci e il numero verde 800909224 che il giornale ha istituito direttamente per informazioni su queste iniziative."", ""Destinatari"": ""Cittadini e cittadine del pinerolese"", ""Link"": ""https://www.ecodelchisone.it/news/2020-03-16/coronavirus-spesa-farmaci-domicilio-mappa-dei-negozi-nel-pinerolese-aggiornata-163-37720?fbclid=IwAR1QVH0HIJ4LFkJGPwBGfSmpWbk5nBI-qA0GbAKp0ZlE1ob4U2AQPK9p5Ok"", ""Natura"": ""solidale"", ""Posizione"": ""44.886289 7.334644 0 0"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Spesa e farmaci a domicilio, la mappa dei negozi nel Pinerolese #Pinerolo""}","<pre><yamldata>
+Da_chi_offerta: Eco del Chisone
+Descrizione: Mappa aggiornata dei negozi che svolgono il servizio di consegna a domicilio
+  a Pinerolo e dintorni. Nella news ci sono anche i numeri delle organizzazioni che
+  sul territorio aiutano persone anziane o in difficoltà per la spesa e i farmaci
+  e il numero verde 800909224 che il giornale ha istituito direttamente per informazioni
+  su queste iniziative.
+Destinatari: Cittadini e cittadine del pinerolese
+Link: https://www.ecodelchisone.it/news/2020-03-16/coronavirus-spesa-farmaci-domicilio-mappa-dei-negozi-nel-pinerolese-aggiornata-163-37720?fbclid=IwAR1QVH0HIJ4LFkJGPwBGfSmpWbk5nBI-qA0GbAKp0ZlE1ob4U2AQPK9p5Ok
+Natura: solidale
+Posizione: 44.886289 7.334644 0 0
+Tipo_di_soggetto: privato
+Titolo: 'Spesa e farmaci a domicilio, la mappa dei negozi nel Pinerolese #Pinerolo'
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/671,582862016,2020-03-17 09:12:59,2020-03-17 09:07:53,L'Estonia offre supporti educativi digitali,,,"[""Bollettino"", ""Didattica a distanza e-learning"", ""Donazioni beni/strumenti"", ""Posizione mancante"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Ministero dell'Educazione e Ricerca Estonia"", ""Descrizione"": ""L'Estonia ha annunciato di condividere tutti i suoi strumenti di educazione digitale per supportare i sistemi educativi di altri paesi durante la crisi COVID-19. L'elenco degli strumenti disponibili a livello internazionale \u00e8 disponibile qui: http://education-nation.99math.com/"", ""Link"": ""https://education-nation.99math.com/"", ""Natura"": ""didattica"", ""Titolo"": ""L'Estonia offre supporti educativi digitali""}","<pre><yamldata>
 Da_chi_offerta: Ministero dell'Educazione e Ricerca Estonia
 Descrizione: 'L''Estonia ha annunciato di condividere tutti i suoi strumenti di educazione
