@@ -31,9 +31,8 @@ L'idea ed anche buona parte del progetto è dello stesso team che ha sviluppato 
 ### Credits
 
 Un grazie sentito a :
-
-Matteo Fortini, Matteo Tempestini, Antonio Vivace, Vincenzo Tilotta, Maurizio De Magnis, Francesco Pinzauti, Andrei Ciulpan,  Andrea Borruso, Chiara Parapini, Donata Columbro, Marieva Favoino, Cristina Galasso, Saraveg, Chiara, luciaroma
-
+{% for contributore in site.data.contributori %}
+- {{ contributore.name }}{% endfor %}
 
 .....
 (i ringraziamenti sono in progress ogni giorno....Non avertene a male se non compari ancora, grazie lo stesso!)

@@ -1,0 +1,27 @@
+name: AggiornaContributori
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/cache@v1
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip
+
+    - uses: actions/setup-python@v1
+      with:
+        python-version: '3.x'
+
+    - run: |
+        pip install PyGithub
+        ./scripts/aggiornaContributori.py
+        git config --local user.name "GitHub Action"
+        git add _data/contributori.csv
+        git commit -m "Aggiorno _data/contributori.csv" && git push || :
