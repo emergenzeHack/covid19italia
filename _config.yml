@@ -25,7 +25,9 @@ description: Un progetto per condividere informazioni a supporto dell'emergenza 
 # List of links in the navigation bar
 navbar-links:
   SEGNALA: "segnala/"
-  SCOPRI: "issues/"
+  SCOPRI:
+    - SEGNALAZIONI : "issues/"
+    - SEGNALAZIONI PER REGIONE: "issues/regione/"
   SEGUI:
      - NEWS: "news/"
      - BLOG : "post/"
