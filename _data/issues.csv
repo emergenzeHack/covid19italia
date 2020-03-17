@@ -1,4 +1,17 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/710,583084894,2020-03-17 15:35:03,2020-03-17 15:11:47,Trasporto dializzati e spesa a domicilio #Cesena,44.210231,12.059096,"[""Bollettino"", ""Servizi e iniziative solidali private"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Arci Solidariet\u00e0 Cesenate ODV"", ""Descrizione"": ""I Volontari di Arci Solidariet\u00e0 Cesenate assicurano il servizio di trasporto a 6 utenti che sono costretti a sottoporsi a dialisi tre giorni la settimana. Inoltre per alcune frazioni di Cesena, prive di negozi alimentari, garantiamo il servizio di spese a domicilio"", ""Destinatari"": ""Utenti Dialisi e Anziani residenti nella periferia di Cesena"", ""Link"": ""www.arcicesena.it"", ""Natura"": ""solidale"", ""Posizione"": ""44.210231 12.059096 0 65"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""Trasporto Dializzati e spese a domicilio""}","<pre><yamldata>
+Da_chi_offerta: Arci Solidarietà Cesenate ODV
+Descrizione: I Volontari di Arci Solidarietà Cesenate assicurano il servizio di trasporto
+  a 6 utenti che sono costretti a sottoporsi a dialisi tre giorni la settimana. Inoltre
+  per alcune frazioni di Cesena, prive di negozi alimentari, garantiamo il servizio
+  di spese a domicilio
+Destinatari: Utenti Dialisi e Anziani residenti nella periferia di Cesena
+Link: www.arcicesena.it
+Natura: solidale
+Posizione: 44.210231 12.059096 0 65
+Tipo_di_soggetto: privato
+Titolo: Trasporto Dializzati e spese a domicilio
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/694,582975580,2020-03-17 15:34:01,2020-03-17 12:25:02,Nuova sede centro prelievi unificato Ospedale Maggiore #Novara,45.442216,8.619968,"[""Bollettino"", ""Informazioni utili"", ""Notizia"", ""Notizie"", ""accettato"", ""form""]",,,"{""Cosa"": ""Nuova sede centro prelievi unificato Ospedale Maggiore Novara"", ""Descrizione"": ""Gioved\u00ec 19 marzo 2020 il Centro prelievi unificato dell\u2019Azienda ospedaliero-universitaria \u201cMaggiore della Carit\u00e0\u201d di Novara sar\u00e0 trasferito presso la sede distaccata di viale Piazza D\u2019Armi 1 (ex San Giuliano) a Novara, a conclusione di un processo di riorganizzazione durato mesi.\n\nPer poter effettuare il trasloco il Centro prelievi rimarr\u00e0 chiuso mercoled\u00ec 18 marzo 2020."", ""Link"": ""http://www.maggioreinformazione.it/una-nuova-sede-per-il-centro-prelievi-unificato-dellospedale-maggiore-di-novara/"", ""Posizione"": ""45.442216 8.619968 0 0""}","<pre><yamldata>
 Cosa: Nuova sede centro prelievi unificato Ospedale Maggiore Novara
 Descrizione: 'Giovedì 19 marzo 2020 il Centro prelievi unificato dell’Azienda ospedaliero-universitaria
