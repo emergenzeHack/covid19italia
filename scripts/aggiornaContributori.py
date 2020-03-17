@@ -23,7 +23,7 @@ contributors += [
                  { 'name': 'Saraveg' },
                 ]
 
-with open('_data/contributori.csv', 'w') as csv_file:
+with open(os.path.realpath(__file__) + '../_data/contributori.csv', 'w') as csv_file:
     fieldnames = ['name', 'url']
     writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
 
