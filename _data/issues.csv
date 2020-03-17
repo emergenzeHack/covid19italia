@@ -1,9 +1,39 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/694,582975580,2020-03-17 15:34:01,2020-03-17 12:25:02,Nuova sede centro prelievi unificato Ospedale Maggiore #Novara,45.442216,8.619968,"[""Bollettino"", ""Informazioni utili"", ""Notizia"", ""Notizie"", ""accettato"", ""form""]",,,"{""Cosa"": ""Nuova sede centro prelievi unificato Ospedale Maggiore Novara"", ""Descrizione"": ""Gioved\u00ec 19 marzo 2020 il Centro prelievi unificato dell\u2019Azienda ospedaliero-universitaria \u201cMaggiore della Carit\u00e0\u201d di Novara sar\u00e0 trasferito presso la sede distaccata di viale Piazza D\u2019Armi 1 (ex San Giuliano) a Novara, a conclusione di un processo di riorganizzazione durato mesi.\n\nPer poter effettuare il trasloco il Centro prelievi rimarr\u00e0 chiuso mercoled\u00ec 18 marzo 2020."", ""Link"": ""http://www.maggioreinformazione.it/una-nuova-sede-per-il-centro-prelievi-unificato-dellospedale-maggiore-di-novara/"", ""Posizione"": ""45.442216 8.619968 0 0""}","<pre><yamldata>
+Cosa: Nuova sede centro prelievi unificato Ospedale Maggiore Novara
+Descrizione: 'Giovedì 19 marzo 2020 il Centro prelievi unificato dell’Azienda ospedaliero-universitaria
+  “Maggiore della Carità” di Novara sarà trasferito presso la sede distaccata di viale
+  Piazza D’Armi 1 (ex San Giuliano) a Novara, a conclusione di un processo di riorganizzazione
+  durato mesi.
+
+
+  Per poter effettuare il trasloco il Centro prelievi rimarrà chiuso mercoledì 18
+  marzo 2020.'
+Link: http://www.maggioreinformazione.it/una-nuova-sede-per-il-centro-prelievi-unificato-dellospedale-maggiore-di-novara/
+Posizione: 45.442216 8.619968 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/692,582966797,2020-03-17 14:53:15,2020-03-17 12:09:44,Dati AUSL (da aprire) #Bologna,,,"[""Bollettino"", ""Dati utili"", ""accettato"", ""form""]",,,"{""Cosa"": ""Dati AUSL Bologna (da aprire)"", ""Fonte"": ""Ausl Bologna"", ""Indirizzo"": ""44.4943668 11.3417208"", ""Link"": ""http://www.ausl.bologna.it/per-i-cittadini/coronavirus/report-casi-positivi-e-in-sorveglianza""}","<pre><yamldata>
 Cosa: Dati AUSL Bologna (da aprire)
 Fonte: Ausl Bologna
 Indirizzo: 44.4943668 11.3417208
 Link: http://www.ausl.bologna.it/per-i-cittadini/coronavirus/report-casi-positivi-e-in-sorveglianza
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/691,582959619,2020-03-17 15:34:17,2020-03-17 11:56:19,Servizi a domicilio #Carpiano (MI),45.341003,9.273378,"[""Consegne e commissioni"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Comune di Carpiano"", ""Descrizione"": ""Le limitazioni introdotte per prevenire la diffusione del Coronavirus hanno un forte impatto sulle persone anziane o non autosufficienti: molte di loro vivono sole e in questi giorni, anche quando autosufficienti, non si fidano ad uscire di casa, hanno timore a chiedere assistenza per il rischio di contagio o vedono una riduzione dei servizi loro dedicati (es. chiusura del Centro Anziani).\nSoprattutto le persone anziane si sentono pi\u00f9 fragili e pi\u00f9 esposte.\n \nPer contrastare questo fenomeno, il Comune di Carpiano promuove i servizi a domicilio attivi sul territorio e ha attivato, a partire da gioved\u00ec 5 marzo, una nuova \u201cLINEA VICINA\u201d"", ""Destinatari"": ""Anziani, non autosufficienti"", ""Link"": ""http://www.comune.carpiano.mi.it/c015050/po/mostra_news.php?id=926&area=H"", ""Natura"": ""solidale"", ""Posizione"": ""45.341003 9.273378 0 0"", ""Tipo_di_soggetto"": ""pubblico"", ""Titolo"": ""Linea Vicina Carpiano""}","<pre><yamldata>
+Da_chi_offerta: Comune di Carpiano
+Descrizione: ""Le limitazioni introdotte per prevenire la diffusione del Coronavirus\
+  \ hanno un forte impatto sulle persone anziane o non autosufficienti: molte di loro\
+  \ vivono sole e in questi giorni, anche quando autosufficienti, non si fidano ad\
+  \ uscire di casa, hanno timore a chiedere assistenza per il rischio di contagio\
+  \ o vedono una riduzione dei servizi loro dedicati (es. chiusura del Centro Anziani).\n\
+  Soprattutto le persone anziane si sentono più fragili e più esposte.\n \nPer contrastare\
+  \ questo fenomeno, il Comune di Carpiano promuove i servizi a domicilio attivi sul\
+  \ territorio e ha attivato, a partire da giovedì 5 marzo, una nuova “LINEA VICINA”""
+Destinatari: Anziani, non autosufficienti
+Link: http://www.comune.carpiano.mi.it/c015050/po/mostra_news.php?id=926&area=H
+Natura: solidale
+Posizione: 45.341003 9.273378 0 0
+Tipo_di_soggetto: pubblico
+Titolo: Linea Vicina Carpiano
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/688,582947496,2020-03-17 11:34:36,2020-03-17 11:33:26,fornitura e installazione fino a 5.000 Access Point WiFi negli ospedali pubblici,,,"[""Bollettino"", ""Notizia"", ""Notizie"", ""Servizi e iniziative solidali private"", ""Servizi e iniziative solidali pubbliche"", ""accettato"", ""form""]",,,"{""Da_chi_offerta"": ""Infratel Itala S.p.A. con MISE e in collaborazione con TIM e Ministero dell\u2019Innovazione"", ""Descrizione"": ""Nell\u2019ambito del progetto \u2018\u2019Piazza WiFi Italia\u2019\u2019 Infratel Itala S.p.A. in accordo con il MISE e in collaborazione con il partner tecnico TIM e il Ministero dell\u2019Innovazione proceder\u00e0 alla fornitura e installazione fino a 5.000 Access Point WiFi negli ospedali pubblici che ne possono fare richiesta attraverso una comunicazione email a ospedaliwifitalia@infratelitalia.it"", ""Destinatari"": ""ospedali"", ""Link"": ""https://wifi.italia.it/it/newsit/13-wifi-italia-negli-ospedali.html"", ""Natura"": ""solidale"", ""Tipo_di_soggetto"": ""privato"", ""Titolo"": ""fornitura e installazione fino a 5.000 Access Point WiFi negli ospedali pubblici""}","<pre><yamldata>
 Da_chi_offerta: Infratel Itala S.p.A. con MISE e in collaborazione con TIM e Ministero
