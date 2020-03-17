@@ -30,7 +30,7 @@ layout: base
         {% if item[0] == "Telefono" %}
         <a href="tel:{{item[1] | remove: " "}}" target="_blank">{{item[1]}}</a>
         {% else %}
-        {{item[1] | strip | auto_link | newline_to_br}}
+        {{item[1] | strip | auto_link | markdownify | newline_to_br }}
         {% endif %}
         </dd>
         {% endif %}
