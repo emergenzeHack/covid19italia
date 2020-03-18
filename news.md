@@ -1,7 +1,7 @@
 ---
 layout: page
 title: NOTIZIE
-permalink: /news/
+permalink: /notizie/
 ---
 
 <div class="panel-group">
