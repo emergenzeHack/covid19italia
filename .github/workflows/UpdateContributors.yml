@@ -38,5 +38,6 @@ jobs:
         pip install PyGithub
         ../scripts/aggiornaContributori.py
         git config --local user.name "GitHub Action"
-        git add contributori.csv
+        git add contributorsCore.csv
+        git add contributorsEditors.csv
         git commit -m "Aggiorno contributori.csv" && git push || :
