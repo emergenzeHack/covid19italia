@@ -4,28 +4,42 @@ import csv
 import os
 from github import Github
 
+def getGitHubData(listOfUsernames):
+    contriblist = []
+    for contributor in listOfUsernames:
+        avatar_url = g.get_user(contributor.login).avatar_url
+
+        contributorObj = {
+            'name': contributor.name or contributor.login,
+            'url': contributor.html_url,
+            'avatarUrl': avatar_url
+        }
+        
+        contriblist.append(contributorObj)
+    return contriblist
+
 g = Github(os.getenv("GITHUB_TOKEN"))
-repo = g.get_repo(os.getenv("GITHUB_REPOSITORY", "emergenzeHack/covid19italia"))
+repoCore = g.get_repo(os.getenv("GITHUB_REPOSITORY", "emergenzeHack/covid19italia"))
+repoApp = g.get_repo(os.getenv("GITHUB_REPOSITORY", "emergenzeHack/covid19italia_app"))
 
-contributors = []
-for contributor in repo.get_contributors():
-    name = contributor.name or contributor.login
-    contributors += [{ 'name': name, 'url': contributor.html_url }]
+# GitHub usernames of the Editors team
+editorsTeam = ["cristigalas",
+               "chiccap",
+               "favoeva",
+               "Saraveg",
+               "claudiamazzantiact",
+               "luciaroma"]
 
-# FIXME get those from issues
-contributors += [
-                 { 'name': 'Andrea Borruso' },
-                 { 'name': 'Chiara Parapini' },
-                 { 'name': 'Cristina Galasso' },
-                 { 'name': 'Donata Columbro' },
-                 { 'name': 'Marieva Favoino' },
-                 { 'name': 'luciaroma' },
-                 { 'name': 'Saraveg' },
-                ]
+coreContributors = getGitHubData(repoCore.get_contributors())
+# appContributors = getGitHubData(repoApp.get_contributors())
+#editorsContributors = getGitHubData(editorsTeam)
+
+
 
 with open('_data/contributori.csv', 'w') as csv_file:
-    fieldnames = ['name', 'url']
+    fieldnames = list(coreContributors[0])
+    print(fieldnames)
     writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
 
     writer.writeheader()
-    writer.writerows(contributors)
+    writer.writerows(coreContributors)
