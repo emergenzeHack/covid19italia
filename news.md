@@ -2,6 +2,7 @@
 layout: page
 title: News
 permalink: /news/
+categorieissue: Notizie;Notizie
 ---
 
 <div class="panel-group">
