@@ -11,12 +11,29 @@ import configparser
 import os
 import io
 
+import pandas as pd
+import geopandas as gpd
+from shapely.geometry import Point
+
+regioni=gpd.read_file("_utilities/Limiti01012019_g/Reg01012019_g/Reg01012019_g_WGS84.shp")
+
+regioni=gpd.GeoDataFrame(regioni)
+regioni.crs='epsg:23032'
+regioni=regioni.to_crs('epsg:4326')
+
+province=gpd.read_file("_utilities/Limiti01012019_g/ProvCM01012019_g/ProvCM01012019_g_WGS84.shp")
+
+province=gpd.GeoDataFrame(province)
+province.crs='epsg:23032'
+province=province.to_crs('epsg:4326')
+
 FILTER_LABELS=("Accettato",)
 
 try:
     config=configparser.RawConfigParser()
     config.read('.github.cfg')
 
+    TOKEN=None
     PASS=config.get('GitHub','TOKEN')
     USER=config.get('GitHub','USER')
     REPO_NAME=config.get('GitHub','REPO_NAME')
@@ -75,7 +92,7 @@ filter_labels=[r.get_label(l) for l in FILTER_LABELS]
 
 issues=r.get_issues(since=lastTime,labels=filter_labels,state='all')
 
-csvwriter.writerow(("url","id","updated_at","created_at","title","lat","lon","labels","milestone","image","data","body","state"))
+csvwriter.writerow(("url","id","updated_at","created_at","title","lat","lon","regione","provincia","labels","milestone","image","data","body","state"))
 
 if gjwr:
     gjwr.write(str('{ "type": "FeatureCollection", "features": '))
@@ -90,6 +107,8 @@ for issue in issues:
     lat=None
     lon=None
     image=None
+    regioneIssue=None
+    provinciaIssue=None
 
     try:
         tree=html.fromstring(issue.body)
@@ -112,6 +131,24 @@ for issue in issues:
 
     if "Posizione" in data:
         (lat,lon) = data["Posizione"].split(" ")[:2]
+        try:
+            p = Point(float(lon),float(lat))
+            for i,regione in regioni.iterrows():
+                if regione['geometry'].contains(p):
+                    nomeRegione = regione["DEN_REG"]
+                    if "Regione" not in data or data["Regione"] != nomeRegione:
+                        regioneIssue = nomeRegione
+                        break
+                    
+            for i,provincia in province.iterrows():
+                if provincia['geometry'].contains(p):
+                    nomeProvincia=provincia["DEN_UTS"]
+                    if "Provincia" not in data or data["Provincia"] != nomeProvincia:
+                        provinciaIssue = nomeProvincia
+                        break
+                    
+        except Exception as e:
+            print("Exception:",e)
 
     if "immagine" in data:
         image=data['immagine']
@@ -122,13 +159,13 @@ for issue in issues:
 
     labels=labels
 
-    csvarray.append((issue.html_url,issue.id,issue.updated_at,issue.created_at,title,lat,lon,labels,issue.milestone,image,json.dumps(data,sort_keys=True),issue.body, issue.state))
+    csvarray.append((issue.html_url,issue.id,issue.updated_at,issue.created_at,title,lat,lon,regioneIssue,provinciaIssue,labels,issue.milestone,image,json.dumps(data,sort_keys=True),issue.body, issue.state))
     
     if jwr:
-        jsonarray.append({"title":issue.title,"number":issue.number,"state":issue.state,"issue":{"url":issue.html_url,"id":issue.id,"updated_at":issue.updated_at.isoformat()+"+00:00","created_at":issue.created_at.isoformat()+"+00:00","title":title,"lat":lat,"lon":lon,"labels":labels,"milestone":issue.milestone.title if issue.milestone else None,"image":image,"data":data,"body":issue.body}})
+        jsonarray.append({"title":issue.title,"number":issue.number,"state":issue.state,"issue":{"url":issue.html_url,"id":issue.id,"updated_at":issue.updated_at.isoformat()+"+00:00","created_at":issue.created_at.isoformat()+"+00:00","title":title,"lat":lat,"lon":lon,"regione":regioneIssue,"provincia":provinciaIssue,"labels":labels,"milestone":issue.milestone.title if issue.milestone else None,"image":image,"data":data,"body":issue.body}})
 
     if gjwr:
-        geojsonarray.append({"type":"Feature","geometry":{"type":"Point","coordinates":[lon,lat]},"properties":{"title":issue.title,"number":issue.number,"state":issue.state,"url":issue.html_url,"id":issue.id,"updated_at":issue.updated_at.isoformat()+"+00:00","created_at":issue.created_at.isoformat()+"+00:00","labels":eval(labels) if labels else None,"milestone":issue.milestone.title if issue.milestone else None,"image":image,"data":data,"body":issue.body}})
+        geojsonarray.append({"type":"Feature","geometry":{"type":"Point","coordinates":[lon,lat]},"properties":{"title":issue.title,"number":issue.number,"state":issue.state,"url":issue.html_url,"id":issue.id,"updated_at":issue.updated_at.isoformat()+"+00:00","created_at":issue.created_at.isoformat()+"+00:00","labels":eval(labels) if labels else None,"milestone":issue.milestone.title if issue.milestone else None,"image":image,"data":data,"body":issue.body,"regione":regioneIssue,"provincia":provinciaIssue}})
 
 csvwriter.writerows(csvarray)
 
