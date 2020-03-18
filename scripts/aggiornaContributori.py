@@ -6,17 +6,25 @@ from github import Github
 
 def getGitHubData(listOfUsernames):
     contriblist = []
-    for contributor in listOfUsernames:
-        avatar_url = g.get_user(contributor.login).avatar_url
+    for contributorName in listOfUsernames:
+        contributor = g.get_user(login=contributorName)
 
         contributorObj = {
             'name': contributor.name or contributor.login,
             'url': contributor.html_url,
-            'avatarUrl': avatar_url
+            'avatarUrl': contributor.avatar_url
         }
         
         contriblist.append(contributorObj)
     return contriblist
+
+def writeCsv(contribData, filename):
+    with open('_data/'+filename, 'w') as csv_file:
+        fieldnames = list(contribData[0])
+        writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
+
+        writer.writeheader()
+        writer.writerows(contribData)
 
 g = Github(os.getenv("GITHUB_TOKEN"))
 repoCore = g.get_repo(os.getenv("GITHUB_REPOSITORY", "emergenzeHack/covid19italia"))
@@ -30,16 +38,15 @@ editorsTeam = ["cristigalas",
                "claudiamazzantiact",
                "luciaroma"]
 
-coreContributors = getGitHubData(repoCore.get_contributors())
-# appContributors = getGitHubData(repoApp.get_contributors())
-#editorsContributors = getGitHubData(editorsTeam)
+coreTeam = []
+for contrib in repoCore.get_contributors():
+    coreTeam.append(contrib.login)
+
+coreContributors = getGitHubData(coreTeam)
+appContributors = getGitHubData(repoApp.get_contributors())
+editorsContributors = getGitHubData(editorsTeam)
 
 
-
-with open('_data/contributori.csv', 'w') as csv_file:
-    fieldnames = list(coreContributors[0])
-    print(fieldnames)
-    writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
-
-    writer.writeheader()
-    writer.writerows(coreContributors)
+writeCsv(coreContributors, 'contributorsCore.csv')
+writeCsv(editorsContributors, 'contributorsEditors.csv')
+writeCsv(appContributors, 'contributorsApp.csv')
