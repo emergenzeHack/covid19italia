@@ -1,3 +1,5 @@
+# Ad ogni push, esegui aggiornaContributori.py per aggiornare la lista di contributors per ogni team.
+
 name: AggiornaContributori
 
 on:
