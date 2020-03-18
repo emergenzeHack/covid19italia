@@ -15,13 +15,15 @@ import pandas as pd
 import geopandas as gpd
 from shapely.geometry import Point
 
-regioni=gpd.read_file("_utilities/Limiti01012019_g/Reg01012019_g/Reg01012019_g_WGS84.shp")
+LIMITIPATH=sys.argv[4]
+
+regioni=gpd.read_file(LIMITIPATH+"/Limiti01012019_g/Reg01012019_g/Reg01012019_g_WGS84.shp")
 
 regioni=gpd.GeoDataFrame(regioni)
 regioni.crs='epsg:23032'
 regioni=regioni.to_crs('epsg:4326')
 
-province=gpd.read_file("_utilities/Limiti01012019_g/ProvCM01012019_g/ProvCM01012019_g_WGS84.shp")
+province=gpd.read_file(LIMITIPATH+"/Limiti01012019_g/ProvCM01012019_g/ProvCM01012019_g_WGS84.shp")
 
 province=gpd.GeoDataFrame(province)
 province.crs='epsg:23032'
