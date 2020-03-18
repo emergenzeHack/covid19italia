@@ -3,6 +3,9 @@ _site/
 .jekyll-cache/
 .jekyll-metadata
 
+# Splitted repo
+_data/
+
 # Bundler
 .bundle/
 vendor/

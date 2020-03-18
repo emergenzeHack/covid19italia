@@ -33,13 +33,26 @@ layout: page
 
 <div class="row"><div class="col-md-12 col-sm-12 col-xs-12"> <div id="map" style="height: 600px;"></div> </div> </div>
 
-{% for categoriatuple in page.categorieissue %}
+{% assign openissues = site.data.issuesjson | where: "state","open" %}
+
+{% if page.categorieissue %}
+{% assign categorieissue = page.categorieissue %}
+{% else %}
+{% assign categorieissue = site.categorieissue %}
+{% endif %}
+
+{% for categoriatuple in categorieissue %}
 {% assign categoria = categoriatuple | split: ";" %}
 
-<h2>{{categoria[0]}}</h2>
+<h2 id="{{categoria[0]|slugify}}">{{categoria[0]}}</h2>
 
 <div class="panel-group">
-{% assign filteredissues = site.data.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains categoria[1]" %}
+    {% if page.nome_regione != blank %}
+    {% assign filteredissues = openissues | where_exp: "member","member.issue.labels contains categoria[1]" | where_exp: "member", "member.issue.regione == page.nome_regione" %}
+    {% else %}
+    {% assign filteredissues = openissues | where_exp: "member","member.issue.labels contains categoria[1]" %}
+    {% endif %}
+
 {% for member in filteredissues %}
 <div class="panel-body issuepanel" id="issue{{member.number}}">
 <div class="list-group-item">
@@ -60,7 +73,11 @@ layout: page
 {% endfor %}
 
 {% if page.categorieMapAll %}
-{% assign filteredissues = site.data.issuesjson | where: "state","open" %}
+{% assign filteredissues = openissues %}
+{% else %}
+    {% if page.nome_regione != blank %}
+    {% assign filteredissues = openissues | where_exp: "member", "member.issue.regione == page.nome_regione" %}
+    {% endif %}
 {% endif %}
 
 <script>
@@ -123,7 +140,7 @@ for (var i=0; i<markerList.length; i++) {
 
         markers.addLayer(marker);
 
-        marker.bindPopup("<a href=\"" + popupURL + "\">" + decodeURI(popupText) + "</a>");
+        marker.bindPopup("<a href=\"/issues/" + popupURL + "\">" + decodeURI(popupText) + "</a>");
 
         sumLat += lat;
         sumLon += lon;
@@ -134,7 +151,16 @@ map.addLayer(markers);
 
 map.addLayer(osm).setView([42.629381, 13.288372], 5);
 
+//var group = new L.featureGroup([marker1, marker2, marker3]);
+
+{% if page.fitBounds %}
+console.log(markers);
+console.log(markers.getBounds());
+map.fitBounds(markers.getBounds().pad(0.3));
+{% endif %}
+
 function getFeaturesInView() {
+    //console.log("getFeaturesInView");
     var featuresInView = [];
     var featuresNotInView = [];
     for (var i=0; i<markerList.length; i++) {
@@ -149,13 +175,17 @@ function getFeaturesInView() {
 
 function setVisible(element) {
     $("#issue"+element[3]).show();
+    //console.log("Show #issue"+element[3]);
 }
 function setInVisible(element) {
     $("#issue"+element[3]).hide();
+    //console.log("Hide #issue"+element[3]);
 }
 
 function onMoveEnd(evt) {
     [inView,notInView]=getFeaturesInView();
+    //console.log(notInView);
+    //console.log(inView);
     notInView.forEach(setInVisible); 
     inView.forEach(setVisible); 
 }
@@ -174,5 +204,30 @@ map.on('moveend', onMoveEnd);
 //        })
 //.addTo(map);
 
+/**
+ * Get the URL parameters
+ * source: https://css-tricks.com/snippets/javascript/get-url-variables/
+ * @param  {String} url The URL
+ * @return {Object}     The URL parameters
+ */
+var getParams = function (url) {
+	var params = {};
+	var parser = document.createElement('a');
+	parser.href = url;
+	var query = parser.search.substring(1);
+	var vars = query.split('&');
+	for (var i = 0; i < vars.length; i++) {
+		var pair = vars[i].split('=');
+		params[pair[0]] = decodeURIComponent(pair[1]);
+	}
+	return params;
+};
+
+function processParams (){
+        params = getParams(window.location.href);
+        //console.log(params);
+}
+
+window.onload = processParams;
 
 </script>

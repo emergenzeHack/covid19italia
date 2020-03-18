@@ -19,7 +19,7 @@ def getGitHubData(listOfUsernames):
     return contriblist
 
 def writeCsv(contribData, filename):
-    with open('_data/'+filename, 'w') as csv_file:
+    with open(os.path.dirname(__file__) + '/../_data/' +filename, 'w') as csv_file:
         fieldnames = list(contribData[0])
         writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
 
@@ -27,6 +27,7 @@ def writeCsv(contribData, filename):
         writer.writerows(contribData)
 
 g = Github(os.getenv("GITHUB_TOKEN"))
+
 repoCore = g.get_repo(os.getenv("GITHUB_REPOSITORY", "emergenzeHack/covid19italia"))
 repoApp = g.get_repo(os.getenv("GITHUB_REPOSITORY", "emergenzeHack/covid19italia_app"))
 
@@ -43,10 +44,9 @@ for contrib in repoCore.get_contributors():
     coreTeam.append(contrib.login)
 
 coreContributors = getGitHubData(coreTeam)
-appContributors = getGitHubData(repoApp.get_contributors())
+#appContributors = getGitHubData(repoApp.get_contributors())
 editorsContributors = getGitHubData(editorsTeam)
-
 
 writeCsv(coreContributors, 'contributorsCore.csv')
 writeCsv(editorsContributors, 'contributorsEditors.csv')
-writeCsv(appContributors, 'contributorsApp.csv')
+#writeCsv(appContributors, 'contributorsApp.csv')

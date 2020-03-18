@@ -28,3 +28,4 @@ gem 'html-proofer'
 gem 'jekyll-tidy'
 gem 'rinku'
 
+gem 'sassc', '~> 2.1.0' # https://github.com/sass/sassc-ruby/issues/146
