@@ -137,17 +137,13 @@ for issue in issues:
             p = Point(float(lon),float(lat))
             for i,regione in regioni.iterrows():
                 if regione['geometry'].contains(p):
-                    nomeRegione = regione["DEN_REG"]
-                    if "Regione" not in data or data["Regione"] != nomeRegione:
-                        regioneIssue = nomeRegione
-                        break
+                    regioneIssue = regione["DEN_REG"]
+                    break
                     
             for i,provincia in province.iterrows():
                 if provincia['geometry'].contains(p):
-                    nomeProvincia=provincia["DEN_UTS"]
-                    if "Provincia" not in data or data["Provincia"] != nomeProvincia:
-                        provinciaIssue = nomeProvincia
-                        break
+                    provinciaIssue = provincia["DEN_UTS"]
+                    break
                     
         except Exception as e:
             print("Exception:",e)
