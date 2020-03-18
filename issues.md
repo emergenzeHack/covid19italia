@@ -1,6 +1,6 @@
 ---
 layout: issuelist
-title: Archivio segnalazioni
+title: Tutte le segnalazioni
 permalink: /issues/
 categorieMapAll: true
 ---
