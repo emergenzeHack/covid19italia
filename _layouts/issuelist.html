@@ -48,7 +48,7 @@ layout: page
 
 <div class="panel-group">
     {% if page.nome_regione != blank %}
-    {% assign filteredissues = openissues | where_exp: "member","member.issue.labels contains categoria[1]" | where_exp: "member", "member.issue.data.Regione == page.nome_regione" %}
+    {% assign filteredissues = openissues | where_exp: "member","member.issue.labels contains categoria[1]" | where_exp: "member", "member.issue.regione == page.nome_regione" %}
     {% else %}
     {% assign filteredissues = openissues | where_exp: "member","member.issue.labels contains categoria[1]" %}
     {% endif %}
@@ -76,7 +76,7 @@ layout: page
 {% assign filteredissues = openissues %}
 {% else %}
     {% if page.nome_regione != blank %}
-    {% assign filteredissues = openissues | where_exp: "member", "member.issue.data.Regione == page.nome_regione" %}
+    {% assign filteredissues = openissues | where_exp: "member", "member.issue.regione == page.nome_regione" %}
     {% endif %}
 {% endif %}
 
@@ -156,7 +156,7 @@ map.addLayer(osm).setView([42.629381, 13.288372], 5);
 {% if page.fitBounds %}
 console.log(markers);
 console.log(markers.getBounds());
-map.fitBounds(markers.getBounds().pad(0.1));
+map.fitBounds(markers.getBounds().pad(0.3));
 {% endif %}
 
 function getFeaturesInView() {
