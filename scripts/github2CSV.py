@@ -112,28 +112,24 @@ for issue in issues:
     regioneIssue=None
     provinciaIssue=None
 
-    tree=html.fromstring(issue.body)
-
     try:
-        dataRaw=tree.xpath("//data/text()")
-        dataStr=dataRaw[0] if len(dataRaw) > 0 else None
-        data=json.loads(dataStr)
+        tree=html.fromstring(issue.body)
+
+        try:
+            dataRaw=tree.xpath("//data/text()")
+            dataStr=dataRaw[0] if len(dataRaw) > 0 else None
+            data=json.loads(dataStr)
+        except:
+            pass
+
+        try:
+            yamldataRaw=tree.xpath("//yamldata/text()")
+            yamldataStr=yamldataRaw[0] if len(yamldataRaw) > 0 else None
+            data=yaml.safe_load(yamldataStr)
+        except:
+            pass
     except:
         pass
-
-    try:
-        yamldataRaw=tree.xpath("//yamldata/text()")
-        yamldataStr=yamldataRaw[0] if len(yamldataRaw) > 0 else None
-        if yamldataStr is None:
-            print(f"L'issue {issue.number} non ha <pre><yamldata>.\n"
-                   "Si prega di aggiustarla.")
-            sys.exit(1)
-        data=yaml.safe_load(yamldataStr)
-    except Exception as err:
-        print(f"L'issue {issue.number} ha lo YAML formattato incorrettamente.\n"
-               "Si prega di aggiustarlo (seguono informazioni sull'errore).")
-        print(err)
-        sys.exit(1)
 
     if "Posizione" in data:
         (lat,lon) = data["Posizione"].split(" ")[:2]
