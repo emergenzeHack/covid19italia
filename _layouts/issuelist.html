@@ -47,10 +47,14 @@ layout: page
 <h2 id="{{categoria[0]|slugify}}">{{categoria[0]}}</h2>
 
 <div class="panel-group">
-    {% if page.nome_regione != blank %}
-    {% assign filteredissues = openissues | where_exp: "member","member.issue.labels contains categoria[1]" | where_exp: "member", "member.issue.regione == page.nome_regione" %}
+    {% if page.nome_provincia != blank %}
+        {% assign filteredissues = openissues | where_exp: "member","member.issue.labels contains categoria[1]" | where_exp: "member", "member.issue.provincia == page.nome_provincia" %}
     {% else %}
-    {% assign filteredissues = openissues | where_exp: "member","member.issue.labels contains categoria[1]" %}
+        {% if page.nome_regione != blank %}
+            {% assign filteredissues = openissues | where_exp: "member","member.issue.labels contains categoria[1]" | where_exp: "member", "member.issue.regione == page.nome_regione" %}
+        {% else %}
+            {% assign filteredissues = openissues | where_exp: "member","member.issue.labels contains categoria[1]" %}
+        {% endif %}
     {% endif %}
 
 {% for member in filteredissues %}
@@ -75,8 +79,14 @@ layout: page
 {% if page.categorieMapAll %}
 {% assign filteredissues = openissues %}
 {% else %}
-    {% if page.nome_regione != blank %}
-    {% assign filteredissues = openissues | where_exp: "member", "member.issue.regione == page.nome_regione" %}
+    {% if page.nome_provincia != blank %}
+        {% assign filteredissues = openissues | where_exp: "member", "member.issue.provincia == page.nome_provincia" %}
+    {% else %}
+        {% if page.nome_regione != blank %}
+            {% assign filteredissues = openissues |  where_exp: "member", "member.issue.regione == page.nome_regione" %}
+        {% else %}
+            {% assign filteredissues = openissues %}
+        {% endif %}
     {% endif %}
 {% endif %}
 
