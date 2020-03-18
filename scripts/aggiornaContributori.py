@@ -4,28 +4,49 @@ import csv
 import os
 from github import Github
 
+def getGitHubData(listOfUsernames):
+    contriblist = []
+    for contributorName in listOfUsernames:
+        contributor = g.get_user(login=contributorName)
+
+        contributorObj = {
+            'name': contributor.name or contributor.login,
+            'url': contributor.html_url,
+            'avatarUrl': contributor.avatar_url
+        }
+        
+        contriblist.append(contributorObj)
+    return contriblist
+
+def writeCsv(contribData, filename):
+    with open(os.path.dirname(__file__) + '/../_data/' +filename, 'w') as csv_file:
+        fieldnames = list(contribData[0])
+        writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
+
+        writer.writeheader()
+        writer.writerows(contribData)
+
 g = Github(os.getenv("GITHUB_TOKEN"))
-repo = g.get_repo(os.getenv("GITHUB_REPOSITORY", "emergenzeHack/covid19italia"))
 
-contributors = []
-for contributor in repo.get_contributors():
-    name = contributor.name or contributor.login
-    contributors += [{ 'name': name, 'url': contributor.html_url }]
+repoCore = g.get_repo(os.getenv("GITHUB_REPOSITORY", "emergenzeHack/covid19italia"))
+repoApp = g.get_repo(os.getenv("GITHUB_REPOSITORY", "emergenzeHack/covid19italia_app"))
 
-# FIXME get those from issues
-contributors += [
-                 { 'name': 'Andrea Borruso' },
-                 { 'name': 'Chiara Parapini' },
-                 { 'name': 'Cristina Galasso' },
-                 { 'name': 'Donata Columbro' },
-                 { 'name': 'Marieva Favoino' },
-                 { 'name': 'luciaroma' },
-                 { 'name': 'Saraveg' },
-                ]
+# GitHub usernames of the Editors team
+editorsTeam = ["cristigalas",
+               "chiccap",
+               "favoeva",
+               "Saraveg",
+               "claudiamazzantiact",
+               "luciaroma"]
 
-with open(os.path.dirname(__file__) + '/../_data/contributori.csv', 'w') as csv_file:
-    fieldnames = ['name', 'url']
-    writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
+coreTeam = []
+for contrib in repoCore.get_contributors():
+    coreTeam.append(contrib.login)
 
-    writer.writeheader()
-    writer.writerows(contributors)
+coreContributors = getGitHubData(coreTeam)
+#appContributors = getGitHubData(repoApp.get_contributors())
+editorsContributors = getGitHubData(editorsTeam)
+
+writeCsv(coreContributors, 'contributorsCore.csv')
+writeCsv(editorsContributors, 'contributorsEditors.csv')
+#writeCsv(appContributors, 'contributorsApp.csv')
