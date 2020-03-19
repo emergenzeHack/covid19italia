@@ -16,6 +16,20 @@ Infine, raccogliamo normative, direttive istituzionali e dati.
 
 Non si intende in alcun modo sostituirsi a fonti istituzionali di informazione a cui rimandiamo caldamente per l'attendibilità.
 
+## Statistiche
+
+Fino ad ora, abbiamo gestito
+{% for valore in site.data.statisticheSegnalazioni %} {% if valore.Tipo == "Segnalazioni totali" %} <b>{{valore.Valore}}</b> {% endif %} {% endfor %} segnalazioni, accettandone e verificandone {% for valore in site.data.statisticheSegnalazioni %} {% if valore.Tipo == "accettato" %} <b>{{valore.Valore}}</b>{% endif %} {% endfor %}, così distribuite:
+
+{% assign labels = "Servizi e iniziative solidali private,Servizi e iniziative solidali pubbliche,Consegne e commissioni,Fake News,Donne,Raccolte fondi,Supporto psicologico,Didattica a distanza e-learning,Fonti istituzionali" | split: ',' %}
+
+
+{: .table .table-striped}
+{% for valore in site.data.statisticheSegnalazioni %} {% if labels contains valore.Tipo %}
+- {{ valore.Valore }} {{ valore.Tipo }}
+{% endif %}
+{% endfor %}
+
 ## Riuso
 
 Ogni componente software che sviluppiamo è rilasciato con una licenza Open Source che ne permette il riuso e ne promuove lo sviluppo pubblicamente.
