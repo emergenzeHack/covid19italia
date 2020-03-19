@@ -19,6 +19,15 @@ Per essere aggiunto alla lista degli sviluppatori del repository apri un issue [
 
 *Covid19Italia è un progetto in divenire*, per suggerire miglioramenti apri un [issue qui](https://github.com/emergenzeHack/covid19italia/issues). Alla stessa pagina puoi vedere le segnalazioni aperte dagli altri utenti; da lì puoi vedere quello che c'è ancora da fare e da sistemare.
 
+
+I repository Github che usiamo sono
+* [QUESTO](https://github.com/emergenzeHack/covid19italia) per lo sviluppo del sito web
+* [QUESTO](https://github.com/emergenzeHack/covid19italia_segnalazioni) per la raccolta e la moderazione delle segnalazioni
+* [QUESTO](https://github.com/emergenzeHack/covid19italia_data) per l'archiviazione dei dati aperti da noi prodotti
+* [QUESTO](https://github.com/emergenzeHack/covid19italia_form) per lo sviluppo del form di inserimento segnalazioni
+* [QUESTO](https://github.com/emergenzeHack/covid19italia_app) per lo sviluppo di una APP mobile
+
+
 Grazie, aspettiamo il tuo aiuto!
 
 ## Riuso
@@ -254,7 +263,18 @@ righe
 Campo2: Questo campo invece è su una sola riga
 ```
 
-Attenzione: Sui campi su più righe, `'` è usato per delimitare il contenuto di un campo quindi non può essere usato con la normale funzione di apostrofo all'interno. Per poter usare `'` letteralmente, e non come delimitatore, utilizzare `\'`
+Attenzione: I campi su più righe devono essere delimitati da `'` (uno all'inizio e uno alla fine del campo). `'` è usato per delimitare il contenuto di un campo quindi non può essere usato con la normale funzione di apostrofo all'interno. Per poter usare `'` letteralmente, e non come delimitatore, utilizzare `\'`
+
+Ad esempio, se volessi scrivere `l'altro` una volta per riga, in un campo multi campo, dovrei fare così:
+
+```
+'
+L\'altro
+L\'altro
+'
+```
+
+`'` viene utilizzato come delimitatore, mentre viene scritto `\` per usarlo letteralmente. Nella segnalazizone finale verrà poi mostrato semplicemente come `'`.
 
 2. Il titolo dell'Issue diventa il titolo della segnalazione sul sito frontale.
 
@@ -340,7 +360,56 @@ Per discutere o fornire feedback, aprite un Issue
 
 # Come funziona (in breve) il metodo TCI
 
-!INCLUDE "covid19italia.wiki/Come-funziona-(in-breve)-il-"metodo-TCI".md"
+Questo progetto è "clonato" da un precedente usato per il terremoto del centro italia del 2016 chiamato TCI.
+
+TCI (terremotocentroitalia.info) è un sito "dinamico" basato su:
+* una gestione di segnalazioni tramite issue github e da alcuni script (d'ora in poi "backend")
+* una catalogazione e impaginazione delle segnalazioni tramite jekyll (d'ora in poi "frontend")
+
+## Backend
+
+Il backend è direttamente rappresentato da un repo github del quale viene utilizzata solo la parte di segnalazioni (lo potete vedere qui https://github.com/emergenzeHack/terremotocentro_segnalazioni/issues).
+
+Pro:
+* il sistema è robusto, funzionale, gestito da altri
+* molto facile da usare, ci sono varie persone che hanno già esperienza
+* possibilità di aggiungere tag alle segnalazioni per la catalogazione
+* API per scaricare
+
+Contro:
+* per inserire info "machine readable" nelle segnalazioni usiamo YAML, che dev'essere gestito da un editor esterno
+* se lo YAML si rompe, bisogna intervenire "a mano"
+
+### Script di conversione
+
+Ogni 5 minuti, uno script (https://github.com/emergenzeHack/covid19italia/blob/master/scripts/csvupdate.sh):
+* scarica tutte le segnalazioni da github
+* decodifica lo YAML
+* crea un array JSON che contiene le segnalazioni e lo YAML convertito in JSON
+* committa eventuali differenze sul repo GIT, scatenando webhook e nuova build
+
+## Frontend
+
+Siccome Jekyll interpreta direttamente JSON, ci sono varie pagine che filtrano il JSON e creano HTML con liste, mappe, etc
+
+I framework utilizzati sono:
+
+* bootstrap per il layout
+* openlayers/leaflet per le mappe
+
+Pro:
+
+* molto veloce da servire
+* si può appoggiare su siti esterni come netlify
+* praticamente inattaccabile
+
+Contro:
+
+* nei momenti di massimo movimento, l'aggiornamento è ogni 5 minuti
+
+# Cose che si potrebbero migliorare
+
+* La trasformazione delle issue nel sito potrebbe essere fatta in modo più efficiente usando gli hook di github e un DB qualsiasi per memorizzare i dati, in modo da poter avere aggiornamenti più rapidi. Resta il fatto che quando il sito è "fermo", non ha senso avere un DB da interrogare ogni momento
 
 
 # Convertire un documento Google Docs in Markdown
@@ -400,6 +469,11 @@ Su Mac con Homebrew:
 
 ```
 brew install ruby
+```
+
+installa la gem bundle
+```
+sudo gem install bundler:1.17.3
 ```
 
 installa _command line developer tools_
