@@ -1,0 +1,45 @@
+# Ad ogni push, esegui aggiornaContributori.py per aggiornare la lista di contributors per ogni team.
+
+name: AggiornaContributori
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout emergenzeHack/covid19italia
+      uses: actions/checkout@v2
+
+    - run: rm -rf data/
+    - name: Checkout emergenzeHack/covid19italia_data
+      uses: actions/checkout@v2
+      with:
+        repository: emergenzeHack/covid19italia_data
+        path: _data
+
+    - uses: actions/cache@v1
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip
+
+    - uses: actions/setup-python@v1
+      with:
+        python-version: '3.x'
+
+    - working-directory: _data/
+      run: |
+        mkdir -m 700 ~/.ssh
+        echo "${{ secrets.DATA_SSH_KEY }}" > ~/.ssh/id_ed25519
+        chmod 0600 ~/.ssh/id_ed25519
+        pushurl="git@github.com:$(git config --local remote.origin.url | sed 's;^https://github\.com/;;')"
+        git config remote.origin.pushurl "$pushurl"
+        pip install PyGithub
+        ../scripts/aggiornaStatistiche.py
+        git config --local user.name "ehack-italy"
+        git config --local user.email "62019251+ehack-italy@users.noreply.github.com"
+        git add statisticheSegnalazioni.csv
+        git commit -m "Aggiorno statistiche sulle segnalazioni" && git push || :
