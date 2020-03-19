@@ -95,7 +95,7 @@
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
+    
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="theme-color" content="#ffffff">
 
@@ -104,5 +104,12 @@
 
     <script type="text/javascript" src='/js/nprogress.min.js'></script>
     <link rel='stylesheet' href='/css/nprogress.css'/>
+
+    <link rel="manifest" href="./manifest.json">
+    <!-- Safari on iOS doesn't support the web app manifest (yet), so we'll need to add the traditional meta tags -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="Covid19Italia Help">
+    <link rel="apple-touch-icon" href="/android-chrome-192x192.png">
 
 </head>
