@@ -106,7 +106,9 @@ var supportoPsicologico = L.AwesomeMarkers.icon({icon: 'phone', markerColor: 'gr
 var iconaDefault = L.AwesomeMarkers.icon({icon: '', markerColor: 'darkpurple'});
 
 // initialize the map
-var map = L.map('map')
+var map = L.map('map', {
+  scrollWheelZoom: false
+})
 
 // create the tile layer with correct attribution
 var osmUrl='{{site.tile_map}}';
