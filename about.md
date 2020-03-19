@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
   
-### Il Progetto
+## Il Progetto
 
 **covid19italia.help** è un progetto no profit, organizzato e diretto interamente da volontari e volontarie. È nato per condividere informazioni utili e verificate sull'evento di Coronavirus diffusosi in Italia nel 2020.
 
@@ -16,7 +16,7 @@ Infine, raccogliamo normative, direttive istituzionali e dati.
 
 Non si intende in alcun modo sostituirsi a fonti istituzionali di informazione a cui rimandiamo caldamente per l'attendibilità.
 
-### Riuso
+## Riuso
 
 Ogni componente software che sviluppiamo è rilasciato con una licenza Open Source che ne permette il riuso e ne promuove lo sviluppo pubblicamente.
 
@@ -28,14 +28,37 @@ Il progetto è descritto tramite il nostro [wiki](https://github.com/emergenzeHa
 
 L'idea ed anche buona parte del progetto è dello stesso team che ha sviluppato il progetto [TerremotoCentroItalia](https://www.terremotocentroitalia.info).
 
-### Credits
+## Chi siamo
 
-Un grazie sentito a :
-{% for contributore in site.data.contributori %}
-- {{ contributore.name }}{% endfor %}
+Ecco la squadra di volontari che lavora a questo progetto:
 
-.....
-(i ringraziamenti sono in progress ogni giorno....Non avertene a male se non compari ancora, grazie lo stesso!)
+### Sviluppo
+
+<div class="row contributorRow">
+	{% for contributore in site.data.contributorsCore %}
+		<div class="col-md-2 col-sm-2 col-xs-3">
+			<center>
+			<img src="{{ contributore.avatarUrl }}" class="contributorImage img-circle">
+			<br>
+			<p class="contributorName">{{ contributore.name }}</p>
+			</center>
+		</div>
+	{% endfor %}
+</div>
+
+### Editors
+
+<div class="row contributorRow">
+	{% for contributore in site.data.contributorsEditors %}
+		<div class="col-md-2 col-sm-2 col-xs-3">
+			<center>
+			<img src="{{ contributore.avatarUrl }}" class="contributorImage img-circle">
+			<br>
+			<p class="contributorName">{{ contributore.name }}</p>
+			</center>
+		</div>
+	{% endfor %}
+</div>
 
 ### Contatti
 

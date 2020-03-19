@@ -2,10 +2,23 @@
 @import url("responsive_iframes.css");
 
 /* --- General --- */
+.contributorName {
+  text-size: 10px;
+  margin-top: 5px;
+  text-decoration: none;
+  word-break: break-word;
+}
+
+.contributorImage {
+  height: 75px;
+  width: 75px;
+  -webkit-filter: drop-shadow(3px 3px 3px #BBB );
+  filter: drop-shadow(3px 3px 3px #BBB);
+}
+
 .btn-lg {
   font-size:18px;
 }
-
 
 .btn-form {
   white-space: normal;
