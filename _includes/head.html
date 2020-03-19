@@ -106,5 +106,10 @@
     <link rel='stylesheet' href='/css/nprogress.css'/>
 
     <link rel="manifest" href="./manifest.json">
-    
+    <!-- Safari on iOS doesn't support the web app manifest (yet), so we'll need to add the traditional meta tags -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="Covid19Italia Help">
+    <link rel="apple-touch-icon" href="/android-chrome-192x192.png">
+
 </head>
