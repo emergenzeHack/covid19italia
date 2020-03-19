@@ -5,7 +5,7 @@ import os
 from github import Github
 
 g = Github(os.getenv("GITHUB_TOKEN"))
-repoSegnalazioni = g.get_repo(os.getenv("GITHUB_REPOSITORY", "emergenzeHack/covid19italia_segnalazioni"))
+repoSegnalazioni = g.get_repo(os.getenv("emergenzeHack/covid19italia_segnalazioni"))
 
 labels = repoSegnalazioni.get_labels()
 
