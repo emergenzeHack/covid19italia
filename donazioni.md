@@ -1,6 +1,6 @@
 ---
 layout: issuelist
-title: Donazioni
-permalink: /donazioni-beni-strumenti/
-categorieissue: Donazioni beni/strumenti;Donazioni beni/strumenti
+title: Donazioni beni e Offerte servizi
+permalink: /donazioni-beni-e-offerte-servizi/
+categorieissue: Donazioni beni e Offerte servizi;Donazioni beni/strumenti
 ---
