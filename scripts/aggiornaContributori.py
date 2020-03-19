@@ -37,7 +37,8 @@ editorsTeam = ["cristigalas",
                "favoeva",
                "Saraveg",
                "claudiamazzantiact",
-               "luciaroma"]
+               "luciaroma",
+               "FrancescaZambi89"]
 
 coreTeam = []
 for contrib in repoCore.get_contributors():
