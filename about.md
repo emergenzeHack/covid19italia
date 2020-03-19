@@ -36,12 +36,10 @@ Ecco la squadra di volontari che lavora a questo progetto:
 
 <div class="row contributorRow">
 	{% for contributore in site.data.contributorsCore %}
-		<div class="col-md-2 col-sm-2 col-xs-3">
-			<center>
-			<img src="{{ contributore.avatarUrl }}" class="contributorImage img-circle">
+		<div class="col-md-2 col-sm-2 col-xs-3" style="text-align: center">
+			<img src="{{ contributore.avatarUrl }}" alt="Avatar" class="contributorImage img-circle">
 			<br>
 			<p class="contributorName">{{ contributore.name }}</p>
-			</center>
 		</div>
 	{% endfor %}
 </div>
@@ -50,12 +48,10 @@ Ecco la squadra di volontari che lavora a questo progetto:
 
 <div class="row contributorRow">
 	{% for contributore in site.data.contributorsEditors %}
-		<div class="col-md-2 col-sm-2 col-xs-3">
-			<center>
-			<img src="{{ contributore.avatarUrl }}" class="contributorImage img-circle">
+		<div class="col-md-2 col-sm-2 col-xs-3" style="text-align: center">
+			<img src="{{ contributore.avatarUrl }}" alt="Avatar" class="contributorImage img-circle">
 			<br>
 			<p class="contributorName">{{ contributore.name }}</p>
-			</center>
 		</div>
 	{% endfor %}
 </div>
