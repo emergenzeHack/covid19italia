@@ -60,6 +60,9 @@ layout: page
 
 {% assign filteredissues = geofilteredissues | where_exp: "member","member.issue.labels contains categoria[1]" %}
 
+{% if filteredissues.size == 0 %}
+<span>Sembra che qui non ci sia nulla</span>
+{% else %}
 {% for member in filteredissues %}
 <div class="panel-body issuepanel" id="issue{{member.number}}">
 <div class="list-group-item">
@@ -77,6 +80,7 @@ layout: page
 </div>
 {% endfor %}
 </div>
+{% endif %}
 {% endfor %}
 
 {% if page.categorieMapAll %}
@@ -189,8 +193,8 @@ function onMoveEnd(evt) {
     [inView,notInView]=getFeaturesInView();
     //console.log(notInView);
     //console.log(inView);
-    notInView.forEach(setInVisible); 
-    inView.forEach(setVisible); 
+    notInView.forEach(setInVisible);
+    inView.forEach(setVisible);
 }
 
 map.on('moveend', onMoveEnd);
