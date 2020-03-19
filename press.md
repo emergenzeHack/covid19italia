@@ -31,9 +31,9 @@ $(document).ready(function() {
 
 
 {: .table .table-striped #press}
-Data            |Fonte                   |Titolo       |Fonte
+Data            |Fonte                   |Titolo       |Link
 :---------------|:-----------------------|:------------|:--------------
-{% for member in site.data.press %} {{member.data | date: '%d/%m/%Y'}} | {{member.fonte}} | {{member.titolo}} | [Fonte]({{member.link}})
+{% for member in site.data.press %} {{member.data | date: '%d/%m/%Y'}} | {{member.fonte}} | {{member.titolo}} | [Link]({{member.link}})
 {% endfor %}
 
 
