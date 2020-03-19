@@ -35,6 +35,16 @@ layout: page
 
 {% assign openissues = site.data.issuesjson | where: "state","open" %}
 
+{% if page.nome_provincia != blank %}
+    {% assign geofilteredissues = openissues | where_exp: "member", "member.issue.provincia == page.nome_provincia" %}
+{% else %}
+    {% if page.nome_regione != blank %}
+        {% assign geofilteredissues = openissues |  where_exp: "member", "member.issue.regione == page.nome_regione" %}
+    {% else %}
+        {% assign geofilteredissues = openissues  %}
+    {% endif %}
+{% endif %}
+
 {% if page.categorieissue %}
 {% assign categorieissue = page.categorieissue %}
 {% else %}
@@ -47,15 +57,8 @@ layout: page
 <h2 id="{{categoria[0]|slugify}}">{{categoria[0]}}</h2>
 
 <div class="panel-group">
-    {% if page.nome_provincia != blank %}
-        {% assign filteredissues = openissues | where_exp: "member","member.issue.labels contains categoria[1]" | where_exp: "member", "member.issue.provincia == page.nome_provincia" %}
-    {% else %}
-        {% if page.nome_regione != blank %}
-            {% assign filteredissues = openissues | where_exp: "member","member.issue.labels contains categoria[1]" | where_exp: "member", "member.issue.regione == page.nome_regione" %}
-        {% else %}
-            {% assign filteredissues = openissues | where_exp: "member","member.issue.labels contains categoria[1]" %}
-        {% endif %}
-    {% endif %}
+
+{% assign filteredissues = geofilteredissues | where_exp: "member","member.issue.labels contains categoria[1]" %}
 
 {% for member in filteredissues %}
 <div class="panel-body issuepanel" id="issue{{member.number}}">
@@ -78,16 +81,6 @@ layout: page
 
 {% if page.categorieMapAll %}
 {% assign filteredissues = openissues %}
-{% else %}
-    {% if page.nome_provincia != blank %}
-        {% assign filteredissues = openissues | where_exp: "member", "member.issue.provincia == page.nome_provincia" %}
-    {% else %}
-        {% if page.nome_regione != blank %}
-            {% assign filteredissues = openissues |  where_exp: "member", "member.issue.regione == page.nome_regione" %}
-        {% else %}
-            {% assign filteredissues = openissues %}
-        {% endif %}
-    {% endif %}
 {% endif %}
 
 <script>
