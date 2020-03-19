@@ -396,7 +396,7 @@ I comandi da inserire nel terminale (anche copia-incollando) saranno indicati in
 
 Per prima cosa verifichiamo di avere installato Ruby e bundler, che a sua volta ci aiuterà a installare tutte le dipendenze che ci servono.
 
-Su Mac con Homebrew:
+#### Su Mac con Homebrew:
 
 ```
 brew install ruby
@@ -407,8 +407,12 @@ installa _command line developer tools_
 xcode-select --install
 ```
 
+installa la gem bundle
+```
+sudo gem install bundler:1.17.3
+```
 
-Su Ubuntu:
+#### Su Ubuntu:
 
 ```
 sudo apt install build-essential git ruby-full ruby-bundler zlib1g-dev
