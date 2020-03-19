@@ -41,7 +41,9 @@ editorsTeam = ["cristigalas",
 
 coreTeam = []
 for contrib in repoCore.get_contributors():
-    coreTeam.append(contrib.login)
+    # Evita duplicati
+    if contrib.login not in editorsTeam:
+        coreTeam.append(contrib.login)
 
 coreContributors = getGitHubData(coreTeam)
 #appContributors = getGitHubData(repoApp.get_contributors())
