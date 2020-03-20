@@ -148,6 +148,12 @@ for issue in issues:
         except Exception as e:
             print("Exception:",e)
 
+    if "regione_manuale" in data:
+        regioneIssue = data["regione_manuale"]
+
+    if "provincia_manuale" in data:
+        provinciaIssue = data["provincia_manuale"]
+
     if "immagine" in data:
         image=data['immagine']
 
