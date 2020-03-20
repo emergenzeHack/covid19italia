@@ -33,7 +33,7 @@ jobs:
         mkdir -m 700 ~/.ssh
         echo "${{ secrets.DATA_SSH_KEY }}" > ~/.ssh/id_ed25519
         chmod 0600 ~/.ssh/id_ed25519
-        git config remote.origin.pushurl git@github.com:git@github.com:emergenzeHack/covid19italia.git
+        git config remote.origin.pushurl git@github.com:emergenzeHack/covid19italia.git
         pip install MarkdownPP
         cd scripts
         markdown-pp templateWiki.mdpp -o ../wiki.md
