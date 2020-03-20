@@ -28,7 +28,7 @@ jobs:
         chmod 0600 ~/.ssh/id_ed25519
         git config remote.origin.pushurl git@github.com:emergenzeHack/covid19italia.git
         cd scripts
-        git clone git@github.com:avivace/actions-tests.wiki.git
+        git clone git@github.com:emergenzeHack/covid19italia.wiki.git
         pip install MarkdownPP
         markdown-pp templateWiki.mdpp -o ../wiki.md
         git config --local user.name "ehack-italy"
