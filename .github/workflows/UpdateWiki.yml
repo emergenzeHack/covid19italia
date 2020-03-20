@@ -15,14 +15,7 @@ jobs:
       uses: actions/checkout@v2
       with:
         repository: emergenzeHack/covid19italia
-        path: covid19italia      
-
-    - run: rm -rf scripts/covid19italia.wiki
-    - name: Checkout emergenzeHack/covid19italia.wiki
-      uses: actions/checkout@v2
-      with:
-        repository: emergenzeHack/covid19italia.wiki
-        path: covid19italia/scripts/covid19italia.wiki
+        path: covid19italia
 
     - uses: actions/setup-python@v1
       with:
@@ -34,8 +27,9 @@ jobs:
         echo "${{ secrets.DATA_SSH_KEY }}" > ~/.ssh/id_ed25519
         chmod 0600 ~/.ssh/id_ed25519
         git config remote.origin.pushurl git@github.com:emergenzeHack/covid19italia.git
-        pip install MarkdownPP
         cd scripts
+        git clone git@github.com:avivace/actions-tests.wiki.git
+        pip install MarkdownPP
         markdown-pp templateWiki.mdpp -o ../wiki.md
         git config --local user.name "ehack-italy"
         git config --local user.email "62019251+ehack-italy@users.noreply.github.com"
