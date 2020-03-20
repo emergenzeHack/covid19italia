@@ -360,7 +360,7 @@ page_gen:
       template: issuelist_provincia
       dir: issues/regione/veneto
       name: nome_provincia
-      
+
 
 jekyll_tidy:
   exclude: []
