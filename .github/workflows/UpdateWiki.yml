@@ -13,12 +13,12 @@ jobs:
     - name: Checkout emergenzeHack/covid19italia
       uses: actions/checkout@v2
 
-    - run: rm -rf data/
-    - name: Checkout emergenzeHack/covid19italia_data
+    - run: rm -rf scripts/covid19italia.wiki
+    - name: Checkout emergenzeHack/covid19italia.wiki
       uses: actions/checkout@v2
       with:
-        repository: emergenzeHack/covid19italia_data
-        path: _data
+        repository: emergenzeHack/covid19italia.wiki
+        path: scripts/covid19italia.wiki
 
     - uses: actions/cache@v1
       with:
@@ -36,7 +36,6 @@ jobs:
         chmod 0600 ~/.ssh/id_ed25519
         pushurl="git@github.com:$(git config --local remote.origin.url | sed 's;^https://github\.com/;;')"
         git config remote.origin.pushurl "$pushurl"
-        git clone https://github.com/emergenzeHack/covid19italia.wiki.git
         pip install MarkdownPP
         cd ../scripts/
         markdown-pp templateWiki.mdpp -o ../wiki.md
