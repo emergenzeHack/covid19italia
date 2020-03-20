@@ -3,6 +3,7 @@
 name: AggiornaWiki
 
 on:
+  # "Gollum" è innescato da ogni modifica o creazione pagina sulla Wiki
   gollum
 
 jobs:
@@ -32,8 +33,7 @@ jobs:
         mkdir -m 700 ~/.ssh
         echo "${{ secrets.DATA_SSH_KEY }}" > ~/.ssh/id_ed25519
         chmod 0600 ~/.ssh/id_ed25519
-        pushurl="git@github.com:$(git config --local remote.origin.url | sed 's;^https://github\.com/;;')"
-        git config remote.origin.pushurl "$pushurl"
+        git config remote.origin.pushurl git@github.com:git@github.com:emergenzeHack/covid19italia.git
         pip install MarkdownPP
         cd scripts
         markdown-pp templateWiki.mdpp -o ../wiki.md
