@@ -488,6 +488,20 @@ Su Ubuntu:
 sudo apt install build-essential git ruby-full ruby-bundler zlib1g-dev
 ```
 
+Su Windows:
+
+Scaricate l'installer per ruby a [questo indirizzo](https://rubyinstaller.org/downloads/), in particolare la versione Ruby+Devkit 2.6.5-1 dato che le successive possono creare problemi.
+
+Eseguite l'installer e accettate sempre le opzioni consigliate; una volta che l'installazione sarà conclusa (è in 2 fasi), riavviate il pc per essere certi di avere ruby in PATH.
+
+Installate quindi la gem bundle da un qualsiasi terminale (io uso IntelliJ ma funziona anche da Powershell)
+
+```
+gem install bundler:1.17.3
+```
+
+Le successive istruzioni sono comuni a tutti gli ambienti
+
 Facciamo su github il *fork* del repository, poi cloniamo il nostro fork in locale: `git clone https://github.com/nomeutente/covid19italia.git` (ricordati di sostituire il tuo vero nome utente)
 
 Se si lavora sui dati (_data/) bisognerà forkare e lavorare su covid19italia_data invece che su covid19italia.
