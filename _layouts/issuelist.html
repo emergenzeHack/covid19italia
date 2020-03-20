@@ -2,6 +2,24 @@
 layout: page
 ---
 
+{% assign openissues = site.data.issuesjson | where: "state","open" %}
+
+{% if page.nome_provincia != blank %}
+    {% assign geofilteredissues = openissues | where_exp: "member", "member.issue.provincia == page.nome_provincia" %}
+{% else %}
+    {% if page.nome_regione != blank %}
+        {% assign geofilteredissues = openissues |  where_exp: "member", "member.issue.regione == page.nome_regione" %}
+    {% else %}
+        {% assign geofilteredissues = openissues  %}
+    {% endif %}
+{% endif %}
+
+{% if page.categorieissue %}
+{% assign categorieissue = page.categorieissue %}
+{% else %}
+{% assign categorieissue = site.categorieissue %}
+{% endif %}
+
 {{content}}
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
@@ -33,36 +51,15 @@ layout: page
 
 <div class="row"><div class="col-md-12 col-sm-12 col-xs-12"> <div id="map" style="height: 600px;"></div> </div> </div>
 
-{% assign openissues = site.data.issuesjson | where: "state","open" %}
-
-{% if page.nome_provincia != blank %}
-    {% assign geofilteredissues = openissues | where_exp: "member", "member.issue.provincia == page.nome_provincia" %}
-{% else %}
-    {% if page.nome_regione != blank %}
-        {% assign geofilteredissues = openissues |  where_exp: "member", "member.issue.regione == page.nome_regione" %}
-    {% else %}
-        {% assign geofilteredissues = openissues  %}
-    {% endif %}
-{% endif %}
-
-{% if page.categorieissue %}
-{% assign categorieissue = page.categorieissue %}
-{% else %}
-{% assign categorieissue = site.categorieissue %}
-{% endif %}
-
+{% assign allcatfilteredissues = '' | split: '' %}
 {% for categoriatuple in categorieissue %}
 {% assign categoria = categoriatuple | split: ";" %}
 
-<h2 id="{{categoria[0]|slugify}}">{{categoria[0]}}</h2>
-
-<div class="panel-group">
-
 {% assign filteredissues = geofilteredissues | where_exp: "member","member.issue.labels contains categoria[1]" %}
-
-{% if filteredissues.size == 0 %}
-<span>Sembra che qui non ci sia nulla</span>
-{% else %}
+{% if filteredissues.size > 0 %}
+{% assign allcatfilteredissues = allcatfilteredissues | concat: filteredissues | uniq %}
+<h2 id="{{categoria[0]|slugify}}">{{categoria[0]}} <small>({{filteredissues.size}})</small></h2>
+<div class="panel-group">
 {% for member in filteredissues %}
 <div class="panel-body issuepanel" id="issue{{member.number}}">
 <div class="list-group-item">
@@ -84,7 +81,9 @@ layout: page
 {% endfor %}
 
 {% if page.categorieMapAll %}
-{% assign filteredissues = openissues %}
+{% assign filteredissues = geofilteredissues %}
+{% else %}
+{% assign filteredissues = allcatfilteredissues %}
 {% endif %}
 
 <script>

@@ -1,8 +1,20 @@
 ---
 fitBounds: True
 layout: issuelist
+categorieMapAll: True
 ---
 
+{% assign openissues = site.data.issuesjson | where: "state","open" %}
+
+{% if page.nome_provincia != blank %}
+    {% assign geofilteredissues = openissues | where_exp: "member", "member.issue.provincia == page.nome_provincia" %}
+{% else %}
+    {% if page.nome_regione != blank %}
+        {% assign geofilteredissues = openissues |  where_exp: "member", "member.issue.regione == page.nome_regione" %}
+    {% else %}
+        {% assign geofilteredissues = openissues  %}
+    {% endif %}
+{% endif %}
 {% if page.categorieissue %}
 {% assign categorieissue = page.categorieissue %}
 {% else %}
@@ -15,9 +27,12 @@ layout: issuelist
 <div class="text-center">
 {% for categoriatuple in categorieissue %}
 {% assign categoria = categoriatuple | split: ";" %}
+{% assign filteredissues = geofilteredissues | where_exp: "member","member.issue.labels contains categoria[1]" %}
+{% if filteredissues.size > 0 %}
   <span class="col-xs-12 col-sm-6">
-	  <a href="#{{categoria[0] | slugify}}" class="btn btn-success btn-lg col-xs-12 mb-15" role="button">{{categoria[0]}}</a>
+	  <a href="#{{categoria[0] | slugify}}" class="btn btn-success btn-lg col-xs-12 mb-15" role="button" id="button_{{categoria[0] | slugify}}">{{categoria[0]}}</a>
 	</span>
+        {% endif %}
 {% endfor %}
 </div>
 </div>
