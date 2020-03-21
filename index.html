@@ -39,6 +39,10 @@ subtitle: Un progetto per condividere informazioni e attivarsi a supporto dell'e
     </div>
 </div>
 
+<button is="pwa-install-button" id="butPWAInstall">
+  <div class="name">Installa WebApp</div>
+</button>
+
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="//code.jquery.com/jquery-1.12.4.min.js"></script>
 <script type="text/javascript" src="../js/moment.min.js"></script>
@@ -50,17 +54,7 @@ subtitle: Un progetto per condividere informazioni e attivarsi a supporto dell'e
 <script type="text/javascript" src="../js/lunr.it.min.js"></script>
 <script type="text/javascript" src="../js/search.min.js"></script>
 
-
 <script>
   var searchTemplate="<div class='form-group'><div class='input-group'><div class='input-group-addon'>Cerca:</div><input type='text' class='form-control' placeholder='(cerca qui...)'></div></div>"
   $("div.sieve").sieve({ itemSelector: ".panel-info" });
-
-  if ('serviceWorker' in navigator) {
-  window.addEventListener('load', () => {
-    navigator.serviceWorker.register('/service-worker.js')
-        .then((reg) => {
-          console.log('Service worker registered.', reg);
-        });
-  });
-  }
 </script>

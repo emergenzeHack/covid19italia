@@ -1,0 +1,30 @@
+/* PWA install*/
+
+#butPWAInstall {
+    background:transparent;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 1px;
+    border-left-width: 0px;
+    width: 100%;
+    font-size: 1.8rem;
+    font-weight: 300;
+    color:#181818;
+}
+
+
+#butPWAInstall[disabled] {
+    display: none;
+}
+
+
+ios-install-button {
+    --banner-color: white;
+    --banner-bg-color: var(--app-header-bg);
+    --button-color: var(--app-button-on);
+    --button-border: 1px solid white;
+    --button-bg-color: transparent;
+    --button-margin: 0 1em 0 0;
+}
+
+/*CUSTOMIZATIONS*/
