@@ -41,12 +41,13 @@ editorsTeam = ["cristigalas",
                "FrancescaZambi89"]
 
 coreTeam = []
+excludeList = ["ehack-italy"]
 for contrib in repoCore.get_contributors():
     # Evita duplicati
-    if contrib.login not in editorsTeam:
+    if contrib.login not in editorsTeam and contrib.login not in excludeList:
         coreTeam.append(contrib.login)
 
-coreContributors = getGitHubData(coreTeam)
+coreContributors = getGitHubData(coreTeam[:10])
 #appContributors = getGitHubData(repoApp.get_contributors())
 editorsContributors = getGitHubData(editorsTeam)
 
