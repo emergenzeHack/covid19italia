@@ -19,7 +19,7 @@ Anche solo un commento, un contatto, un'idea in questa fase è molto importante!
 
 In questa fase molto delicata per il nostro paese abbiamo bisogno di tutto il supporto possibile per implementare e divulgare la nostra piattaforma al fine di tenere gli italiani informati sul tema!
 
-[Per istruzioni visualizza la pagina Wiki, clicca qui!](https://github.com/emergenzeHack/covid19italia/wiki)
+[Per istruzioni visualizza la pagina Wiki, clicca qui!](https://www.covid19italia.help/wiki/)
 
 Che aspetti ad unirti a noi?
 Insieme ce la faremo!
