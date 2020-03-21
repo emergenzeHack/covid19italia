@@ -34,6 +34,7 @@ Grazie, aspettiamo il tuo aiuto!
 Covid19Italia è un progetto opensource composto da varie applicazioni integrate. Questo WIKI consente di capire come è strutturato il progetto e come poterlo riusare. TerremotoCentroItalia è concesso con licenza Creative Commons Attribuzione 3.0 (CC BY) il cui testo è disponibile [a questo indirizzo](https://creativecommons.org/licenses/by/3.0/it/). Ove non diversamente specificato (ad esempio nei repository del codice sorgente) ti chiediamo se riusi parte del nostro progetto di rispettare i criteri di questa licenza.
 
 
+<!-- commento per innescare la GitHub Action "gollum" -->
 ### Indice dei contenuti
 
 - Aprire una Issue
@@ -329,6 +330,33 @@ Esempio:
 
 ![GIF come georiferire issue](https://raw.githubusercontent.com/emergenzeHack/covid19italia/master/_doc/come_georiferire_issue.gif)
 
+### Inserimento manuale di regione e/o provincia e/o comune
+
+#### Come sapere quale regione/provincia/comune ha individuato il sistema?
+
+Guardando sul sito nella pagina www.covid19italia.help/issues/<numero issue>
+(ad esempio https://www.covid19italia.help/issues/748/) se la segnalazione ha una posizione già inserita, i valori Provincia e Regione sono quelli riconosciuti in base ai dati geografici. **In questo caso, se ci sono errori, sarebbe più utile sistemare la posizione**.
+
+Ci possono essere delle segnalazioni che hanno una regione o provincia o un Comune di riferimento, ma per le quali non ha senso inserire una coppia di coordinate. Perché queste segnalazioni vengano comunque elencate nella pagina per regione o per provincia, si può inserire un campo nei dati del tipo
+
+```
+regione_manuale: Veneto
+```
+
+oppure
+
+```
+provincia_manuale: Bologna
+```
+oppure
+
+```
+comune_manuale: Cento
+```
+
+(Naturalmente non avendo una posizione la segnalazione non sarà visualizzata in mappa)
+
+**NB Attenzione all'ortografia del nome: dev'essere esattamente quello che è utilizzato dalle altre segnalazioni.**
 
 #### Esempio finale di segnalazione:
 
@@ -487,20 +515,6 @@ Su Ubuntu:
 ```
 sudo apt install build-essential git ruby-full ruby-bundler zlib1g-dev
 ```
-
-Su Windows:
-
-Scaricate l'installer per ruby a [questo indirizzo](https://rubyinstaller.org/downloads/), in particolare la versione Ruby+Devkit 2.6.5-1 dato che le successive possono creare problemi.
-
-Eseguite l'installer e accettate sempre le opzioni consigliate; una volta che l'installazione sarà conclusa (è in 2 fasi), riavviate il pc per essere certi di avere ruby in PATH.
-
-Installate quindi la gem bundle da un qualsiasi terminale (io uso IntelliJ ma funziona anche da Powershell)
-
-```
-gem install bundler:1.17.3
-```
-
-Le successive istruzioni sono comuni a tutti gli ambienti
 
 Facciamo su github il *fork* del repository, poi cloniamo il nostro fork in locale: `git clone https://github.com/nomeutente/covid19italia.git` (ricordati di sostituire il tuo vero nome utente)
 
