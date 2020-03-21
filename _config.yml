@@ -41,7 +41,9 @@ navbar-links:
    - PRESS: "press/"
    - DOMANDE FREQUENTI: "faq/"
    - OPEN DATA: "opendata/"
-  PARTECIPA!: "contribuisci/"
+  PARTECIPA:
+    - COME PARTECIPARE: "contribuisci/"
+    - WIKI: "wiki/"
   PRIVACY: "legal"
   #  - Rilancia informazioni sui social: ''
 
