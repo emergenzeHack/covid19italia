@@ -24,7 +24,7 @@ jobs:
     - working-directory: covid19italia/
       run: |
         mkdir -m 700 ~/.ssh
-        echo "${{ secrets.DATA_SSH_KEY }}" > ~/.ssh/id_ed25519
+        echo "${{ secrets.SSH_KEY_A_SECRET }}" > ~/.ssh/id_ed25519
         chmod 0600 ~/.ssh/id_ed25519
         git config remote.origin.pushurl git@github.com:emergenzeHack/covid19italia.git
         cd scripts
