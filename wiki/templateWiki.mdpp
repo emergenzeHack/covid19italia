@@ -4,7 +4,7 @@ title: Documentazione Tecnica
 permalink: /wiki/
 ---
 
-!INCLUDE "covid19italia.wiki/Home.md"
+!INCLUDE "Home.md"
 
 ### Indice dei contenuti
 
@@ -20,33 +20,33 @@ permalink: /wiki/
 
 # Aprire una Issue
 
-!INCLUDE "covid19italia.wiki/Come-aprire-un-ISSUE.md"
+!INCLUDE "Come-aprire-un-ISSUE.md"
 
 # Come si usa GitHub?
 
-!INCLUDE "covid19italia.wiki/Come-si-usa-Github.md"
+!INCLUDE "Come-si-usa-Github.md"
 
 
 # Lavorare sulle segnalazioni
 
-!INCLUDE "covid19italia.wiki/Lavorare-sulle-segnalazioni.md"
+!INCLUDE "Lavorare-sulle-segnalazioni.md"
 
 
 # Come funziona (in breve) il metodo TCI
 
-!INCLUDE 'covid19italia.wiki/Come-funziona-(in-breve)-il-"metodo-TCI".md'
+!INCLUDE 'Come-funziona-(in-breve)-il-"metodo-TCI".md'
 
 
 # Convertire un documento Google Docs in Markdown
 
-!INCLUDE "covid19italia.wiki/Convertire-un-Google-Docs-in-una-Pagina-per-WIKI-Github-o-per-un-Post.md"
+!INCLUDE "Convertire-un-Google-Docs-in-una-Pagina-per-WIKI-Github-o-per-un-Post.md"
 
 
 # Come si inserisce un elemento in Press
 
-!INCLUDE "covid19italia.wiki/Come-si-inserisce-un-elemento-in-PRESS.md"
+!INCLUDE "Come-si-inserisce-un-elemento-in-PRESS.md"
 
 
 # Sviluppare in locale sul sito
 
-!INCLUDE "covid19italia.wiki/Sviluppare-in-locale-sul-sito.md"
+!INCLUDE "Sviluppare-in-locale-sul-sito.md"
