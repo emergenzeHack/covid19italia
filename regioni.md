@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Segnalazioni per Regione
+title: Emergenza coronavirus: segnalazioni per regione
+subtitle: Regione per regione le segnalazioni fatte sulla piattaforma Covid19Italia.Help
 permalink: /issues/regione/
 ---
 
