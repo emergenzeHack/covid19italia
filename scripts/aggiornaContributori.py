@@ -40,6 +40,8 @@ editorsTeam = ["cristigalas",
                "luciaroma",
                "FrancescaZambi89"]
 
+mediaTeam = ["BarbaraDAmico"]
+
 coreTeam = []
 for contrib in repoCore.get_contributors():
     # Evita duplicati
@@ -49,7 +51,10 @@ for contrib in repoCore.get_contributors():
 coreContributors = getGitHubData(coreTeam)
 #appContributors = getGitHubData(repoApp.get_contributors())
 editorsContributors = getGitHubData(editorsTeam)
+mediaContributors = getGitHubData(mediaTeam)
 
 writeCsv(coreContributors, 'contributorsCore.csv')
 writeCsv(editorsContributors, 'contributorsEditors.csv')
+writeCsv(mediaContributors, 'contributorsMedia.csv')
+
 #writeCsv(appContributors, 'contributorsApp.csv')
