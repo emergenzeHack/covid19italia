@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Fonti istituzionali emergenza coronavirus | Fonti ufficiali
-subtitle: Tutte le fonti istituzionali da consultare per avere informazioni di prima mano sull'emergenza coronavirus 
+title: Fonti istituzionali
 permalink: /fonti-istituzionali/
 ---
 <div class="panel-group">
