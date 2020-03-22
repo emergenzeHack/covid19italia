@@ -43,4 +43,5 @@ jobs:
         git config --local user.email "62019251+ehack-italy@users.noreply.github.com"
         git add contributorsCore.csv
         git add contributorsEditors.csv
+        git add contributorsMedia.csv
         git commit -m "Aggiorno contributori" && git push || :

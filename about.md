@@ -66,6 +66,18 @@ Ecco la squadra di volontari che lavora a questo progetto:
 	{% endfor %}
 </div>
 
+### Media e comunicazione
+
+<div class="row contributorRow">
+	{% for contributore in site.data.contributorsMedia %}
+		<div class="col-md-2 col-sm-2 col-xs-3" style="text-align: center">
+			<img src="{{ contributore.avatarUrl }}" alt="Avatar" class="contributorImage img-circle">
+			<br>
+			<p class="contributorName">{{ contributore.name }}</p>
+		</div>
+	{% endfor %}
+</div>
+
 ### Contatti
 
 - [Email](mailto:covid19ita@gmail.com)

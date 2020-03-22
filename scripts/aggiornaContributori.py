@@ -40,6 +40,9 @@ editorsTeam = ["cristigalas",
                "luciaroma",
                "FrancescaZambi89"]
 
+mediaTeam = ["BarbaraDAmico",
+            "gloriaschiavi"]
+
 coreTeam = []
 excludeList = ["ehack-italy"]
 for contrib in repoCore.get_contributors():
@@ -50,7 +53,8 @@ for contrib in repoCore.get_contributors():
 coreContributors = getGitHubData(coreTeam[:10])
 #appContributors = getGitHubData(repoApp.get_contributors())
 editorsContributors = getGitHubData(editorsTeam)
+mediaContributors = getGitHubData(mediaTeam)
 
 writeCsv(coreContributors, 'contributorsCore.csv')
 writeCsv(editorsContributors, 'contributorsEditors.csv')
-#writeCsv(appContributors, 'contributorsApp.csv')
+writeCsv(mediaContributors, 'contributorsMedia.csv')
