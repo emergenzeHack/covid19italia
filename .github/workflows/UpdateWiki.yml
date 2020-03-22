@@ -3,8 +3,8 @@
 name: AggiornaWiki
 
 on:
-  # "Gollum" è innescato da ogni modifica o creazione pagina sulla Wiki
-  gollum
+  push:
+    branches: [ master ]
 
 jobs:
   build:
