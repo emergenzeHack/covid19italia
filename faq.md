@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Domande Frequenti su civic hacking per emergenza coronavirus
-subtitle: Come funziona la risposta partecipata di Covid19Italia.Help all'emergenza coronavirus?
+title: Domande Frequenti
 permalink: /faq/
 ---
 
