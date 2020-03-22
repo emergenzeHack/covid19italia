@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Blog
+title: Blog Covid19 | Blog e storie sull'emergenza coronavirus
+subtitle: Il blog del team Covid19Italia.Help
 permalink: /post/
 ---
 <div class="posts">
