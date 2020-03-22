@@ -24,26 +24,29 @@
 
     <div class="collapse navbar-collapse" id="main-navbar" itemscope itemtype="http://schema.org/SiteNavigationElement">
       <ul class="nav navbar-nav navbar-right">
-      {% for link in site.navbar-links %}
-        {% if link[1].first %}
-          <li itemprop="name" class="navlinks-container">
-            <a class="navlinks-parent" href="javascript:void(0)">{{ link[0] }}</a>
-            <div class="navlinks-children">
-              {% for childlink in link[1] %}
-                {% for linkparts in childlink %}
-                  {% include navbarlink.html link=linkparts %}
-                {% endfor %}
-              {% endfor %}
-            </div>
-          </li>
-        {% else %}
-          <li>
-            {% include navbarlink.html link=link %}
-          </li>
+      {% for link in site.data.navigation %}
+        {% if link.language == page.lang %}
+          {% for item in link.navbar-links %}
+            {% if item[1].first %}
+              <li itemprop="name" class="navlinks-container">
+                <a class="navlinks-parent" href="javascript:void(0)">{{ item[0] }}</a>
+                <div class="navlinks-children">
+                  {% for childlink in item[1] %}
+                    {% for linkparts in childlink %}
+                      {% include navbarlink.html link=linkparts %}
+                    {% endfor %}
+                  {% endfor %}
+                </div>
+              </li>
+            {% else %}
+              <li>
+                {% include navbarlink.html link=item %}
+              </li>
+            {% endif %}
+          {% endfor %}
         {% endif %}
-        {% endfor %}
+      {% endfor %}
       </ul>
     </div>
-
   </div>
 </nav>

@@ -21,6 +21,9 @@ logo-description: Il logo di covid19italia due cerchi concentrici uno rosso e un
 # Short description of your site
 description: Un progetto per condividere informazioni a supporto dell'emergenza COVID19
 
+lang: it
+languages: ["it", "en"]
+
 # --- Navigation bar options --- #
 # List of links in the navigation bar
 navbar-links:
@@ -32,10 +35,6 @@ navbar-links:
      - NOTIZIE: "notizie/"
      - BLOG : "post/"
      - CONTATTI: "canali/"
-     #- Fake News: "fake-news/"
-  # Link Utili:
-  #   - Iniziative solidali: "servizi_e_iniziative_solidali/"
-  #   - Opendata: "opendata/"
   COS'È?:
    - ABOUT: "about/"
    - PRESS: "press/"
@@ -45,7 +44,6 @@ navbar-links:
     - COME PARTECIPARE: "contribuisci/"
     - WIKI: "wiki/"
   PRIVACY: "legal"
-  #  - Rilancia informazioni sui social: ''
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
