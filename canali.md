@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Canali di comunicazione
+title: Canali di comunicazione e social
+subtitle: Contatta Covid19Italia.help e segui i canali social
 permalink: /canali/
 ---
 
