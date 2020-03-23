@@ -1,13 +1,9 @@
 ---
 layout: post
 title: Tutte le bufale in emergenza
-subtitle: Come difenderci dalle cosiddette fake news? Come impedirne la diffusione nel nostro piccolo?
+subtitle: Come difenderci dalle cosiddette fake news? Come impedirne la diffusione nel nostro piccolo senza fare la figura di chi sta sempre col ditino alzato?
 categories: blog
 ---
-
-## **Tutte le bufale dell'emergenza**
-
-_Come difenderci dalle cosiddette fake news? Come impedirne la diffusione nel nostro piccolo senza fare la figura di chi sta sempre col ditino alzato?_
 
 L’emergenza che stiamo vivendo è senza precedenti: chiunque è un principiante, in questo contesto.  \
  \
