@@ -30,7 +30,10 @@ jobs:
       with:
         python-version: '3.x'
 
-    - working-directory: _data/
+    - name: Aggiorno i contributori
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      working-directory: _data/
       run: |
         mkdir -m 700 ~/.ssh
         echo "${{ secrets.DATA_SSH_KEY }}" > ~/.ssh/id_ed25519
