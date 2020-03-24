@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Covid19Italia Help
-subtitle: Un progetto per condividere informazioni e attivarsi a supporto dell'emergenza COVID19
+subtitle: A project to collect and share information to support COVID19 emergency
 lang: en
 ---
 
@@ -9,7 +9,7 @@ lang: en
 {% assign categories_without_map = site.data.logos | where: "map", false %}
 {% for category in categories_without_map %}
   {% capture logo_alt %}
-    {{ category.name }}
+    {{ category.name_en }}
     {% if category.logo_credit and category.logo_credit != empty %}
       logo by {{ category.logo_credit }}
     {% endif %}
@@ -19,7 +19,7 @@ lang: en
     {% if category.logo and category.logo != empty %}
       <img src="{{ site.baseurl }}{{ category.logo }}" alt="{{ category.logo-alt }}">
     {% endif %}
-    {{ category.name }}
+    {{ category.name_en }}
   </a>
 {% endfor %}
 </div>
