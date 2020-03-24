@@ -3,7 +3,7 @@ lang: en
 layout: page
 title: FAQ civic hacking
 subtitle: How it works?
-permalink: en/faq/
+permalink: /en/faq/
 ---
 
 **Frequently asked questions**
