@@ -10,7 +10,8 @@ permalink: /segnala/
   <a class="btn btn-success btn-lg btn-block btn-form" href="/segnala/dona-beni-servizi">Dona beni o servizi</a>
 
   <br>
-
+  
+  <a class="btn btn-default btn-lg btn-block btn-form " href="/segnala/consegna-domicilio">Segnala Consegna a domicilio</a>
   <a class="btn btn-default btn-lg btn-block btn-form" href="/segnala/iniziative-servizi">
     Segnala Iniziative e Servizi<br>
     <small>Supporto Lavoro/Imprese, Iniziative culturali, ricreative e solidali</small>

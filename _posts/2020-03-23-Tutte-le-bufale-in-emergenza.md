@@ -52,7 +52,7 @@ In generale: se una “notizia” parla troppo alla tua pancia ed è troppo simi
 
 È un lavoro, un percorso di lungo periodo. Funziona nell’emergenza, funziona anche in tempo di pace. Per esempio, qui sotto abbiamo preparato un piccolo “meme” da far girare per aiutare tutti a pensarci due volte prima di ricondividere qualcosa che non fa altro che inquinare l’ecosistema in cui viviamo. 
 
-
+![immagine](/images/coronavirus-evitare-fake-news.jpeg)
 
 Alberto Puliafito
 Slow News - Covid19Italia.Help

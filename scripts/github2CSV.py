@@ -132,8 +132,8 @@ for issue in issues:
         pass
 
     if "Posizione" in data:
-        (lat,lon) = data["Posizione"].split(" ")[:2]
         try:
+            (lat,lon) = data["Posizione"].split(" ")[:2]
             p = Point(float(lon),float(lat))
             for i,regione in regioni.iterrows():
                 if regione['geometry'].contains(p):
