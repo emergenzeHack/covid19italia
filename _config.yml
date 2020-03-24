@@ -29,7 +29,7 @@ navbar-links:
     - SEGNALAZIONI : "issues/"
     - SEGNALAZIONI PER REGIONE: "issues/regione/"
   SEGUI:
-     - NOTIZIE: "notizie-utili/"
+     - NOTIZIE: "notizie/"
      - BLOG : "post/"
      - CONTATTI: "canali/"
      #- Fake News: "fake-news/"
