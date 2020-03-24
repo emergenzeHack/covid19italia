@@ -29,19 +29,19 @@ All people involved in the Coronavirus emergency looking for news on initiatives
 On Covid19Italia.help you can :
 
 
-    - Feel as a part of a community
+- Feel as a part of a community
 
 
-    - Help, participate, be useful to the community
+- Help, participate, be useful to the community
 
 
-    - look for sources, news, initiatives, fundraisings and much more regarding the emergency (thanks to a map where you can look for the activities close to you)
+- look for sources, news, initiatives, fundraisings and much more regarding the emergency (thanks to a map where you can look for the activities close to you)
 
 
-    - report initiatives on this issue
+- report initiatives on this issue
 
 
-    - discuss about this issue
+- discuss about this issue
 
 **Why?**
 
@@ -56,49 +56,49 @@ In this period, a person could be in need of goods, services, initiatives that y
 **Which kind of information I can find and report?**
 
 
-    -          Institutional sources – official infos and news on the emergency
+-          Institutional sources – official infos and news on the emergency
 
 
-    -          Requests for support – we put requests for help on the net to increase their visibility
+-          Requests for support – we put requests for help on the net to increase their visibility
 
 
-    -          Offers of help – entities or individuals offering any forms of support
+-          Offers of help – entities or individuals offering any forms of support
 
 
-    -          Fundraising – report fundraising published on the net, we will organize them by category and location
+-          Fundraising – report fundraising published on the net, we will organize them by category and location
 
 
-    -          Fake news – have you observed fake news on the net? Report it to us!
+-          Fake news – have you observed fake news on the net? Report it to us!
 
 
-    -          Useful news – we verify and categorize all that could be useful for other people : it will be easier to find it out afterwards
+-          Useful news – we verify and categorize all that could be useful for other people : it will be easier to find it out afterwards
 
 
-    -          Donations of materials/tools - report the offers of goods that you find out
+-          Donations of materials/tools - report the offers of goods that you find out
 
 
-    -          Public or private offer of services and initiatives – report and highlight initiatives benefitting the community
+-          Public or private offer of services and initiatives – report and highlight initiatives benefitting the community
 
 
-    -          Deliveries – home deliveries for staple goods and drugs. If you know people willing to carry out these activities report it to us!
+-          Deliveries – home deliveries for staple goods and drugs. If you know people willing to carry out these activities report it to us!
 
 
-    -          Teaching – help us gathering information about public and private initiative regarding online teaching
+-          Teaching – help us gathering information about public and private initiative regarding online teaching
 
 
-    -          Employment support – report all initiatives regarding employment/labour support
+-          Employment support – report all initiatives regarding employment/labour support
 
 
-    -          Useful contacts – report all contacts that you consider useful, we will organize them by location
+-          Useful contacts – report all contacts that you consider useful, we will organize them by location
 
 
-    -          Entertainment for children – do you know activities and initiatives regarding leisure and entertainment at home for children? Share them with the rest of the community
+-          Entertainment for children – do you know activities and initiatives regarding leisure and entertainment at home for children? Share them with the rest of the community
 
 
-    -          Entertainment/cultural activities for adults – share activities that you know and entities organizing them
+-          Entertainment/cultural activities for adults – share activities that you know and entities organizing them
 
 
-    -          Psychological support – report all services related to psy support operating in this period of emergency
+-          Psychological support – report all services related to psy support operating in this period of emergency
 
 **How can I provide a report?**
 
@@ -169,13 +169,13 @@ Sure. There is an issue related to the community. Some people of the community s
 The approach that we are using in this kind of project is called AGOPENDI : Aggregate, OPEN, Distribute :
 
 
-    - Aggregate the contents. Contents are not necessarily structures and come from different sources (social media, mails, contact, ec.). The platform aggregates them through a manual work and structure them in order to have a standard model and get effective and usable data.
+- Aggregate the contents. Contents are not necessarily structures and come from different sources (social media, mails, contact, ec.). The platform aggregates them through a manual work and structure them in order to have a standard model and get effective and usable data.
 
 
-    - OPEN data. All details received are public and accessible with open licences. As we have to aggregate, structure the infos, giving access to data leads to further develop the service. There is an added value in it.
+- OPEN data. All details received are public and accessible with open licences. As we have to aggregate, structure the infos, giving access to data leads to further develop the service. There is an added value in it.
 
 
-    - Distribute the infos. Oeìpen data can easily be transformed in new useful information. How? Through a service. Which one ? Use your fantasy and look for tools that could be easily be shared. For instance, Covid19Italia.help has a site, a Twitter profile, a Facebook page, a Facebook group, Instagram, a Telegram channel. From these sources everyone can share the reports.
+- Distribute the infos. Oeìpen data can easily be transformed in new useful information. How? Through a service. Which one ? Use your fantasy and look for tools that could be easily be shared. For instance, Covid19Italia.help has a site, a Twitter profile, a Facebook page, a Facebook group, Instagram, a Telegram channel. From these sources everyone can share the reports.
 
 All of his can be reused in the future and improved.
 
