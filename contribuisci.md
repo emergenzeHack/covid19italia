@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Emergenza coronavirus: partecipa al progetto di civic hacking"
-subtitle: Partecipa a Covid 19Italia.help: è aperto a tutte le volontarie e tutti i volontari che desiderano collaborare.
+subtitle: "Partecipa a Covid 19Italia.help: è aperto a tutte le volontarie e tutti i volontari che desiderano collaborare."
 permalink: /contribuisci/
 ---
 
