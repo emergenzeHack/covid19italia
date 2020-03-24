@@ -2,6 +2,7 @@
 layout: page
 title: Documentazione Tecnica
 permalink: /wiki/
+lang: it
 ---
 
 Benvenuto nel wiki di Covid19Italia, una community basata sui *social media*, nata per condividere informazioni utili e verificate sul corona virus in Italia.
@@ -49,7 +50,7 @@ Covid19Italia è un progetto opensource composto da varie applicazioni integrate
 
 # Aprire una Issue
 
-Gli Issues possono essere usati per tenere traccia di bug, miglioramenti o altre richieste di progetto. 
+Gli Issues possono essere usati per tenere traccia di bug, miglioramenti o altre richieste di progetto.
 
 Tutti gli utenti GitHub possono creare un issue per un progetto di tipo pubblico.
 
@@ -143,7 +144,7 @@ Per creare un nuovo branch:
 Ora hai due branch. master e readme-edits. Essi sembrano proprio lo stesso ma non lo saranno per molto! Fra poco faremo delle modifiche al nuovo branch.
 
 **3. Fai e committa modifiche**
-Bravo! 
+Bravo!
 Adesso sei sulla vista del codice per il branch readme-edits, che è una copia del master. Facciamo delle modifiche.
 
 Su Github, le modifiche salvate sono chiamate commit. Ogni commit ha un messaggio associato di commit, che è una descrizione che spiega perchè una particolare modifica è stata fatta. I messaggi di commit tengono traccia della storia delle modifiche, cosi gli altri contributori possono capire cosa hai fatto è perchè.
@@ -152,7 +153,7 @@ Fare e committare modifiche:
 
 - Fai click sul file README.md.
 - Fai click sull'icona della matita in alto a destra della vista dei file per fare una modifica.
-- Nell'editor scrivo un po' di cose su di te. 
+- Nell'editor scrivo un po' di cose su di te.
 - Scrivi un messaggio di commit che descrive la tua modifica
 - Fai click sul pulsante Commit changes
 
@@ -162,7 +163,7 @@ Queste modifiche saranno fatte al README file solo nel tuo branch readme-edits, 
 
 **4. Aprire una Pull Request**
 
-Ottime modifiche! 
+Ottime modifiche!
 Ora che hai modificato un file in un branch, potrai aprire una pull request.
 
 Le pull request sono il cuore della collaborazione con Github. Quando apri una pull request, proponi le tue modifiche e richiedi che qualcuno le riveda e le "tiri" su e le fonda nel suo branch. Le pull requests mostrano le differenze dei contenuti di entrambi i branch. Le modifiche, aggiunte e le eliminazioni sono mostrate in verde e rosso.
@@ -175,7 +176,7 @@ Puoi anche aprire pull request nel tuo repository e fonderle da solo. E' un buon
 
 Aprire una pull request per una modifica al file README
 
-Fai Click sul tab Pull Request tab, quindi dalla pagina Pull Request, fai click sul bottone verde New pull request.	
+Fai Click sul tab Pull Request tab, quindi dalla pagina Pull Request, fai click sul bottone verde New pull request.
 ![](https://guides.github.com/activities/hello-world/pr-tab.gif)
 
 Seleziona il branch dove hai fatto le modifiche per compararlo con il master.
@@ -208,7 +209,7 @@ In questo step finale, è tempo di portare le tue modifiche fondendole dal tuo b
 
 Evviva!
 
-Completando questo tutorial, hai imparato a creare un progetto e fare una pull request su Github! 
+Completando questo tutorial, hai imparato a creare un progetto e fare una pull request su Github!
 
 Qui a cosa ti sarà utile questo tutorial:
 
@@ -231,7 +232,7 @@ Premessa:
 
 # Meccanismo
 
-Ogni compilazione di un modulo di Covid19Italia genera - dopo circa 30 secondi - una nuova Issue [qui](https://github.com/emergenzeHack/covid19italia_segnalazioni/issues). 
+Ogni compilazione di un modulo di Covid19Italia genera - dopo circa 30 secondi - una nuova Issue [qui](https://github.com/emergenzeHack/covid19italia_segnalazioni/issues).
 
 A queste Issue vengono applicate diverse etichette per descriverne la natura e lo stato di approvazione (che ne determina la pubblicazione finale sul sito, sui bollettini, su Twitter, sui canali e bot Telegram,..).
 
@@ -304,7 +305,7 @@ Quindi, le issue segnalate con la label <kbd>Posizione mancante</kbd> hanno biso
 
 ### Come trovare le coordinate di un luogo?
 
-Prendiamo ad esempio [questa](https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/334) segnalazione su Milano) 
+Prendiamo ad esempio [questa](https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/334) segnalazione su Milano)
 
 Si può usare questo sito: [Nominatim](https://nominatim.openstreetmap.org/).
 
@@ -444,9 +445,9 @@ Contro:
 
 Sotto qualche semplice passaggio per convertire un documento fatto in Google Docs in un formato compatibile con questo WIKI o come post del blog di questo sito così da poter continuare ad usare Google Docs se lo si usa normalmente per scrivere e poi pubblicare contenuti su covid19italia.help
 
-- Installare nei Componenti aggiuntivi il plugin "Docs to markdown" (dal menu Componenti Aggiuntivi -> Installa componenti aggiuntivi cercate "Docs to markdown". 
+- Installare nei Componenti aggiuntivi il plugin "Docs to markdown" (dal menu Componenti Aggiuntivi -> Installa componenti aggiuntivi cercate "Docs to markdown".
 - una volta che il documento in Google Doc è pronto aprire il menu Componenti Aggiuntivi selezionate la voce "Docs to Markdown" e poi "Convert"
-- Dal pannello a Sinistra premete sul pulsante Markdown. 
+- Dal pannello a Sinistra premete sul pulsante Markdown.
 
 A questo punto selezionate tutto il testo che viene tradotto sotto...copiatelo con un normale "Copia" : questo è il vostro testo nel linguaggio compatibile con Github!
 
@@ -529,7 +530,7 @@ Eseguiamo, sempre nella cartella covid19italia, `bundle exec jekyll serve`
 
 Il programma stamperà a video l'indirizzo da aprire nel browser, che sarà del tipo http://127.0.0.1:4000/.
 
-Ecco fatto, tutto qui! Buon lavoro :muscle: 
+Ecco fatto, tutto qui! Buon lavoro :muscle:
 
 ## Ottenere una "build"
 
@@ -549,5 +550,5 @@ bundle exec jekyll build
 Se fate girare il sito su una macchina con Linux e sviluppate sotto Windows dovrete aggiungere -H 0.0.0.0 al comando serve, tipo:
 
 `bundle exec jekyll serve -H 0.0.0.0`
- 
+
 In questo modo potrete aprire il sito da qualsiasi postazione connessa alla vostra rete e non solo dal localhost. Utile per testare le modifiche con cellulari, tablet o altri browser.
