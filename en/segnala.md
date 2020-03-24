@@ -7,7 +7,7 @@ permalink: /en/segnala/
 ---
 
 <div class="col-md-offset-3 col-md-6">
-  <a class="btn btn-success btn-lg btn-block btn-form" href="/segnala/chiedi-aiuto">Ask for help</a>
+  <a class="btn btn-success btn-lg btn-block btn-form" href="/segnala/en/chiedi-aiuto">Ask for help</a>
   <a class="btn btn-success btn-lg btn-block btn-form" href="/segnala/dona-beni-servizi">Donate goods or services</a>
 
   <br>
