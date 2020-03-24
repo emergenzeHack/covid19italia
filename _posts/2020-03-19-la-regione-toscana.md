@@ -2,6 +2,7 @@
 layout: post
 title: La Regione Toscana (e il Governo) rilancia i nostri dati, grazie!
 categories: blog
+lang: it
 ---
 
 La regione Toscana tramite il portale dei dati su [OpenToscana](http://dati.toscana.it/) ha deciso di darci la possibilità di pubblicare tutti i dataset del progetto che si trovano in [questa](https://www.covid19italia.help/opendata/) pagina.

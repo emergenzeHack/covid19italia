@@ -2,6 +2,7 @@
 layout: post
 title: Usare i Social in modo Utile
 categories: blog
+lang: it
 ---
 
 In caso di emergenza se volete postare sui social network conviene darsi delle semplici regole per recuperare le informazioni.

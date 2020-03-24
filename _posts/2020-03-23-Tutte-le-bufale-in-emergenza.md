@@ -3,6 +3,7 @@ layout: post
 title: Tutte le bufale in emergenza
 subtitle: Come difenderci dalle cosiddette fake news? Come impedirne la diffusione nel nostro piccolo senza fare la figura di chi sta sempre col ditino alzato?
 categories: blog
+lang: it
 ---
 
 L’emergenza che stiamo vivendo è senza precedenti: chiunque è un principiante, in questo contesto.  \
@@ -17,7 +18,7 @@ Da un certo punto di vista è un’ottima notizia: possiamo avere accesso a info
  \
 Da un altro punto di vista, questo facilita anche la diffusione di informazioni false, diffuse con scopi più o meno evidenti di profitto (politico, economico o anche solo per il gusto di creare il panico). Aggiungiamoci poi che anche i giornali tradizionali, per il modello di produzione e di lavoro che non riescono a modificare, spesso cadono in bufale o informazioni diffuse in maniera poco accurata ed eccoci di fronte a una specie di tempesta perfetta.
 
-Come si fa, allora, a evitare le bufale? 
+Come si fa, allora, a evitare le bufale?
 
 Un modo è cercare di smentirle una a una. \
  \
@@ -38,9 +39,9 @@ Un bel modo per difendersi dalle fake news è capire i meccanismi con cui queste
  \
 **Prima di tutto: i sentimenti.**Queste non-notizie semplificano, tendono a parlare alla pancia, ai pregiudizi, alle cose che magari avevi sempre pensato anche tu e finalmente ecco che qualcuno le dice. Ecco, ricordati che le emozioni e le informazioni sono due cose diverse. Se una cosa è troppo bella per essere vera, probabilmente non è vera. Se una cosa ti sembra vera e ti sembra che tutti la nascondano, probabilmente non è vera. Se una cosa è troppo spaventosa per essere vera, probabilmente non è vera.
 
-**Secondo: i pregiudizi**. Le non-notizie fanno leva sui pregiudizi, sui preconcetti. 
+**Secondo: i pregiudizi**. Le non-notizie fanno leva sui pregiudizi, sui preconcetti.
 
-Discriminano. Discriminano per genere, per provenienza geografica. 
+Discriminano. Discriminano per genere, per provenienza geografica.
 
 Cercano di far leva, in generale, sui meccanismi noi-contro-loro.  \
 Noi, ovviamente siamo i buoni e loro (chiunque sia il nemico in quel momento) sono i cattivi. E quando cerchi di smontare la singola bufala ti trovi per forza di cose a dover provare a smontare un vissuto, un’esperienza, le idee di chi l’ha condivisa. Rischia di diventare soverchiante. Anche perché nessuno di noi è esente da pregiudizi.  \
@@ -48,9 +49,9 @@ In generale: se una “notizia” parla troppo alla tua pancia ed è troppo simi
 
 **Terzo: non ricondividere e non cliccare**. Se clicchi su un titolo-esca chi ha messo lì quel contenuto avrà la sua ricompensa, qualunque sia il suo scopo. Se non sai dire quale sia la fonte primaria dell’informazione, se non hai alcuno strumento per verificare se sia vera o falsa, se sia o meno attendibile, non la ricondividere, non farla circolare.
 
-**Quarto: costruisci gli anticorpi**. Aiutaci a diffondere i consigli per arginare la diffusione di contenuti falsi. 
+**Quarto: costruisci gli anticorpi**. Aiutaci a diffondere i consigli per arginare la diffusione di contenuti falsi.
 
-È un lavoro, un percorso di lungo periodo. Funziona nell’emergenza, funziona anche in tempo di pace. Per esempio, qui sotto abbiamo preparato un piccolo “meme” da far girare per aiutare tutti a pensarci due volte prima di ricondividere qualcosa che non fa altro che inquinare l’ecosistema in cui viviamo. 
+È un lavoro, un percorso di lungo periodo. Funziona nell’emergenza, funziona anche in tempo di pace. Per esempio, qui sotto abbiamo preparato un piccolo “meme” da far girare per aiutare tutti a pensarci due volte prima di ricondividere qualcosa che non fa altro che inquinare l’ecosistema in cui viviamo.
 
 ![immagine](/images/coronavirus-evitare-fake-news.jpeg)
 
