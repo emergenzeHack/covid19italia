@@ -1,4 +1,5 @@
 ---
+lang: it
 layout: bare
 title: Segnala
 permalink: /segnala-base/

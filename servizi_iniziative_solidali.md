@@ -1,4 +1,5 @@
 ---
+lang: it
 layout: issuelist
 title: Servizi ed iniziative solidali
 permalink: /servizi-e-iniziative-solidali/

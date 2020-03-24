@@ -146,7 +146,9 @@ jekyll-crosseverything_to_medium:
 timezone: "Europe/Rome"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
+lang: it
+languages: ["it", "en"]
+permalink: /:categories/:year-:month-:day-:title/
 paginate: 5
 #selec tile for maps
 tile_map: https://a.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png
@@ -189,6 +191,7 @@ exclude:
   - Vagrantfile
   - vendor
   - .gitlab-ci.yml
+  - .idea
 
 # prose.io config
 prose:
