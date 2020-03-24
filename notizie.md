@@ -3,7 +3,7 @@ lang: it
 layout: page
 title: News Coronavirus Italia | Notizie utili
 subtitle: Tutte le news verificate dal team di Covid19Italia.Help sull'emergenza coronavirus
-permalink: /notizie-utili/
+permalink: /notizie/
 ---
 
 <div class="panel-group">
