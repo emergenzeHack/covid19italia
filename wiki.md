@@ -1,5 +1,4 @@
 ---
-lang: it
 layout: page
 title: Documentazione Tecnica
 permalink: /wiki/
