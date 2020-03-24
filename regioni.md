@@ -1,4 +1,5 @@
 ---
+lang: it
 layout: page
 title: "Emergenza coronavirus: segnalazioni per regione"
 subtitle: Regione per regione le segnalazioni fatte sulla piattaforma Covid19Italia.Help

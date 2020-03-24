@@ -1,4 +1,5 @@
 ---
+lang: it
 layout: page
 title: Cerco Lavoro
 permalink: /cerco_lavoro/

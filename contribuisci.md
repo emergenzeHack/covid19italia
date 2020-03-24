@@ -3,6 +3,7 @@ layout: page
 title: "Emergenza coronavirus: partecipa al progetto di civic hacking"
 subtitle: "Partecipa a Covid 19Italia.help: è aperto a tutte le volontarie e tutti i volontari che desiderano collaborare."
 permalink: /contribuisci/
+lang: it
 ---
 
 Siamo un gruppo di civic hacker italiane/i convinti che in questo momento ci sia bisogno dell'aiuto di tutti per superare questo momento particolare per l'Italia e per il mondo.

@@ -1,4 +1,5 @@
 ---
+lang: it
 layout: page
 title: Fonti istituzionali emergenza coronavirus | Fonti ufficiali
 subtitle: Tutte le fonti istituzionali da consultare per avere informazioni di prima mano sull'emergenza coronavirus 

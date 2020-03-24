@@ -1,4 +1,5 @@
 ---
+lang: it
 layout: page
 title: Mappa
 permalink: /mappa/

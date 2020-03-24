@@ -1,4 +1,5 @@
 ---
+lang: it
 layout: page
 title: Dati utili
 permalink: /dati_utili/
