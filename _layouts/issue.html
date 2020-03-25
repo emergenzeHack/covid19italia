@@ -1,6 +1,19 @@
 ---
 layout: base
+no-share-img: true
 ---
+{% for static_file in site.static_files %}
+    {% if static_file.path == '/favicon.ico' %}
+        {% assign issueimage = true %}
+    {% endif %}
+{% endfor %}
+
+{% if issueimage %}
+<meta property="og:image" content="/images/issues/{{page.number}}.png"/>
+{% else %}
+<meta property="og:image" content="/images/covid19italia-full.png"/>
+{% endif %}
+
 {% include header.html type="issue" %}
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
    integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
