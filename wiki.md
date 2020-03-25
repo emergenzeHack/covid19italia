@@ -2,7 +2,6 @@
 layout: page
 title: Documentazione Tecnica
 permalink: /wiki/
-lang: it
 ---
 
 Benvenuto nel wiki di Covid19Italia, una community basata sui *social media*, nata per condividere informazioni utili e verificate sul corona virus in Italia.
