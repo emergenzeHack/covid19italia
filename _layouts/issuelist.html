@@ -68,7 +68,7 @@ layout: page
 {% for item in member.issue.data %}
 {% if item[1] != blank %}
 <dt class="col-sm-3">{{item[0] | replace: "_", " " | capitalize_all}}</dt>
-<dd class="col-sm-9">{{item[1] | newline_to_br | auto_link}}</dd>
+<dd class="col-sm-9">{{item[1] | newline_to_br | auto_link | truncatewords: 100}}</dd>
 {% endif %}
 {% endfor %}
 </dl>
