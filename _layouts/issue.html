@@ -30,7 +30,13 @@ no-share-img: true
 #map{ height: 600px }
 </style>
 
+
 <div class="container" role="main">
+{% if issueimage %}
+    <div class="row">
+<img class="col-md-3 col-sm-6 col-xs-6" src="/images/issues/{{page.number}}.png" />
+    </div>
+{% endif %}
     <div class="row">
         <div class="col-md-12">{% if page.state == "closed" %}<strike>{% endif %}<h2>{{page.issue.title}}</h2>{% if page.state == "closed" %}</strike>{% endif %} </div>
     </div>
