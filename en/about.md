@@ -2,7 +2,7 @@
 layout: page
 title: What is Covid19 Italia Help? Coronavirus Emergency Response
 subtitle: Find out how the platform works, how to collaborate and how to make reports
-permalink: /about/
+permalink: en/about/
 lang: en
 ---
 
