@@ -64,6 +64,8 @@
     {% else %}
     <meta property="og:url" content="{{ site.url }}{{ page.url | remove: '/index.html' | remove: '.html' }}"/>
     {% endif %}
+    {% if page.no-share-img %}
+    {% else %}
     {% if page.share-img %}
     <meta property="og:image" content="{{ page.share-img }}"/>
     {% elsif site.avatar %}
@@ -72,6 +74,7 @@
     <meta property="og:image:height" content="310"/>
     {% else %}
     <meta property="og:image" content=""/>
+    {% endif %}
     {% endif %}
 
     <meta name="twitter:card" content="summary">
