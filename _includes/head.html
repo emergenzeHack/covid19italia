@@ -65,16 +65,28 @@
     <meta property="og:url" content="{{ site.url }}{{ page.url | remove: '/index.html' | remove: '.html' }}"/>
     {% endif %}
     {% if page.no-share-img %}
+        {% capture image_url %}/images/issues/{{page.number}}.png{% endcapture %}
+        {% for static_file in site.static_files %}
+        {% if static_file.path == image_url%}
+        {% assign issueimage = true %}
+        {% endif %}
+        {% endfor %}
+
+        {% if issueimage %}
+        <meta property="og:image" content="{{ site.url }}{{ image_url }}"/>
+        {% else %}
+        <meta property="og:image" content="{{ site.url }}/images/covid19italia-full.png"/>
+        {% endif %}
     {% else %}
-    {% if page.share-img %}
-    <meta property="og:image" content="{{ page.share-img }}"/>
-    {% elsif site.avatar %}
-    <meta property="og:image" content="/images/covid19italia-full.png"/>
-    <meta property="og:image:width" content="310"/>
-    <meta property="og:image:height" content="310"/>
-    {% else %}
-    <meta property="og:image" content=""/>
-    {% endif %}
+        {% if page.share-img %}
+        <meta property="og:image" content="{{ page.share-img }}"/>
+        {% elsif site.avatar %}
+        <meta property="og:image" content="{{ site.url }}/images/covid19italia-full.png"/>
+        <meta property="og:image:width" content="310"/>
+        <meta property="og:image:height" content="310"/>
+        {% else %}
+        <meta property="og:image" content=""/>
+        {% endif %}
     {% endif %}
 
     <meta name="twitter:card" content="summary">

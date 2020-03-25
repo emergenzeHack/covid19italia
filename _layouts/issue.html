@@ -5,17 +5,6 @@ no-share-img: true
 
 {% capture image_url %}/images/issues/{{page.number}}.png{% endcapture %}
 
-{% for static_file in site.static_files %}
-{% if static_file.path == image_url%}
-        {% assign issueimage = true %}
-    {% endif %}
-{% endfor %}
-
-{% if issueimage %}
-<meta property="og:image" content="{{ site.url }}{{ image_url }}"/>
-{% else %}
-<meta property="og:image" content="{{ site.url }}/images/covid19italia-full.png"/>
-{% endif %}
 
 {% include header.html type="issue" %}
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
