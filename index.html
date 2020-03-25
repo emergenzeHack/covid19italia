@@ -5,6 +5,71 @@ lang: it
 subtitle: Un progetto per condividere informazioni e attivarsi a supporto dell'emergenza COVID19
 ---
 
+<script type="application/ld+json">
+    [{
+        "@context": "http://schema.org",
+        "@type":"Project",
+        "name": "Covid19Italia.help",
+        "knowsAbout" : "covid19italia.help è un progetto no profit, organizzato e diretto interamente da volontari e volontarie. È nato per condividere informazioni utili e verificate sull’evento di Coronavirus diffusosi in Italia nel 2020.",
+        "url": "https://www.covid19italia.help/",
+        "image": "https://www.covid19italia.help/images/covid19italia-full.png",
+
+        "description": "covid19italia.help è un progetto no profit, organizzato e diretto interamente da volontari e volontarie. È nato per condividere informazioni utili e verificate sull’evento di Coronavirus diffusosi in Italia nel 2020.",
+        "ownershipFundingInfo"  : {
+            "@type" : "AboutPage",
+            "url" : ["https://www.covid19italia.help/about/"]
+        },
+        "sameAs": ["https://www.facebook.com/covid19italia.help", "https://github.com/emergenzeHack/covid19italia", "https://twitter.com/ItaliaCovid19", "https://www.instagram.com/covid19italia.help"]
+    },
+        {
+            "@context": "http://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [{
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@id": "https://www.covid19italia.help/",
+                    "name": "Home"
+                }
+            },{
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                    "@id": "https://www.covid19italia.help/issues/",
+                    "name": "Segnalazioni"
+                }
+            },{
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                    "@id": "https://www.covid19italia.help/issues/regione/",
+                    "name": "Segnalazioni per regione"
+                }
+            },{
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                    "@id": "https://www.covid19italia.help/segnala/",
+                    "name": "Segnala"
+                }
+            },{
+                "@type": "ListItem",
+                "position": 5,
+                "item": {
+                    "@id": "https://www.covid19italia.help/about/",
+                    "name": "Chi siamo"
+                }
+            },{
+                "@type": "ListItem",
+                "position": 6,
+                "item": {
+                    "@id": "https://www.covid19italia.help/contribuisci/",
+                    "name": "Contribuisci"
+                }
+            }]
+        }]
+</script>
+
 <div class="homepage-categories">
 {% assign categories_without_map = site.data.logos | where: "map", false %}
 {% for category in categories_without_map %}
