@@ -3,7 +3,7 @@ lang: en
 layout: page
 title: Contacts
 subtitle: Contact Covid19Italia.help and follow our social media
-permalink: en/canali/
+permalink: en/channels/
 ---
 
 <div class="segnala">

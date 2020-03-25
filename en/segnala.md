@@ -3,7 +3,7 @@ lang: en
 layout: page
 title: "Emergency COVID19 ask for help, report initiatives, news, data"
 subtitle: Ask for help or report initiatives with Covid19Italia.Help
-permalink: /en/segnala/
+permalink: /en/report/
 ---
 
 <div class="col-md-offset-3 col-md-6">
