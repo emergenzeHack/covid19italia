@@ -3,6 +3,7 @@ layout: page
 title: Che cos'è Covid19 Italia Help? La risposta all'emergenza coronavirus
 subtitle: Scopri come funziona la piattaforma, come collaborare, come fare segnalazioni
 permalink: /about/
+lang: it
 ---
   
 ## Il Progetto
