@@ -60,7 +60,7 @@ The idea and also a large part of the project is from the same team that develop
 
 [Here](https://www.covid19italia.help/about/) is the team of volunteers working on this project in Italy but we wait the help of other many civic hackers in world that want to help people in this difficult period!
 
-Be part of our community on [Github Issues](https://github.com/emergenzeHack/covid19italia/issues) or on our channels!
+Be part of our community on [Github Issues](https://github.com/emergenzeHack/covid19italia/issues) or on our channels and make possible that this project can help people of all the world!
 
 ### Contacts
 
