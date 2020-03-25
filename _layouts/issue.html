@@ -9,9 +9,9 @@ no-share-img: true
 {% endfor %}
 
 {% if issueimage %}
-<meta property="og:image" content="/images/issues/{{page.number}}.png"/>
+<meta property="og:image" content="{{ site.url }}/images/issues/{{page.number}}.png"/>
 {% else %}
-<meta property="og:image" content="/images/covid19italia-full.png"/>
+<meta property="og:image" content="{{ site.url }}/images/covid19italia-full.png"/>
 {% endif %}
 
 {% include header.html type="issue" %}
