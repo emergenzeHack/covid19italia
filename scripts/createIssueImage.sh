@@ -44,6 +44,7 @@ convert -background transparent -fill "${FRONTCOLOR}" -font Helvetica -size "${t
 #convert  "${TMPTEMPLATE}" ${TMPFILE} -geometry "${text_pos}" -depth 2 -colors 4 -quality 9 -composite "${destdir}/${destfilename}"
 convert  "${TMPTEMPLATE}" ${TMPFILE} -geometry "${text_pos}" -depth 2 -colors 3 -quality 9 -composite "${destdir}/${destfilename}"
 
+optipng "${destdir}/${destfilename}" &
 
 
 
