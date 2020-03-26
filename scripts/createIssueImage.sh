@@ -42,7 +42,7 @@ convert -background transparent -fill "${FRONTCOLOR}" -font Lato-Regular -size "
 
 #convert  "${TMPTEMPLATE}" ${TMPFILE} -geometry "${text_pos}" -quality 9 -composite "${destdir}/${destfilename}"
 #convert  "${TMPTEMPLATE}" ${TMPFILE} -geometry "${text_pos}" -depth 2 -colors 4 -quality 9 -composite "${destdir}/${destfilename}"
-convert  "${TMPTEMPLATE}" ${TMPFILE} -geometry "${text_pos}" -depth 2 -colors 3 -quality 9 -composite "${destdir}/${destfilename}"
+convert  "${TMPTEMPLATE}" ${TMPFILE} -geometry "${text_pos}" -depth 4 -colors 16 -quality 9 -composite "${destdir}/${destfilename}"
 
 optipng "${destdir}/${destfilename}" &
 
