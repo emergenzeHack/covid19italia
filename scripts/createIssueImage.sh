@@ -39,15 +39,16 @@ if [ ! -d "${destlogdir}" ]; then
     mkdir -p "${destlogdir}"
 else
     if [ -f "${destlogname}" ]; then
-        old_templmd5=$(jq -r .templmd5 < "${destlogname}")
-        old_number=$(jq -r .number < "${destlogname}")
-        old_title=$(jq -r .title < "${destlogname}")
-        old_BACKCOLOR=$(jq -r .BACKCOLOR < "${destlogname}")
-        old_FRONTCOLOR=$(jq -r .FRONTCOLOR < "${destlogname}")
-        old_filemd5=$(jq -r .filemd5 < "${destlogname}")
+        old_templmd5=$(jq -r '.templmd5' < "${destlogname}")
+        old_number=$(jq -r '.number' < "${destlogname}")
+        old_title=$(jq -r '.title' < "${destlogname}")
+        old_BACKCOLOR=$(jq -r '.BACKCOLOR' < "${destlogname}")
+        old_FRONTCOLOR=$(jq -r '.FRONTCOLOR' < "${destlogname}")
+        old_filemd5=$(jq -r '.filemd5' < "${destlogname}")
         echo old_templmd5 "${old_templmd5}"
         echo new_templmd5 "${new_templmd5}"
         echo old_number "${old_number}"
+        echo old_title "${old_title}" title "${title}"
 
         if [ "${old_templmd5}" == "${new_templmd5}" -a "${old_number}" == "${number}" -a "${old_title}" == "${title}" -a "${old_BACKCOLOR}" == "${BACKCOLOR}" -a "${old_FRONTCOLOR}" == "${FRONTCOLOR}" ]; then
             if [ -f "${destdir}/${destfilename}" ] ; then
