@@ -1,7 +1,12 @@
 ---
 layout: base
 title: page.issue.data[0]
+no-share-img: true
 ---
+
+{% capture image_url %}/images/issues/{{page.number}}.png{% endcapture %}
+
+
 
 {% include header.html type="issue" %}
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
@@ -19,7 +24,19 @@ title: page.issue.data[0]
 #map{ height: 600px }
 </style>
 
+
 <div class="container" role="main">
+    {% capture image_url %}/images/issues/{{page.number}}.png{% endcapture %}
+    {% for static_file in site.static_files %}
+    {% if static_file.path == image_url%}
+    {% assign issueimage = true %}
+    {% endif %}
+    {% endfor %}
+{% if issueimage %}
+    <div class="row">
+<img class="col-md-6 col-sm-9 col-xs-9" src="/images/issues/{{page.number}}.png" />
+    </div>
+{% endif %}
     <div class="row">
         <div class="col-md-12">{% if page.state == "closed" %}<strike>{% endif %}<h2>{{page.issue.title}}</h2>{% if page.state == "closed" %}</strike>{% endif %} </div>
     </div>

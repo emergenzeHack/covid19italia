@@ -22,7 +22,7 @@ logo-description: Il logo di covid19italia due cerchi concentrici uno rosso e un
 description: Un progetto per condividere informazioni a supporto dell'emergenza COVID19
 
 # --- Navigation bar options --- #
-# List of links in the navigation bar
+# List of links in the navigation bar -> NOT USED! see in navigation.yml in Data folder.
 navbar-links:
   SEGNALA: "segnala/"
   SCOPRI:

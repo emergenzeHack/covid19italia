@@ -2,6 +2,7 @@
 layout: page
 title: Documentazione Tecnica
 permalink: /wiki/
+lang: it
 ---
 
 !INCLUDE "Home.md"
