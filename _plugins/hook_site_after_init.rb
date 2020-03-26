@@ -1,7 +1,7 @@
 require 'fileutils'
 
 Jekyll::Hooks.register :site, :after_init do |site|
-    if Dir.exists? '_data/.git'
+    if (Dir.exists? '_data/.git') && (! ENV.include? "NETLIFY")
         system("git -C _data pull --rebase --autostash")
     else
         FileUtils.rm_r '_data/', force: true
