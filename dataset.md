@@ -5,6 +5,42 @@ title: Segnala dati
 permalink: /dataset/
 ---
 
+<script type="application/ld+json">
+    [{
+      "@context": "http://schema.org",
+      "@type":"Dataset",
+	  "name": "covid19italia.help dataset",
+	  "url" : "https://www.covid19italia.help/opendata/",
+	  "distribution" :    [
+	    { "@type": "DataDownload",
+		  "contentUrl" : "https://raw.githubusercontent.com/emergenzeHack/covid19italia_data/master/issues.csv",
+		  "encodingFormat" : "text/csv",
+		  "requiresSubscription" :"false"
+		},
+		{ "@type": "DataDownload",
+		  "contentUrl" : "https://raw.githubusercontent.com/emergenzeHack/covid19italia_data/master/issuesjson.json",
+		  "encodingFormat" : "application/json",
+		  "requiresSubscription" :"false"
+		},
+		{ "@type": "DataDownload",
+		  "contentUrl" : "https://raw.githubusercontent.com/emergenzeHack/covid19italia_data/master/issues.geojson",
+		  "encodingFormat" : "application/geo+json",
+		  "requiresSubscription" :"false"
+		}
+	  ],
+	  "about" : "Questo Dataset contiene tutti i riferimenti ai contenuti e ai dati prodotti o raccolti dal progetto covid19italia.help . Se usi i nostri dati non scordare di citarci come fonte",
+	  "abstract" : "Il dataset contiene tutte le notizie di eventi, fake news, iniziative e servizi, raccolte fondi che siamo riusciti a raccogliere riguardo al fenomeno del coronavirus in Italia",
+	  "description" : "Il dataset contiene tutte le notizie di eventi, fake news, iniziative e servizi, raccolte fondi che siamo riusciti a raccogliere riguardo al fenomeno del coronavirus in Italia",	  
+	  "license" : "https://creativecommons.org/licenses/by/4.0/",
+	  "producer" : "https://www.covid19italia.help/",
+	  "contentLocation" : {
+	      "@type" : "Place",
+		  "name" : "Italy"
+	  },
+	  "exampleOfWork" : "https://www.covid19italia.help/issues/"
+	}]
+</script>
+
 <div class="text-center">
 	<a href="#dataset-ricercati" class="btn btn-warning btn-lg" role="button">Dataset ricercati</a>
 	<a href="#dataset-segnalati" class="btn btn-success btn-lg" role="button">Dataset segnalati</a>
