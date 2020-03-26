@@ -36,7 +36,7 @@ convert "${template_img}" -negate -colorspace RGB "${TMPTEMPLATE2}"
 convert "${TMPTEMPLATE2}" -fuzz '10%' -fill "${BACKCOLOR}" -opaque black "${TMPTEMPLATE}"
 fi
 
-convert -background transparent -fill "${FRONTCOLOR}" -font Helvetica -size "${text_size}" \
+convert -background transparent -fill "${FRONTCOLOR}" -font Lato-Regular -size "${text_size}" \
           caption:"${title}" \
           "${TMPFILE}"
 
