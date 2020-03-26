@@ -1,8 +1,8 @@
 {
   "name": "Covid19Italia Help",
   "short_name": "Covid19-IT",
-  "theme_color": "#f5f5f5",
-  "background_color": "#ffffff",
+  "theme_color": "#314f96",
+  "background_color": "#314f96",
   "display": "fullscreen",
   "Scope": "/",
   "start_url": "./?mode=PWA",
