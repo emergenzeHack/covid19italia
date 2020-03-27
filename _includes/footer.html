@@ -152,7 +152,6 @@
       {% endif %}
 
       {% if page.lang == "en" %}
-
 		  {% if site.url-pretty %}
 		  &nbsp;&bull;&nbsp;
 		  <a href="{{ site.url }}">{{ site.url-pretty }}</a>
@@ -161,6 +160,17 @@
 		  <a href="{{ site.url }}/legal/" target="_blank">Legal, Cookie and Privacy Policy</a>
 		  &nbsp;&bull;&nbsp;
 		  Supported by &nbsp;<a href="https://www.actionaid.it/" rel="noopener" target="_blank"><img src="/images/actionaid-logo.png" width="160" alt="Actionaid - realizza il cambiamento"></a>
+      {% endif %}
+
+      {% if page.lang == "pt" %}
+      {% if site.url-pretty %}
+      &nbsp;&bull;&nbsp;
+      <a href="{{ site.url }}">{{ site.url-pretty }}</a>
+      {% endif %}
+      &nbsp;&bull;&nbsp;
+      <a href="{{ site.url }}/legal/" target="_blank">Legal, Cookie and Privacy Policy</a>
+      &nbsp;&bull;&nbsp;
+      Apoiado por &nbsp;<a href="https://www.actionaid.it/" rel="noopener" target="_blank"><img src="/images/actionaid-logo.png" width="160" alt="Actionaid - realizza il cambiamento"></a>
       {% endif %}
 
     {% if page.lang == site.lang %}
