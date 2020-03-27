@@ -13,15 +13,13 @@ categorieMapAll: true
 {% assign categorieissue = site.categorieissue %}
 {% endif %}
 
-<div class="row">
-<div class="text-center">
+<div class="row mx-auto">
 {% for categoriatuple in categorieissue %}
 {% assign categoria = categoriatuple | split: ";" %}
-  <span class="col-xs-12 col-sm-6">
-	  <a href="/{{categoria[0] | slugify}}" class="btn btn-success btn-lg col-xs-12 mb-15" role="button">{{categoria[0]}}</a>
-	</span>
+  <div class="col-xs-12 col-sm-6 mb-15">
+	  <a href="/{{categoria[0] | slugify}}" class="btn btn-success btn-block">{{categoria[0]}}</a>
+	</div>
 {% endfor %}
-</div>
 </div>
 
 

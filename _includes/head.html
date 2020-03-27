@@ -2,111 +2,111 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-    <title>{% if page.url == '/' %}{{ page.title }}{% else %}{{ page.title }} | {{ site.title }}{% endif %}</title>
+    <title>{%- if page.url == '/' -%}{{ page.title }}{%- else -%}{{ page.title }} | {{ site.title }}{%- endif -%}</title>
 
     <meta name="author" content="{{ site.author.name }}"/>
 
-    {% if page.subtitle %}
+    {%- if page.subtitle -%}
     <meta name="description" content="{{ page.subtitle }}">
-    {% endif %}
+    {%- endif -%}
 
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }} - {{ site.description }}"
           href="{{ site.baseurl }}/feed.xml"/>
 
-    {% if page.id %}
+    {%- if page.id -%}
     <link rel="canonical" href="{{ site.url }}{{ page.url }}"/>
-    {% else %}
+    {%- else -%}
     <link rel="canonical" href="{{ site.url }}{{ page.url | remove: '/index.html' | remove: '.html' }}"/>
-    {% endif %}
+    {%- endif -%}
 
-    {% if layout.common-ext-css %}
-    {% for css in layout.common-ext-css %}
+    {%- if layout.common-ext-css -%}
+    {%- for css in layout.common-ext-css -%}
     <link rel="stylesheet" href="{{ css }}"/>
-    {% endfor %}
-    {% endif %}
+    {%- endfor -%}
+    {%- endif -%}
 
-    {% if layout.common-css %}
-    {% for css in layout.common-css %}
+    {%- if layout.common-css -%}
+    {%- for css in layout.common-css -%}
     <link rel="stylesheet" href="{{ css | prepend: site.baseurl | replace: '//', '/' }}"/>
-    {% endfor %}
-    {% endif %}
+    {%- endfor -%}
+    {%- endif -%}
 
-    {% if layout.common-googlefonts %}
-    {% for font in layout.common-googlefonts %}
+    {%- if layout.common-googlefonts -%}
+    {%- for font in layout.common-googlefonts -%}
     <link rel="stylesheet" href="//fonts.googleapis.com/css?family={{ font }}"/>
-    {% endfor %}
-    {% endif %}
+    {%- endfor -%}
+    {%- endif -%}
 
-    {% if page.ext-css %}
-    {% for css in page.ext-css %}
+    {%- if page.ext-css -%}
+    {%- for css in page.ext-css -%}
     <link rel="stylesheet" href="{{ css }}"/>
-    {% endfor %}
-    {% endif %}
+    {%- endfor -%}
+    {%- endif -%}
 
-    {% if page.css %}
-    {% for css in page.css %}
+    {%- if page.css -%}
+    {%- for css in page.css -%}
     <link rel="stylesheet" href="{{ css | prepend: site.baseurl | replace: '//', '/' }}"/>
-    {% endfor %}
-    {% endif %}
+    {%- endfor -%}
+    {%- endif -%}
 
-    {% if page.googlefonts %}
-    {% for font in page.googlefonts %}
+    {%- if page.googlefonts -%}
+    {%- for font in page.googlefonts -%}
     <link rel="stylesheet" href="//fonts.googleapis.com/css?family={{ font }}"/>
-    {% endfor %}
-    {% endif %}
+    {%- endfor -%}
+    {%- endif -%}
 
     <!-- Facebook OpenGraph tags -->
     <meta property="og:title"
-          content="{% if page.url == '/' %}{{ page.title }}{% else %}{{ page.title }} | {{ site.title }}{% endif %}"/>
+          content="{%- if page.url == '/' -%}{{ page.title }}{%- else -%}{{ page.title }} | {{ site.title }}{%- endif -%}"/>
     <meta property="og:type" content="website"/>
-    {% if page.id %}
+    {%- if page.id -%}
     <meta property="og:url" content="{{ site.url }}{{ page.url }}"/>
-    {% else %}
+    {%- else -%}
     <meta property="og:url" content="{{ site.url }}{{ page.url | remove: '/index.html' | remove: '.html' }}"/>
-    {% endif %}
-    {% if page.no-share-img %}
-        {% capture image_url %}/images/issues/{{page.number}}.png{% endcapture %}
-        {% for static_file in site.static_files %}
-        {% if static_file.path == image_url%}
-        {% assign issueimage = true %}
-        {% endif %}
-        {% endfor %}
+    {%- endif -%}
+    {%- if page.no-share-img -%}
+        {%- capture image_url -%}/images/issues/{{page.number}}.png{%- endcapture -%}
+        {%- for static_file in site.static_files -%}
+        {%- if static_file.path == image_url%}
+        {%- assign issueimage = true -%}
+        {%- endif -%}
+        {%- endfor -%}
 
-        {% if issueimage %}
+        {%- if issueimage -%}
         <meta property="og:image" content="{{ site.url }}{{ image_url }}"/>
         <meta property="og:image:width" content="1200"/>
         <meta property="og:image:height" content="630"/>
-        {% else %}
+        {%- else -%}
         <meta property="og:image" content="{{ site.url }}/images/covid19italia-full.png"/>
-        {% endif %}
-    {% else %}
-        {% if page.share-img %}
+        {%- endif -%}
+    {%- else -%}
+        {%- if page.share-img -%}
         <meta property="og:image" content="{{ page.share-img }}"/>
-        {% elsif site.avatar %}
+        {%- elsif site.avatar -%}
         <meta property="og:image" content="{{ site.url }}/images/covid19italia-full.png"/>
         <meta property="og:image:width" content="310"/>
         <meta property="og:image:height" content="310"/>
-        {% else %}
+        {%- else -%}
         <meta property="og:image" content=""/>
-        {% endif %}
-    {% endif %}
+        {%- endif -%}
+    {%- endif -%}
 
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="@ItaliaCovid19">
     <meta name="twitter:creator" content="@ItaliaCovid19">
-    {% if page.url == '/' %}
+    {%- if page.url == '/' -%}
     <meta name="twitter:title" content="{{ page.title }}">
-    {% else %}
+    {%- else -%}
     <meta name="twitter:title" content="{{ page.title }} | {{ site.title }}">
-    {% endif %}
-    {% if page.url %}
+    {%- endif -%}
+    {%- if page.url -%}
     <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
-    {% endif %}
-    {% if page.description %}
+    {%- endif -%}
+    {%- if page.description -%}
     <meta name="twitter:description" content="{{ page.description }}">
-    {% else %}
+    {%- else -%}
     <meta name="twitter:description" content="{{ site.description }}">
-    {% endif %}
+    {%- endif -%}
     <meta name="twitter:image" content="https://www.covid19italia.help/images/covid19italia.png">
 
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">

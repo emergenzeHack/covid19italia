@@ -44,12 +44,12 @@ layout: page
    crossorigin=""></script>
 
 <style>
-#map{ height: 600px }
+#map{ height: 600px; width: 800px;}
 </style>
 
 <div class="row">
 
-<div class="row"><div class="col-md-12 col-sm-12 col-xs-12"> <div id="map" style="height: 600px;"></div> </div> </div>
+<div class="row"><div class="col-md-12 col-sm-12 col-xs-12 col-lg-12 col-xl-12 justify-content-center" id="map"> </div> </div>
 
 {% assign allcatfilteredissues = '' | split: '' %}
 {% for categoriatuple in categorieissue %}
@@ -58,29 +58,33 @@ layout: page
 {% assign filteredissues = geofilteredissues | where_exp: "member","member.issue.labels contains categoria[1]" %}
 {% if filteredissues.size > 0 %}
 {% assign allcatfilteredissues = allcatfilteredissues | concat: filteredissues | uniq %}
-<h2 id="{{categoria[0]|slugify}}">{{categoria[0]}} <small>({{filteredissues.size}})</small></h2>
-{% for member in filteredissues %}
-    <div class="col-md-12 col-sm-12 col-xs-12">
-        <div class="panel panel-default" id="issue{{member.number}}">
-            <div class="panel-heading issuepanel" id="issue{{member.number}}">
-                <a href="{{site.url}}/issues/{{member.number}}"><h4>{{member.title}}</h4></a>
-            </div>
-            <div class="panel-body issuepanel">
-                <div class="list-group-item">
-                    <dl class="row">
-                    {% for item in member.issue.data %}
-                    {% if item[1] != blank %}
-                        <dt class="col-sm-3">{{item[0] | replace: "_", " " | capitalize_all}}</dt>
-                        <dd class="col-sm-9">{{item[1] | newline_to_br | auto_link | truncatewords: 100}}</dd>
-                    {% endif %}
-                    {% endfor %}
-                    </dl>
+<div class="row">
+    <div class="col-xs-12">
+        <h2 id="{{categoria[0]|slugify}}">{{categoria[0]}} <span class="badge badge-secondary"><small>{{filteredissues.size}}</small></span></h2>
+        {% for member in filteredissues %}
+        <div class="col-md-12 col-sm-12 col-xs-12 mb-15">
+            <div class="card" id="issue{{member.number}}">
+                <div class="card-header issuepanel" id="issue{{member.number}}">
+                    <a href="{{site.url}}/issues/{{member.number}}"><h4>{{member.title}}</h4></a>
                 </div>
+                <div class="card-body issuepanel">
+                    <div class="list-group-item">
+                        <dl class="row">
+                            {% for item in member.issue.data %}
+                            {% if item[1] != blank %}
+                            <dt class="col-sm-3">{{item[0] | replace: "_", " " | capitalize_all}}</dt>
+                            <dd class="col-sm-9">{{item[1] | newline_to_br | auto_link | truncatewords: 100}}</dd>
+                            {% endif %}
+                            {% endfor %}
+                        </dl>
+                    </div>
+                </div>
+                {% include social-share-issue.html %}
             </div>
-            {% include social-share-issue.html %}
         </div>
+        {% endfor %}
     </div>
-{% endfor %}
+</div>
 {% endif %}
 {% endfor %}
 
@@ -166,8 +170,6 @@ map.addLayer(osm).setView([42.629381, 13.288372], 5);
 //var group = new L.featureGroup([marker1, marker2, marker3]);
 
 {% if page.fitBounds %}
-console.log(markers);
-console.log(markers.getBounds());
 map.fitBounds(markers.getBounds().pad(0.3));
 {% endif %}
 
@@ -196,8 +198,8 @@ function setInVisible(element) {
 
 function onMoveEnd(evt) {
     [inView,notInView]=getFeaturesInView();
-    //console.log(notInView);
-    //console.log(inView);
+    console.log(notInView);
+    console.log(inView);
     notInView.forEach(setInVisible);
     inView.forEach(setVisible);
 }
