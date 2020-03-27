@@ -29,14 +29,14 @@ layout: base
         {% include social-share.html %}
       {% endif %}
 
-      <ul class="pager blog-pager">
+      <ul class="list-group list-group-horizontal">
         {% if page.previous.url %}
-        <li class="previous">
+        <li class="list-group-item">
           <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Post precedente</a>
         </li>
         {% endif %}
         {% if page.next.url %}
-        <li class="next">
+        <li class="list-group-item">
           <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Post successivo &rarr;</a>
         </li>
         {% endif %}
