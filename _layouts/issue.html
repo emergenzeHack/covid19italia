@@ -4,11 +4,11 @@ title: page.issue.data[0]
 no-share-img: true
 ---
 
-{% capture image_url %}/images/issues/{{page.number}}.png{% endcapture %}
+{%- capture image_url -%}/images/issues/{{page.number}}.png{%- endcapture -%}
 
 
 
-{% include header.html type="issue" %}
+{%- include header.html type="issue" -%}
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
    integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
    crossorigin=""/>
@@ -26,36 +26,36 @@ no-share-img: true
 
 
 <div class="container" role="main">
-    {% capture image_url %}/images/issues/{{page.number}}.png{% endcapture %}
-    {% for static_file in site.static_files %}
-    {% if static_file.path == image_url%}
-    {% assign issueimage = true %}
-    {% endif %}
-    {% endfor %}
-{% if issueimage %}
+    {%- capture image_url -%}/images/issues/{{page.number}}.png{%- endcapture -%}
+    {%- for static_file in site.static_files -%}
+    {%- if static_file.path == image_url%}
+    {%- assign issueimage = true -%}
+    {%- endif -%}
+    {%- endfor -%}
+{%- if issueimage -%}
     <div class="row">
 <img class="col-md-6 col-sm-9 col-xs-9" src="/images/issues/{{page.number}}.png" />
     </div>
-{% endif %}
+{%- endif -%}
     <div class="row">
-        <div class="col-md-12">{% if page.state == "closed" %}<strike>{% endif %}<h2>{{page.issue.title}}</h2>{% if page.state == "closed" %}</strike>{% endif %} </div>
+        <div class="col-md-12">{%- if page.state == "closed" -%}<strike>{%- endif -%}<h2>{{page.issue.title}}</h2>{%- if page.state == "closed" -%}</strike>{%- endif -%} </div>
     </div>
     
     <dl class="row">
-        {% for item in page.issue.data %}
-        {% if item[1] != blank %}
+        {%- for item in page.issue.data -%}
+        {%- if item[1] != blank -%}
         <dt class="col-sm-3">{{item[0] | replace: "_", " " | capitalize_all}}</dt>
         <dd class="col-sm-9">
-        {% if item[0] == "Telefono" %}
+        {%- if item[0] == "Telefono" -%}
         <a href="tel:{{item[1] | remove: " "}}" target="_blank">{{item[1]}}</a>
-        {% else %}
+        {%- else -%}
         {{item[1] | strip | auto_link | markdownify | newline_to_br | remove: '<p>' | remove: '</p>' }}
-        {% endif %}
+        {%- endif -%}
         </dd>
-        {% endif %}
-        {% endfor %}
+        {%- endif -%}
+        {%- endfor -%}
     </dl>
-    {% if page.issue.lat != blank %}
+    {%- if page.issue.lat != blank -%}
     <div class="row">
         <div class="col-md-2">latitudine:</div>
         <div class="col-md-10"> {{page.issue.lat}} </div>
@@ -70,7 +70,7 @@ no-share-img: true
             <div id="map" style="height: 150px;"></div>
         </div>
     </div>
-    {% endif %}
+    {%- endif -%}
     <div class="row">
         <div class="col-md-2">Comune:</div>
         <div class="col-md-10"> {{page.issue.comune}} </div>
@@ -96,9 +96,9 @@ no-share-img: true
         <div class="col-md-10"> {{page.issue.updated_at | italianDate}} </div>
     </div>
     <br>
-    {% include social-share.html %}
+    {%- include social-share.html -%}
     <div class="disqus-comments">
-        {% include disqus.html %}
+        {%- include disqus.html -%}
     </div>
 </div>
 <script>

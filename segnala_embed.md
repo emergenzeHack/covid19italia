@@ -5,7 +5,7 @@ title: Segnala
 permalink: /segnala-base/
 ---
 
-<div class="col-md-offset-3 col-md-6">
+<div class="offset-md-3 col-md-6">
   <a class="btn btn-success btn-lg btn-block btn-form" href="/segnala/chiedi-aiuto">Chiedi aiuto</a>
   <a class="btn btn-success btn-lg btn-block btn-form" href="/segnala/dona-beni-servizi">Dona beni o servizi</a>
 

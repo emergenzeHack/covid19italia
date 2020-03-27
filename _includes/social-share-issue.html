@@ -8,7 +8,7 @@
 
 {% if any-share-links %}
 {% capture share-url %}{{ site.url }}/issues/{{ member.number }}&title={{member.title|truncate:70|cgi_escape}}%20%7C%20{{ site.title | cgi_escape}}{% endcapture %}
-<div class="panel-footer">
+<div class="card-footer">
   <ul class="share-buttons">
     <li>Condividi:</li>
     <!--- Share link -->

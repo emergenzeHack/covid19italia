@@ -1,10 +1,10 @@
 <footer itemscope="itemscope" itemtype="http://schema.org/WPFooter">
   <div class="container beautiful-jekyll-footer">
     <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
         <ul class="list-inline text-center footer-links">
           {% if site.author.facebook and site.footer-links-active.facebook %}
-          <li>
+          <li class="list-inline-item">
             <a itemprop="sameAs" href="https://www.facebook.com/{{ site.author.facebook }}" title="Profilo del social network Facebook legato al progetto">
               <span class="fa-stack fa-lg" aria-label="Logo riferito al sito facebook, il carattere f dentro un quadrato blu." role="img">
                 <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
@@ -14,7 +14,7 @@
           </li>
           {% endif %}
           {% if site.author.github and site.footer-links-active.github %}
-          <li>
+          <li class="list-inline-item">
             <a itemprop="sameAs" href="https://github.com/{{ site.author.github }}" title="Profilo Github legato al progetto">
               <span class="fa-stack fa-lg"  aria-label="Logo riferito al sito github, raffigura un gatto con i tentacoli." role="img">
                 <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
@@ -24,7 +24,7 @@
           </li>
           {% endif %}
 		  {% if site.author.twitter and site.footer-links-active.twitter %}
-          <li>
+          <li class="list-inline-item">
             <a itemprop="sameAs" href="https://twitter.com/{{ site.author.twitter }}" title="Account Twitter del progetto.">
               <span class="fa-stack fa-lg" aria-label="Logo riferito al sito twitter, un uccello di colore celeste." role="img">
                 <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
@@ -34,7 +34,7 @@
           </li>
           {% endif %}
 		  {% if site.author.email and site.footer-links-active.email %}
-          <li>
+          <li class="list-inline-item">
             <a itemprop="sameAs" href="mailto:{{ site.author.email }}" title="Email ufficiale del progetto.">
               <span class="fa-stack fa-lg" aria-label="Logo raffigurante una busta, email." role="img">
                 <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
@@ -44,7 +44,7 @@
           </li>
           {% endif %}
 		  {% if site.author.linkedin and site.footer-links-active.linkedin %}
-          <li>
+          <li class="list-inline-item">
             <a itemprop="sameAs" href="https://linkedin.com/in/{{ site.author.linkedin }}" title="Account LinkedIn del progetto">
               <span class="fa-stack fa-lg" aria-label="Logo riferito a LinkedIn, raffigura un quadrato blu con dentro i caratteri i e n." role="img">
                 <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
@@ -54,7 +54,7 @@
           </li>
           {% endif %}
 		  {% if site.author.xing and site.footer-links-active.xing %}
-          <li>
+          <li class="list-inline-item">
             <a itemprop="sameAs" href="https://www.xing.com/profile/{{ site.author.xing }}" title="Xing">
               <span class="fa-stack fa-lg" aria-label="Logo riferito a Xing." role="img">
                 <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
@@ -64,7 +64,7 @@
           </li>
           {% endif %}
 		  {% if site.author.stackoverflow and site.footer-links-active.stackoverflow %}
-          <li>
+          <li class="list-inline-item">
             <a itemprop="sameAs" href="https://stackoverflow.com/users/{{ site.author.stackoverflow }}" title="StackOverflow">
               <span class="fa-stack fa-lg" aria-label="Logo riferito a stackoverflow, raffigura un cestino pieno di fogli." role="img">
                 <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
@@ -74,7 +74,7 @@
           </li>
           {% endif %}
       {% if site.author.instagram and site.footer-links-active.instagram %}
-          <li>
+          <li class="list-inline-item">
             <a itemprop="sameAs" href="https://www.instagram.com/{{ site.author.instagram }}" title="Instagram un social network pieno di fotografie.">
               <span class="fa-stack fa-lg" aria-label="Logo riferito a instagram, raffigura una macchina fotografica stilizzata." role="img">
                 <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
@@ -84,7 +84,7 @@
           </li>
           {% endif %}
       {% if site.author.youtube and site.footer-links-active.youtube %}
-          <li>
+          <li class="list-inline-item">
             <a itemprop="sameAs" href="https://www.youtube.com/{{ site.author.youtube }}" title="YouTube">
               <span class="fa-stack fa-lg" aria-label="Logo riferito a youtube, raffigura un quadrato rosso con il tasto play bianco." role="img">
                 <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
@@ -94,7 +94,7 @@
           </li>
           {% endif %}
       {% if site.author.telegram and site.footer-links-active.telegram %}
-          <li>
+          <li class="list-inline-item">
             <a itemprop="sameAs" href="{{ site.author.telegram }}" title="telegram">
               <span class="fa-stack fa-lg" aria-label="Logo riferito a telegram, raffigura un aereoplano di carta stilizzato." role="img">
                 <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
@@ -104,7 +104,7 @@
           </li>
           {% endif %}
           {% if site.author.medium and site.footer-links-active.medium %}
-          <li>
+          <li class="list-inline-item">
             <a itemprop="sameAs" href="{{ site.author.medium }}" title="medium">
               <span class="fa-stack fa-lg" aria-label="Logo riferito al sito medium, raffigura una M maiuscola bianca su sfondo nero." role="img">
                 <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
@@ -114,7 +114,7 @@
           </li>
           {% endif %}
 		  {% if site.author.archiveorg and site.footer-links-active.archiveorg %}
-          <li>
+          <li class="list-inline-item">
             <a itemprop="sameAs" href="{{ site.author.archiveorg }}" title="archive.org">
               <span class="fa-stack fa-lg" aria-label="Logo riferito al sito archive.org, raffigura un tempio bianco su sfondo nero." role="img">
                 <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
@@ -124,7 +124,7 @@
           </li>
           {% endif %}
 		  {% if site.footer-links-active.rss %}
-		  <li>
+		  <li class="list-inline-item">
 			<a href="{{ '/feed.xml' | prepend: site.baseurl }}" title="RSS">
 			  <span class="fa-stack fa-lg"  aria-label="Logo riferito a RSS, raffigura un cercio e due cerchi semi concentrici paralleli come a rappresentare un antenna che trasmette messaggi." role="img">
 				<i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>

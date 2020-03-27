@@ -6,7 +6,7 @@ subtitle: Ask for help or upload initiatives in Covid19Italia.help
 permalink: /en/recommend/
 ---
 
-<div class="col-md-offset-3 col-md-6">
+<div class="offset-md-3 col-md-6">
   <a class="btn btn-success btn-lg btn-block btn-form" href="/segnala/en/chiedi-aiuto">Ask for help</a>
   <a class="btn btn-success btn-lg btn-block btn-form" href="/segnala/dona-beni-servizi">Donate goods or services</a>
 
