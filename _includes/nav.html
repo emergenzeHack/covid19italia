@@ -1,66 +1,48 @@
-<nav class="navbar navbar-default navbar-fixed-top navbar-custom">
-	<div class="container-fluid">
-		<div class="navbar-header" itemscope itemtype="http://schema.org/Organization">
-			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
-				<span class="sr-only">Toggle navigation</span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-			</button>
-			{% if site.avatar and (layout.show-avatar or page.show-avatar) %}
-			<div class="avatar-container">
-				<div class="avatar-img-border">
-					<a itemprop="url" href="{{ site.url }}">
-						<img itemprop="logo" class="avatar-img"
-						     src="{{ site.avatar | prepend: site.baseurl | replace: '//', '/' }}"
-						     alt="{{ site.logo-description }}"/>
-					</a>
-				</div>
-			</div>
-			{% endif %}
-			<!-- brand -->
-			<a class="navbar-brand hidden-xs hidden-sm hidden-md" href="{{ site.url }}"><span itemprop="name">{{ site.title }}</span></a>
-			<!-- brand mobile -->
-			<a class="navbar-brand navbar-brand-mobile hidden-lg" href="{{ site.url }}"><span itemprop="name">{{ site.title }}</span></a>
-		</div>
-		<div class="collapse navbar-collapse" id="main-navbar" itemscope
-		     itemtype="http://schema.org/SiteNavigationElement">
-			<ul class="nav navbar-nav navbar-right">
-
-				{% for item in site.data.navigation.languages %}
-				{% if item.language == page.lang %}
-				{% for link in item.navbar-links %}
-				{% if link[1].first %}
-				<li itemprop="name" class="navlinks-container">
-					<a class="navlinks-parent" href="javascript:void(0)">{{ link[0] }}</a>
-					<div class="navlinks-children">
-						{% for childlink in link[1] %}
-						{% for linkparts in childlink %}
-						{% include navbarlink.html link=linkparts %}
-						{% endfor %}
-						{% endfor %}
-					</div>
-				</li>
-				{% else %}
-				<li>
-					{% include navbarlink.html link=link %}
-				</li>
-				{% endif %}
-				{% endfor %}
-				{% endif %}
-				{% endfor %}
-				{% if page.lang == "it" || page.lang == "pt" %}
-				<li>
-					<a href="/en" itemprop="url">ENGLISH <span class="flag-icon flag-icon-gb"
-					                                           style="margin:2px;"></span></a>
-				</li>
-				{% else %}
-				<li>
-					<a href="/" itemprop="url">ITALIANO <span class="flag-icon flag-icon-it" style="margin:2px;"></span></a>
-				</li>
-				{% endif %}
-			</ul>
-		</div>
-
-	</div>
+<nav class="navbar navbar-default navbar-dark navbar-fixed-top navbar-expand-lg" style="background-color: #294481;">
+    {% if site.avatar and (layout.show-avatar or page.show-avatar) %}
+    <a class="navbar-brand" href="#">
+        <img itemprop="logo" width="50" height="50" class="d-inline-block align-center rounded-circle" style="background-color: white;"
+                                                                                                         src="{{ site.avatar | prepend: site.baseurl | replace: '//', '/' }}"
+                                                                                                         alt="{{ site.logo-description }}"/>
+        {{site.title}}
+    </a>
+    {% endif %}
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="nav navbar-nav ml-auto">
+            {% for item in site.data.navigation.languages %}
+            {% if item.language == page.lang %}
+            {% for link in item.navbar-links %}
+            {% if link[1].first %}
+            <li itemprop="name" class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink{{ link[0] }}" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ link[0] }}</a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink{{ link[0]}}">
+                    {% for childlink in link[1] %}
+                    {% for linkparts in childlink %}
+                    {% include navbarlink.html link=linkparts dropdown=true %}
+                    {% endfor %}
+                    {% endfor %}
+                </div>
+            </li>
+            {% else %}
+            <li>
+                {% include navbarlink.html link=link dropdown=false %}
+            </li>
+            {% endif %}
+            {% endfor %}
+            {% endif %}
+            {% endfor %}
+            {% if page.lang == "it" %}
+            <li>
+                <a class="nav-link" href="/en" itemprop="url">English <span class="flag-icon flag-icon-gb"
+                                                           style="margin:2px;"></span></a>
+            </li>
+            {% else %}
+            <li>
+                <a class="nav-link" href="/" itemprop="url">Italiano <span class="flag-icon flag-icon-it" style="margin:2px;"></span></a>
+            </li>
+            {% endif %}
+        </ul>
 </nav>
