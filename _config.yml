@@ -147,7 +147,7 @@ timezone: "Europe/Rome"
 markdown: kramdown
 highlighter: rouge
 lang: it
-languages: ["it", "en"]
+languages: ["it", "en", "pt"]
 permalink: /:categories/:year-:month-:day-:title/
 paginate: 5
 #selec tile for maps
