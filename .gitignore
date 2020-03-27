@@ -3,6 +3,8 @@ _site/
 .jekyll-cache/
 .jekyll-metadata
 
+*.swp
+
 # Splitted repo
 _data/
 
