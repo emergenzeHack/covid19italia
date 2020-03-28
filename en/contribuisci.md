@@ -35,28 +35,31 @@ When you are ready with this please open an issue [here](https://github.com/emer
 
 Here the basic step to integrate you in our platform (we can support you in this procedure), you need:
 
-1. At least a [Telegram](https://web.telegram.org/#/login) account to contact us. We will create a Telegram group for coordination.
+### On Telegram
+- At least a [Telegram](https://web.telegram.org/#/login) account to contact us. We will create a Telegram group for coordination.
 
-2. At least a [Github](www.github.com) Account to moderate issues and make modifications to the web platform. We will create a Github editor group for reports management.
+### On Github
+- At least a [Github](www.github.com) Account to moderate issues and make modifications to the web platform. We will create a Github editor group for reports management.
 
-3. At least a [Kobo](https://kobo.humanitarianresponse.info/) Toolbox account in order to manage your webforms and translate them. We will share basic form that you have to translate in your language in this way:
-- Go into your Kobo Profile and search the web form shared by us.
-- Under "Current version" of Web Form click on the world icon "Manage Translations"
-- Add a "your" language on the Kobo Forms
-- Near the desired language, click again the world icon "Update Translations"
-- Set "your" language as default
-- Re-deploy the form
-
-4. A Github Repo to store the reports [like this one]
+- A Github Repo to store the reports [like this one]
 (https://github.com/emergenzeHack/covid19italia_segnalazioni/issues) is necessary in order to organize reporting with labels and in order to make moderation with your moderation team.
 
-5. A Github Repo to store platform data [like this one](https://github.com/emergenzeHack/covid19italia_data) to store moderated reports and platform data.
+- A Github Repo to store platform data [like this one](https://github.com/emergenzeHack/covid19italia_data) to store moderated reports and platform data.
 
-6. A branch of our master platform branch on Github.
+- A branch of our master platform branch on Github. We will provide a branch. For the domain, we can provide you a web address and/or you can indicate your specific domain, we try to manage a redirect on the right web page.
 
-7. Be sure that you have a list of LABELS to organize your reports in categories (example: request of help, news, fake news etc etc...).
 
-8. For the domain, we can provide you a web address or you can indicate your specific domain, we try to manage a redirect on the right web page.
+- Be sure that you have a list of LABELS to organize your reports in categories (example: request of help, news, fake news etc etc...).
+
+### On Kobo
+- At least a [Kobo](https://kobo.humanitarianresponse.info/) Toolbox account in order to manage your webforms and translate them. We will share basic form that you have to translate in your language in this way:
+  - Go into your Kobo Profile and search the web form shared by us.
+  - Under "Current version" of Web Form click on the world icon "Manage Translations"
+  - Add a "your" language on the Kobo Forms
+  - Near the desired language, click again the world icon "Update Translations"
+  - Set "your" language as default
+  - Re-deploy the form
+
 
 **From the moment when you will integrate your Moderation Team will be able to see in the Github Reports repo your report, will accept the reports and then the reports will be publish on the website.**
 
