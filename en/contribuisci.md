@@ -28,9 +28,9 @@ When you are ready with this please open an issue [here](https://github.com/emer
 
 Here the basic step to integrate you in our platform (we can support you in this procedure), you need:
 
-1. At least a [Telegram](https://web.telegram.org/#/login) account to contact us. We create a Telegram group for coordination.
+1. At least a [Telegram](https://web.telegram.org/#/login) account to contact us. We will create a Telegram group for coordination.
 
-2. At least a [Github](www.github.com) Account to moderate issues and make modifications to the web platform. We create a Github editor group for reports management.
+2. At least a [Github](www.github.com) Account to moderate issues and make modifications to the web platform. We will create a Github editor group for reports management.
 
 3. At least a [Kobo](https://kobo.humanitarianresponse.info/) Toolbox account in order to manage your webforms and translate them. We will share basic form that you have to translate in your language in this way:
 - Go into your Kobo Profile and search the web form shared by us.
