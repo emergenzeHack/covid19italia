@@ -11,7 +11,7 @@
 url: "https://covid19italia.help"
 
 # Configuration of DATA repo
-dataurl: "https://github.com/emergenzeHack/covid19italia_data.git"
+dataurl: "https://github.com/emergenzeHack/covid19_pt_data.git"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
