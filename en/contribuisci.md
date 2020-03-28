@@ -28,13 +28,20 @@ When you are ready with this please open an issue [here](https://github.com/emer
 
 Here the basic step to integrate you in our platform (we can support you in this procedure), you need:
 
-1. At least a [Telegram](https://web.telegram.org/#/login) account to contact us.
+1. At least a [Telegram](https://web.telegram.org/#/login) account to contact us. We create a Telegram group for coordination.
 
-2. At least a [Github](www.github.com) Account to moderate issues and make modifications to the web platform.
+2. At least a [Github](www.github.com) Account to moderate issues and make modifications to the web platform. We create a Github editor group for reports management.
 
-3. At least a [Kobo](https://kobo.humanitarianresponse.info/) Toolbox account in order to manage your webforms
+3. At least a [Kobo](https://kobo.humanitarianresponse.info/) Toolbox account in order to manage your webforms and translate them. We will share basic form that you have to translate in your language in this way:
+- Go into your Kobo Profile and search the web form shared by us.
+- Under "Current version" of Web For click on the world icon "Manage Translations"
+- Add a "your" language on the Kobo Forms
+- Near the desired language, click again the world icon "Update Translations"
+- Set "your" language as default
+- Re-deploy the form
 
-4. A Github Repo to store the reports [like this one](https://github.com/emergenzeHack/covid19italia_segnalazioni/issues) is necessary in order to organize reporting with labels and in order to make moderation with your moderation team.
+4. A Github Repo to store the reports [like this one
+(https://github.com/emergenzeHack/covid19italia_segnalazioni/issues) is necessary in order to organize reporting with labels and in order to make moderation with your moderation team.
 
 5. A Github Repo to store platform data.
 
