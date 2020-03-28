@@ -6,15 +6,14 @@ subtitle: Qui puoi vedere i risultati di una ricerca fatta nelle nostre segnalaz
 
 <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 col-sm-12">
-        <form class="form-inline" role="form" action="/searchissues" method="get">
-            <div class="form-group">
-                <label for="search-box">Cosa cerchi?</label>
-                <input type="text" class="form-control" id="search-box" name="query" placeholder="">
-            </div>
-            <div class="form-group">
-                <input type="submit" class="btn btn-primary" value="Cerca">
-            </div>
-        </form>
+		<form class="global-search" role="form" action="/searchissues" method="get">
+			<div class="input-group">
+				<input type="text" class="form-control" id="search-box" name="query" placeholder="Cosa cerchi?">
+				<div class="input-group-btn">
+					<button class="btn btn-primary" type="submit"><span><i class="glyphicon glyphicon-search"></i> Cerca</span></button>
+				</div>
+			</div>
+		</form>
     </div>
 </div>
 
