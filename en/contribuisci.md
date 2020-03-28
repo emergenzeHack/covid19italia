@@ -48,10 +48,9 @@ Here the basic step to integrate you in our platform (we can support you in this
 
 - A branch of our master platform branch on Github. We will provide a branch. For the domain, we can provide you a web address and/or you can indicate your specific domain, we try to manage a redirect on the right web page.
 
-
 - Be sure that you have a list of LABELS to organize your reports in categories (example: request of help, news, fake news etc etc...).
 
-### On Kobo
+### On Kobo Toolbox
 - At least a [Kobo](https://kobo.humanitarianresponse.info/) Toolbox account in order to manage your webforms and translate them. We will share basic form that you have to translate in your language in this way:
   - Go into your Kobo Profile and search the web form shared by us.
   - Under "Current version" of Web Form click on the world icon "Manage Translations"
@@ -59,7 +58,6 @@ Here the basic step to integrate you in our platform (we can support you in this
   - Near the desired language, click again the world icon "Update Translations"
   - Set "your" language as default
   - Re-deploy the form
-
 
 **From the moment when you will integrate your Moderation Team will be able to see in the Github Reports repo your report, will accept the reports and then the reports will be publish on the website.**
 
