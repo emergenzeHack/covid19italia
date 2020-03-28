@@ -34,7 +34,7 @@ Here the basic step to integrate you in our platform (we can support you in this
 
 3. At least a [Kobo](https://kobo.humanitarianresponse.info/) Toolbox account in order to manage your webforms and translate them. We will share basic form that you have to translate in your language in this way:
 - Go into your Kobo Profile and search the web form shared by us.
-- Under "Current version" of Web For click on the world icon "Manage Translations"
+- Under "Current version" of Web Form click on the world icon "Manage Translations"
 - Add a "your" language on the Kobo Forms
 - Near the desired language, click again the world icon "Update Translations"
 - Set "your" language as default
