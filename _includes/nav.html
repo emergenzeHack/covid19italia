@@ -2,7 +2,7 @@
     {% if site.avatar and (layout.show-avatar or page.show-avatar) %}
     <a class="navbar-brand" href="#">
         <img itemprop="logo" width="50" height="50" class="d-inline-block align-center rounded-circle" style="background-color: white;"
-                                                                                                       src="{{ site.avatar | prepend: site.baseurl | replace: '//', '/' }}"
+                                                                                                       src="{{ site.avatar }}"
                                                                                                        alt="{{ site.logo-description }}"/>
         {{site.title}}
     </a>
