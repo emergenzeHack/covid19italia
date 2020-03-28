@@ -240,111 +240,111 @@ page_gen:
       template: issue
       name: number
       dir: issues
-    - index_files: true
-      data: regioni
-      template: issuelist_regione
-      dir: issues/regione/
-      name: nome_regione
-    - index_files: true
-      data: province.Abruzzo
-      template: issuelist_provincia
-      dir: issues/regione/abruzzo
-      name: nome_provincia
-    - index_files: true
-      data: province.Basilicata
-      template: issuelist_provincia
-      dir: issues/regione/basilicata
-      name: nome_provincia
-    - index_files: true
-      data: province.Calabria
-      template: issuelist_provincia
-      dir: issues/regione/calabria
-      name: nome_provincia
-    - index_files: true
-      data: province.Campania
-      template: issuelist_provincia
-      dir: issues/regione/campania
-      name: nome_provincia
-    - index_files: true
-      data: province.Emilia-Romagna
-      template: issuelist_provincia
-      dir: issues/regione/emilia-romagna
-      name: nome_provincia
-    - index_files: true
-      data: province.Friuli Venezia Giulia
-      template: issuelist_provincia
-      dir: issues/regione/friuli-venezia-giulia
-      name: nome_provincia
-    - index_files: true
-      data: province.Lazio
-      template: issuelist_provincia
-      dir: issues/regione/lazio
-      name: nome_provincia
-    - index_files: true
-      data: province.Liguria
-      template: issuelist_provincia
-      dir: issues/regione/liguria
-      name: nome_provincia
-    - index_files: true
-      data: province.Lombardia
-      template: issuelist_provincia
-      dir: issues/regione/lombardia
-      name: nome_provincia
-    - index_files: true
-      data: province.Marche
-      template: issuelist_provincia
-      dir: issues/regione/marche
-      name: nome_provincia
-    - index_files: true
-      data: province.Molise
-      template: issuelist_provincia
-      dir: issues/regione/molise
-      name: nome_provincia
-    - index_files: true
-      data: province.Piemonte
-      template: issuelist_provincia
-      dir: issues/regione/piemonte
-      name: nome_provincia
-    - index_files: true
-      data: province.Puglia
-      template: issuelist_provincia
-      dir: issues/regione/puglia
-      name: nome_provincia
-    - index_files: true
-      data: province.Sardegna
-      template: issuelist_provincia
-      dir: issues/regione/sardegna
-      name: nome_provincia
-    - index_files: true
-      data: province.Sicilia
-      template: issuelist_provincia
-      dir: issues/regione/sicilia
-      name: nome_provincia
-    - index_files: true
-      data: province.Toscana
-      template: issuelist_provincia
-      dir: issues/regione/toscana
-      name: nome_provincia
-    - index_files: true
-      data: province.Trentino-Alto Adige
-      template: issuelist_provincia
-      dir: issues/regione/trentino-alto-adige
-      name: nome_provincia
-    - index_files: true
-      data: province.Umbria
-      template: issuelist_provincia
-      dir: issues/regione/umbria
-      name: nome_provincia
-    - index_files: true
-      data: province.Valle d'Aosta
-      template: issuelist_provincia
-      dir: issues/regione/valle-daosta
-      name: nome_provincia
-    - index_files: true
-      data: province.Veneto
-      template: issuelist_provincia
-      dir: issues/regione/veneto
-      name: nome_provincia
+      #    - index_files: true
+      #      data: regioni
+      #      template: issuelist_regione
+      #      dir: issues/regione/
+      #      name: nome_regione
+      #    - index_files: true
+      #      data: province.Abruzzo
+      #      template: issuelist_provincia
+      #      dir: issues/regione/abruzzo
+      #      name: nome_provincia
+      #    - index_files: true
+      #      data: province.Basilicata
+      #      template: issuelist_provincia
+      #      dir: issues/regione/basilicata
+      #      name: nome_provincia
+      #    - index_files: true
+      #      data: province.Calabria
+      #      template: issuelist_provincia
+      #      dir: issues/regione/calabria
+      #      name: nome_provincia
+      #    - index_files: true
+      #      data: province.Campania
+      #      template: issuelist_provincia
+      #      dir: issues/regione/campania
+      #      name: nome_provincia
+      #    - index_files: true
+      #      data: province.Emilia-Romagna
+      #      template: issuelist_provincia
+      #      dir: issues/regione/emilia-romagna
+      #      name: nome_provincia
+      #    - index_files: true
+      #      data: province.Friuli Venezia Giulia
+      #      template: issuelist_provincia
+      #      dir: issues/regione/friuli-venezia-giulia
+      #      name: nome_provincia
+      #    - index_files: true
+      #      data: province.Lazio
+      #      template: issuelist_provincia
+      #      dir: issues/regione/lazio
+      #      name: nome_provincia
+      #    - index_files: true
+      #      data: province.Liguria
+      #      template: issuelist_provincia
+      #      dir: issues/regione/liguria
+      #      name: nome_provincia
+      #    - index_files: true
+      #      data: province.Lombardia
+      #      template: issuelist_provincia
+      #      dir: issues/regione/lombardia
+      #      name: nome_provincia
+      #    - index_files: true
+      #      data: province.Marche
+      #      template: issuelist_provincia
+      #      dir: issues/regione/marche
+      #      name: nome_provincia
+      #    - index_files: true
+      #      data: province.Molise
+      #      template: issuelist_provincia
+      #      dir: issues/regione/molise
+      #      name: nome_provincia
+      #    - index_files: true
+      #      data: province.Piemonte
+      #      template: issuelist_provincia
+      #      dir: issues/regione/piemonte
+      #      name: nome_provincia
+      #    - index_files: true
+      #      data: province.Puglia
+      #      template: issuelist_provincia
+      #      dir: issues/regione/puglia
+      #      name: nome_provincia
+      #    - index_files: true
+      #      data: province.Sardegna
+      #      template: issuelist_provincia
+      #      dir: issues/regione/sardegna
+      #      name: nome_provincia
+      #    - index_files: true
+      #      data: province.Sicilia
+      #      template: issuelist_provincia
+      #      dir: issues/regione/sicilia
+      #      name: nome_provincia
+      #    - index_files: true
+      #      data: province.Toscana
+      #      template: issuelist_provincia
+      #      dir: issues/regione/toscana
+      #      name: nome_provincia
+      #    - index_files: true
+      #      data: province.Trentino-Alto Adige
+      #      template: issuelist_provincia
+      #      dir: issues/regione/trentino-alto-adige
+      #      name: nome_provincia
+      #    - index_files: true
+      #      data: province.Umbria
+      #      template: issuelist_provincia
+      #      dir: issues/regione/umbria
+      #      name: nome_provincia
+      #    - index_files: true
+      #      data: province.Valle d'Aosta
+      #      template: issuelist_provincia
+      #      dir: issues/regione/valle-daosta
+      #      name: nome_provincia
+      #    - index_files: true
+      #      data: province.Veneto
+      #      template: issuelist_provincia
+      #      dir: issues/regione/veneto
+      #      name: nome_provincia
 
 
 jekyll_tidy:
