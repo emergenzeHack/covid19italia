@@ -55,11 +55,11 @@ Here the basic step to integrate you in our platform (we can support you in this
   - Go into your Kobo Profile and search the web form shared by us.
   - Under "Current version" of Web Form click on the world icon "Manage Translations"
   - Add a "your" language on the Kobo Forms
-  - Near the desired language, click again the world icon "Update Translations"
+  - Near the desired language, click again the world icon "Update Translations" and add translation
   - Set "your" language as default
   - Re-deploy the form
 
-**From the moment when you will integrate your Moderation Team will be able to see in the Github Reports repo your report, will accept the reports and then the reports will be publish on the website.**
+**From the moment when you will integrate your Moderation Team will be able to see in the Github Reports repo your reports, will accept the reports and then the reports will be publish on the website.**
 
 Here a little diagram to explain how the project is organized in multi-country configuration. We wait you! Thanks!
 
