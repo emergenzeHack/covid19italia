@@ -10,6 +10,9 @@
 #baseurl: "https://github.com/emergenzeha/COVID19"
 url: "https://covid19italia.help"
 
+# Configuration of DATA repo
+dataurl: "https://github.com/emergenzeHack/covid19italia_data.git"
+
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
