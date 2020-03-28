@@ -18,7 +18,12 @@ common-js:
 ---
 
 <!DOCTYPE html>
-<html lang="it">
+
+{% if page.lang == blank %}
+
+  {% assign page.lang = site.lang  %}
+
+{% endif %}
   <!-- Beautiful Jekyll | MIT license | Copyright Dean Attali 2016 -->
   {%- include head.html -%}
 
