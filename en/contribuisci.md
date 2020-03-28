@@ -17,7 +17,7 @@ Here a simple diagram of how our project works.
 ![](https://raw.githubusercontent.com/emergenzeHack/covid19italia/master/images/process1.jpg)
 
 
-## Are you are interested in development of this project for your country?
+## Are you are interested in development of this project?
 
 You can contribute in different ways:
 
