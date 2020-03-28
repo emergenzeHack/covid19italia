@@ -47,10 +47,10 @@ Here the basic step to integrate you in our platform (we can support you in this
 - Set "your" language as default
 - Re-deploy the form
 
-4. A Github Repo to store the reports [like this one
+4. A Github Repo to store the reports [like this one]
 (https://github.com/emergenzeHack/covid19italia_segnalazioni/issues) is necessary in order to organize reporting with labels and in order to make moderation with your moderation team.
 
-5. A Github Repo to store platform data.
+5. A Github Repo to store platform data [like this one](https://github.com/emergenzeHack/covid19italia_data) to store moderated reports and platform data.
 
 6. A branch of our master platform branch on Github.
 
