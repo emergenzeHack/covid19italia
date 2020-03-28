@@ -8,7 +8,7 @@
 #baseurl: "http://covid19italia.info"
 
 #baseurl: "https://github.com/emergenzeha/COVID19"
-baseurl: "https://covid19italia.help"
+url: "https://covid19italia.help"
 
 # Configuration of DATA repo
 dataurl: "https://github.com/emergenzeHack/covid19italia_data.git"
