@@ -62,4 +62,4 @@ Here the basic step to integrate you in our platform (we can support you in this
 
 Here a little diagram to explain how the project is organized in multi-country configuration. We wait you! Thanks!
 
-![](https://raw.githubusercontent.com/emergenzeHack/covid19italia/master/images/process_diagram.png)
+![](https://raw.githubusercontent.com/emergenzeHack/covid19italia/master/images/diagramma%20(1).png)
