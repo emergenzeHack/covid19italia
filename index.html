@@ -80,7 +80,7 @@ subtitle: Um projeto para compartilhar informações e tomar medidas para apoiar
     {% endif %}
   {% endcapture %}
   {% assign logo_alt = logo_alt | strip %}
-  <a href="{{ site.baseurl }}/{{ category.link }}" class="col-lg-2 col-md-2 col-sm-3 col-12" title="{{ logo_alt }}">
+  <a href="{{ site.baseurl }}/{{ category.link_pt }}" class="col-lg-2 col-md-2 col-sm-3 col-12" title="{{ logo_alt }}">
 	  {% if category.logo and category.logo != empty %}
 	  <div class="card border-0 text-center">
 		  <img class="card-img-top mx-auto w-75 img-fluid" src="{{ site.baseurl }}{{ category.logo }}" alt="{{ category.logo-alt }}"><br>
