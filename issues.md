@@ -1,7 +1,7 @@
 ---
 lang: pt
 layout: issuelist
-title: "Emergenza coronavirus: tutte le segnalazioni"
+title: Emergência do coronavírus: peça ajuda, partilhe iniciativas, notícias, dados
 subtitle: Scopri tutte le segnalazioni fatte sulla piattaforma Covid19Italia.Help
 permalink: /iniciativas/
 categorieMapAll: true
