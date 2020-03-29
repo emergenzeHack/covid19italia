@@ -2,10 +2,12 @@
 layout: page
 title: O que é Covid19Portugal Help? Coronavirus Resposta de Emergência
 subtitle: Saiba como funciona a plataforma, como colaborar e como comunicar um caso
-permalink: /sobre/
+
+permalink: sobre
+
 lang: pt
 ---
-  
+
 ## O Projeto
 
 **covid19italia.help** é um projeto sem fins lucrativos, organizado e dirigido inteiramente por voluntárias e voluntários. Foi criado para compartilhar informações úteis e verificadas sobre o evento Coronavírus espalhado em Itália em 2020. Agora o projeto está a espalhar-se por muitos outros países, incluindo Portugal com Covid19Portugal Help.

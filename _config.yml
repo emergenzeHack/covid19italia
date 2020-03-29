@@ -8,7 +8,7 @@
 #baseurl: "http://covid19italia.info"
 
 #baseurl: "https://github.com/emergenzeha/COVID19"
-url: "https://pd.covid19people.help"
+url: "https://pt.covid19people.help"
 
 # Configuration of DATA repo
 dataurl: "https://github.com/emergenzeHack/covid19pt_data.git"
@@ -22,7 +22,7 @@ title: Covid19People.help
 logo-description: Il logo di covid19italia due cerchi concentrici uno rosso e uno verde ed all'esterno dei semicerchi sparsi
 
 # Short description of your site
-description: Un progetto per condividere informazioni a supporto dell'emergenza COVID19
+description: Um projeto para compartilhar informações e tomar medidas para apoiar a emergência COVID19
 
 # --- Navigation bar options --- #
 # List of links in the navigation bar -> NOT MORE USED! see in navigation.yml in Data folder.
@@ -126,7 +126,7 @@ jekyll-crosseverything_to_medium:
 timezone: "Europe/Rome"
 markdown: kramdown
 highlighter: rouge
-lang: it
+lang: pt
 languages: ["it", "en", "pt"]
 permalink: /:categories/:year-:month-:day-:title/
 paginate: 5
@@ -367,7 +367,7 @@ categorieissue:
 
 issuemap:
         center: 39.55488,-7.62451
-        zoom: 6 
+        zoom: 6
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189

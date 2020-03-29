@@ -1,5 +1,5 @@
 ---
-lang: it
+lang: pt
 layout: page
 title: Blog Covid19 | Blog e storie sull'emergenza coronavirus
 subtitle: Il blog del team Covid19Italia.Help

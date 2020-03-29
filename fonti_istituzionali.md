@@ -1,9 +1,9 @@
 ---
-lang: it
+lang: pt
 layout: page
 title: Fonti istituzionali emergenza coronavirus | Fonti ufficiali
-subtitle: Tutte le fonti istituzionali da consultare per avere informazioni di prima mano sull'emergenza coronavirus 
-permalink: /fonti-istituzionali/
+subtitle: Tutte le fonti istituzionali da consultare per avere informazioni di prima mano sull'emergenza coronavirus
+permalink: institucionais/
 ---
 <div class="panel-group">
 {% assign filteredissues = site.data.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'Fonti istituzionali'"%}

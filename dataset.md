@@ -1,5 +1,5 @@
 ---
-lang: it
+lang: pt
 layout: page
 title: Segnala dati
 permalink: /dataset/
@@ -30,7 +30,7 @@ permalink: /dataset/
 	  ],
 	  "about" : "Questo Dataset contiene tutti i riferimenti ai contenuti e ai dati prodotti o raccolti dal progetto covid19italia.help . Se usi i nostri dati non scordare di citarci come fonte",
 	  "abstract" : "Il dataset contiene tutte le notizie di eventi, fake news, iniziative e servizi, raccolte fondi che siamo riusciti a raccogliere riguardo al fenomeno del coronavirus in Italia",
-	  "description" : "Il dataset contiene tutte le notizie di eventi, fake news, iniziative e servizi, raccolte fondi che siamo riusciti a raccogliere riguardo al fenomeno del coronavirus in Italia",	  
+	  "description" : "Il dataset contiene tutte le notizie di eventi, fake news, iniziative e servizi, raccolte fondi che siamo riusciti a raccogliere riguardo al fenomeno del coronavirus in Italia",
 	  "license" : "https://creativecommons.org/licenses/by/4.0/",
 	  "producer" : "https://www.covid19italia.help/",
 	  "contentLocation" : {

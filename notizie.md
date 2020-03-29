@@ -1,5 +1,5 @@
 ---
-lang: it
+lang: pt
 layout: page
 title: News Coronavirus Italia | Notizie utili
 subtitle: Tutte le news verificate dal team di Covid19Italia.Help sull'emergenza coronavirus

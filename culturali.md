@@ -1,5 +1,5 @@
 ---
-lang: it
+lang: pt
 layout: issuelist
 title: Attività Culturali
 permalink: /iniziative-culturali-e-ricreative/

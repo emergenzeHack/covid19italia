@@ -1,5 +1,5 @@
 ---
-lang: it
+lang: pt
 layout: page
 title: Storie
 permalink: /storie/

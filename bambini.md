@@ -1,5 +1,5 @@
 ---
-lang: it
+lang: pt
 layout: issuelist
 title: Iniziative per bambini
 permalink: /giochi-intrattenimento-bambini/

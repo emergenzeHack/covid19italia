@@ -1,7 +1,7 @@
 ---
-lang: it
+lang: pt
 layout: page
-title: Open Data Covid19 | Open Data Coronavirus 
+title: Open Data Covid19 | Open Data Coronavirus
 subtitle: Gli open data di Covid19Italia.Help con le segnalazioni in emergenza coronavirus da riutilizzare
 permalink: /opendata/
 ---
