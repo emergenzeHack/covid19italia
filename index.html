@@ -74,7 +74,7 @@ subtitle: Um projeto para compartilhar informações e tomar medidas para apoiar
 {% assign categories_without_map = site.data.logos | where: "map", false %}
 {% for category in categories_without_map %}
   {% capture logo_alt %}
-    {{ category.name }}
+    {{ category.name_pt }}
     {% if category.logo_credit and category.logo_credit != empty %}
       logo by {{ category.logo_credit }}
     {% endif %}
@@ -86,7 +86,7 @@ subtitle: Um projeto para compartilhar informações e tomar medidas para apoiar
 		  <img class="card-img-top mx-auto w-75 img-fluid" src="{{ site.baseurl }}{{ category.logo }}" alt="{{ category.logo-alt }}"><br>
 		  {% endif %}
 		  <div class="card-body">
-			  <p class="card-title categorie-logo">{{ category.name }}</p>
+			  <p class="card-title categorie-logo">{{ category.name_pt }}</p>
 		  </div>
 	  </div>
   </a>
