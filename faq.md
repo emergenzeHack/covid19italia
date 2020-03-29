@@ -1,133 +1,162 @@
 ---
 lang: pt
 layout: page
-title: Domande Frequenti su civic hacking per emergenza coronavirus
-subtitle: Come funziona la risposta partecipata di Covid19Italia.Help all'emergenza coronavirus?
+title: Perguntas frequentes
+subtitle: 
 permalink: /faq/
 ---
 
-## Cos'è, esattamente, covid19italia.help?
+**Perguntas frequentes**
 
-Probabilmente è più facile provare a usarlo che spiegarlo!
+**O que é o Covid19Portugal Help?**
 
-Comunque, prima di tutto Covid19Italia.help è un posto utile a tutte le persone interessate dall’emergenza Coronavirus e che vogliono attivarsi per dare una mano.
+É mais fácil usá-lo que explicá-lo!
 
-È un servizio informazioni su quello che è importante sapere in questi giorni.
+No entanto, antes de mais, o Covid19Portugal Help é uma plataforma útil para todos aqueles que se queiram manter activos e auxiliar outras pessoas durante esta emergência do Coronavirus.
 
-È un progetto non profit, diretto e gestito da volontarie e volontari.
+É um serviço de informação sobre o que é importante saber durante esta crise.
 
-È una comunità. Anche tu puoi attivarti (da casa) e partecipare.
+É um projecto sem fins lucrativos gerido exclusivamente por voluntários.
+
+É uma comunidade. Você também pode estar envolvido e participar!
+
+**Quem são os beneficiários deste projeto?**
+
+Todas as pessoas com interesse no tema da emergência provocada pelo Coronavirus, que procuram notícias sobre iniciativas, fontes oficiais, informações fidedignas, recolha de fundos e muito mais.
+
+Portanto, muito provavelmente, isto também tem  interesse para si!
+
+**O que você pode fazer?**
+
+No Covid19Portugal Help pode:
+
+- Sentir-se parte de uma comunidade
+
+- Ajudar, participar e ser útil à sua comunidade
+
+- Procurar fontes, notícias, iniciativas, angariação de fundos e muito mais relacionado com esta emergência (através de um mapa onde pode procurar as actividades perto de si)
+
+- relatórios sobre esta questão
+
+- discutir sobre este assunto
+
+**Porquê?**
+
+Durante este período de emergência, todos estão confusos. Muitas vezes é difícil descobrir informações úteis e relevantes. Há tantas iniciativas solidárias que é provável que se percam no meio das informações e há o risco de que as actividades sejam subestimadas. Covid19Portugal Help agrega, verifica e torna mais fácil a consulta de informações úteis. Divide-as de acordo com o tipo/categoria e localização geográfica.
+
+A parte mais importante deste projeto é que qualquer pessoa pode participar diretamente com seus próprios relatórios.
+
+**Qual é a finalidade dos relatórios?**
+
+Neste período, uma pessoa pode precisar de bens, serviços e outras iniciativas que você conhece, mas que as pessoas que até necessitam delas desconhecem. Os relatórios levam a qualquer pessoa pode ter acesso a informações úteis e apoiar a comunidade. Por esta razão, é importante partilhar informações e colocá-las na rede. A informação é um bem público!
+
+**Que tipo de informação eu posso encontrar e relatar?**
+
+- Fontes institucionais - informações oficiais e notícias sobre a emergência
+
+- Pedidos de apoio - colocamos pedidos de ajuda na rede para aumentar a sua visibilidade
+
+- Ofertas de ajuda - entidades ou indivíduos que oferecem qualquer forma de apoio
+
+- Recolha de fundos - relatório de recolhas de fundos publicado na rede, vamos organizá-los por categoria e localização
+
+- Notícias falsas - você encontrou notícias falsas na rede? Comunique-nos!
+
+- Notícias úteis - verificamos e categorizamos tudo o que pode ser útil para outras pessoas, pois será mais fácil descobri-lo depois
+
+- Doações de materiais/ferramentas - informe as ofertas de mercadorias que você encontra
+
+- Oferta pública ou privada de serviços e iniciativas - comunicar e destacar iniciativas que beneficiem a comunidade
+
+- Entregas - entregas ao domicílio de produtos essenciais e medicamentos. Se você conhece pessoas dispostas a fazer estas atividades, informe-nos!
+
+- Ensino - ajude-nos a recolher informações sobre iniciativas públicas e privadas de ensino online
+
+- Apoio ao emprego - relatar todas as iniciativas relativas ao emprego/apoio ao trabalho
+
+- Contactos úteis - informe todos os contactos que considere úteis, iremos organizá-los por localização
+
+- Entretenimento para crianças - você conhece atividades e iniciativas de lazer e entretenimento em casa para crianças? Partilhe-as com o resto da comunidade.
+
+- Entretenimento/actividades culturais para adultos - partilhe actividades que conhece e entidades que as organizam
+
+- Apoio Psicológico - relatar todos os serviços relacionados com o apoio psicológico a operar neste período de emergência
+
+**Como posso fornecer um relatório?**
+
+Aqui ficam as instruções, passo a passo:
 
 
-## A chi serve?
 
-A tutte le persone coinvolte dall’emergenza Coronavirus, che vogliono informazioni sulle iniziative, sulle fonti ufficiali da consultare, su notizie verificate, sulle raccolte fondi e molto altro. Quindi, probabilmente, anche a te.
+1. Aceda à [página do relatório](https://www.covid19italia.help/pt/comunique);
+2. Escolha a categoria para o seu relatório
+3. Preencha o formulário e as restantes informações solicitadas
+4. E, pronto, o seu relatório está completo!
 
-## Cosa si può fare?
+Uma equipa de voluntários irá depois encarregar-se de verificar e publicar o relatório. Os detalhes enviados serão exibidos no mapa.
 
-Su Covid19Italia.help puoi:
+Se você detectar algum problema ou tiver dúvidas, entre em contato conosco. Pode fazê-lo através de qualquer dos meios deisponíveis aqui: [https://www.covid19italia.help/pt/canais](https://www.covid19italia.help/pt/canais)
 
-- Sentirti parte di una comunità;
-- Aiutare, collaborare, renderti utile alla comunità;
-- Consultare e scoprire fonti, notizie, iniziative, raccolte fondi e molto altro (anche grazie a una mappa, dove puoi cercare quelle più vicine a te) che riguarda questa emergenza;
-- Segnalare iniziative a tema;
-- Conversare sul tema.
+**Como posso participar usando as minhas redes sociais?**
 
-## Perchè?
+Para começar, partilhe este projeto!
 
-In un momento di emergenza siamo tutti disorientati. Spesso è difficile trovare le informazioni utili e più rilevanti. Ci sono così tante iniziative a supporto delle persone che si rischia di perdersi nel marasma delle informazioni. Si rischia anche di disperdere di valore di queste iniziative. Covid19Italia.help le aggrega, verifica e le rende facilmente consultabili, dividendole per tipo e per posizione geografica.
+Neste post, explicamos como utilizar as redes sociais de forma eficaz para enfrentar a emergência.
 
-La cosa più bella è che anche tu puoi collaborare in prima persona, con le tue segnalazioni.
+Se você tem um perfil no **Facebook**:
 
-## A cosa serve fare una segnalazione?
+	Partilhe a página Covid19 (você pode encontrá-la aqui : [https://www.facebook.com/Covid19PThelp/](https://www.facebook.com/Covid19PThelp/)) e convide os seus contatos para colocar "gosto" na página
 
-In questo momento una persona potrebbe avere bisogno di un bene o servizio o un’iniziativa che tu conosci e altri no.
-Fare una segnalazione serve a rendere pubblica e facilmente fruibile un’informazione che potrebbe servire alla comunità.
-Per questo è importante mettere in rete la conoscenza. L’informazione è un bene comune.
 
-## Che tipo di informazioni posso trovare e segnalare?
 
-- **Fonti istituzionali** informazioni e notizie ufficiali sull’emergenza dalle fonti ufficiali
-- **Richieste d’aiuto** mettiamo in rete le richieste di aiuto per farle circolare di più e meglio
-- **Offerte di aiuto** realtà o singoli cittadini che offrono aiuto di qualsiasi natura
-- **Raccolte fondi** segnalaci le raccolte di fondi che circolano in rete, le organizzeremo per categoria e territorio
-- **Fake News / Bufale** hai visto circolare una notizia falsa? Segnalacelo!
-- **Informazioni utili** verifichiamo e categorizziamo tutto quello che ti può venire in mente per aiutare gli altri: in questo modo sarà più semplice trovarlo
-- **Donazioni materiali/strumenti** segnalaci le offerte di beni con le quali vieni in contatto
-- **Servizi e iniziative solidali pubbliche o private**: segnalaci chi propone iniziative per la collettività
-- **Consegne e commissioni** consegne a domicilio di beni di prima necessità, farmaci, commissioni. Se conosci chi si rende disponibile a farne, segnalacelo.
-- **Didattica a distanza** aiutaci a raccogliere tutte le iniziative pubbliche o private di didattica online
-- **Sostegno al lavoro** segnalaci le iniziative di sostegno ai lavoratori in questo momento
-- **Contatti utili** segnalaci i contatti che ritieni più utili, li organizzeremo per territorio
-- **Giochi/intrattenimento bambini** conosci attività o iniziative per far passare il tempo in casa ai bambini? Condividile con la comunità
-- **Intrattenimento adulti/attività culturale** condividi le attività di intrattenimento che conosci o realtà che ne propongono
-- **Supporto psicologico** segnalaci i servizi di supporto psicologico che operano in questo momento di emergenza
+	Junte-se ao nosso grupo no Facebook e comunique as iniciativas que você considera úteis [https://www.facebook.com/groups/Covid19PThelp/](https://www.facebook.com/groups/Covid19PThelp/))
 
-## Come posso fare una segnalazione?
+	Se você faz parte de outros grupos e comunidades, partilhe e explique o projeto COVID19Portugal Help. Quanto mais formos, mais informação é divulgada!
 
-Eccoti le istruzioni, passo dopo passo:
 
-1. Accedi alla pagina delle segnalazioni: [covid19italia.help/segnala/](https://covid19italia.help/segnala/);
-2. Scegli a che categoria appartiene la tua segnalazione;
-3. Compila il form con i dati richiesti;
-4. La tua segnalazione è stata fatta!
-5. Un team di volontari se ne farà carico per verificarla e pubblicarla. A quel punto sarà nell’archivio e sulla mappa;
-6. Se hai problemi o dubbi di qualsiasi genere, contattaci scegliendo il modo che preferisci fra questi qui: [covid19italia.info/canali/](https://covid19italia.help/canali/)
 
-## Come posso rendermi utile utilizzando i miei social?
+	Você conhece algum influenciador que possa estar interessado neste projeto? Informe-o e partilhe com ele o site COVID19Portugal Help, a nossa  missão e objectivos.
 
-Come posso rendermi utile attraverso i miei social?
+Você tem uma conta no Twitter?
 
-Parla del progetto. In questo [post](2020-03-11-come-postare-sui-social/) spieghiamo come utilizzare i social in modo utile per far fronte ad emergenze.
+O Twitter é uma ferramenta poderosa para recolher e difundir informações. Você pode divulgar o [@Covid19PThelp](https://twitter.com/Covid19PThelp) e re-tweetar os nossos posts.
 
-Se hai un profilo **Facebook**:
+**Eu gostaria de me envolver mais. Como posso apoiar operacionalmente a equipa da COVID19Portugal Help?**
 
-1. Condividi la pagina di Covid19 (la trovi qui: https://www.facebook.com/covid19italia.help/ ) e invita i tuoi contatti a mettere like
-2. Iscriviti al gruppo e segnalaci le iniziative che ritieni più utili (https://www.facebook.com/groups/covid19italia/?source_id=105297061095370 )
-3. Se fai parte di gruppi o community: condividi e spiega il progetto di COVID19Italia.help. Più siamo più le informazioni circolano.
+Ótimo, obrigado desde já! Na página
 
-Se hai un profilo **Instagram**:
+[https://www.covid19italia.help/pt/contribuir](https://www.covid19italia.help/pt/contribuir)
 
-1. Condividi il profilo @covid19italia.help
-2. Parla nelle tue Stories di @covid19italia.help e usa l’hashtag #Covid19Italia
-3. Sei in contatto con influencer o microinfluencer che ritieni possano essere interessati al progetto? Parlagliene e condividi con loro il cuore e la missione di COVID19Italia.help
+encontra todos os detalhes necessários para se juntar à nossa equipa. O único requisito é ter vontade para ajudar o próximo.
 
-Usi **Twitter**?
+**Posso saber mais sobre quem está por detrás do projeto Covid19Portugal Help?**
 
-Twitter è un ottimo strumento per raccogliere e diffondere segnalazioni. Puoi parlare di @ItaliaCovid19 e ritwittare le segnalazioni.
+Obrigado por perguntar, temos todo o prazer em nos apresentar! Neste tipo de projetos  há muitos voluntários nos bastidores, são pessoas com  formações diversas, mas todas com  vontade de usar parte do seu tempo (às vezes muito tempo!) e os seus conhecimentos para, de uma forma apaixonada, fazer algo útil para a sociedade.
 
-Sei su **Telegram**?
+Covid19Portugal Help é a versão portuguesa do Covid19Italia.help.
 
-Segui @COVID19I, è un canale su cui troverai le principali segnalazioni che riceviamo e tutte le informazioni necessarie per supportare il progetto.
+Covid19Italia.help decorre de projeto semelhante de recolha de informações, iniciativas e notícias relacionadas com o terremoto de 2016 em Itália (descubra mais sobre este primeiro projeto  aqui: https://terremotocentroitalia.info/)
 
-## Vorrei fare di più. Come posso dare una mano operativamente al team di COVID19Italia?
+Tal como neste primeiro projeto, a Covid19.help é apoiada pela ActionAid Itália através da sua equipa, ativistas e parceiros em projetos em todo o território italiano. Depois vão se juntandooutras pessoas com diferentes conhecimentos e experiências. A equipa aproveita a experiência anterior (por exemplo: o código/regulamentos, procedimentos, metodologia para desenvolvimento de projetos e comunicação) e desenvolve novas ideias.
 
-Grandioso! Alla pagina [Contribuisci](https://covid19italia.help/contribuisci/) trovi tutte le informazioni per unirti ai nostri sforzi, che tu sia un tecnico o no.
+O resultado é o que você pode ver: inteligência coletiva ao serviço da comunidade, o que também poderia ser chamado de hacking cívico.
 
-## Posso sapere qualcosa in più su chi fa Covid19.help?
+Os nomes das pessoas que trabalham neste projecto podem ser encontrados aqui: [https://www.covid19italia.help/pt/sobre](https://www.covid19italia.help/pt/sobre) (a página é actualizada regularmente)
 
-Grazie per averlo chiesto! Ci fa piacere poterci presentare. Nel backstage di progetti come questo, a lavorare dietro le quinte, ci sono volontarie e volontari. Persone, insomma, con un volto, nomi, competenze, passioni e voglia di mettere un po’ del loro tempo (a volte proprio tanto tempo!) e delle loro capacità per fare qualcosa di utile.
-L’esperienza di Covid19.help, in particolare, deriva, fra l’altro, da un progetto analogo che seguiva informazioni, iniziative, notizie legate al terremoto in centro Italia del 2016. Lo puoi vedere qui: https://terremotocentroitalia.info/
+**Ótimo! Podem dar-me mais detalhes sobre o método e abordagem do hacking cívico?**
 
-Come successo con terremotocentroitalia anche Covid19.help è sostenuta da ActionAid Italia tramite il lavoro del suo staff, di attiviste e attivisti e partner di progetti sul territorio nazionale.
+Claro! O hacking cívico surge quando há um problema na comunidade. A partir daí, a maioria das pessoas começa a procurar, sugerir e oferecer soluções numa abordagem voluntária e aberta, muitas vezes aproveitando as oportunidades oferecidas pela Internet. Isto é, em breve, o hacking cívico, é a inteligência coletiva a trabalhar em prol do bem comum. Numa emergência, por exemplo, um dos principais problemas é estar sobrecarregado com informação, pois não é fácil encontrar informação fidedigna ou denunciar informação falsa. Covid19Italia.help pode ser uma solução para este problema!
 
-Poi di solito – e sta succedendo anche questa volta – si aggregano persone che hanno altre esperienze e competenze.
-Il gruppo di lavoro eredita quel che c’era a disposizione nel passato (ad esempio: il codice, le procedure per organizzarsi, la metodologia di sviluppo e di comunicazione) ed elabora altre idee. Il risultato è quello che vedi: il lavoro di un’intelligenza collettiva, che se vuoi puoi chiamare anche civic hacking.
+A abordagem que usamos neste tipo de projeto é chamada AGOPENDI: Aggregate, OPEN, Distribute (agregar, abrir, distribuir):
 
-I nomi di chi partecipa li trovi qui: https://www.covid19italia.info/about/ (è una pagina in continuo aggiornamento).
+- Agregar o conteúdo. Os conteúdos não são necessariamente estruturas e provêm de diferentes fontes (redes sociais, e-mail, telefone, etc.). Manualmente, os dados são agregados na plataforma e depois estruturados de modo a seguir um modelo padrão para que seja possível obter dados efectivos e utilizáveis.
 
-## Bello! Mi dite qualcosa in più sul civic hacking, sul metodo, sull’approccio?
+- Dados ABERTOS. Todos os detalhes recebidos são públicos e de livre acesso. Acreditamos que ao agregar, estruturar e distribuir livremente todos os dados acrescentamos valor. É essa a mais-valia deste portal e o nosso contributo para a comunidade.
 
-Certo. C’è un problema che interessa la collettività. Un pezzetto di questa collettività si mette a cercare e proporre e offrire soluzioni. Lo fa in maniera volontaria e aperta. E lo fa usando le possibilità offerte da internet. Questo è civic hacking in breve. È l’intelligenza collettiva al lavoro.
-In un’emergenza, ad esempio, il problema è che siamo travolti dalle informazioni e non sappiamo bene dove trovarle, come segnalarle.
-Covid19Italia.help è una possibile soluzione.
+- Distribuição da informação. Os dados abertos podem ser facilmente transformados em novas informações úteis. Como? Através de outros serviços. Quais? Use a sua imaginação e procure ferramentas onde possa partilhar informação. Por exemplo, Covid19Portugal.help tem um site, um perfil no Twitter, uma página no Facebook e um grupo no Facebook. A partir destas fontes, todos podem partilhar os relatórios!
 
-L’approccio che si applica a un progetto come questo si chiama **AGOPENDI**: **AGgregate**, **OPEN**, **DI**stribute. Cioè:
+Todos os seus relatórios podem ser posteriormente reutilizados e melhorados.
 
-- **Aggrega** i contenuti. I contenuti non sono strutturati e provengono da varie fonti (social media, mail, contatti etc…). La piattaforma li aggrega tramite un gran lavoro manuale di moderazione e di strutturazione in modo tale da dare loro una struttura “standard” e farne dei dati effettivamente riusabili.
-- **Apre** i dati. Tutti i dati ricavati sono publici e accessibili con licenze libere. Dovendo aggregare e strutturare, aprire i dati consente sviluppo di ulteriore informazione e servizio. E’ valore che si libera in modo piuttosto agevole.
-- **Distrubuisce** le informazioni. Ciò che è dato aperto può essere facilmente reso una nuova informazioni utile. Come? Con un servizio. Quale? Si può dare libero sfogo alla fantasia ma sempre senza esagerare e cercando strumenti utilizzati o comunque semplicemente divulgabili. Per esempio, Covid19Italia.help ha un sito, un profilo Twitter, una pagina Facebook, un gruppo Facebook, Instagram, un canale Telegram da cui chiunque può ricondividere le singole segnalazioni.
+Obrigado por ter chegado até aqui!
 
-Tutto questo può essere riutilizzato in futuro e migliorato.
-
-Grazie per aver letto fin qui!
+Divulgue o nosso projeto ou entre em contato conosco se tiver alguma questão.
