@@ -1,8 +1,8 @@
 ---
-lang: it
+lang: pt
 layout: page
 title: Contati utili
-permalink: /contatti/
+permalink: contatos/
 ---
 
 <div class="panel-group">
