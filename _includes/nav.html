@@ -13,7 +13,7 @@
     <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="nav navbar-nav ml-auto">
             {% for item in site.data.navigation.languages %}
-            {% if item.language == page.lang %}
+            {% if item.language == site.lang %}
             {% for link in item.navbar-links %}
             {% if link[1].first %}
             <li itemprop="name" class="nav-item dropdown">
