@@ -44,12 +44,12 @@ layout: page
    crossorigin=""></script>
 
 <style>
-#map{ height: 600px; width: 800px;}
+#map{ height: 600px; }
 </style>
 
 <div class="row">
 
-<div class="col-md-12 col-sm-12 col-xs-12"> <div id="map" style="height: 600px;"></div> </div>
+<div class="col-md-12 col-sm-12 col-12"> <div id="map" class="w-100" style="height: 600px;"></div> </div>
 
 {% assign allcatfilteredissues = '' | split: '' %}
 {% for categoriatuple in categorieissue %}
@@ -59,10 +59,10 @@ layout: page
 {% if filteredissues.size > 0 %}
 {% assign allcatfilteredissues = allcatfilteredissues | concat: filteredissues | uniq %}
 <div class="row">
-    <div class="col-xs-12">
+    <div class="col-12">
         <h2 id="{{categoria[0]|slugify}}">{{categoria[0]}} <span class="badge badge-pill badge-primary">{{filteredissues.size}}</span></h2>
         {% for member in filteredissues %}
-        <div class="col-md-12 col-sm-12 col-xs-12 mb-15">
+        <div class="col-md-12 col-sm-12 col-12 mb-15">
             <div class="card" id="issue{{member.number}}">
                 <div class="card-body issuepanel">
                     <a href="{{site.url}}/issues/{{member.number}}"><h4 class="card-title">{{member.title}}</h4></a>
