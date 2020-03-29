@@ -6,12 +6,11 @@ subtitle: Tutte le news verificate dal team di Covid19Italia.Help sull'emergenza
 permalink: /notizie-utili/
 ---
 
-<div class="panel-group">
 {% assign filteredissues = site.data.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'Notizie'" %}
 {% for member in filteredissues %}
-<div class="panel-body issuepanel" id="issue{{member.number}}">
-<div class="list-group-item">
-<a href="{{site.url}}/issues/{{member.number}}"><h4 class="list-group-item-heading">{{member.title}}</h4></a>
+<div class="card mb-15" id="issue{{member.number}}">
+<div class="card-body">
+<a href="{{site.url}}/issues/{{member.number}}"><h4 class="card-title">{{member.title}}</h4></a>
 <dl class="row">
 {% for item in member.issue.data %}
 {% if item[1] != blank %}
@@ -20,8 +19,8 @@ permalink: /notizie-utili/
 {% endif %}
 {% endfor %}
 </dl>
-</div>
 {% include social-share-issue.html %}
+</div>
 </div>
 {% endfor %}
 </div>
