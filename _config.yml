@@ -126,7 +126,7 @@ jekyll-crosseverything_to_medium:
 timezone: "Europe/Rome"
 markdown: kramdown
 highlighter: rouge
-lang: it
+lang: pt
 languages: ["it", "en", "pt"]
 permalink: /:categories/:year-:month-:day-:title/
 paginate: 5
