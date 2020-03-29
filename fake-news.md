@@ -1,8 +1,8 @@
 ---
 lang: pt
 layout: page
-title: Fake News e bufale sul coronavirus
-subtitle: Fai attenzione a bufale e fake news sul coronavirus e segnalale a Covid19Italia.help
+title: Fake News sobre o coronavirus
+subtitle: Cuidado com notícias falsas sobre o coronavírus e relate-o para Covid19Italia.help Covid19Italia.help
 permalink: /fake-news/
 ---
 <div class="panel-group">
