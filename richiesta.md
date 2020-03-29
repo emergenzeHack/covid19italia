@@ -1,8 +1,8 @@
 ---
 lang: pt
 layout: issuelist
-title: "Emergenza coronavirus: richieste di aiuto"
-subtitle: Tutte le richieste d'aiuto che sono state fatte sulla piattaforma Covid19Italia.Help
+title: "Emergência de coronavírus: pedidos de ajuda"
+subtitle: Todos os pedidos de ajuda que foram feitos na plataforma pt.Covid19People.Help
 permalink: ajuda/
-categorieissue: Richiesta aiuto;Richiesta aiuto
+categorieissue: pedidos de ajuda;pedidos de ajuda
 ---
