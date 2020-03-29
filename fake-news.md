@@ -1,8 +1,8 @@
 ---
 lang: pt
 layout: page
-title: Fake News sobre o coronavirus
-subtitle: Cuidado com notícias falsas sobre o coronavírus e relate-o para Covid19Italia.help Covid19Italia.help
+title: Notícias falsas sobre o Coronavirus
+subtitle: Cuidado com as notícias falsas sobre o Coronavirus. Denuncie em pt.Covid19Italia.help
 permalink: /fake-news/
 ---
 <div class="panel-group">
