@@ -3,7 +3,7 @@ lang: pt
 layout: page
 title: "Emergenza coronavirus chiedi aiuto, segnala iniziative, notizie, dati"
 subtitle: Chiedi aiuto o segnala iniziative su Covid19Italia.Help
-permalink: /relatorios/
+permalink: relatórios
 ---
 
 <div class="offset-md-1 col-md-10">
