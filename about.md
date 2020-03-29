@@ -1,49 +1,49 @@
 ---
 layout: page
-title: Che cos'è Covid19 Italia Help? La risposta all'emergenza coronavirus
-subtitle: Scopri come funziona la piattaforma, come collaborare, come fare segnalazioni
+title: O que é Covid19Portugal Help? Coronavirus Resposta de Emergência
+subtitle: Saiba como funciona a plataforma, como colaborar e como comunicar um caso
 permalink: /about/
-lang: it
+lang: pt
 ---
   
-## Il Progetto
+## O Projeto
 
-**covid19italia.help** è un progetto no profit, organizzato e diretto interamente da volontari e volontarie. È nato per condividere informazioni utili e verificate sull'evento di Coronavirus diffusosi in Italia nel 2020.
+**covid19italia.help** é um projeto sem fins lucrativos, organizado e dirigido inteiramente por voluntárias e voluntários. Foi criado para compartilhar informações úteis e verificadas sobre o evento Coronavírus espalhado em Itália em 2020. Agora o projeto está a espalhar-se por muitos outros países, incluindo Portugal com Covid19Portugal Help.
 
-Lo scopo è quello di verificare, aggregare ed etichettare segnalazioni di varia natura, al fine di mettere in contatto richieste di aiuto e offerte di beni e servizi.
+O objetivo é verificar, agregar e rotular relatórios de vários tipos, a fim de combinar pedidos de ajuda e ofertas de bens e serviços.
 
-Vengono inoltre raccolte e pubblicate iniziative solidali, culturali e dirette a promuovere ed implementare telelavoro e didattica a distanza.
+Também recolhe e publica iniciativas culturais e de solidariedade destinadas a promover e implementar o teletrabalho e a educação à distância.
 
-Infine, raccogliamo normative, direttive istituzionali e dati.
+Finalmente, recolhemos leis e regras, diretivas institucionais e dados que disponibilizamos no nosso site.
 
-Non si intende in alcun modo sostituirsi a fonti istituzionali di informazione a cui rimandiamo caldamente per l'attendibilità.
+Não pretendemos de forma alguma substituir as fontes institucionais de informação às quais nos referimos fortemente pela sua fiabilidade.
 
-## Statistiche
+## Estatísticas
 
-{% assign labels = "Servizi e iniziative solidali private,Servizi e iniziative solidali pubbliche,Consegne e commissioni,Fake News,Donne,Raccolte fondi,Supporto psicologico,Didattica a distanza e-learning,Fonti istituzionali,Informazioni utili,Notizie" | split: ',' %}
+{% assign labels = "Serviços e iniciativas privadas de solidariedade, Serviços e iniciativas de solidariedade pública,Entregas e comissões,Notícias Falsas,Mulheres,Angariação de fundos,Apoio psicológico,e-learning educação à distância,Fontes institucionais,Informazioni utili,Notícias" | split: ',' %}
 
-Fino ad ora, abbiamo gestito
-{% for valore in site.data.statisticheSegnalazioni %} {% if valore.Tipo == "Segnalazioni totali" %} <b>{{valore.Valore}}</b> {% endif %} {% endfor %} segnalazioni, accettandone e verificandone {% for valore in site.data.statisticheSegnalazioni %} {% if valore.Tipo == "Accettate" %} <b>{{valore.Valore}}</b>{% endif %}{% endfor %}, così distribuite:
+Até agora, na Itália, tratámos
+{% for valore in site.data.statisticheSegnalazioni %} {% if valore.Tipo == "Segnalazioni totali" %} <b>{{valore.Valore}}</b> {% endif %} {% endfor %} relatórios, aceitando e verificando {% for valore in site.data.statisticheSegnalazioni %} {% if valore.Tipo == "Accettate" %} <b>{{valore.Valore}}</b>{% endif %}{% endfor %},  categorizados da seguinte forma:
 {% for valore in site.data.statisticheSegnalazioni %} {% if labels contains valore.Tipo %}
 - {{ valore.Valore }} {{ valore.Tipo }} {% endif %} {% endfor %}
 
-## Riuso
+## Reutilização
 
-Ogni componente software che sviluppiamo è rilasciato con una licenza Open Source che ne permette il riuso e ne promuove lo sviluppo pubblicamente.
+Cada componente de software que desenvolvemos é lançado sob uma licença Open Source que permite a sua reutilização e promove o seu desenvolvimento publicamente.
 
-I dati che raccogliamo e produciamo vengono pubblicati e tenuti aggiornati come [Open Data]({{ site.url }}/opendata/).
+Os dados que coletamos e produzimos são publicados e mantidos atualizados como  [Dados Abertos]({{ site.url }}/opendata/).
 
-Laddove lo si ritenga utile, tutta l'infrastruttura è ri-usabile da organizzazioni, associazioni, gruppi informali ed anche pubbliche amministrazioni che avessero bisogno di un servizio per informare e attivarsi per rispondere all’emergenza covid19.
+Quando considerado útil, toda a infraestrutura é reutilizável pelas organizações, associações, grupos informais e até mesmo administrações públicas que precisam de um serviço para informar e responder à emergência covid19.
 
-Il progetto è descritto tramite il nostro [wiki](https://github.com/emergenzeHack/covid19italia/wiki).
+O projeto é descrito através do nosso [wiki](https://github.com/emergenzeHack/covid19italia/wiki).
 
-L'idea ed anche buona parte del progetto è dello stesso team che ha sviluppato il progetto [TerremotoCentroItalia](https://www.terremotocentroitalia.info).
+A ideia e também uma grande parte do projeto é da mesma equipa que o desenvolveu [TerremotoCentroItalia](https://www.terremotocentroitalia.info).
 
-## Chi siamo
+## Sobre nós
 
-Ecco la squadra di volontari che lavora a questo progetto:
+De seguida, apresentamos a equipa de voluntários que trabalha neste projeto:
 
-### Sviluppo
+### Desenvolvimento
 
 <div class="row contributorRow">
 	{% for contributore in site.data.contributorsCore %}
@@ -55,7 +55,7 @@ Ecco la squadra di volontari che lavora a questo progetto:
 	{% endfor %}
 </div>
 
-### Editors
+### Editores
 
 <div class="row contributorRow">
 	{% for contributore in site.data.contributorsEditors %}
@@ -67,7 +67,7 @@ Ecco la squadra di volontari che lavora a questo progetto:
 	{% endfor %}
 </div>
 
-### Media e comunicazione
+### Mídia e comunicação
 
 <div class="row contributorRow">
 	{% for contributore in site.data.contributorsMedia %}
@@ -79,7 +79,7 @@ Ecco la squadra di volontari che lavora a questo progetto:
 	{% endfor %}
 </div>
 
-### Contatti
+### Contactos
 
 - [Email](mailto:covid19ita@gmail.com)
 - [Twitter](https://twitter.com/ItaliaCovid19)
@@ -90,7 +90,7 @@ Ecco la squadra di volontari che lavora a questo progetto:
 - [Canale Telegram](https://t.me/COVID19I)
 - [Repository Github](https://github.com/emergenzeHack/covid19italia)
 
-### Tecnologie e Progetti Riusati
+### Tecnologias e Projetos Reutilizados
 
 - [Beautiful Jekyll](https://deanattali.com/beautiful-jekyll/)
 - [Maptune](https://github.com/gjrichter/maptune)
