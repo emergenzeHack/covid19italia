@@ -8,7 +8,7 @@
 #baseurl: "http://covid19italia.info"
 
 #baseurl: "https://github.com/emergenzeha/COVID19"
-url: "https://pd.covid19people.help"
+url: "https://pt.covid19people.help"
 
 # Configuration of DATA repo
 dataurl: "https://github.com/emergenzeHack/covid19pt_data.git"
@@ -367,7 +367,7 @@ categorieissue:
 
 issuemap:
         center: 39.55488,-7.62451
-        zoom: 6 
+        zoom: 6
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
