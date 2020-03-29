@@ -1,7 +1,7 @@
 ---
 lang: pt
 layout: issuelist
-title: Emergência do coronavírus: peça ajuda, partilhe iniciativas, notícias, dados
+title: Emergência do coronavírus peça ajuda, partilhe iniciativas, notícias, dados
 subtitle: Scopri tutte le segnalazioni fatte sulla piattaforma Covid19Italia.Help
 permalink: /iniciativas/
 categorieMapAll: true

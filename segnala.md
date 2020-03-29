@@ -1,8 +1,8 @@
 ---
 lang: pt
 layout: page
-title: Emergência do coronavírus: peça ajuda, partilhe iniciativas, notícias, dados
-subtitle: Peça ajuda ou relate iniciativas no Covid19Portugal
+title: "Emergência do coronavírus peça ajuda, partilhe iniciativas, notícias, dados"
+subtitle: "Peça ajuda ou relate iniciativas no Covid19Portugal"
 permalink: /relatorios/
 ---
 
