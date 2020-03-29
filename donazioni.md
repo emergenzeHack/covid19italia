@@ -1,5 +1,5 @@
 ---
-lang: it
+lang: pt
 layout: issuelist
 title: Donazioni beni e Offerte servizi
 permalink: /donazioni-beni-e-offerte-servizi/

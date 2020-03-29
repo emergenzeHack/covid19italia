@@ -1,5 +1,5 @@
 ---
-lang: it
+lang: pt
 layout: page
 title: Fake News e bufale sul coronavirus
 subtitle: Fai attenzione a bufale e fake news sul coronavirus e segnalale a Covid19Italia.help

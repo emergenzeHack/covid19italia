@@ -1,5 +1,5 @@
 ---
-lang: it
+lang: pt
 layout: page
 title: Giochi e Intrattenimento per bambini
 permalink: /giochi/

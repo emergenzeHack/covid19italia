@@ -1,5 +1,5 @@
 ---
-lang: it
+lang: pt
 layout: page
 title: Note Legali
 permalink: /legal/

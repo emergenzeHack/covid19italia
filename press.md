@@ -1,5 +1,5 @@
 ---
-lang: it
+lang: pt
 layout: page
 title: Rassegna stampa emergenza coronavirus
 subtitle: Tutte le pubblicazioni che parlano di Covid19Italia.help

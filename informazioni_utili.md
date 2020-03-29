@@ -1,5 +1,5 @@
 ---
-lang: it
+lang: pt
 layout: page
 title: Informazioni Utili
 permalink: /info/

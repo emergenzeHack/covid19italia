@@ -1,5 +1,5 @@
 ---
-lang: it
+lang: pt
 layout: issuelist
 title: Didattica a distanza e-learning
 permalink: /didattica-a-distanza-e-learning/
