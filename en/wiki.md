@@ -115,8 +115,6 @@ Note: project maintainers can
 
 This page is a mirror of [this simple tutorial](https://guides.github.com/activities/hello-world/) and describes the first steps to start using Github as a shared design tool.
 
-[TODO(@Saraveg): possiamo lasciare il solo link al tutorial originale?]
-
 
 # Working on reports
 
