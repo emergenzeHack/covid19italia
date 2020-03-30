@@ -80,11 +80,13 @@ subtitle: Un progetto per condividere informazioni e attivarsi a supporto dell'e
     {% endif %}
   {% endcapture %}
   {% assign logo_alt = logo_alt | strip %}
-  <a href="{{ site.baseurl }}/{{ category.link }}" class="thumbnail col-md-2" title="{{ logo_alt }}">
-    {% if category.logo and category.logo != empty %}
-    <img src="{{ site.baseurl }}{{ category.logo }}" alt="{{ category.logo-alt }}"><br>
-    {% endif %}
-    {{ category.name }}
+  <a href="{{ site.baseurl }}/{{ category.link }}" class="col-lg-2 col-md-2 col-sm-3 col-12" title="{{ logo_alt }}">
+	  {% if category.logo and category.logo != empty %}
+	  <div class="card border-0 text-center">
+		  <img class="card-img-top mx-auto w-75 img-fluid" src="{{ site.baseurl }}{{ category.logo }}" alt="{{ category.logo-alt }}"><br>
+		  {% endif %}
+			  <p class="card-title categorie-logo">{{ category.name }}</p>
+	  </div>
   </a>
 {% endfor %}
 </div>
@@ -92,7 +94,7 @@ subtitle: Un progetto per condividere informazioni e attivarsi a supporto dell'e
 <hr class="col-lg-12">
 
 <div class="row">
-    <div class="col-xs-12">
+    <div class="col-12 w-100">
 		<form class="global-search" role="form" action="/searchissues" method="get">
 			<div class="input-group">
 				<input type="text" class="form-control" id="search-box" name="query" placeholder="Cosa cerchi?">

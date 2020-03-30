@@ -131,6 +131,10 @@ for issue in issues:
     except:
         pass
 
+    if not data:
+        print(f"Data not found for issue {issue}.")
+        continue
+
     if "Posizione" in data:
         try:
             (lat,lon) = data["Posizione"].split(" ")[:2]

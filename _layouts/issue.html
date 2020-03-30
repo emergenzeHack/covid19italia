@@ -2,6 +2,7 @@
 layout: base
 title: page.issue.data[0]
 no-share-img: true
+lang: it
 ---
 
 {%- capture image_url -%}/images/issues/{{page.number}}.png{%- endcapture -%}
@@ -34,13 +35,13 @@ no-share-img: true
     {%- endfor -%}
 {%- if issueimage -%}
     <div class="row">
-<img class="col-md-6 col-sm-9 col-xs-9" src="/images/issues/{{page.number}}.png" />
+<img class="img-fluid col-md-6 col-sm-9 col-9" src="/images/issues/{{page.number}}.png" />
     </div>
 {%- endif -%}
     <div class="row">
         <div class="col-md-12">{%- if page.state == "closed" -%}<strike>{%- endif -%}<h2>{{page.issue.title}}</h2>{%- if page.state == "closed" -%}</strike>{%- endif -%} </div>
     </div>
-    
+
     <dl class="row">
         {%- for item in page.issue.data -%}
         {%- if item[1] != blank -%}
