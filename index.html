@@ -80,14 +80,16 @@ subtitle: Un progetto per condividere informazioni e attivarsi a supporto dell'e
     {% endif %}
   {% endcapture %}
   {% assign logo_alt = logo_alt | strip %}
-  <a href="{{ site.baseurl }}/{{ category.link }}" class="col-lg-2 col-md-2 col-sm-3 col-12" title="{{ logo_alt }}">
-	  {% if category.logo and category.logo != empty %}
-	  <div class="card border-0 text-center">
-		  <img class="card-img-top mx-auto w-75 img-fluid" src="{{ site.baseurl }}{{ category.logo }}" alt="{{ category.logo-alt }}"><br>
-		  {% endif %}
-			  <p class="card-title categorie-logo">{{ category.name }}</p>
-	  </div>
-  </a>
+	<a href="{{ site.baseurl }}/{{ category.link }}" title="{{ logo_alt }}">
+		<div class="card border-0" style="width: 10rem;">
+			{% if category.logo and category.logo != empty %}
+			<img class="card-img-top" src="{{ site.baseurl }}{{ category.logo }}" alt="{{ category.logo-alt }}">
+			{% endif %}
+			<div class="card-body">
+				<h3 class="card-title">{{ category.name }}</h3>
+			</div>
+		</div>
+	</a>
 {% endfor %}
 </div>
 
