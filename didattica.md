@@ -1,7 +1,7 @@
 ---
 lang: pt
 layout: issuelist
-title: Didattica a distanza e-learning
-permalink: /didattica-a-distanza-e-learning/
-categorieissue: Didattica a distanza e-learning;Didattica a distanza e-learning
+title: Ensino à distância por e-learning
+permalink: /ensino-à-distância-por-e-learning/
+categorieissue: ensino à distância por e-learning;ensino à distância por e-learning
 ---

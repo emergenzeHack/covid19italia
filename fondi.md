@@ -1,8 +1,8 @@
 ---
 lang: pt
 layout: issuelist
-title: Raccolte fondi emergenza coronavirus
-subtitle: Scopri e segnala le raccolte fondi per l'emergenza coronavirus in Italia su Covid19Italia.Help
-permalink: /fundos/
+title: Angariação de fundos para a emergência Coronavírus
+subtitle: Descubra angariação de fundos para a emergência do coronavírus no Portugal no pt.Covid19people.Help.
+permalink: /angariação-de-fundos/
 categorieissue: Raccolte fondi;Raccolte fondi
 ---

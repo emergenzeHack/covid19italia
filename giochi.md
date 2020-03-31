@@ -1,12 +1,12 @@
 ---
 lang: pt
 layout: page
-title: Giochi e Intrattenimento per bambini
-permalink: /giochi/
+title: Jogos/entretenimento para crianças
+permalink: /jogos-entretenimento-para-crianças/
 ---
 
 <div class="panel-group">
-{% assign filteredissues = site.data.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'Giochi/intrattenimento per bambini'" %}
+{% assign filteredissues = site.data.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'jogos/entretenimento para crianças'" %}
 {% for member in filteredissues %}
 <div class="panel-body issuepanel" id="issue{{member.number}}">
 <div class="list-group-item">

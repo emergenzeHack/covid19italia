@@ -352,16 +352,16 @@ jekyll_tidy:
   compress_html: true
 
 categorieissue:
- - Raccolte fondi;Raccolte fondi
- - Giochi/intrattenimento bambini;Giochi/intrattenimento bambini
- - Servizi e iniziative solidali;Servizi e iniziative solidali
- - Iniziative culturali e ricreative;Attivita culturali e ricreative
- - Consegne e commissioni;Consegne e commissioni
- - Supporto psicologico;Supporto psicologico
- - Sostegno lavoro e imprese;Sostegno lavoro e imprese
- - Donazioni beni e Offerte servizi;Donazioni beni/strumenti
- - Didattica a distanza e-learning;Didattica a distanza e-learning
- - Notizie Utili;Notizie Utili
+ - angariação de fundos;angariação de fundos
+ - jogos/entretenimento para crianças;jogos/entretenimento para crianças
+ - serviços e iniciativas de solidariedade;serviços e iniciativas de solidariedade
+ - iniciativas culturais e recreativas;iniciativas culturais e recreativas
+ - entregas e comissões;entregas e comissões
+ - apoio psicológico;apoio psicológico
+ - apoio ao trabalho e aos negócios;apoio ao trabalho e aos negócios
+ - doações de bens e serviços;doações de bens e serviços
+ - ensino à distância por e-learning;ensino à distância por e-learning
+ - notícias;notícias
 
 # Impostazioni mappa
 
