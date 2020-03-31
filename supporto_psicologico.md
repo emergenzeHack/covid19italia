@@ -1,7 +1,7 @@
 ---
 lang: pt
 layout: issuelist
-title: Supporto psicologico
+title: Apoio psicológico
 permalink: /apoio-psicológico/
-categorieissue: Supporto psicologico;Supporto psicologico
+categorieissue: Apoio psicológico;Apoio psicológico
 ---

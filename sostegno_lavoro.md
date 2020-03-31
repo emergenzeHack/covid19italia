@@ -1,8 +1,8 @@
 ---
 lang: pt
 layout: issuelist
-title: Sostegno lavoro e imprese
+title: Apoio ao trabalho e aos negócios
 permalink: /apoio-ao-trabalho-e-aos-negócios/
-categorieissue: Sostegno lavoro e imprese;Sostegno lavoro e imprese
+categorieissue: apoio ao trabalho e aos negócios;apoio ao trabalho e aos negócios
 ---
 

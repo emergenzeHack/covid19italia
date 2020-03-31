@@ -1,7 +1,7 @@
 ---
 lang: pt
 layout: issuelist
-title: Donazioni beni e Offerte servizi
+title: Doações de bens e serviços
 permalink: /doações-de-bens-e-serviços/
-categorieissue: Donazioni beni e offerte servizi;Donazioni beni e offerte servizi
+categorieissue: doações de bens e serviços;doações de bens e serviços
 ---
