@@ -54,9 +54,9 @@ Here the basic step to integrate you in our platform (we can support you in this
 
 - Github Repo of the data as used to store you reports dataset and is used by Github Repo of website to build website.
 - In the Github Repo to store reports as issue you have to define a list of LABELS to categorized the issues. They will be the tags that you'll can manage in the frontend of the website. Remember to define a label "Approvato" to accept a reports.
-Labels should be the same listed in "categorieissue" tag in _config.yml file inside the repo of the website.
+Labels should be the same listed in "categorieissue" tag in [_config.yml](https://github.com/emergenzeHack/covid19italia/blob/master/_config.yml) file inside the repo of the website.
 - In the repo of the website you have to do at least this actions on the frontend sites
-  - Adjust _config.yml file as you prefer
+  - Adjust [_config.yml](https://github.com/emergenzeHack/covid19italia/blob/master/_config.yml) file as you prefer
   - For each page of reports categories you must configure the permalink, title and the relative LABEL in the page
   - Adjust the maps on your country
 
@@ -71,6 +71,7 @@ Labels should be the same listed in "categorieissue" tag in _config.yml file ins
   - Set "your" language as default
   - Re-deploy the form
   ![](https://user-images.githubusercontent.com/368961/33343306-cc3ad2b6-d452-11e7-971b-3480e6ae2257.png)
+Take note of the hyperlinks of all your webforms that will be embedded in the pages of [_segnalazioni](https://github.com/emergenzeHack/covid19italia/tree/master/_segnalazioni) folder.
 
 **From the moment when you will integrate your Moderation Team will be able to see in the Github Reports repo your reports, will accept the reports and then the reports will be publish on the website.**
 
