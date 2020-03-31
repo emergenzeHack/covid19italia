@@ -70,7 +70,7 @@ subtitle: Um projeto para compartilhar informações e tomar medidas para apoiar
         }]
 </script>
 
-<div class="homepage-categories">
+<div class="homepage-categories mt-4">
 {% assign categories_without_map = site.data.logos | where: "map", false %}
 {% for category in categories_without_map %}
   {% capture logo_alt %}
@@ -80,35 +80,33 @@ subtitle: Um projeto para compartilhar informações e tomar medidas para apoiar
     {% endif %}
   {% endcapture %}
   {% assign logo_alt = logo_alt | strip %}
-  <a href="{{ site.baseurl }}/{{ category.link_pt }}" class="col-lg-2 col-md-2 col-sm-3 col-12" title="{{ logo_alt }}">
-	  {% if category.logo and category.logo != empty %}
-	  <div class="card border-0 text-center">
-		  <img class="card-img-top mx-auto w-75 img-fluid" src="{{ site.baseurl }}{{ category.logo }}" alt="{{ category.logo-alt }}"><br>
-		  {% endif %}
-		  <div class="card-body">
-			  <p class="card-title categorie-logo">{{ category.name_pt }}</p>
-		  </div>
-	  </div>
-  </a>
+	<a href="{{ site.baseurl }}/{{ category.link_pt }}" title="{{ logo_alt }}">
+		<div class="card border-0" style="width: 10rem;">
+			{% if category.logo and category.logo != empty %}
+			<img class="card-img-top" src="{{ site.baseurl }}{{ category.logo }}" alt="{{ category.logo-alt }}">
+			{% endif %}
+			<div class="card-body">
+				<h6 class="card-title">{{ category.name_pt }}</h6>
+			</div>
+		</div>
+	</a>
 {% endfor %}
 </div>
 
 <hr class="col-lg-12">
 
 <div class="row">
-    <div class="col-lg-12 col-xs-12">
-            <form class="global-search" role="form" action="/searchissues" method="get">
-                <div class="form-group">
-                    <label for="search-box">O que você está procurando?</label>
-                    <input type="text" class="form-control" id="search-box" name="query" placeholder="">
-                </div>
-                <div class="form-group">
-                    <input type="submit" class="btn btn-primary" value="Pesquisar">
-                </div>
-            </form>
+    <div class="col-12 w-100">
+		<form class="global-search" role="form" action="/searchissues" method="get">
+			<div class="input-group">
+				<input type="text" class="form-control" id="search-box" name="query" placeholder="O que você está procurando?">
+				<div class="input-group-btn">
+					<button class="btn btn-primary" type="submit"><span><i class="glyphicon glyphicon-search"></i> Pesquisar</span></button>
+				</div>
+			</div>
+		</form>
     </div>
 </div>
-
 
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="//code.jquery.com/jquery-1.12.4.min.js"></script>
