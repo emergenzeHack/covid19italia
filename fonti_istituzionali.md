@@ -1,8 +1,8 @@
 ---
 lang: pt
 layout: page
-title: Fonti istituzionali emergenza coronavirus | Fonti ufficiali
-subtitle: Tutte le fonti istituzionali da consultare per avere informazioni di prima mano sull'emergenza coronavirus
+title: Fontes institucionais de emergência por coronavírus | Fontes oficiais
+subtitle: As fontes institucionais a consultar para obter informações em primeira mão sobre a emergência do coronavírus
 permalink: institucionais/
 ---
 <div class="panel-group">
