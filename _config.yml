@@ -19,7 +19,7 @@ dataurl: "https://github.com/emergenzeHack/covid19pt_data.git"
 title: Covid19People.help
 
 # Logo description
-logo-description: Il logo di covid19italia due cerchi concentrici uno rosso e uno verde ed all'esterno dei semicerchi sparsi
+logo-description: O logotipo covid19italia dois círculos concêntricos um vermelho e um verde e fora dos semicírculos dispersos
 
 # Short description of your site
 description: Um projeto para compartilhar informações e tomar medidas para apoiar a emergência COVID19
@@ -39,18 +39,18 @@ avatar: /images/covid19italia.png
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: COVID19Italia
-  email: "mailto:covid19ita@gmail.com"
-  facebook: covid19italia.help  # eg. daattali
+  email: "mailto:covid19pt.help@gmail.com"
+  facebook: Covid19PThelp  # eg. daattali
   facebook_group: 2921275147894653
   github: emergenzeHack/covid19italia    # eg. daattali
-  twitter: ItaliaCovid19   # eg. daattali
+  twitter: Covid19PThelp   # eg. daattali
   #linkedin:   # eg. daattali
   #xing:       # eg. daattali
   #stackoverflow:   # eg. "3943160/daattali"
-  instagram: covid19italia.help # eg. daattali
+  instagram: not yet # eg. daattali
   #youtube: yourlink # eg. user/daattali or channel/daattali
   #rss: https://emergenzehack.github.io/covid19italia/feed.xml
-  telegram: https://t.me/COVID19I
+  telegram: not yet
   #medium: https://medium.com/@covid19italia
   #archiveorg: https://archive.org/details/@covid19italia
   #messenger: messenger
@@ -70,9 +70,9 @@ footer-links-active:
   linkedin: false
   xing: false
   stackoverflow: false
-  instagram: true
+  instagram: false
   youtube: false
-  telegram: true
+  telegram: false
   medium: false
   archiveorg: false
   messenger: false
@@ -91,7 +91,7 @@ share-links-active:
   linkedin: false
   xing: false
   stackoverflow: false
-  instagram: true
+  instagram: false
   youtube: false
   telegram: true
   medium: false
@@ -100,7 +100,7 @@ share-links-active:
   waze: false
   flickr: false
   telegram_bot: false
-  telegram_group: true
+  telegram_group: false
   rss: true
   link: true
 
@@ -111,10 +111,10 @@ share-links-active:
 # --- Misc --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "covid19italia"
+disqus: to do
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-128871385-2"
+google_analytics: to do
 
 jekyll-crosseverything_to_medium:
   enabled: false
@@ -366,8 +366,8 @@ categorieissue:
 # Impostazioni mappa
 
 issuemap:
-        center: 39.55488,-7.62451
-        zoom: 6
+        center: 40.38003,-21.33545 
+        zoom: 5
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
