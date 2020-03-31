@@ -6,7 +6,7 @@ lang: en
 ---
 
 <div class="homepage-categories">
-{% assign categories_without_map = site.data.logos | where: "map", false %}
+{% assign categories_without_map = site.data.cfg.logos | where: "map", false %}
 {% for category in categories_without_map %}
   {% capture logo_alt %}
     {{ category.name_en }}

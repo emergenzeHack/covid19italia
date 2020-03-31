@@ -71,7 +71,7 @@ subtitle: Un progetto per condividere informazioni e attivarsi a supporto dell'e
 </script>
 
 <div class="homepage-categories mt-4">
-{% assign categories_without_map = site.data.logos | where: "map", false %}
+{% assign categories_without_map = site.data.cfg.logos | where: "map", false %}
 {% for category in categories_without_map %}
   {% capture logo_alt %}
     {{ category.name }}
