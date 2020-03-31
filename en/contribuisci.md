@@ -63,11 +63,14 @@ Labels should be the same listed in "categorieissue" tag in _config.yml file ins
 ### On Kobo Toolbox
 - At least a [Kobo](https://kobo.humanitarianresponse.info/) Toolbox account in order to manage your webforms and translate them. We will share basic form that you have to translate in your language in this way:
   - Go into your Kobo Profile and search the web form shared by us.
-  - Under "Current version" of Web Form click on the world icon "Manage Translations"
+  - Under "Current version" of each Web Form click on the world icon "Manage Translations"
   - Add a "your" language on the Kobo Forms
+  ![](https://forum-kobotoolbox-org.s3.dualstack.us-east-1.amazonaws.com/optimized/2X/0/0be1721da99bc245b0d1d1203a20690c30b7ae5e_2_690x281.png)
   - Near the desired language, click again the world icon "Update Translations" and add translation
+  ![](https://forum-kobotoolbox-org.s3.dualstack.us-east-1.amazonaws.com/optimized/2X/2/2c41a2643b1b35ce5d96979637adbf4c1a195288_2_690x339.png)
   - Set "your" language as default
   - Re-deploy the form
+  ![](https://user-images.githubusercontent.com/368961/33343306-cc3ad2b6-d452-11e7-971b-3480e6ae2257.png)
 
 **From the moment when you will integrate your Moderation Team will be able to see in the Github Reports repo your reports, will accept the reports and then the reports will be publish on the website.**
 
