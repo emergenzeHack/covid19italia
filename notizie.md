@@ -22,4 +22,3 @@ permalink: /notícias/
 </div>
 </div>
 {% endfor %}
-</div>
