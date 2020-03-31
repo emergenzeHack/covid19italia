@@ -3,7 +3,7 @@ layout: page
 ---
 
 <div class="row">
-    {% for provincia in site.data.province[page.regione] %}
+    {% for provincia in site.data.geo.province[page.regione] %}
   <span class="col-12 col-sm-6">
       <a href="/issues/regione/{{page.regione | replace: "'", "" | slugify}}/{{provincia.nome_provincia | replace: "'", "" | slugify}}" class="btn btn-success btn-block col-12 mb-15" role="button">{{provincia.nome_provincia}}</a>
   </span>

@@ -50,14 +50,28 @@ Here the basic step to integrate you in our platform (we can support you in this
 
 - Be sure that you have a list of LABELS to organize your reports in categories (example: request of help, news, fake news etc etc...).
 
+#### Technical remarks for GitHub Side
+
+- Github Repo of the data as used to store you reports dataset and is used by Github Repo of website to build website.
+- In the Github Repo to store reports as issue you have to define a list of LABELS to categorized the issues. They will be the tags that you'll can manage in the frontend of the website. Remember to define a label "Approvato" to accept a reports.
+Labels should be the same listed in "categorieissue" tag in [_config.yml](https://github.com/emergenzeHack/covid19italia/blob/master/_config.yml) file inside the repo of the website.
+- In the repo of the website you have to do at least this actions on the frontend sites
+  - Adjust [_config.yml](https://github.com/emergenzeHack/covid19italia/blob/master/_config.yml) file as you prefer
+  - For each page of reports categories you must configure the permalink, title and the relative LABEL in the page
+  - Adjust the maps on your country
+
 ### On Kobo Toolbox
 - At least a [Kobo](https://kobo.humanitarianresponse.info/) Toolbox account in order to manage your webforms and translate them. We will share basic form that you have to translate in your language in this way:
   - Go into your Kobo Profile and search the web form shared by us.
-  - Under "Current version" of Web Form click on the world icon "Manage Translations"
+  - Under "Current version" of each Web Form click on the world icon "Manage Translations"
   - Add a "your" language on the Kobo Forms
+  ![](https://forum-kobotoolbox-org.s3.dualstack.us-east-1.amazonaws.com/optimized/2X/0/0be1721da99bc245b0d1d1203a20690c30b7ae5e_2_690x281.png)
   - Near the desired language, click again the world icon "Update Translations" and add translation
+  ![](https://forum-kobotoolbox-org.s3.dualstack.us-east-1.amazonaws.com/optimized/2X/2/2c41a2643b1b35ce5d96979637adbf4c1a195288_2_690x339.png)
   - Set "your" language as default
   - Re-deploy the form
+  ![](https://user-images.githubusercontent.com/368961/33343306-cc3ad2b6-d452-11e7-971b-3480e6ae2257.png)
+Take note of the hyperlinks of all your webforms that will be embedded in the pages of [_segnalazioni](https://github.com/emergenzeHack/covid19italia/tree/master/_segnalazioni) folder.
 
 **From the moment when you will integrate your Moderation Team will be able to see in the Github Reports repo your reports, will accept the reports and then the reports will be publish on the website.**
 
