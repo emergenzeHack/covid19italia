@@ -3,7 +3,7 @@ lang: pt
 layout: page
 title: News Coronavirus Italia | Notizie utili
 subtitle: Tutte le news verificate dal team di Covid19Italia.Help sull'emergenza coronavirus
-permalink: /notizie-utili/
+permalink: /notícias/
 ---
 
 {% assign filteredissues = site.data.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'Notizie'" %}

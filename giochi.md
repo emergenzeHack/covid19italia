@@ -2,7 +2,7 @@
 lang: pt
 layout: page
 title: Giochi e Intrattenimento per bambini
-permalink: /giochi/
+permalink: /jogos-entretenimento-para-crianças/
 ---
 
 <div class="panel-group">

@@ -2,7 +2,7 @@
 lang: pt
 layout: issuelist
 title: Attività Culturali
-permalink: /iniziative-culturali-e-ricreative/
+permalink: /iniciativas-culturais-e-recreativas/
 categorieissue: Attivita culturali e ricreative;Attivita culturali e ricreative
 ---
 
