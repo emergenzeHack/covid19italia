@@ -57,7 +57,8 @@ author:
   #telegram_bot: to do
   #androidapp: to do
   #messenger: to do
-  telegram_group: https://t.me/COVID19I
+  #telegram_group: https://t.me/COVID19I
+  slack: covid19peoplehelp.slack.com
 
 # Select which links to show in the footer
 footer-links-active:
