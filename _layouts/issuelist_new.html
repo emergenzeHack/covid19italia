@@ -1,0 +1,271 @@
+---
+layout: page
+---
+
+{%- assign openissues = site.data.issuesjson | where: "state","open" -%}
+
+{%- if page.nome_provincia != blank -%}
+    {%- assign geofilteredissues = openissues | where_exp: "member", "member.issue.provincia == page.nome_provincia" -%}
+{%- else -%}
+    {%- if page.nome_regione != blank -%}
+        {%- assign geofilteredissues = openissues |  where_exp: "member", "member.issue.regione == page.nome_regione" -%}
+    {%- else -%}
+        {%- assign geofilteredissues = openissues  -%}
+    {%- endif -%}
+{%- endif -%}
+
+{%- if page.categorieissue -%}
+{%- assign categorieissue = page.categorieissue -%}
+{%- else -%}
+{%- assign categorieissue = site.categorieissue -%}
+{%- endif -%}
+
+{{content}}
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+   integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+   crossorigin=""/>
+
+   <!-- Make sure you put this AFTER Leaflet's CSS -->
+ <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+   integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+   crossorigin=""></script>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.min.js"></script>
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css"
+   crossorigin=""/>
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css"
+   crossorigin=""/>
+
+ <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"
+   crossorigin=""></script>
+
+<style>
+#map{ height: 600px; }
+</style>
+
+<div class="row">
+
+<div class="col-md-12 col-sm-12 col-12"> <div id="map" class="w-100" style="height: 600px;"></div> </div>
+
+
+{%- assign allcatfilteredissues = '' | split: '' -%}
+{%- for categoriatuple in categorieissue -%}
+{%- assign categoria = categoriatuple | split: ";" -%}
+
+{%- assign filteredissues = geofilteredissues | where_exp: "member","member.issue.labels contains categoria[1]" -%}
+{%- if filteredissues.size > 0 -%}
+<div class="row">
+    {%- assign allcatfilteredissues = allcatfilteredissues | concat: filteredissues | uniq -%}
+    <div class="row">
+        <div class="col-12">
+            <h2 id="{{categoria[0]|slugify}}">{{categoria[0]}} <span class="badge badge-pill badge-primary">{{filteredissues.size}}</span></h2>
+            {%- if page.justLatestIssues -%}
+            {%- assign filteredissues = filteredissues | sort: 'number' | reverse | slice: 0,10 -%}
+            {%- endif -%}
+            {%- for member in filteredissues -%}
+            <div class="col-md-12 col-sm-12 col-12 mb-15">
+                <div class="card" id="issue{{member.number}}">
+                    <div class="card-body issuepanel">
+                        <a href="{{site.url}}/issues/{{member.number}}"><h4 class="card-title">{{member.title}}</h4></a>
+                        <dl class="row">
+                            {%- for item in member.issue.data -%}
+                            {%- if item[1] != blank -%}
+                            <dt class="col-sm-3">{{item[0] | replace: "_", " " | capitalize_all}}</dt>
+                            {%- if item[0] == "Descrizione" -%}
+                            {%- assign itemrepr = item[1] | newline_to_br | auto_link -%}
+                            <dd class="col-sm-9">
+                            {%- assign itemsummary = itemrepr | truncatewords: 10,"" -%}
+                            {%- assign itemrest = itemrepr | remove_first: itemsummary -%}
+                            <details>
+                                <summary>{{itemsummary}}</summary>
+                                <p>{{itemrest}}</p>
+                            </details>
+                            </dd>
+                            {%- else -%}
+                            <dd class="col-sm-9">{{item[1] | newline_to_br | auto_link | truncatewords: 100}}</dd>
+                            {%- endif -%}
+                            {%- endif -%}
+                            {%- endfor -%}
+                        </dl>
+                        {%- include social-share-issue.html -%}
+                    </div>
+                </div>
+            </div>
+            {%- endfor -%}
+            <hr />
+        </div>
+    </div>
+    {%- if page.justLatestIssues -%}
+    <div class="row">
+        <div class="col"><a href="/{{categoria[0] | slugify}}" class="btn btn-primary btn-lg">Vedi tutte {{categoria[0]}}</a></div>
+    </div>
+</div>
+<hr />
+<p></p>
+
+{%- endif -%}
+{%- endif -%}
+{%- endfor -%}
+
+{%- if page.categorieMapAll -%}
+{%- assign filteredissues = geofilteredissues -%}
+{%- else -%}
+{%- assign filteredissues = allcatfilteredissues -%}
+{%- endif -%}
+</div>
+
+<script>
+var markerList=[];
+
+{%- for member in filteredissues -%}
+    {%- if member.issue.data.Posizione != blank -%}
+        {%- assign labels = member.issue.labels -%}
+        {%- assign coordinate = member.issue.data.Posizione | split: ' ' -%}
+        markerList.push([{{coordinate[0]}}, {{coordinate[1]}}, "{{member.title|uri_escape}}", "{{ member.number }}", {{labels}}]);
+    {%- endif -%}
+{%- endfor -%}
+
+// define icons
+var iniziativeSolidali = L.AwesomeMarkers.icon({icon: 'handshake-o', markerColor: 'blue', prefix: 'fa'}); // iniziative solidali pubbliche e private
+var raccolteFondi = L.AwesomeMarkers.icon({icon: 'eur', markerColor: 'purple', prefix: 'fa'});
+var richiestaAiuto = L.AwesomeMarkers.icon({icon: 'question', markerColor: 'darkblue', prefix: 'fa'});
+var supportoPsicologico = L.AwesomeMarkers.icon({icon: 'phone', markerColor: 'green', prefix: 'fa'});
+var iconaDefault = L.AwesomeMarkers.icon({icon: '', markerColor: 'darkpurple'});
+
+// initialize the map
+var map = L.map('map', {
+  scrollWheelZoom: false
+})
+
+// create the tile layer with correct attribution
+var osmUrl='{{site.tile_map}}';
+var osmAttrib='&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>, Tiles courtesy of <a href="http://hot.openstreetmap.org/" target="_blank">Humanitarian OpenStreetMap Team</a>';
+var osm = new L.TileLayer(osmUrl, {minZoom: 5, maxZoom: 19, attribution: osmAttrib});
+
+
+var sumLat = 0.;
+var sumLon = 0.;
+
+markers = L.markerClusterGroup();
+
+for (var i=0; i<markerList.length; i++) {
+    var lat = markerList[i][0];
+    var lon = markerList[i][1];
+    var popupText = markerList[i][2];
+    var popupURL = markerList[i][3];
+    var labels = markerList[i][4];
+    var iconaFinale;
+
+    // Raccolte fondi, Supporto psicologico, Servizi e iniziative solidali pubbliche, Servizi e iniziative solidali private, Richiesta aiuto
+
+    if (labels.indexOf("Raccolte fondi") >= 0) {
+        iconaFinale = raccolteFondi;
+    } else if (labels.indexOf("Supporto psicologico") >= 0) {
+        iconaFinale = supportoPsicologico;
+    } else if (labels.indexOf("Servizi e iniziative solidali pubbliche") >= 0 || labels.indexOf("Servizi e iniziative solidali private") >= 0) {
+        iconaFinale = iniziativeSolidali;
+    } else if (labels.indexOf("Richiesta aiuto") >= 0) {
+        iconaFinale = richiestaAiuto;
+    } else {
+        iconaFinale = iconaDefault;
+    }
+
+    if (!isNaN(lat) && !isNaN(lon)) {
+        var markerLocation = new L.LatLng(lat, lon);
+        var marker = new L.Marker(markerLocation, {icon: iconaFinale});
+
+        markers.addLayer(marker);
+
+        marker.bindPopup("<a href=\"/issues/" + popupURL + "\">" + decodeURI(popupText) + "</a>");
+
+        sumLat += lat;
+        sumLon += lon;
+    }
+}
+
+map.addLayer(markers);
+
+map.addLayer(osm).setView([{{site.issuemap.center}}], {{site.issuemap.zoom}});
+
+//var group = new L.featureGroup([marker1, marker2, marker3]);
+
+{%- if page.fitBounds -%}
+map.fitBounds(markers.getBounds().pad(0.3));
+{%- endif -%}
+
+function getFeaturesInView() {
+    //console.log("getFeaturesInView");
+    var featuresInView = [];
+    var featuresNotInView = [];
+    for (var i=0; i<markerList.length; i++) {
+        if(map.getBounds().contains(L.latLng(markerList[i][0],markerList[i][1]))) {
+            featuresInView.push(markerList[i]);
+        } else {
+            featuresNotInView.push(markerList[i]);
+        }
+    }
+    return [featuresInView,featuresNotInView];
+}
+
+function setVisible(element) {
+    $("#issue"+element[3]).show();
+    //console.log("Show #issue"+element[3]);
+}
+function setInVisible(element) {
+    $("#issue"+element[3]).hide();
+    //console.log("Hide #issue"+element[3]);
+}
+
+function onMoveEnd(evt) {
+    [inView,notInView]=getFeaturesInView();
+    console.log(notInView);
+    console.log(inView);
+    notInView.forEach(setInVisible);
+    inView.forEach(setVisible);
+}
+
+map.on('moveend', onMoveEnd);
+
+//var geocoder = L.Control.geocoder({collapsed:false,placeholder:"Cerca...",
+//        defaultMarkGeocode: false, geocodingQueryParams: { countrycodes: "it" },
+//        })
+//.on('markgeocode', function(e) {
+//        var latlon=e.geocode.center;
+//        $("#lat").html(latlon.lat);
+//        $("#lng").html(latlon.lng);
+//        var marker = new L.Marker(markerLocation);
+//        map.addLayer(marker);
+//        })
+//.addTo(map);
+
+/**
+ * Get the URL parameters
+ * source: https://css-tricks.com/snippets/javascript/get-url-variables/
+ * @param  {String} url The URL
+ * @return {Object}     The URL parameters
+ */
+var getParams = function (url) {
+	var params = {};
+	var parser = document.createElement('a');
+	parser.href = url;
+	var query = parser.search.substring(1);
+	var vars = query.split('&');
+	for (var i = 0; i < vars.length; i++) {
+		var pair = vars[i].split('=');
+		params[pair[0]] = decodeURIComponent(pair[1]);
+	}
+	return params;
+};
+
+function processParams (){
+        params = getParams(window.location.href);
+        //console.log(params);
+}
+
+window.onload = processParams;
+
+</script>
