@@ -77,6 +77,8 @@ Take note of the hyperlinks of all your webforms that will be embedded in the pa
 
 **From the moment when you will integrate your Moderation Team will be able to see in the Github Reports repo your reports, will accept the reports and then the reports will be publish on the website.**
 
+**Our Moderation Team suggest a [policy like this one](policy) to manage reports and socials.**
+
 Here a little diagram to explain how the project is organized in multi-country configuration. We wait you! Thanks!
 
 ![](https://raw.githubusercontent.com/emergenzeHack/covid19italia/master/images/diagramma%20(1).png)
