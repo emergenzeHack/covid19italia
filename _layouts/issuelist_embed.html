@@ -1,7 +1,7 @@
 ---
 layout: bare
 ---
-
+<div class="container-fluid">
 {% assign openissues = site.data.issuesjson | where: "state","open" %}
 
 {% if page.nome_provincia != blank %}
@@ -82,6 +82,8 @@ layout: bare
 </div>
 {% endif %}
 {% endfor %}
+
+</div>
 
 {% if page.categorieMapAll %}
 {% assign filteredissues = geofilteredissues %}
