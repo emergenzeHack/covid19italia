@@ -14,10 +14,10 @@ layout: page
     {%- endif -%}
 {%- endif -%}
 
-{%- if page.categorieissue -%}
-{%- assign categorieissue = page.categorieissue -%}
+{%- if page.issuecategories -%}
+{%- assign issuecategories = page.issuecategories -%}
 {%- else -%}
-{%- assign categorieissue = site.categorieissue -%}
+{%- assign issuecategories = data.cfg.issuecategories[lang] -%}
 {%- endif -%}
 
 {{content}}
@@ -53,7 +53,7 @@ layout: page
 
 
 {%- assign allcatfilteredissues = '' | split: '' -%}
-{%- for categoriatuple in categorieissue -%}
+{%- for categoriatuple in issuecategories -%}
 {%- assign categoria = categoriatuple | split: ";" -%}
 
 {%- assign filteredissues = geofilteredissues | where_exp: "member","member.issue.labels contains categoria[1]" -%}
