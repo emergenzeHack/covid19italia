@@ -1,9 +1,9 @@
 ---
 lang: it
 layout: issuelist
-title: Attività Culturali
+title: Iniziative Culturali e Ricreative
 permalink: /iniziative-culturali-e-ricreative/
-issuecategories: 
+issuecategories:
   it:
     -
       - Attivita culturali e ricreative
