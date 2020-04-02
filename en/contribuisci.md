@@ -25,6 +25,8 @@ You can contribute in different ways:
 
 * Do you have other active citizens or associations? Ok. You can also contribute to the translation in your country languages, translate part of the website and then you can pull request in the Github Repo Or you can send your translation with a specific issue [here](https://github.com/emergenzeHack/covid19italia/issues) asking to add the translation.
 
+* To discuss with us in the project chat you can join our [Slack](https://covid19peoplehelp.slack.com)
+
 ## How organize your community to crowdsource reports?
 
 In addition to civic hacker community the most important part of the project is composed by a Reports Moderation Team.
@@ -60,6 +62,8 @@ Here the basic step to integrate you in our platform (we can support you in this
   - Re-deploy the form
 
 **From the moment when you will integrate your Moderation Team will be able to see in the Github Reports repo your reports, will accept the reports and then the reports will be publish on the website.**
+
+**Our Moderation Team suggest a [policy like this one](../policy/) to manage reports and socials.**
 
 Here a little diagram to explain how the project is organized in multi-country configuration. We wait you! Thanks!
 

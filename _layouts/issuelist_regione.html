@@ -15,20 +15,19 @@ categorieMapAll: True
         {% assign geofilteredissues = openissues  %}
     {% endif %}
 {% endif %}
-{% if page.categorieissue %}
-{% assign categorieissue = page.categorieissue %}
+{% if page.issuecategories %}
+{% assign issuecategories = page.issuecategories[page.lang] %}
 {% else %}
-{% assign categorieissue = site.categorieissue %}
+{% assign issuecategories = site.data.cfg.issuecategories[page.lang] %}
 {% endif %}
 
 <a href="/issues/regione/{{page.nome_regione | replace: "'", "" | slugify}}/province.html"class="btn btn-primary btn-lg btn-block col-12 mb-15" role="button">Segnalazioni per provincia</a>
 
 
 <div class="row mx-auto">
-{% for categoriatuple in categorieissue %}
-{% assign categoria = categoriatuple | split: ";" %}
+{% for category in issuecategories %}
   <div class="col-12 col-sm-6 mb-15">
-	  <a href="#{{categoria[0] | slugify}}" class="btn btn-success btn-block" role="button" id="button_{{categoria[0] | slugify}}">{{categoria[0]}}</a>
+	  <a href="#{{category[0] | slugify}}" class="btn btn-success btn-block" role="button" id="button_{{category[0] | slugify}}">{{category[0]}}</a>
 	</div>
 {% endfor %}
 </div>

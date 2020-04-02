@@ -6,7 +6,7 @@ permalink: /mappe/
 ---
 
 <div class="homepage-categories">
-{% for category in site.data.logos %}
+{% for category in site.data.cfg.logos %}
   {% if category.map == true %}
     {% capture logo_alt %}{{ category.name }}{% if category.logo_credit and category.logo_credit != empty %} logo by {{ category.logo_credit }}{% endif %}{% endcapture %}
     <a href="{{ site.baseurl }}/{{ category.link | slugify }}" class="thumbnail" title="{{ logo_alt }}">

@@ -12,7 +12,7 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="nav navbar-nav ml-auto">
-            {% for item in site.data.navigation.languages %}
+            {% for item in site.data.i18n.navigation.languages %}
             {% if item.language == site.lang %}
             {% for link in item.navbar-links %}
             {% if link[1].first %}

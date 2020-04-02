@@ -8,7 +8,7 @@ permalink: /issues/regione/
 
 
 <div class="row">
-{%- for regione in site.data.regioni -%}
+{%- for regione in site.data.geo.regioni -%}
 <div class="col-md-6 col-sm-12 col-xs-12 mb-15">
 	  <a href="/issues/regione/{{regione.nome_regione | replace: "'", "" | slugify}}/" class="btn btn-success btn-block" >{{regione.nome_regione}}</a>
 </div>

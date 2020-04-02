@@ -57,7 +57,8 @@ author:
   #telegram_bot: to do
   #androidapp: to do
   #messenger: to do
-  telegram_group: https://t.me/COVID19I
+  #telegram_group: https://t.me/COVID19I
+  slack: https://covid19peoplehelp.slack.com
 
 # Select which links to show in the footer
 footer-links-active:
@@ -240,128 +241,12 @@ page_gen:
       template: issue
       name: number
       dir: issues
-      #    - index_files: true
-      #      data: regioni
-      #      template: issuelist_regione
-      #      dir: issues/regione/
-      #      name: nome_regione
-      #    - index_files: true
-      #      data: province.Abruzzo
-      #      template: issuelist_provincia
-      #      dir: issues/regione/abruzzo
-      #      name: nome_provincia
-      #    - index_files: true
-      #      data: province.Basilicata
-      #      template: issuelist_provincia
-      #      dir: issues/regione/basilicata
-      #      name: nome_provincia
-      #    - index_files: true
-      #      data: province.Calabria
-      #      template: issuelist_provincia
-      #      dir: issues/regione/calabria
-      #      name: nome_provincia
-      #    - index_files: true
-      #      data: province.Campania
-      #      template: issuelist_provincia
-      #      dir: issues/regione/campania
-      #      name: nome_provincia
-      #    - index_files: true
-      #      data: province.Emilia-Romagna
-      #      template: issuelist_provincia
-      #      dir: issues/regione/emilia-romagna
-      #      name: nome_provincia
-      #    - index_files: true
-      #      data: province.Friuli Venezia Giulia
-      #      template: issuelist_provincia
-      #      dir: issues/regione/friuli-venezia-giulia
-      #      name: nome_provincia
-      #    - index_files: true
-      #      data: province.Lazio
-      #      template: issuelist_provincia
-      #      dir: issues/regione/lazio
-      #      name: nome_provincia
-      #    - index_files: true
-      #      data: province.Liguria
-      #      template: issuelist_provincia
-      #      dir: issues/regione/liguria
-      #      name: nome_provincia
-      #    - index_files: true
-      #      data: province.Lombardia
-      #      template: issuelist_provincia
-      #      dir: issues/regione/lombardia
-      #      name: nome_provincia
-      #    - index_files: true
-      #      data: province.Marche
-      #      template: issuelist_provincia
-      #      dir: issues/regione/marche
-      #      name: nome_provincia
-      #    - index_files: true
-      #      data: province.Molise
-      #      template: issuelist_provincia
-      #      dir: issues/regione/molise
-      #      name: nome_provincia
-      #    - index_files: true
-      #      data: province.Piemonte
-      #      template: issuelist_provincia
-      #      dir: issues/regione/piemonte
-      #      name: nome_provincia
-      #    - index_files: true
-      #      data: province.Puglia
-      #      template: issuelist_provincia
-      #      dir: issues/regione/puglia
-      #      name: nome_provincia
-      #    - index_files: true
-      #      data: province.Sardegna
-      #      template: issuelist_provincia
-      #      dir: issues/regione/sardegna
-      #      name: nome_provincia
-      #    - index_files: true
-      #      data: province.Sicilia
-      #      template: issuelist_provincia
-      #      dir: issues/regione/sicilia
-      #      name: nome_provincia
-      #    - index_files: true
-      #      data: province.Toscana
-      #      template: issuelist_provincia
-      #      dir: issues/regione/toscana
-      #      name: nome_provincia
-      #    - index_files: true
-      #      data: province.Trentino-Alto Adige
-      #      template: issuelist_provincia
-      #      dir: issues/regione/trentino-alto-adige
-      #      name: nome_provincia
-      #    - index_files: true
-      #      data: province.Umbria
-      #      template: issuelist_provincia
-      #      dir: issues/regione/umbria
-      #      name: nome_provincia
-      #    - index_files: true
-      #      data: province.Valle d'Aosta
-      #      template: issuelist_provincia
-      #      dir: issues/regione/valle-daosta
-      #      name: nome_provincia
-      #    - index_files: true
-      #      data: province.Veneto
-      #      template: issuelist_provincia
-      #      dir: issues/regione/veneto
-      #      name: nome_provincia
 
 
 jekyll_tidy:
   exclude: []
   compress_html: true
 
-categorieissue:
- - angariação de fundos;angariação de fundos
- - jogos/entretenimento para crianças;jogos/entretenimento para crianças
- - serviços e iniciativas de solidariedade;serviços e iniciativas de solidariedade
- - iniciativas culturais e recreativas;iniciativas culturais e recreativas
- - entregas e comissões;entregas e comissões
- - apoio psicológico;apoio psicológico
- - apoio ao trabalho e aos negócios;apoio ao trabalho e aos negócios
- - doações de bens e serviços;doações de bens e serviços
- - ensino à distância por e-learning;ensino à distância por e-learning
- - notícias;notícias
 
 # Impostazioni mappa
 

@@ -157,13 +157,13 @@ permalink: /canali/
             </a>archivio dati
           </li>
           {% endif %}
-          {% if site.author.telegram_group %}
+          {% if site.author.slack %}
 	         <li>
-            <a href="{{ site.author.telegram_group }}" title="Bot Telegram un robot testuale che risponde automaticamente.">
-              <span class="fa-stack fa-lg" aria-label="Logo riferito al RoBot testuale su Telegram." role="img">
+            <a href="{{ site.author.slack }}" title="Slack">
+              <span class="fa-stack fa-lg" aria-label="Logo Slack" role="img">
                 <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
                 <i class="fa fa-paper-plane fa-stack-1x fa-inverse" aria-hidden="true"></i>
-              </span>&nbsp;&nbsp;Gruppo Telegram
+              </span>&nbsp;&nbsp;Gruppo Slack
             </a><span>per coordinarci internamente</span>
           </li>
           {% endif %}
