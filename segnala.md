@@ -19,7 +19,7 @@ permalink: /segnala/
   </a>
 
   <a class="btn btn-outline-dark btn-block btn-form " href="/segnala/raccolta-fondi">Segnala Raccolta Fondi</a>
-  <a class="btn btn-outline-dark btn-block btn-form" href="/segnala/contatto-utile">Segnala Contatto utile</a>
+  <!--<a class="btn btn-outline-dark btn-block btn-form" href="/segnala/contatto-utile">Segnala Contatto utile</a>-->
   <a class="btn btn-outline-dark btn-block btn-form" href="/segnala/bufala">Segnala Bufala</a>
   <a class="btn btn-outline-dark btn-block btn-form" href="/segnala/documenti-dati">Segnala Documenti/Dati</a>
   <a class="btn btn-outline-dark btn-block btn-form" href="/segnala/notizia">Segnala Notizia</a>
