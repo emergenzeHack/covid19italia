@@ -352,17 +352,6 @@ jekyll_tidy:
   exclude: []
   compress_html: true
 
-categorieissue:
- - Raccolte fondi;Raccolte fondi
- - Giochi/intrattenimento bambini;Giochi/intrattenimento bambini
- - Servizi e iniziative solidali;Servizi e iniziative solidali
- - Iniziative culturali e ricreative;Attivita culturali e ricreative
- - Consegne e commissioni;Consegne e commissioni
- - Supporto psicologico;Supporto psicologico
- - Sostegno lavoro e imprese;Sostegno lavoro e imprese
- - Donazioni beni e Offerte servizi;Donazioni beni/strumenti
- - Didattica a distanza e-learning;Didattica a distanza e-learning
- - Notizie Utili;Notizie Utili
 
 # Impostazioni mappa
 
