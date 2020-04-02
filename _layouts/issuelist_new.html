@@ -2,23 +2,23 @@
 layout: page
 ---
 
-{% assign openissues = site.data.issuesjson | where: "state","open" %}
+{%- assign openissues = site.data.issuesjson | where: "state","open" -%}
 
-{% if page.nome_provincia != blank %}
-    {% assign geofilteredissues = openissues | where_exp: "member", "member.issue.provincia == page.nome_provincia" %}
-{% else %}
-    {% if page.nome_regione != blank %}
-        {% assign geofilteredissues = openissues |  where_exp: "member", "member.issue.regione == page.nome_regione" %}
-    {% else %}
-        {% assign geofilteredissues = openissues  %}
-    {% endif %}
-{% endif %}
+{%- if page.nome_provincia != blank -%}
+    {%- assign geofilteredissues = openissues | where_exp: "member", "member.issue.provincia == page.nome_provincia" -%}
+{%- else -%}
+    {%- if page.nome_regione != blank -%}
+        {%- assign geofilteredissues = openissues |  where_exp: "member", "member.issue.regione == page.nome_regione" -%}
+    {%- else -%}
+        {%- assign geofilteredissues = openissues  -%}
+    {%- endif -%}
+{%- endif -%}
 
-{% if page.issuecategories %}
-{% assign issuecategories = page.issuecategories[page.lang] %}
-{% else %}
-{% assign issuecategories = site.data.cfg.issuecategories[page.lang] %}
-{% endif %}
+{%- if page.issuecategories -%}
+{%- assign issuecategories = page.issuecategories -%}
+{%- else -%}
+{%- assign issuecategories = data.cfg.issuecategories[lang] -%}
+{%- endif -%}
 
 {{content}}
 
@@ -51,61 +51,89 @@ layout: page
 
 <div class="col-md-12 col-sm-12 col-12"> <div id="map" class="w-100" style="height: 600px;"></div> </div>
 
-{% assign allcatfilteredissues = '' | split: '' %}
-{% for category in issuecategories %}
 
-{% assign filteredissues = geofilteredissues | where_exp: "member","member.issue.labels contains category[1]" %}
-{% if filteredissues.size > 0 %}
-{% assign allcatfilteredissues = allcatfilteredissues | concat: filteredissues | uniq %}
+{%- assign allcatfilteredissues = '' | split: '' -%}
+{%- for categoriatuple in issuecategories -%}
+{%- assign categoria = categoriatuple | split: ";" -%}
+
+{%- assign filteredissues = geofilteredissues | where_exp: "member","member.issue.labels contains categoria[1]" -%}
+{%- if filteredissues.size > 0 -%}
 <div class="row">
-    <div class="col-12">
-        <h2 id="{{category[0]|slugify}}">{{category[0]}} <span class="badge badge-pill badge-primary">{{filteredissues.size}}</span></h2>
-        {% for member in filteredissues %}
-        <div class="col-md-12 col-sm-12 col-12 mb-15">
-            <div class="card" id="issue{{member.number}}">
-                <div class="card-body issuepanel">
-                    <a href="{{site.url}}/issues/{{member.number}}"><h4 class="card-title">{{member.title}}</h4></a>
+    {%- assign allcatfilteredissues = allcatfilteredissues | concat: filteredissues | uniq -%}
+    <div class="row">
+        <div class="col-12">
+            <h2 id="{{categoria[0]|slugify}}">{{categoria[0]}} <span class="badge badge-pill badge-primary">{{filteredissues.size}}</span></h2>
+            {%- if page.justLatestIssues -%}
+            {%- assign filteredissues = filteredissues | sort: 'number' | reverse | slice: 0,10 -%}
+            {%- endif -%}
+            {%- for member in filteredissues -%}
+            <div class="col-md-12 col-sm-12 col-12 mb-15">
+                <div class="card" id="issue{{member.number}}">
+                    <div class="card-body issuepanel">
+                        <a href="{{site.url}}/issues/{{member.number}}"><h4 class="card-title">{{member.title}}</h4></a>
                         <dl class="row">
-                            {% for item in member.issue.data %}
-                            {% if item[1] != blank %}
+                            {%- for item in member.issue.data -%}
+                            {%- if item[1] != blank -%}
                             <dt class="col-sm-3">{{item[0] | replace: "_", " " | capitalize_all}}</dt>
+                            {%- if item[0] == "Descrizione" -%}
+                            {%- assign itemrepr = item[1] | newline_to_br | auto_link -%}
+                            <dd class="col-sm-9">
+                            {%- assign itemsummary = itemrepr | truncatewords: 10,"" -%}
+                            {%- assign itemrest = itemrepr | remove_first: itemsummary -%}
+                            <details>
+                                <summary>{{itemsummary}}</summary>
+                                <p>{{itemrest}}</p>
+                            </details>
+                            </dd>
+                            {%- else -%}
                             <dd class="col-sm-9">{{item[1] | newline_to_br | auto_link | truncatewords: 100}}</dd>
-                            {% endif %}
-                            {% endfor %}
+                            {%- endif -%}
+                            {%- endif -%}
+                            {%- endfor -%}
                         </dl>
-                    {% include social-share-issue.html %}
+                        {%- include social-share-issue.html -%}
+                    </div>
                 </div>
             </div>
+            {%- endfor -%}
+            <hr />
         </div>
-        {% endfor %}
+    </div>
+    {%- if page.justLatestIssues -%}
+    <div class="row">
+        <div class="col"><a href="/{{categoria[0] | slugify}}" class="btn btn-primary btn-lg">Vedi tutte {{categoria[0]}}</a></div>
     </div>
 </div>
-{% endif %}
-{% endfor %}
+<hr />
+<p></p>
 
-{% if page.categorieMapAll %}
-{% assign filteredissues = geofilteredissues %}
-{% else %}
-{% assign filteredissues = allcatfilteredissues %}
-{% endif %}
+{%- endif -%}
+{%- endif -%}
+{%- endfor -%}
+
+{%- if page.categorieMapAll -%}
+{%- assign filteredissues = geofilteredissues -%}
+{%- else -%}
+{%- assign filteredissues = allcatfilteredissues -%}
+{%- endif -%}
+</div>
 
 <script>
 var markerList=[];
 
-{% for member in filteredissues %}
-    {% if member.issue.data.Posizione != blank %}
-        {% assign labels = member.issue.labels %}
-        {% assign coordinate = member.issue.data.Posizione | split: ' ' %}
+{%- for member in filteredissues -%}
+    {%- if member.issue.data.Posizione != blank -%}
+        {%- assign labels = member.issue.labels -%}
+        {%- assign coordinate = member.issue.data.Posizione | split: ' ' -%}
         markerList.push([{{coordinate[0]}}, {{coordinate[1]}}, "{{member.title|uri_escape}}", "{{ member.number }}", {{labels}}]);
-    {% endif %}
-{% endfor %}
+    {%- endif -%}
+{%- endfor -%}
 
 // define icons
-var markerIcons = {};
-{% for category in issuecategories %}
-var newMarker = L.AwesomeMarkers.icon({icon: "{{category[2]}}", markerColor: "{{category[3]}}", prefix: 'fa'}); // iniziative solidali pubbliche e private
-markerIcons["{{category[1]}}"]=newMarker;
-{% endfor %}
+var iniziativeSolidali = L.AwesomeMarkers.icon({icon: 'handshake-o', markerColor: 'blue', prefix: 'fa'}); // iniziative solidali pubbliche e private
+var raccolteFondi = L.AwesomeMarkers.icon({icon: 'eur', markerColor: 'purple', prefix: 'fa'});
+var richiestaAiuto = L.AwesomeMarkers.icon({icon: 'question', markerColor: 'darkblue', prefix: 'fa'});
+var supportoPsicologico = L.AwesomeMarkers.icon({icon: 'phone', markerColor: 'green', prefix: 'fa'});
 var iconaDefault = L.AwesomeMarkers.icon({icon: '', markerColor: 'darkpurple'});
 
 // initialize the map
@@ -130,15 +158,20 @@ for (var i=0; i<markerList.length; i++) {
     var popupText = markerList[i][2];
     var popupURL = markerList[i][3];
     var labels = markerList[i][4];
-    var iconaFinale = iconaDefault;
+    var iconaFinale;
 
     // Raccolte fondi, Supporto psicologico, Servizi e iniziative solidali pubbliche, Servizi e iniziative solidali private, Richiesta aiuto
 
-    for (var il = 0; il < labels.length; il++) {
-        if (labels[il] in markerIcons) {
-            iconaFinale = markerIcons[labels[il]]
-            break;
-        }
+    if (labels.indexOf("Raccolte fondi") >= 0) {
+        iconaFinale = raccolteFondi;
+    } else if (labels.indexOf("Supporto psicologico") >= 0) {
+        iconaFinale = supportoPsicologico;
+    } else if (labels.indexOf("Servizi e iniziative solidali pubbliche") >= 0 || labels.indexOf("Servizi e iniziative solidali private") >= 0) {
+        iconaFinale = iniziativeSolidali;
+    } else if (labels.indexOf("Richiesta aiuto") >= 0) {
+        iconaFinale = richiestaAiuto;
+    } else {
+        iconaFinale = iconaDefault;
     }
 
     if (!isNaN(lat) && !isNaN(lon)) {
@@ -160,9 +193,9 @@ map.addLayer(osm).setView([{{site.issuemap.center}}], {{site.issuemap.zoom}});
 
 //var group = new L.featureGroup([marker1, marker2, marker3]);
 
-{% if page.fitBounds %}
+{%- if page.fitBounds -%}
 map.fitBounds(markers.getBounds().pad(0.3));
-{% endif %}
+{%- endif -%}
 
 function getFeaturesInView() {
     //console.log("getFeaturesInView");
