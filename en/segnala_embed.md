@@ -1,12 +1,11 @@
 ---
 lang: en
-layout: page
-title: "Emergency COVID19 ask for help, report initiatives, news, data"
-subtitle: Ask for help or upload initiatives in Covid19Italia.help
-permalink: /en/recommend/
+layout: bare
+title: Recommend
+permalink: /recommend-base/
 ---
 
-<div class="offset-md-3 col-md-6">
+<div class="offset-md-1 col-md-10">
   <a class="btn btn-success btn-lg btn-block btn-form" href="/segnala/en/chiedi-aiuto">Ask for help</a>
   <a class="btn btn-success btn-lg btn-block btn-form" href="/segnala/dona-beni-servizi">Donate goods or services</a>
 
@@ -24,4 +23,3 @@ permalink: /en/recommend/
   <a class="btn btn-outline-dark btn-lg btn-block btn-form" href="/segnala/documenti-dati">Upload Documents/Data</a>
   <a class="btn btn-outline-dark btn-lg btn-block btn-form" href="/segnala/notizia">Share useful News</a>
 </div>
-
