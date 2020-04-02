@@ -3,7 +3,7 @@ lang: pt
 layout: page
 title: "Emergência do coronavírus peça ajuda, partilhe iniciativas, notícias, dados"
 subtitle: "Peça ajuda ou relate iniciativas no Covid19Portugal"
-permalink: /relatorios/
+permalink: /relatórios/
 ---
 
 <div class="offset-md-1 col-md-10">
