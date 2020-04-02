@@ -1,4 +1,6 @@
 ---
+# AAA Questa pagina potrebbe essere embedded in molti siti (es. ARCI).
+# Per favore verificare la funzionalita' prima di fare push su repo
 lang: it
 layout: bare
 title: Segnala
