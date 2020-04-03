@@ -16,13 +16,14 @@ dataurl: "https://github.com/emergenzeHack/covid19gr_data.git"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Covid19People.help
+title: Covid19Greece.help
 
 # Logo description
 logo-description: Il logo di covid19italia due cerchi concentrici uno rosso e uno verde ed all'esterno dei semicerchi sparsi
 
 # Short description of your site
-description: Ένα έργο ανταλλαγής πληροφοριών και ανάληψη δράσης για την υποστήριξη της έκτακτης ανάγκης COVID19
+description: Μοιραζόμαστε πληροφορίες για να μπορέσουμε να ανταποκριθούμε όλες και όλοι στις νέες συνθήκες που δημιούργησε η πανδημία του Covid19
+
 
 # --- Navigation bar options --- #
 # List of links in the navigation bar -> NOT MORE USED! see in navigation.yml in Data folder.
@@ -40,17 +41,17 @@ avatar: /images/covid19italia.png
 author:
   name: COVID19Italia
   email: "mailto:covid19ita@gmail.com"
-  facebook: covid19italia.help  # eg. daattali
-  facebook_group: 2921275147894653
-  github: emergenzeHack/covid19italia    # eg. daattali
+  #facebook: covid19italia.help  # eg. daattali
+  #facebook_group: 2921275147894653
+  #github: emergenzeHack/covid19italia    # eg. daattali
   twitter: ItaliaCovid19   # eg. daattali
   #linkedin:   # eg. daattali
   #xing:       # eg. daattali
   #stackoverflow:   # eg. "3943160/daattali"
-  instagram: covid19italia.help # eg. daattali
+  #instagram: covid19italia.help # eg. daattali
   #youtube: yourlink # eg. user/daattali or channel/daattali
   #rss: https://emergenzehack.github.io/covid19italia/feed.xml
-  telegram: https://t.me/COVID19I
+  #telegram: https://t.me/COVID19I
   #medium: https://medium.com/@covid19italia
   #archiveorg: https://archive.org/details/@covid19italia
   #messenger: messenger
@@ -67,13 +68,13 @@ footer-links-active:
   facebook: true
   email: false
   twitter: true
-  github: true
+  github: false
   linkedin: false
   xing: false
   stackoverflow: false
-  instagram: true
+  instagram: false
   youtube: false
-  telegram: true
+  telegram: false
   medium: false
   archiveorg: false
   messenger: false
@@ -88,20 +89,20 @@ share-links-active:
   facebook: true
   email: true
   twitter: true
-  github: true
+  github: false
   linkedin: false
   xing: false
   stackoverflow: false
-  instagram: true
+  instagram: false
   youtube: false
-  telegram: true
+  telegram: false
   medium: false
   archiveorg: false
   messenger: false
   waze: false
   flickr: false
   telegram_bot: false
-  telegram_group: true
+  telegram_group: false
   rss: true
   link: true
 
