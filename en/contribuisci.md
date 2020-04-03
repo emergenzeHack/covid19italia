@@ -54,26 +54,19 @@ Remark, two labels are mandatory and are in English:
 
 - A branch of our master platform branch on Github. This will be the main repo of your platform. We will provide a branch and a first domain. You can indicate your specific domain, we try to manage a redirect on the right web page.
 
-To configure the platform these are the main steps (please change your files in your repo and in your branch, possibly with PULL REQUEST on Github):
-In the main repo:
+#### Technical remarks for GitHub Side
+
+To configure the platform these are the main steps (please change your files in your repo and in your branch, possibly with PULL REQUEST on Github). In the main repo:
 - General Configuration Site Data are stored in _config.yml file. An example is [this one](https://github.com/emergenzeHack/covid19italia/blob/master/_config.yml)
 - Home Page main objects are configurable in index.html file. An example is [this one](https://github.com/emergenzeHack/covid19italia/blob/master/index.html)
+- For each page you can configure a permalink, title (and the relative LABEL in the page if is a report page)
+
 In the data repo:
 - Reports Categories are configurable in cfg/issuecategories.yml file. An example is [this one](https://github.com/emergenzeHack/covid19italia_data/blob/master/cfg/issuecategories.yml)
 - Logos of Home Page are configurable in cfg/logos.yml file. An example is [this one](https://github.com/emergenzeHack/covid19italia_data/blob/master/cfg/logos.yml)
 - NavBar Menu is configurable in i18n/navigation.yml file. An example is [this one](https://github.com/emergenzeHack/covid19gr_data/blob/master/i18n/navigation.yml)
 - Region List is configurable in geo/regioni.json file. An example is [this one](https://github.com/emergenzeHack/covid19gr_data/blob/master/geo/regioni.json)
 - City List is configurable in geo/province.json file. An example is [this one](https://github.com/emergenzeHack/covid19gr_data/blob/master/geo/province.json)
-
-#### Technical remarks for GitHub Side
-
-- Github Repo of the data as used to store you reports dataset and is used by Github Repo of website to build website.
-- In the Github Repo to store reports as issue you have to define a list of LABELS to categorized the issues. They will be the tags that you'll can manage in the frontend of the website. Remember to define a label "Approvato" to accept a reports.
-Labels should be the same listed in "categorieissue" tag in [_config.yml](https://github.com/emergenzeHack/covid19italia/blob/master/_config.yml) file inside the repo of the website.
-- In the repo of the website you have to do at least this actions on the frontend sites
-  - Adjust [_config.yml](https://github.com/emergenzeHack/covid19italia/blob/master/_config.yml) file as you prefer
-  - For each page of reports categories you must configure the permalink, title and the relative LABEL in the page
-  - Adjust the maps on your country
 
 ### On Kobo Toolbox
 - At least a [Kobo](https://kobo.humanitarianresponse.info/) Toolbox account in order to manage your webforms and translate them. We will share basic form that you have to translate in your language in this way:
