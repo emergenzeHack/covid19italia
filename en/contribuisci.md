@@ -43,8 +43,7 @@ Here the basic step to integrate you in our platform (we can support you in this
 ### On Github
 - At least a [Github](www.github.com) Account to moderate issues and make modifications to the web platform. We will create a Github editor group for reports management.
 
-- A Github Repo to store the reports [like this one]
-(https://github.com/emergenzeHack/covid19italia_segnalazioni/issues) is necessary in order to organize reporting with labels and in order to make moderation with your moderation team.
+- A Github Repo to store the reports [like this one](https://github.com/emergenzeHack/covid19italia_segnalazioni/issues) is necessary in order to organize reporting with labels and in order to make moderation with your moderation team.
 Be sure that you have defined the list of LABELS to organize your reports in categories in this repo (example: request of help, news, fake news etc etc...). This will be the reports repo of your platform
 Remark, two labels are mandatory and are in English:
   - "accepted" label, to mark the accepted reports by Moderation Team.
