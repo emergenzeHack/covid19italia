@@ -8,7 +8,7 @@ layout: page
     {% assign geofilteredissues = openissues | where_exp: "member", "member.issue.provincia == page.nome_provincia" %}
 {% else %}
     {% if page.nome_regione != blank %}
-        {% assign geofilteredissues = openissues |  where_exp: "member", "member.issue.regione == page.nome_regione" %}
+        {% assign geofilteredissues = openissues |  where_exp: "member", "member.issue.regione == page.nome_regione or member.issue.regione == 'tutte'" %}
     {% else %}
         {% assign geofilteredissues = openissues  %}
     {% endif %}
