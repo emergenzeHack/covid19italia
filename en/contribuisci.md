@@ -57,6 +57,7 @@ Remark, two labels are mandatory and are in English:
 To configure the platform these are the main steps (please change your files in your repo and in your branch, possibly with PULL REQUEST on Github):
 In the main repo:
 - General Configuration Site Data are stored in _config.yml file. An example is [this one](https://github.com/emergenzeHack/covid19italia/blob/master/_config.yml)
+- Home Page main objects are configurable in index.html file. An example is [this one](https://github.com/emergenzeHack/covid19italia/blob/master/index.html)
 In the data repo:
 - Reports Categories are configurable in cfg/issuecategories.yml file. An example is [this one](https://github.com/emergenzeHack/covid19italia_data/blob/master/cfg/issuecategories.yml)
 - Logos of Home Page are configurable in cfg/logos.yml file. An example is [this one](https://github.com/emergenzeHack/covid19italia_data/blob/master/cfg/logos.yml)
