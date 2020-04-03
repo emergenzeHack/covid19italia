@@ -56,16 +56,16 @@ Remark, two labels are mandatory and are in English:
 #### Technical remarks for GitHub Side
 
 To configure the platform these are the main steps (please change your files in your repo and in your branch, possibly with PULL REQUEST on Github). In the main repo:
-- General Configuration Site Data are stored in _config.yml file. An example is [this one](https://github.com/emergenzeHack/covid19italia/blob/master/_config.yml)
-- Home Page main objects are configurable in index.html file. An example is [this one](https://github.com/emergenzeHack/covid19italia/blob/master/index.html)
+- General Configuration Site Data are stored in **_config.yml** file. An example is [this one](https://github.com/emergenzeHack/covid19italia/blob/master/_config.yml)
+- Home Page main objects are configurable in **index.html** file. An example is [this one](https://github.com/emergenzeHack/covid19italia/blob/master/index.html)
 - For each page you can configure a permalink, title (and the relative LABEL in the page if is a report page)
 
 In the data repo:
-- Reports Categories are configurable in cfg/issuecategories.yml file. An example is [this one](https://github.com/emergenzeHack/covid19italia_data/blob/master/cfg/issuecategories.yml)
-- Logos of Home Page are configurable in cfg/logos.yml file. An example is [this one](https://github.com/emergenzeHack/covid19italia_data/blob/master/cfg/logos.yml)
-- NavBar Menu is configurable in i18n/navigation.yml file. An example is [this one](https://github.com/emergenzeHack/covid19gr_data/blob/master/i18n/navigation.yml)
-- Region List is configurable in geo/regioni.json file. An example is [this one](https://github.com/emergenzeHack/covid19gr_data/blob/master/geo/regioni.json)
-- City List is configurable in geo/province.json file. An example is [this one](https://github.com/emergenzeHack/covid19gr_data/blob/master/geo/province.json)
+- Reports Categories are configurable in **cfg/issuecategories.yml** file. An example is [this one](https://github.com/emergenzeHack/covid19italia_data/blob/master/cfg/issuecategories.yml)
+- Logos of Home Page are configurable in **cfg/logos.yml** file. An example is [this one](https://github.com/emergenzeHack/covid19italia_data/blob/master/cfg/logos.yml)
+- NavBar Menu is configurable in **i18n/navigation.yml** file. An example is [this one](https://github.com/emergenzeHack/covid19gr_data/blob/master/i18n/navigation.yml)
+- Region List is configurable in **geo/regioni.json** file. An example is [this one](https://github.com/emergenzeHack/covid19gr_data/blob/master/geo/regioni.json)
+- City List is configurable in **geo/province.json** file. An example is [this one](https://github.com/emergenzeHack/covid19gr_data/blob/master/geo/province.json)
 
 ### On Kobo Toolbox
 - At least a [Kobo](https://kobo.humanitarianresponse.info/) Toolbox account in order to manage your webforms and translate them. We will share basic form that you have to translate in your language in this way:
