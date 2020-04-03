@@ -74,19 +74,19 @@ subtitle: Ένα έργο ανταλλαγής πληροφοριών και α�
 {% assign categories_without_map = site.data.cfg.logos | where: "map", false %}
 {% for category in categories_without_map %}
   {% capture logo_alt %}
-    {{ category.name }}
+    {{ category.name_gr }}
     {% if category.logo_credit and category.logo_credit != empty %}
       logo by {{ category.logo_credit }}
     {% endif %}
   {% endcapture %}
   {% assign logo_alt = logo_alt | strip %}
-	<a href="{{ site.baseurl }}/{{ category.link }}" title="{{ logo_alt }}">
+	<a href="{{ site.baseurl }}/{{ category.link_gr }}" title="{{ logo_alt }}">
 		<div class="card border-0" style="width: 10rem;">
 			{% if category.logo and category.logo != empty %}
 			<img class="card-img-top" src="{{ site.baseurl }}{{ category.logo }}" alt="{{ category.logo-alt }}">
 			{% endif %}
 			<div class="card-body">
-				<h6 class="card-title">{{ category.name }}</h6>
+				<h6 class="card-title">{{ category.name_gr }}</h6>
 			</div>
 		</div>
 	</a>
