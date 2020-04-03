@@ -2,23 +2,23 @@
 layout: page
 ---
 
-{%- assign openissues = site.data.issuesjson | where: "state","open" -%}
+{% assign openissues = site.data.issuesjson | where: "state","open" %}
 
-{%- if page.nome_provincia != blank -%}
-    {%- assign geofilteredissues = openissues | where_exp: "member", "member.issue.provincia == page.nome_provincia" -%}
-{%- else -%}
-    {%- if page.nome_regione != blank -%}
-        {%- assign geofilteredissues = openissues |  where_exp: "member", "member.issue.regione == page.nome_regione" -%}
-    {%- else -%}
-        {%- assign geofilteredissues = openissues  -%}
-    {%- endif -%}
-{%- endif -%}
+{% if page.nome_provincia != blank %}
+    {% assign geofilteredissues = openissues | where_exp: "member", "member.issue.provincia == page.nome_provincia" %}
+{% else %}
+    {% if page.nome_regione != blank %}
+        {% assign geofilteredissues = openissues |  where_exp: "member", "member.issue.regione == page.nome_regione" %}
+    {% else %}
+        {% assign geofilteredissues = openissues  %}
+    {% endif %}
+{% endif %}
 
-{%- if page.issuecategories -%}
-{%- assign issuecategories = page.issuecategories[page.lang] -%}
-{%- else -%}
-{%- assign issuecategories = site.data.cfg.issuecategories[page.lang] -%}
-{%- endif -%}
+{% if page.issuecategories %}
+{% assign issuecategories = page.issuecategories[page.lang] %}
+{% else %}
+{% assign issuecategories = site.data.cfg.issuecategories[page.lang] %}
+{% endif %}
 
 {{content}}
 
@@ -53,16 +53,15 @@ layout: page
 
 
 {%- assign allcatfilteredissues = '' | split: '' -%}
-{%- for categoriatuple in issuecategories -%}
-{%- assign categoria = categoriatuple | split: ";" -%}
+{%- for category in issuecategories -%}
 
-{%- assign filteredissues = geofilteredissues | where_exp: "member","member.issue.labels contains categoria[1]" -%}
+{%- assign filteredissues = geofilteredissues | where_exp: "member","member.issue.labels contains category[1]" -%}
 {%- if filteredissues.size > 0 -%}
 <div class="row">
     {%- assign allcatfilteredissues = allcatfilteredissues | concat: filteredissues | uniq -%}
     <div class="row">
         <div class="col-12">
-            <h2 id="{{categoria[0]|slugify}}">{{categoria[0]}} <span class="badge badge-pill badge-primary">{{filteredissues.size}}</span></h2>
+            <h2 id="{{category[0]|slugify}}">{{category[0]}} <span class="badge badge-pill badge-primary">{{filteredissues.size}}</span></h2>
             {%- if page.justLatestIssues -%}
             {%- assign filteredissues = filteredissues | sort: 'number' | reverse | slice: 0,10 -%}
             {%- endif -%}
@@ -101,7 +100,7 @@ layout: page
     </div>
     {%- if page.justLatestIssues -%}
     <div class="row">
-        <div class="col"><a href="/{{categoria[0] | slugify}}" class="btn btn-primary btn-lg">Vedi tutte {{categoria[0]}}</a></div>
+        <div class="col"><a href="/{{category[0] | slugify}}" class="btn btn-primary btn-lg">Vedi tutte {{category[0]}}</a></div>
     </div>
 </div>
 <hr />
