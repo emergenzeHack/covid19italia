@@ -45,12 +45,24 @@ Here the basic step to integrate you in our platform (we can support you in this
 
 - A Github Repo to store the reports [like this one]
 (https://github.com/emergenzeHack/covid19italia_segnalazioni/issues) is necessary in order to organize reporting with labels and in order to make moderation with your moderation team.
+Be sure that you have defined the list of LABELS to organize your reports in categories in this repo (example: request of help, news, fake news etc etc...). This will be the reports repo of your platform
+Remark, two labels are mandatory and are in English:
+  - "accepted" label, to mark the accepted reports by Moderation Team.
+  - "position" label, to mark the label with position.
 
-- A Github Repo to store platform data [like this one](https://github.com/emergenzeHack/covid19italia_data) to store moderated reports and platform data.
+- A Github Repo to store platform data [like this one](https://github.com/emergenzeHack/covid19italia_data) to store moderated reports dataset and platform configuration files. This will be the data repo of your platform
 
-- A branch of our master platform branch on Github. We will provide a branch. For the domain, we can provide you a web address and/or you can indicate your specific domain, we try to manage a redirect on the right web page.
+- A branch of our master platform branch on Github. This will be the main repo of your platform. We will provide a branch and a first domain. You can indicate your specific domain, we try to manage a redirect on the right web page.
 
-- Be sure that you have a list of LABELS to organize your reports in categories (example: request of help, news, fake news etc etc...).
+To configure the platform these are the main steps (please change your files in your repo and in your branch, possibly with PULL REQUEST on Github):
+In the main repo:
+- General Configuration Site Data are stored in _config.yml file. An example is [this one](https://github.com/emergenzeHack/covid19italia/blob/master/_config.yml)
+In the data repo:
+- Reports Categories are configurable in cfg/issuecategories.yml file. An example is [this one](https://github.com/emergenzeHack/covid19italia_data/blob/master/cfg/issuecategories.yml)
+- Logos of Home Page are configurable in cfg/logos.yml file. An example is [this one](https://github.com/emergenzeHack/covid19italia_data/blob/master/cfg/logos.yml)
+- NavBar Menu is configurable in i18n/navigation.yml file. An example is [this one](https://github.com/emergenzeHack/covid19gr_data/blob/master/i18n/navigation.yml)
+- Region List is configurable in geo/regioni.json file. An example is [this one](https://github.com/emergenzeHack/covid19gr_data/blob/master/geo/regioni.json)
+- City List is configurable in geo/province.json file. An example is [this one](https://github.com/emergenzeHack/covid19gr_data/blob/master/geo/province.json)
 
 #### Technical remarks for GitHub Side
 
