@@ -15,9 +15,9 @@ layout: page
 {%- endif -%}
 
 {%- if page.issuecategories -%}
-{%- assign issuecategories = page.issuecategories -%}
+{%- assign issuecategories = page.issuecategories[page.lang] -%}
 {%- else -%}
-{%- assign issuecategories = site.data.cfg.issuecategories[lang] -%}
+{%- assign issuecategories = site.data.cfg.issuecategories[page.lang] -%}
 {%- endif -%}
 
 {{content}}
