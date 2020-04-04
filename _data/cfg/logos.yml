@@ -1,0 +1,62 @@
+- name: MAPPA GENERALE
+  logo: /img/icone/11-comunicolpiti.png
+  map: true
+  link: mappa/
+  name_en: MAP
+  link_en: en/map
+  name_pt: ROTEIRO
+  link_pt: pt/roteiro
+- name: SEGNALA
+  logo-alt: Segnala iniziative, servizi, bufale, documenti o effettua una donazione.
+  logo: /img/icone/segnala2-tci.png
+  map: false
+  link: segnala/
+  name_en: RECOMMEND
+  link_en: en/recommend
+  name_pt: Relatórios
+  link_pt: pt/relatórios
+- name: TUTTE LE SEGNALAZIONI
+  logo-alt: Elenco delle segnalazioni ricevute
+  logo: /img/icone/tci-solidali.png
+  map: false
+  link: issues/
+  name_en: INITIATIVES
+  link_en: issues/
+  name_pt: Todas as iniciativas
+  link_pt: pt/iniciativas
+- name: RACCOLTE FONDI
+  logo-alt: raccolte fondi
+  logo: /img/icone/01-fabbisogni.png
+  map: false
+  link: raccolte-fondi/
+  name_en: FUNDARAISER
+  link_en: raccolte-fondi/
+  name_pt: Coleções de fundos
+  link_pt: pt/fundos
+- name: FONTI ISTITUZIONALI
+  logo-alt: Elenco delle fonti istituzionali da cui reperire informazioni ufficiali.
+  logo: /img/icone/tci-legge.png
+  map: false
+  link: fonti-istituzionali/
+  name_en: INSTITUTIONAL SOURCES
+  link_en: fonti-istituzionali/
+  name_pt: Frentes Institucionais
+  link_pt: pt/institucionais
+- name: RICHIESTE DI AIUTO
+  logo-alt: richieste di aiuto
+  logo: /img/icone/alloggi2-tci.png              #       SERVE ICONA NUOVA??
+  map: false
+  link: richiesta/
+  name_en: HELP REQUESTS
+  link_en: richiesta/
+  name_pt: Pedidos de Ajuda
+  link_pt: pt/ajuda
+- name: FAKE NEWS
+  logo-alt: le fake news
+  logo: /img/icone/bufala-tci-1.png              #       SERVE ICONA NUOVA??
+  map: false
+  link: fake-news/
+  name_en: FAKE NEWS
+  link_en: fake-news
+  name_pt: Notícias Falsas
+  link_pt: pt/fake-news

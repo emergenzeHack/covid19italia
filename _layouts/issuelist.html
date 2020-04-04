@@ -2,7 +2,7 @@
 layout: page
 ---
 
-{%- assign openissues = site.data.issuesjson | where: "state","open" -%}
+{%- assign openissues = site.data.machgen.issuesjson | where: "state","open" -%}
 
 {%- if page.nome_provincia != blank -%}
     {%- assign geofilteredissues = openissues | where_exp: "member", "member.issue.provincia == page.nome_provincia" -%}

@@ -1,0 +1,72 @@
+languages:
+  - language: it
+    navbar-links:
+      SEGNALA: "segnala/"
+      SCOPRI:
+        - SEGNALAZIONI : "issues/"
+        - SEGNALAZIONI PER REGIONE: "issues/regione/"
+      SEGUI:
+        - NOTIZIE: "notizie-utili/"
+        - BLOG : "post/"
+        - CONTATTI: "canali/"
+      COS'È?:
+        - ABOUT: "about/"
+        - PRESS: "press/"
+        - DOMANDE FREQUENTI: "faq/"
+        - OPEN DATA: "opendata/"
+      PARTECIPA:
+        - COME PARTECIPARE: "contribuisci/"
+        - ISCRIVITI: "credit_form"
+        - WIKI: "wiki/"
+      PRIVACY: "legal"
+    other-links:
+  - language: en
+    navbar-links:
+      RECOMMEND: "en/recommend/"
+      DISCOVER:
+        - ITALIAN INITIATIVES : "issues/"
+        - INITIATIVES FOR ITALIAN REGION : "issues/regione/"
+      FOLLOW:
+        - ITALIAN NEWS: "notizie-utili/"
+        - CONTACTS: "en/channels/"
+      WHAT IS THIS?:
+        - ABOUT: "en/about/"
+        - FAQ: "en/faq/"
+        - OPEN DATA: "en/opendata/"
+      CONTRIBUTE:
+        - ACTIVATE YOUR COUNTRY: "en/contribute/"
+        - WIKI: "en/wiki/"
+      PRIVACY: "legal"
+    other-links:
+  - language: pt
+    navbar-links:
+      RELATORIOS: "pt/recommend/"
+      DESCUBRA:
+        - Iniciativas italianas : "issues/"
+      SIGA-NOS:
+        - CONTATOS: "pt/contatos/"
+      O QUE É ISSO?:
+        - SOBRE: "pt/sobre/"
+        - FAQ: "pt/faq/"
+        - OPEN DATA: "pt/opendata/"
+      CONTRIBUIR:
+        - WIKI: "pt/wiki/"
+      PRIVACY: "legal"
+    other-links:
+      fake-news: "pt/fake-news"
+      raccolte-fondi: "pt/angariacao-fundos"
+      press: "pt/imprensa"
+      opendata: "/pt/dados-abertos"
+      about: "pt/sobre"
+      canali: "pt/canais"
+      contribuisci: "pt/contribuir"
+      news: "pt/noticias"
+      segnala: "pt/comunique"
+      faq: "pt/faq"
+      fonti-instituzionali: "pt/fontes-institucionais"
+      post: "pt/post"
+      richiesta: "pt/solicitacao"
+      issues: "pt/issues"
+      regione: "pt/regiao"
+
+

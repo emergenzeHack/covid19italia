@@ -6,7 +6,7 @@ permalink: /bollettino/
 ---
 
 <div class="panel-group">
-{% assign filteredissues = site.data.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'Bollettino'" %}
+{% assign filteredissues = site.data.machgen.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'Bollettino'" %}
 {% for member in filteredissues %}
 <div class="panel-body issuepanel" id="issue{{member.number}}">
 <div class="list-group-item">

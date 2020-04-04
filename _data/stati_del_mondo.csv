@@ -1,0 +1,226 @@
+Stato(S)/Territorio(T);Codice Continente;Denominazione Continente (IT);Codice Area;Denominazione Area (IT);Codice ISTAT;Denominazione IT;Denominazione EN;Codice MIN;Codice AT;Codice UNSD_M49;Codice ISO 3166 alpha2;Codice ISO 3166 alpha3;Codice ISTAT_Stato Padre;Codice ISO alpha3_Stato Padre
+S;1;Europa;11;Unione europea;100;Italia;Italy;100;n.d.;380;IT;ITA;;
+S;1;Europa;12;Europa centro orientale;201;Albania;Albania;201;Z100;008;AL;ALB;;
+S;1;Europa;13;Altri paesi europei;202;Andorra;Andorra;202;Z101;020;AD;AND;;
+S;1;Europa;11;Unione europea;203;Austria;Austria;203;Z102;040;AT;AUT;;
+S;1;Europa;11;Unione europea;206;Belgio;Belgium;206;Z103;056;BE;BEL;;
+S;1;Europa;11;Unione europea;209;Bulgaria;Bulgaria;209;Z104;100;BG;BGR;;
+S;1;Europa;11;Unione europea;212;Danimarca;Denmark;212;Z107;208;DK;DNK;;
+S;1;Europa;11;Unione europea;214;Finlandia;Finland;214;Z109;246;FI;FIN;;
+S;1;Europa;11;Unione europea;215;Francia;France;215;Z110;250;FR;FRA;;
+S;1;Europa;11;Unione europea;216;Germania;Germany;216;Z112;276;DE;DEU;;
+S;1;Europa;11;Unione europea;219;Regno Unito;United Kingdom;219;Z114;826;UK;GBR;;
+S;1;Europa;11;Unione europea;220;Grecia;Greece;220;Z115;300;GR;GRC;;
+S;1;Europa;11;Unione europea;221;Irlanda;Ireland;221;Z116;372;IE;IRL;;
+S;1;Europa;13;Altri paesi europei;223;Islanda;Iceland;223;Z117;352;IS;ISL;;
+S;1;Europa;13;Altri paesi europei;225;Liechtenstein;Liechtenstein;225;Z119;438;LI;LIE;;
+S;1;Europa;11;Unione europea;226;Lussemburgo;Luxembourg;226;Z120;442;LU;LUX;;
+S;1;Europa;11;Unione europea;227;Malta;Malta;227;Z121;470;MT;MLT;;
+S;1;Europa;13;Altri paesi europei;229;Monaco;Monaco;229;Z123;492;MC;MCO;;
+S;1;Europa;13;Altri paesi europei;231;Norvegia;Norway;231;Z125;578;NO;NOR;;
+S;1;Europa;11;Unione europea;232;Paesi Bassi;Netherlands;232;Z126;528;NL;NLD;;
+S;1;Europa;11;Unione europea;233;Polonia;Poland;233;Z127;616;PL;POL;;
+S;1;Europa;11;Unione europea;234;Portogallo;Portugal;234;Z128;620;PT;PRT;;
+S;1;Europa;11;Unione europea;235;Romania;Romania;235;Z129;642;RO;ROU;;
+S;1;Europa;13;Altri paesi europei;236;San Marino;San Marino;236;Z130;674;SM;SMR;;
+S;1;Europa;11;Unione europea;239;Spagna;Spain;239;Z131;724;ES;ESP;;
+S;1;Europa;11;Unione europea;240;Svezia;Sweden;240;Z132;752;SE;SWE;;
+S;1;Europa;13;Altri paesi europei;241;Svizzera;Switzerland;241;Z133;756;CH;CHE;;
+S;1;Europa;12;Europa centro orientale;243;Ucraina;Ukraine;243;Z138;804;UA;UKR;;
+S;1;Europa;11;Unione europea;244;Ungheria;Hungary;244;Z134;348;HU;HUN;;
+S;1;Europa;12;Europa centro orientale;245;Federazione russa;Russian Federation;245;Z154;643;RU;RUS;;
+S;1;Europa;13;Altri paesi europei;246;Stato della Città del Vaticano;Vatican City State;246;Z106;336;VA;VAT;;
+S;1;Europa;11;Unione europea;247;Estonia;Estonia;247;Z144;233;EE;EST;;
+S;1;Europa;11;Unione europea;248;Lettonia;Latvia;248;Z145;428;LV;LVA;;
+S;1;Europa;11;Unione europea;249;Lituania;Lithuania;249;Z146;440;LT;LTU;;
+S;1;Europa;11;Unione europea;250;Croazia;Croatia;250;Z149;191;HR;HRV;;
+S;1;Europa;11;Unione europea;251;Slovenia;Slovenia;251;Z150;705;SI;SVN;;
+S;1;Europa;12;Europa centro orientale;252;Bosnia-Erzegovina;Bosnia and Herzegovina;252;Z153;070;BA;BIH;;
+S;1;Europa;12;Europa centro orientale;253;Macedonia del Nord;North Macedonia;253;Z148;807;MK;MKD;;
+S;1;Europa;12;Europa centro orientale;254;Moldova;Moldova;254;Z140;498;MD;MDA;;
+S;1;Europa;11;Unione europea;255;Slovacchia;Slovakia;255;Z155;703;SK;SVK;;
+S;1;Europa;12;Europa centro orientale;256;Bielorussia;Belarus;256;Z139;112;BY;BLR;;
+S;1;Europa;11;Unione europea;257;Repubblica ceca;Czech Republic;257;Z156;203;CZ;CZE;;
+S;1;Europa;12;Europa centro orientale;270;Montenegro;Montenegro;270;Z159;499;ME;MNE;;
+S;1;Europa;12;Europa centro orientale;271;Serbia;Serbia;271;Z158;688;RS;SRB;;
+S;1;Europa;12;Europa centro orientale;272;Kosovo;Kosovo;272;Z160;n.d.;n.d.;KOS;;
+S;3;Asia;32;Asia centro meridionale;301;Afghanistan;Afghanistan;301;Z200;004;AF;AFG;;
+S;3;Asia;31;Asia occidentale;302;Arabia Saudita;Saudi Arabia;302;Z203;682;SA;SAU;;
+S;3;Asia;31;Asia occidentale;304;Bahrein;Bahrain;304;Z204;048;BH;BHR;;
+S;3;Asia;32;Asia centro meridionale;305;Bangladesh;Bangladesh;305;Z249;050;BD;BGD;;
+S;3;Asia;32;Asia centro meridionale;306;Bhutan;Bhutan;306;Z205;064;BT;BTN;;
+S;3;Asia;33;Asia orientale;307;Myanmar/Birmania;Myanmar/Burma;307;Z206;104;MM;MMR;;
+S;3;Asia;33;Asia orientale;309;Brunei Darussalam;Brunei Darussalam;309;Z207;096;BN;BRN;;
+S;3;Asia;33;Asia orientale;310;Cambogia;Cambodia;310;Z208;116;KH;KHM;;
+S;3;Asia;32;Asia centro meridionale;311;Sri Lanka;Sri Lanka;311;Z209;144;LK;LKA;;
+S;3;Asia;33;Asia orientale;314;Cina;China;314;Z210;156;CN;CHN;;
+S;1;Europa;11;Unione europea;315;Cipro;Cyprus;315;Z211;196;CY;CYP;;
+S;3;Asia;33;Asia orientale;319;Corea del Nord;North Korea;319;Z214;408;KP;PRK;;
+S;3;Asia;33;Asia orientale;320;Corea del Sud;South Korea;320;Z213;410;KR;KOR;;
+S;3;Asia;31;Asia occidentale;322;Emirati Arabi Uniti;United Arab Emirates;322;Z215;784;AE;ARE;;
+S;3;Asia;33;Asia orientale;323;Filippine;Philippines;323;Z216;608;PH;PHL;;
+S;3;Asia;31;Asia occidentale;324;Palestina;Palestine;324;Z161;275;PS;PSE;;
+S;3;Asia;33;Asia orientale;326;Giappone;Japan;326;Z219;392;JP;JPN;;
+S;3;Asia;31;Asia occidentale;327;Giordania;Jordan;327;Z220;400;JO;JOR;;
+S;3;Asia;32;Asia centro meridionale;330;India;India;330;Z222;356;IN;IND;;
+S;3;Asia;33;Asia orientale;331;Indonesia;Indonesia;331;Z223;360;ID;IDN;;
+S;3;Asia;31;Asia occidentale;332;Iran;Iran;332;Z224;364;IR;IRN;;
+S;3;Asia;31;Asia occidentale;333;Iraq;Iraq;333;Z225;368;IQ;IRQ;;
+S;3;Asia;31;Asia occidentale;334;Israele;Israel;334;Z226;376;IL;ISR;;
+S;3;Asia;31;Asia occidentale;335;Kuwait;Kuwait;335;Z227;414;KW;KWT;;
+S;3;Asia;33;Asia orientale;336;Laos;Laos;336;Z228;418;LA;LAO;;
+S;3;Asia;31;Asia occidentale;337;Libano;Lebanon;337;Z229;422;LB;LBN;;
+S;3;Asia;33;Asia orientale;338;Timor Leste;Timor Leste;338;Z242;626;TL;TLS;;
+S;3;Asia;32;Asia centro meridionale;339;Maldive;Maldives;339;Z232;462;MV;MDV;;
+S;3;Asia;33;Asia orientale;340;Malaysia;Malaysia;340;Z247;458;MY;MYS;;
+S;3;Asia;33;Asia orientale;341;Mongolia;Mongolia;341;Z233;496;MN;MNG;;
+S;3;Asia;32;Asia centro meridionale;342;Nepal;Nepal;342;Z234;524;NP;NPL;;
+S;3;Asia;31;Asia occidentale;343;Oman;Oman;343;Z235;512;OM;OMN;;
+S;3;Asia;32;Asia centro meridionale;344;Pakistan;Pakistan;344;Z236;586;PK;PAK;;
+S;3;Asia;31;Asia occidentale;345;Qatar;Qatar;345;Z237;634;QA;QAT;;
+S;3;Asia;33;Asia orientale;346;Singapore;Singapore;346;Z248;702;SG;SGP;;
+S;3;Asia;31;Asia occidentale;348;Siria;Syria;348;Z240;760;SY;SYR;;
+S;3;Asia;33;Asia orientale;349;Thailandia;Thailand;349;Z241;764;TH;THA;;
+S;1;Europa;12;Europa centro orientale;351;Turchia;Turkey;351;Z243;792;TR;TUR;;
+S;3;Asia;33;Asia orientale;353;Vietnam;Vietnam;353;Z251;704;VN;VNM;;
+S;3;Asia;31;Asia occidentale;354;Yemen;Yemen;354;Z246;887;YE;YEM;;
+S;3;Asia;32;Asia centro meridionale;356;Kazakhstan;Kazakhstan;356;Z255;398;KZ;KAZ;;
+S;3;Asia;32;Asia centro meridionale;357;Uzbekistan;Uzbekistan;357;Z259;860;UZ;UZB;;
+S;3;Asia;31;Asia occidentale;358;Armenia;Armenia;358;Z252;051;AM;ARM;;
+S;3;Asia;31;Asia occidentale;359;Azerbaigian;Azerbaijan;359;Z253;031;AZ;AZE;;
+S;3;Asia;31;Asia occidentale;360;Georgia;Georgia;360;Z254;268;GE;GEO;;
+S;3;Asia;32;Asia centro meridionale;361;Kirghizistan;Kyrgyzstan;361;Z256;417;KG;KGZ;;
+S;3;Asia;32;Asia centro meridionale;362;Tagikistan;Tajikistan;362;Z257;762;TJ;TJK;;
+S;3;Asia;33;Asia orientale;363;Taiwan;Taiwan;363;Z217;n.d.;TW;TWN;;
+S;3;Asia;32;Asia centro meridionale;364;Turkmenistan;Turkmenistan;364;Z258;795;TM;TKM;;
+S;2;Africa;21;Africa settentrionale;401;Algeria;Algeria;401;Z301;012;DZ;DZA;;
+S;2;Africa;24;Africa centro meridionale;402;Angola;Angola;402;Z302;024;AO;AGO;;
+S;2;Africa;22;Africa occidentale;404;Costa d'Avorio;Côte d'Ivoire;404;Z313;384;CI;CIV;;
+S;2;Africa;22;Africa occidentale;406;Benin;Benin;406;Z314;204;BJ;BEN;;
+S;2;Africa;24;Africa centro meridionale;408;Botswana;Botswana;408;Z358;072;BW;BWA;;
+S;2;Africa;22;Africa occidentale;409;Burkina Faso;Burkina Faso;409;Z354;854;BF;BFA;;
+S;2;Africa;23;Africa orientale;410;Burundi;Burundi;410;Z305;108;BI;BDI;;
+S;2;Africa;24;Africa centro meridionale;411;Camerun;Cameroon;411;Z306;120;CM;CMR;;
+S;2;Africa;22;Africa occidentale;413;Capo Verde;Cape Verde;413;Z307;132;CV;CPV;;
+S;2;Africa;24;Africa centro meridionale;414;Repubblica Centrafricana;Central African Republic;414;Z308;140;CF;CAF;;
+S;2;Africa;24;Africa centro meridionale;415;Ciad;Chad;415;Z309;148;TD;TCD;;
+S;2;Africa;23;Africa orientale;417;Comore;Comoros;417;Z310;174;KM;COM;;
+S;2;Africa;24;Africa centro meridionale;418;Congo;Congo;418;Z311;178;CG;COG;;
+S;2;Africa;21;Africa settentrionale;419;Egitto;Egypt;419;Z336;818;EG;EGY;;
+S;2;Africa;23;Africa orientale;420;Etiopia;Ethiopia;420;Z315;231;ET;ETH;;
+S;2;Africa;24;Africa centro meridionale;421;Gabon;Gabon;421;Z316;266;GA;GAB;;
+S;2;Africa;22;Africa occidentale;422;Gambia;Gambia;422;Z317;270;GM;GMB;;
+S;2;Africa;22;Africa occidentale;423;Ghana;Ghana;423;Z318;288;GH;GHA;;
+S;2;Africa;23;Africa orientale;424;Gibuti;Djibouti;424;Z361;262;DJ;DJI;;
+S;2;Africa;22;Africa occidentale;425;Guinea;Guinea;425;Z319;324;GN;GIN;;
+S;2;Africa;22;Africa occidentale;426;Guinea-Bissau;Guinea-Bissau;426;Z320;624;GW;GNB;;
+S;2;Africa;24;Africa centro meridionale;427;Guinea equatoriale;Equatorial Guinea;427;Z321;226;GQ;GNQ;;
+S;2;Africa;23;Africa orientale;428;Kenya;Kenya;428;Z322;404;KE;KEN;;
+S;2;Africa;24;Africa centro meridionale;429;Lesotho;Lesotho;429;Z359;426;LS;LSO;;
+S;2;Africa;22;Africa occidentale;430;Liberia;Liberia;430;Z325;430;LR;LBR;;
+S;2;Africa;21;Africa settentrionale;431;Libia;Libya;431;Z326;434;LY;LBY;;
+S;2;Africa;23;Africa orientale;432;Madagascar;Madagascar;432;Z327;450;MG;MDG;;
+S;2;Africa;23;Africa orientale;434;Malawi;Malawi;434;Z328;454;MW;MWI;;
+S;2;Africa;22;Africa occidentale;435;Mali;Mali;435;Z329;466;ML;MLI;;
+S;2;Africa;21;Africa settentrionale;436;Marocco;Morocco;436;Z330;504;MA;MAR;;
+S;2;Africa;22;Africa occidentale;437;Mauritania;Mauritania;437;Z331;478;MR;MRT;;
+S;2;Africa;23;Africa orientale;438;Maurizio;Mauritius;438;Z332;480;MU;MUS;;
+S;2;Africa;23;Africa orientale;440;Mozambico;Mozambique;440;Z333;508;MZ;MOZ;;
+S;2;Africa;24;Africa centro meridionale;441;Namibia;Namibia;441;Z300;516;NA;NAM;;
+S;2;Africa;22;Africa occidentale;442;Niger;Niger;442;Z334;562;NE;NER;;
+S;2;Africa;22;Africa occidentale;443;Nigeria;Nigeria;443;Z335;566;NG;NGA;;
+S;2;Africa;23;Africa orientale;446;Ruanda;Rwanda;446;Z338;646;RW;RWA;;
+S;2;Africa;24;Africa centro meridionale;448;Sao Tomé e Principe;Sao Tome and Principe;448;Z341;678;ST;STP;;
+S;2;Africa;23;Africa orientale;449;Seychelles;Seychelles;449;Z342;690;SC;SYC;;
+S;2;Africa;22;Africa occidentale;450;Senegal;Senegal;450;Z343;686;SN;SEN;;
+S;2;Africa;22;Africa occidentale;451;Sierra Leone;Sierra Leone;451;Z344;694;SL;SLE;;
+S;2;Africa;23;Africa orientale;453;Somalia;Somalia;453;Z345;706;SO;SOM;;
+S;2;Africa;24;Africa centro meridionale;454;Sudafrica;South Africa;454;Z347;710;ZA;ZAF;;
+S;2;Africa;21;Africa settentrionale;455;Sudan;Sudan;455;Z348;729;SD;SDN;;
+S;2;Africa;24;Africa centro meridionale;456;Eswatini;Eswatini;456;Z349;748;SZ;SWZ;;
+S;2;Africa;23;Africa orientale;457;Tanzania;Tanzania;457;Z357;834;TZ;TZA;;
+S;2;Africa;22;Africa occidentale;458;Togo;Togo;458;Z351;768;TG;TGO;;
+S;2;Africa;21;Africa settentrionale;460;Tunisia;Tunisia;460;Z352;788;TN;TUN;;
+S;2;Africa;23;Africa orientale;461;Uganda;Uganda;461;Z353;800;UG;UGA;;
+S;2;Africa;24;Africa centro meridionale;463;Repubblica Democratica del Congo;Democratic Republic of the Congo;463;Z312;180;CD;COD;;
+S;2;Africa;23;Africa orientale;464;Zambia;Zambia;464;Z355;894;ZM;ZMB;;
+S;2;Africa;23;Africa orientale;465;Zimbabwe;Zimbabwe;465;Z337;716;ZW;ZWE;;
+S;2;Africa;23;Africa orientale;466;Eritrea;Eritrea;466;Z368;232;ER;ERI;;
+S;2;Africa;21;Africa settentrionale;467;Sud Sudan;South Sudan;467;Z907;728;SS;SSD;;
+S;4;America;42;America centro meridionale;503;Antigua e Barbuda;Antigua and Barbuda;503;Z532;028;AG;ATG;;
+S;4;America;42;America centro meridionale;505;Bahamas;Bahamas;505;Z502;044;BS;BHS;;
+S;4;America;42;America centro meridionale;506;Barbados;Barbados;506;Z522;052;BB;BRB;;
+S;4;America;42;America centro meridionale;507;Belize;Belize;507;Z512;084;BZ;BLZ;;
+S;4;America;41;America settentrionale;509;Canada;Canada;509;Z401;124;CA;CAN;;
+S;4;America;42;America centro meridionale;513;Costa Rica;Costa Rica;513;Z503;188;CR;CRI;;
+S;4;America;42;America centro meridionale;514;Cuba;Cuba;514;Z504;192;CU;CUB;;
+S;4;America;42;America centro meridionale;515;Dominica;Dominica;515;Z526;212;DM;DMA;;
+S;4;America;42;America centro meridionale;516;Repubblica Dominicana;Dominican Republic;516;Z505;214;DO;DOM;;
+S;4;America;42;America centro meridionale;517;El Salvador;El Salvador;517;Z506;222;SV;SLV;;
+S;4;America;42;America centro meridionale;518;Giamaica;Jamaica;518;Z507;388;JM;JAM;;
+S;4;America;42;America centro meridionale;519;Grenada;Grenada;519;Z524;308;GD;GRD;;
+S;4;America;42;America centro meridionale;523;Guatemala;Guatemala;523;Z509;320;GT;GTM;;
+S;4;America;42;America centro meridionale;524;Haiti;Haiti;524;Z510;332;HT;HTI;;
+S;4;America;42;America centro meridionale;525;Honduras;Honduras;525;Z511;340;HN;HND;;
+S;4;America;42;America centro meridionale;527;Messico;Mexico;527;Z514;484;MX;MEX;;
+S;4;America;42;America centro meridionale;529;Nicaragua;Nicaragua;529;Z515;558;NI;NIC;;
+S;4;America;42;America centro meridionale;530;Panama;Panama;530;Z516;591;PA;PAN;;
+S;4;America;42;America centro meridionale;532;Santa Lucia;Saint Lucia;532;Z527;662;LC;LCA;;
+S;4;America;42;America centro meridionale;533;Saint Vincent e Grenadine;Saint Vincent and the Grenadines;533;Z528;670;VC;VCT;;
+S;4;America;42;America centro meridionale;534;Saint Kitts e Nevis;Saint Kitts and Nevis;534;Z533;659;KN;KNA;;
+S;4;America;41;America settentrionale;536;Stati Uniti d'America;United States of America;536;Z404;840;US;USA;;
+S;4;America;42;America centro meridionale;602;Argentina;Argentina;602;Z600;032;AR;ARG;;
+S;4;America;42;America centro meridionale;604;Bolivia;Bolivia;604;Z601;068;BO;BOL;;
+S;4;America;42;America centro meridionale;605;Brasile;Brazil;605;Z602;076;BR;BRA;;
+S;4;America;42;America centro meridionale;606;Cile;Chile;606;Z603;152;CL;CHL;;
+S;4;America;42;America centro meridionale;608;Colombia;Colombia;608;Z604;170;CO;COL;;
+S;4;America;42;America centro meridionale;609;Ecuador;Ecuador;609;Z605;218;EC;ECU;;
+S;4;America;42;America centro meridionale;612;Guyana;Guyana;612;Z606;328;GY;GUY;;
+S;4;America;42;America centro meridionale;614;Paraguay;Paraguay;614;Z610;600;PY;PRY;;
+S;4;America;42;America centro meridionale;615;Perù;Peru;615;Z611;604;PE;PER;;
+S;4;America;42;America centro meridionale;616;Suriname;Suriname;616;Z608;740;SR;SUR;;
+S;4;America;42;America centro meridionale;617;Trinidad e Tobago;Trinidad and Tobago;617;Z612;780;TT;TTO;;
+S;4;America;42;America centro meridionale;618;Uruguay;Uruguay;618;Z613;858;UY;URY;;
+S;4;America;42;America centro meridionale;619;Venezuela;Venezuela;619;Z614;862;VE;VEN;;
+S;5;Oceania;50;Oceania;701;Australia;Australia;701;Z700;036;AU;AUS;;
+S;5;Oceania;50;Oceania;703;Figi;Fiji;703;Z704;242;FJ;FJI;;
+S;5;Oceania;50;Oceania;708;Kiribati;Kiribati;708;Z731;296;KI;KIR;;
+S;5;Oceania;50;Oceania;712;Isole Marshall;Marshall Islands;712;Z711;584;MH;MHL;;
+S;5;Oceania;50;Oceania;713;Stati Federati di Micronesia;Federated States of Micronesia;713;Z735;583;FM;FSM;;
+S;5;Oceania;50;Oceania;715;Nauru;Nauru;715;Z713;520;NR;NRU;;
+S;5;Oceania;50;Oceania;719;Nuova Zelanda;New Zealand;719;Z719;554;NZ;NZL;;
+S;5;Oceania;50;Oceania;720;Palau;Palau;720;Z734;585;PW;PLW;;
+S;5;Oceania;50;Oceania;721;Papua Nuova Guinea;Papua New Guinea;721;Z730;598;PG;PNG;;
+S;5;Oceania;50;Oceania;725;Isole Salomone;Solomon Islands;725;Z724;090;SB;SLB;;
+S;5;Oceania;50;Oceania;727;Samoa;Samoa;727;Z726;882;WS;WSM;;
+S;5;Oceania;50;Oceania;730;Tonga;Tonga;730;Z728;776;TO;TON;;
+S;5;Oceania;50;Oceania;731;Tuvalu;Tuvalu;731;Z732;798;TV;TUV;;
+S;5;Oceania;50;Oceania;732;Vanuatu;Vanuatu;732;Z733;548;VU;VUT;;
+T;5;Oceania;50;Oceania;902;Nuova Caledonia;New Caledonia;718;Z716;n.d.;NC;NCL;215;FRA
+T;4;America;42;America centro meridionale;904;Saint-Martin (FR);Saint Martin (FR);542;n.d.;n.d.;MF;MAF;215;FRA
+T;2;Africa;22;Africa settentrionale;905;Sahara occidentale;Western Sahara;n.d.;Z339;n.d.;EH;ESH;;
+T;4;America;42;America centro meridionale;906;Saint-Barthélemy;Saint Barthelemy;541;n.d.;n.d.;BL;BLM;215;FRA
+T;4;America;41;America settentrionale;908;Bermuda;Bermuda;508;Z400;n.d.;BM;BMU;219;GBR
+T;5;Oceania;50;Oceania;909;Isole Cook (NZ);Cook Islands (NZ);702;Z703;n.d.;CK;COK;719;NZL
+T;1;Europa;13;Altri Paesi europei;910;Gibilterra;Gibraltar;218;Z113;n.d.;GI;GIB;219;GBR
+T;4;America;42;America centro meridionale;911;Isole Cayman;Cayman Islands;511;Z530;n.d.;KY;CYM;219;GBR
+T;4;America;42;America centro meridionale;917;Anguilla;Anguilla;502;Z529;n.d.;AI;AIA;219;GBR
+T;5;Oceania;50;Oceania;920;Polinesia francese;French Polynesia;724;Z723;n.d.;PF;PYF;215;FRA
+T;1;Europa;13;Altri Paesi europei;924;Isole Fær Øer;Faroe Islands;213;Z108;n.d.;FO;FRO;212;DNK
+T;1;Europa;13;Altri Paesi europei;925;Jersey;Jersey;273;n.d.;n.d.;JE;JEY;219;GBR
+T;4;America;42;America centro meridionale;926;Aruba;Aruba;603;Z501;n.d.;AW;ABW;232;NLD
+T;4;America;42;America centro meridionale;928;Sint Maarten (NL);St Maarten (NL);621;n.d.;n.d.;SX;SXM;232;NLD
+T;4;America;41;America settentrionale;934;Groenlandia;Greenland;520;Z402;n.d.;GL;GRL;212;DNK
+T;1;Europa;13;Altri Paesi europei;939;Sark;Sark;n.d.;n.d.;n.d.;n.d.;n.d.;219;GBR
+T;1;Europa;13;Altri Paesi europei;940;Guernsey;Guernsey;274;n.d.;n.d.;GG;GGY;219;GBR
+T;4;America;42;America centro meridionale;958;Isole Falkland (Malvine);Falkland Islands (Malvinas);610;Z609;n.d.;FK;FLK;219;GBR
+T;1;Europa;13;Altri Paesi europei;959;Isola di Man;Isle of Man;228;Z122;n.d.;IM;IMN;219;GBR
+T;4;America;42;America centro meridionale;964;Montserrat;Montserrat;528;Z531;n.d.;MS;MSR;219;GBR
+T;4;America;42;America centro meridionale;966;Curaçao;Curaçao;620;n.d.;n.d.;CW;CUW;232;NLD
+T;5;Oceania;50;Oceania;972;Isole Pitcairn;Pitcairn;723;Z722;n.d.;PN;PCN;219;GBR
+T;4;America;41;America settentrionale;980;Saint Pierre e Miquelon;Saint Pierre and Miquelon;535;Z403;n.d.;PM;SPM;215;FRA
+T;2;Africa;24;Africa centro meridionale;983;Sant'Elena;Saint Helena;447;Z340;n.d.;SH;SHN;219;GBR
+T;5;Oceania;50;Oceania;988;Terre australi e antartiche francesi;French Southern Territories;806;n.d.;n.d.;TF;ATF;215;FRA
+T;4;America;42;America centro meridionale;992;Isole Turks e Caicos;Turks and Caicos Islands;537;Z519;n.d.;TC;TCA;219;GBR
+T;4;America;42;America centro meridionale;994;Isole Vergini britanniche;British Virgin Islands;539;Z525;n.d.;VG;VGB;219;GBR
+T;5;Oceania;50;Oceania;997;Wallis e Futuna;Wallis and Futuna Islands;734;Z729;n.d.;WF;WLF;215;FRA

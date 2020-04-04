@@ -1,0 +1,156 @@
+# Categories are tuples:
+# [0]: Display name
+# [1]: Label name
+# [2]: Marker icon (fontawesome)
+# [3]: Marker color
+it:
+  -
+    - Raccolte fondi
+    - Raccolte fondi
+    - eur
+    - purple
+  - 
+    - Giochi/intrattenimento bambini
+    - Giochi/intrattenimento bambini
+    - handshake-o
+    - blue
+  - 
+    - Servizi e iniziative solidali
+    - Servizi e iniziative solidali
+    - handshake-o
+    - blue
+  - 
+    - Iniziative culturali e ricreative
+    - Attivita culturali e ricreative
+    - icons
+    - cyan
+  - 
+    - Consegne e commissioni
+    - Consegne e commissioni
+    - truck
+    - orange
+  - 
+    - Supporto psicologico
+    - Supporto psicologico
+    - hands-helping
+    - green
+  - 
+    - Sostegno lavoro e imprese
+    - Sostegno lavoro e imprese
+    - industry
+    - grey
+  - 
+    - Donazioni beni e Offerte servizi
+    - Donazioni beni/strumenti
+    - donate
+    - yellow
+  - 
+    - Didattica a distanza e-learning
+    - Didattica a distanza e-learning
+    - chalkboard-teacher
+    - white
+  - 
+    - Notizie Utili
+    - Notizie Utili
+    - newspaper
+    - red
+pt:
+  -
+    - Raccolte fondi
+    - Raccolte fondi
+    - eur
+    - purple
+  - 
+    - Giochi/intrattenimento bambini
+    - Giochi/intrattenimento bambini
+    - handshake-o
+    - blue
+  - 
+    - Servizi e iniziative solidali
+    - Servizi e iniziative solidali
+    - handshake-o
+    - blue
+  - 
+    - Iniziative culturali e ricreative
+    - Attivita culturali e ricreative
+    - icons
+    - cyan
+  - 
+    - Consegne e commissioni
+    - Consegne e commissioni
+    - truck
+  - 
+    - Supporto psicologico
+    - Supporto psicologico
+    - hands-helping
+    - green
+  - 
+    - Sostegno lavoro e imprese
+    - Sostegno lavoro e imprese
+    - industry
+    - grey
+  - 
+    - Donazioni beni e Offerte servizi
+    - Donazioni beni/strumenti
+    - donate
+    - yellow
+  - 
+    - Didattica a distanza e-learning
+    - Didattica a distanza e-learning
+    - chalkboard-teacher
+    - white
+  - 
+    - Notizie Utili
+    - Notizie Utili
+    - newspaper
+    - red
+gr:
+  -
+    - Raccolte fondi
+    - Raccolte fondi
+    - eur
+    - purple
+  - 
+    - Giochi/intrattenimento bambini
+    - Giochi/intrattenimento bambini
+    - handshake-o
+    - blue
+  - 
+    - Servizi e iniziative solidali
+    - Servizi e iniziative solidali
+    - handshake-o
+    - blue
+  - 
+    - Iniziative culturali e ricreative
+    - Attivita culturali e ricreative
+    - icons
+    - cyan
+  - 
+    - Consegne e commissioni
+    - Consegne e commissioni
+    - truck
+  - 
+    - Supporto psicologico
+    - Supporto psicologico
+    - hands-helping
+    - green
+  - 
+    - Sostegno lavoro e imprese
+    - Sostegno lavoro e imprese
+    - industry
+    - grey
+  - 
+    - Donazioni beni e Offerte servizi
+    - Donazioni beni/strumenti
+    - donate
+    - yellow
+  - 
+    - Didattica a distanza e-learning
+    - Didattica a distanza e-learning
+    - chalkboard-teacher
+    - white
+  - 
+    - Notizie Utili
+    - Notizie Utili
+    - newspaper
+    - red

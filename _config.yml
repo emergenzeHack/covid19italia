@@ -237,7 +237,7 @@ gems:
 page_gen-dirs: true # uncomment, if you prefer to generate named folders
 page_gen:
     - index_files: false
-      data: issuesjson
+      data: machgen.issuesjson
       template: issue
       name: number
       dir: issues
