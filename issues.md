@@ -1,8 +1,8 @@
 ---
-lang: it
+lang: gr
 layout: issuelist
-title: "Emergenza coronavirus: tutte le segnalazioni"
-subtitle: Scopri tutte le segnalazioni fatte sulla piattaforma Covid19Italia.Help
+title: "Όλες οι Πληροφορίες"
+subtitle: Ανακαλύψτε όλες τις αναφορές που έγιναν στην πλατφόρμα Covid19Greece.Help
 permalink: /issues/
 categorieMapAll: true
 ---
