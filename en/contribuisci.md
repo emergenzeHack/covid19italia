@@ -32,8 +32,8 @@ When you are ready with this please open an issue [here](https://github.com/emer
 
 Here the basic step to integrate you in our platform (we can support you in this procedure), you need:
 
-### On Telegram
-- At least a [Telegram](https://web.telegram.org/#/login) account to contact us. We will create a Telegram group for coordination.
+### On Slack
+- At least a [Slack](https://slack.com/intl/en-it/) account to contact us. We will create a Slack channel for coordination with you.
 
 ### On Github
 - At least a [Github](www.github.com) Account to moderate issues and make modifications to the web platform. We will create a Github editor group for reports management.
