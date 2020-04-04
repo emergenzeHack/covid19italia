@@ -23,6 +23,6 @@ In questa fase molto delicata per il nostro paese abbiamo bisogno di tutto il su
 
 [Per istruzioni visualizza la pagina Wiki, clicca qui!](https://www.covid19italia.help/wiki/)
 
-Che aspetti ad unirti a noi?
+Che aspetti [ad unirti a noi su Slack per parlarne?](https://join.slack.com/t/covid19peoplehelp/shared_invite/zt-dbg7ctmp-ta7ZYJN5Lvvse1w0eCymMQ)?
 Insieme ce la faremo!
 Grazie a tutti!
