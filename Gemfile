@@ -22,10 +22,10 @@ group :jekyll_plugins do
   gem 'activesupport'
   gem 'tzinfo', '1.2.3'
   gem 'tzinfo-data', '1.2017.2'
+  gem 'jekyll-tidy'
 end
 
 gem 'html-proofer'
-gem 'jekyll-tidy'
 gem 'rinku'
 
 gem 'sassc', '~> 2.1.0' # https://github.com/sass/sassc-ruby/issues/146
