@@ -14,11 +14,6 @@ Our project is [Github](www.github.com) based. If you don't know Github you can 
 
 * To discuss with us in the project chat you can join our [Slack](https://covid19peoplehelp.slack.com)
 
-Here a simple diagram of how our project works.
-
-![](https://raw.githubusercontent.com/emergenzeHack/covid19italia/master/images/process1.jpg)
-
-
 ## Are you are interested in development of this project?
 
 You can contribute in different ways:
@@ -85,6 +80,10 @@ Take note of the hyperlinks of all your webforms that will be embedded in the pa
 - Moderation Team can add to the report the "approved" label (after a verification of the reports) in order to send issue in the data of the project.
 - Moderation Team can add additional labels (optionally) if is necessary.
 - Each page of the website receive (automatically) approved reports with the labels configured to be received for that page.
+
+Here a simple diagram of how our project works.
+
+![](https://raw.githubusercontent.com/emergenzeHack/covid19italia/master/images/process1.jpg)
 
 **So since your comunity will integrated, your Moderation Team will be able to see in the Github Reports repo submitted reports, will accept the reports and then the reports will be publish on the website.**
 
