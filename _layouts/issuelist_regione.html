@@ -5,32 +5,47 @@ categorieMapAll: True
 lang: it
 ---
 
-{%- assign openissues = site.data.machgen.issuesjson | where: "state","open" -%}
-
 {%- if page.nome_provincia != blank -%}
     {%- assign geofilteredissues = openissues | where_exp: "member", "member.issue.provincia == page.nome_provincia" -%}
 {%- else -%}
     {%- if page.nome_regione != blank -%}
-        {%- assign geofilteredissues = openissues |  where_exp: "member", "member.issue.regione == page.nome_regione" -%}
+        {%- assign geofilteredissues = openissues |  where_exp: "member", "member.issue.regione == page.nome_regione or member.issue.regione == 'tutte'" -%}
     {%- else -%}
         {%- assign geofilteredissues = openissues  -%}
     {%- endif -%}
 {%- endif -%}
-{%- if page.issuecategories -%}
-{%- assign issuecategories = page.issuecategories[page.lang] -%}
+
+{%- if page.issuecategory != blank -%}
+
+    {% assign issuecategories = "" | split: "," %}
+    {% assign tmpcategory = "" | split: "," %}
+    {%- assign tmpcategory = tmpcategory | push: page.issuecategory -%}
+    {%- assign tmpcategory = tmpcategory | push: site.data.cfg.issuecategories[page.issuecategory] -%}
+    {%- assign issuecategories = issuecategories |  push: tmpcategory -%}
+
+{%- elsif page.displayname != blank and page.markericon != blank -%}
+
+    {% assign issuecategories = "" | split: "," %}
+    {% assign tmpcategory = "" | split: "," %}
+    {%- assign tmpcategory = tmpcategory | push: "page" -%}
+    {%- assign tmpcategory = tmpcategory | push: page -%}
+    {%- assign issuecategories = issuecategories |  push: tmpcategory -%}
+
 {%- else -%}
-{%- assign issuecategories = site.data.cfg.issuecategories[page.lang] -%}
+
+    {%- assign issuecategories = site.data.cfg.issuecategories -%}
+
 {%- endif -%}
 
 <a href="/issues/regione/{{page.nome_regione | replace: "'", "" | slugify}}/province.html"class="btn btn-primary btn-lg btn-block col-12 mb-15" role="button">Segnalazioni per provincia</a>
 
-
 <div class="row mx-auto">
-{%- for category in issuecategories -%}
-  <div class="col-12 col-sm-6 mb-15">
-	  <a href="#{{category[0] | slugify}}" class="btn btn-success btn-block" role="button" id="button_{{category[0] | slugify}}">{{category[0]}}</a>
+{% for categorytuple in issuecategories %}
+{% assign category = categorytuple[1] %}
+  <div class="col-xs-12 col-sm-6 mb-15">
+	  <a href="{{category["permalink"]}}" class="btn btn-primary btn-block">{{category["displayname"]}}</a>
 	</div>
-{%- endfor -%}
+{% endfor %}
 </div>
 
 
