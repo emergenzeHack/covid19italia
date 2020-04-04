@@ -17,7 +17,7 @@ justLatestIssues: true
 <div class="row mx-auto">
 {% for category in issuecategories %}
   <div class="col-xs-12 col-sm-6 mb-15">
-	  <a href="/{{category[0] | slugify}}" class="btn btn-success btn-block">{{category[0]}}</a>
+	  <a href="/{{category[0] | slugify}}" class="btn btn-primary btn-block">{{category[0]}}</a>
 	</div>
 {% endfor %}
 </div>
