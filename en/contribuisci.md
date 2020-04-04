@@ -58,7 +58,7 @@ Remark, two labels are mandatory and are in English:
 To configure the platform these are the main steps (please change your files in your repo and in your branch, possibly with PULL REQUEST on Github). In the main repo:
 - General Configuration Site Data are stored in **_config.yml** file. An example is [this one](https://github.com/emergenzeHack/covid19italia/blob/master/_config.yml)
 - Home Page main objects are configurable in **index.html** file. An example is [this one](https://github.com/emergenzeHack/covid19italia/blob/master/index.html)
-- For each page you can configure a permalink, title (and the relative LABEL in the page if is a report page)
+- For each page you can configure a permalink (remember that if you change the permalink you need to update the reference to this link in all the website), title (subtitle) and right LABEL of the category in the page (if it is a reports page)
 
 In the data repo:
 - Reports Categories are configurable in **cfg/issuecategories.yml** file. An example is [this one](https://github.com/emergenzeHack/covid19italia_data/blob/master/cfg/issuecategories.yml)
@@ -80,10 +80,18 @@ In the data repo:
   ![](https://user-images.githubusercontent.com/368961/33343306-cc3ad2b6-d452-11e7-971b-3480e6ae2257.png)
 Take note of the hyperlinks of all your webforms that will be embedded in the pages of [_segnalazioni](https://github.com/emergenzeHack/covid19italia/tree/master/_segnalazioni) folder.
 
-**From the moment when you will integrate your Moderation Team will be able to see in the Github Reports repo your reports, will accept the reports and then the reports will be publish on the website.**
+### How works the workflow process to moderate Reports?
+- Webforms on Kobo will be deploied in a way that for every report submission an issue will be created in the reports repo on Github. This report will have the label related to category of the webform used.
+- Moderation Team can add to the report the "approved" label (after a verification of the reports) in order to send issue in the data of the project.
+- Moderation Team can add additional labels (optionally) if is necessary.
+- Each page of the website receive (automatically) approved reports with the labels configured to be received for that page.
+
+**So since your comunity will integrated, your Moderation Team will be able to see in the Github Reports repo submitted reports, will accept the reports and then the reports will be publish on the website.**
 
 **Our Moderation Team suggest a [policy like this one](../policy/) to manage reports and socials.**
 
-Here a little diagram to explain how the project is organized in multi-country configuration. We wait you! Thanks!
+Here a little diagram to explain how the project is organized in multi-country configuration.
+
+**We wait you! Thanks!**
 
 ![](https://raw.githubusercontent.com/emergenzeHack/covid19italia/master/images/diagramma%20(1).png)
