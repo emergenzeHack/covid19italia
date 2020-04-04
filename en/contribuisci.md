@@ -12,6 +12,8 @@ We need the help of active citizens of the world in other to be help people in d
 
 Our project is [Github](www.github.com) based. If you don't know Github you can look at [this video](https://www.youtube.com/watch?v=noZnOSpcjYY&t) as introduction.
 
+* To discuss with us in the project chat you can join our [Slack](https://covid19peoplehelp.slack.com)
+
 Here a simple diagram of how our project works.
 
 ![](https://raw.githubusercontent.com/emergenzeHack/covid19italia/master/images/process1.jpg)
@@ -21,13 +23,11 @@ Here a simple diagram of how our project works.
 
 You can contribute in different ways:
 
-* Do you have a civic hackers community to develop coding? Ok. You can start to open issues, discuss here and make a part of  job on Github [here](https://github.com/emergenzeHack/covid19italia/issues).
+* Are you a software developer o civic hacker? Ok. You can start to open issues, discuss here and make a part of job on Github [here](https://github.com/emergenzeHack/covid19italia/issues). You can also read our wiki for developers [here](https://www.covid19italia.help/en/wiki/) and we wait for you pull requests!
 
-* Do you have other active citizens or associations? Ok. You can also contribute to the translation in your country languages, translate part of the website and then you can pull request in the Github Repo Or you can send your translation with a specific issue [here](https://github.com/emergenzeHack/covid19italia/issues) asking to add the translation.
+* Do you have other active citizens or associations? Ok. You can also contribute to the setup in your country languages, translate part of the website and deploy your version or you can send your request of reuse with a specific issue [here](https://github.com/emergenzeHack/covid19italia/issues).
 
-* To discuss with us in the project chat you can join our [Slack](https://covid19peoplehelp.slack.com)
-
-## How organize your community to crowdsource reports?
+## How organize your community and crowdsource your reports?
 
 In addition to civic hacker community the most important part of the project is composed by a Reports Moderation Team.
 
