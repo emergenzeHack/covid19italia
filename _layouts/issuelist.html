@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: base
 ---
 
 {%- assign openissues = site.data.machgen.issuesjson | where: "state","open" -%}
@@ -8,17 +8,42 @@ layout: page
     {%- assign geofilteredissues = openissues | where_exp: "member", "member.issue.provincia == page.nome_provincia" -%}
 {%- else -%}
     {%- if page.nome_regione != blank -%}
-        {%- assign geofilteredissues = openissues |  where_exp: "member", "member.issue.regione == page.nome_regione" -%}
+        {%- assign geofilteredissues = openissues |  where_exp: "member", "member.issue.regione == page.nome_regione or member.issue.regione == 'tutte'" -%}
     {%- else -%}
         {%- assign geofilteredissues = openissues  -%}
     {%- endif -%}
 {%- endif -%}
 
-{%- if page.issuecategories -%}
-{%- assign issuecategories = page.issuecategories[page.lang] -%}
+{%- if page.issuecategory != blank -%}
+
+    {% assign issuecategories = "" | split: "," %}
+    {% assign tmpcategory = "" | split: "," %}
+    {%- assign tmpcategory = tmpcategory | push: page.issuecategory -%}
+    {%- assign tmpcategory = tmpcategory | push: site.data.cfg.issuecategories[page.issuecategory] -%}
+    {%- assign issuecategories = issuecategories |  push: tmpcategory -%}
+
+{%- elsif page.displayname != blank and page.markericon != blank -%}
+
+    {% assign issuecategories = "" | split: "," %}
+    {% assign tmpcategory = "" | split: "," %}
+    {%- assign tmpcategory = tmpcategory | push: "page" -%}
+    {%- assign tmpcategory = tmpcategory | push: page -%}
+    {%- assign issuecategories = issuecategories |  push: tmpcategory -%}
+
 {%- else -%}
-{%- assign issuecategories = site.data.cfg.issuecategories[page.lang] -%}
+
+    {%- assign issuecategories = site.data.cfg.issuecategories -%}
+
 {%- endif -%}
+
+        {%- if page.displayname -%}
+{% include header.html type="page" pagetitle=page.displayname %}
+        {%- else -%}
+{% include header.html type="page" %}
+        {%- endif -%}
+<div class="container-fluid" role="main">
+  <div class="row">
+    <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1 col-sm-12">
 
 {{content}}
 
@@ -53,15 +78,22 @@ layout: page
 
 
 {%- assign allcatfilteredissues = '' | split: '' -%}
-{%- for category in issuecategories -%}
+{%- for categorytuple in issuecategories -%}
+{%- assign category = categorytuple[1] -%}
 
-{%- assign filteredissues = geofilteredissues | where_exp: "member","member.issue.labels contains category[1]" -%}
+{%- assign filteredissues = '' | split: '' -%}
+{% for issuelabel in category["labelnames"] %}
+    {%- assign tmpfilteredissues = geofilteredissues | where_exp: "member","member.issue.labels contains issuelabel" -%}
+    {%- assign filteredissues = filteredissues | concat: tmpfilteredissues | uniq -%}
+{% endfor %}
+{%- assign filteredissues = filteredissues | sort: 'number' | reverse -%}
+
 {%- if filteredissues.size > 0 -%}
 <div class="row">
     {%- assign allcatfilteredissues = allcatfilteredissues | concat: filteredissues | uniq -%}
     <div class="row">
         <div class="col-12">
-            <h2 id="{{category[0]|slugify}}">{{category[0]}} <span class="badge badge-pill badge-primary">{{filteredissues.size}}</span></h2>
+            <h2 id="{{category['displayname']|slugify}}">{{category["displayname"]}} <span class="badge badge-pill badge-primary">{{filteredissues.size}}</span></h2>
             {%- if page.justLatestIssues -%}
             {%- assign filteredissues = filteredissues | sort: 'number' | reverse | slice: 0,5 -%}
             {%- endif -%}
@@ -94,7 +126,7 @@ layout: page
     </div>
     {%- if page.justLatestIssues -%}
     <div class="row">
-        <div class="col"><a href="/{{category[0] | slugify}}" class="btn btn-primary btn-lg">Vedi tutte {{category[0]}}</a></div>
+        <div class="col"><a href="{{category['permalink']}}" class="btn btn-primary btn-lg">Vedi tutte {{category["displayname"]}}</a></div>
         <hr class="col-12">
     </div>
 </div>
@@ -108,6 +140,14 @@ layout: page
 {%- else -%}
 {%- assign filteredissues = allcatfilteredissues -%}
 {%- endif -%}
+</div>
+	    {% if page.comments %}
+        <div class="disqus-comments">
+	        {% include disqus.html %}
+        </div>
+	    {% endif %}
+    </div>
+  </div>
 </div>
 
 <script>
@@ -123,9 +163,9 @@ var markerList=[];
 
 // define icons
 var markerIcons = {};
-{% for category in site.data.cfg.issuecategories[page.lang] %}
-var newMarker = L.AwesomeMarkers.icon({icon: "{{category[2]}}", markerColor: "{{category[3]}}", prefix: 'fa'}); // iniziative solidali pubbliche e private
-markerIcons["{{category[1]}}"]=newMarker;
+{% for category in site.data.cfg.issuecategories %}
+var newMarker = L.AwesomeMarkers.icon({icon: "{{category['markericon']}}", markerColor: "{{category['markercolor']}}", prefix: 'fa'}); // iniziative solidali pubbliche e private
+markerIcons["{{category['labelname']}}"]=newMarker;
 {% endfor %}
 var iconaDefault = L.AwesomeMarkers.icon({icon: '', markerColor: 'darkpurple'});
 

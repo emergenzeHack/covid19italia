@@ -1,156 +1,71 @@
-# Categories are tuples:
-# [0]: Display name
-# [1]: Label name
-# [2]: Marker icon (fontawesome)
-# [3]: Marker color
-it:
-  -
+fundraising:
+  displayname: Raccolte fondi
+  labelnames: 
     - Raccolte fondi
-    - Raccolte fondi
-    - eur
-    - purple
-  - 
+  permalink: /raccolte-fondi/
+  markericon: eur
+  markercolor: purple
+games and activities for children:
+  displayname: Giochi/intrattenimento bambini
+  labelnames: 
     - Giochi/intrattenimento bambini
-    - Giochi/intrattenimento bambini
-    - handshake-o
-    - blue
-  - 
-    - Servizi e iniziative solidali
-    - Servizi e iniziative solidali
-    - handshake-o
-    - blue
-  - 
-    - Iniziative culturali e ricreative
+  permalink: /giochi-intrattenimento-bambini/
+  markericon: handshake-o
+  markercolor: blue
+solidarity services and initiatives:
+  displayname: Servizi e iniziative solidali
+  labelnames:
+    - Servizi e iniziative solidali pubbliche
+    - Servizi e iniziative solidali private
+  permalink: /servizi-e-iniziative-solidali/
+  markericon: handshake-o
+  markercolor: blue
+cultural activities and leisure:
+  displayname: Iniziative culturali e ricreative
+  labelnames: 
     - Attivita culturali e ricreative
-    - icons
-    - cyan
-  - 
+  permalink: /iniziative-culturali-e-ricreative/
+  markericon: icons
+  markercolor: cyan
+deliveries and services:
+  displayname: Consegne e commissioni
+  labelnames: 
     - Consegne e commissioni
-    - Consegne e commissioni
-    - truck
-    - orange
-  - 
+  permalink: /consegne-e-commissioni/
+  markericon: truck
+  markercolor: orange
+psychological support:
+  displayname: Supporto psicologico
+  labelnames: 
     - Supporto psicologico
-    - Supporto psicologico
-    - hands-helping
-    - green
-  - 
+  permalink: /supporto-psicologico/
+  markericon: hands-helping
+  markercolor: green
+work and business support:
+  displayname: Sostegno lavoro e imprese
+  labelnames: 
     - Sostegno lavoro e imprese
-    - Sostegno lavoro e imprese
-    - industry
-    - grey
-  - 
-    - Donazioni beni e Offerte servizi
+  permalink: /sostegno-lavoro-e-imprese/
+  markericon: industry
+  markercolor: grey
+goods donations and services offering:
+  displayname: Donazioni beni e Offerte servizi
+  labelnames: 
     - Donazioni beni/strumenti
-    - donate
-    - yellow
-  - 
+  permalink: /donazioni-beni-e-offerte-servizi/
+  markericon: donate
+  markercolor: yellow
+e-learning:
+  displayname: Didattica a distanza e-learning
+  labelnames: 
     - Didattica a distanza e-learning
-    - Didattica a distanza e-learning
-    - chalkboard-teacher
-    - white
-  - 
+  permalink: /didattica-a-distanza-e-learning/
+  markericon: chalkboard-teacher
+  markercolor: white
+useful news:
+  displayname: Notizie Utili
+  labelnames: 
     - Notizie Utili
-    - Notizie Utili
-    - newspaper
-    - red
-pt:
-  -
-    - Raccolte fondi
-    - Raccolte fondi
-    - eur
-    - purple
-  - 
-    - Giochi/intrattenimento bambini
-    - Giochi/intrattenimento bambini
-    - handshake-o
-    - blue
-  - 
-    - Servizi e iniziative solidali
-    - Servizi e iniziative solidali
-    - handshake-o
-    - blue
-  - 
-    - Iniziative culturali e ricreative
-    - Attivita culturali e ricreative
-    - icons
-    - cyan
-  - 
-    - Consegne e commissioni
-    - Consegne e commissioni
-    - truck
-  - 
-    - Supporto psicologico
-    - Supporto psicologico
-    - hands-helping
-    - green
-  - 
-    - Sostegno lavoro e imprese
-    - Sostegno lavoro e imprese
-    - industry
-    - grey
-  - 
-    - Donazioni beni e Offerte servizi
-    - Donazioni beni/strumenti
-    - donate
-    - yellow
-  - 
-    - Didattica a distanza e-learning
-    - Didattica a distanza e-learning
-    - chalkboard-teacher
-    - white
-  - 
-    - Notizie Utili
-    - Notizie Utili
-    - newspaper
-    - red
-gr:
-  -
-    - Raccolte fondi
-    - Raccolte fondi
-    - eur
-    - purple
-  - 
-    - Giochi/intrattenimento bambini
-    - Giochi/intrattenimento bambini
-    - handshake-o
-    - blue
-  - 
-    - Servizi e iniziative solidali
-    - Servizi e iniziative solidali
-    - handshake-o
-    - blue
-  - 
-    - Iniziative culturali e ricreative
-    - Attivita culturali e ricreative
-    - icons
-    - cyan
-  - 
-    - Consegne e commissioni
-    - Consegne e commissioni
-    - truck
-  - 
-    - Supporto psicologico
-    - Supporto psicologico
-    - hands-helping
-    - green
-  - 
-    - Sostegno lavoro e imprese
-    - Sostegno lavoro e imprese
-    - industry
-    - grey
-  - 
-    - Donazioni beni e Offerte servizi
-    - Donazioni beni/strumenti
-    - donate
-    - yellow
-  - 
-    - Didattica a distanza e-learning
-    - Didattica a distanza e-learning
-    - chalkboard-teacher
-    - white
-  - 
-    - Notizie Utili
-    - Notizie Utili
-    - newspaper
-    - red
+  permalink: /notizie-utili/
+  markericon: newspaper
+  markercolor: red

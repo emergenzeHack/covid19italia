@@ -235,7 +235,18 @@ gems:
   - jekyll-tidy
 
 page_gen-dirs: true # uncomment, if you prefer to generate named folders
+
 page_gen:
+    - index_files: true
+      data: cfg.issuecategories
+      template: issuelist_category
+      name_expr: "record['permalink']"
+      dir: /
+    - index_files: false
+      data: machgen.issuesjson
+      template: issue
+      name: number
+      dir: issues
     - index_files: false
       data: machgen.issuesjson
       template: issue
