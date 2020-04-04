@@ -62,6 +62,9 @@ In the data repo:
 - Region List is configurable in **geo/regioni.json** file. An example is [this one](https://github.com/emergenzeHack/covid19gr_data/blob/master/geo/regioni.json)
 - City List is configurable in **geo/province.json** file. An example is [this one](https://github.com/emergenzeHack/covid19gr_data/blob/master/geo/province.json)
 
+In the reports repo:
+- Just add in the section of issue labels the list of the labels [like this](https://docs.google.com/spreadsheets/d/1a3N9kTjEs3FCzfw0_MmxYXq8z87m12kR-BndiFQfNEU/edit#gid=0). Remember that this list is a mandatory standard. Then you can add more labels if you need or not use some label.
+
 ### On Kobo Toolbox
 - At least a [Kobo](https://kobo.humanitarianresponse.info/) Toolbox account in order to manage your webforms and translate them. We will share basic form that you have to translate in your language in this way:
   - Go into your Kobo Profile and search the web form shared by us.
