@@ -236,117 +236,18 @@ gems:
   - jekyll-tidy
 
 page_gen-dirs: true # uncomment, if you prefer to generate named folders
+
 page_gen:
+    - index_files: true
+      data: cfg.issuecategories
+      template: issuelist_category
+      name_expr: "record['permalink']"
+      dir: /
     - index_files: false
-      data: issuesjson
+      data: machgen.issuesjson
       template: issue
       name: number
       dir: issues
-    - index_files: true
-      data: geo.regioni
-      template: issuelist_regione
-      dir: issues/regione/
-      name: nome_regione
-    - index_files: true
-      data: geo.province.Abruzzo
-      template: issuelist_provincia
-      dir: issues/regione/abruzzo
-      name: nome_provincia
-    - index_files: true
-      data: geo.province.Basilicata
-      template: issuelist_provincia
-      dir: issues/regione/basilicata
-      name: nome_provincia
-    - index_files: true
-      data: geo.province.Calabria
-      template: issuelist_provincia
-      dir: issues/regione/calabria
-      name: nome_provincia
-    - index_files: true
-      data: geo.province.Campania
-      template: issuelist_provincia
-      dir: issues/regione/campania
-      name: nome_provincia
-    - index_files: true
-      data: geo.province.Emilia-Romagna
-      template: issuelist_provincia
-      dir: issues/regione/emilia-romagna
-      name: nome_provincia
-    - index_files: true
-      data: geo.province.Friuli Venezia Giulia
-      template: issuelist_provincia
-      dir: issues/regione/friuli-venezia-giulia
-      name: nome_provincia
-    - index_files: true
-      data: geo.province.Lazio
-      template: issuelist_provincia
-      dir: issues/regione/lazio
-      name: nome_provincia
-    - index_files: true
-      data: geo.province.Liguria
-      template: issuelist_provincia
-      dir: issues/regione/liguria
-      name: nome_provincia
-    - index_files: true
-      data: geo.province.Lombardia
-      template: issuelist_provincia
-      dir: issues/regione/lombardia
-      name: nome_provincia
-    - index_files: true
-      data: geo.province.Marche
-      template: issuelist_provincia
-      dir: issues/regione/marche
-      name: nome_provincia
-    - index_files: true
-      data: geo.province.Molise
-      template: issuelist_provincia
-      dir: issues/regione/molise
-      name: nome_provincia
-    - index_files: true
-      data: geo.province.Piemonte
-      template: issuelist_provincia
-      dir: issues/regione/piemonte
-      name: nome_provincia
-    - index_files: true
-      data: geo.province.Puglia
-      template: issuelist_provincia
-      dir: issues/regione/puglia
-      name: nome_provincia
-    - index_files: true
-      data: geo.province.Sardegna
-      template: issuelist_provincia
-      dir: issues/regione/sardegna
-      name: nome_provincia
-    - index_files: true
-      data: geo.province.Sicilia
-      template: issuelist_provincia
-      dir: issues/regione/sicilia
-      name: nome_provincia
-    - index_files: true
-      data: geo.province.Toscana
-      template: issuelist_provincia
-      dir: issues/regione/toscana
-      name: nome_provincia
-    - index_files: true
-      data: geo.province.Trentino-Alto Adige
-      template: issuelist_provincia
-      dir: issues/regione/trentino-alto-adige
-      name: nome_provincia
-    - index_files: true
-      data: geo.province.Umbria
-      template: issuelist_provincia
-      dir: issues/regione/umbria
-      name: nome_provincia
-    - index_files: true
-      data: geo.province.Valle d'Aosta
-      template: issuelist_provincia
-      dir: issues/regione/valle-daosta
-      name: nome_provincia
-    - index_files: true
-      data: geo.province.Veneto
-      template: issuelist_provincia
-      dir: issues/regione/veneto
-      name: nome_provincia
 
 
 jekyll_tidy:
@@ -357,8 +258,8 @@ jekyll_tidy:
 # Impostazioni mappa
 
 issuemap:
-        center: 42.629381, 13.288372
-        zoom: 5
+        center: 38.41056, 25.10376
+        zoom: 6
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189

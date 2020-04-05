@@ -1,0 +1,63 @@
+languages:
+  - language: it
+    navbar-links:
+      SEGNALA: "segnala/"
+      SCOPRI:
+        - SEGNALAZIONI : "issues/"
+        - SEGNALAZIONI PER REGIONE: "issues/regione/"
+      SEGUI:
+        - NOTIZIE: "notizie-utili/"
+        - BLOG : "post/"
+        - CONTATTI: "canali/"
+      COS'È?:
+        - ABOUT: "about/"
+        - PRESS: "press/"
+        - DOMANDE FREQUENTI: "faq/"
+        - OPEN DATA: "opendata/"
+      PARTECIPA:
+        - COME PARTECIPARE: "contribuisci/"
+        - WIKI: "wiki/"
+      PRIVACY: "legal"
+  - language: en
+    navbar-links:
+      RECOMMEND: "en/recommend/"
+      DISCOVER:
+        - ITALIAN INITIATIVES : "issues/"
+        - INITIATIVES FOR ITALIAN REGION : "issues/regione/"
+      FOLLOW:
+        - ITALIAN NEWS: "notizie-utili/"
+        - CONTACTS: "en/channels/"
+      WHAT IS THIS?:
+        - ABOUT: "en/about/"
+        - FAQ: "en/faq/"
+        - OPEN DATA: "en/opendata/"
+      CONTRIBUTE:
+        - ACTIVATE YOUR COUNTRY: "en/contribute/"
+        - WIKI: "en/wiki/"
+      PRIVACY: "legal"
+  - language: pt
+    navbar-links:
+      RELATORIOS: "pt/recommend/"
+      DESCUBRA:
+        - Iniciativas italianas : "issues/"
+      SIGA-NOS:
+        - CONTATOS: "pt/contatos/"
+      O QUE É ISSO?:
+        - SOBRE: "pt/sobre/"
+        - FAQ: "pt/faq/"
+        - OPEN DATA: "pt/opendata/"
+      CONTRIBUIR:
+        - WIKI: "pt/wiki/"
+      PRIVACY: "legal"
+  - language: gr
+    navbar-links:
+      Ανέβασε μια πληροφορία: "anebase-pliroforia/"
+      Σχετικά:
+        - Σχετικά: "about/"
+        - Τύπος: "press/"
+        - Συχνές Ερωτήσεις: "faq/"
+        - Ανοιχτά δεδομένα: "opendata/"
+      Πληροφορίες: "issues/"
+       #- SEGNALAZIONI PER REGIONE: "issues/regione/"
+      Προστασία δεδομένων: "legal/"
+      Επικοινωνία: "canali/"

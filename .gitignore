@@ -6,7 +6,7 @@ _site/
 *.swp
 
 # Splitted repo
-_data/
+_data/machgen
 
 # Bundler
 .bundle/

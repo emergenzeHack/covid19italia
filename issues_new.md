@@ -8,17 +8,16 @@ categorieMapAll: true
 justLatestIssues: true
 ---
 
-{% if page.categorieissue %}
-{% assign categorieissue = page.categorieissue %}
+{% if page.issuecategories %}
+{% assign issuecategories = page.issuecategories[page.lang] %}
 {% else %}
-{% assign categorieissue = site.categorieissue %}
+{% assign issuecategories = site.data.cfg.issuecategories[page.lang] %}
 {% endif %}
 
 <div class="row mx-auto">
-{% for categoriatuple in categorieissue %}
-{% assign categoria = categoriatuple | split: ";" %}
+{% for category in issuecategories %}
   <div class="col-xs-12 col-sm-6 mb-15">
-	  <a href="/{{categoria[0] | slugify}}" class="btn btn-success btn-block">{{categoria[0]}}</a>
+	  <a href="/{{category[0] | slugify}}" class="btn btn-success btn-block">{{category[0]}}</a>
 	</div>
 {% endfor %}
 </div>

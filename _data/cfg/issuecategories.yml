@@ -1,0 +1,71 @@
+fundraising:
+  displayname: Συγκέντρωση ειδών/πόρων
+  labelnames: 
+    - fundraising
+  permalink: /fundraising/
+  markericon: eur
+  markercolor: purple
+games and activities for children:
+  displayname: Παιχνίδια / ψυχαγωγία για παιδιά
+  labelnames: 
+    - games and activities for children
+  permalink: /games-and-activities-for-children/
+  markericon: handshake-o
+  markercolor: blue
+solidarity services and initiatives:
+  displayname: Υπηρεσίες αλληλεγγύης και πρωτοβουλίες
+  labelnames:
+    - public solidarity services and initiatives
+    - private solidarity services and initiatives
+  permalink: /solidarity-services-and-initiatives/
+  markericon: handshake-o
+  markercolor: blue
+cultural activities and leisure:
+  displayname: Πολιτιστικές και ψυχαγωγικές πρωτοβουλίες
+  labelnames: 
+    - cultural activities and leisure
+  permalink: /cultural-activities-and-leisure/
+  markericon: icons
+  markercolor: cyan
+deliveries and services:
+  displayname: Παραδόσεις και προμήθειες
+  labelnames: 
+    - deliveries and services
+  permalink: /deliveries-and-services/
+  markericon: truck
+  markercolor: orange
+psychological support:
+  displayname: Ψυχολογική υποστήριξη
+  labelnames: 
+    - psychological support
+  permalink: /psychological-support/
+  markericon: hands-helping
+  markercolor: green
+work and business support:
+  displayname: Υποστηρίξτε τις εργασίες και τις επιχειρήσεις
+  labelnames: 
+    - work and business support
+  permalink: /work-and-business-support/
+  markericon: industry
+  markercolor: grey
+goods donations and services offering:
+  displayname: Δωρεές αγαθών και προσφορές υπηρεσιών
+  labelnames: 
+    - goods donations and services offering
+  permalink: /goods-donations-and-services-offering/
+  markericon: donate
+  markercolor: yellow
+e-learning:
+  displayname: Ηλεκτρονική μάθηση εξ αποστάσεως
+  labelnames: 
+    - e-learning
+  permalink: /e-learning/
+  markericon: chalkboard-teacher
+  markercolor: white
+useful news:
+  displayname: Υπηρεσίες/ανακοινώσεις δημοσίου
+  labelnames: 
+    - useful news
+  permalink: /useful-news/
+  markericon: newspaper
+  markercolor: red

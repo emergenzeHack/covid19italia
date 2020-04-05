@@ -17,6 +17,11 @@ from shapely.geometry import Point
 
 LIMITIPATH=sys.argv[4]
 
+try:
+    ACCETTATOLABEL=sys.argv[5]
+except:
+    ACCETTATOLABEL="Accettato"
+
 regioni=gpd.read_file(LIMITIPATH+"/Limiti01012019_g/Reg01012019_g/Reg01012019_g_WGS84.shp")
 
 regioni=gpd.GeoDataFrame(regioni)
@@ -29,7 +34,7 @@ province=gpd.GeoDataFrame(province)
 province.crs='epsg:23032'
 province=province.to_crs('epsg:4326')
 
-FILTER_LABELS=("Accettato",)
+FILTER_LABELS=(ACCETTATOLABEL,)
 
 try:
     config=configparser.RawConfigParser()
