@@ -103,7 +103,7 @@ layout: base
             <div class="col-md-12 col-sm-12 col-12 mb-15">
                 <div class="card" id="issue{{member.number}}">
                     <div class="card-body issuepanel">
-                        <a href="{{site.url}}/issues/{{member.number}}"><h4 class="card-title">{{member.title}}</h4></a>
+                        <a href="/issues/{{member.number}}"><h4 class="card-title">{{member.title}}</h4></a>
                         <dl class="row">
                             {%- for item in member.issue.data -%}
                             {%- if item[1] != blank -%}
