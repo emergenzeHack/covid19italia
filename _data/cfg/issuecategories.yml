@@ -6,14 +6,14 @@ fundraising:
   markericon: eur
   markercolor: purple
 games and activities for children:
-  displayname: Παιχνίδια / ψυχαγωγία για παιδιά
+  displayname: Απασχόληση για παιδιά
   labelnames: 
     - games and activities for children
   permalink: /games-and-activities-for-children/
   markericon: handshake-o
   markercolor: blue
 solidarity services and initiatives:
-  displayname: Υπηρεσίες αλληλεγγύης και πρωτοβουλίες
+  displayname: Πρωτοβουλίες αλληλεγγύης
   labelnames:
     - public solidarity services and initiatives
     - private solidarity services and initiatives
@@ -28,7 +28,7 @@ cultural activities and leisure:
   markericon: icons
   markercolor: cyan
 deliveries and services:
-  displayname: Παραδόσεις και προμήθειες
+  displayname: Παραδόσεις κατ' οίκον
   labelnames: 
     - deliveries and services
   permalink: /deliveries-and-services/
@@ -56,7 +56,7 @@ goods donations and services offering:
   markericon: donate
   markercolor: yellow
 e-learning:
-  displayname: Ηλεκτρονική μάθηση εξ αποστάσεως
+  displayname: Εκπαίδευση από απόσταση
   labelnames: 
     - e-learning
   permalink: /e-learning/
