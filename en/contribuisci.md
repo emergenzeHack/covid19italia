@@ -76,7 +76,7 @@ In the reports repo:
   - Set "your" language as default
   - Re-deploy the form
   ![](https://user-images.githubusercontent.com/368961/33343306-cc3ad2b6-d452-11e7-971b-3480e6ae2257.png)
-Take note of the hyperlinks of all your webforms that will be embedded in the pages of [_segnalazioni](https://github.com/emergenzeHack/covid19italia/tree/master/_segnalazioni) folder.
+Please, take note of the hyperlinks of all your webforms that will be embedded in the pages of [_segnalazioni](https://github.com/emergenzeHack/covid19italia/tree/master/_segnalazioni) folder.
 
 ### How works the workflow process to moderate Reports?
 - Webforms on Kobo will be deploied in a way that for every report submission an issue will be created in the reports repo on Github. This report will have the label related to category of the webform used.
