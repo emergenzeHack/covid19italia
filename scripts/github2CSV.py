@@ -45,8 +45,10 @@ except:
     TOKEN=os.environ.get('GITHUB_TOKEN')
     PASS=os.environ.get('GITHUB_PASSWORD')
     USER=os.environ.get('GITHUB_USERNAME')
-    REPO_NAME='covid19pt_issues'
+    REPO_NAME=os.environ.get('ISSUE_REPO_NAME')
     ORG='emergenzeHack'
+
+print ("REPO_NAME", REPO_NAME)
 
 if not TOKEN:
     if not PASS:
