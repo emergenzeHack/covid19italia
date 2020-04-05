@@ -90,10 +90,12 @@ layout: base
 
 {%- if filteredissues.size > 0 -%}
 <div class="row">
+    <div class="col-12 col-lg-12 col-md-12">
     {%- assign allcatfilteredissues = allcatfilteredissues | concat: filteredissues | uniq -%}
     <div class="row">
-        <div class="col-12">
+        <div class="col-12 col-lg-12 col-md-12">
             <h2 id="{{category['displayname']|slugify}}">{{category["displayname"]}} <span class="badge badge-pill badge-primary">{{filteredissues.size}}</span></h2>
+            <div class="row">
             {%- if page.justLatestIssues -%}
             {%- assign filteredissues = filteredissues | sort: 'number' | reverse | slice: 0,5 -%}
             {%- endif -%}
@@ -122,13 +124,15 @@ layout: base
                 </div>
             </div>
             {%- endfor -%}
+            </div>
         </div>
     </div>
     {%- if page.justLatestIssues -%}
     <div class="row">
-        <div class="col"><a href="{{category['permalink']}}" class="btn btn-primary btn-lg">Vedi tutte {{category["displayname"]}}</a></div>
-        <hr class="col-12">
+        <div class="col-12 col-lg-12 col-md-12"><a href="{{category['permalink']}}" class="btn btn-primary btn-lg">Vedi tutte {{category["displayname"]}}</a></div>
+        <hr class="col-12 col-lg-12 col-md-12">
     </div>
+</div>
 </div>
 
 {%- endif -%}
