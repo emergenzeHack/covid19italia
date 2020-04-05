@@ -91,7 +91,13 @@ else:
 org=g.get_organization(ORG)
 r = org.get_repo(REPO_NAME)
 
-filter_labels=[r.get_label(l) for l in FILTER_LABELS]
+filter_labels=[]
+for l in FILTER_LABELS:
+    try:
+        ghlabel=r.get_label(l)
+        filter_labels.append(ghlabel)
+    except:
+        pass
 
 issues=r.get_issues(since=lastTime,labels=filter_labels,state='all')
 
