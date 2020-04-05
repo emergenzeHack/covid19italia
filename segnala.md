@@ -7,7 +7,7 @@ permalink: /anebase-pliroforia/
 ---
 
 <div class="offset-md-1 col-md-10">
-  <a class="btn btn-success btn-block btn-form" href="/segnala/chiedi-aiuto">Chiedi aiuto</a>
+  <a class="btn btn-success btn-block btn-form" href="/segnala/chiedi-aiuto">Αναφορά-φόρμα</a>
   <a class="btn btn-success btn-block btn-form" href="/segnala/dona-beni-servizi">Dona beni o servizi</a>
 
   <br>
