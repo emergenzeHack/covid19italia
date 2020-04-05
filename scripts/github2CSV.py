@@ -144,12 +144,42 @@ for issue in issues:
                 if regione['geometry'].contains(p):
                     regioneIssue = regione["DEN_REG"]
                     break
-                    
+
             for i,provincia in province.iterrows():
                 if provincia['geometry'].contains(p):
                     provinciaIssue = provincia["DEN_UTS"]
                     break
-                    
+
+        except Exception as e:
+            print("Exception:",e)
+    elif "position" in data:
+        try:
+            (lat,lon) = data["position"].split(" ")[:2]
+            p = Point(float(lon),float(lat))
+            for i,regione in regioni.iterrows():
+                if regione['geometry'].contains(p):
+                    regioneIssue = regione["DEN_REG"]
+                    break
+
+            for i,provincia in province.iterrows():
+                if provincia['geometry'].contains(p):
+                    provinciaIssue = provincia["DEN_UTS"]
+                    break
+        except Exception as e:
+            print("Exception:",e)
+    elif "location" in data:
+        try:
+            (lat,lon) = data["location"].split(" ")[:2]
+            p = Point(float(lon),float(lat))
+            for i,regione in regioni.iterrows():
+                if regione['geometry'].contains(p):
+                    regioneIssue = regione["DEN_REG"]
+                    break
+
+            for i,provincia in province.iterrows():
+                if provincia['geometry'].contains(p):
+                    provinciaIssue = provincia["DEN_UTS"]
+                    break
         except Exception as e:
             print("Exception:",e)
 
