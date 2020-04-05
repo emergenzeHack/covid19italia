@@ -1,17 +1,3 @@
-fundraising:
-  displayname: Συγκέντρωση ειδών/πόρων
-  labelnames: 
-    - fundraising
-  permalink: /fundraising/
-  markericon: eur
-  markercolor: purple
-games and activities for children:
-  displayname: Απασχόληση για παιδιά
-  labelnames: 
-    - games and activities for children
-  permalink: /games-and-activities-for-children/
-  markericon: handshake-o
-  markercolor: blue
 solidarity services and initiatives:
   displayname: Πρωτοβουλίες αλληλεγγύης
   labelnames:
@@ -20,13 +6,6 @@ solidarity services and initiatives:
   permalink: /solidarity-services-and-initiatives/
   markericon: handshake-o
   markercolor: blue
-cultural activities and leisure:
-  displayname: Πολιτιστικές και ψυχαγωγικές πρωτοβουλίες
-  labelnames: 
-    - cultural activities and leisure
-  permalink: /cultural-activities-and-leisure/
-  markericon: icons
-  markercolor: cyan
 deliveries and services:
   displayname: Παραδόσεις κατ' οίκον
   labelnames: 
@@ -41,20 +20,20 @@ psychological support:
   permalink: /psychological-support/
   markericon: hands-helping
   markercolor: green
-work and business support:
-  displayname: Υποστηρίξτε τις εργασίες και τις επιχειρήσεις
+fundraising:
+  displayname: Συγκέντρωση ειδών/πόρων
   labelnames: 
-    - work and business support
-  permalink: /work-and-business-support/
-  markericon: industry
-  markercolor: grey
-goods donations and services offering:
-  displayname: Δωρεές αγαθών και προσφορές υπηρεσιών
+    - fundraising
+  permalink: /fundraising/
+  markericon: eur
+  markercolor: purple
+cultural activities and leisure:
+  displayname: Άλλες Υπηρεσίες
   labelnames: 
-    - goods donations and services offering
-  permalink: /goods-donations-and-services-offering/
-  markericon: donate
-  markercolor: yellow
+    - cultural activities and leisure
+  permalink: /cultural-activities-and-leisure/
+  markericon: icons
+  markercolor: cyan
 e-learning:
   displayname: Εκπαίδευση από απόσταση
   labelnames: 
@@ -62,6 +41,20 @@ e-learning:
   permalink: /e-learning/
   markericon: chalkboard-teacher
   markercolor: white
+games and activities for children:
+  displayname: Απασχόληση για παιδιά
+  labelnames: 
+    - games and activities for children
+  permalink: /games-and-activities-for-children/
+  markericon: handshake-o
+  markercolor: blue
+work and business support:
+  displayname: Ψυχαγωγία
+  labelnames: 
+    - work and business support
+  permalink: /work-and-business-support/
+  markericon: industry
+  markercolor: grey
 useful news:
   displayname: Υπηρεσίες/ανακοινώσεις δημοσίου
   labelnames: 
@@ -69,3 +62,10 @@ useful news:
   permalink: /useful-news/
   markericon: newspaper
   markercolor: red
+goods donations and services offering:
+  displayname: Καλές ειδήσεις
+  labelnames: 
+    - goods donations and services offering
+  permalink: /goods-donations-and-services-offering/
+  markericon: donate
+  markercolor: yellow
