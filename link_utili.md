@@ -9,7 +9,7 @@ Di seguito la lista dei contatti e dei link registrati da questo progetto.
 
 # Contatti
 
-{% assign filteredissues = site.data.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'Contatti'"%}
+{% assign filteredissues = site.data.machgen.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'Contatti'"%}
 {% for member in filteredissues %}
 * <a href="/issues/{{ member.number | datapage_url: '.' }}">{{member.title}}</a>
 {% endfor %}

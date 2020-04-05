@@ -53,7 +53,7 @@ permalink: /dataset/
 ## Dataset ricercati
 
 <div class="panel-group">
-{% assign filteredissues = site.data.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'Cerco un dataset'"%}
+{% assign filteredissues = site.data.machgen.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'Cerco un dataset'"%}
 {% for member in filteredissues %}
 <div class="panel-body">
 <a href="/issues/{{ member.number }}" class="list-group-item">
@@ -69,7 +69,7 @@ permalink: /dataset/
 
 ## Dataset segnalati
 
-{% assign filteredissues = site.data.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'Segnalo un dataset'" %}
+{% assign filteredissues = site.data.machgen.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'Segnalo un dataset'" %}
 {% if filteredissues.size > 0 %}
 <div class="panel-group">
 {% for member in filteredissues %}

@@ -16,7 +16,7 @@ permalink: /cerco_lavoro/
 
 <div class="row"><div class="col-md-12"> <div id="map"></div> </div> </div>
 <div class="panel-group">
-{% assign filteredissues = site.data.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'Cerco lavoro'"%}
+{% assign filteredissues = site.data.machgen.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'Cerco lavoro'"%}
 {% for member in filteredissues %}
 <div class="panel-body">
 <a href="/issues/{{ member.number }}" class="list-group-item">

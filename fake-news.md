@@ -6,7 +6,7 @@ subtitle: Cuidado com as notícias falsas sobre o Coronavirus. Denuncie em pt.Co
 permalink: /fake-news/
 ---
 <div class="panel-group">
-{% assign filteredissues = site.data.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'Fake News'" %}
+{% assign filteredissues = site.data.machgne.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'Fake News'" %}
 {% for member in filteredissues %}
 <div class="panel-body issuepanel" id="issue{{member.number}}">
 <div class="list-group-item">

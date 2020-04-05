@@ -1,0 +1,4 @@
+Nome,Dataset,Licenza,Linklicenza,Fonte,Formato,Note
+Segnalazioni Aggiornate, https://raw.githubusercontent.com/emergenzeHack/covid19italia_data/master/issues.csv, CC-BY 4.0, https://creativecommons.org/licenses/by/4.0, http://www.covid19italia.help, CSV, -
+Segnalazioni Aggiornate, https://raw.githubusercontent.com/emergenzeHack/covid19italia_data/master/issuesjson.json, CC-BY 4.0, https://creativecommons.org/licenses/by/4.0, http://www.covid19italia.help, JSON, -
+Segnalazioni Aggiornate, https://raw.githubusercontent.com/emergenzeHack/covid19italia_data/master/issues.geojson, CC-BY 4.0, https://creativecommons.org/licenses/by/4.0, http://www.covid19italia.help, GeoJSON, -

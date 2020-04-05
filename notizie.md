@@ -5,7 +5,7 @@ title: Notícias
 permalink: /notícias/
 ---
 
-{% assign filteredissues = site.data.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'notícias'" %}
+{% assign filteredissues = site.data.machgen.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'Notizie'" %}
 {% for member in filteredissues %}
 <div class="card mb-15" id="issue{{member.number}}">
 <div class="card-body">
@@ -22,3 +22,4 @@ permalink: /notícias/
 </div>
 </div>
 {% endfor %}
+</div>

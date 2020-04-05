@@ -1,0 +1,71 @@
+fundraising:
+  displayname: angariação de fundos
+  labelnames: 
+    - fundraising
+  permalink: /fundraising/
+  markericon: eur
+  markercolor: purple
+games and activities for children:
+  displayname: jogos/entretenimento para crianças
+  labelnames: 
+    - games and activities for children
+  permalink: /games-and-activities-for-children/
+  markericon: handshake-o
+  markercolor: blue
+solidarity services and initiatives:
+  displayname: serviços e iniciativas de solidariedade
+  labelnames:
+    - public solidarity services and initiatives
+    - private solidarity services and initiatives
+  permalink: /solidarity-services-and-initiatives/
+  markericon: handshake-o
+  markercolor: blue
+cultural activities and leisure:
+  displayname: iniciativas culturais e recreativas
+  labelnames: 
+    - cultural activities and leisure
+  permalink: /cultural-activities-and-leisure/
+  markericon: icons
+  markercolor: cyan
+deliveries and services:
+  displayname: entregas e comissões
+  labelnames: 
+    - deliveries and services
+  permalink: /deliveries-and-services/
+  markericon: truck
+  markercolor: orange
+psychological support:
+  displayname: apoio psicológico
+  labelnames: 
+    - psychological support
+  permalink: /psychological-support/
+  markericon: hands-helping
+  markercolor: green
+work and business support:
+  displayname: apoio ao trabalho e aos negócios
+  labelnames: 
+    - work and business support
+  permalink: /work-and-business-support/
+  markericon: industry
+  markercolor: grey
+goods donations and services offering:
+  displayname: doações de bens e serviços
+  labelnames: 
+    - goods donations and services offering
+  permalink: /goods-donations-and-services-offering/
+  markericon: donate
+  markercolor: yellow
+e-learning:
+  displayname: ensino à distância por e-learning
+  labelnames: 
+    - e-learning
+  permalink: /e-learning/
+  markericon: chalkboard-teacher
+  markercolor: white
+useful news:
+  displayname: notícias
+  labelnames: 
+    - useful news
+  permalink: /useful-news/
+  markericon: newspaper
+  markercolor: red

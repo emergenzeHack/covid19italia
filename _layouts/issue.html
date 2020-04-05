@@ -2,7 +2,7 @@
 layout: base
 title: page.issue.data[0]
 no-share-img: true
-lang: pt
+lang: it
 ---
 
 {%- capture image_url -%}/images/issues/{{page.number}}.png{%- endcapture -%}
@@ -28,12 +28,8 @@ lang: pt
 
 <div class="container" role="main">
     {%- capture image_url -%}/images/issues/{{page.number}}.png{%- endcapture -%}
-    {%- for static_file in site.static_files -%}
-    {%- if static_file.path == image_url%}
-    {%- assign issueimage = true -%}
-    {%- endif -%}
-    {%- endfor -%}
-{%- if issueimage -%}
+    {%- assign static_image_file = site.static_files | where_exp: "member", "member.path == image_url" -%}
+    {%- if static_image_file.size > 0 -%}
     <div class="row">
 <img class="img-fluid col-md-6 col-sm-9 col-9" src="/images/issues/{{page.number}}.png" />
     </div>
