@@ -69,3 +69,17 @@ useful news:
   permalink: /useful-news/
   markericon: newspaper
   markercolor: red
+help requests:
+  displayname: Pedidos de ajuda
+  labelnames: 
+    - support request
+  permalink: /ajuda/
+  markericon: question
+  markercolor: pink
+migrants and refugees:
+  displayname: Migrantes e refugiados
+  labelnames: 
+    - foreigners
+  permalink: /foreigners/
+  markericon: handshake
+  markercolor: yellow
