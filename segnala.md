@@ -1,9 +1,9 @@
 ---
-lang: it
+lang: gr
 layout: page
-title: "Emergenza coronavirus chiedi aiuto, segnala iniziative, notizie, dati"
+title: "Οι περιπτώσεις έκτακτης ανάγκης από το Coronavirus ζητούν βοήθεια, αναφέρουν πρωτοβουλίες, ειδήσεις, δεδομένα"
 subtitle: Chiedi aiuto o segnala iniziative su Covid19Italia.Help
-permalink: /segnala/
+permalink: /anebase-pliroforia/
 ---
 
 <div class="offset-md-1 col-md-10">
