@@ -154,10 +154,8 @@ layout: base
 var markerList=[];
 
 {%- for member in filteredissues -%} 
-    {%- if member.issue.data.Posizione != blank -%} 
-        {%- assign labels = member.issue.labels -%} 
-        {%- assign coordinate = member.issue.data.Posizione | split: ' ' -%} 
-        markerList.push([{{coordinate[0]}}, {{coordinate[1]}}, "{{member.title|uri_escape}}", "{{ member.number }}", {{labels}}]);
+    {%- if member.issue.lat != blank and member.issue.lon != blank -%} 
+        markerList.push([{{member.issue.lat}}, {{member.issue.lon}}, "{{member.title|uri_escape}}", "{{ member.number }}", {{member.issue.labels}}]);
     {%- endif -%} 
 {%- endfor -%} 
 
