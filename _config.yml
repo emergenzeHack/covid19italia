@@ -257,8 +257,8 @@ jekyll_tidy:
 # Impostazioni mappa
 
 issuemap:
-        center: 37.97904,-12.61722 
-        zoom: 5
+        center: 38.75408,-18.7207 
+        zoom: 4
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
