@@ -17,10 +17,6 @@ from shapely.geometry import Point
 
 LIMITIPATH=sys.argv[4]
 
-try:
-    ACCETTATOLABEL=sys.argv[5]
-except:
-    ACCETTATOLABEL="Accettato"
 
 regioni=gpd.read_file(LIMITIPATH+"/Limiti01012019_g/Reg01012019_g/Reg01012019_g_WGS84.shp")
 
@@ -34,7 +30,7 @@ province=gpd.GeoDataFrame(province)
 province.crs='epsg:23032'
 province=province.to_crs('epsg:4326')
 
-FILTER_LABELS=(ACCETTATOLABEL,)
+FILTER_LABELS=("Accettato","accepted")
 
 try:
     config=configparser.RawConfigParser()
@@ -49,8 +45,10 @@ except:
     TOKEN=os.environ.get('GITHUB_TOKEN')
     PASS=os.environ.get('GITHUB_PASSWORD')
     USER=os.environ.get('GITHUB_USERNAME')
-    REPO_NAME='covid19italia_segnalazioni'
+    REPO_NAME=os.environ.get('ISSUE_REPO_NAME')
     ORG='emergenzeHack'
+
+print ("REPO_NAME", REPO_NAME)
 
 if not TOKEN:
     if not PASS:
@@ -95,7 +93,13 @@ else:
 org=g.get_organization(ORG)
 r = org.get_repo(REPO_NAME)
 
-filter_labels=[r.get_label(l) for l in FILTER_LABELS]
+filter_labels=[]
+for l in FILTER_LABELS:
+    try:
+        ghlabel=r.get_label(l)
+        filter_labels.append(ghlabel)
+    except:
+        pass
 
 issues=r.get_issues(since=lastTime,labels=filter_labels,state='all')
 
