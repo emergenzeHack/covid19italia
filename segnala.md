@@ -7,8 +7,8 @@ permalink: /anebase-pliroforia/
 ---
 
 <div class="offset-md-1 col-md-10">
-  <a class="btn btn-success btn-block btn-form" href="/anebase-pliroforia/Ζητήστε-Βοήθεια">Ζητήστε-Βοήθεια</a>
-  <a class="btn btn-success btn-block btn-form" href="/anebase-pliroforia/Δωρεά αγαθών ή υπηρεσιών">Έκθεση - Δωρεά αγαθών ή υπηρεσιών</a>
+  <a class="btn btn-success btn-block btn-form" href="/anebase-pliroforia/Ζητήστε-Βοήθεια">Ζητήστε Βοήθεια</a>
+  <a class="btn btn-success btn-block btn-form" href="/anebase-pliroforia/Δωρεά-αγαθών-υπηρεσιών">Έκθεση - Δωρεά αγαθών ή υπηρεσιών</a>
 
   <br>
   
