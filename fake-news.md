@@ -6,7 +6,7 @@ subtitle: Fai attenzione a bufale e fake news sul coronavirus e segnalale a Covi
 permalink: /fake-news/
 ---
 <div class="panel-group">
-{% assign filteredissues = site.data.machgen.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'Fake News'" %}
+{% assign filteredissues = site.data.machgen.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'fake news'" %}
 {% for member in filteredissues %}
 <div class="panel-body issuepanel" id="issue{{member.number}}">
 <div class="list-group-item">
