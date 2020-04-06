@@ -94,7 +94,7 @@ layout: base
     {%- assign allcatfilteredissues = allcatfilteredissues | concat: filteredissues | uniq -%}
     <div class="row">
         <div class="col-12 col-lg-12 col-md-12">
-            <h2 id="{{category['displayname']|slugify}}">{{category["displayname"]}} <span class="badge badge-pill badge-primary">{{filteredissues.size}}</span></h2>
+            <h2 id="{{category['permalink']}}">{{category["displayname"]}} <span class="badge badge-pill badge-primary">{{filteredissues.size}}</span></h2>
             <div class="row">
             {%- if page.justLatestIssues -%}
             {%- assign filteredissues = filteredissues | sort: 'number' | reverse | slice: 0,5 -%}
