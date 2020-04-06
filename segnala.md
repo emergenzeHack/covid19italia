@@ -22,6 +22,6 @@ permalink: /anebase-pliroforia/
   <a class="btn btn-outline-dark btn-block btn-form" href="/anebase-pliroforia/contatto-utile">Segnala Contatto utile</a>
   <a class="btn btn-outline-dark btn-block btn-form" href="/anebase-pliroforia/Αναφορές-Φάρσας">Αναφορές Φάρσας</a>
   <a class="btn btn-outline-dark btn-block btn-form" href="/anebase-pliroforia/documenti-dati">Segnala Documenti/Dati</a>
-  <a class="btn btn-outline-dark btn-block btn-form" href="/anebase-pliroforia/notizia">Segnala Notizia</a>
+  <a class="btn btn-outline-dark btn-block btn-form" href="/anebase-pliroforia/news">Αναφορά Ειδήσεων</a>
 </div>
 
