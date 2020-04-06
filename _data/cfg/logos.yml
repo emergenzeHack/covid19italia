@@ -51,7 +51,7 @@
   name_pt: Frentes Institucionais
   link_pt: institucionais
   name_gr: Συγκέντρωση ειδών/πόρων
-  link_gr: sygentrwsh eidwn
+  link_gr: fundraising
 - name: RICHIESTE DI AIUTO
   logo-alt: richieste di aiuto
   logo: /img/icone/alloggi2-tci.png              #       SERVE ICONA NUOVA??
@@ -62,7 +62,7 @@
   name_pt: Pedidos de Ajuda
   link_pt: ajuda
   name_gr: Όλες οι πληροφορίες
-  link_gr: plirofories
+  link_gr: issues
 - name: FAKE NEWS
   logo-alt: le fake news
   logo: /img/icone/bufala-tci-1.png              #       SERVE ICONA NUOVA??
@@ -73,4 +73,4 @@
   name_pt: Notícias Falsas
   link_pt: fake-news
   name_gr: Καλές ειδήσεις
-  link_gr: good news
+  link_gr: good-news
