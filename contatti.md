@@ -2,7 +2,7 @@
 lang: pt
 layout: page
 title: Contati utili
-permalink: canais/
+permalink: contatos/
 ---
 
 <div class="panel-group">
