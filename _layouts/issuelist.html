@@ -179,7 +179,7 @@ var map = L.map('map', {
 // create the tile layer with correct attribution
 var osmUrl='{{site.tile_map}}';
 var osmAttrib='&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>, Tiles courtesy of <a href="http://hot.openstreetmap.org/" target="_blank">Humanitarian OpenStreetMap Team</a>';
-var osm = new L.TileLayer(osmUrl, {minZoom: 5, maxZoom: 19, attribution: osmAttrib});
+var osm = new L.TileLayer(osmUrl, {minZoom: {{site.issuemap.zoom}}>1?{{site.issuemap.zoom}}-1:{{site.issuemap.zoom}}, maxZoom: 19, attribution: osmAttrib});
 
 
 var sumLat = 0.;
