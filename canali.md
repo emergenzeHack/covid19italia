@@ -1,13 +1,13 @@
 ---
-lang: it
+lang: gr
 layout: page
-title: Canali di comunicazione e social
-subtitle: Contatta Covid19Italia.help e segui i canali social
-permalink: /canali/
+title: Επικοινωνία
+#subtitle: Contatta Covid19Italia.help e segui i canali social
+permalink: /epikoinonia/
 ---
 
 <div class="segnala">
-<p>Ecco i canali attraverso cui puoi contattarci, ricevere aggiornamenti, segnalare info utili o necessità: </p>
+<p>Αν θέλεις να επικοινωνήσεις μαζί μας: </p>
      <ul>
          {% if site.author.facebook %}
           <li>
