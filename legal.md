@@ -1,7 +1,7 @@
 ---
-lang: it
+lang: gr
 layout: page
-title: Note Legali
+title: Νομικό Σημείωμα – Πληροφορίες για Αναφορές
 permalink: /legal/
 ---
 
