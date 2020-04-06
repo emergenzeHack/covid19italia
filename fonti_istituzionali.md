@@ -6,7 +6,7 @@ subtitle: As fontes institucionais a consultar para obter informações em prime
 permalink: institucionais/
 ---
 <div class="panel-group">
-{% assign filteredissues = site.data.machgen.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'Fonti istituzionali'"%}
+{% assign filteredissues = site.data.machgen.issuesjson | where: "state","open" | where_exp: "member","member.issue.labels contains 'institutional sources'"%}
 
 {% assign filteredissuesbycategoria = filteredissues | group_by:"issue.data.Categoria" %}
 
