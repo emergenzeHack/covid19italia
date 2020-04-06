@@ -14,7 +14,7 @@ os utilizadores deste projecto!
 {: .table .table-striped #opendata}
 Nome            |Dataset         |Licença         |Link Licença    |Fonte           |Formato         |Notas
 :---------------|:---------------|:---------------|:---------------|:---------------|:---------------|:---------------
-{% for member in site.data.opendata %} {{member.Nome}} | [Dataset]({{member.Dataset}}) | {{member.Licença}} | [Link Licença]({{member.Linklicença}}) | [Fonte]({{member.Fonte}}) | {{member.Formato}} | {{member.Notas}}
+{% for member in site.data.opendata %} {{member.Nome}} | [Dataset]({{member.Dataset}}) | {{member.Licenca}} | [Link Licença]({{member.Linklicenca}}) | [Fonte]({{member.Fonte}}) | {{member.Formato}} | {{member.Notas}}
 {% endfor %}
 
 
