@@ -27,11 +27,11 @@ fundraising:
   permalink: /fundraising/
   markericon: eur
   markercolor: purple
-cultural activities and leisure:
+Bulletin- other activities:
   displayname: Άλλες Υπηρεσίες
   labelnames: 
-    - cultural activities and leisure
-  permalink: /cultural-activities-and-leisure/
+    - bulletin
+  permalink: /bulletin-other-activities/
   markericon: icons
   markercolor: cyan
 e-learning:
@@ -48,24 +48,24 @@ games and activities for children:
   permalink: /games-and-activities-for-children/
   markericon: handshake-o
   markercolor: blue
-work and business support:
+Entertainment:
   displayname: Ψυχαγωγία
   labelnames: 
-    - work and business support
-  permalink: /work-and-business-support/
+    - cultural activitis and leisure
+  permalink: /entertainment/
   markericon: industry
   markercolor: grey
-useful news:
+Public services and announcements:
   displayname: Υπηρεσίες/ανακοινώσεις δημοσίου
   labelnames: 
-    - useful news
-  permalink: /useful-news/
+    - institutional sources
+  permalink: /public-services/
   markericon: newspaper
   markercolor: red
-goods donations and services offering:
+goods news and services offering:
   displayname: Καλές ειδήσεις
   labelnames: 
-    - goods donations and services offering
-  permalink: /goods-donations-and-services-offering/
+    - useful news
+  permalink: /goods-news/
   markericon: donate
   markercolor: yellow
