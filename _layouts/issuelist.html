@@ -129,7 +129,7 @@ layout: base
     </div>
     {%- if page.justLatestIssues -%}
     <div class="row">
-        <div class="col-12 col-lg-12 col-md-12"><a href="{{category['permalink']}}" class="btn btn-primary btn-lg">Vedi tutte {{category["displayname"]}}</a></div>
+        <div class="col-12 col-lg-12 col-md-12"><a href="{{category['permalink']}}" class="btn btn-primary btn-lg">{{site.data.i18n.translations["see_all"]}} {{category["displayname"]}}</a></div>
         <hr class="col-12 col-lg-12 col-md-12">
     </div>
 </div>
