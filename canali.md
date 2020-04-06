@@ -88,5 +88,5 @@ permalink: /canais/
           </li>
           {% endif %}
      </ul>
-          <p>Tudo o que nos enviar será tratado pela nossa equipa, que poderá colocar as informações no site o mais rapidamente possível. Lembre-se que, ao utilizar os nossos canais, aceita automaticamente assinar as<a href="{{ site.url }}/legal-comunicacao/">notas legais</a> para as informações sobre este projecto.</p>
+          <p>Tudo o que nos enviar será tratado pela nossa equipa, que poderá colocar as informações no site o mais rapidamente possível. Lembre-se que, ao utilizar os nossos canais, aceita automaticamente assinar as <a href="{{ site.url }}/legal-comunicacao/">notas legais</a> para as informações sobre este projecto.</p>
 </div>
