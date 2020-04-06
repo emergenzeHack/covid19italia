@@ -54,9 +54,9 @@ languages:
       Ανέβασε μια πληροφορία: "anebase-pliroforia/"
       Σχετικά:
         - Σχετικά: "about/"
-        - Τύπος: "press/"
+        #- Τύπος: "press/"
         - Συχνές Ερωτήσεις: "faq/"
-        - Ανοιχτά δεδομένα: "opendata/"
+        #- Ανοιχτά δεδομένα: "opendata/"
       Πληροφορίες: "issues/"
        #- SEGNALAZIONI PER REGIONE: "issues/regione/"
       Προστασία δεδομένων: "legal/"
