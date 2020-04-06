@@ -1,554 +1,536 @@
 ---
 layout: page
-title: Documentazione Tecnica
+title: Technical Documentation
 permalink: /wiki/
 lang: pt
 ---
 
-Benvenuto nel wiki di Covid19Italia, una community basata sui *social media*, nata per condividere informazioni utili e verificate sul corona virus in Italia.
 
-Il progetto è completamente aperto e chiunque può dare il suo contributo seguendo queste linea guida.
+Welcome in Covid19Portugal Help wiki. Covid19Portugal Help is a community based on social media, born with the purpose of sharing useful and verified information on Corona virus in Italy.
 
-## Il sito
+The project is completely open and anyone can provide support using the following guidelines.
 
-Il nostro sito è creato con [Github](http://www.github.com).
+**The site**
 
-## Diventa un contributore
-Per essere aggiunto alla lista degli sviluppatori del repository apri un issue [qui](https://github.com/emergenzehack/covid19italia/issues/new?title=%5Brichiesta%20iscrizione%5D), richiedi l'accesso lasciando il tuo username [Telegram](https://web.telegram.org/).
+Our site has been created with [Github](http://www.github.com/).
 
-##  Aiutaci a migliorare
+**Get involved**
 
-*Covid19Italia è un progetto in divenire*, per suggerire miglioramenti apri un [issue qui](https://github.com/emergenzeHack/covid19italia/issues). Alla stessa pagina puoi vedere le segnalazioni aperte dagli altri utenti; da lì puoi vedere quello che c'è ancora da fare e da sistemare.
+In order to be added at the list of the repository developers open an issue here ([qui](https://github.com/emergenzehack/covid19italia/issues/new?title=%5Brichiesta%20iscrizione%5D)).
 
+**Help us in improving it**
 
-I repository Github che usiamo sono
-* [QUESTO](https://github.com/emergenzeHack/covid19italia) per lo sviluppo del sito web
-* [QUESTO](https://github.com/emergenzeHack/covid19italia_segnalazioni) per la raccolta e la moderazione delle segnalazioni
-* [QUESTO](https://github.com/emergenzeHack/covid19italia_data) per l'archiviazione dei dati aperti da noi prodotti
-* [QUESTO](https://github.com/emergenzeHack/covid19italia_form) per lo sviluppo del form di inserimento segnalazioni
-* [QUESTO](https://github.com/emergenzeHack/covid19italia_app) per lo sviluppo di una APP mobile
+Covid19Portugal Help is an ongoing project. If you want to suggest improvements open an issue here ([issue qui](https://github.com/emergenzeHack/covid19italia/issues)). In the same page you will see the reports entered by other users. From there you can realize what it is still possible to implement and fix.
 
+Github repositories we are using are the following ones :
 
-Grazie, aspettiamo il tuo aiuto!
 
-## Riuso
-Covid19Italia è un progetto opensource composto da varie applicazioni integrate. Questo WIKI consente di capire come è strutturato il progetto e come poterlo riusare. TerremotoCentroItalia è concesso con licenza Creative Commons Attribuzione 3.0 (CC BY) il cui testo è disponibile [a questo indirizzo](https://creativecommons.org/licenses/by/3.0/it/). Ove non diversamente specificato (ad esempio nei repository del codice sorgente) ti chiediamo se riusi parte del nostro progetto di rispettare i criteri di questa licenza.
+*   [THIS](https://github.com/emergenzeHack/covid19italia/tree/lang_pt) This one for the website development
+*   [THIS](https://github.com/emergenzeHack/covid19pt_issues) This one for collecting and controlling the reports.
+*   [THIS](https://github.com/emergenzeHack/covid19pt_data) This one in order to archive the open data we created
+*   [THIS](https://github.com/emergenzeHack/covid19italia_form) This one for the development of the reporting forms
+*   [QUESTO](https://github.com/emergenzeHack/covid19italia_app) This one for the development of a mobile app
 
 
-<!-- commento per innescare la GitHub Action "gollum" -->
-### Indice dei contenuti
+# Contributing
 
-- Aprire una Issue
-- Come si usa GitHub
-- Lavorare sulle Segnalazioni
-- Come funziona in breve il metodo TCI
-- Convertire un documento Google Docs in Markdown
-- Come si inserisce un elemento in Press
-- Sviluppare in locale sul sito
+Welcome to the wiki of Covid19Portugal Help, a social media-based community created to share useful and verified information about the corona virus in Portugal.
 
----
+The project is completely open and anyone can contribute according to these guidelines.
 
-# Aprire una Issue
 
-Gli Issues possono essere usati per tenere traccia di bug, miglioramenti o altre richieste di progetto.
+# Reuse
 
-Tutti gli utenti GitHub possono creare un issue per un progetto di tipo pubblico.
+Covid19Portugal Help is an opensource project composed of various integrated applications. This WIKI allows you to understand how the project is structured and how to reuse it. Covid19Portugal Help is licensed under Creative Commons Attribution 3.0 (CC BY) whose text is available at [this address](https://creativecommons.org/licenses/by/3.0/it/). Unless otherwise specified (e.g. in the source code repositories) we ask you to comply with the criteria of this license if you reuse part of our project.
 
-- Su Github naviga fino alla pagina principale del progetto.
-- Sotto il nome del progetto fai click sul tab Issue del progetto.
-- Fai click sul bottone verde "New Issue"
 
-![](https://help.github.com/assets/images/help/issues/new_issues_button.png)
+## Index of contents
 
-- Inserisci un titolo e una descrizione per il tuo issue.
 
-Se sei un manutentore del progetto tu puoi assegnare l'issue a qualcuno, associarlo a delle milestone o aggiungere un'etichetta.
 
-Puoi allegare un file trascinandolo nel campo descrizione.
+*   Open an Issue
+*   How to use GitHub
+*   Working on Reports
+*   How the TCI method works in brief
+*   Convert a Google Docs document to Markdown
+*   How to insert an element in Press
+*   Develop locally on site
 
-Quando hai fatto fai click su "Submit new issue"
 
-Note: i manutentori del progetto possono
+# Open an Issue
 
-- Creare un template per gli issue in un progetto. I template includono comandi che il manutentore del progetto sceglie di mostrare nella descrizione dell'issue.
-- Disabilitare gli issue per un progetto.
+Issues can be used to keep track of bugs, improvements or other project requests.
 
-# Come si usa GitHub?
+All GitHub users can create an issue for a public project.
 
-Questa pagina è la traduzione di [questo semplice tutorial](https://guides.github.com/activities/hello-world/) in italiano e descrive i primi passi per iniziare ad usare Github come strumento di progettazione condivisa.
 
-**Cosa è Github?**
 
-Github è una piattaforma di archiviazione di codice per controllo versione e collaborazione. Ti permette di lavorare assieme agli altri su progetti ovunque.
+*   On Github navigate to the main project page.
+*   Under the project name, click on the Issues tab of the project.
+*   Click the green "New Issue" button.
+*   Enter a title and description for your issue.
 
-Questo tutorial ti insegna le cose essenziali per usare Github, come i repository, i branch, i commit e le pull request. Sarai in grado di creare da solo un repository "Ciao Mondo!" ed imparare il flusso di gestione delle pull request, un modo molto popolare di creare e revisionare il codice.
+If you are a project maintainer you can assign the issue to someone, associate it with milestones or add a label.
 
-Non è richiesto programmare.
+You can attach a file by dragging it into the description field.
 
-Per completare questo tutorial, hai bisogno di un account Github e un accesso internet. Non hai bisogno di conoscere come programmare, usare la linea di comando o installare GIT (il software per controllare le versioni da riga di comando, integrato in Github).
+When you are done click on "Submit new issue".
 
-Trucco: apri questa guida in una pagina del browser separata cosi tu puoi vederla mentre completi i passi del tutorial.
+Note: project maintainers can
 
-**1. Creare un repository**
 
-Un repository di solito è usato per organizzare un progetto. I repository possono contenere cartelle e file, immagini, video, fogli di calcolo ed insiemi di dati - ogni cosa che sia necessaria per il tuo progetto. Raccomandiamo di includere sempre un README o un file con informazioni sul progetto. GIthub rende facile crearne uno al momento in cui crei i repository. Ti offre altre opzioni come ad esempio quella di inserire un file di licenza.
 
-Il tuo repository ciao-mondo può essere un posto dove memorizzare idee, risorse o anche condividere e discutere cosa con altri.
+*   Create a template for issues in a project. Templates include commands that the project maintainer chooses to display in the issue description.
+*   Disable issues for a project.
 
-Per creare un nuovo repository:
 
-- In alto a destra, dopo aver fatto il login, fai click sul + e poi seleziona New Repository.
-- Chiama il tuo repository ciao-mondo.
-- Scrivi una breve descrizione.
-- Seleziona "Initialize this repository with a README"
+# How do you use GitHub?
 
-![](https://guides.github.com/activities/hello-world/create-new-repo.png)
+This page is a mirror of [this simple tutorial](https://guides.github.com/activities/hello-world/) and describes the first steps to start using Github as a shared design tool.
 
-- Fai click su "Create Repository"
 
-**2. Creare un branch**
+# Working on reports
 
-Fare un branch è un modo di lavorare su più versioni di un progetto alla volta.
+Preamble:
 
-Per default il tuo repository ha un branch chiamato master che è considerato essere il branch ultimo. Usiamo i branch per sperimentare e fare modifiche prima di inserirle nel branch master.
+This document is intended for the team working on Reports. Other users do not have permission to perform the operations described here, but they can freely leave a comment on any Issue contributing to it. For example, at [this link](https://github.com/emergenzeHack/covid19pt_issues/labels/missing%20location) you can see all the Reports that are still missing a position. You can suggest coordinates in a comment. A moderator will take over and apply your suggestions as soon as possible.
 
-Quando fai un branch rispetto al master, stai copiando, o facendo una foto del master cosi come era in quel momento.
-Se qualcun'altro fa una modifica al master mentre tu stai lavorando sul tuo branch, tu potresti prelevare i suoi aggiornamenti.
+To join the team of Moderators, make sure you are an active member of the community, that you have contributed previously and that you enter the group chat of contributors.
 
-Questo diagramma mostra:
-- Il branch master
-- Un nuovo branch chiamato feature (perchè noi stiamo facendo "feature work" su questo branch)
-- Il percorso che feature fa prima che sia fuso con master
 
-![](https://guides.github.com/activities/hello-world/branching.png)
+## Mechanism
 
-Hai mai salvato diverse versioni di un file? Qualcosa tipo:
+Each compilation of a Covid19Portugal Help form generates - after about 30 seconds - a new Issue [here](https://github.com/emergenzeHack/covid19pt_issues/issues).
 
-storia.txt
-storia-joe-modificata.txt
-storia-joe-modificata-rivista.txt
+Different labels are applied to these Issues to describe their nature and approval status (which determines their final publication on the site, on bulletins, on Twitter, on Telegram channel and bot,...).
 
-I branch facilitano questa cosa nei repository di Github.
+This allows everyone to collaborate in the classification, moderation and community verification of the reports. A history of all changes, operations and moderations on each Issue is available.
 
-Qui, presso Github, i nostri sviluppatori, scrittori e designers usano i branch per tenere traccia delle correzioni dei bug e delle feature separate dal brach di produzione master. Quando una modifica è pronta, la fondono dal loro branch nel master.
+All it takes is an account on GitHub and a web browser, no knowledge or IT tool is required.
 
-Per creare un nuovo branch:
 
-- Vai nel tuo nuovo repository ciao-mondo
-- Fai click sul menu in altro sopra la lista dei file dove trovi la dicitura: master
-- Scrivi un nome del branch, per esempio "readme-edits", nella casella di testo.
-- Seleziona la box Create o premi Enter sulla tastiera
+## Structure
 
-![](https://guides.github.com/activities/hello-world/readme-edits.gif)
-
-Ora hai due branch. master e readme-edits. Essi sembrano proprio lo stesso ma non lo saranno per molto! Fra poco faremo delle modifiche al nuovo branch.
-
-**3. Fai e committa modifiche**
-Bravo!
-Adesso sei sulla vista del codice per il branch readme-edits, che è una copia del master. Facciamo delle modifiche.
-
-Su Github, le modifiche salvate sono chiamate commit. Ogni commit ha un messaggio associato di commit, che è una descrizione che spiega perchè una particolare modifica è stata fatta. I messaggi di commit tengono traccia della storia delle modifiche, cosi gli altri contributori possono capire cosa hai fatto è perchè.
-
-Fare e committare modifiche:
-
-- Fai click sul file README.md.
-- Fai click sull'icona della matita in alto a destra della vista dei file per fare una modifica.
-- Nell'editor scrivo un po' di cose su di te.
-- Scrivi un messaggio di commit che descrive la tua modifica
-- Fai click sul pulsante Commit changes
-
-![](https://guides.github.com/activities/hello-world/commit.png)
-
-Queste modifiche saranno fatte al README file solo nel tuo branch readme-edits, cosi che ora questo branch contiene contenuti diversi dal branch master.
-
-**4. Aprire una Pull Request**
-
-Ottime modifiche!
-Ora che hai modificato un file in un branch, potrai aprire una pull request.
-
-Le pull request sono il cuore della collaborazione con Github. Quando apri una pull request, proponi le tue modifiche e richiedi che qualcuno le riveda e le "tiri" su e le fonda nel suo branch. Le pull requests mostrano le differenze dei contenuti di entrambi i branch. Le modifiche, aggiunte e le eliminazioni sono mostrate in verde e rosso.
-
-Come fai una commit, puoi aprire una pull request e iniziare una discussione, prima che il codice sia finito.
-
-Usando il sistema di "@" menzioni con Github nel tuo messaggio della pull request, puoi chiedere un feedback da una specifica persona o un team.
-
-Puoi anche aprire pull request nel tuo repository e fonderle da solo. E' un buon modo di imparare il flusso di gestione prima di lavorare su progetti complessi.
-
-Aprire una pull request per una modifica al file README
-
-Fai Click sul tab Pull Request tab, quindi dalla pagina Pull Request, fai click sul bottone verde New pull request.
-![](https://guides.github.com/activities/hello-world/pr-tab.gif)
-
-Seleziona il branch dove hai fatto le modifiche per compararlo con il master.
-![](https://guides.github.com/activities/hello-world/pick-branch.png)
-
-Guarda le tue modifiche nel diff sulla pagina di Compare, assicurati che sono cosa tu vuoi sottomettere.
-![](https://guides.github.com/activities/hello-world/diff.png)
-
-Quando tu sarai soddisfatto delle modifiche, fai click sul grande pulsante "Create Pull Request"
-![](https://guides.github.com/activities/hello-world/create-pr.png)
-
-Dai alla tua pull request un titolo e scrivi una breve descirzione delle tue modifiche.
-![](https://guides.github.com/activities/hello-world/pr-form.png)
-
-Quando hai scritto il tuo messaggio, fai click su Create pull request!
-
-Suggerimento: puoi usare emoji e fare drag and drop di immagini e gif nei commenti.
-
-**5. Fondere una Pull Request**
-
-In questo step finale, è tempo di portare le tue modifiche fondendole dal tuo branch readme-edits nel branch di produzione master.
-
-- Fai click sul pulsante verde Merge pull request per fondere le modifiche sul branch master
-- Fai click su Confirm merge
-- Procedi e cancella il branch, dato che le tue modifiche sono state incorporate, con il pulsante "Delete branch" in viola.
-![](https://guides.github.com/activities/hello-world/merge-button.png)
-
-![](https://guides.github.com/activities/hello-world/delete-button.png)
-
-
-Evviva!
-
-Completando questo tutorial, hai imparato a creare un progetto e fare una pull request su Github!
-
-Qui a cosa ti sarà utile questo tutorial:
-
-- Creare un repository opensource
-- Iniziare e gestire un nuovo branch
-- Modificare un file e committare le modifiche su Github
-- Aprire e Fondere una Pull Request
-
-Dai un'occhiata al tuo profilo Github e vedrai un nuovo spazio di contributi!
-
-Per molti altri tutorial su Github consulta [questa pagina](https://guides.github.com/).
-
-# Lavorare sulle segnalazioni
-
-Premessa:
-
-> Questo documento è destinato al team che lavora sulle Segnalazioni. Gli altri utenti non hanno i permessi per effettuare le operazioni descritte qui, ma possono liberamente lasciare un commento su qualsiasi Issue contribuendo alla stessa. Ad esempio, a [questo link](https://github.com/emergenzeHack/covid19italia_segnalazioni/issues?q=is%3Aissue+is%3Aopen+label%3A%22Posizione+mancante%22) si possono vedere tutte le segnalazioni a cui ancora manca una posizione. Si possono suggerire in un commento le coordinate. Un moderatore la prenderà in carico e applicherà i vostri suggerimenti il prima possibile.
->
-> Per entrare a far parte del team di Moderatori, assicurati di essere un membro attivo della community, di aver contribuito precedentemente ed entra nella chat di gruppo dei collaboratori.
-
-# Meccanismo
-
-Ogni compilazione di un modulo di Covid19Italia genera - dopo circa 30 secondi - una nuova Issue [qui](https://github.com/emergenzeHack/covid19italia_segnalazioni/issues).
-
-A queste Issue vengono applicate diverse etichette per descriverne la natura e lo stato di approvazione (che ne determina la pubblicazione finale sul sito, sui bollettini, su Twitter, sui canali e bot Telegram,..).
-
-Questo permette a tutti di poter collaborare alla classificazione, moderazione e **verifica** comunitaria delle segnalazioni. È disponibile uno storico di tutte le modifiche, operazioni e moderazioni su ogni singola Issue.
-
-Basta un account su GitHub e un browser web, nessuna conoscenza o strumento informatico è richiesto.
-
-### Struttura
-
-Le segnalazioni devono mantenere questa struttura:
+Reports must maintain this structure:
 
 ```
-<pre><yamldata>
 
-Campo1: Valore del campo1
-Campo2: Valore del campo2
+&lt;pre>&lt;yamldata>
 
-</yamldata></pre>
-```
+Field1: Field value1
 
-Prestate attenzione alle seguenti convenzioni, quando modificate il contenuto di una Issue:
+Field2: Field value2
 
-1. I campi che vanno su più righe vanno delimitati da un `'`. Esempio:
+&lt;/yamldata>&lt;/pre>
 
 ```
-Descrizione: 'Il contenuto di questo campo
-va su più
-righe
+
+Pay attention to the following conventions when changing the content of an Issue:
+
+
+
+1. Fields that go on multiple lines must be delimited by a '. Example:
+
+```
+
+Description: 'The content of this field
+
+spans multiple
+
+lines
+
 '
-Campo2: Questo campo invece è su una sola riga
-```
 
-Attenzione: I campi su più righe devono essere delimitati da `'` (uno all'inizio e uno alla fine del campo). `'` è usato per delimitare il contenuto di un campo quindi non può essere usato con la normale funzione di apostrofo all'interno. Per poter usare `'` letteralmente, e non come delimitatore, utilizzare `\'`
-
-Ad esempio, se volessi scrivere `l'altro` una volta per riga, in un campo multi campo, dovrei fare così:
+Field2: This field is on one line only
 
 ```
+
+Attention: Fields on several lines must be delimited by `'` (one at the beginning and one at the end of the field). `'` is used to delimit the content of a field so it cannot be used with the normal apostrophe function inside. To use `'` literally, and not as a delimiter, use `\`.
+
+For example, if I wanted to write `l’altro` one once per line, in a multi-field field, I would have to do this:
+
+```
+
 '
+
 L\'altro
+
 L\'altro
+
 '
-```
-
-`'` viene utilizzato come delimitatore, mentre viene scritto `\` per usarlo letteralmente. Nella segnalazizone finale verrà poi mostrato semplicemente come `'`.
-
-2. Il titolo dell'Issue diventa il titolo della segnalazione sul sito frontale.
-
-3. Le modifiche (inclusa la pubblicazione/depubblicazione) appaiono sul sito finale dopo massimo 15 minuti. Usate <kbd>CTRL</kbd>+<kbd>F5</kbd> oppure la modalità navigazione in anonimo se non vedete cambiamenti. Se dopo queste operazioni ancora le cose non vi tornano procedente ad aprire Issue riportando il problema. Le Issue sui moduli (campi, struttura, dati mancanti) vanno aperte su [covid19italia_forms](https://github.com/emergenzeHack/covid19italia_form/issues).
-
-4. Se avete bisogno di cambiare le Label che vengono preassegnate alle Issue (quelle che vedete già assegnate automaticamente) segnalatecelo [qui](https://github.com/emergenzeHack/covid19italia_form/issues/new)
-
-5. Non rimuovete la Label "form", ci aiuta ad investigare l'origine delle segnalazioni.
-
-# Geolocalizzazione
-
-Ci sono alcune issue che hanno un campo "Posizione", come [questa](https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/332)
-
-E finiscono nella mappa che c'è [qui](https://www.covid19italia.help/issues/)
-
-## Verificare geolocalizzazione
-
-Se la segnalazione non ha una geolocalizzazione, lo script prova da solo a cercare nomi di comuni/città all'interno dei vari campi compilati. Se trova qualcosa, aggiunge *da solo* la posizione. Quando succede, viene applicata l'etichetta <kbd>Posizione da verificare</kbd> e il bot commenterà chiedendovi una conferma, dandovi anche un link a quelle coordinate per vedere subito se hanno senso o no.
-
-Se anche dopo questo tentativo non si trova una posizione, viene applicata l'etichetta <kbd>Posizione mancante</kbd> così da poter filtrare tutte quelle che ne hanno ancora bisogno.
-
-
-## Aggiungere geolocalizzazione
-
-Quindi, le issue segnalate con la label <kbd>Posizione mancante</kbd> hanno bisogno di un intervento manuale che aggiunga la posizione.
-
-### Come trovare le coordinate di un luogo?
-
-Prendiamo ad esempio [questa](https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/334) segnalazione su Milano)
-
-Si può usare questo sito: [Nominatim](https://nominatim.openstreetmap.org/).
-
-In alto a destra c'è un tasto che si chiama "Show map bounds". Quando viene premuto, compare un rettangolo che contiene le coordinate. La riga più importante è "Last click".
-
-Ci sono due numeri, separati da una virgola, sono latitudine e longitudine. Copiateveli.
-
-### Aggiungere le coordinate alla segnalazione
-
-Adessa, sulla Issue, va cliccato il tasto ... in alto a destra, quindi "edit".
-
-Adesso aggiungete (o modificate) il campo 'Posizione', aggiungendo le coordinate ottenute poco fa:
 
 ```
+
+`'` is used as a delimiter, while it is written `\` to use it literally. In the final report it will then be shown simply as `'`.
+
+
+
+1. The title of the Issue becomes the title of the report on the front end.
+2. Changes (including publication/de-publication) appear on the final site after a maximum of 15 minutes. Use CTRL+F5 or anonymous navigation mode if you do not see any changes. If things still don't come back to you after this, proceed to open Issue and report the problem. Issue on forms (fields, structure, missing data) should be opened on [covid19italia_forms]([https://github.com/emergenzeHack/covid19italia_form/issues](https://github.com/emergenzeHack/covid19italia_form/issues)).
+3. If you need to change the Labels that are already assingned to the Issue (the ones you see already automatically assigned) please report it [here]([https://github.com/emergenzeHack/covid19italia_form/issues/new](https://github.com/emergenzeHack/covid19italia_form/issues/new))
+4. Do not remove the Label "form", it helps us to investigate the origin of the reports.
+
+
+# Geolocation
+
+There are some issues that have a "Location" field, like this [one](https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/332).
+
+And they end up on the map [here]([https://www.covid19italia.help/issues/](https://www.covid19italia.help/issues/)).
+
+
+## Check geolocation
+
+If the report does not have a geolocation, the script tries to search for municipality/city names within the various fields filled in. If it finds something, it adds the location itself. When it does, the “Posizione da verificare” label is applied and the bot will comment asking you for confirmation, also giving you a link to those coordinates to see if they make sense or not.
+
+If no position is found even after this attempt, the “Posizione Mancante” label is applied so that you can filter out any that still need it.
+
+
+## Add geolocation
+
+Therefore, issues marked with the “Missing position” label need manual intervention to add the position.
+
+
+## How to find the coordinates of a location?
+
+Let's take for example [this](https://www.covid19italia.help/issues/) report on Milan.
+
+You can use this site: [Nominatim](https://nominatim.openstreetmap.org/).
+
+In the top right corner there is a button called "Show map bounds". When pressed, a rectangle containing the coordinates appears. The most important line is "Last click".
+
+There are two numbers, separated by a comma, are latitude and longitude. Copy them.
+
+
+### Add the coordinates to the report
+
+On the Issue, click the “...” button at the top right of the Issue, then "edit".
+
+Now add (or edit) the ‘Posizione’ field, adding the coordinates obtained earlier:
+
+```
+
 ...
+
 Posizione: 43.768137 11.241812
-```
-
-Il primo valore è la Latitudine, il secondo la Longitudine (obbligatori). Il terzo e il quarto indicano Altitudine e Precisione (metri). Questi ultimi due sono facoltativi.
-
-
-Esempio:
-
-![GIF come georiferire issue](https://raw.githubusercontent.com/emergenzeHack/covid19italia/master/_doc/come_georiferire_issue.gif)
-
-### Inserimento manuale di regione e/o provincia e/o comune
-
-#### Come sapere quale regione/provincia/comune ha individuato il sistema?
-
-Guardando sul sito nella pagina www.covid19italia.help/issues/<numero issue>
-(ad esempio https://www.covid19italia.help/issues/748/) se la segnalazione ha una posizione già inserita, i valori Provincia e Regione sono quelli riconosciuti in base ai dati geografici. **In questo caso, se ci sono errori, sarebbe più utile sistemare la posizione**.
-
-Ci possono essere delle segnalazioni che hanno una regione o provincia o un Comune di riferimento, ma per le quali non ha senso inserire una coppia di coordinate. Perché queste segnalazioni vengano comunque elencate nella pagina per regione o per provincia, si può inserire un campo nei dati del tipo
 
 ```
+
+The first value is Latitude, the second is Longitude (mandatory). The third and fourth indicate Altitude and Accuracy (meters). The latter two are optional.
+
+Example:
+
+
+### Manual entry of region and/or province and/or municipality
+
+**How to know which region/province/commune has identified the system?**
+
+By looking on the site at www.covid19italia.help/issues/ (for example https://www.covid19italia.help/issues/748/) if the report has a position already entered, the values ‘Provincia’ and ‘Region’ are those recognized based on geographical data. **In this case, if there are errors, it would be more useful to fix the position**.
+
+There may be reports that have a region or province or municipality of reference, but for which it makes no sense to enter a pair of coordinates. In order for these reports to be listed on the page by region or province anyway, you can enter a field in the data of type
+
+```
+
 regione_manuale: Veneto
-```
-
-oppure
 
 ```
+
+or
+
+```
+
 provincia_manuale: Bologna
-```
-oppure
 
 ```
+
+or
+
+```
+
 comune_manuale: Cento
-```
-
-(Naturalmente non avendo una posizione la segnalazione non sarà visualizzata in mappa)
-
-**NB Attenzione all'ortografia del nome: dev'essere esattamente quello che è utilizzato dalle altre segnalazioni.**
-
-#### Esempio finale di segnalazione:
 
 ```
-<pre><yamldata>
+
+(Of course, since you do not have a location, the report will not be displayed on the map.)
+
+**N.B. Pay attention to the spelling of the name: it must be exactly what is used by the other reports.**
+
+Final example of a report:
+
+```
+
+&lt;pre>&lt;yamldata>
+
 Da_chi_offerta: comitati di quartiere
+
 Descrizione: 'Iniziativa di cittadini e cittadine, comitati ed associazioni del Quartiere
+
  (Centro storico) di Firenze: consegnano cibo e beni primari a chi ne fa richiesta.'
+
 Destinatari: Consegna di cibo e generi di prima necessità
+
 Link: https://google.it
+
 Natura: solidale
+
 Posizione: 43.768137 11.241812
+
 Tipo_di_soggetto: privato
+
 Titolo: Serve aiuto?
-</yamldata></pre>
-```
 
-
-## Politiche
-
-Queste sono alcune delle politiche, linee guida e regole su cui è stato deciso:
-
-1. Non accettiamo segnalazioni riguardo ricerca scientifica (https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/315#issuecomment-598456738)
-2. Se alcuni campi sembrano invalidi, provare a correggerli o cercare maggiori informazioni su Google a partire dal titolo, NON chiudere immediatamente la Issue se non va il link o problemi analoghi.
-
-Per discutere o fornire feedback, aprite un Issue
-
-
-
-# Come funziona (in breve) il metodo TCI
-
-Questo progetto è "clonato" da un precedente usato per il terremoto del centro italia del 2016 chiamato TCI.
-
-TCI (terremotocentroitalia.info) è un sito "dinamico" basato su:
-* una gestione di segnalazioni tramite issue github e da alcuni script (d'ora in poi "backend")
-* una catalogazione e impaginazione delle segnalazioni tramite jekyll (d'ora in poi "frontend")
-
-## Backend
-
-Il backend è direttamente rappresentato da un repo github del quale viene utilizzata solo la parte di segnalazioni (lo potete vedere qui https://github.com/emergenzeHack/terremotocentro_segnalazioni/issues).
-
-Pro:
-* il sistema è robusto, funzionale, gestito da altri
-* molto facile da usare, ci sono varie persone che hanno già esperienza
-* possibilità di aggiungere tag alle segnalazioni per la catalogazione
-* API per scaricare
-
-Contro:
-* per inserire info "machine readable" nelle segnalazioni usiamo YAML, che dev'essere gestito da un editor esterno
-* se lo YAML si rompe, bisogna intervenire "a mano"
-
-### Script di conversione
-
-Ogni 5 minuti, uno script (https://github.com/emergenzeHack/covid19italia/blob/master/scripts/csvupdate.sh):
-* scarica tutte le segnalazioni da github
-* decodifica lo YAML
-* crea un array JSON che contiene le segnalazioni e lo YAML convertito in JSON
-* committa eventuali differenze sul repo GIT, scatenando webhook e nuova build
-
-## Frontend
-
-Siccome Jekyll interpreta direttamente JSON, ci sono varie pagine che filtrano il JSON e creano HTML con liste, mappe, etc
-
-I framework utilizzati sono:
-
-* bootstrap per il layout
-* openlayers/leaflet per le mappe
-
-Pro:
-
-* molto veloce da servire
-* si può appoggiare su siti esterni come netlify
-* praticamente inattaccabile
-
-Contro:
-
-* nei momenti di massimo movimento, l'aggiornamento è ogni 5 minuti
-
-# Cose che si potrebbero migliorare
-
-* La trasformazione delle issue nel sito potrebbe essere fatta in modo più efficiente usando gli hook di github e un DB qualsiasi per memorizzare i dati, in modo da poter avere aggiornamenti più rapidi. Resta il fatto che quando il sito è "fermo", non ha senso avere un DB da interrogare ogni momento
-
-
-# Convertire un documento Google Docs in Markdown
-
-Sotto qualche semplice passaggio per convertire un documento fatto in Google Docs in un formato compatibile con questo WIKI o come post del blog di questo sito così da poter continuare ad usare Google Docs se lo si usa normalmente per scrivere e poi pubblicare contenuti su covid19italia.help
-
-- Installare nei Componenti aggiuntivi il plugin "Docs to markdown" (dal menu Componenti Aggiuntivi -> Installa componenti aggiuntivi cercate "Docs to markdown".
-- una volta che il documento in Google Doc è pronto aprire il menu Componenti Aggiuntivi selezionate la voce "Docs to Markdown" e poi "Convert"
-- Dal pannello a Sinistra premete sul pulsante Markdown.
-
-A questo punto selezionate tutto il testo che viene tradotto sotto...copiatelo con un normale "Copia" : questo è il vostro testo nel linguaggio compatibile con Github!
-
-![](https://camo.githubusercontent.com/2f678a5b7b89a92fb486a04ec192c33bbf475890/68747470733a2f2f646f63732e676f6f676c652e636f6d2f64726177696e67732f642f3142304a35597752535a6c50556d7a712d3254582d6278573764756561304b6f33466e562d6c77744d65754d2f6578706f72742f706e67)
-
-Andate ad esempio nella sezione WIKI, Create una nuova Pagina dandole un titolo ed incollate il testo. Alla fine salvate la pagina e la troverete pubblicata.
-
-Nota: la guida di come si usa in dettaglio "Docs to markdown" si trova anche [qui](https://github.com/evbacher/gd2md-html/wiki#installing-docs-to-markdown)
-
-Fatto!!
-Facile no?
-
-# Come si inserisce un elemento in Press
-
-Per inserire un elemento nella tabella [PRESS](https://www.covid19italia.help/about/#press) procedere come segue:
-
-* Andare su [questo file](https://github.com/emergenzeHack/covid19italia_data/blob/master/press.csv) dei PRESS
-* Cliccare sull'icona matita per editare il file su Github
-![cliccare l'icona per modificare il file PRESS](https://d186loudes4jlv.cloudfront.net/git/images/github_my_first_repo_readme.png)
-* Aggiungere una riga al file ed inserire in sequenza data,fonte,titolo,link separati da virgola. Nota: non devono esserci virgole ulteriori eccetto quelle che separano i 4 campi.
-* Cliccare sul pulsante "Commit changes" o "Propose changes" in basso
-* Se viene proposto un pulsante verde "Create Pull Request" Premerlo ed attendere che li amministratori validino la modifica.
-
-Fatto.
-
-# Sviluppare in locale sul sito
-
-Questa breve guida ti spiegherà come creare sul tuo computer una copia del sito. In questo modo le modifiche al codice saranno immediatamente visibili nella tua copia locale, e potrai testare tutti i miglioramenti che stai progettando. Cominciamo!
-
-## Prerequisiti
-
-Dovrai installare sul tuo computer alcuni software per lo sviluppo. Nelle pagine linkate trovi tutte le istruzioni in dettaglio.
-
-- Il linguaggio di programmazione [Ruby](https://www.ruby-lang.org/it/documentation/installation/)
-- Il sistema di sviluppo distribuito [git](https://git-scm.com/downloads)
-
-Per gli step successivi è richiesto un minimo di dimestichezza con il terminale a riga di comando. Niente di speciale, è uno strumento che ci consente di dare comandi al computer sotto forma di testo invece che cliccando con un mouse in una finestra. Gli utenti Mac e Linux dovrebbero avere già l'applicazione *Terminale* installata; per gli utenti Windows l'installazione di git include già un terminale simile a quello di Linux.
-
-Glisseremo anche su molti dettagli di git e Github, rimandandovi all'altra guida presente nella nostra wiki.
-
-I comandi da inserire nel terminale (anche copia-incollando) saranno indicati in questo modo: `comando di esempio`
-
-## Predisposizione dell'ambiente
-
-Per prima cosa verifichiamo di avere installato Ruby e bundler, che a sua volta ci aiuterà a installare tutte le dipendenze che ci servono.
-
-Su Mac con Homebrew:
+&lt;/yamldata>&lt;/pre>
 
 ```
+
+
+### Policies
+
+These are some of the policies, guidelines and rules which have been decided:
+
+
+
+*   We do not accept reports of scientific research ([https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/315#issuecomment-598456738](https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/315#issuecomment-598456738)).
+*   If some fields seem to be invalid, try to correct them or search for more information on Google from the title, DO NOT close the Issue immediately if the link fails or similar problems occur.
+
+To discuss or provide feedback, open an Issue.
+
+
+## How the TCI method works (in short)
+
+This project is "cloned" from a precedent used for the 2016 earthquake in central Italy called TCI.
+
+TCI (terremotocentroitalia.info) is a "dynamic" site based on:
+
+
+
+*   a management of reports through issue github and from some scripts (from now on "backend")
+*   a cataloguing and pagination of alerts by jekyll (from now on "frontend")
+
+
+### Backend
+
+The backend is directly represented by a github repo of which only the reporting part is used (you can see it [here](https://github.com/emergenzeHack/terremotocentro_segnalazioni/issues)).
+
+Pros:
+
+
+
+*   the system is robust, functional, managed by others
+*   very easy to use, there are several people who already have experience
+*   possibility to add tags to reports for cataloguing
+*   API to download
+
+Against:
+
+
+
+*   to insert "machine readable" info in the reports we use YAML, which must be managed by an external editor
+*   if the YAML breaks, you have to intervene "by hand".
+
+
+### Conversion Script
+
+Every 5 minutes, a [script](https://github.com/emergenzeHack/covid19italia/blob/master/scripts/csvupdate.sh):
+
+
+
+*   download all the reports from github
+*   decode the YAML file
+*   creates a JSON array that contains the alerts and the YAML file converted to JSON
+*   commits any differences on the GIT repo, triggering webhook and new build
+
+
+### Frontend
+
+Since Jekyll reads JSON directly, there are several pages that filter JSON and create HTML with lists, maps, etc.
+
+The frameworks used are:
+
+
+
+*   bootstrap for the layout
+*   openlayers/leaflet for maps
+
+Pros:
+
+
+
+*   very fast to serve
+*   you can rely on external sites like netlify
+*   practically unbreakable
+
+Against:
+
+
+
+*   in moments of maximum usage, the update is every 5 minutes
+
+
+## Things that could be improved
+
+
+
+*   Processing issues on the site could be done more efficiently using github hooks and any DB to store data, so you can have faster updates. The fact remains that when the site is "stopped", it doesn't make sense to have a DB to query every moment
+
+
+## Convert a Google Docs document to Markdown
+
+Here are some simple steps to convert a document made in Google Docs into a format compatible with this WIKI or as a blog post of this site so you can continue to use Google Docs if you use it normally to write and then publish content on covid19italia.help.
+
+
+
+*   Install the "Docs to markdown" plugin in Add-ons (from the Additional Components menu -> Install Add-ons look for "Docs to markdown".
+*   once the document in Google Doc is ready open the Additional Components menu select "Docs to markdown" and then "Convert".
+*   From the left panel press the Markdown button.
+
+Now select all the text that is translated below...copy it with a normal "Copy" : this is your text in a Github compatible language!
+
+Go for example to the WIKI section, create a new page by giving it a title and paste the text. At the end save the page and you will find it published.
+
+Note: the guide on how to use "Docs to markdown" in detail can also be found [here](https://github.com/evbacher/gd2md-html/wiki#installing-docs-to-markdown).
+
+Done it! Easy, right?
+
+
+## How to insert an element in Press
+
+To insert an item in the [PRESS](https://www.covid19italia.help/about/#press) table proceed as follows:
+
+
+
+*   Go to this PRESS [file](https://github.com/emergenzeHack/covid19italia_data/blob/master/press.csv)
+*   Click the pencil icon to edit the file on Github
+*   Add a line to the file and insert in sequence date,source,title,comma separated links. Note: there must be no additional commas except those separating the 4 fields.
+*   Click on the "Commit changes" or "Propose changes" button at the bottom of the page.
+*   If a green "Create Pull Request" button is provided, press it and wait for the administrators to validate the change.
+
+Done.
+
+
+## Develop locally on site
+
+This short guide will explain how to create a copy of the site on your computer. In this way the changes to the code will be immediately visible in your local copy, and you can test all the improvements you are planning. Let's get started!
+
+
+### Prerequisites
+
+You will need to install some development software on your computer. On the linked pages you will find all the instructions in detail.
+
+
+
+*   The [Ruby](https://www.ruby-lang.org/it/documentation/installation/) programming language
+*   The [git](https://git-scm.com/downloads) distributed development system
+
+A minimum of familiarity with the command line terminal is required for the next steps. Nothing special, it is a tool that allows us to give commands to the computer in the form of text instead of clicking with a mouse in a window. Mac and Linux users should already have the Terminal application installed; for Windows users the git installation already includes a terminal similar to the Linux terminal.
+
+We will also gloss over many details of git and Github, referring you to the other guide in our wiki.
+
+The commands to insert in the terminal (also copy-paste) will be indicated as follows: `example command`.
+
+
+### Preparation of the environment
+
+First we verify that we have Ruby and bundler installed, which in turn will help us install all the dependencies we need.
+
+On Mac with Homebrew:
+
+```sh
+
 brew install ruby
+
 ```
 
-installa la gem bundle
-```
+install the gem bundle
+
+```sh
+
 sudo gem install bundler:1.17.3
+
 ```
 
-installa _command line developer tools_
-```
+install command line developer tools
+
+```sh
+
 xcode-select --install
-```
-
-
-Su Ubuntu:
 
 ```
+
+On Ubuntu:
+
+```sh
+
 sudo apt install build-essential git ruby-full ruby-bundler zlib1g-dev
+
 ```
 
-Facciamo su github il *fork* del repository, poi cloniamo il nostro fork in locale: `git clone https://github.com/nomeutente/covid19italia.git` (ricordati di sostituire il tuo vero nome utente)
+Let's fork the repository on github, then clone our fork locally (remember to use your real username):
 
-Se si lavora sui dati (_data/) bisognerà forkare e lavorare su covid19italia_data invece che su covid19italia.
+```sh
 
-Portiamoci all'interno della nuova cartella: `cd covid19italia`
+git clone https://github.com/username/covid19italia.git
 
-Installiamo tutte le dipendenze del progetto: `bundle install --path vendor/bundle`
+```
 
-## Facciamo partire il sito!
-Eseguiamo, sempre nella cartella covid19italia, `bundle exec jekyll serve`
+If you work on data (_data/) you will need to fork and work on covid19italia_data instead of covid19italia.
 
-Il programma stamperà a video l'indirizzo da aprire nel browser, che sarà del tipo http://127.0.0.1:4000/.
+Let's go inside the new folder:
 
-Ecco fatto, tutto qui! Buon lavoro :muscle:
+```sh
 
-## Ottenere una "build"
+cd covid19italia
 
-Per ottenere una versione _statica_ del sito bisogna eseguire il processo di _build_.
+```
 
-È lo stesso processo che viene eseguito quando viene rilasciato l'aggiornamento sulla versione pubblica del sito.
+We install all project dependencies:
 
-Per eseguire la _build_ in locale bisogna eseguire questo comando:
+```sh
 
-```shell
+bundle install --path vendor/bundle
+
+```
+
+Let's get the site up and running!
+
+Let's execute, always in the folder `covid19italia`:
+
+```sh
+
+bundle exec jekyll serves
+
+```
+
+The program will then print on screen the address to open in the browser, which will be of the type http://127.0.0.1:4000/.
+
+That's it, that's it! Good job :muscle:
+
+
+### Get a build
+
+To get a static version of the site you need to run the build process.
+
+This is the same process that is performed when the update is released on the public version of the site.
+
+To build locally you need to run this command:
+
+```sh
+
 bundle exec jekyll build
+
 ```
 
-## Risoluzione di eventuali errori
 
-#### Per aprire il sito da un altro computer della rete
-Se fate girare il sito su una macchina con Linux e sviluppate sotto Windows dovrete aggiungere -H 0.0.0.0 al comando serve, tipo:
+### Troubleshooting errors
 
-`bundle exec jekyll serve -H 0.0.0.0`
 
-In questo modo potrete aprire il sito da qualsiasi postazione connessa alla vostra rete e non solo dal localhost. Utile per testare le modifiche con cellulari, tablet o altri browser.
+#### To open the site from another computer on the network
+
+If you run the site on a machine running Linux and developed under Windows you have to add -H 0.0.0.0 to the command you need, like:
+
+```sh
+
+bundle exec jekyll serves -H 0.0.0.0
+
+```
+
+In this way you can open the site from any location connected to your network and not only from the localhost. Useful to test the changes with mobile phones, tablets or other browsers.
