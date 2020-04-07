@@ -1,5 +1,4 @@
 ---
-lang: gr
 layout: issuelist
 title: "Όλες οι Πληροφορίες"
 subtitle: Ανακαλύψτε όλες τις αναφορές που έγιναν στην πλατφόρμα Covid19Greece.Help
