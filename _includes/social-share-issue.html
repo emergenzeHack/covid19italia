@@ -8,7 +8,7 @@
 
 {% if any-share-links %}
 {% capture share-url %}{{ site.url }}/issues/{{ member.number }}&title={{member.title|truncate:70|cgi_escape}}%20%7C%20{{ site.title | cgi_escape}}{% endcapture %}
-    Condividi:
+{{site.data.i18n.translations.share}}:
     <!--- Share link -->
     {% if site.share-links-active.link %}
         <a class="card-link fa-stack" href="{{ site.url }}/issues/{{ member.number }}"
@@ -21,7 +21,7 @@
     <!--- Share on Facebook -->
     {% if site.share-links-active.facebook %}
         <a class="card-link fa-stack" href="https://www.facebook.com/sharer/sharer.php?u={{ share-url }}"
-          title="Condividi su Facebook" target="_blank">
+          title="{{site.data.i18n.translations.share}} Facebook" target="_blank">
           <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
           <i class="fa fa-facebook fa-stack-1x fa-inverse" aria-hidden="true"></i>
         </a>
@@ -30,7 +30,7 @@
     <!--- Share on Twitter -->
     {% if site.share-links-active.twitter %}
         <a class="card-link fa-stack" href="https://twitter.com/intent/tweet?text={{ share-url }}&via=covid19italia&hashtags=covid19italia"
-          title="Condividi su Twitter" target="_blank">
+          title="{{site.data.i18n.translations.share}} Twitter" target="_blank">
           <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
           <i class="fa fa-twitter fa-stack-1x fa-inverse" aria-hidden="true"></i>
         </a>
@@ -39,7 +39,7 @@
     <!--- Share on Google Plus -->
     {% if site.share-links-active.google %}
         <a class="card-link fa-stack" href="https://plus.google.com/share?url={{ share-url }}"
-          title="Condividi su Google+" target="_blank">
+          title="{{site.data.i18n.translations.share}} Google+" target="_blank">
           <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
           <i class="fa fa-google-plus fa-stack-1x fa-inverse" aria-hidden="true"></i>
         </a>
@@ -48,7 +48,7 @@
     <!--- Share on LinkedIn -->
     {% if site.share-links-active.linkedin %}
         <a class="card-link fa-stack" href="https://www.linkedin.com/shareArticle?mini=true&url={{ share-url }}"
-          title="Condividi su LinkedIn" target="_blank">
+          title="{{site.data.i18n.translations.share}} LinkedIn" target="_blank">
           <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
           <i class="fa fa-linkedin fa-stack-1x fa-inverse" aria-hidden="true"></i>
         </a>
@@ -57,7 +57,7 @@
     <!--- Share via Email -->
     {% if site.share-links-active.email %}
         <a class="card-link fa-stack" href="mailto:?to=&subject={{member.title|truncate:70|cgi_escape}}%20%7C%20{{site.title|cgi_escape}}&body={{member.title|cgi_escape}}%0D%0AClicca%20qui%3A%20{{ site.url }}/issues/{{ member.number }}"
-          title="Invia email">
+          title="Email">
           <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
           <i class="fa fa-envelope fa-stack-1x fa-inverse" aria-hidden="true"></i>
         </a>
