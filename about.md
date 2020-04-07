@@ -1,106 +1,27 @@
 ---
 layout: page
-title: Che cos'è Covid19 Italia Help? La risposta all'emergenza coronavirus
-subtitle: Scopri come funziona la piattaforma, come collaborare, come fare segnalazioni
+title: Τι είναι το Covid19greece.help;
+#subtitle: Scopri come funziona la piattaforma, come collaborare, come fare segnalazioni
 permalink: /about/
-lang: it
+lang: gr
 ---
-  
-## Il Progetto
 
-**covid19italia.help** è un progetto no profit, organizzato e diretto interamente da volontari e volontarie. È nato per condividere informazioni utili e verificate sull'evento di Coronavirus diffusosi in Italia nel 2020.
+Το Covid19greece.help είναι μια πλατφόρμα που δημιουργήθηκε από μία ομάδα εθελοντών, με την υποστήριξη της μη κερδοσκοπικής οργάνωσης [ActionAid Hellas](http://www.actionaid.gr/) και της ομάδας [emergenzeHack](https://emergenzehack.github.io/), για να μπορούμε όλες και όλοι να μοιραζόμαστε χρήσιμες και αξιόπιστες πληροφορίες που θα μας βοηθήσουν να ανταποκριθούμε στις νέες συνθήκες που δημιούργησε η πανδημία του Covid19. Στόχος της πλατφόρμας, που δημιουργήθηκε με πρότυπο τη σελίδα [covid19italia.help](https://www.covid19italia.help/) , είναι να συλλέγει, να διασταυρώνει και να δημοσιοποιεί πληροφορίες για:
 
-Lo scopo è quello di verificare, aggregare ed etichettare segnalazioni di varia natura, al fine di mettere in contatto richieste di aiuto e offerte di beni e servizi.
+· τις πρωτοβουλίες αλληλεγγύης και τις εθελοντικές ομάδες που δραστηριοποιούνται την περίοδο της πανδημίας του Covid 19
 
-Vengono inoltre raccolte e pubblicate iniziative solidali, culturali e dirette a promuovere ed implementare telelavoro e didattica a distanza.
+· τους φορείς που παρέχουν ψυχολογική υποστήριξη
 
-Infine, raccogliamo normative, direttive istituzionali e dati.
+· τις ανακοινώσεις και τις υπηρεσίες του Δημοσίου
 
-Non si intende in alcun modo sostituirsi a fonti istituzionali di informazione a cui rimandiamo caldamente per l'attendibilità.
+· τα φαρμακεία, τα supermarket και τις άλλες εταιρείες που κάνουν διανομές κατ’ οίκον
 
-## Statistiche
+· τους φορείς που χρειάζονται ή προσφέρουν υποστήριξη σε είδος ή σε χρήματα
 
-{% assign labels = "Servizi e iniziative solidali private,Servizi e iniziative solidali pubbliche,Consegne e commissioni,Fake News,Donne,Raccolte fondi,Supporto psicologico,Didattica a distanza e-learning,Fonti istituzionali,Informazioni utili,Notizie" | split: ',' %}
+· καθώς και μια σειρά χρήσιμων συνδέσμων για δραστηριότητες στο σπίτι την περίοδο της καραντίνας (δημιουργική απασχόληση για παιδιά, εκπαίδευση από απόσταση, ψυχαγωγία, καλές ειδήσεις, κ.α.).
 
-Fino ad ora, abbiamo gestito
-{% for valore in site.data.statisticheSegnalazioni %} {% if valore.Tipo == "Segnalazioni totali" %} <b>{{valore.Valore}}</b> {% endif %} {% endfor %} segnalazioni, accettandone e verificandone {% for valore in site.data.statisticheSegnalazioni %} {% if valore.Tipo == "Accettate" %} <b>{{valore.Valore}}</b>{% endif %}{% endfor %}, così distribuite:
-{% for valore in site.data.statisticheSegnalazioni %} {% if labels contains valore.Tipo %}
-- {{ valore.Valore }} {{ valore.Tipo }} {% endif %} {% endfor %}
+Κατά τη διάρκεια αυτής της έκτακτης κατάστασης που όλοι νιώθουμε μπερδεμένοι και συχνά χαμένοι ανάμεσα στον τεράστιο όγκο των ειδήσεων, η πλατφόρμα Covid19greece.help αναζητά, συγκεντρώνει, επιβεβαιώνει, κατηγοριοποιεί και αναρτά όλες τις χρήσιμες πληροφορίες, με σκοπό την εύκολη και άμεση αξιοποίησή τους από τον καθένα και την καθεμιά μας. Φέρνει κοντά όλες και όλους όσοι βλέπουν την πληροφορία ως κοινωνικό αγαθό και θέλουν να τη μοιράζονται για να φανούν χρήσιμοι και σε άλλους συνανθρώπους μας, καθώς πολλοί είναι εκείνοι που θα μπορούσαν να ωφεληθούν από κάποια πρωτοβουλία που υπάρχει, αλλά δεν τη γνωρίζουν.
 
-## Riuso
+Δες εδώ [Ανέβασε μία πληροφορία](https://gr.covid19people.help/anebase-pliroforia/) πώς μπορείς εύκολα να αναρτήσεις κι εσύ μια χρήσιμη πληροφορία.
 
-Ogni componente software che sviluppiamo è rilasciato con una licenza Open Source che ne permette il riuso e ne promuove lo sviluppo pubblicamente.
-
-I dati che raccogliamo e produciamo vengono pubblicati e tenuti aggiornati come [Open Data]({{ site.url }}/opendata/).
-
-Laddove lo si ritenga utile, tutta l'infrastruttura è ri-usabile da organizzazioni, associazioni, gruppi informali ed anche pubbliche amministrazioni che avessero bisogno di un servizio per informare e attivarsi per rispondere all’emergenza covid19.
-
-Il progetto è descritto tramite il nostro [wiki](https://github.com/emergenzeHack/covid19italia/wiki).
-
-L'idea ed anche buona parte del progetto è dello stesso team che ha sviluppato il progetto [TerremotoCentroItalia](https://www.terremotocentroitalia.info).
-
-## Chi siamo
-
-Ecco la squadra di volontari che lavora a questo progetto:
-
-### Sviluppo
-
-<div class="row contributorRow">
-	{% for contributore in site.data.contributorsCore %}
-		<div class="col-md-2 col-sm-2 col-xs-3" style="text-align: center">
-			<img src="{{ contributore.avatarUrl }}" alt="Avatar" class="contributorImage img-circle">
-			<br>
-			<p class="contributorName">{{ contributore.name }}</p>
-		</div>
-	{% endfor %}
-</div>
-
-### Editors
-
-<div class="row contributorRow">
-	{% for contributore in site.data.contributorsEditors %}
-		<div class="col-md-2 col-sm-2 col-xs-3" style="text-align: center">
-			<img src="{{ contributore.avatarUrl }}" alt="Avatar" class="contributorImage img-circle">
-			<br>
-			<p class="contributorName">{{ contributore.name }}</p>
-		</div>
-	{% endfor %}
-</div>
-
-### Media e comunicazione
-
-<div class="row contributorRow">
-	{% for contributore in site.data.contributorsMedia %}
-		<div class="col-md-2 col-sm-2 col-xs-3" style="text-align: center">
-			<img src="{{ contributore.avatarUrl }}" alt="Avatar" class="contributorImage img-circle">
-			<br>
-			<p class="contributorName">{{ contributore.name }}</p>
-		</div>
-	{% endfor %}
-</div>
-
-### Contatti
-
-- [Email](mailto:covid19ita@gmail.com)
-- [Twitter](https://twitter.com/ItaliaCovid19)
-- [Instagram](https://www.instagram.com/covid19italia.help/)
-- [Pagina Facebook](https://www.facebook.com/covid19italia.help/)
-- [Gruppo Facebook](https://www.facebook.com/groups/2921275147894653/)
-- [Gruppo Telegram ](https://t.me/COVID19I)
-- [Canale Telegram](https://t.me/COVID19I)
-- [Repository Github](https://github.com/emergenzeHack/covid19italia)
-
-### Tecnologie e Progetti Riusati
-
-- [Beautiful Jekyll](https://deanattali.com/beautiful-jekyll/)
-- [Maptune](https://github.com/gjrichter/maptune)
-- [Mapstraction](http://mapstraction.com)
-- [Leaflet](http://leafletjs.com)
-- [Mapicons](http://mapicons.nicolasmollet.com)
-- [Bootstrap](http://getbootstrap.com/)
-- [Glyphicons](http://glyphicons.com)
-- [Jekyll](https://jekyllrb.com/)
-- [Github](http://www.github.com)
-- [Kobotoolbox](https://www.kobotoolbox.org/)
-- [TerremotoCentroItalia](http://www.terremotocentroitalia.info)
-
+Επικοινώνησε [https://gr.covid19people.help/contact/](https://gr.covid19people.help/contact/) μαζί μας για να μοιραστείς τις ιδέες σου και να μας βοηθήσεις να κάνουμε καλύτερη την πλατφόρμα Covid19greece.help.
