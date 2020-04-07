@@ -135,9 +135,14 @@ layout: base
 </div>
 </div>
 
+{% if category["includefooter"] %}
+{% include category["includefooter"] %}
+{% endif %}
+
 {%- endif -%}
 {%- endif -%}
 {%- endfor -%}
+
 
 {%- if page.categorieMapAll -%}
 {%- assign filteredissues = geofilteredissues -%}
