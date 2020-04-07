@@ -1,3 +1,8 @@
+{% if page.lang != blank %}
+{% assign lang = page.lang %}
+{% else %}
+{% assign lang = site.lang %}
+{% endif %}
 <footer itemscope="itemscope" itemtype="http://schema.org/WPFooter">
   <div class="container beautiful-jekyll-footer">
     <div class="row">
@@ -140,7 +145,7 @@
 		  &nbsp;&bull;&nbsp;
 		  <span itemprop="copyrightYear">{{ site.time | date: '%Y' }}</span>
 
-      {% if page.lang == site.lang %}
+      {% if lang == "it" %}
 
 		  {% if site.url-pretty %}
 		  &nbsp;&bull;&nbsp;
@@ -150,9 +155,7 @@
 		  <a href="{{ site.url }}/legal/" target="_blank">Legal, Cookie e Privacy Policy</a>
 		  &nbsp;&bull;&nbsp;
 		  Con il sostegno di &nbsp;<a href="https://www.actionaid.it/" rel="noopener" target="_blank"><img src="/images/actionaid-logo.png" width="160" alt="Actionaid - realizza il cambiamento"></a>
-      {% endif %}
-
-      {% if page.lang == "en" %}
+      {% elsif lang == "en" %}
 		  {% if site.url-pretty %}
 		  &nbsp;&bull;&nbsp;
 		  <a href="{{ site.url }}">{{ site.url-pretty }}</a>
@@ -161,9 +164,7 @@
 		  <a href="{{ site.url }}/legal/" target="_blank">Legal, Cookie and Privacy Policy</a>
 		  &nbsp;&bull;&nbsp;
 		  Supported by &nbsp;<a href="https://www.actionaid.it/" rel="noopener" target="_blank"><img src="/images/actionaid-logo.png" width="160" alt="Actionaid - realizza il cambiamento"></a>
-      {% endif %}
-
-      {% if page.lang == "pt" %}
+      {% elsif lang == "pt" %}
       {% if site.url-pretty %}
       &nbsp;&bull;&nbsp;
       <a href="{{ site.url }}">{{ site.url-pretty }}</a>
@@ -174,16 +175,14 @@
       Apoiado por &nbsp;<a href="https://www.actionaid.it/" rel="noopener" target="_blank"><img src="/images/actionaid-logo.png" width="160" alt="Actionaid - realizza il cambiamento"></a>
       {% endif %}
 
-    {% if page.lang == site.lang %}
+    {% if lang == "it" %}
   <br>
 		Raccogliamo, verifichiamo e diffondiamo informazioni utili sull'epidemia e sull’emergenza da coronavirus in Italia nel 2020: <a href="{{ site.url }}/issues/" title="Iniziative solidali emergenza coronavirus">notizie</a>, <a href="https://www.covid19italia.help/issues/" title="Iniziative solidali emergenza coronavirus">iniziative solidali</a>, <a href="https://www.covid19italia.info/consegne-e-commissioni/" title="Consegne spesa a casa e a domicilio emergenza coronavirus">consegne della spesa a domicilio</a>, <a href="https://www.covid19italia.help/raccolte-fondi/" title=" Raccolte fondi emergenza coronavirus">raccolte fondi</a>, <a href="https://www.covid19italia.help/supporto-psicologico/" title="Sostegno psicologico emergenza coronavirus">sostegno psicologico</a> e molto altro. Il progetto è no profit, gestito da civic hacker volontarie e volontari.<br>Contenuti rilasciati sotto licenza <a href="https://creativecommons.org/licenses/by/4.0/it/">CC-BY 4.0</a>. <a href="{{ site.url }}/opendata/">Open Data</a>.
-   {% endif %}
-   {% if page.lang == "en" %}
+   {% elsif lang == "en" %}
    <br>
    We collect, verify and disseminate useful information on the epidemic and the coronavirus emergency in 2020: news, solidarity initiatives, home shopping deliveries, fundraisers, psychological support and much more. The project is non-profit, managed by voluntary civic hackers.
    Content released under license <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC-BY 4.0</a>. <a href="{{ site.url }}/opendata/">Open Data</a>.
-    {% endif %}
-    {% if page.lang == "pt" %}
+    {% elsif lang == "pt" %}
     <br>
     Recolhemos, verificamos e divulgamos informações úteis sobre a epidemia e a emergência do coronavírus na Itália em 2020: notícias, iniciativas de solidariedade, entregas de compras em casa, angariação de fundos, apoio psicológico e muito mais. O projeto não tem fins lucrativos, gerido por civic hackers voluntários e voluntárias.
     Conteúdo distribuido sob licença CC-BY 4.0. Open Data.
