@@ -133,7 +133,7 @@ languages: ["it", "en", "pt"]
 permalink: /:categories/:year-:month-:day-:title/
 paginate: 5
 #selec tile for maps
-tile_map: https://a.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png
+tile_map: https://a.tile.openstreetmap.org/{z}/{x}/{y}.png
 kramdown:
   input: GFM
 
