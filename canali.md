@@ -9,7 +9,7 @@ permalink: /contact/
 <div class="segnala">
 <p>Αν θέλεις να επικοινωνήσεις μαζί μας: </p>
      <ul>
-         {% if site.author.facebook %}
+         <!--{% if site.author.facebook %}
           <li>
             <a href="https://www.facebook.com/{{ site.author.facebook }}" title="Facebook">
               <span class="fa-stack fa-lg" aria-label="Logo riferito al sito facebook, il carattere f dentro un quadrato blu." role="img">
@@ -28,7 +28,7 @@ permalink: /contact/
               </span>&nbsp;&nbsp;Gruppo Facebook
             </a><span>da usare per discutere con noi su Facebook</span>
           </li>
-         {% endif %}
+         {% endif %} -->
          {% if site.author.androidapp %}
           <li>
             <a href="https://play.google.com/store/apps/details?id={{ site.author.androidapp }}&hl=it_it" title="Android App">
@@ -39,7 +39,7 @@ permalink: /contact/
             </a><span>consulta i contenuti da app android</span>
           </li>
          {% endif %}
-         {% if site.author.github %}
+         <!--{% if site.author.github %}
           <li>
             <a href="https://github.com/{{ site.author.github }}" title="GitHub">
               <span class="fa-stack fa-lg" aria-label="Logo riferito al sito github, raffigura un gatto con i tentacoli." role="img">
@@ -48,18 +48,18 @@ permalink: /contact/
               </span>&nbsp;&nbsp;Repository GitHub
             </a><span>per collaborare agli sviluppi</span>
           </li>
-          {% endif %}
+          {% endif %} -->
           {% if site.author.twitter %}
           <li>
-            <a href="https://twitter.com/{{ site.author.twitter }}" title="Twitter">
-              <span class="fa-stack fa-lg" aria-label="Logo riferito al sito twitter, un uccello di colore celeste." role="img">
+            <a href="https://twitter.com/ActionAidHellas" title="Twitter">
+              <span class="fa-stack fa-lg" aria-label="Ακολούθησε μας στο twitter @ActionAidHellas" role="img">
                 <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
                 <i class="fa fa-twitter fa-stack-1x fa-inverse" aria-hidden="true"></i>
-              </span>&nbsp;&nbsp;Pagina Twitter
-            </a><span>da usare per comunicare con noi su Twitter</span>
+              </span>&nbsp;&nbsp;Σελίδα Twitter
+            </a><span>Ακολούθησε μας στο twitter @ActionAidHellas</span>
           </li>
           {% endif %}
-           {% if site.author.instagram %}
+           <!--{% if site.author.instagram %}
           <li>
             <a href="https://www.instagram.com/{{ site.author.instagram }}" title="Instagram un social network pieno di fotografie.">
               <span class="fa-stack fa-lg" aria-label="Logo riferito a instagram, raffigura una macchina fotografica stilizzata." role="img">
@@ -138,14 +138,14 @@ permalink: /contact/
               </span>&nbsp;&nbsp;Waze
             </a>per informazioni su tutto ciò che riguarda la viabilità
           </li>
-          {% endif %}
+          {% endif %} -->
                  <li>
-            <a itemprop="sameAs" href="{{ site.author.email }}" title="Email">
+            <a itemprop="sameAs" href="covid19.greece@actionaid.org" title="Email">
               <span class="fa-stack fa-lg" aria-label="Logo raffigurante una busta, email.">
                 <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
                 <i class="fa fa-envelope fa-stack-1x fa-inverse" aria-hidden="true"></i>
               </span>&nbsp;&nbsp;Email
-            </a>per segnalare contenuti da rimuovere o scriverci
+            </a>Στείλε μας e-mail στο covid19.greece@actionaid.org
           </li>
           {% if site.author.archiveorg %}
           <li>
@@ -157,7 +157,7 @@ permalink: /contact/
             </a>archivio dati
           </li>
           {% endif %}
-          {% if site.author.slack %}
+          <!--{% if site.author.slack %}
 	         <li>
             <a href="{{ site.author.slack }}" title="Slack">
               <span class="fa-stack fa-lg" aria-label="Logo Slack" role="img">
@@ -166,7 +166,7 @@ permalink: /contact/
               </span>&nbsp;&nbsp;Gruppo Slack
             </a><span>per coordinarci internamente</span>
           </li>
-          {% endif %}
+          {% endif %}-->
      </ul>
           <p>Tutto ciò che ci invii sarà gestito dal nostro team, che potrà provvedere alla pubblicazione delle informazioni sul sito appena possibile. Ricordati che usando i nostri canali accetti automaticamente di sottoscrivere l'<a href="{{ site.url }}/legal_segnalazioni/">informativa legale</a> per le informazioni di questo progetto.</p>
 </div>
