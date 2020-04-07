@@ -83,3 +83,4 @@ migrants and refugees:
   permalink: /migranti-rifugiati/
   markericon: handshake
   markercolor: yellow
+  includeheader: arci_migranti_header.html

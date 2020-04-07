@@ -96,6 +96,10 @@ layout: base
         <div class="col-12 col-lg-12 col-md-12">
             <h2 id="{{category['permalink']}}">{{category["displayname"]}} <span class="badge badge-pill badge-primary">{{filteredissues.size}}</span></h2>
             <div class="row">
+{% if category["includeheader"] != blank %}
+{% assign includeheader = category["includeheader"] %}
+{% include {{includeheader}} %}
+{% endif %}
             {%- if page.justLatestIssues -%}
             {%- assign filteredissues = filteredissues | sort: 'number' | reverse | slice: 0,5 -%}
             {%- endif -%}
@@ -127,6 +131,10 @@ layout: base
             </div>
         </div>
     </div>
+{% if category["includefooter"] != blank %}
+{% assign includefooter = category["includefooter"] %}
+{% include {{includefooter}} %}
+{% endif %}
     {%- if page.justLatestIssues -%}
     <div class="row">
         <div class="col-12 col-lg-12 col-md-12"><a href="{{category['permalink']}}" class="btn btn-primary btn-lg">{{site.data.i18n.translations["see_all"]}} {{category["displayname"]}}</a></div>
@@ -135,9 +143,6 @@ layout: base
 </div>
 </div>
 
-{% if category["includefooter"] %}
-{% include category["includefooter"] %}
-{% endif %}
 
 {%- endif -%}
 {%- endif -%}
