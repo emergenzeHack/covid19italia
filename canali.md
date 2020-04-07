@@ -3,7 +3,7 @@ lang: gr
 layout: page
 title: Επικοινωνία
 #subtitle: Contatta Covid19Italia.help e segui i canali social
-permalink: /epikoinonia/
+permalink: /contact/
 ---
 
 <div class="segnala">
