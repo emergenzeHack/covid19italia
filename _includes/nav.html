@@ -1,3 +1,8 @@
+{% if page.lang != blank %}
+{% assign lang = page.lang %}
+{% else %}
+{% assign lang = site.lang %}
+{% endif %}
 <nav class="navbar navbar-default navbar-dark fixed-top navbar-expand-lg" style="background-color: #294481;">
     {%- if site.avatar and (layout.show-avatar or page.show-avatar) -%}
     <a class="navbar-brand" href="/">
@@ -12,7 +17,7 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="nav navbar-nav ml-auto">
-            {%- assign itemarray = site.data.i18n.navigation.languages | where_exp: "item", "item.language == page.lang" -%}
+            {%- assign itemarray = site.data.i18n.navigation.languages | where_exp: "item", "item.language == lang" -%}
             {%- assign item = itemarray[0] -%}
             {%- for link in item.navbar-links -%}
             {%- if link[1].first -%}
@@ -32,7 +37,7 @@
             </li>
             {%- endif -%}
             {%- endfor -%}
-            {%- if page.lang == "it" -%}
+            {%- if lang == "it" -%}
             <li>
                 <a class="nav-link" href="/en" itemprop="url">English <span class="flag-icon flag-icon-gb"
                                                                             style="margin:2px;"></span></a>
