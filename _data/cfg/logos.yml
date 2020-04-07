@@ -65,7 +65,7 @@
   link_gr: issues
 - name: FAKE NEWS
   logo-alt: le fake news
-  logo: /img/icone/bufala-tci-1.png              #       SERVE ICONA NUOVA??
+  logo: /img/icone/goodnews.png              #       SERVE ICONA NUOVA??
   map: false
   link: fake-news/
   name_en: FAKE NEWS
