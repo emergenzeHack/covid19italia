@@ -5,4 +5,4 @@ VOLUME ["/opt"]
 WORKDIR /opt
 COPY start_dev.sh /bin/start_dev.sh
 RUN chmod +x /bin/start_dev.sh
-CMD [ "start.sh" ]
+CMD [ "start_dev.sh" ]
