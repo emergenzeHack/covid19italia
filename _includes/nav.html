@@ -12,8 +12,8 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="nav navbar-nav ml-auto">
-            {%- for item in site.data.i18n.navigation.languages -%}
-            {%- if item.language == page.lang -%}
+            {%- assign itemarray = site.data.i18n.navigation.languages | where_exp: "item", "item.language == page.lang" -%}
+            {%- assign item = itemarray[0] -%}
             {%- for link in item.navbar-links -%}
             {%- if link[1].first -%}
             <li itemprop="name" class="nav-item dropdown">
@@ -30,8 +30,6 @@
             <li>
                 {%- include navbarlink.html link=link dropdown=false -%}
             </li>
-            {%- endif -%}
-            {%- endfor -%}
             {%- endif -%}
             {%- endfor -%}
             {%- if page.lang == "it" -%}
