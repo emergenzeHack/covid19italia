@@ -1,11 +1,11 @@
-see_all: Vedi tutte
-share: Condividi
-latitude: Latitudine
-longitude: Longitudine
-map: Mappa
-created_at: Creato
-updated_at: Aggiornato
-municipality: Comune
-province: Provincia
-region: Regione
+see_all: δείτε όλα
+share: μοιραστείτε τα
+latitude: γεωγραφικό πλάτος
+longitude: γεωγραφικό μήκος
+map: χάρτης
+created_at: δημιουργήθηκε στις
+updated_at: ενημερώθηκε στις
+municipality: Δήμος
+province: γεωγραφικό διαμέρισμα
+region: περιοχή
 
