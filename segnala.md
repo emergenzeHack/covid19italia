@@ -2,7 +2,7 @@
 lang: gr
 layout: page
 title: "Οι περιπτώσεις έκτακτης ανάγκης από το Coronavirus ζητούν βοήθεια, αναφέρουν πρωτοβουλίες, ειδήσεις, δεδομένα"
-subtitle: Chiedi aiuto o segnala iniziative su Covid19Italia.Help
+<!--subtitle: Chiedi aiuto o segnala iniziative su Covid19Italia.Help-->
 permalink: /anebase-pliroforia/
 ---
 
@@ -21,7 +21,7 @@ permalink: /anebase-pliroforia/
   <a class="btn btn-outline-dark btn-block btn-form " href="/anebase-pliroforia/fundraising">Συγκέντρωση ειδών/πόρων</a>
   <a class="btn btn-outline-dark btn-block btn-form" href="/anebase-pliroforia/contatto-utile">Segnala Contatto utile</a>
   <a class="btn btn-outline-dark btn-block btn-form" href="/anebase-pliroforia/Αναφορές-Φάρσας">Αναφορές Φάρσας</a>
-  <a class="btn btn-outline-dark btn-block btn-form" href="/anebase-pliroforia/documenti-dati">Segnala Documenti/Dati</a>
+  <a class="btn btn-outline-dark btn-block btn-form" href="/anebase-pliroforia/Υπηρεσίες-ανακοινώσεις-δημοσίου">Υπηρεσίες/ανακοινώσεις δημοσίου</a>
   <a class="btn btn-outline-dark btn-block btn-form" href="/anebase-pliroforia/news">Αναφορά Ειδήσεων</a>
 </div>
 
