@@ -52,12 +52,12 @@ languages:
   - language: gr
     navbar-links:
       Ανέβασε μια πληροφορία: "anebase-pliroforia/"
+      Αναρτήσεις: "issues/"
+       #- SEGNALAZIONI PER REGIONE: "issues/regione/"
       Σχετικά:
         - Τι είναι: "about/"
         #- Τύπος: "press/"
         - Πώς συμμετέχεις: "faq/"
         #- Ανοιχτά δεδομένα: "opendata/"
-      Αναρτήσεις: "issues/"
-       #- SEGNALAZIONI PER REGIONE: "issues/regione/"
       Προστασία δεδομένων: "legal/"
       Επικοινωνία: "contact/"
