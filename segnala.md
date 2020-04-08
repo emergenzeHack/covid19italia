@@ -18,7 +18,7 @@ permalink: /anebase-pliroforia/
     <small>Supporto Lavoro/Imprese, Iniziative culturali, ricreative e solidali</small>
   </a>
 
-  <a class="btn btn-outline-dark btn-block btn-form " href="/anebase-pliroforia/raccolta-fondi">Segnala Raccolta Fondi</a>
+  <a class="btn btn-outline-dark btn-block btn-form " href="/anebase-pliroforia/fundraising">Συγκέντρωση ειδών/πόρων</a>
   <a class="btn btn-outline-dark btn-block btn-form" href="/anebase-pliroforia/contatto-utile">Segnala Contatto utile</a>
   <a class="btn btn-outline-dark btn-block btn-form" href="/anebase-pliroforia/Αναφορές-Φάρσας">Αναφορές Φάρσας</a>
   <a class="btn btn-outline-dark btn-block btn-form" href="/anebase-pliroforia/documenti-dati">Segnala Documenti/Dati</a>
