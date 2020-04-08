@@ -1,5 +1,4 @@
 ---
-lang: pt
 layout: issuelist
 title: Emergência do coronavírus peça ajuda, partilhe iniciativas, notícias, dados
 subtitle: Descubra todos os relatórios feitos sobre a plataforma pt.Covid19people.Help

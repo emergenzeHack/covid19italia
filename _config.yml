@@ -41,7 +41,7 @@ author:
   name: COVID19Italia
   email: "mailto:covid19pt.help@gmail.com"
   facebook: Covid19PThelp  # eg. daattali
-  facebook_group: 2921275147894653
+  facebook_group: 104724424515007
   github: emergenzeHack/covid19italia    # eg. daattali
   twitter: Covid19PThelp   # eg. daattali
   #linkedin:   # eg. daattali
@@ -257,8 +257,8 @@ jekyll_tidy:
 # Impostazioni mappa
 
 issuemap:
-        center: 40.38003,-21.33545 
-        zoom: 5
+        center: 38.75408,-18.7207 
+        zoom: 4
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189

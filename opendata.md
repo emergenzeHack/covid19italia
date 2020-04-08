@@ -2,20 +2,19 @@
 lang: pt
 layout: page
 title: Open Data Covid19 | Open Data Coronavirus
-subtitle: Gli open data di Covid19Italia.Help con le segnalazioni in emergenza coronavirus da riutilizzare
+subtitle: Os dados abertos do Covid19Portugal Help com relatórios de emergência do coronavírus para reutilização
 permalink: /opendata/
 ---
 
 
-In tabella trovi tutti i riferimenti ai contenuti e ai dati prodotti o raccolti da questo progetto assieme alla loro licenza di riuso.
-Se usi i nostri dati non scordare di citarci come fonte (grazie!) ma segnalacelo [scrivendoci una mail](mailto:covid19ita@gmail.com) in modo che potremmo citarti tra
-gli utilizzatori di questo progetto!
+Na tabela encontrará todas as referências aos conteúdos e dados produzidos ou recolhidos por este projecto, juntamente com a respectiva licença de reutilização.
+Se utilizar os nossos dados não se esqueça de nos citar como a fonte (obrigado!) e informe-nos [enviando-nos um e-mail](mailto:covid19pt.help@gmail.com) para que possamos citá-lo entre
+os utilizadores deste projecto!
 
 {: .table .table-striped #opendata}
-Nome            |Dataset         |Licenza         |Link Licenza    |Fonte           |Formato         |Note
+Nome            |Dataset         |Licença         |Link Licença    |Fonte           |Formato         |Notas
 :---------------|:---------------|:---------------|:---------------|:---------------|:---------------|:---------------
-{% for member in site.data.opendata %} {{member.Nome}} | [Dataset]({{member.Dataset}}) | {{member.Licenza}} | [Link Licenza]({{member.Linklicenza}}) | [Fonte]({{member.Fonte}}) | {{member.Formato}} | {{member.Note}}
+{% for member in site.data.opendata %} {{member.Nome}} | [Dataset]({{member.Dataset}}) | {{member.Licenca}} | [Link Licença]({{member.Linklicenca}}) | [Fonte]({{member.Fonte}}) | {{member.Formato}} | {{member.Notas}}
 {% endfor %}
 
 
-Se hai un servizio che può usare il formato Feed RSS puoi anche usare [questo feed rss delle segnalazioni](http://feeds.feedburner.com/covid19ita_segnalazioni) oppure [questo feed delle notizie nel bollettino](https://script.google.com/macros/s/AKfycbxTuPFn9ePZOhI7et2f8nSPjkjlhd9zqHth9sOVYRZ6Va09zmE/exec).

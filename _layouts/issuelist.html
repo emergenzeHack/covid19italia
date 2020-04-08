@@ -90,10 +90,12 @@ layout: base
 
 {%- if filteredissues.size > 0 -%}
 <div class="row">
+    <div class="col-12 col-lg-12 col-md-12">
     {%- assign allcatfilteredissues = allcatfilteredissues | concat: filteredissues | uniq -%}
     <div class="row">
-        <div class="col-12">
+        <div class="col-12 col-lg-12 col-md-12">
             <h2 id="{{category['displayname']|slugify}}">{{category["displayname"]}} <span class="badge badge-pill badge-primary">{{filteredissues.size}}</span></h2>
+            <div class="row">
             {%- if page.justLatestIssues -%}
             {%- assign filteredissues = filteredissues | sort: 'number' | reverse | slice: 0,5 -%}
             {%- endif -%}
@@ -101,7 +103,7 @@ layout: base
             <div class="col-md-12 col-sm-12 col-12 mb-15">
                 <div class="card" id="issue{{member.number}}">
                     <div class="card-body issuepanel">
-                        <a href="{{site.url}}/issues/{{member.number}}"><h4 class="card-title">{{member.title}}</h4></a>
+                        <a href="/issues/{{member.number}}"><h4 class="card-title">{{member.title}}</h4></a>
                         <dl class="row">
                             {%- for item in member.issue.data -%}
                             {%- if item[1] != blank -%}
@@ -122,18 +124,25 @@ layout: base
                 </div>
             </div>
             {%- endfor -%}
+            </div>
         </div>
     </div>
     {%- if page.justLatestIssues -%}
     <div class="row">
-        <div class="col"><a href="{{category['permalink']}}" class="btn btn-primary btn-lg">Vedi tutte {{category["displayname"]}}</a></div>
-        <hr class="col-12">
+        <div class="col-12 col-lg-12 col-md-12"><a href="{{category['permalink']}}" class="btn btn-primary btn-lg">{{site.data.i18n.translations["see_all"]}} {{category["displayname"]}}</a></div>
+        <hr class="col-12 col-lg-12 col-md-12">
     </div>
 </div>
+</div>
+
+{% if category["includefooter"] %}
+{% include category["includefooter"] %}
+{% endif %}
 
 {%- endif -%}
 {%- endif -%}
 {%- endfor -%}
+
 
 {%- if page.categorieMapAll -%}
 {%- assign filteredissues = geofilteredissues -%}
@@ -154,10 +163,8 @@ layout: base
 var markerList=[];
 
 {%- for member in filteredissues -%} 
-    {%- if member.issue.data.Posizione != blank -%} 
-        {%- assign labels = member.issue.labels -%} 
-        {%- assign coordinate = member.issue.data.Posizione | split: ' ' -%} 
-        markerList.push([{{coordinate[0]}}, {{coordinate[1]}}, "{{member.title|uri_escape}}", "{{ member.number }}", {{labels}}]);
+    {%- if member.issue.lat != blank and member.issue.lon != blank -%} 
+        markerList.push([{{member.issue.lat}}, {{member.issue.lon}}, "{{member.title|uri_escape}}", "{{ member.number }}", {{member.issue.labels}}]);
     {%- endif -%} 
 {%- endfor -%} 
 
@@ -177,7 +184,7 @@ var map = L.map('map', {
 // create the tile layer with correct attribution
 var osmUrl='{{site.tile_map}}';
 var osmAttrib='&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>, Tiles courtesy of <a href="http://hot.openstreetmap.org/" target="_blank">Humanitarian OpenStreetMap Team</a>';
-var osm = new L.TileLayer(osmUrl, {minZoom: 5, maxZoom: 19, attribution: osmAttrib});
+var osm = new L.TileLayer(osmUrl, {minZoom: {{site.issuemap.zoom}}>1?{{site.issuemap.zoom}}-1:{{site.issuemap.zoom}}, maxZoom: 19, attribution: osmAttrib});
 
 
 var sumLat = 0.;

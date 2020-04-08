@@ -32,7 +32,7 @@
   name_en: FUNDARAISER
   link_en: raccolte-fondi/
   name_pt: Coleções de fundos
-  link_pt: angariação-de-fundos
+  link_pt: fundraising
 - name: FONTI ISTITUZIONALI
   logo-alt: Elenco delle fonti istituzionali da cui reperire informazioni ufficiali.
   logo: /img/icone/tci-legge.png
@@ -40,7 +40,7 @@
   link: fonti-istituzionali/
   name_en: INSTITUTIONAL SOURCES
   link_en: fonti-istituzionali/
-  name_pt: Frentes Institucionais
+  name_pt: Fontes Institucionais
   link_pt: institucionais
 - name: RICHIESTE DI AIUTO
   logo-alt: richieste di aiuto
