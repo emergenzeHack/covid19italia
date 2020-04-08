@@ -80,7 +80,14 @@ subtitle: Μοιραζόμαστε πληροφορίες για να μπορέ
     {% endif %}
   {% endcapture %}
   {% assign logo_alt = logo_alt | strip %}
-	<a href="{{ site.baseurl }}/{{ category.link_gr }}" title="{{ logo_alt }}">
+    {% if site.lang == "it" %}
+        {% assign linkProperty = 'link' %}
+        {%else%}
+        {% assign linkProperty = 'link_' | append : site.lang %}
+    {% endif %}
+    {% assign link = category[linkProperty] %}
+    {% if link and link != empty %}
+	<a href="{{ site.baseurl }}/{{ link }}" title="{{ logo_alt }}">
 		<div class="card border-0" style="width: 10rem;">
 			{% if category.logo and category.logo != empty %}
 			<img class="card-img-top" src="{{ site.baseurl }}{{ category.logo }}" alt="{{ category.logo-alt }}">
@@ -90,6 +97,7 @@ subtitle: Μοιραζόμαστε πληροφορίες για να μπορέ
 			</div>
 		</div>
 	</a>
+    {% endif %}
 {% endfor %}
 </div>
 
