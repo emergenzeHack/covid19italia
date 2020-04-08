@@ -1,6 +1,6 @@
 ---
 layout: issuelist
-title: "Όλες οι Πληροφορίες"
+title: "Όλες οι Αναρτήσεις"
 subtitle: Ανακαλύψτε όλες τις αναφορές που έγιναν στην πλατφόρμα Covid19Greece.Help
 permalink: /issues/
 categorieMapAll: true
