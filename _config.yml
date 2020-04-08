@@ -247,11 +247,6 @@ page_gen:
       template: issue
       name: number
       dir: issues
-    - index_files: false
-      data: machgen.issuesjson
-      template: issue
-      name: number
-      dir: issues
     - index_files: true
       data: geo.regioni
       template: issuelist_regione

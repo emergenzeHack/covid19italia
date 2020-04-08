@@ -34,7 +34,8 @@ province=gpd.GeoDataFrame(province)
 province.crs='epsg:23032'
 province=province.to_crs('epsg:4326')
 
-FILTER_LABELS=(ACCETTATOLABEL,)
+FILTER_LABELS=("Accettato","accepted")
+POSIZIONE_NAMES=("posizione","Posizione","position","Position","location","Location")
 
 try:
     config=configparser.RawConfigParser()
@@ -95,7 +96,13 @@ else:
 org=g.get_organization(ORG)
 r = org.get_repo(REPO_NAME)
 
-filter_labels=[r.get_label(l) for l in FILTER_LABELS]
+filter_labels=[]
+for l in FILTER_LABELS:
+    try:
+        ghlabel=r.get_label(l)
+        filter_labels.append(ghlabel)
+    except:
+        pass
 
 issues=r.get_issues(since=lastTime,labels=filter_labels,state='all')
 
@@ -140,22 +147,24 @@ for issue in issues:
         print(f"Data not found for issue {issue}.")
         continue
 
-    if "Posizione" in data:
-        try:
-            (lat,lon) = data["Posizione"].split(" ")[:2]
-            p = Point(float(lon),float(lat))
-            for i,regione in regioni.iterrows():
-                if regione['geometry'].contains(p):
-                    regioneIssue = regione["DEN_REG"]
-                    break
-                    
-            for i,provincia in province.iterrows():
-                if provincia['geometry'].contains(p):
-                    provinciaIssue = provincia["DEN_UTS"]
-                    break
-                    
-        except Exception as e:
-            print("Exception:",e)
+    for posName in POSIZIONE_NAMES:
+        if posName in data:
+            try:
+                (lat,lon) = data[posName].split(" ")[:2]
+                p = Point(float(lon),float(lat))
+                for i,regione in regioni.iterrows():
+                    if regione['geometry'].contains(p):
+                        regioneIssue = regione["DEN_REG"]
+                        break
+
+                for i,provincia in province.iterrows():
+                    if provincia['geometry'].contains(p):
+                        provinciaIssue = provincia["DEN_UTS"]
+                        break
+
+            except Exception as e:
+                print("Exception:",e)
+            break
 
     if "regione_manuale" in data:
         regioneIssue = data["regione_manuale"]
