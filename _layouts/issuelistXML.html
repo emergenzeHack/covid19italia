@@ -1,0 +1,75 @@
+---
+layout: null
+---
+
+{%- if page.issuecategory != blank -%}
+
+    {% assign issuecategories = "" | split: "," %}
+    {% assign tmpcategory = "" | split: "," %}
+    {%- assign tmpcategory = tmpcategory | push: page.issuecategory -%}
+    {%- assign tmpcategory = tmpcategory | push: site.data.cfg.issuecategories[page.issuecategory] -%}
+    {%- assign issuecategories = issuecategories |  push: tmpcategory -%}
+
+{%- elsif page.displayname != blank and page.markericon != blank -%}
+
+    {% assign issuecategories = "" | split: "," %}
+    {% assign tmpcategory = "" | split: "," %}
+    {%- assign tmpcategory = tmpcategory | push: "page" -%}
+    {%- assign tmpcategory = tmpcategory | push: page -%}
+    {%- assign issuecategories = issuecategories |  push: tmpcategory -%}
+
+{%- else -%}
+
+    {%- assign issuecategories = site.data.cfg.issuecategories -%}
+
+{%- endif -%}
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>{%- if page.displayname != blank -%}{{ page.displayname }} | {{ site.title }}{%- elsif page.url == '/' -%}{{ page.title }}{%- else -%}{{ page.title }} | {{ site.title }}{%- endif -%}</title>
+        <description></description>
+        <link>{{ page.url }}</link>
+        <category domain="{{ site.url }}">Covid19</category>
+        <copyright>Copyright 2020 {{site.tite}}</copyright>
+        <docs>{{site.url}}/rss</docs>
+        <language>{{site.lang}}</language>
+        <lastBuildDate>{{ site.time | date_to_xmlschema }}</lastBuildDate>
+        <managingEditor>{{site.email}}</managingEditor>
+        <pubDate>{{ site.time | date_to_xmlschema }}</pubDate>
+        <webMaster>{{site.email}}</webMaster>
+        <generator>Jekyll</generator>
+
+            {%- assign openissues = site.data.machgen.issuesjson | where: "state","open" -%}
+
+            {%- if page.nome_provincia != blank -%}
+            {%- assign geofilteredissues = openissues | where_exp: "member", "member.issue.provincia == page.nome_provincia" -%}
+            {%- else -%}
+            {%- if page.nome_regione != blank -%}
+            {%- assign geofilteredissues = openissues |  where_exp: "member", "member.issue.regione == page.nome_regione or member.issue.regione == 'tutte'" -%}
+            {%- else -%}
+            {%- assign geofilteredissues = openissues  -%}
+            {%- endif -%}
+            {%- endif -%}
+
+{%- assign filteredissues = '' | split: '' -%}
+{%- for categorytuple in issuecategories -%}
+{%- assign category = categorytuple[1] -%}
+
+{% for issuelabel in category["labelnames"] %}
+    {%- assign tmpfilteredissues = geofilteredissues | where_exp: "member","member.issue.labels contains issuelabel" -%}
+    {%- assign filteredissues = filteredissues | concat: tmpfilteredissues | uniq -%}
+{% endfor %}
+{% endfor %}
+
+{%- assign filteredissues = filteredissues | sort: 'number' | reverse -%}
+            {%- for member in filteredissues -%}
+        <item>
+            <title>{{member.title | xml_escape}}</title>
+            <description>{{member.issue.data.Descrizione | xml_escape}}</description>
+            <link>{{site.url}}/issues/{{member.number}}</link>
+            <pubDate>{{member.created_at}}</pubDate>
+        </item>
+            {%- endfor -%}
+    </channel>
+</rss>
