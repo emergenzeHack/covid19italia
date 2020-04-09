@@ -1,7 +1,7 @@
 ---
 lang: gr
 layout: page
-title: "Οι περιπτώσεις έκτακτης ανάγκης από το Coronavirus ζητούν βοήθεια, αναφέρουν πρωτοβουλίες, ειδήσεις, δεδομένα"
+title: "Μοιράσου μια χρήσιμη πληροφορία"
 <!--subtitle: Chiedi aiuto o segnala iniziative su Covid19Italia.Help-->
 permalink: /anebase-pliroforia/
 ---
