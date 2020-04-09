@@ -156,7 +156,7 @@
                     "regione": {"boost": 5},
                     "provincia": {"boost": 5},
                 },
-                bool: "OR"
+                bool: "AND"
             }); // Get elasticlunr to perform a search
 
             displaySearchResults(results, window.store,usedLabels); // We'll write this in the next section 
