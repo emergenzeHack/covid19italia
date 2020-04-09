@@ -55,8 +55,8 @@ permalink: /contact/
               <span class="fa-stack fa-lg" aria-label="Ακολούθησε μας στο twitter @ActionAidHellas" role="img">
                 <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
                 <i class="fa fa-twitter fa-stack-1x fa-inverse" aria-hidden="true"></i>
-              </span>&nbsp;&nbsp;Σελίδα Twitter
-            </a><span>Ακολούθησε μας στο twitter @ActionAidHellas</span>
+              </span>Ακολούθησε μας
+            </a><span> στο twitter @ActionAidHellas</span>
           </li>
           {% endif %}
            <!--{% if site.author.instagram %}
@@ -140,12 +140,12 @@ permalink: /contact/
           </li>
           {% endif %} -->
                  <li>
-            <a itemprop="sameAs" href="covid19.greece@actionaid.org" title="Email">
+            <a itemprop="sameAs" href="mailto:covid19.greece@actionaid.org" title="Email">
               <span class="fa-stack fa-lg" aria-label="Logo raffigurante una busta, email.">
                 <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
                 <i class="fa fa-envelope fa-stack-1x fa-inverse" aria-hidden="true"></i>
-              </span>&nbsp;&nbsp;Email
-            </a>Στείλε μας e-mail στο covid19.greece@actionaid.org
+              </span>Στείλε μας e-mail
+            </a> στο covid19.greece@actionaid.org
           </li>
           {% if site.author.archiveorg %}
           <li>

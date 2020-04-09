@@ -1,7 +1,7 @@
 ---
 layout: issuelist
 title: "Όλες οι Αναρτήσεις"
-subtitle: Ανακαλύψτε όλες τις αναφορές που έγιναν στην πλατφόρμα Covid19Greece.Help
+subtitle: Δες εδώ όλες τις αναφορές που έγιναν στην πλατφόρμα Covid19Greece.Help
 permalink: /issues/
 categorieMapAll: true
 justLatestIssues: true
