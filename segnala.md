@@ -7,7 +7,7 @@ permalink: /anebase-pliroforia/
 ---
 
 <div class="offset-md-1 col-md-10">
-  <a class="btn btn-success btn-block btn-form" href="/anebase-pliroforia/ανεβασε-πρωτοβουλια">Ανέβασε μια πρωτοβουλία ή μια υπηρεσία
+  <a class="btn btn-success btn-block btn-form" href="/anebase-pliroforia/solidarity">Ανέβασε μια πρωτοβουλία ή μια υπηρεσία
     <br> <small>Πρωτοβουλία αλληλεγγύης, Παραδόσεις κατ’ οίκον, Ψυχολογική υποστήριξη, Άλλη υπηρεσία</small>
 </a>
   <a class="btn btn-success btn-block btn-form" href="/anebase-pliroforia/Δημιουργικη-απασχοληση">Ανέβασε δημιουργική απασχόληση για παιδιά</a>
