@@ -42,7 +42,7 @@ window.store = {};
 window.store["{{site.url}}/issues/{{member.number}}"]={
         "title": urldecode("{{ member.title | strip_html | url_encode }}"),
         "label": {{member.issue.labels | join: ','}},
-        {% if member.issue.data.descrizione != blank %}
+        {% if member.issue.data.Descrizione != blank %}
         "content": urldecode("{{ member.issue.data.Descrizione | url_encode }}"),
         {% else %}
         "content": "",
