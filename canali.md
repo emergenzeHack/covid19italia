@@ -168,5 +168,5 @@ permalink: /contact/
           </li>
           {% endif %}-->
      </ul>
-          <p>Tutto ciò che ci invii sarà gestito dal nostro team, che potrà provvedere alla pubblicazione delle informazioni sul sito appena possibile. Ricordati che usando i nostri canali accetti automaticamente di sottoscrivere l'<a href="{{ site.url }}/legal_segnalazioni/">informativa legale</a> per le informazioni di questo progetto.</p>
+          <p>Όλα τα στοιχεία που μας στέλνετε θα τα διαχειρίζεται η ομάδα μας, η οποία θα δημοσιεύει τις αναρτήσεις στην πλατφόρμα, το συντομότερο δυνατό. Υπενθυμίζουμε ότι με τη χρήση των καναλιών μας, αποδέχεστε αυτομάτως ότι αποδέχεστε τους όρους χρήσης που σχετίζονται με τις πληροφορίες του συγκεκριμένου έργου.</p>
 </div>
