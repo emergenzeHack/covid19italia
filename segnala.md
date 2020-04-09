@@ -25,4 +25,3 @@ permalink: /anebase-pliroforia/
  <!-- <a class="btn btn-outline-dark btn-block btn-form" href="/anebase-pliroforia/Υπηρεσίες-ανακοινώσεις-δημοσίου">Υπηρεσίες/ανακοινώσεις δημοσίου</a> -->
   <a class="btn btn-outline-dark btn-block btn-form" href="/anebase-pliroforia/good-news">Ανέβασε μια καλή είδηση</a>
 </div>
-
