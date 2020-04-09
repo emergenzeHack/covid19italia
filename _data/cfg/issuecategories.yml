@@ -6,48 +6,6 @@ solidarity services and initiatives:
   permalink: /solidarity/
   markericon: handshake-o
   markercolor: blue
-psychological support:
-  displayname: Ψυχολογική υποστήριξη
-  labelnames: 
-    - psychological support
-  permalink: /psychological-support/
-  markericon: hands-helping
-  markercolor: green
-Bulletin - other activities:
-  displayname: Άλλες Υπηρεσίες
-  labelnames: 
-    - bulletin
-  permalink: /bulletin-other-activities/
-  markericon: icons
-  markercolor: cyan
-games and activities for children:
-  displayname: Απασχόληση για παιδιά
-  labelnames: 
-    - games and activities for children
-  permalink: /games-and-activities-for-children/
-  markericon: handshake-o
-  markercolor: blue
-Public services and announcements:
-  displayname: Υπηρεσίες/ανακοινώσεις δημοσίου
-  labelnames: 
-    - institutional sources
-  permalink: /public-services/
-  markericon: newspaper
-  markercolor: red
-deliveries and services:
-  displayname: Παραδόσεις κατ' οίκον
-  labelnames: 
-    - deliveries and services
-  permalink: /deliveries-and-services/
-  markericon: truck
-  markercolor: orange
-fundraising:
-  displayname: Συγκέντρωση ειδών/πόρων
-  labelnames: 
-    - fundraising
-  permalink: /fundraising/
-  markericon: eur
-  markercolor: purple
 e-learning:
   displayname: Εκπαίδευση από απόσταση
   labelnames: 
@@ -55,6 +13,27 @@ e-learning:
   permalink: /e-learning/
   markericon: chalkboard-teacher
   markercolor: white
+deliveries and services:
+  displayname: Παραδόσεις κατ' οίκον
+  labelnames: 
+    - deliveries and services
+  permalink: /deliveries-and-services/
+  markericon: truck
+  markercolor: orange
+games and activities for children:
+  displayname: Απασχόληση για παιδιά
+  labelnames: 
+    - games and activities for children
+  permalink: /games-and-activities-for-children/
+  markericon: handshake-o
+  markercolor: blue
+psychological support:
+  displayname: Ψυχολογική υποστήριξη
+  labelnames: 
+    - psychological support
+  permalink: /psychological-support/
+  markericon: hands-helping
+  markercolor: green
 Entertainment:
   displayname: Ψυχαγωγία
   labelnames: 
@@ -62,6 +41,27 @@ Entertainment:
   permalink: /entertainment/
   markericon: industry
   markercolor: grey
+fundraising:
+  displayname: Συγκέντρωση ειδών/πόρων
+  labelnames: 
+    - fundraising
+  permalink: /fundraising/
+  markericon: eur
+  markercolor: purple
+Public services and announcements:
+  displayname: Υπηρεσίες/ανακοινώσεις δημοσίου
+  labelnames: 
+    - institutional sources
+  permalink: /public-services/
+  markericon: newspaper
+  markercolor: red
+Bulletin - other activities:
+  displayname: Άλλες Υπηρεσίες
+  labelnames: 
+    - bulletin
+  permalink: /bulletin-other-activities/
+  markericon: icons
+  markercolor: cyan
 goods news and services offering:
   displayname: Καλές ειδήσεις
   labelnames: 
