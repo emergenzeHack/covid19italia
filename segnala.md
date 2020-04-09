@@ -2,26 +2,27 @@
 lang: gr
 layout: page
 title: "Οι περιπτώσεις έκτακτης ανάγκης από το Coronavirus ζητούν βοήθεια, αναφέρουν πρωτοβουλίες, ειδήσεις, δεδομένα"
-subtitle: Chiedi aiuto o segnala iniziative su Covid19Italia.Help
+<!--subtitle: Chiedi aiuto o segnala iniziative su Covid19Italia.Help-->
 permalink: /anebase-pliroforia/
 ---
 
 <div class="offset-md-1 col-md-10">
-  <a class="btn btn-success btn-block btn-form" href="/anebase-pliroforia/Ζητήστε-Βοήθεια">Ζητήστε Βοήθεια</a>
-  <a class="btn btn-success btn-block btn-form" href="/anebase-pliroforia/Δωρεά-αγαθών-υπηρεσιών">Έκθεση - Δωρεά αγαθών ή υπηρεσιών</a>
+  <a class="btn btn-success btn-block btn-form" href="/anebase-pliroforia/ανεβασε-πρωτοβουλια">Ανέβασε μια πρωτοβουλία ή μια υπηρεσία
+    <br> <small>Πρωτοβουλία αλληλεγγύης, Παραδόσεις κατ’ οίκον, Ψυχολογική υποστήριξη, Άλλη υπηρεσία</small>
+</a>
+  <a class="btn btn-success btn-block btn-form" href="/anebase-pliroforia/Δημιουργικη-απασχοληση">Ανέβασε δημιουργική απασχόληση για παιδιά</a>
 
   <br>
   
-  <a class="btn btn-outline-dark btn-block btn-form " href="/anebase-pliroforia/consegna-domicilio">Segnala Consegna a domicilio</a>
-  <a class="btn btn-outline-dark btn-block btn-form" href="/anebase-pliroforia/iniziative-servizi">
-    Segnala Iniziative e Servizi<br>
-    <small>Supporto Lavoro/Imprese, Iniziative culturali, ricreative e solidali</small>
+  <a class="btn btn-outline-dark btn-block btn-form " href="/anebase-pliroforia/fundraising">Συγκέντρωση ειδών/πόρων</a>
+  <a class="btn btn-outline-dark btn-block btn-form" href="/anebase-pliroforia/υπηρεσίες-δημοσίου">Ανέβασε υπηρεσίες και ανακοινώσεις δημοσίου <br>
+    
   </a>
 
-  <a class="btn btn-outline-dark btn-block btn-form " href="/anebase-pliroforia/raccolta-fondi">Segnala Raccolta Fondi</a>
-  <a class="btn btn-outline-dark btn-block btn-form" href="/anebase-pliroforia/contatto-utile">Segnala Contatto utile</a>
-  <a class="btn btn-outline-dark btn-block btn-form" href="/anebase-pliroforia/Αναφορές-Φάρσας">Αναφορές Φάρσας</a>
-  <a class="btn btn-outline-dark btn-block btn-form" href="/anebase-pliroforia/documenti-dati">Segnala Documenti/Dati</a>
-  <a class="btn btn-outline-dark btn-block btn-form" href="/anebase-pliroforia/news">Αναφορά Ειδήσεων</a>
+  <a class="btn btn-outline-dark btn-block btn-form " href="/anebase-pliroforia/e-learning">Ανέβασε εκπαίδευση από απόσταση</a>
+  <!--<a class="btn btn-outline-dark btn-block btn-form" href="/anebase-pliroforia/contatto-utile">Segnala Contatto utile</a> -->
+  <a class="btn btn-outline-dark btn-block btn-form" href="/anebase-pliroforia/entertainment">Ανέβασε ψυχαγωγία</a>
+ <!-- <a class="btn btn-outline-dark btn-block btn-form" href="/anebase-pliroforia/Υπηρεσίες-ανακοινώσεις-δημοσίου">Υπηρεσίες/ανακοινώσεις δημοσίου</a> -->
+  <a class="btn btn-outline-dark btn-block btn-form" href="/anebase-pliroforia/good-news">Ανέβασε μια καλή είδηση</a>
 </div>
 
