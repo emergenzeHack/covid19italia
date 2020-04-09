@@ -29,14 +29,14 @@ layout: null
     <channel>
         <title>{%- if page.displayname != blank -%}{{ page.displayname }} | {{ site.title }}{%- elsif page.url == '/' -%}{{ page.title }}{%- else -%}{{ page.title }} | {{ site.title }}{%- endif -%}</title>
         <description></description>
-        <link>{{ page.url }}</link>
+        <link>{{site.url}}/{{ page.url }}</link>
         <category domain="{{ site.url }}">Covid19</category>
         <copyright>Copyright 2020 {{site.tite}}</copyright>
         <docs>{{site.url}}/rss</docs>
         <language>{{site.lang}}</language>
-        <lastBuildDate>{{ site.time | date_to_xmlschema }}</lastBuildDate>
-        <managingEditor>{{site.email}}</managingEditor>
-        <pubDate>{{ site.time | date_to_xmlschema }}</pubDate>
+        <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+        <managingEditor>{{site.author.email}}</managingEditor>
+        <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
         <webMaster>{{site.email}}</webMaster>
         <generator>Jekyll</generator>
 
@@ -68,7 +68,8 @@ layout: null
             <title>{{member.title | xml_escape}}</title>
             <description>{{member.issue.data.Descrizione | xml_escape}}</description>
             <link>{{site.url}}/issues/{{member.number}}</link>
-            <pubDate>{{member.created_at}}</pubDate>
+            <guid>{{site.url}}/issues/{{member.number}}</guid>
+            <pubDate>{{member.created_at | date_to_rfc822}}</pubDate>
         </item>
             {%- endfor -%}
     </channel>
