@@ -36,7 +36,6 @@ layout: null
         <language>{{site.lang}}</language>
         <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
         <managingEditor>{{site.author.email}}</managingEditor>
-        <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
         <webMaster>{{site.email}}</webMaster>
         <generator>Jekyll</generator>
 
@@ -69,7 +68,7 @@ layout: null
             <description>{{member.issue.data.Descrizione | xml_escape}}</description>
             <link>{{site.url}}/issues/{{member.number}}</link>
             <guid>{{site.url}}/issues/{{member.number}}</guid>
-            <pubDate>{{member.created_at | date_to_rfc822}}</pubDate>
+            <pubDate>{{member.issue.created_at | date_to_rfc822}}</pubDate>
         </item>
             {%- endfor -%}
     </channel>
