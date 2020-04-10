@@ -227,12 +227,10 @@ collections:
   segnalazioni:
     output: true
 
-gems:
+plugins:
   - jekyll-paginate
-  - jekyll-datapage-generator
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-  - jekyll-tidy
 
 page_gen-dirs: true # uncomment, if you prefer to generate named folders
 
@@ -242,11 +240,17 @@ page_gen:
       template: issuelist_category
       name_expr: "record['permalink']"
       dir: /
+      #- index_files: false
+      #  data: machgen.issuesjson
+      #  template: issue
+      #  name: number
+      #  dir: issues
     - index_files: false
-      data: machgen.issuesjson
-      template: issue
-      name: number
-      dir: issues
+      data: geo.regioni
+      template: issuelistXML
+      dir: rss/regione/
+      name: nome_regione
+      extension: xml
     - index_files: true
       data: geo.regioni
       template: issuelist_regione

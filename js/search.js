@@ -6,31 +6,27 @@
 
     function displayDoc(item) {
         var appendString = "";
-        appendString += '<a href="' + item.url + '" class="list-group-item">';
-        appendString += '<div class="panel panel-default">';
-        appendString += '<div class="panel-heading">';
+        appendString += '<a href="' + item.url + '" class="card mb-15">';
+        appendString += '<div class="card-body">';
         if (item.state != 'open') {
             appendString += '<strike>';
         }
-        appendString += '<h4>' + item.title + '</h4>';
+        appendString += '<h4 class="card-title">' + item.title + '</h4>';
         if (item.state != 'open') {
             appendString += '</strike>';
         }
-        appendString += '</div>';
-        appendString += '<div class="panel-body">';
 
         appendString += '<small>';
-        appendString += '<p class="list-group-item-text">' + item.content.substring(0, 250) + '...</p>';
-        appendString += '<p class="list-group-item-text">' + item.date + '</p>';
+        appendString += '<p>' + item.content.substring(0, 250) + '...</p>';
+        appendString += '<p>' + item.date + '</p>';
         appendString += '</small>';
 
         appendString += '</div>';
-        appendString += '<div class="panel-footer">';
+        appendString += '<div class="card-footer">';
         var itemLabels = item.label;
         var printLabels = arrayIntersect(itemLabels,usedLabels);
 
         appendString += printLabels.join('|');
-        appendString += '</div>';
         appendString += '</div>';
         appendString += '</a>';
 
@@ -55,7 +51,7 @@
                     return -1 * (parseInt(a.created_at) - parseInt(b.created_at));
             });
 
-            appendString += '<div class="panel-group">';
+            appendString += '<div class="col-12">';
             for (var i = 0; i < resultsArray.length; i++) {  // Iterate over the results
                 var item = resultsArray[i];
                 if (item.state == "open") {
@@ -64,7 +60,7 @@
             }
             appendString += '</div>';
 
-            appendString += '<div class="panel-group">';
+            appendString += '<div class="col-12">';
             for (var i = 0; i < resultsArray.length; i++) {  // Iterate over the results
                 var item = resultsArray[i];
                 if (item.state != "open") {
@@ -95,7 +91,7 @@
                     return -1 * (parseInt(a.created_at) - parseInt(b.created_at));
             });
 
-            appendString += '<div class="panel-group">';
+            appendString += '<div class="col-12">';
             $.each(resultsArray,function(index,item) {
                 if (!searchLabel || $.inArray(searchLabel,item.label.toLowerCase().split(","))>=0) {
                     if (item.state == "open") {
@@ -106,7 +102,7 @@
             );
             appendString += '</div>';
 
-            appendString += '<div class="panel-group">';
+            appendString += '<div class="col-12">';
             $.each(resultsArray,function(index,item) {
                 if (!searchLabel || $.inArray(searchLabel,item.label.toLowerCase().split(","))>=0) {
                     if (item.state != "open") {
@@ -149,14 +145,18 @@
                         'state': window.store[key].state,
                         'date': window.store[key].date,
                         'label': window.store[key].label,
+                        'provincia': window.store[key].provincia,
+                        'regione': window.store[key].regione,
                     });
                 }
             }
             var results = idx.search(searchTerm,{
                 "fields": {
                     "title": {"boost": 10},
+                    "regione": {"boost": 5},
+                    "provincia": {"boost": 5},
                 },
-                bool: "OR"
+                bool: "AND"
             }); // Get elasticlunr to perform a search
 
             displaySearchResults(results, window.store,usedLabels); // We'll write this in the next section 
@@ -189,6 +189,8 @@
         this.addField('label');
         this.addField('content');
         this.addField('state');
+        this.addField('provincia', { boost: 5 });
+        this.addField('regione', { boost: 5 });
         this.setRef('id');
     });
 
