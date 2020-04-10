@@ -240,11 +240,11 @@ page_gen:
       template: issuelist_category
       name_expr: "record['permalink']"
       dir: /
-      #- index_files: false
-      #  data: machgen.issuesjson
-      #  template: issue
-      #  name: number
-      #  dir: issues
+    - index_files: false
+      data: machgen.issuesjson
+      template: issue
+      name: number
+      dir: issues
     - index_files: false
       data: geo.regioni
       template: issuelistXML
