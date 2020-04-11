@@ -1,7 +1,7 @@
 ---
 lang: gr
 layout: page
-title: Γίνε κι εσύ μέλος της πλατφόρμας covid19greece.help
+title: Γίνε κι εσύ μέλος της πλατφόρμας Covid19greece.help
 <!--subtitle: Come funziona la risposta partecipata di Covid19Italia.Help all'emergenza coronavirus?-->
 permalink: /faq/
 ---
@@ -33,7 +33,7 @@ permalink: /faq/
 2.	Διαλέγεις την [κατηγορία](https://gr.covid19people.help/anebase-pliroforia/) όπου θεωρείς ότι ταιριάζει η πληροφορία που θες να μοιραστείς.
 3.	Συμπληρώνεις τη φόρμα με τις απαραίτητες πληροφορίες.
 4.	Μια ομάδα εθελοντών θα επιβεβαιώσει και στη συνέχεια θα δημοσιεύσει τις πληροφορίες που έστειλες.
-5.	Αν αντιμετωπίσεις κάποια δυσκολία ή έχεις οποιαδήποτε αμφιβολία, επικοινώνησε μαζί μας στο [covid19.hellas@actionaid.org](mailto:covid19.hellas@actionaid.org).
+5.	Αν αντιμετωπίσεις κάποια δυσκολία ή έχεις οποιαδήποτε αμφιβολία, επικοινώνησε μαζί μας στο [covid19.greece@actionaid.org](mailto:covid19.greece@actionaid.org).
 
 # Πώς μπορείς να αξιοποιήσεις τα δικά σου social media;
 
