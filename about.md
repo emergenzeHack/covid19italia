@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Che cos'è Covid19 Italia Help? La risposta all'emergenza coronavirus
-subtitle: Scopri come funziona la piattaforma, come collaborare, come fare segnalazioni
+subtitle: Scopri come funziona la piattaforma, come e da chi viene sviluppata
 permalink: /about/
 lang: it
 ---
   
 ## Il Progetto
 
-**covid19italia.help** è un progetto no profit, organizzato e diretto interamente da volontari e volontarie. È nato per condividere informazioni utili e verificate sull'evento di Coronavirus diffusosi in Italia nel 2020.
+**covid19italia.help** è un progetto no profit, organizzato e diretto interamente da volontarie e volontari. È nato per condividere informazioni utili e verificate sull'evento di Coronavirus diffusosi in Italia nel 2020.
 
 Lo scopo è quello di verificare, aggregare ed etichettare segnalazioni di varia natura, al fine di mettere in contatto richieste di aiuto e offerte di beni e servizi.
 
@@ -37,7 +37,7 @@ Laddove lo si ritenga utile, tutta l'infrastruttura è ri-usabile da organizzazi
 
 Il progetto è descritto tramite il nostro [wiki](https://github.com/emergenzeHack/covid19italia/wiki).
 
-L'idea ed anche buona parte del progetto è dello stesso team che ha sviluppato il progetto [TerremotoCentroItalia](https://www.terremotocentroitalia.info).
+L'idea e buona parte del progetto è del gruppo [emergenzeHack](https://emergenzehack.github.io), la stessa squadra che ha sviluppato il progetto [TerremotoCentroItalia](https://www.terremotocentroitalia.info).
 
 ## Chi siamo
 
@@ -76,6 +76,16 @@ Ecco la squadra di volontari che lavora a questo progetto:
 			<br>
 			<p class="contributorName">{{ contributore.name }}</p>
 		</div>
+	{% endfor %}
+</div>
+
+### Partners
+
+<div>
+	{% for partner in site.data.machgen.partners %}
+		<img height="80px" src="{{ partner.Logo }}"> <br>
+		<a href="{{ partner.Link }}"> {{ partner.Nome }} </a> {{ partner.Descrizione }} <br> <br>
+
 	{% endfor %}
 </div>
 
