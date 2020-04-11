@@ -56,7 +56,7 @@
 
     <!--- Share via Email -->
     {% if site.share-links-active.email %}
-        <a class="card-link fa-stack" href="mailto:covid19.greece@actionaid.org?to=&subject={{member.title|truncate:70|cgi_escape}}%20%7C%20{{site.title|cgi_escape}}&body={{member.title|cgi_escape}}%0D%0AClicca%20qui%3A%20{{ site.url }}/issues/{{ member.number }}"
+        <a class="card-link fa-stack" href="mailto:?to=covid19.greece@actionaid.org&subject={{member.title|truncate:70|cgi_escape}}%20%7C%20{{site.title|cgi_escape}}&body={{member.title|cgi_escape}}%0D%0AClicca%20qui%3A%20{{ site.url }}/issues/{{ member.number }}"
           title="Email">
           <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
           <i class="fa fa-envelope fa-stack-1x fa-inverse" aria-hidden="true"></i>
