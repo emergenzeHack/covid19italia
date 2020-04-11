@@ -1,11 +1,12 @@
 see_all: Δες όλα
-share: μοιραστείτε τα
-latitude: γεωγραφικό πλάτος
-longitude: γεωγραφικό μήκος
-map: χάρτης
-created_at: δημιουργήθηκε στις
-updated_at: ενημερώθηκε στις
+details: Λεπτομέρειες
+share: Μοιραστείτε τα στο
+latitude: Γεωγραφικό πλάτος
+longitude: Γεωγραφικό μήκος
+map: Χάρτης
+created_at: Δημιουργήθηκε στις
+updated_at: Ενημερώθηκε στις
 municipality: Δήμος
-province: γεωγραφικό διαμέρισμα
-region: περιοχή
+province: Γεωγραφικό διαμέρισμα
+region: Περιοχή
 
