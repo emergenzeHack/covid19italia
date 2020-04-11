@@ -82,7 +82,7 @@ Ecco la squadra di volontari che lavora a questo progetto:
 ### Partners
 
 <div>
-	{% for partner in site.data.machgen.partners %}
+	{% for partner in site.data.partners %}
 		<img height="80px" src="{{ partner.Logo }}"> <br>
 		<a href="{{ partner.Link }}"> {{ partner.Nome }} </a> {{ partner.Descrizione }} <br> <br>
 
