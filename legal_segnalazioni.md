@@ -1,12 +1,74 @@
 ---
-lang: it
+lang: gr
 layout: page
-title: Note Legali - Informativa per Segnalazioni
+title: Αναφορές
 permalink: /legal_segnalazioni/
 ---
 
-Informazioni da fornire – Regolamento (UE) 2016/679 del Parlamento Europeo e del Consiglio del 27 aprile 2016 relativo alla protezione delle persone fisiche con riguardo al trattamento dei dati personali, nonché alla libera circolazione di tali dati e che abroga la direttiva 95/46/CE (Regolamento generale sulla protezione dei dati (“GDPR”) –
-I dati personali (ivi compresi quelli di eventuali soggetti minorenni) saranno trattati, con modalità manuali ed elettroniche e senza particolari criteri di elaborazione, al fine di evadere la richiesta avanzata e/o la segnalazione riportata da ActionAid International Italia Onlus – Via Alserio 22, 20159 Milano (MI) - il titolare del trattamento. Tali dati saranno trattati e conservati nel rispetto della normativa nazionale ed europea. Il conferimento dei dati è facoltativo, ma le informazioni fondamentali per evadere la richiesta e i dettagli della segnalazione sono indispensabili per poter dar corso alle procedure idonee a rispondere alle necessità avanzate. In ogni caso, saranno raccolti esclusivamente i dati strettamente pertinenti e indispensabili per procedere all’erogazione dei servizi richiesti o per gestire la segnalazione. Si invita a non rilasciare dati di natura sensibile, per i quali è indispensabile manifestare il proprio consenso scritto affinché possano essere trattati. Allo stesso modo, si invita a non indicare elementi che facciano risalire all’identità di minorenni. I dati potranno essere trattati da soggetti terzi per fini strumentali alla gestione del progetto (es: enti pubblici e di soccorso, organi di polizia e pubblica sicurezza, magistratura), che agiranno quali autonomi titolari del trattamento, tenuti a rendere le proprie informazioni sul trattamento dei dati. Inoltre, si rende noto che solo le foto i video e le testimonianze inviate che non contengano soggetti riconoscibili - e che quindi necessitino di liberatoria ai fini del loro utilizzo - potranno essere diffusi, sui social network dedicati al progetto (elencati a questa pagina: https://www.covid19italia.help/canali/), nonché al pubblico su materiale informativo, publi-redazionale, e/o sito Internet o in occasione di eventi pubblici o su media quali carta stampata e TV e altri canali di diffusione al pubblico – per far conoscere e documentare iniziative, progetti e attività istituzionali, in ogni caso sempre previa mediazione del nostro staff. Nessun compenso è dovuto a seguito dell’uso e diffusione dei predetti contenuti audio-video. Immagini, suoni e testimonianze saranno conservati nei nostri archivi fintanto che l’attività di comunicazione e il contesto delle riprese saranno oggettivamente significative per rappresentare le attività condotte. Successivamente saranno cancellati, tramite loro distruzione e non saranno più ricostruibili, né riconducibili alle persone coinvolte. Detti materiali, potranno, invece, essere conservati ulteriormente in caso di richiesta espressa da parte di organi di controllo, magistratura, forze di polizia e per far valere o difendere diritti in sede giudiziaria, sia da parte della nostra associazione, sia da parte di uno o più soggetti coinvolti nelle riprese. Responsabile del trattamento è Marco De Ponte, domiciliato presso la sede del titolare. Il trattamento è autorizzato agli addetti dell’area dei servizi di assistenza, di volontariato e comunicazione, al sito Web, ai sistemi informativi e di sicurezza dei dati. Ai sensi degli artt. 15-22, GDPR, scrivendo al titolare al suddetto indirizzo postale o all’e-mail informazioni@actionaid.org, puoi esercitare i diritti di consultazione, modifica, cancellazione e oblio e limitazione del trattamento dei dati o opporti al loro trattamento. Un’eventuale revoca del consenso prestato, che puoi presentare in qualsiasi momento, non pregiudica la liceità del trattamento basata sul consenso precedentemente manifestato o su meccanismi alternativi al consenso consentiti dalla legge. Hai diritto di presentare reclamo all’autorità di controllo per far valere i tuoi diritti. Inoltre scrivendo all’indirizzo postale sopra indicato o inviando un’e-mail a informazioni@actionaid.org, puoi richiedere l’elenco completo e aggiornato dei responsabili del trattamento. Il Data Protection Officer è contattabile all’e-mail dpo.ita@actionaid.org per informazioni sul trattamento dei dati.
+Απαραίτητες πληροφορίες – Κανονισμός (ΕΕ) 2016/679 του Ευρωπαϊκού
+Κοινοβουλίου και του Συμβουλίου της 27 ης Απριλίου 2016 για την προστασία των
+φυσικών προσώπων έναντι της επεξεργασίας των δεδομένων προσωπικού
+χαρακτήρα και για την ελεύθερη κυκλοφορία των δεδομένων αυτών και την
+κατάργηση της οδηγίας 95/46/ΕΚ (Γενικός Κανονισμός για την Προστασία
+Δεδομένων) – Τα προσωπικά δεδομένα (συμπεριλαμβανομένων των προσωπικών
+δεδομένων των ανηλίκων) θα υποβάλλονται σε επεξεργασία με μη αυτόματο τρόπο
+και ηλεκτρονικά και χωρίς συγκεκριμένα κριτήρια επεξεργασίας, προκειμένου να
+διεκπεραιωθεί το προηγούμενο αίτημα ή/και η αναφορά που αναφέρθηκε από την
+ActionAid Ελλάς, Λεωφόρος Μεσογείων 204, 15561, Χολαργός, την υπεύθυνη
+επεξεργασίας.
+Τα δεδομένα αυτά θα υποβάλλονται σε επεξεργασία και θα αποθηκεύονται σύμφωνα
+με την εθνική και ευρωπαϊκή νομοθεσία. Η παροχή δεδομένων είναι προαιρετική,
+αλλά οι απαραίτητες πληροφορίες για την επεξεργασία της αίτησης και οι
+λεπτομέρειες της αναφοράς είναι απαραίτητες προκειμένου να μπορέσουν να
+διεξαχθούν οι κατάλληλες διαδικασίες για την κάλυψη των αναγκών.
+Σε κάθε περίπτωση, θα συλλέγονται αυστηρά μόνο τα δεδομένα που είναι
+απαραίτητα και συναφή με τις υπηρεσίες που παρέχονται και για όλες τις διαδικασίες.
+Σας συνιστούμε να μην προβαίνετε στην παράθεση ευαίσθητων προσωπικών
+δεδομένων για την επεξεργασία των οποίων είναι απαραίτητη η προηγούμενη
+γραπτή σας συγκατάθεση.
+Ομοίως, παρακαλείσθε να μην αναφέρετε στοιχεία σχετικά με την ταυτότητα
+ανηλίκων. Τα δεδομένα μπορούν να υποβάλλονται σε επεξεργασία από τρίτους για
+λόγους που συνδέονται άμεσα με τη διαχείριση του έργου (π.χ. δημόσιοι οργανισμοί
+και φορείς διάσωσης, αστυνομικοί και φορείς δημόσιας ασφάλειας, δικαστικές αρχές),
+οι οποίοι θα ενεργούν ως ανεξάρτητοι υπεύθυνοι επεξεργασίας των δεδομένων.
+Επιπλέον, μπορούν να αναπαραχθούν στα κοινωνικά δίκτυα μόνο οι φωτογραφίες,
+τα βίντεο και οι μαρτυρίες που δεν περιέχουν αναγνωρίσιμα πρόσωπα. Το ίδιο ισχύει
+και για το οπτικοακουστικό υλικό που προβάλλεται σε διαφημίσεις ή/και σε
+ιστότοπους, σε δημόσιες εκδηλώσεις, σε έντυπα μέσα, στην τηλεόραση και σε άλλα
+μέσα επικοινωνίας.
+Καμία αποζημίωση δεν οφείλεται ως αποτέλεσμα της χρήσης και διάδοσης του
+προαναφερθέντος οπτικοακουστικού υλικού. Εικόνες, ήχοι και μαρτυρίες θα
+φυλάσσονται στα αρχεία μας, εφόσον η επικοινωνιακή δραστηριότητα και το πλαίσιο
+λήψης είναι αντικειμενικά σημαντικές για την αναπαράσταση των δραστηριοτήτων
+που πραγματοποιούνται.
+Στη συνέχεια, θα καταστρέφονται και δε θα είναι πλέον δυνατή ούτε η αναπαράσταση
+ούτε η απόδοσή τους στα εμπλεκόμενα πρόσωπα. Εντούτοις, τα εν λόγω δεδομένα
+μπορούν να διατηρηθούν περαιτέρω σε περίπτωση ρητού αιτήματος των εποπτικών
+οργάνων, των δικαστικών αρχών, της αστυνομίας και να γίνουν αντικείμενο
+δικαστικής διεκδίκησης ή υπεράσπισης στο δικαστήριο, τόσο από την Actionaid
+Ελλάς όσο και από ένα ή περισσότερα πρόσωπα που εμπλέκονται στη λήψη.
 
-I dati rilasciati sono ospitati da GitHub i cui server possono essere situati in USA. GitHub è GDPR compliant e aderisce ai Privacy Shield Framework
+Υπεύθυνος επεξεργασίας είναι ο Δημήτριος Χατζόγλου που εδρεύει στα γραφεία της
+ActionAid Ελλάς, Μεσογείων 204, Χολαργός. Επιτρέπεται να προβαίνουν σε
+επεξεργασία των δεδομένων οι υπάλληλοι υπηρεσιών υποστήριξης, οι εθελοντές και
+όσοι ασχολούνται με την επικοινωνία, την ιστοσελίδα, τα πληροφοριακά συστήματα
+και την ασφάλεια των δεδομένων. Υπό το πρίσμα των άρθρων 15-22 του GDPR,
+μπορείτε να ασκήσετε τα δικαιώματα πρόσβασης, διόρθωσης, διαγραφής και
+περιορισμού της επεξεργασίας των δεδομένων ή εναντίωσης σε αυτήν [την
+επεξεργασία] απευθυνόμενοι στον υπεύθυνο προστασίας προσωπικών δεδομένων
+στο email [dimitris.chatzoglou@actionaid.org](mailto:dimitris.chatzoglou@actionaid.org)
+Οποιαδήποτε ανάκληση της δοθείσας συγκατάθεσης, που μπορεί να προκύψει ανά
+πάσα στιγμή, δεν επηρεάζει τη νομιμότητα της επεξεργασίας στη βάση της
+συγκατάθεσης που είχε προηγουμένως εκφραστεί ή σε εναλλακτικούς μηχανισμούς
+της συγκατάθεσης που επιτρέπονται εκ του νόμου. Έχετε το δικαίωμα να καταθέσετε
+καταγγελία στην αρμόδια αρχή για να διεκδικήσετε τα δικαιώματά σας. Επιπλέον,
+γράφοντας στην ταχυδρομική διεύθυνση που αναφέρθηκε παραπάνω ή στέλνοντας
+ένα ηλεκτρονικό μήνυμα στην ηλεκτρονική διεύθυνση [dimitris.chatzoglou@actionaid.org](mailto:dimitris.chatzoglou@actionaid.org),
+μπορείτε να ζητήσετε μια πλήρη και ενημερωμένη λίστα των υπό επεξεργασία δεδομένων.
+Ο Υπεύθυνος Επεξεργασίας Προσωπικών Δεδομένων λαμβάνει όλα τα μηνύματα
+της διεύθυνσης [covid19.greece@actionaid.org](mailto:covid19.greece@actionaid.org) για πληροφορίες σχετικές με την
+επεξεργασία των δεδομένων.
+Τα ελεύθερα δεδομένα φιλοξενούνται από το GitHub, του οποίου οι διακομιστές
+μπορούν να βρίσκονται στις ΗΠΑ. Το GitHub είναι συμβατό με τον GDPR και
+εφαρμόζει το [Privacy Shield Framework](https://www.privacyshield.gov/welcome).
 
