@@ -13,7 +13,7 @@ languages:
         - ABOUT: "about/"
         - PRESS: "press/"
         - DOMANDE FREQUENTI: "faq/"
-        - OPEN DATA: "opendata/"
+        - DATI: "opendata/"
       PARTECIPA:
         - COME PARTECIPARE: "contribuisci/"
         - DIVENTA CONTRIBUTOR: "credit_form"
