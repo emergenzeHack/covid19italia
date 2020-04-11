@@ -1,7 +1,7 @@
 ---
 lang: gr
 layout: page
-title: Γίνε κι εσύ μέλος της πλατφόρμας Covid 19greece help
+title: Γίνε κι εσύ μέλος της πλατφόρμας Covid19greece.help
 <!--subtitle: Come funziona la risposta partecipata di Covid19Italia.Help all'emergenza coronavirus?-->
 permalink: /faq/
 ---
@@ -29,16 +29,16 @@ permalink: /faq/
 
 Η χρήση της πλατφόρμας covid9greece.help είναι πολύ απλή:
 
-1.	Μπαίνεις στη σελίδα [Covid19greece.help](https://covid19greece.help). 
-2.	Διαλέγεις την κατηγορία όπου θεωρείς ότι ταιριάζει η πληροφορία που θες να μοιραστείς.
+1.	Μπαίνεις στη σελίδα [Covid19greece.help](https://gr.covid19people.help/). 
+2.	Διαλέγεις την [κατηγορία](https://gr.covid19people.help/anebase-pliroforia/) όπου θεωρείς ότι ταιριάζει η πληροφορία που θες να μοιραστείς.
 3.	Συμπληρώνεις τη φόρμα με τις απαραίτητες πληροφορίες.
 4.	Μια ομάδα εθελοντών θα επιβεβαιώσει και στη συνέχεια θα δημοσιεύσει τις πληροφορίες που έστειλες.
-5.	Αν αντιμετωπίσεις κάποια δυσκολία ή έχεις οποιαδήποτε αμφιβολία, επικοινώνησε μαζί μας στο [covid19.hellas@actionaid.org](covid19.hellas@actionaid.org).
+5.	Αν αντιμετωπίσεις κάποια δυσκολία ή έχεις οποιαδήποτε αμφιβολία, επικοινώνησε μαζί μας στο [covid19.greece@actionaid.org](mailto:covid19.greece@actionaid.org).
 
-# Πώς μπορείς να αξιοποιήσεις τα δικά σου social media?
+# Πώς μπορείς να αξιοποιήσεις τα δικά σου social media;
 
 -	Αν έχεις λογαριασμό στο twitter, [ακολούθησε μας](https://twitter.com/ActionAidHellas) και κάνε retweet τις πληροφορίες που μπορεί να ενδιαφέρουν τους followers σου.
 -	Αν έχεις προφίλ στο Facebook, μοιράσου τη σελίδα μας και κάλεσε τους «φίλους» σου να την επισκεφθούν.
--	Αν έχεις προφίλ στο Instagram, ανέβασε story με μία φωτογραφία της σελίδας μας και το #Covid19greece.help. 
+-	Αν έχεις προφίλ στο Instagram, ανέβασε story ή/και post με μία φωτογραφία της σελίδας μας και το #Covid19greece.help. 
 -	Αν είσαι μέλος άλλων ομάδων, κοινοποίησε εκεί τη σελίδα Covid19greece.help, εξηγώντας πώς λειτουργεί. Όσο περισσότεροι είμαστε, τόσο περισσότερο διαχέεται η πληροφορία. 
 
