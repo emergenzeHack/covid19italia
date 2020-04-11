@@ -85,11 +85,11 @@ no-share-img: true
     </div>
     <div class="row">
         <div class="col-md-2">{{site.data.i18n.translations["created_at"]}}:</div>
-        <div class="col-md-10"> {{page.issue.created_at | italianDate}} </div>
+        <div class="col-md-10"> {{page.issue.created_at | greekDate}} </div>
     </div>
     <div class="row">
         <div class="col-md-2">{{site.data.i18n.translations["updated_at"]}}:</div>
-        <div class="col-md-10"> {{page.issue.updated_at | italianDate}} </div>
+        <div class="col-md-10"> {{page.issue.updated_at | greekDate}} </div>
     </div>
     <br>
     {%- include social-share.html -%}
