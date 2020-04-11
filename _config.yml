@@ -40,7 +40,7 @@ avatar: /images/covid19italia.png
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: COVID19Italia
-  email: "mailto:covid19ita@gmail.com"
+  email: "mailto:covid19.greece@actionaid.org"
   #facebook: covid19italia.help  # eg. daattali
   #facebook_group: 2921275147894653
   #github: emergenzeHack/covid19italia    # eg. daattali
@@ -113,7 +113,7 @@ share-links-active:
 # --- Misc --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "covid19italia"
+#disqus: "covid19italia"
 
 # Fill in your Google Analytics ID to track your website using GA
 google_analytics: "UA-3927978-30"
