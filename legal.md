@@ -1,3 +1,8 @@
+---
+layout: page
+permalink: /legal/
+---
+
 # Note Legali e Privacy Policy
 
 ## Note Legali
