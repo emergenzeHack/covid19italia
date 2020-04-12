@@ -10,12 +10,12 @@ permalink: /anebase-pliroforia/
   <a class="btn btn-success btn-block btn-form" href="/anebase-pliroforia/solidarity">Ανέβασε μια πρωτοβουλία ή μια υπηρεσία
     <br> <small>Πρωτοβουλία αλληλεγγύης, Παραδόσεις κατ’ οίκον, Ψυχολογική υποστήριξη, Άλλη υπηρεσία</small>
 </a>
-  <a class="btn btn-success btn-block btn-form" href="/anebase-pliroforia/Δημιουργικη-απασχοληση">Ανέβασε δημιουργική απασχόληση για παιδιά</a>
+  <a class="btn btn-success btn-block btn-form" href="/anebase-pliroforia/games-and-activities-for-children">Ανέβασε δημιουργική απασχόληση για παιδιά</a>
 
   <br>
   
   <a class="btn btn-outline-dark btn-block btn-form " href="/anebase-pliroforia/fundraising">Συγκέντρωση ειδών/πόρων</a>
-  <a class="btn btn-outline-dark btn-block btn-form" href="/anebase-pliroforia/υπηρεσίες-δημοσίου">Ανέβασε υπηρεσίες και ανακοινώσεις δημοσίου <br>
+  <a class="btn btn-outline-dark btn-block btn-form" href="/anebase-pliroforia/public-services">Ανέβασε υπηρεσίες και ανακοινώσεις δημοσίου <br>
     
   </a>
 
