@@ -22,4 +22,4 @@ Se hai un servizio che può usare il formato Feed RSS puoi anche usare [questo f
 
 
 ## API
-Se invece vuoi accedere ai nostri dati in modo programmatico puoi fare uso delle nostre API documentate [qui](https://github.com/emergenzeHack/covid19italia_api)
+Se invece vuoi accedere ai nostri dati in modo programmatico puoi fare uso delle nostre API documentate [qui](https://github.com/emergenzeHack/covid19italia_api/wiki)
