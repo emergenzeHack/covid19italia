@@ -41,7 +41,8 @@ editorsTeam = ["cristigalas",
                "FrancescaZambi89"]
 
 mediaTeam = ["BarbaraDAmico",
-            "gloriaschiavi"]
+            "gloriaschiavi",
+            "marcosicbaldi"]
 
 coreTeam = []
 excludeList = ["ehack-italy"]
