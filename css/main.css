@@ -25,6 +25,12 @@
 	letter-spacing: -0.5px;
 }
 
+@media screen and (max-width:22.75em) {
+	.navbar-brand {
+		font-size: large;
+	}
+}
+
 .categorie-logo {
 	letter-spacing: -1px;
 }
