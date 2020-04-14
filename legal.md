@@ -4,8 +4,6 @@ title: Note Legali e Privacy Policy
 permalink: /legal/
 ---
 
-# Note Legali e Privacy Policy
-
 ## Note Legali
 Covid19Italia è un progetto promosso da ActionAid International Italia Onlus (di seguito “ACTIONAID”) realizzato da un team di volontari e supportato da staff e volontari di ActionAid. Covid19Italia non costituisce testata giornalistica e non è un prodotto editoriale, non ha carattere periodico ed è aggiornato in base alle scelte totalmente discrezionali dello staff, al fine di supportare la gestione dell’emergenza causata dalla pandemia Covid-19 in Italia nel 2020.
 Premessa
