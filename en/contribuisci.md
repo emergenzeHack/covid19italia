@@ -10,7 +10,7 @@ The project is open in terms of code, data and in terms of approaches to informa
 
 We need the help of active citizens of the world in other to be help people in different countries.
 
-Our project is [Github](www.github.com) based. If you don't know Github you can look at [this video](https://www.youtube.com/watch?v=noZnOSpcjYY&t) as introduction.
+Our project is [Github](https://github.com/emergenzeHack/covid19italia) based. If you don't know Github you can look at [this video](https://www.youtube.com/watch?v=noZnOSpcjYY&t) as introduction.
 
 * To discuss with us in the project chat you can join our [Slack](https://join.slack.com/t/covid19peoplehelp/shared_invite/zt-dbg7ctmp-ta7ZYJN5Lvvse1w0eCymMQ)
 
