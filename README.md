@@ -22,6 +22,7 @@ Condividiamo informazioni e segnalazioni sul COVID19
 - [Gestione dei form e generazione delle segnalazioni](https://github.com/emergenzeHack/covid19italia_form)
 - [Dati](https://github.com/emergenzeHack/covid19italia_data)
 - [App](https://github.com/emergenzeHack/covid19italia_app)
+- [API](https://github.com/emergenzeHack/covid19italia_api)
 
 ### E-mail
 
