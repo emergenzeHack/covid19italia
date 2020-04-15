@@ -71,7 +71,7 @@
 
             searchResults.html(appendString);
         } else {
-            searchResults.html('<li>Nessuna segnalazione trovata</li>');
+            searchResults.html('<li>Δεν βρέθηκε αναφορά</li>');
         }
     }
 
@@ -115,7 +115,7 @@
 
             searchResults.html(appendString);
         } else {
-            searchResults.html('<li>Nessuna segnalazione trovata</li>');
+            searchResults.html('<li>Δεν βρέθηκε αναφορά</li>');
         }
     }
 
@@ -145,16 +145,12 @@
                         'state': window.store[key].state,
                         'date': window.store[key].date,
                         'label': window.store[key].label,
-                        'provincia': window.store[key].provincia,
-                        'regione': window.store[key].regione,
                     });
                 }
             }
             var results = idx.search(searchTerm,{
                 "fields": {
                     "title": {"boost": 10},
-                    "regione": {"boost": 5},
-                    "provincia": {"boost": 5},
                 },
                 bool: "AND"
             }); // Get elasticlunr to perform a search
@@ -189,8 +185,6 @@
         this.addField('label');
         this.addField('content');
         this.addField('state');
-        this.addField('provincia', { boost: 5 });
-        this.addField('regione', { boost: 5 });
         this.setRef('id');
     });
 
