@@ -6,9 +6,10 @@ languages:
         - SEGNALAZIONI : "issues/"
         - SEGNALAZIONI PER REGIONE: "issues/regione/"
       SEGUI:
-        - NOTIZIE: "notizie-utili/"
+        - NOTIZIE UTILI: "notizie-utili/"
         - BLOG : "post/"
         - CONTATTI: "canali/"
+        - BUONE NOTIZIE: "storie/"
       COS'È?:
         - ABOUT: "about/"
         - PRESS: "press/"
