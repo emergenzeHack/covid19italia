@@ -1,7 +1,7 @@
 ---
 lang: it
 layout: page
-title: Storie
+title: Buone Notizie
 permalink: /storie/
 ---
 
