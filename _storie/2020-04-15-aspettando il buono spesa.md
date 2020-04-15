@@ -4,7 +4,7 @@ title: Aspettando il buono spesa, una storia di emergenza e relazioni di comunit
 categories: storie
 lang: it
 ---
-Da circa una settimana, la gran parte dei comuni d'Italia hanno definito i criteri per erogare i cosiddetti 'buoni spesa', si tratta di un contributo economico che, per sua stessa natura (acquisto di bene di prima necessità), ha carattere di urgenza. Urgenza che difficilmente, in un momento di reale difficoltà organizzativa per tutti gli enti locali, può poi trovare immediato riscontro. 
+Da circa una settimana, la gran parte dei comuni d'Italia hanno definito i criteri per erogare i cosiddetti 'buoni spesa', si tratta di un contributo economico che, per sua stessa natura (acquisto di beni di prima necessità), ha carattere di urgenza. Urgenza che difficilmente, in un momento di reale difficoltà organizzativa per tutti gli enti locali, può poi trovare immediato riscontro. 
 
 Ci scrive su facebook una signora residente a Roma, chiedendoci aiuto per lei e la sua famiglia: ha chiesto il buono spesa, ne ha diritto, ma i soldi per la spesa tardano ad arrivare. 
 
