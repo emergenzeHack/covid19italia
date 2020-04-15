@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Aspettando il buono spesa: una storia di emergenza e relazioni di comunità a Roma
+title: Aspettando il buono spesa, una storia di emergenza e relazioni di comunità a Roma
 categories: storie
 lang: it
 ---
