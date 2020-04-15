@@ -5,6 +5,18 @@
   padding: 0;
 }
 
-.iframe-embed--v200 {
-  height: 200rem;
+.iframe-embed--v95 {
+  height: 95rem;
+}
+
+.iframe-embed--v100 {
+  height: 100rem;
+}
+
+.iframe-embed--v105 {
+  height: 105rem;
+}
+
+.iframe-embed--v115 {
+  height: 115rem;
 }
