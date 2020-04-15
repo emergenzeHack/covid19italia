@@ -71,8 +71,8 @@ permalink: /canali/
           {% endif %}
            {% if site.author.linkedin %}
           <li>
-            <a href="https://www.linkdin.com/company/{{ site.author.linkedin }}" title="Canale Linkedin">
-              <span class="fa-stack fa-lg" aria-label="Logo riferito a Messanger, raffigura una nuvola come quella dei fumetti." role="img">
+            <a href="https://www.linkedin.com/company/{{ site.author.linkedin }}" title="Canale Linkedin">
+              <span class="fa-stack fa-lg" aria-label="Logo rifešito a Messanger, raffigura una nuvola come quella dei fumetti." role="img">
                 <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
                 <i class="fa fa-bullhorn fa-stack-1x fa-inverse" aria-hidden="true"></i>
               </span>&nbsp;&nbsp;Canale Linkedin
