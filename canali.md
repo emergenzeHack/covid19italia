@@ -69,14 +69,14 @@ permalink: /canali/
             </a><span>per vedere le foto su Instagram</span>
           </li>
           {% endif %}
-           {% if site.author.messenger %}
+           {% if site.author.linkedin %}
           <li>
-            <a href="https://m.me/{{ site.author.messenger }}" title="Messenger una chat">
+            <a href="https://www.linkdin.com/company/{{ site.author.linkedin }}" title="Canale Linkedin">
               <span class="fa-stack fa-lg" aria-label="Logo riferito a Messanger, raffigura una nuvola come quella dei fumetti." role="img">
                 <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
                 <i class="fa fa-bullhorn fa-stack-1x fa-inverse" aria-hidden="true"></i>
-              </span>&nbsp;&nbsp;Canale Facebook Messenger
-            </a><span>per restare aggiornato direttamente da Messenger.</span>
+              </span>&nbsp;&nbsp;Canale Linkedin
+            </a><span>per restare aggiornato direttamente da Linkedin.</span>
           </li>
           {% endif %}
           {% if site.author.telegram %}
