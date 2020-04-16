@@ -136,24 +136,40 @@
         NProgress.start();
 
         if (searchTerm) {
-            for (var key in window.store) { // Add the data to lunr
-                if (!searchLabel || $.inArray(searchLabel,window.store[key].label.toLowerCase().split(","))>=0) {
-                    idx.addDoc({
-                        'id': key,
-                        'title': window.store[key].title,
-                        'content': window.store[key].content,
-                        'state': window.store[key].state,
-                        'date': window.store[key].date,
-                        'label': window.store[key].label,
-                    });
-                }
-            }
-            var results = idx.search(searchTerm,{
-                "fields": {
-                    "title": {"boost": 10},
-                },
-                bool: "AND"
-            }); // Get elasticlunr to perform a search
+            var idx = lunr(function () {
+                this.ref('url')
+                this.field('title', { boost: 10 })
+                this.field('content')
+                this.field('state')
+                this.field('date')
+                this.field('label')
+                this.pipeline.remove(lunr.trimmer)
+                this.pipeline.add(greekStemmer)
+                this.pipeline.remove(lunr.stemmer)
+
+                Object.keys(window.store).forEach(function (key) {
+                    var doc = window.store[key];
+                    doc['url']=key;
+                    this.add(doc)
+                }, this)
+            })
+            
+
+        /* FROM MINIMALMISTAKES */
+            var query = searchTerm.toLowerCase();
+            var results =
+                idx.query(function (q) {
+                    query.split(lunr.tokenizer.separator).forEach(function (term) {
+                        q.term(term, { boost: 100 })
+                        if(query.lastIndexOf(" ") != query.length-1){
+                            q.term(term, { usePipeline: false, wildcard: lunr.Query.wildcard.TRAILING, boost: 10 })
+                        }
+                        if (term != ""){
+                            q.term(term, { usePipeline: false, editDistance: 1, boost: 1 })
+                        }
+                    })
+                });
+            
 
             displaySearchResults(results, window.store,usedLabels); // We'll write this in the next section 
         } else {
@@ -179,14 +195,6 @@
 
     // Initalize lunr with the fields it will be searching on. I've given title
     // a boost of 10 to indicate matches on this field are more important.
-    var idx = elasticlunr(function () {
-        this.use(elasticlunr.it);
-        this.addField('title', { boost: 10 });
-        this.addField('label');
-        this.addField('content');
-        this.addField('state');
-        this.setRef('id');
-    });
 
     setTimeout( function() { 
             if (window.store) {
