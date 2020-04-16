@@ -116,7 +116,7 @@ share-links-active:
 #disqus: "covid19italia"
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-3927978-30"
+google_analytics: "UA-85682216-4"
 
 jekyll-crosseverything_to_medium:
   enabled: false
