@@ -7,7 +7,7 @@
     {%- endif -%}
 
 
-    <title>{%- if page.url == '/' -%}{{ page.title }}{%- else -%}{{ page.title }} | {{ site.title }}{%- endif -%}</title>
+    <title>{%- if page.displayname != blank -%}{{ page.displayname }} | {{ site.title }}{%- elsif page.url == '/' -%}{{ page.title }}{%- else -%}{{ page.title }} | {{ site.title }}{%- endif -%}</title>
 
     <meta name="author" content="{{ site.author.name }}"/>
 
@@ -71,13 +71,8 @@
     {%- endif -%}
     {%- if page.no-share-img -%}
         {%- capture image_url -%}/images/issues/{{page.number}}.png{%- endcapture -%}
-        {%- for static_file in site.static_files -%}
-        {%- if static_file.path == image_url%}
-        {%- assign issueimage = true -%}
-        {%- endif -%}
-        {%- endfor -%}
-
-        {%- if issueimage -%}
+        {%- assign static_image_file = site.static_files | where_exp: "member", "member.path == image_url" -%}
+        {%- if static_image_file.size > 0 -%}
         <meta property="og:image" content="{{ site.url }}{{ image_url }}"/>
         <meta property="og:image:width" content="1200"/>
         <meta property="og:image:height" content="630"/>

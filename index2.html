@@ -239,5 +239,75 @@ map.addLayer(osm).setView([{{site.issuemap.center}}], {{site.issuemap.zoom}});
 map.fitBounds(markers.getBounds().pad(0.3));
 {% endif %}
 
+function getFeaturesInView() {
+    //console.log("getFeaturesInView");
+    var featuresInView = [];
+    var featuresNotInView = [];
+    for (var i=0; i<markerList.length; i++) {
+        if(map.getBounds().contains(L.latLng(markerList[i][0],markerList[i][1]))) {
+            featuresInView.push(markerList[i]);
+        } else {
+            featuresNotInView.push(markerList[i]);
+        }
+    }
+    return [featuresInView,featuresNotInView];
+}
+
+function setVisible(element) {
+    $("#issue"+element[3]).show();
+    //console.log("Show #issue"+element[3]);
+}
+function setInVisible(element) {
+    $("#issue"+element[3]).hide();
+    //console.log("Hide #issue"+element[3]);
+}
+
+function onMoveEnd(evt) {
+    [inView,notInView]=getFeaturesInView();
+    console.log(notInView);
+    console.log(inView);
+    notInView.forEach(setInVisible);
+    inView.forEach(setVisible);
+}
+
+map.on('moveend', onMoveEnd);
+
+//var geocoder = L.Control.geocoder({collapsed:false,placeholder:"Cerca...",
+//        defaultMarkGeocode: false, geocodingQueryParams: { countrycodes: "it" },
+//        })
+//.on('markgeocode', function(e) {
+//        var latlon=e.geocode.center;
+//        $("#lat").html(latlon.lat);
+//        $("#lng").html(latlon.lng);
+//        var marker = new L.Marker(markerLocation);
+//        map.addLayer(marker);
+//        })
+//.addTo(map);
+
+/**
+ * Get the URL parameters
+ * source: https://css-tricks.com/snippets/javascript/get-url-variables/
+ * @param  {String} url The URL
+ * @return {Object}     The URL parameters
+ */
+var getParams = function (url) {
+	var params = {};
+	var parser = document.createElement('a');
+	parser.href = url;
+	var query = parser.search.substring(1);
+	var vars = query.split('&');
+	for (var i = 0; i < vars.length; i++) {
+		var pair = vars[i].split('=');
+		params[pair[0]] = decodeURIComponent(pair[1]);
+	}
+	return params;
+};
+
+function processParams (){
+        params = getParams(window.location.href);
+        //console.log(params);
+}
+
+window.onload = processParams;
 
 </script>

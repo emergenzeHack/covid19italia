@@ -30,7 +30,7 @@ lang: it
 {% for categorytuple in issuecategories %}
 {% assign category = categorytuple[1] %}
   <div class="col-xs-12 col-sm-6 mb-15">
-	  <a href="{{category["permalink"]}}" class="btn btn-primary btn-block">{{category["displayname"]}}</a>
+	  <a href="#{{category["permalink"]}}" class="btn btn-primary btn-block">{{category["displayname"]}}</a>
 	</div>
 {% endfor %}
 </div>

@@ -42,14 +42,20 @@ window.store = {};
 window.store["{{site.url}}/issues/{{member.number}}"]={
         "title": urldecode("{{ member.title | strip_html | url_encode }}"),
         "label": {{member.issue.labels | join: ','}},
-        {% if member.issue.data.descrizione != blank %}
-        "content": urldecode("{{ member.issue.data.descrizione | url_encode }}"),
+        {% if member.issue.data.Descrizione != blank %}
+        "content": urldecode("{{ member.issue.data.Descrizione | url_encode }}"),
         {% else %}
         "content": "",
         {% endif %}
         {% if member.issue.created_at != blank %}
         "date": "{{member.issue.created_at | date: '%-d/%m/%Y' }}",
         "created_at": "{{member.issue.created_at | date: '%s' }}",
+        {% endif %}
+        {% if member.issue.provincia != blank %}
+        "provincia": "{{member.issue.provincia | url_encode}}",
+        {% endif %}
+        {% if member.issue.regione != blank %}
+        "regione": "{{member.issue.regione | url_encode}}",
         {% endif %}
         "url": "{{site.url}}/issues/{{member.number}}",
         "state": "{{member.state}}"

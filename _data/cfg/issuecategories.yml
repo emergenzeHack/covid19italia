@@ -13,10 +13,9 @@ games and activities for children:
   markericon: handshake-o
   markercolor: blue
 solidarity services and initiatives:
-  displayname: Servizi e iniziative solidali
+  displayname: Servizi e iniziative solidali di enti pubblici
   labelnames:
     - Servizi e iniziative solidali pubbliche
-    - Servizi e iniziative solidali private
   permalink: /servizi-e-iniziative-solidali/
   markericon: handshake-o
   markercolor: blue
@@ -51,7 +50,7 @@ work and business support:
 goods donations and services offering:
   displayname: Donazioni beni e Offerte servizi
   labelnames: 
-    - Donazioni beni/strumenti
+    - Donazioni beni e offerte servizi
   permalink: /donazioni-beni-e-offerte-servizi/
   markericon: donate
   markercolor: yellow
@@ -69,3 +68,18 @@ useful news:
   permalink: /notizie-utili/
   markericon: newspaper
   markercolor: red
+help requests:
+  displayname: Richieste di aiuto
+  labelnames: 
+    - Richiesta aiuto
+  permalink: /richiesta/
+  markericon: question
+  markercolor: pink
+migrants and refugees:
+  displayname: Migranti e Rifugiati
+  labelnames: 
+    - Stranieri
+  permalink: /migranti-rifugiati/
+  markericon: handshake
+  markercolor: yellow
+  includeheader: arci_migranti_header.html

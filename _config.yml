@@ -44,7 +44,7 @@ author:
   facebook_group: 2921275147894653
   github: emergenzeHack/covid19italia    # eg. daattali
   twitter: ItaliaCovid19   # eg. daattali
-  #linkedin:   # eg. daattali
+  linkedin: covid19italia-help # eg. daattali
   #xing:       # eg. daattali
   #stackoverflow:   # eg. "3943160/daattali"
   instagram: covid19italia.help # eg. daattali
@@ -63,12 +63,12 @@ author:
 # Select which links to show in the footer
 footer-links-active:
   androidapp: false
-  rss: false
+  rss: true
   facebook: true
   email: false
   twitter: true
   github: true
-  linkedin: false
+  linkedin: true
   xing: false
   stackoverflow: false
   instagram: true
@@ -227,12 +227,10 @@ collections:
   segnalazioni:
     output: true
 
-gems:
+plugins:
   - jekyll-paginate
-  - jekyll-datapage-generator
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-  - jekyll-tidy
 
 page_gen-dirs: true # uncomment, if you prefer to generate named folders
 
@@ -248,10 +246,11 @@ page_gen:
       name: number
       dir: issues
     - index_files: false
-      data: machgen.issuesjson
-      template: issue
-      name: number
-      dir: issues
+      data: geo.regioni
+      template: issuelistXML
+      dir: rss/regione/
+      name: nome_regione
+      extension: xml
     - index_files: true
       data: geo.regioni
       template: issuelist_regione

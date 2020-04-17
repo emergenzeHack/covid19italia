@@ -54,30 +54,30 @@ lang: it
     </dl>
     {%- if page.issue.lat != blank -%}
     <div class="row">
-        <div class="col-md-2">latitudine:</div>
+        <div class="col-md-2">{{site.data.i18n.translations["latitude"]}}:</div>
         <div class="col-md-10"> {{page.issue.lat}} </div>
     </div>
     <div class="row">
-        <div class="col-md-2">longitudine:</div>
+        <div class="col-md-2">{{site.data.i18n.translations["longitude"]}}:</div>
         <div class="col-md-10"> {{page.issue.lon}} </div>
     </div>
     <div class="row">
-        <div class="col-md-2">Mappa:</div>
+        <div class="col-md-2">{{site.data.i18n.translations["map"]}}:</div>
         <div class="col-md-4">
             <div id="map" style="height: 150px;"></div>
         </div>
     </div>
     {%- endif -%}
     <div class="row">
-        <div class="col-md-2">Comune:</div>
+        <div class="col-md-2">{{site.data.i18n.translations["municipality"]}}:</div>
         <div class="col-md-10"> {{page.issue.comune}} </div>
     </div>
     <div class="row">
-        <div class="col-md-2">Provincia:</div>
+        <div class="col-md-2">{{site.data.i18n.translations["province"]}}:</div>
         <div class="col-md-10"> {{page.issue.provincia}} </div>
     </div>
     <div class="row">
-        <div class="col-md-2">Regione:</div>
+        <div class="col-md-2">{{site.data.i18n.translations["region"]}}:</div>
         <div class="col-md-10"> {{page.issue.regione}} </div>
     </div>
     <div class="row">
@@ -85,11 +85,11 @@ lang: it
         <div class="col-md-10"> <a href="{{page.issue.url}}">{{page.issue.url}}</a></div>
     </div>
     <div class="row">
-        <div class="col-md-2">Creato:</div>
+        <div class="col-md-2">{{site.data.i18n.translations["created_at"]}}:</div>
         <div class="col-md-10"> {{page.issue.created_at | italianDate}} </div>
     </div>
     <div class="row">
-        <div class="col-md-2">Aggiornato:</div>
+        <div class="col-md-2">{{site.data.i18n.translations["updated_at"]}}:</div>
         <div class="col-md-10"> {{page.issue.updated_at | italianDate}} </div>
     </div>
     <br>

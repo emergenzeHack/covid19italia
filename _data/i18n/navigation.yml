@@ -6,14 +6,15 @@ languages:
         - SEGNALAZIONI : "issues/"
         - SEGNALAZIONI PER REGIONE: "issues/regione/"
       SEGUI:
-        - NOTIZIE: "notizie-utili/"
+        - NOTIZIE UTILI: "notizie-utili/"
         - BLOG : "post/"
         - CONTATTI: "canali/"
+        - BUONE NOTIZIE: "storie/"
       COS'È?:
         - ABOUT: "about/"
         - PRESS: "press/"
         - DOMANDE FREQUENTI: "faq/"
-        - OPEN DATA: "opendata/"
+        - USA I NOSTRI DATI: "opendata/"
       PARTECIPA:
         - COME PARTECIPARE: "contribuisci/"
         - DIVENTA CONTRIBUTOR: "credit_form"
