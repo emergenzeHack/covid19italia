@@ -89,6 +89,14 @@ Ecco la squadra di volontari che lavora a questo progetto:
 	{% endfor %}
 </div>
 
+### Network
+
+<div>
+	{% for network in site.data.network %}
+		<a href="{{ network.Link }}"> {{ network.Nome }} </a> {{ network.Descrizione }} <br> <br>
+	{% endfor %}
+</div>
+
 ### Contatti
 
 - [Email](mailto:covid19ita@gmail.com)
