@@ -1,7 +1,7 @@
 ---
 lang: it
 layout: issuelist_embed
-title: Emergenza coronavirus - Migranti/Rifugiati
+title: Emergenza coronavirus - Servizi e iniziative solidali per migranti e rifugiati
 permalink: /migranti-rifugiati-base/
 issuecategory: migrants and refugees
 ---
