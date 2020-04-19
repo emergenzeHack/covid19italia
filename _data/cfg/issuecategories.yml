@@ -10,8 +10,8 @@ games and activities for children:
   labelnames: 
     - Giochi/intrattenimento bambini
   permalink: /giochi-intrattenimento-bambini/
-  markericon: handshake-o
-  markercolor: blue
+  markericon: puzzle-piece
+  markercolor: darkslateblue
 solidarity services and initiatives:
   displayname: Servizi e iniziative solidali di enti pubblici
   labelnames:
@@ -25,7 +25,7 @@ cultural activities and leisure:
     - Attivita culturali e ricreative
   permalink: /iniziative-culturali-e-ricreative/
   markericon: icons
-  markercolor: cyan
+  markercolor: saddlebrown
 deliveries and services:
   displayname: Consegne e commissioni
   labelnames: 
@@ -38,7 +38,7 @@ psychological support:
   labelnames: 
     - Supporto psicologico
   permalink: /supporto-psicologico/
-  markericon: hands-helping
+  markericon: people-arrows
   markercolor: green
 work and business support:
   displayname: Sostegno lavoro e imprese
@@ -46,40 +46,47 @@ work and business support:
     - Sostegno lavoro e imprese
   permalink: /sostegno-lavoro-e-imprese/
   markericon: industry
-  markercolor: grey
+  markercolor: brown
 goods donations and services offering:
   displayname: Donazioni beni e Offerte servizi
   labelnames: 
     - Donazioni beni e offerte servizi
   permalink: /donazioni-beni-e-offerte-servizi/
-  markericon: donate
-  markercolor: yellow
+  markericon: hand-holding-heart
+  markercolor: purple
 e-learning:
   displayname: Didattica a distanza e-learning
   labelnames: 
     - Didattica a distanza e-learning
   permalink: /didattica-a-distanza-e-learning/
   markericon: chalkboard-teacher
-  markercolor: white
+  markercolor: black
 useful news:
   displayname: Notizie Utili
   labelnames: 
     - Notizie Utili
   permalink: /notizie-utili/
   markericon: newspaper
-  markercolor: red
+  markercolor: grey
 help requests:
   displayname: Richieste di aiuto
   labelnames: 
     - Richiesta aiuto
   permalink: /richiesta/
   markericon: question
-  markercolor: pink
+  markercolor: magenta
+fake news:
+  displayname: Fake News
+  labelnames: 
+    - Fake News
+  permalink: /fake-news/
+  markericon: exclamation-circle
+  markercolor: red
 migrants and refugees:
   displayname: Servizi e iniziative solidali per migranti e rifugiati
   labelnames: 
     - Stranieri
   permalink: /migranti-rifugiati/
-  markericon: handshake
-  markercolor: yellow
+  markericon: hands
+  markercolor: indigo
   includeheader: arci_migranti_header.html

@@ -22,7 +22,7 @@ justLatestIssues: true
 {% assign category = categorytuple[1] %}
   <div class="col-xs-12 col-sm-6 mb-15">
 	  <a href="{{category["permalink"]}}" class="btn btn-primary btn-block text-left">
-              <span class="fa-stack fa-lg text-left" aria-label="logo del marker della segnalazione" role="img">
+              <span class="fa-stack text-left" aria-label="logo del marker della segnalazione" role="img">
                 <i class="fa fa-circle fa-stack-2x" aria-hidden="true" style="color:{{category['markercolor']}};"></i>
                 <i class="fa fa-{{category['markericon']}} fa-stack-1x fa-inverse" aria-hidden="true"></i>
               </span>
