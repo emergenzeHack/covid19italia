@@ -10,10 +10,39 @@ import yaml
 import configparser
 import os
 import io
+import logging
 
 import pandas as pd
 import geopandas as gpd
 from shapely.geometry import Point
+
+# Configure logger to print log message to stdout
+logformat = '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+logging.basicConfig(stream=sys.stdout, level=logging.INFO, format=logformat)
+logger = logging.getLogger()
+
+csv_column_names = ["url","id","updated_at","created_at","title","lat","lon","regione","provincia","labels","milestone","image","data","body","state"]
+
+def get_latest_timestamp(csvfile):
+    df = pd.read_csv(csvfile, index_col='id', names=csv_column_names, header=None, sep=',')
+    # sort rows by updated_at timestamp and parse it, in order to return a datetime instance
+    data = df.sort_values('updated_at')
+    last_updated_at = datetime.datetime.strptime(max(data['updated_at'][1:-1]), '%Y-%m-%d %H:%M:%S')
+
+    return last_updated_at
+
+def write_csv_file():
+    pass
+
+def write_json_file():
+    pass
+
+
+def write_geojson_file():
+    pass
+
+def get_issues_to_update():
+    pass
 
 LIMITIPATH=sys.argv[4]
 
@@ -22,12 +51,14 @@ try:
 except:
     ACCETTATOLABEL="Accettato"
 
+logger.info("Reading 'regioni' geo data file...")
 regioni=gpd.read_file(LIMITIPATH+"/Limiti01012019_g/Reg01012019_g/Reg01012019_g_WGS84.shp")
 
 regioni=gpd.GeoDataFrame(regioni)
 regioni.crs='epsg:23032'
 regioni=regioni.to_crs('epsg:4326')
 
+logger.info("Reading 'province' geo data file...")
 province=gpd.read_file(LIMITIPATH+"/Limiti01012019_g/ProvCM01012019_g/ProvCM01012019_g_WGS84.shp")
 
 province=gpd.GeoDataFrame(province)
@@ -37,6 +68,7 @@ province=province.to_crs('epsg:4326')
 FILTER_LABELS=("Accettato","accepted")
 POSIZIONE_NAMES=("posizione","Posizione","position","Position","location","Location")
 
+logger.info("Reading Github configration...")
 try:
     config=configparser.RawConfigParser()
     config.read('.github.cfg')
@@ -84,16 +116,17 @@ try:
 except:
     gjwr=None
 
+logger.info("Opening CSV issues file ({0})...".format(CSVFILE))
+lastTime = get_latest_timestamp('../_data/issues_test.csv')
+
 wr=open(CSVFILE,"w+")
 csvwriter=csv.writer(wr,quotechar='"')
-
-lastTime = datetime.datetime(2000,1,1)
 
 if TOKEN:
     g = Github(TOKEN)
 else:
     g = Github(USER, PASS)
-org=g.get_organization(ORG)
+org = g.get_organization(ORG)
 r = org.get_repo(REPO_NAME)
 
 filter_labels=[]
@@ -104,14 +137,16 @@ for l in FILTER_LABELS:
     except:
         pass
 
-issues=r.get_issues(since=lastTime,labels=filter_labels,state='all')
+logger.info("Retrieving issues from Github (since {0})...".format(lastTime))
+issues=r.get_issues(since=lastTime,labels=filter_labels,state='all',sort='updated')
 
-csvwriter.writerow(("url","id","updated_at","created_at","title","lat","lon","regione","provincia","labels","milestone","image","data","body","state"))
+csvwriter.writerow(tuple(csv_column_names))
 
 if gjwr:
     gjwr.write(str('{ "type": "FeatureCollection", "features": '))
 
 csvarray=[]
+issuedict={}
 jsonarray=[]
 geojsonarray=[]
 
@@ -181,6 +216,8 @@ for issue in issues:
 
     labels=labels
 
+    # issuedict[issue.id] = issue
+    
     csvarray.append((issue.html_url,issue.id,issue.updated_at,issue.created_at,title,lat,lon,regioneIssue,provinciaIssue,labels,issue.milestone,image,json.dumps(data,sort_keys=True),issue.body, issue.state))
     
     if jwr:
@@ -196,4 +233,3 @@ if jwr:
 
 if gjwr:
     gjwr.write(json.dumps(geojsonarray,ensure_ascii=False,sort_keys=True)+"}")
-
