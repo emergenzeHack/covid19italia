@@ -13,8 +13,8 @@ Il progetto è completamente aperto e chiunque può dare il suo contributo segue
 
 Il nostro sito è creato con [Github](http://www.github.com).
 
-## Contribuisci
-Per essere aggiunto alla lista degli sviluppatori del repository apri un issue [qui](https://github.com/emergenzehack/covid19italia/issues/new?title=%5Brichiesta%20iscrizione%5D) ed unisciti sul [nostro canale Slack](https://join.slack.com/t/covid19peoplehelp/shared_invite/zt-dbg7ctmp-ta7ZYJN5Lvvse1w0eCymMQ) per discutere con noi.
+## Diventa un contributore
+Per essere aggiunto alla lista degli sviluppatori del repository apri un issue [qui](https://github.com/emergenzehack/covid19italia/issues/new?title=%5Brichiesta%20iscrizione%5D), richiedi l'accesso lasciando il tuo username [Telegram](https://web.telegram.org/).
 
 ##  Aiutaci a migliorare
 
