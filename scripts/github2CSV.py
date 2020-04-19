@@ -50,11 +50,12 @@ POSIZIONE_NAMES=("posizione","Posizione","position","Position","location","Locat
 def get_latest_timestamp(csvfile):
     df = pd.read_csv(csvfile, index_col='id', names=csv_column_names, header=None, sep=',')
     # sort rows by updated_at timestamp and parse it, in order to return a datetime instance
-    data = df.sort_values('updated_at')
+    data = df.sort_values(by='updated_at', ascending=False)
     max_updated_at = max(data['updated_at'][1:-1])
     return datetime.datetime.strptime(max_updated_at, '%Y-%m-%d %H:%M:%S')
 
 def write_output_files(csvarray, jsonarray, geojsonarray, issues):
+    logger.info("Total issues {}".format(len(issues)))
     write_csv_file(csvarray, issues)
     if jwr:
         write_json_file(jsonarray, issues)
@@ -62,11 +63,29 @@ def write_output_files(csvarray, jsonarray, geojsonarray, issues):
         write_geojson_file(geojsonarray, issues)
 
 def write_csv_file(csvarray, issues):
-    with open(CSVFILE, "w+") as wr:
-        csvwriter = csv.writer(wr, quotechar='"')
-        # write CSV header columns
-        csvwriter.writerow(tuple(csv_column_names))
-        csvwriter.writerows(csvarray)
+    with open(CSVFILE, "r+") as old_file, open('../_data/issues_temp.csv', "w+") as output_file:
+        csvwriter = csv.writer(output_file, quotechar='"')
+        csvreader = csv.reader(old_file)
+        next(csvreader, None)   # skip the header
+
+        csvwriter.writerow(tuple(csv_column_names)) # write CSV header columns
+        for line in csvreader:
+            # the issue has been updated, we need to update it in our CSV file
+            if line[1] in issues:
+                logger.info("Updating issue {}...".format(issue.id))
+                issue = issues[line[1]]
+                row = (issue.html_url,issue.id,issue.updated_at,issue.created_at,title,lat,lon,regioneIssue,provinciaIssue,labels,issue.milestone,image,json.dumps(data,sort_keys=True),issue.body, issue.state)
+                del issues[line[1]]
+            else:
+                # otherwise, just append the existing row without modifying it
+                row = line
+            csvwriter.writerow(row)
+
+        for issue_id in issues:
+            issue = issues[issue_id]
+            logger.info("Writing new issue {}...".format(issue.id))
+            row = (issue.html_url,issue.id,issue.updated_at,issue.created_at,title,lat,lon,regioneIssue,provinciaIssue,labels,issue.milestone,image,json.dumps(data,sort_keys=True),issue.body, issue.state)
+            csvwriter.writerow(row)
 
 def write_json_file(jsonarray, issues):
     jwr.write(json.dumps(jsonarray,ensure_ascii=False,sort_keys=True))
@@ -125,9 +144,6 @@ if not ORG:
     logger.erro("Need a ORG")
     sys.exit(1)
 
-logger.info("Opening CSV issues file ({0})...".format(CSVFILE))
-lastTime = get_latest_timestamp('../_data/issues_test.csv')
-
 if TOKEN:
     g = Github(TOKEN)
 else:
@@ -144,10 +160,17 @@ for l in FILTER_LABELS:
     except:
         pass
 
+logger.info("Retrieving latest updated_at timestamp from our issues file ({0})...".format(CSVFILE))
+latestTimestamp = get_latest_timestamp(CSVFILE)
+# we need to add one second to the latest timestamp in our issue file
+# to avoid retrieving the "last" issue we already have (in the issues file)
+lastTime = latestTimestamp + datetime.timedelta(seconds=1)
+
 logger.info("Retrieving issues from Github (since {0})...".format(lastTime))
 issues=r.get_issues(since=lastTime,labels=filter_labels,state='all',sort='updated')
+logger.info("{0} issues retrieved...".format(issues.totalCount))
 
-issues={}
+issuedict={}
 csvarray=[]
 jsonarray=[]
 geojsonarray=[]
@@ -218,7 +241,7 @@ for issue in issues:
 
     labels=labels
 
-    issues[issue.id] = issue
+    issuedict[issue.id] = issue
     csvarray.append((issue.html_url,issue.id,issue.updated_at,issue.created_at,title,lat,lon,regioneIssue,provinciaIssue,labels,issue.milestone,image,json.dumps(data,sort_keys=True),issue.body, issue.state))
     
     if jwr:
@@ -227,4 +250,4 @@ for issue in issues:
     if gjwr:
         geojsonarray.append({"type":"Feature","geometry":{"type":"Point","coordinates":[lon,lat]},"properties":{"title":issue.title,"number":issue.number,"state":issue.state,"url":issue.html_url,"id":issue.id,"updated_at":issue.updated_at.isoformat()+"+00:00","created_at":issue.created_at.isoformat()+"+00:00","labels":eval(labels) if labels else None,"milestone":issue.milestone.title if issue.milestone else None,"image":image,"data":data,"body":issue.body,"regione":regioneIssue,"provincia":provinciaIssue}})
 
-write_output_files(csvarray, jsonarray, geojsonarray, issues)
+write_output_files(csvarray, jsonarray, geojsonarray, issuedict)
