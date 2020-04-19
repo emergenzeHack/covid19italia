@@ -61,15 +61,15 @@ def get_latest_timestamp(csvfile):
 
     return datetime.datetime(2000,1,1)
 
-def write_output_files(csvarray, jsonarray, geojsonarray, issues):
+def write_output_files(jsonarray, geojsonarray, issues):
     logger.info("Total issues {}".format(len(issues)))
-    write_csv_file(csvarray, issues)
+    write_csv_file(issues)
     if jwr:
         write_json_file(jsonarray, issues)
     if gjwr:
         write_geojson_file(geojsonarray, issues)
 
-def write_csv_file(csvarray, issues):
+def write_csv_file(issues):
     with open(CSVFILE, "r+") as old_file, open(TMPCSVFILE, "w+") as output_file:
         csvwriter = csv.writer(output_file, quotechar='"')
         csvreader = csv.reader(old_file)
@@ -175,8 +175,6 @@ latestTimestamp = get_latest_timestamp(CSVFILE)
 # we need to add one second to the latest timestamp in our issue file
 # to avoid retrieving the "last" issue we already have (in the issues file)
 lastTime = latestTimestamp + datetime.timedelta(seconds=1)
-print(lastTime)
-sys.exit(0)
 
 logger.info("Retrieving issues from Github (since {0})...".format(lastTime))
 issues=r.get_issues(since=lastTime,labels=filter_labels,state='all',sort='updated')
@@ -254,7 +252,6 @@ for issue in issues:
     labels=labels
 
     issuedict[issue.id] = issue
-    csvarray.append((issue.html_url,issue.id,issue.updated_at,issue.created_at,title,lat,lon,regioneIssue,provinciaIssue,labels,issue.milestone,image,json.dumps(data,sort_keys=True),issue.body, issue.state))
     
     if jwr:
         jsonarray.append({"title":issue.title,"number":issue.number,"state":issue.state,"issue":{"url":issue.html_url,"id":issue.id,"updated_at":issue.updated_at.isoformat()+"+00:00","created_at":issue.created_at.isoformat()+"+00:00","title":title,"lat":lat,"lon":lon,"regione":regioneIssue,"provincia":provinciaIssue,"labels":labels,"milestone":issue.milestone.title if issue.milestone else None,"image":image,"data":data,"body":issue.body}})
@@ -262,4 +259,4 @@ for issue in issues:
     if gjwr:
         geojsonarray.append({"type":"Feature","geometry":{"type":"Point","coordinates":[lon,lat]},"properties":{"title":issue.title,"number":issue.number,"state":issue.state,"url":issue.html_url,"id":issue.id,"updated_at":issue.updated_at.isoformat()+"+00:00","created_at":issue.created_at.isoformat()+"+00:00","labels":eval(labels) if labels else None,"milestone":issue.milestone.title if issue.milestone else None,"image":image,"data":data,"body":issue.body,"regione":regioneIssue,"provincia":provinciaIssue}})
 
-write_output_files(csvarray, jsonarray, geojsonarray, issuedict)
+write_output_files(jsonarray, geojsonarray, issuedict)
