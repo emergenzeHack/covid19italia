@@ -18,7 +18,7 @@ permalink: /relatórios/
     <small>Trabalho/apoio empresarial, iniciativas culturais, recreativas e de solidariedade</small>
   </a>
 
-  <a class="btn btn-outline-dark btn-block btn-form " href="/relatorios/domicílio">Comunique entrega ao domicílio</a>
+  <a class="btn btn-outline-dark btn-block btn-form " href="/relatorios/domicilio">Comunique entrega ao domicílio</a>
   <a class="btn btn-outline-dark btn-block btn-form " href="/relatorios/fundos">Comunicar a angariação de fundos</a>
   <a class="btn btn-outline-dark btn-block btn-form" href="/relatorios/contactos">Partilhe contato útil</a>
   <a class="btn btn-outline-dark btn-block btn-form" href="/relatorios/fake-news">Denuncie Fake News</a>
