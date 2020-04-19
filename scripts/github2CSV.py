@@ -64,7 +64,6 @@ def get_latest_timestamp(csvfile):
     return datetime.datetime(2000,1,1)
 
 def write_output_files(jsonarray, geojsonarray, issues):
-    logger.info("Total issues {}".format(len(issues)))
     write_csv_file(issues)
     if jwr:
         write_json_file(jsonarray, issues)
@@ -83,8 +82,8 @@ def write_csv_file(issues):
             issue_id = int(line[1])
             if issue_id in issues:
                 issue = issues[issue_id]
-                logger.info("Updating issue {}...".format(issue.id))
-                row = (issue["issue"].html_url,issue["issue"].id,issue["issue"].updated_at,issue["issue"].created_at,issue["title"],issue["lat"],issue["lon"],issue["regioneIssue"],issue["provinciaIssue"],issue["labels"],issue["issue"].milestone,issue["image"],json.dumps(issue["data"],sort_keys=True),issue["issue"].body, issue["issue"].state)
+                logger.info("Updating issue {}...".format(issue_id))
+                row = (issue["issue"].html_url,issue_id,issue["issue"].updated_at,issue["issue"].created_at,issue["title"],issue["lat"],issue["lon"],issue["regioneIssue"],issue["provinciaIssue"],issue["labels"],issue["issue"].milestone,issue["image"],json.dumps(issue["data"],sort_keys=True),issue["issue"].body, issue["issue"].state)
                 del issues[issue_id]
             else:
                 # otherwise, just append the existing row without modifying it
@@ -93,8 +92,8 @@ def write_csv_file(issues):
 
         for issue_id in issues:
             issue = issues[issue_id]
-            logger.info("Writing new issue {}...".format(issue["issue"].id))
-            row = (issue["issue"].html_url,issue["issue"].id,issue["issue"].updated_at,issue["issue"].created_at,issue["title"],issue["lat"],issue["lon"],issue["regioneIssue"],issue["provinciaIssue"],issue["labels"],issue["issue"].milestone,issue["image"],json.dumps(issue["data"],sort_keys=True),issue["issue"].body, issue["issue"].state)
+            logger.info("Writing new issue {}...".format(issue_id))
+            row = (issue["issue"].html_url,issue_id,issue["issue"].updated_at,issue["issue"].created_at,issue["title"],issue["lat"],issue["lon"],issue["regioneIssue"],issue["provinciaIssue"],issue["labels"],issue["issue"].milestone,issue["image"],json.dumps(issue["data"],sort_keys=True),issue["issue"].body, issue["issue"].state)
             csvwriter.writerow(row)
             
     Path(TMPCSVFILE).rename(CSVFILE)
