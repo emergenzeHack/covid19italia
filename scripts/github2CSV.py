@@ -23,26 +23,19 @@ logger = logging.getLogger()
 
 csv_column_names = ["url","id","updated_at","created_at","title","lat","lon","regione","provincia","labels","milestone","image","data","body","state"]
 
-def get_latest_timestamp(csvfile):
-    df = pd.read_csv(csvfile, index_col='id', names=csv_column_names, header=None, sep=',')
-    # sort rows by updated_at timestamp and parse it, in order to return a datetime instance
-    data = df.sort_values('updated_at')
-    last_updated_at = datetime.datetime.strptime(max(data['updated_at'][1:-1]), '%Y-%m-%d %H:%M:%S')
+# Program arguments
+CSVFILE=sys.argv[1]
+try:
+    JSONFILE=sys.argv[2]
+    jwr=io.open(JSONFILE,"w+",encoding="utf-8")
+except:
+    jwr=None
 
-    return last_updated_at
-
-def write_csv_file():
-    pass
-
-def write_json_file():
-    pass
-
-
-def write_geojson_file():
-    pass
-
-def get_issues_to_update():
-    pass
+try:
+    GEOJSONFILE=sys.argv[3]
+    gjwr=io.open(GEOJSONFILE,"w+",encoding="utf-8")
+except:
+    gjwr=None
 
 LIMITIPATH=sys.argv[4]
 
@@ -50,6 +43,39 @@ try:
     ACCETTATOLABEL=sys.argv[5]
 except:
     ACCETTATOLABEL="Accettato"
+
+FILTER_LABELS=("Accettato","accepted")
+POSIZIONE_NAMES=("posizione","Posizione","position","Position","location","Location")
+
+def get_latest_timestamp(csvfile):
+    df = pd.read_csv(csvfile, index_col='id', names=csv_column_names, header=None, sep=',')
+    # sort rows by updated_at timestamp and parse it, in order to return a datetime instance
+    data = df.sort_values('updated_at')
+    max_updated_at = max(data['updated_at'][1:-1])
+    return datetime.datetime.strptime(max_updated_at, '%Y-%m-%d %H:%M:%S')
+
+def write_output_files(csvarray, jsonarray, geojsonarray, issues):
+    write_csv_file(csvarray, issues)
+    if jwr:
+        write_json_file(jsonarray, issues)
+    if gjwr:
+        write_geojson_file(geojsonarray, issues)
+
+def write_csv_file(csvarray, issues):
+    with open(CSVFILE, "w+") as wr:
+        csvwriter = csv.writer(wr, quotechar='"')
+        # write CSV header columns
+        csvwriter.writerow(tuple(csv_column_names))
+        csvwriter.writerows(csvarray)
+
+def write_json_file(jsonarray, issues):
+    jwr.write(json.dumps(jsonarray,ensure_ascii=False,sort_keys=True))
+
+
+def write_geojson_file(geojsonarray, issues):
+    gjwr.write(str('{ "type": "FeatureCollection", "features": '))
+    gjwr.write(json.dumps(geojsonarray,ensure_ascii=False,sort_keys=True)+"}")
+
 
 logger.info("Reading 'regioni' geo data file...")
 regioni=gpd.read_file(LIMITIPATH+"/Limiti01012019_g/Reg01012019_g/Reg01012019_g_WGS84.shp")
@@ -64,9 +90,6 @@ province=gpd.read_file(LIMITIPATH+"/Limiti01012019_g/ProvCM01012019_g/ProvCM0101
 province=gpd.GeoDataFrame(province)
 province.crs='epsg:23032'
 province=province.to_crs('epsg:4326')
-
-FILTER_LABELS=("Accettato","accepted")
-POSIZIONE_NAMES=("posizione","Posizione","position","Position","location","Location")
 
 logger.info("Reading Github configration...")
 try:
@@ -87,45 +110,29 @@ except:
 
 if not TOKEN:
     if not PASS:
-        print("Need a TOKEN")
+        logger.error("Need a TOKEN")
         sys.exit(1)
 
     if not USER:
-        print("Need a USER")
+        logger.erro("Need a USER")
         sys.exit(1)
 
 if not REPO_NAME:
-    print("Need a REPO_NAME")
+    logger.erro("Need a REPO_NAME")
     sys.exit(1)
 
 if not ORG:
-    print("Need a ORG")
+    logger.erro("Need a ORG")
     sys.exit(1)
-
-CSVFILE=sys.argv[1]
-
-try:
-    JSONFILE=sys.argv[2]
-    jwr=io.open(JSONFILE,"w+",encoding="utf-8")
-except:
-    jwr=None
-
-try:
-    GEOJSONFILE=sys.argv[3]
-    gjwr=io.open(GEOJSONFILE,"w+",encoding="utf-8")
-except:
-    gjwr=None
 
 logger.info("Opening CSV issues file ({0})...".format(CSVFILE))
 lastTime = get_latest_timestamp('../_data/issues_test.csv')
-
-wr=open(CSVFILE,"w+")
-csvwriter=csv.writer(wr,quotechar='"')
 
 if TOKEN:
     g = Github(TOKEN)
 else:
     g = Github(USER, PASS)
+
 org = g.get_organization(ORG)
 r = org.get_repo(REPO_NAME)
 
@@ -140,13 +147,8 @@ for l in FILTER_LABELS:
 logger.info("Retrieving issues from Github (since {0})...".format(lastTime))
 issues=r.get_issues(since=lastTime,labels=filter_labels,state='all',sort='updated')
 
-csvwriter.writerow(tuple(csv_column_names))
-
-if gjwr:
-    gjwr.write(str('{ "type": "FeatureCollection", "features": '))
-
+issues={}
 csvarray=[]
-issuedict={}
 jsonarray=[]
 geojsonarray=[]
 
@@ -179,7 +181,7 @@ for issue in issues:
         pass
 
     if not data:
-        print(f"Data not found for issue {issue}.")
+        logger.info("Data not found for issue {issue}.".format(issue=issue))
         continue
 
     for posName in POSIZIONE_NAMES:
@@ -216,8 +218,7 @@ for issue in issues:
 
     labels=labels
 
-    # issuedict[issue.id] = issue
-    
+    issues[issue.id] = issue
     csvarray.append((issue.html_url,issue.id,issue.updated_at,issue.created_at,title,lat,lon,regioneIssue,provinciaIssue,labels,issue.milestone,image,json.dumps(data,sort_keys=True),issue.body, issue.state))
     
     if jwr:
@@ -226,10 +227,4 @@ for issue in issues:
     if gjwr:
         geojsonarray.append({"type":"Feature","geometry":{"type":"Point","coordinates":[lon,lat]},"properties":{"title":issue.title,"number":issue.number,"state":issue.state,"url":issue.html_url,"id":issue.id,"updated_at":issue.updated_at.isoformat()+"+00:00","created_at":issue.created_at.isoformat()+"+00:00","labels":eval(labels) if labels else None,"milestone":issue.milestone.title if issue.milestone else None,"image":image,"data":data,"body":issue.body,"regione":regioneIssue,"provincia":provinciaIssue}})
 
-csvwriter.writerows(csvarray)
-
-if jwr:
-    jwr.write(json.dumps(jsonarray,ensure_ascii=False,sort_keys=True))
-
-if gjwr:
-    gjwr.write(json.dumps(geojsonarray,ensure_ascii=False,sort_keys=True)+"}")
+write_output_files(csvarray, jsonarray, geojsonarray, issues)
