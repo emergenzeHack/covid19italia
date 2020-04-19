@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 from github import Github
+from pathlib import Path
 import datetime
 import csv
 import sys
@@ -13,8 +14,6 @@ import io
 import logging
 
 import pandas as pd
-import geopandas as gpd
-from shapely.geometry import Point
 
 # Configure logger to print log message to stdout
 logformat = '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
@@ -47,6 +46,8 @@ except:
 FILTER_LABELS=("Accettato","accepted")
 POSIZIONE_NAMES=("posizione","Posizione","position","Position","location","Location")
 
+TMPCSVFILE = '../_data/issues_temp.csv'
+
 def get_latest_timestamp(csvfile):
     df = pd.read_csv(csvfile, index_col='id', names=csv_column_names, header=None, sep=',')
     # sort rows by updated_at timestamp and parse it, in order to return a datetime instance
@@ -63,7 +64,7 @@ def write_output_files(csvarray, jsonarray, geojsonarray, issues):
         write_geojson_file(geojsonarray, issues)
 
 def write_csv_file(csvarray, issues):
-    with open(CSVFILE, "r+") as old_file, open('../_data/issues_temp.csv', "w+") as output_file:
+    with open(CSVFILE, "r+") as old_file, open(TMPCSVFILE, "w+") as output_file:
         csvwriter = csv.writer(output_file, quotechar='"')
         csvreader = csv.reader(old_file)
         next(csvreader, None)   # skip the header
@@ -86,6 +87,7 @@ def write_csv_file(csvarray, issues):
             logger.info("Writing new issue {}...".format(issue.id))
             row = (issue.html_url,issue.id,issue.updated_at,issue.created_at,title,lat,lon,regioneIssue,provinciaIssue,labels,issue.milestone,image,json.dumps(data,sort_keys=True),issue.body, issue.state)
             csvwriter.writerow(row)
+    os.mo
 
 def write_json_file(jsonarray, issues):
     jwr.write(json.dumps(jsonarray,ensure_ascii=False,sort_keys=True))
