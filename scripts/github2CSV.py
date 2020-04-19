@@ -54,8 +54,12 @@ def get_latest_timestamp(csvfile):
     df = pd.read_csv(csvfile, index_col='id', names=csv_column_names, header=None, sep=',')
     # sort rows by updated_at timestamp and parse it, in order to return a datetime instance
     data = df.sort_values(by='updated_at', ascending=False)
-    max_updated_at = max(data['updated_at'][1:-1])
-    return datetime.datetime.strptime(max_updated_at, '%Y-%m-%d %H:%M:%S')
+
+    if not data['updated_at'][1:-1].empty:
+        max_updated_at = max(data['updated_at'][1:-1])
+        return datetime.datetime.strptime(max_updated_at, '%Y-%m-%d %H:%M:%S')
+
+    return datetime.datetime(2000,1,1)
 
 def write_output_files(csvarray, jsonarray, geojsonarray, issues):
     logger.info("Total issues {}".format(len(issues)))
@@ -171,6 +175,8 @@ latestTimestamp = get_latest_timestamp(CSVFILE)
 # we need to add one second to the latest timestamp in our issue file
 # to avoid retrieving the "last" issue we already have (in the issues file)
 lastTime = latestTimestamp + datetime.timedelta(seconds=1)
+print(lastTime)
+sys.exit(0)
 
 logger.info("Retrieving issues from Github (since {0})...".format(lastTime))
 issues=r.get_issues(since=lastTime,labels=filter_labels,state='all',sort='updated')
