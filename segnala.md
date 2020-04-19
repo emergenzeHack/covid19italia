@@ -25,4 +25,3 @@ permalink: /relatórios/
   <a class="btn btn-outline-dark btn-block btn-form" href="/relatorios/documentos">Partilhe documentos/dados</a>
   <a class="btn btn-outline-dark btn-block btn-form" href="/relatorios/noticias">Partilhe notícias</a>
 </div>
-
