@@ -139,15 +139,15 @@ if not TOKEN:
         sys.exit(1)
 
     if not USER:
-        logger.erro("Need a USER")
+        logger.error("Need a USER")
         sys.exit(1)
 
 if not REPO_NAME:
-    logger.erro("Need a REPO_NAME")
+    logger.error("Need a REPO_NAME")
     sys.exit(1)
 
 if not ORG:
-    logger.erro("Need a ORG")
+    logger.error("Need a ORG")
     sys.exit(1)
 
 if TOKEN:
