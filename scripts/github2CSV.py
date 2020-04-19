@@ -49,6 +49,8 @@ FILTER_LABELS=("Accettato","accepted")
 POSIZIONE_NAMES=("posizione","Posizione","position","Position","location","Location")
 
 TMPCSVFILE = '../_data/issues_temp.csv'
+TMPJSONFILE = '../_data/issuesjson_temp.json'
+TMPGEOJSONFILE = '../_data/issues_temp.geojson'
 
 def get_latest_timestamp(csvfile):
     df = pd.read_csv(csvfile, index_col='id', names=csv_column_names, header=None, sep=',')
@@ -70,9 +72,9 @@ def write_output_files(jsonarray, geojsonarray, issues):
         write_geojson_file(geojsonarray, issues)
 
 def write_csv_file(issues):
-    with open(CSVFILE, "r+") as old_file, open(TMPCSVFILE, "w+") as output_file:
+    with open(CSVFILE, "r+") as current_file, open(TMPCSVFILE, "w+") as output_file:
         csvwriter = csv.writer(output_file, quotechar='"')
-        csvreader = csv.reader(old_file)
+        csvreader = csv.reader(current_file)
         next(csvreader, None)   # skip the header
 
         csvwriter.writerow(tuple(csv_column_names)) # write CSV header columns
@@ -82,7 +84,7 @@ def write_csv_file(issues):
             if issue_id in issues:
                 issue = issues[issue_id]
                 logger.info("Updating issue {}...".format(issue.id))
-                row = (issue.html_url,issue.id,issue.updated_at,issue.created_at,title,lat,lon,regioneIssue,provinciaIssue,labels,issue.milestone,image,json.dumps(data,sort_keys=True),issue.body, issue.state)
+                row = (issue["issue"].html_url,issue["issue"].id,issue["issue"].updated_at,issue["issue"].created_at,issue["title"],issue["lat"],issue["lon"],issue["regioneIssue"],issue["provinciaIssue"],issue["labels"],issue["issue"].milestone,issue["image"],json.dumps(issue["data"],sort_keys=True),issue["issue"].body, issue["issue"].state)
                 del issues[issue_id]
             else:
                 # otherwise, just append the existing row without modifying it
@@ -91,15 +93,14 @@ def write_csv_file(issues):
 
         for issue_id in issues:
             issue = issues[issue_id]
-            logger.info("Writing new issue {}...".format(issue.id))
-            row = (issue.html_url,issue.id,issue.updated_at,issue.created_at,title,lat,lon,regioneIssue,provinciaIssue,labels,issue.milestone,image,json.dumps(data,sort_keys=True),issue.body, issue.state)
+            logger.info("Writing new issue {}...".format(issue["issue"].id))
+            row = (issue["issue"].html_url,issue["issue"].id,issue["issue"].updated_at,issue["issue"].created_at,issue["title"],issue["lat"],issue["lon"],issue["regioneIssue"],issue["provinciaIssue"],issue["labels"],issue["issue"].milestone,issue["image"],json.dumps(issue["data"],sort_keys=True),issue["issue"].body, issue["issue"].state)
             csvwriter.writerow(row)
             
     Path(TMPCSVFILE).rename(CSVFILE)
 
 def write_json_file(jsonarray, issues):
     jwr.write(json.dumps(jsonarray,ensure_ascii=False,sort_keys=True))
-
 
 def write_geojson_file(geojsonarray, issues):
     gjwr.write(str('{ "type": "FeatureCollection", "features": '))
@@ -251,7 +252,17 @@ for issue in issues:
 
     labels=labels
 
-    issuedict[issue.id] = issue
+    issuedict[issue.id] = {
+        "issue": issue,
+        "title": title,
+        "lat": lat,
+        "lon": lon,
+        "regioneIssue": regioneIssue,
+        "provinciaIssue": provinciaIssue,
+        "labels": labels,
+        "image": image,
+        "data": data
+    }
     
     if jwr:
         jsonarray.append({"title":issue.title,"number":issue.number,"state":issue.state,"issue":{"url":issue.html_url,"id":issue.id,"updated_at":issue.updated_at.isoformat()+"+00:00","created_at":issue.created_at.isoformat()+"+00:00","title":title,"lat":lat,"lon":lon,"regione":regioneIssue,"provincia":provinciaIssue,"labels":labels,"milestone":issue.milestone.title if issue.milestone else None,"image":image,"data":data,"body":issue.body}})
