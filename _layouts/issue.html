@@ -35,7 +35,7 @@ lang: it
     </div>
 {%- endif -%}
     <div class="row">
-        <div class="col-md-12">{%- if page.state == "closed" -%}<strike>{%- endif -%}<h2>{{page.issue.title}}</h2>{%- if page.state == "closed" -%}</strike>{%- endif -%} </div>
+        <div class="col-md-12">{%- if page.state == "closed" -%}{%- if page.issue.labels contains "Risolta" -%}<h2 style="color:red;" class="display-2">RISOLTA!</h2>{%- endif -%}<strike>{%- endif -%}<h2>{{page.issue.title}}</h2>{%- if page.state == "closed" -%}</strike>{%- endif -%} </div>
     </div>
 
     <dl class="row">
