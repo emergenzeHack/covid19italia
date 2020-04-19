@@ -14,6 +14,8 @@ import io
 import logging
 
 import pandas as pd
+import geopandas as gpd
+from shapely.geometry import Point
 
 # Configure logger to print log message to stdout
 logformat = '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
@@ -72,11 +74,12 @@ def write_csv_file(csvarray, issues):
         csvwriter.writerow(tuple(csv_column_names)) # write CSV header columns
         for line in csvreader:
             # the issue has been updated, we need to update it in our CSV file
-            if line[1] in issues:
+            issue_id = int(line[1])
+            if issue_id in issues:
+                issue = issues[issue_id]
                 logger.info("Updating issue {}...".format(issue.id))
-                issue = issues[line[1]]
                 row = (issue.html_url,issue.id,issue.updated_at,issue.created_at,title,lat,lon,regioneIssue,provinciaIssue,labels,issue.milestone,image,json.dumps(data,sort_keys=True),issue.body, issue.state)
-                del issues[line[1]]
+                del issues[issue_id]
             else:
                 # otherwise, just append the existing row without modifying it
                 row = line
@@ -87,7 +90,8 @@ def write_csv_file(csvarray, issues):
             logger.info("Writing new issue {}...".format(issue.id))
             row = (issue.html_url,issue.id,issue.updated_at,issue.created_at,title,lat,lon,regioneIssue,provinciaIssue,labels,issue.milestone,image,json.dumps(data,sort_keys=True),issue.body, issue.state)
             csvwriter.writerow(row)
-    os.mo
+            
+    Path(TMPCSVFILE).rename(CSVFILE)
 
 def write_json_file(jsonarray, issues):
     jwr.write(json.dumps(jsonarray,ensure_ascii=False,sort_keys=True))
