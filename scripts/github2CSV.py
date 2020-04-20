@@ -20,7 +20,7 @@ from shapely.geometry import Point
 # Configure logger to print log message to stdout
 logformat = '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
 logging.basicConfig(stream=sys.stdout, level=logging.INFO, format=logformat)
-logger = logging.getLogger()
+logger = logging.getLogger('github2CSV')
 
 csv_column_names = ["url","id","updated_at","created_at","title","lat","lon","regione","provincia","labels","milestone","image","data","body","state"]
 
