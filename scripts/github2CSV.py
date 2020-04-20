@@ -262,8 +262,6 @@ if __name__ == "__main__":
     logger.info("{0} issues retrieved...".format(issues.totalCount))
 
     issuedict={}
-    csvarray=[]
-    jsonarray=[]
     geojsonarray=[]
 
     for issue in issues:
