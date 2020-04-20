@@ -73,7 +73,7 @@ help requests:
   labelnames: 
     - Richiesta aiuto
   permalink: /richiesta/
-  markericon: question
+  markericon: child
   markercolor: magenta
 fake news:
   displayname: Fake News
