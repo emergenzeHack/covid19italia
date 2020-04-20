@@ -308,7 +308,7 @@ if __name__ == "__main__":
                             break
 
                 except Exception as e:
-                    print("Exception:",e)
+                    logger.error("Exception: %s", e)
                 break
 
         if "regione_manuale" in data:
