@@ -267,11 +267,7 @@ if __name__ == "__main__":
     for issue in issues:
         labels = json.dumps([l.name for l in issue.labels])
         data={}
-        lat=None
-        lon=None
-        image=None
-        regioneIssue=None
-        provinciaIssue=None
+        lat = lon = image = regioneIssue = provinciaIssue = None
 
         try:
             tree=html.fromstring(issue.body)
