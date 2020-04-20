@@ -28,7 +28,7 @@ csv_column_names = ["url","id","updated_at","created_at","title","lat","lon","re
 CSVFILE=sys.argv[1]
 try:
     JSONFILE=sys.argv[2]
-    jwr=io.open(JSONFILE,"w+",encoding="utf-8")
+    jwr=io.open(JSONFILE,"r+",encoding="utf-8")
 except:
     jwr=None
 
@@ -63,10 +63,10 @@ def get_latest_timestamp(csvfile):
 
     return datetime.datetime(2000,1,1)
 
-def write_output_files(jsonarray, geojsonarray, issues):
+def write_output_files(geojsonarray, issues):
     write_csv_file(issues)
     if jwr:
-        write_json_file(jsonarray, issues)
+        write_json_file(issues)
     if gjwr:
         write_geojson_file(geojsonarray, issues)
 
@@ -78,33 +78,105 @@ def write_csv_file(issues):
 
         csvwriter.writerow(tuple(csv_column_names)) # write CSV header columns
         for line in csvreader:
-            # the issue has been updated, we need to update it in our CSV file
             issue_id = int(line[1])
             if issue_id in issues:
+                # the issue has been updated, we need to update it in our CSV file 
                 issue = issues[issue_id]
-                logger.info("Updating issue {}...".format(issue_id))
-                row = (issue["issue"].html_url,issue_id,issue["issue"].updated_at,issue["issue"].created_at,issue["title"],issue["lat"],issue["lon"],issue["regioneIssue"],issue["provinciaIssue"],issue["labels"],issue["issue"].milestone,issue["image"],json.dumps(issue["data"],sort_keys=True),issue["issue"].body, issue["issue"].state)
+                gh_issue = issue["issue"] # Github issue instance
+                logger.info("[CSV] Updating issue {}...".format(issue_id))
+                row = (gh_issue.html_url,issue_id,gh_issue.updated_at,gh_issue.created_at,issue["title"],issue["lat"],issue["lon"],issue["regioneIssue"],issue["provinciaIssue"],issue["labels"],gh_issue.milestone,issue["image"],json.dumps(issue["data"],sort_keys=True),gh_issue.body, gh_issue.state)
                 del issues[issue_id]
             else:
                 # otherwise, just append the existing row without modifying it
                 row = line
             csvwriter.writerow(row)
-
-        for issue_id in issues:
+        
+        for issue_id in issues: # append the remaining new issues
             issue = issues[issue_id]
-            logger.info("Writing new issue {}...".format(issue_id))
-            row = (issue["issue"].html_url,issue_id,issue["issue"].updated_at,issue["issue"].created_at,issue["title"],issue["lat"],issue["lon"],issue["regioneIssue"],issue["provinciaIssue"],issue["labels"],issue["issue"].milestone,issue["image"],json.dumps(issue["data"],sort_keys=True),issue["issue"].body, issue["issue"].state)
+            gh_issue = issue["issue"] # Github issue instance
+            logger.info("[CSV] Writing new issue {}...".format(issue_id))
+            row = (gh_issue.html_url,issue_id,gh_issue.updated_at,gh_issue.created_at,issue["title"],issue["lat"],issue["lon"],issue["regioneIssue"],issue["provinciaIssue"],issue["labels"],gh_issue.milestone,issue["image"],json.dumps(issue["data"],sort_keys=True),gh_issue.body, gh_issue.state)
             csvwriter.writerow(row)
-            
+    # move temp file to final one
     Path(TMPCSVFILE).rename(CSVFILE)
 
-def write_json_file(jsonarray, issues):
-    jwr.write(json.dumps(jsonarray,ensure_ascii=False,sort_keys=True))
+def write_json_file(issues):
+    jsonarray = []
+    with open(TMPJSONFILE, "w+") as output_file:
+        data = json.load(jwr)
+        for row in data:
+            issue_id = row["issue"]["id"]
+            if issue_id in issues:
+                # the issue has been updated, we need to update it in our JSON file
+                issue = issues[issue_id]
+                gh_issue = issue["issue"]
+                logger.info("[JSON] Updating issue {}...".format(issue_id))
+                jsonarray.append(get_json_issue(issue, gh_issue))
+                del issues[issue_id]
+            else:
+                # otherwise, just append the existing row without modifying it
+                jsonarray.append(row)
+         
+        for issue_id in issues: # append the remaining new issues
+            issue = issues[issue_id]
+            gh_issue = issue["issue"]
+            logger.info("[JSON] Writing new issue {}...".format(issue_id))
+            jsonarray.append(get_json_issue(issue, gh_issue))
+
+        output_file.write(json.dumps(jsonarray,ensure_ascii=False,sort_keys=True))
+    # move temp file to final one
+    Path(TMPJSONFILE).rename(JSONFILE)
+    
+
+def get_json_issue(issue, gh_issue):
+    return {
+        "title":gh_issue.title,
+        "number":gh_issue.number,
+        "state":gh_issue.state,
+        "issue":{
+            "url":gh_issue.html_url,
+            "id":gh_issue.id,
+            "updated_at":gh_issue.updated_at.isoformat()+"+00:00",
+            "created_at":gh_issue.created_at.isoformat()+"+00:00",
+            "title":issue["title"],
+            "lat":issue["lat"],
+            "lon":issue["lon"],
+            "regione":issue["regioneIssue"],
+            "provincia":issue["provinciaIssue"],
+            "labels":issue["labels"],
+            "milestone":gh_issue.milestone.title if gh_issue.milestone else None,
+            "image":issue["image"],
+            "data":issue["data"],
+            "body":gh_issue.body}
+    }
 
 def write_geojson_file(geojsonarray, issues):
     gjwr.write(str('{ "type": "FeatureCollection", "features": '))
     gjwr.write(json.dumps(geojsonarray,ensure_ascii=False,sort_keys=True)+"}")
 
+def get_geojson_issue(issue, gh_issue):
+    return {
+        "type":"Feature",
+        "geometry":{
+            "type":"Point",
+            "coordinates":[issue["lon"],issue["lat"]]},
+            "properties":{
+                "title":gh_issue.title,
+                "number":gh_issue.number,
+                "state":gh_issue.state,
+                "url":gh_issue.html_url,
+                "id":gh_issue.id,
+                "updated_at":gh_issue.updated_at.isoformat()+"+00:00",
+                "created_at":gh_issue.created_at.isoformat()+"+00:00",
+                "labels":eval(issue["labels"]) if issue["labels"] else None,
+                "milestone":gh_issue.milestone.title if gh_issue.milestone else None,
+                "image":image,
+                "data":issue["data"],
+                "body":gh_issue.body,
+                "regione":issue["regioneIssue"],
+                "provincia":issue["provinciaIssue"]
+            }
+        }
 
 logger.info("Reading 'regioni' geo data file...")
 regioni=gpd.read_file(LIMITIPATH+"/Limiti01012019_g/Reg01012019_g/Reg01012019_g_WGS84.shp")
@@ -263,10 +335,7 @@ for issue in issues:
         "data": data
     }
     
-    if jwr:
-        jsonarray.append({"title":issue.title,"number":issue.number,"state":issue.state,"issue":{"url":issue.html_url,"id":issue.id,"updated_at":issue.updated_at.isoformat()+"+00:00","created_at":issue.created_at.isoformat()+"+00:00","title":title,"lat":lat,"lon":lon,"regione":regioneIssue,"provincia":provinciaIssue,"labels":labels,"milestone":issue.milestone.title if issue.milestone else None,"image":image,"data":data,"body":issue.body}})
-
     if gjwr:
         geojsonarray.append({"type":"Feature","geometry":{"type":"Point","coordinates":[lon,lat]},"properties":{"title":issue.title,"number":issue.number,"state":issue.state,"url":issue.html_url,"id":issue.id,"updated_at":issue.updated_at.isoformat()+"+00:00","created_at":issue.created_at.isoformat()+"+00:00","labels":eval(labels) if labels else None,"milestone":issue.milestone.title if issue.milestone else None,"image":image,"data":data,"body":issue.body,"regione":regioneIssue,"provincia":provinciaIssue}})
 
-write_output_files(jsonarray, geojsonarray, issuedict)
+write_output_files(geojsonarray, issuedict)
