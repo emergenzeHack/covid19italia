@@ -175,9 +175,9 @@ var markerList=[];
 
 // define icons
 var markerIcons = {};
-{% for categorytuple in site.data.cfg.issuecategories %}
+{% for categorytuple in issuecategories %}
 {% assign category = categorytuple[1] %}
-var newMarker = L.AwesomeMarkers.icon({icon: "{{category['markericon']}}", markerColor: "{{category['markercolor']}}", prefix: 'fa'}); // iniziative solidali pubbliche e private
+var newMarker = L.AwesomeMarkers.icon({icon: "{{category['markericon']}}", markerColor: "{{category['markercolor']}}", prefix: 'fa'}); 
 {% for clabel in category['labelnames'] %}
 markerIcons["{{clabel}}"]=newMarker;
 {% endfor %}
