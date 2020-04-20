@@ -222,128 +222,129 @@ def get_geojson_issue(issue, gh_issue):
             }
         }
 
-logger.info("Reading 'regioni' geo data file...")
-regioni=gpd.read_file(LIMITIPATH+"/Limiti01012019_g/Reg01012019_g/Reg01012019_g_WGS84.shp")
+if __name__ == "__main__":
+    logger.info("Reading 'regioni' geo data file...")
+    regioni=gpd.read_file(LIMITIPATH+"/Limiti01012019_g/Reg01012019_g/Reg01012019_g_WGS84.shp")
 
-regioni=gpd.GeoDataFrame(regioni)
-regioni.crs='epsg:23032'
-regioni=regioni.to_crs('epsg:4326')
+    regioni=gpd.GeoDataFrame(regioni)
+    regioni.crs='epsg:23032'
+    regioni=regioni.to_crs('epsg:4326')
 
-logger.info("Reading 'province' geo data file...")
-province=gpd.read_file(LIMITIPATH+"/Limiti01012019_g/ProvCM01012019_g/ProvCM01012019_g_WGS84.shp")
+    logger.info("Reading 'province' geo data file...")
+    province=gpd.read_file(LIMITIPATH+"/Limiti01012019_g/ProvCM01012019_g/ProvCM01012019_g_WGS84.shp")
 
-province=gpd.GeoDataFrame(province)
-province.crs='epsg:23032'
-province=province.to_crs('epsg:4326')
+    province=gpd.GeoDataFrame(province)
+    province.crs='epsg:23032'
+    province=province.to_crs('epsg:4326')
 
-logger.info("Reading Github configration...")
-g = get_github_client()
+    logger.info("Reading Github configration...")
+    g = get_github_client()
 
-org = g.get_organization(ORG)
-r = org.get_repo(REPO_NAME)
+    org = g.get_organization(ORG)
+    r = org.get_repo(REPO_NAME)
 
-filter_labels=[]
-for l in FILTER_LABELS:
-    try:
-        ghlabel=r.get_label(l)
-        filter_labels.append(ghlabel)
-    except:
-        pass
-
-logger.info("Retrieving latest updated_at timestamp from our issues file ({0})...".format(CSVFILE))
-latestTimestamp = get_latest_timestamp(CSVFILE)
-# we need to add one second to the latest timestamp in our issue file
-# to avoid retrieving the "last" issue we already have (in the issues file)
-lastTime = latestTimestamp + datetime.timedelta(seconds=1)
-
-logger.info("Retrieving issues from Github (since {0})...".format(lastTime))
-issues=r.get_issues(since=lastTime,labels=filter_labels,state='all',sort='updated')
-logger.info("{0} issues retrieved...".format(issues.totalCount))
-
-issuedict={}
-csvarray=[]
-jsonarray=[]
-geojsonarray=[]
-
-for issue in issues:
-    labels = json.dumps([l.name for l in issue.labels])
-    data={}
-    lat=None
-    lon=None
-    image=None
-    regioneIssue=None
-    provinciaIssue=None
-
-    try:
-        tree=html.fromstring(issue.body)
-
+    filter_labels=[]
+    for l in FILTER_LABELS:
         try:
-            dataRaw=tree.xpath("//data/text()")
-            dataStr=dataRaw[0] if len(dataRaw) > 0 else None
-            data=json.loads(dataStr)
+            ghlabel=r.get_label(l)
+            filter_labels.append(ghlabel)
         except:
             pass
 
+    logger.info("Retrieving latest updated_at timestamp from our issues file ({0})...".format(CSVFILE))
+    latestTimestamp = get_latest_timestamp(CSVFILE)
+    # we need to add one second to the latest timestamp in our issue file
+    # to avoid retrieving the "last" issue we already have (in the issues file)
+    lastTime = latestTimestamp + datetime.timedelta(seconds=1)
+
+    logger.info("Retrieving issues from Github (since {0})...".format(lastTime))
+    issues=r.get_issues(since=lastTime,labels=filter_labels,state='all',sort='updated')
+    logger.info("{0} issues retrieved...".format(issues.totalCount))
+
+    issuedict={}
+    csvarray=[]
+    jsonarray=[]
+    geojsonarray=[]
+
+    for issue in issues:
+        labels = json.dumps([l.name for l in issue.labels])
+        data={}
+        lat=None
+        lon=None
+        image=None
+        regioneIssue=None
+        provinciaIssue=None
+
         try:
-            yamldataRaw=tree.xpath("//yamldata/text()")
-            yamldataStr=yamldataRaw[0] if len(yamldataRaw) > 0 else None
-            data=yaml.safe_load(yamldataStr)
-        except:
-            pass
-    except:
-        pass
+            tree=html.fromstring(issue.body)
 
-    if not data:
-        logger.info("Data not found for issue {issue}.".format(issue=issue))
-        continue
-
-    for posName in POSIZIONE_NAMES:
-        if posName in data:
             try:
-                (lat,lon) = data[posName].split(" ")[:2]
-                p = Point(float(lon),float(lat))
-                for i,regione in regioni.iterrows():
-                    if regione['geometry'].contains(p):
-                        regioneIssue = regione["DEN_REG"]
-                        break
+                dataRaw=tree.xpath("//data/text()")
+                dataStr=dataRaw[0] if len(dataRaw) > 0 else None
+                data=json.loads(dataStr)
+            except:
+                pass
 
-                for i,provincia in province.iterrows():
-                    if provincia['geometry'].contains(p):
-                        provinciaIssue = provincia["DEN_UTS"]
-                        break
+            try:
+                yamldataRaw=tree.xpath("//yamldata/text()")
+                yamldataStr=yamldataRaw[0] if len(yamldataRaw) > 0 else None
+                data=yaml.safe_load(yamldataStr)
+            except:
+                pass
+        except:
+            pass
 
-            except Exception as e:
-                print("Exception:",e)
-            break
+        if not data:
+            logger.info("Data not found for issue {issue}.".format(issue=issue))
+            continue
 
-    if "regione_manuale" in data:
-        regioneIssue = data["regione_manuale"]
+        for posName in POSIZIONE_NAMES:
+            if posName in data:
+                try:
+                    (lat,lon) = data[posName].split(" ")[:2]
+                    p = Point(float(lon),float(lat))
+                    for i,regione in regioni.iterrows():
+                        if regione['geometry'].contains(p):
+                            regioneIssue = regione["DEN_REG"]
+                            break
 
-    if "provincia_manuale" in data:
-        provinciaIssue = data["provincia_manuale"]
+                    for i,provincia in province.iterrows():
+                        if provincia['geometry'].contains(p):
+                            provinciaIssue = provincia["DEN_UTS"]
+                            break
 
-    if "immagine" in data:
-        image=data['immagine']
+                except Exception as e:
+                    print("Exception:",e)
+                break
 
-    title=issue.title
-    if title is not None:
-        title=title
+        if "regione_manuale" in data:
+            regioneIssue = data["regione_manuale"]
 
-    labels=labels
+        if "provincia_manuale" in data:
+            provinciaIssue = data["provincia_manuale"]
 
-    issuedict[issue.id] = {
-        "issue": issue,
-        "title": title,
-        "lat": lat,
-        "lon": lon,
-        "regioneIssue": regioneIssue,
-        "provinciaIssue": provinciaIssue,
-        "labels": labels,
-        "image": image,
-        "data": data
-    }
-    
-    if gjwr:
-        geojsonarray.append({"type":"Feature","geometry":{"type":"Point","coordinates":[lon,lat]},"properties":{"title":issue.title,"number":issue.number,"state":issue.state,"url":issue.html_url,"id":issue.id,"updated_at":issue.updated_at.isoformat()+"+00:00","created_at":issue.created_at.isoformat()+"+00:00","labels":eval(labels) if labels else None,"milestone":issue.milestone.title if issue.milestone else None,"image":image,"data":data,"body":issue.body,"regione":regioneIssue,"provincia":provinciaIssue}})
+        if "immagine" in data:
+            image=data['immagine']
 
-write_output_files(geojsonarray, issuedict)
+        title=issue.title
+        if title is not None:
+            title=title
+
+        labels=labels
+
+        issuedict[issue.id] = {
+            "issue": issue,
+            "title": title,
+            "lat": lat,
+            "lon": lon,
+            "regioneIssue": regioneIssue,
+            "provinciaIssue": provinciaIssue,
+            "labels": labels,
+            "image": image,
+            "data": data
+        }
+        
+        if gjwr:
+            geojsonarray.append({"type":"Feature","geometry":{"type":"Point","coordinates":[lon,lat]},"properties":{"title":issue.title,"number":issue.number,"state":issue.state,"url":issue.html_url,"id":issue.id,"updated_at":issue.updated_at.isoformat()+"+00:00","created_at":issue.created_at.isoformat()+"+00:00","labels":eval(labels) if labels else None,"milestone":issue.milestone.title if issue.milestone else None,"image":image,"data":data,"body":issue.body,"regione":regioneIssue,"provincia":provinciaIssue}})
+
+    write_output_files(geojsonarray, issuedict)
