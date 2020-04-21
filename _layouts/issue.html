@@ -54,47 +54,35 @@ lang: it
                 </dd>
                 {%- endif -%}
                 {%- endfor -%}
-            </dl>
-            {%- if issue.lat != blank -%}
-            <div class="row">
-                <div class="col-md-2">{{site.data.i18n.translations["latitude"]}}:</div>
-                <div class="col-md-10"> {{issue.lat}} </div>
-            </div>
-            <div class="row">
-                <div class="col-md-2">{{site.data.i18n.translations["longitude"]}}:</div>
-                <div class="col-md-10"> {{issue.lon}} </div>
-            </div>
-            <div class="row">
-                <div class="col-md-2">{{site.data.i18n.translations["map"]}}:</div>
-                <div class="col-md-4">
+            {%- if issue.lat != blank and issue.lon != blank -%}
+                <dt class="col-sm-3">{{site.data.i18n.translations["latitude"]}}:</dt>
+                <dd class="col-sm-9"> {{issue.lat}} </dd>
+                <dt class="col-sm-3">{{site.data.i18n.translations["longitude"]}}:</dt>
+                <dd class="col-sm-9"> {{issue.lon}} </dd>
+                <dt class="col-sm-3">{{site.data.i18n.translations["map"]}}:</dt>
+                <dd class="col-sm-9">
                     <div id="map" style="height: 150px;"></div>
-                </div>
-            </div>
+                </dd>
             {%- endif -%}
-            <div class="row">
-                <div class="col-md-2">{{site.data.i18n.translations["municipality"]}}:</div>
-                <div class="col-md-10"> {{issue.comune}} </div>
-            </div>
-            <div class="row">
-                <div class="col-md-2">{{site.data.i18n.translations["province"]}}:</div>
-                <div class="col-md-10"> {{issue.provincia}} </div>
-            </div>
-            <div class="row">
-                <div class="col-md-2">{{site.data.i18n.translations["region"]}}:</div>
-                <div class="col-md-10"> {{issue.regione}} </div>
-            </div>
-            <div class="row">
-                <div class="col-md-2">Link:</div>
-                <div class="col-md-10"> <a href="{{issue.url}}">{{issue.url}}</a></div>
-            </div>
-            <div class="row">
-                <div class="col-md-2">{{site.data.i18n.translations["created_at"]}}:</div>
-                <div class="col-md-10"> {{issue.created_at | italianDate}} </div>
-            </div>
-            <div class="row">
-                <div class="col-md-2">{{site.data.i18n.translations["updated_at"]}}:</div>
-                <div class="col-md-10"> {{issue.updated_at | italianDate}} </div>
-            </div>
+            {%- if issue.comune != blank -%}
+                <dt class="col-sm-3">{{site.data.i18n.translations["municipality"]}}:</dt>
+                <dd class="col-sm-9"> {{issue.comune}} </dd>
+            {%- endif -%}
+            {%- if issue.provincia != blank -%}
+                <dt class="col-sm-3">{{site.data.i18n.translations["province"]}}:</dt>
+                <dd class="col-sm-9"> {{issue.provincia}} </dd>
+            {%- endif -%}
+            {%- if issue.regione != blank -%}
+                <dt class="col-sm-3">{{site.data.i18n.translations["region"]}}:</dt>
+                <dd class="col-sm-9"> {{issue.regione}} </dd>
+            {%- endif -%}
+                <dt class="col-sm-3">Link:</dt>
+                <dd class="col-sm-9"> <a href="{{issue.url}}">{{issue.url}}</a></dd>
+                <dt class="col-sm-3">{{site.data.i18n.translations["created_at"]}}:</dt>
+                <dd class="col-sm-9"> {{issue.created_at | italianDate}} </dd>
+                <dt class="col-sm-3">{{site.data.i18n.translations["updated_at"]}}:</dt>
+                <dd class="col-sm-9"> {{issue.updated_at | italianDate}} </dd>
+            </dl>
         </div>
         <div class="card-footer">
             Condividi: {%- include social-share.html -%}
