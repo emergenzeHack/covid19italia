@@ -22,7 +22,7 @@ logformat = '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
 logging.basicConfig(stream=sys.stdout, level=logging.INFO, format=logformat)
 logger = logging.getLogger('github2CSV')
 
-csv_column_names = ["url","id","updated_at","created_at","title","lat","lon","regione","provincia","labels","milestone","image","data","body","state"]
+CSV_COLUMN_NAMES = ["url","id","updated_at","created_at","title","lat","lon","regione","provincia","labels","milestone","image","data","body","state"]
 
 # Program arguments
 CSVFILE=sys.argv[1]
@@ -97,7 +97,7 @@ def get_github_client():
 
 
 def get_latest_timestamp(csvfile):
-    df = pd.read_csv(csvfile, index_col='id', names=csv_column_names, header=None, sep=',')
+    df = pd.read_csv(csvfile, index_col='id', names=CSV_COLUMN_NAMES, header=None, sep=',')
     # sort rows by updated_at timestamp and parse it, in order to return a datetime instance
     data = df.sort_values(by='updated_at', ascending=False)
 
@@ -108,11 +108,11 @@ def get_latest_timestamp(csvfile):
     return datetime.datetime(2000,1,1)
 
 def write_output_files(issues):
-    # write_csv_file(issues)
-    # if jwr:
-    #     write_json_file(issues)
-    # if gjwr:
-    write_geojson_file(issues)
+    write_csv_file(issues)
+    if jwr:
+        write_json_file(issues)
+    if gjwr:
+        write_geojson_file(issues)
 
 def write_csv_file(issues):
     with open(CSVFILE, "r+") as current_file, open(TMPCSVFILE, "w+") as output_file:
@@ -120,7 +120,7 @@ def write_csv_file(issues):
         csvreader = csv.reader(current_file)
         next(csvreader, None)   # skip the header
 
-        csvwriter.writerow(tuple(csv_column_names)) # write CSV header columns
+        csvwriter.writerow(tuple(CSV_COLUMN_NAMES)) # write CSV header columns
         for line in csvreader:
             issue_id = int(line[1])
             if issue_id in issues:
