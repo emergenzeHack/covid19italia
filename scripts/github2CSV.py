@@ -123,11 +123,12 @@ def write_csv_file(issues):
         csvwriter.writerow(tuple(CSV_COLUMN_NAMES)) # write CSV header columns
         for line in csvreader:
             issue_id = int(line[1])
+            logger.info("[CSV] Updating issues (if any)...")
             if issue_id in issues:
                 # the issue has been updated, we need to update it in our CSV file
                 issue = issues[issue_id]
                 gh_issue = issue["issue"] # Github issue instance
-                logger.info("[CSV] Updating issue %d...", issue_id)
+                logger.info("[CSV] Issue '%d' updated.", issue_id)
                 row = get_csv_issue(issue, gh_issue)
                 del issues[issue_id]
             else:
@@ -150,11 +151,12 @@ def write_json_file(issues):
         data = json.load(jwr)
         for row in data:
             issue_id = row["issue"]["id"]
+            logger.info("[JSON] Updating issues (if any)...")
             if issue_id in issues:
                 # the issue has been updated, we need to update it in our JSON file
                 issue = issues[issue_id]
                 gh_issue = issue["issue"]
-                logger.info("[JSON] Updating issue %d...", issue_id)
+                logger.info("[JSON] Issue '%d' updated.", issue_id)
                 jsonarray.append(get_json_issue(issue, gh_issue))
                 del issues[issue_id]
             else:
@@ -177,11 +179,12 @@ def write_geojson_file(issues):
         data = json.load(gjwr)
         for row in data["features"]:
             issue_id = row["properties"]["id"]
+            logger.info("[GeoJSON] Updating issues (if any)...")
             if issue_id in issues:
                 # the issue has been updated, we need to update it in our JSON file
                 issue = issues[issue_id]
                 gh_issue = issue["issue"]
-                logger.info("[GeoJSON] Updating issue %d...", issue_id)
+                logger.info("[GeoJSON] Issue '%d' updated.", issue_id)
                 geojsonarray.append(get_geojson_issue(issue, gh_issue))
                 del issues[issue_id]
             else:
