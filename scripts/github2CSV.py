@@ -177,7 +177,6 @@ def write_geojson_file(issues):
         data = json.load(gjwr)
         for row in data["features"]:
             issue_id = row["properties"]["id"]
-            print(issue_id)
             if issue_id in issues:
                 # the issue has been updated, we need to update it in our JSON file
                 issue = issues[issue_id]
