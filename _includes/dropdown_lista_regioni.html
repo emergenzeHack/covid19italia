@@ -1,0 +1,17 @@
+<div class="dropdown show w-100">
+  <a class="btn btn-primary dropdown-toggle w-100" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    Regione
+  </a>
+<style>
+.scrollable-dropdown-menu{
+          height:200px;
+          overflow-y:auto;
+       }
+</style>
+
+  <div class="dropdown-menu scrollable-dropdown-menu" aria-labelledby="dropdownMenuLink">
+      {% for regione in site.data.geo.regioni %}
+      <a class="dropdown-item" href="/issues/regione/{{regione.nome_regione | replace: "'", "" | slugify}}/">{{regione.nome_regione}}</a>
+      {% endfor %}
+  </div>
+</div>

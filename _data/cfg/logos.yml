@@ -6,7 +6,7 @@
   link_en: en/map
   name_pt: ROTEIRO
   link_pt: pt/roteiro
-- name: SEGNALA
+- name: SEGNALA!
   logo-alt: Segnala iniziative, servizi, bufale, documenti o effettua una donazione.
   logo: /img/icone/segnala2-tci.png
   map: false
@@ -24,6 +24,7 @@
   link_en: issues/
   name_pt: Todas as iniciativas
   link_pt: pt/iniciativas
+  footer_include: dropdown_lista_regioni.html
 - name: RACCOLTE FONDI
   logo-alt: raccolte fondi
   logo: /img/icone/01-fabbisogni.png
