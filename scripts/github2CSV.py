@@ -169,6 +169,7 @@ def write_json_file(issues):
             gh_issue = issue["issue"]
             jsonarray.append(get_json_issue(issue, gh_issue))
 
+        logger.info("[JSON] Total issues: %d", len(jsonarray))
         output_file.write(json.dumps(jsonarray, ensure_ascii=False, sort_keys=True))
     # move temp file to final one
     Path(TMPJSONFILE).rename(JSONFILE)
@@ -178,18 +179,19 @@ def write_geojson_file(issues):
     with open(TMPGEOJSONFILE, "w+") as output_file:
         data = json.load(gjwr)
         logger.info("[GeoJSON] Updating issues (if any)...")
-        for row in data["features"]:
-            issue_id = row["properties"]["id"]
-            if issue_id in issues:
-                # the issue has been updated, we need to update it in our JSON file
-                issue = issues[issue_id]
-                gh_issue = issue["issue"]
-                logger.info("[GeoJSON] Issue '%d' updated.", issue_id)
-                geojsonarray.append(get_geojson_issue(issue, gh_issue))
-                del issues[issue_id]
-            else:
-                # otherwise, just append the existing row without modifying it
-                geojsonarray.append(row)
+        if 'features' in data:
+            for row in data["features"]:
+                issue_id = row["properties"]["id"]
+                if issue_id in issues:
+                    # the issue has been updated, we need to update it in our JSON file
+                    issue = issues[issue_id]
+                    gh_issue = issue["issue"]
+                    logger.info("[GeoJSON] Issue '%d' updated.", issue_id)
+                    geojsonarray.append(get_geojson_issue(issue, gh_issue))
+                    del issues[issue_id]
+                else:
+                    # otherwise, just append the existing row without modifying it
+                    geojsonarray.append(row)
 
         logger.info("[GeoJSON] Writing new issues...")
         for issue_id in issues: # append the remaining new issues
@@ -197,6 +199,7 @@ def write_geojson_file(issues):
             gh_issue = issue["issue"]
             geojsonarray.append(get_geojson_issue(issue, gh_issue))
 
+        logger.info("[GeoJSON] Total issues: %d", len(geojsonarray))
         output_file.write(str('{ "type": "FeatureCollection", "features": '))
         output_file.write(json.dumps(geojsonarray, ensure_ascii=False, sort_keys=True) + "}")
     # move temp file to final one
