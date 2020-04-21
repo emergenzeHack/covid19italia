@@ -202,7 +202,7 @@ def write_geojson_file(issues):
 
 def get_csv_issue(issue, gh_issue):
     return (
-        gh_issue.html_url, issue["id"], gh_issue.updated_at, gh_issue.created_at,
+        gh_issue.html_url, gh_issue.id, gh_issue.updated_at, gh_issue.created_at,
         issue["title"], issue["lat"], issue["lon"], issue["regioneIssue"], issue["provinciaIssue"],
         issue["labels"], gh_issue.milestone, issue["image"], json.dumps(issue["data"], sort_keys=True),
         gh_issue.body, gh_issue.state
