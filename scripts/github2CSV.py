@@ -370,3 +370,4 @@ if __name__ == "__main__":
         }
         
     write_output_files(issuedict)
+    logger.info("Done.")
