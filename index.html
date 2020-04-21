@@ -109,16 +109,21 @@ subtitle: Un progetto per condividere informazioni e attivarsi a supporto dell'e
             {% endif %}
             {% assign link = category[linkProperty] %}
             {% if link and link != empty %}
-            <a href="{{ site.baseurl }}/{{ link }}" title="{{ logo_alt }}">
                 <div class="card border-0" style="width: 10rem;">
                     {% if category.logo and category.logo != empty %}
+                    <a href="{{ site.baseurl }}/{{ link }}" title="{{ logo_alt }}">
                     <img class="card-img-top w-50 mx-auto" src="{{ site.baseurl }}{{ category.logo }}" alt="{{ category.logo-alt }}">
+                    </a>
                     {% endif %}
                     <div class="card-body w-100">
+                    <a href="{{ site.baseurl }}/{{ link }}" title="{{ logo_alt }}">
                         <h6 class="card-title">{{ category.name }}</h6>
+                    </a>
+                    {% if category.footer_include %}
+                    {% include {{category.footer_include}} %}
+                    {% endif %}
                     </div>
                 </div>
-            </a>
             {% endif %}
             {% endfor %}
         </div>
