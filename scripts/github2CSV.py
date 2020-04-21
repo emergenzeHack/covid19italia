@@ -121,9 +121,9 @@ def write_csv_file(issues):
         next(csvreader, None)   # skip the header
 
         csvwriter.writerow(tuple(CSV_COLUMN_NAMES)) # write CSV header columns
+        logger.info("[CSV] Updating issues (if any)...")
         for line in csvreader:
             issue_id = int(line[1])
-            logger.info("[CSV] Updating issues (if any)...")
             if issue_id in issues:
                 # the issue has been updated, we need to update it in our CSV file
                 issue = issues[issue_id]
@@ -149,9 +149,9 @@ def write_json_file(issues):
     jsonarray = []
     with open(TMPJSONFILE, "w+") as output_file:
         data = json.load(jwr)
+        logger.info("[JSON] Updating issues (if any)...")
         for row in data:
             issue_id = row["issue"]["id"]
-            logger.info("[JSON] Updating issues (if any)...")
             if issue_id in issues:
                 # the issue has been updated, we need to update it in our JSON file
                 issue = issues[issue_id]
@@ -177,9 +177,9 @@ def write_geojson_file(issues):
     geojsonarray = []
     with open(TMPGEOJSONFILE, "w+") as output_file:
         data = json.load(gjwr)
+        logger.info("[GeoJSON] Updating issues (if any)...")
         for row in data["features"]:
             issue_id = row["properties"]["id"]
-            logger.info("[GeoJSON] Updating issues (if any)...")
             if issue_id in issues:
                 # the issue has been updated, we need to update it in our JSON file
                 issue = issues[issue_id]
