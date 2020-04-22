@@ -122,26 +122,25 @@ def write_csv_file(issues):
 
         csvwriter.writerow(tuple(CSV_COLUMN_NAMES)) # write CSV header columns
         logger.info("[CSV] Updating issues (if any)...")
+        total_rows = 0
         for line in csvreader:
             issue_id = int(line[1])
-            if issue_id in issues:
-                # the issue has been updated, we need to update it in our CSV file
-                issue = issues[issue_id]
-                gh_issue = issue["issue"] # Github issue instance
-                logger.info("[CSV] Issue '%d' updated.", issue_id)
-                row = get_csv_issue(issue, gh_issue)
-                del issues[issue_id]
+            # if the issue is in the dictionary (thus has been updated), skip it for the moment.
+            if not issue_id in issues:
+                csvwriter.writerow(line)
+                total_rows += 1
             else:
-                # otherwise, just append the existing row without modifying it
-                row = line
-            csvwriter.writerow(row)
-        
+                logger.info("[CSV] Issue '%d' updated.", issue_id)
+            
         logger.info("[CSV] Writing new issues...")
         for issue_id in issues: # append the remaining new issues
             issue = issues[issue_id]
             gh_issue = issue["issue"] # Github issue instance
             row = get_csv_issue(issue, gh_issue)
             csvwriter.writerow(row)
+            total_rows += 1
+
+    logger.info("[CSV] Total issues: %d", total_rows)
     # move temp file to final one
     Path(TMPCSVFILE).rename(CSVFILE)
 
@@ -152,16 +151,11 @@ def write_json_file(issues):
         logger.info("[JSON] Updating issues (if any)...")
         for row in data:
             issue_id = row["issue"]["id"]
-            if issue_id in issues:
-                # the issue has been updated, we need to update it in our JSON file
-                issue = issues[issue_id]
-                gh_issue = issue["issue"]
-                logger.info("[JSON] Issue '%d' updated.", issue_id)
-                jsonarray.append(get_json_issue(issue, gh_issue))
-                del issues[issue_id]
-            else:
-                # otherwise, just append the existing row without modifying it
+            # if the issue is in the dictionary (thus has been updated), skip it for the moment.
+            if not issue_id in issues:
                 jsonarray.append(row)
+            else:
+                logger.info("[JSON] Issue '%d' updated.", issue_id)
 
         logger.info("[JSON] Writing new issues...")
         for issue_id in issues: # append the remaining new issues
@@ -182,16 +176,11 @@ def write_geojson_file(issues):
         if 'features' in data:
             for row in data["features"]:
                 issue_id = row["properties"]["id"]
-                if issue_id in issues:
-                    # the issue has been updated, we need to update it in our JSON file
-                    issue = issues[issue_id]
-                    gh_issue = issue["issue"]
-                    logger.info("[GeoJSON] Issue '%d' updated.", issue_id)
-                    geojsonarray.append(get_geojson_issue(issue, gh_issue))
-                    del issues[issue_id]
-                else:
-                    # otherwise, just append the existing row without modifying it
+                # if the issue is in the dictionary (thus has been updated), skip it for the moment.
+                if not issue_id in issues:
                     geojsonarray.append(row)
+                else:
+                    logger.info("[GeoJSON] Issue '%d' updated.", issue_id)
 
         logger.info("[GeoJSON] Writing new issues...")
         for issue_id in issues: # append the remaining new issues
