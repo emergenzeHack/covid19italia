@@ -18,7 +18,11 @@ Nome            |Dataset         |Licenza         |Link Licenza    |Fonte       
 {% endfor %}
 
 ## Feed RSS
-Se hai un servizio che può usare il formato Feed RSS puoi anche usare [questo feed delle notizie nel bollettino](https://script.google.com/macros/s/AKfycbxTuPFn9ePZOhI7et2f8nSPjkjlhd9zqHth9sOVYRZ6Va09zmE/exec), se invece cerchi un feed particolare tra tutte le nostre categorie puoi visualizzare tutti i nostri Feed RSS [in questa pagina](/rss)
+Se hai un servizio che può usare il formato Feed RSS puoi anche usare [questo feed delle notizie nel bollettino](https://script.google.com/macros/s/AKfycbxTuPFn9ePZOhI7et2f8nSPjkjlhd9zqHth9sOVYRZ6Va09zmE/exec), 
+
+Vuoi abbonarti alle nostre FAKE NEWS? Iscriviti a [questo feed](https://script.googleusercontent.com/macros/echo?user_content_key=-1pBZ5FSSHLKu9ITbEvoauID8dWwF321PgcKMIiUAh4JxLRANyjyIl0H58m-rzCwaJ7nA_a5_baHSztwZFQNyUlMAmjLK_zsm5_BxDlH2jW0nuo2oDemN9CCS2h10ox_1xSncGQajx_ryfhECjZEnMpwm1G-nXDvxsGuhE_BPNBdZvO-e2L8rmrctOWUXYpo9_Bx7cv4i1OqPzsuuyxeTcpYAgK7DOSm&lib=MNwjxxHPb0n3pOMRizSkov0wBSA0_FGxs)
+
+Se invece cerchi un feed particolare tra tutte le nostre categorie puoi visualizzare tutti i nostri Feed RSS [in questa pagina](/rss)
 
 
 ## API
