@@ -169,7 +169,6 @@ subtitle: Un progetto per condividere informazioni e attivarsi a supporto dell'e
 </script>
 
 
-{%- assign issuecategories = site.data.cfg.issuecategories -%}
 {%- assign filteredissues = site.data.machgen.issuesjson | where: "state","open" -%}
 
 {%- include issuemap.html -%}
