@@ -7,6 +7,8 @@ lang: it
 
 {%- capture image_url -%}/images/issues/{{page.number}}.png{%- endcapture -%}
 
+{%- assign issue = page.issue -%}
+
 
 
 {%- include header.html type="issue" -%}
@@ -34,73 +36,93 @@ lang: it
 <img class="img-fluid col-md-6 col-sm-9 col-9" src="/images/issues/{{page.number}}.png" />
     </div>
 {%- endif -%}
-    <div class="row">
-        <div class="col-md-12">{%- if page.state == "closed" -%}<strike>{%- endif -%}<h2>{{page.issue.title}}</h2>{%- if page.state == "closed" -%}</strike>{%- endif -%} </div>
-    </div>
+<div class="row">
+    <div class="card w-100 my-1">
+        <div class="card-body">
+            <div class="col-md-12">{%- if page.state == "closed" -%}{%- if issue.labels contains "Risolta" -%}<h2 style="color:red;" class="display-2">RISOLTA!</h2>{%- endif -%}<strike>{%- endif -%}<h2 class="card-title">{{issue.title}}</h2>{%- if page.state == "closed" -%}</strike>{%- endif -%} </div>
 
-    <dl class="row">
-        {%- for item in page.issue.data -%}
-        {%- if item[1] != blank -%}
-        <dt class="col-sm-3">{{item[0] | replace: "_", " " | capitalize_all}}</dt>
-        <dd class="col-sm-9">
-        {%- if item[0] == "Telefono" -%}
-        <a href="tel:{{item[1] | remove: " "}}" target="_blank">{{item[1]}}</a>
-        {%- else -%}
-        {{item[1] | strip | auto_link | markdownify | newline_to_br | remove: '<p>' | remove: '</p>' }}
-        {%- endif -%}
-        </dd>
-        {%- endif -%}
-        {%- endfor -%}
-    </dl>
-    {%- if page.issue.lat != blank -%}
-    <div class="row">
-        <div class="col-md-2">{{site.data.i18n.translations["latitude"]}}:</div>
-        <div class="col-md-10"> {{page.issue.lat}} </div>
-    </div>
-    <div class="row">
-        <div class="col-md-2">{{site.data.i18n.translations["longitude"]}}:</div>
-        <div class="col-md-10"> {{page.issue.lon}} </div>
-    </div>
-    <div class="row">
-        <div class="col-md-2">{{site.data.i18n.translations["map"]}}:</div>
-        <div class="col-md-4">
-            <div id="map" style="height: 150px;"></div>
+            <dl class="row card-text">
+                {%- for item in issue.data -%}
+                {%- if item[1] != blank -%}
+                <dt class="col-sm-3">{{item[0] | replace: "_", " " | capitalize_all}}</dt>
+                <dd class="col-sm-9">
+                {%- if item[0] == "Telefono" -%}
+                <a href="tel:{{item[1] | remove: " "}}" target="_blank">{{item[1]}}</a>
+                {%- else -%}
+                {{item[1] | strip | auto_link | markdownify | newline_to_br | remove: '<p>' | remove: '</p>' }}
+                {%- endif -%}
+                </dd>
+                {%- endif -%}
+                {%- endfor -%}
+            {%- if issue.lat != blank and issue.lon != blank -%}
+                <dt class="col-sm-3">{{site.data.i18n.translations["latitude"]}}:</dt>
+                <dd class="col-sm-9"> {{issue.lat}} </dd>
+                <dt class="col-sm-3">{{site.data.i18n.translations["longitude"]}}:</dt>
+                <dd class="col-sm-9"> {{issue.lon}} </dd>
+                <dt class="col-sm-3">{{site.data.i18n.translations["map"]}}:</dt>
+                <dd class="col-sm-9">
+                    <div id="map" style="height: 150px;"></div>
+                </dd>
+            {%- endif -%}
+            {%- if issue.comune != blank -%}
+                <dt class="col-sm-3">{{site.data.i18n.translations["municipality"]}}:</dt>
+                <dd class="col-sm-9"> {{issue.comune}} </dd>
+            {%- endif -%}
+            {%- if issue.provincia != blank -%}
+                <dt class="col-sm-3">{{site.data.i18n.translations["province"]}}:</dt>
+                <dd class="col-sm-9"> {{issue.provincia}} </dd>
+            {%- endif -%}
+            {%- if issue.regione != blank -%}
+                <dt class="col-sm-3">{{site.data.i18n.translations["region"]}}:</dt>
+                <dd class="col-sm-9"> {{issue.regione}} </dd>
+            {%- endif -%}
+                <dt class="col-sm-3">Link:</dt>
+                <dd class="col-sm-9"> <a href="{{issue.url}}">{{issue.url}}</a></dd>
+                <dt class="col-sm-3">{{site.data.i18n.translations["created_at"]}}:</dt>
+                <dd class="col-sm-9"> {{issue.created_at | italianDate}} </dd>
+                <dt class="col-sm-3">{{site.data.i18n.translations["updated_at"]}}:</dt>
+                <dd class="col-sm-9"> {{issue.updated_at | italianDate}} </dd>
+            </dl>
+        </div>
+        <div class="card-footer">
+            Condividi: {%- include social-share.html -%}
         </div>
     </div>
-    {%- endif -%}
-    <div class="row">
-        <div class="col-md-2">{{site.data.i18n.translations["municipality"]}}:</div>
-        <div class="col-md-10"> {{page.issue.comune}} </div>
-    </div>
-    <div class="row">
-        <div class="col-md-2">{{site.data.i18n.translations["province"]}}:</div>
-        <div class="col-md-10"> {{page.issue.provincia}} </div>
-    </div>
-    <div class="row">
-        <div class="col-md-2">{{site.data.i18n.translations["region"]}}:</div>
-        <div class="col-md-10"> {{page.issue.regione}} </div>
-    </div>
-    <div class="row">
-        <div class="col-md-2">Link:</div>
-        <div class="col-md-10"> <a href="{{page.issue.url}}">{{page.issue.url}}</a></div>
-    </div>
-    <div class="row">
-        <div class="col-md-2">{{site.data.i18n.translations["created_at"]}}:</div>
-        <div class="col-md-10"> {{page.issue.created_at | italianDate}} </div>
-    </div>
-    <div class="row">
-        <div class="col-md-2">{{site.data.i18n.translations["updated_at"]}}:</div>
-        <div class="col-md-10"> {{page.issue.updated_at | italianDate}} </div>
+    {% assign categorylist = "" | split: "" %}
+    {% for categorytuple in site.data.cfg.issuecategories %}
+    {% assign categorylabels = categorytuple[1].labelnames %}
+    {% for catlabel in categorylabels %}
+    {% if issue.labels contains catlabel %}
+    {% assign categorylist = categorylist | push: categorytuple[0] | uniq %}
+    {% endif %}
+    {% endfor %}
+    {% endfor %}
+    <div class="card w-100 my-1">
+        <div class="card-body">
+            <h2 class="card-title">Categorie</h2>
+            <div class="row w-100">
+                {% for issuecategory in categorylist %}
+                {% assign category = site.data.cfg.issuecategories[issuecategory] %}
+                <div class="col-6 col-sm-6 col-md-6 col-lg-6 my-1">
+                    <a href="{{category["permalink"]}}" class="btn btn-primary btn-block text-left h-100">
+                        <span class="fa-stack text-left" aria-label="logo del marker della segnalazione" role="img">
+                            <i class="fa fa-circle fa-stack-2x" aria-hidden="true" style="color:{{category['markercolor']}};"></i>
+                            <i class="fa fa-{{category['markericon']}} fa-stack-1x fa-inverse" aria-hidden="true"></i>
+                        </span>
+                        <span class="text-center">{{category["displayname"]}}</span></a>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
     </div>
     <br>
-    {%- include social-share.html -%}
-    <div class="disqus-comments">
+    <div class="disqus-comments w-100">
         {%- include disqus.html -%}
     </div>
 </div>
 <script>
 // initialize the map
-var map = L.map('map').setView([{{ page.issue.lat }}, {{ page.issue.lon }}], 12);
+var map = L.map('map').setView([{{ issue.lat }}, {{ issue.lon }}], 12);
 
 // create the tile layer with correct attribution
 var osmUrl = '{{site.tile_map}}';
@@ -109,5 +131,5 @@ var osm = new L.TileLayer(osmUrl, { minZoom: 8, maxZoom: 19, attribution: osmAtt
 
 map.addLayer(osm);
 
-var marker = L.marker([{{ page.issue.lat }}, {{ page.issue.lon }}]).addTo(map);
+var marker = L.marker([{{ issue.lat }}, {{ issue.lon }}]).addTo(map);
 </script>
