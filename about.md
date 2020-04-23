@@ -3,7 +3,7 @@ layout: page
 title: O que é Covid19Portugal Help? Coronavirus Resposta de Emergência
 subtitle: Saiba como funciona a plataforma, como colaborar e como comunicar um caso
 
-permalink: sobre
+permalink: /sobre/
 
 lang: pt
 ---
