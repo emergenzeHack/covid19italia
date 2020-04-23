@@ -19,6 +19,17 @@
   link_pt: relatórios
   name_gr: Ανέβασε μια πληροφορία
   link_gr: anebase-pliroforia
+- name: helpline
+  logo-alt: Help line logo
+  logo: /img/icone/helpline_gr.png
+  map: false
+  link: helpline/
+  name_en: Helpline
+  link_en: helpline/
+  name_pt: Todas as iniciativas
+  link_pt: iniciativas
+  name_gr: Γραμμή Βοήθειας
+  link_gr: helpline
 - name: TUTTE LE SEGNALAZIONI
   logo-alt: Elenco delle segnalazioni ricevute
   logo: /img/icone/tci-solidali.png
