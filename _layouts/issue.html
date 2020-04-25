@@ -1,15 +1,17 @@
 ---
 layout: base
-title: page.issue.data[0]
+title: page.issue.title
 no-share-img: true
 lang: it
 ---
 
 {%- capture image_url -%}/images/issues/{{page.number}}.png{%- endcapture -%}
 
+{%- if page.issue != blank -%}
 {%- assign issue = page.issue -%}
-
-
+{%- else -%}
+{%- assign issue = site.data.machgen.issuesjson[200].issue -%}
+{%- endif -%}
 
 {%- include header.html type="issue" -%}
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
@@ -55,10 +57,6 @@ lang: it
                 {%- endif -%}
                 {%- endfor -%}
             {%- if issue.lat != blank and issue.lon != blank -%}
-                <dt class="col-sm-3">{{site.data.i18n.translations["latitude"]}}:</dt>
-                <dd class="col-sm-9"> {{issue.lat}} </dd>
-                <dt class="col-sm-3">{{site.data.i18n.translations["longitude"]}}:</dt>
-                <dd class="col-sm-9"> {{issue.lon}} </dd>
                 <dt class="col-sm-3">{{site.data.i18n.translations["map"]}}:</dt>
                 <dd class="col-sm-9">
                     <div id="map" style="height: 150px;"></div>
