@@ -28,13 +28,13 @@ CSV_COLUMN_NAMES = ["url", "id", "updated_at", "created_at", "title", "lat", "lo
 CSVFILE = sys.argv[1]
 try:
     JSONFILE = sys.argv[2]
-    jwr = io.open(JSONFILE, "r+", encoding="utf-8")
+    jwr = io.open(JSONFILE, "r", encoding="utf-8")
 except:
     jwr = None
 
 try:
     GEOJSONFILE = sys.argv[3]
-    gjwr = io.open(GEOJSONFILE, "r+", encoding="utf-8")
+    gjwr = io.open(GEOJSONFILE, "r", encoding="utf-8")
 except:
     gjwr = None
 
@@ -102,9 +102,8 @@ def get_latest_timestamp(csvfile):
     data = df.sort_values(by='updated_at', ascending=False)
 
     if not data['updated_at'][1:-1].empty:
-        max_updated_at = max(data['updated_at'][1:-1])
-        return datetime.datetime.strptime(max_updated_at, '%Y-%m-%d %H:%M:%S')
-
+        max_updated_at = max(data['updated_at'][1:-1]) + "+00:00"
+        return datetime.datetime.strptime(max_updated_at, '%Y-%m-%d %H:%M:%S%z')
     return datetime.datetime(2000, 1, 1)
 
 def write_output_files(issues):
@@ -115,7 +114,7 @@ def write_output_files(issues):
         write_geojson_file(issues)
 
 def write_csv_file(issues):
-    with open(CSVFILE, "r+") as current_file, open(TMPCSVFILE, "w+") as output_file:
+    with open(CSVFILE, "r") as current_file, open(TMPCSVFILE, "w+") as output_file:
         csvwriter = csv.writer(output_file, quotechar='"')
         csvreader = csv.reader(current_file)
         next(csvreader, None)   # skip the header
