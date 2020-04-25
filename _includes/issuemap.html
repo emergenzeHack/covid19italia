@@ -64,7 +64,11 @@ for (var i=0; i<markerList.length; i++) {
 
 map.addLayer(markers);
 
+{% if page.mapcenter != blank and page.mapzoom != blank %}
+map.addLayer(osm).setView([{{page.mapcenter[0]}},{{page.mapcenter[1]}}], {{page.mapzoom}});
+{% else %}
 map.addLayer(osm).setView([{{site.issuemap.center}}], {{site.issuemap.zoom}});
+{% endif %}
 
 //var group = new L.featureGroup([marker1, marker2, marker3]);
 
