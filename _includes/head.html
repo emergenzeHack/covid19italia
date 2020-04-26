@@ -19,8 +19,8 @@
     <meta name="description" content="Segnalazioni della Regione {{page.nome_provincia}}">
     {%- elsif page.nome_regione -%}
     <meta name="description" content="Segnalazioni della Regione {{page.nome_regione}}">
-    {%- elsif page.data["Descrizione"] -%}
-    <meta name="description" content="{{page.data['Descrizione']}}">
+    {%- elsif page.issue.data["Descrizione"] -%}
+    <meta name="description" content="{{page.issue.data['Descrizione']}}">
     {%- endif -%}
 
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }} - {{ site.description }}"
