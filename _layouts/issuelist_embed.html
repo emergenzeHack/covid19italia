@@ -1,4 +1,20 @@
 ---
+common-css:
+  - "/css/main.css"
+common-ext-css:
+  - "//stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+  - "//cdnjs.cloudflare.com/ajax/libs/bootstrap-social/5.1.1/bootstrap-social.min.css"
+  - "//cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/css/flag-icon.min.css"
+common-googlefonts:
+  - "Inter:400,700,400italic,700italic"
+  - "Barlow:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800"
+common-ext-js:
+  - "//code.jquery.com/jquery-3.4.1.min.js"
+  - "//cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+  - "//stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+  - "//kit.fontawesome.com/ea542e9ca8.js"
+common-js:
+  - "/js/main.min.js"
 layout: bare
 ---
 <div class="container-fluid">
@@ -22,6 +38,16 @@ layout: bare
     {%- assign tmpcategory = tmpcategory | push: site.data.cfg.issuecategories[page.issuecategory] -%}
     {%- assign issuecategories = issuecategories |  push: tmpcategory -%}
 
+{%- elsif page.issuecategories != blank -%}
+
+    {% assign issuecategories = "" | split: "," %}
+    {% for category in page.issuecategories %}
+    {% assign tmpcategory = "" | split: "," %}
+    {%- assign tmpcategory = tmpcategory | push: category -%}
+    {%- assign tmpcategory = tmpcategory | push: site.data.cfg.issuecategories[category] -%}
+    {%- assign issuecategories = issuecategories |  push: tmpcategory -%}
+    {% endfor %}
+
 {%- elsif page.displayname != blank and page.markericon != blank -%}
 
     {% assign issuecategories = "" | split: "," %}
@@ -36,6 +62,9 @@ layout: bare
 
 {%- endif -%}
 
+{%- include head.html -%}
+
+{{content}}
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
    integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
@@ -142,3 +171,6 @@ layout: bare
 </div>
 
 {%- include issuemap.html -%}
+
+
+{%- include footer-scripts.html -%}
