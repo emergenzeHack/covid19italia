@@ -20,8 +20,8 @@ justLatestIssues: true
 <div class="row mx-auto">
 {% for categorytuple in issuecategories %}
 {% assign category = categorytuple[1] %}
-  <div class="col-xs-12 col-sm-6 mb-15">
-	  <a href="{{category["permalink"]}}" class="btn btn-primary btn-block text-left h-100">
+  <div class="col-12 col-sm-6 mb-15">
+	  <a href="{{category["permalink"]}}" class="btn btn-primary btn-block text-left h-100" title="Vedi tutte le segnalazioni della categoria {{category['displayname']}}">
               <span class="fa-stack text-left" aria-label="logo del marker della segnalazione" role="img">
                 <i class="fa fa-circle fa-stack-2x" aria-hidden="true" style="color:{{category['markercolor']}};"></i>
                 <i class="fa fa-{{category['markericon']}} fa-stack-1x fa-inverse" aria-hidden="true"></i>

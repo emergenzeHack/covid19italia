@@ -22,6 +22,16 @@ layout: base
     {%- assign tmpcategory = tmpcategory | push: site.data.cfg.issuecategories[page.issuecategory] -%}
     {%- assign issuecategories = issuecategories |  push: tmpcategory -%}
 
+{%- elsif page.issuecategories != blank -%}
+
+    {% assign issuecategories = "" | split: "," %}
+    {% for category in page.issuecategories %}
+    {% assign tmpcategory = "" | split: "," %}
+    {%- assign tmpcategory = tmpcategory | push: category -%}
+    {%- assign tmpcategory = tmpcategory | push: site.data.cfg.issuecategories[category] -%}
+    {%- assign issuecategories = issuecategories |  push: tmpcategory -%}
+    {% endfor %}
+
 {%- elsif page.displayname != blank and page.markericon != blank -%}
 
     {% assign issuecategories = "" | split: "," %}
@@ -137,7 +147,7 @@ layout: base
 {% endif %}
     {%- if page.justLatestIssues -%}
     <div class="row">
-        <div class="col-12 col-lg-12 col-md-12"><a href="{{category['permalink']}}" class="btn btn-primary btn-lg">{{site.data.i18n.translations["see_all"]}} {{category["displayname"]}}</a></div>
+        <div class="col-12 col-lg-12 col-md-12"><a href="{{category['permalink']}}" title="Vedi tutte le segnalazioni della categoria {{category['displayname']}}" class="btn btn-primary btn-lg">{{site.data.i18n.translations["see_all"]}} {{category["displayname"]}}</a></div>
         <hr class="col-12 col-lg-12 col-md-12">
     </div>
 </div>

@@ -37,7 +37,7 @@ lang: it
 
 {%- endif -%}
 
-<a href="/issues/regione/{{page.nome_regione | replace: "'", "" | slugify}}/province.html"class="btn btn-primary btn-lg btn-block col-12 mb-15" role="button">Segnalazioni per provincia</a>
+<a href="/issues/regione/{{page.nome_regione | replace: "'", "" | slugify}}/province.html"class="btn btn-primary btn-lg btn-block col-12 mb-15" role="button" title="Vedi le segnalazioni delle Province della Regione {{page.nome_regione}}">Segnalazioni per provincia</a>
 
 <div class="row mx-auto">
 {% for categorytuple in issuecategories %}
