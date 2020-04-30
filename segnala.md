@@ -30,8 +30,8 @@ permalink: /segnala/
 Per inserire i form sul tuo sito o pagina web puoi usare questo frammento di codice HTML:
 
 <pre><code>
-<iframe src="https://covid19italia.help/segnala-base/" frameborder="0">
-<a href="https://covid19italia.help/segnala-base/">Segnalazioni Covid19Italia.help</a>
-</iframe>
+&lt;iframe src="https://covid19italia.help/segnala-base/" frameborder="0"\&gt;
+&lt;a href="https://covid19italia.help/segnala-base/"\>Segnalazioni Covid19Italia.help\&lt;/a\&gt;
+&lt;/iframe&gt;
 </code></pre>
 
