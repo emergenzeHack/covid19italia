@@ -25,3 +25,5 @@ permalink: /segnala-base/
   <a class="btn btn-outline-dark btn-block btn-form" href="/segnala/documenti-dati">Segnala Documenti/Dati</a>
   <a class="btn btn-outline-dark btn-block btn-form" href="/segnala/notizia">Segnala Notizia</a>
 </div>
+
+[Maggiori informazioni su Covid19Italia.help](https://covid19italia.help)
