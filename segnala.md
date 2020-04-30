@@ -25,10 +25,13 @@ permalink: /segnala/
   <a class="btn btn-outline-dark btn-block btn-form" href="/segnala/notizia">Segnala Notizia</a>
 </div>
 
+<br><br>
 
 Per inserire i form sul tuo sito o pagina web puoi usare questo frammento di codice HTML:
 
-```
-<iframe src="https://covid19italia.help/segnala-base/" frameborder="0"> <a href="https://covid19italia.help/segnala-base/">Segnalazioni terremoto</a></iframe>
-```
+<pre><code>
+<iframe src="https://covid19italia.help/segnala-base/" frameborder="0">
+<a href="https://covid19italia.help/segnala-base/">Segnalazioni Covid19Italia.help</a>
+</iframe>
+</code></pre>
 
