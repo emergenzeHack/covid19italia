@@ -1,10 +1,8 @@
-# covid19italia.help
+# [covid19italia.help](https://www.covid19italia.help)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9dbe1130-4a12-4756-bf22-11d067ee8874/deploy-status)](https://app.netlify.com/sites/covid19italia/deploys)
+Condividiamo informazioni e segnalazioni sull'emergenza COVID19 in Italia.
 
-Condividiamo informazioni e segnalazioni sul COVID19
-
-### [Contribuisci](https://www.covid19italia.info/2020-03-10-sei-uno-sviluppatore-se-vuoi-aiutaci/)
+### [Contribuisci](https://www.covid19italia.help/contribuisci/)
 
 ## Link
 
@@ -27,9 +25,3 @@ Condividiamo informazioni e segnalazioni sul COVID19
 ### E-mail
 
 [covid19ita@gmail.com](mailto:covid19ita@gmail.com)
-
-### Siti web
-
-- [covid19italia.info](https://www.covid19italia.info)
-- [covid19italia.help](https://www.covid19italia.help)
-- [Netlify](https://covid19italia.netlify.com/)
