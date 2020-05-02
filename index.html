@@ -4,6 +4,26 @@ title: Covid19Greece Help
 lang: gr
 subtitle: Μοιραζόμαστε πληροφορίες για να μπορέσουμε να ανταποκριθούμε όλες και όλοι στις νέες συνθήκες που δημιούργησε η πανδημία του Covid19
 ---
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+   integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+   crossorigin=""/>
+
+   <!-- Make sure you put this AFTER Leaflet's CSS -->
+ <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+   integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+   crossorigin=""></script>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.min.js"></script>
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css"
+   crossorigin=""/>
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css"
+   crossorigin=""/>
+
+ <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"
+   crossorigin=""></script>
 
 <script type="application/ld+json">
     [{
@@ -70,51 +90,69 @@ subtitle: Μοιραζόμαστε πληροφορίες για να μπορέ
         }]
 </script>
 
-<div class="homepage-categories mt-4">
-{% assign categories_without_map = site.data.cfg.logos | where: "map", false %}
-{% for category in categories_without_map %}
-  {% capture logo_alt %}
-    {{ category.name_gr }}
-    {% if category.logo_credit and category.logo_credit != empty %}
-      logo by {{ category.logo_credit }}
-    {% endif %}
-  {% endcapture %}
-  {% assign logo_alt = logo_alt | strip %}
-    {% if site.lang == "it" %}
-        {% assign linkProperty = 'link' %}
-        {%else%}
-        {% assign linkProperty = 'link_' | append : site.lang %}
-    {% endif %}
-    {% assign link = category[linkProperty] %}
-    {% if link and link != empty %}
-	<a href="{{ site.baseurl }}/{{ link }}" title="{{ logo_alt }}">
-		<div class="card border-0" style="width: 10rem;">
-			{% if category.logo and category.logo != empty %}
-			<img class="card-img-top w-50 mx-auto" src="{{ site.baseurl }}{{ category.logo }}" alt="{{ category.logo-alt }}">
-			{% endif %}
-			<div class="card-body">
-				<h6 class="card-title">{{ category.name_gr }}</h6>
-			</div>
-		</div>
-	</a>
-    {% endif %}
-{% endfor %}
+<div class="row">
+    <div class="col-12">
+        <div class="homepage-categories mt-4">
+            {% assign categories_without_map = site.data.cfg.logos | where: "map", false %}
+            {% for category in categories_without_map %}
+            {% capture logo_alt %}
+            {{ category.name_gr }}
+            {% if category.logo_credit and category.logo_credit != empty %}
+            logo by {{ category.logo_credit }}
+            {% endif %}
+            {% endcapture %}
+            {% assign logo_alt = logo_alt | strip %}
+            {% if site.lang == "it" %}
+            {% assign linkProperty = 'link' %}
+            {%else%}
+            {% assign linkProperty = 'link_' | append : site.lang %}
+            {% endif %}
+            {% assign link = category[linkProperty] %}
+            {% if link and link != empty %}
+                <div class="card border-0" style="width: 10rem;">
+                    {% if category.logo and category.logo != empty %}
+                    <a href="{{ site.baseurl }}/{{ link }}" title="{{ logo_alt }}">
+                    <img class="card-img-top w-50 mx-auto" src="{{ site.baseurl }}{{ category.logo }}" alt="{{ category.logo-alt }}">
+                    </a>
+                    {% endif %}
+                    <div class="card-body w-100">
+                    <a href="{{ site.baseurl }}/{{ link }}" title="{{ logo_alt }}">
+                        <h6 class="card-title">{{ category.name_gr }}</h6>
+                    </a>
+                    {% if category.footer_include %}
+                    {% include {{category.footer_include}} %}
+                    {% endif %}
+                    </div>
+                </div>
+            {% endif %}
+            {% endfor %}
+        </div>
+    </div>
 </div>
 
 <hr class="col-lg-12">
 
 <div class="row">
-    <div class="col-12 w-100">
+    <div class="col-12 w-100 my-1">
 		<form class="global-search" role="form" action="/searchissues" method="get">
 			<div class="input-group">
 				<input type="text" class="form-control" id="search-box" name="query" placeholder="Τι ψάχνεις;">
 				<div class="input-group-btn">
-					<button class="btn btn-primary" type="submit"><span><i class="glyphicon glyphicon-search"></i> Αναζήτηση</span></button>
+					<button class="btn btn-primary" type="submit"><span><i class="glyphicon glyphicon-search"></i> Αναζήτηση μεταξύ {{site.data.machgen.issuesjson.size}} αναρτήσεις</span></button>
 				</div>
 			</div>
 		</form>
     </div>
 </div>
+
+<div class="row">
+    <div class="col-12 my-auto">
+        <div id="map" class="w-100 my-auto" style="height: 500px;"></div> 
+    </div>
+</div>
+
+<hr class="col-lg-12">
+
 
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="//code.jquery.com/jquery-1.12.4.min.js"></script>
@@ -131,3 +169,9 @@ subtitle: Μοιραζόμαστε πληροφορίες για να μπορέ
   var searchTemplate="<div class='form-group'><div class='input-group'><div class='input-group-addon'>Cerca:</div><input type='text' class='form-control' placeholder='(cerca qui...)'></div></div>"
   $("div.sieve").sieve({ itemSelector: ".panel-info" });
 </script>
+
+
+{%- assign issuecategories = site.data.cfg.issuecategories -%}
+{%- assign filteredissues = site.data.machgen.issuesjson | where: "state","open" -%}
+
+{%- include issuemap.html -%}
