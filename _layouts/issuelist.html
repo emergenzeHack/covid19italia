@@ -22,16 +22,6 @@ layout: base
     {%- assign tmpcategory = tmpcategory | push: site.data.cfg.issuecategories[page.issuecategory] -%}
     {%- assign issuecategories = issuecategories |  push: tmpcategory -%}
 
-{%- elsif page.issuecategories != blank -%}
-
-    {% assign issuecategories = "" | split: "," %}
-    {% for category in page.issuecategories %}
-    {% assign tmpcategory = "" | split: "," %}
-    {%- assign tmpcategory = tmpcategory | push: category -%}
-    {%- assign tmpcategory = tmpcategory | push: site.data.cfg.issuecategories[category] -%}
-    {%- assign issuecategories = issuecategories |  push: tmpcategory -%}
-    {% endfor %}
-
 {%- elsif page.displayname != blank and page.markericon != blank -%}
 
     {% assign issuecategories = "" | split: "," %}
@@ -104,12 +94,8 @@ layout: base
     {%- assign allcatfilteredissues = allcatfilteredissues | concat: filteredissues | uniq -%}
     <div class="row">
         <div class="col-12 col-lg-12 col-md-12">
-            <h2 id="{{category['permalink']}}">{{category["displayname"]}} <span class="badge badge-pill badge-primary">{{filteredissues.size}}</span></h2>
+            <h2 id="{{category['displayname']|slugify}}">{{category["displayname"]}} <span class="badge badge-pill badge-primary">{{filteredissues.size}}</span></h2>
             <div class="row">
-{% if category["includeheader"] != blank %}
-{% assign includeheader = category["includeheader"] %}
-{% include {{includeheader}} %}
-{% endif %}
             {%- if page.justLatestIssues -%}
             {%- assign filteredissues = filteredissues | sort: 'number' | reverse | slice: 0,5 -%}
             {%- endif -%}
@@ -173,7 +159,8 @@ layout: base
   </div>
 </div>
 
-{%- include issuemap.html -%}
+<script>
+var markerList=[];
 
 {%- for member in filteredissues -%} 
     {%- if member.issue.lat != blank and member.issue.lon != blank -%} 
