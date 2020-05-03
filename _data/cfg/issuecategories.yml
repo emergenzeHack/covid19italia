@@ -12,7 +12,7 @@ e-learning:
     - e-learning
   permalink: /e-learning/
   markericon: chalkboard-teacher
-  markercolor: white
+  markercolor: black
 deliveries and services:
   displayname: Παραδόσεις κατ' οίκον
   labelnames: 
@@ -25,22 +25,22 @@ games and activities for children:
   labelnames: 
     - games and activities for children
   permalink: /games-and-activities-for-children/
-  markericon: handshake-o
-  markercolor: blue
+  markericon: puzzle-piece
+  markercolor: darkslateblue
 psychological support:
   displayname: Ψυχολογική υποστήριξη
   labelnames: 
     - psychological support
   permalink: /psychological-support/
-  markericon: hands-helping
+  markericon: people-arrows
   markercolor: green
 Entertainment:
   displayname: Ψυχαγωγία
   labelnames: 
     - cultural activities and leisure
   permalink: /entertainment/
-  markericon: industry
-  markercolor: grey
+  markericon: icons
+  markercolor: saddlebrown
 fundraising:
   displayname: Συγκέντρωση ειδών/πόρων
   labelnames: 
@@ -53,19 +53,19 @@ Public services and announcements:
   labelnames: 
     - institutional sources
   permalink: /public-services/
-  markericon: newspaper
+  markericon: scroll
   markercolor: red
 Bulletin - other activities:
   displayname: Άλλες Υπηρεσίες
   labelnames: 
     - bulletin
   permalink: /bulletin-other-activities/
-  markericon: icons
+  markericon: pencil-alt
   markercolor: cyan
 goods news and services offering:
   displayname: Καλές ειδήσεις
   labelnames: 
     - useful news
   permalink: /good-news/
-  markericon: donate
+  markericon: newspaper
   markercolor: yellow
