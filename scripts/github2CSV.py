@@ -55,8 +55,6 @@ TMPGEOJSONFILE = '../_data/issues_temp.geojson'
 # Default values for repository name and Github organization
 # They are used if an error occurred while reading values
 # from configuration file
-REPO_NAME = 'covid19italia_segnalazioni'
-ORG = 'emergenzeHack'
 
 def get_github_client():
     try:
@@ -72,6 +70,8 @@ def get_github_client():
         TOKEN = os.environ.get('GITHUB_TOKEN')
         PASS = os.environ.get('GITHUB_PASSWORD')
         USER = os.environ.get('GITHUB_USERNAME')
+        REPO_NAME = 'covid19italia_segnalazioni'
+        ORG = 'emergenzeHack'
 
     if not TOKEN:
         if not PASS:
