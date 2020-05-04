@@ -95,14 +95,16 @@ def get_github_client():
 
 
 def get_latest_timestamp(csvfile):
-    df = pd.read_csv(csvfile, index_col='id', names=CSV_COLUMN_NAMES, header=None, sep=',')
-    # sort rows by updated_at timestamp and parse it, in order to return a datetime instance
-    data = df.sort_values(by='updated_at', ascending=False)
+    try:
+        df = pd.read_csv(csvfile, index_col='id', names=CSV_COLUMN_NAMES, header=None, sep=',')
+        # sort rows by updated_at timestamp and parse it, in order to return a datetime instance
+        data = df.sort_values(by='updated_at', ascending=False)
 
-    if not data['updated_at'][1:-1].empty:
-        max_updated_at = max(data['updated_at'][1:-1]) + "+00:00"
-        return datetime.datetime.strptime(max_updated_at, '%Y-%m-%d %H:%M:%S%z')
-    return datetime.datetime(2000, 1, 1)
+        if not data['updated_at'][1:-1].empty:
+            max_updated_at = max(data['updated_at'][1:-1]) + "+00:00"
+            return datetime.datetime.strptime(max_updated_at, '%Y-%m-%d %H:%M:%S%z')
+    except:
+        return datetime.datetime(2000, 1, 1)
 
 def write_output_files(issues):
     write_csv_file(issues)
