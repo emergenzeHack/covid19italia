@@ -42,7 +42,7 @@ lang: it
     <div class="card w-100 my-1">
         <div class="card-body">
             <div class="row">
-{% if member.issue.labels contains "Validato INP" %}
+{% if issue.labels contains "Validato INP" %}
                 <div class="col-10">
 {% else %}
                 <div class="col-12">
@@ -54,7 +54,7 @@ lang: it
                 <h2 class="card-title">{{issue.title}}</h2>
                 {%- if page.state == "closed" -%}</strike>{%- endif -%}
                 </div>
-{% if member.issue.labels contains "Validato INP" %}
+{% if issue.labels contains "Validato INP" %}
                 <div class="col-2"><img width="128" src="/images/validato_inp_logo.png" class="img-fluid" alt="logo Validato da Italia No Profit" /></div>
 {% endif %}
             </div>
