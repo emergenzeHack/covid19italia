@@ -1,5 +1,7 @@
 ---
 layout: base
+common-js:
+  - /js/shuffleissues.js
 ---
 
 {%- assign openissues = site.data.machgen.issuesjson | where: "state","open" -%}
@@ -101,66 +103,66 @@ layout: base
 {%- if filteredissues.size > 0 -%}
 <div class="row">
     <div class="col-12 col-lg-12 col-md-12">
-    {%- assign allcatfilteredissues = allcatfilteredissues | concat: filteredissues | uniq -%}
-    <div class="row">
-        <div class="col-12 col-lg-12 col-md-12">
-            <h2 id="{{category['permalink']}}">{{category["displayname"]}} <span class="badge badge-pill badge-primary">{{filteredissues.size}}</span></h2>
-            <div class="row">
-{% if category["includeheader"] != blank %}
-{% assign includeheader = category["includeheader"] %}
-{% include {{includeheader}} %}
-{% endif %}
-            {%- if page.justLatestIssues -%}
-            {%- assign filteredissues = filteredissues | sort: 'number' | reverse | slice: 0,5 -%}
-            {%- endif -%}
-            {%- for member in filteredissues -%}
-            <div class="col-md-12 col-sm-12 col-12 mb-15">
-                <div class="card" id="issue{{member.number}}">
-                    <div class="card-body issuepanel">
-                        <a href="/issues/{{member.number}}">{% if member.issue.labels contains "Validato INP" %}
-                            <div class="row">
-                                <div class="col-10"><h4 class="card-title">{{member.title}}</h4></div>
-                                <div class="col-2"><img width="128" src="/images/validato_inp_logo.png" class="img-fluid" alt="logo Validato da Italia No Profit" /></div>
+        {%- assign allcatfilteredissues = allcatfilteredissues | concat: filteredissues | uniq -%}
+        <div class="row">
+            <div class="col-12 col-lg-12 col-md-12">
+                <h2 id="{{category['permalink']}}">{{category["displayname"]}} <span class="badge badge-pill badge-primary">{{filteredissues.size}}</span></h2>
+                <div class="row d-flex shuffleissues">
+                    {% if category["includeheader"] != blank %}
+                    {% assign includeheader = category["includeheader"] %}
+                    {% include {{includeheader}} %}
+                    {% endif %}
+                    {%- if page.justLatestIssues -%}
+                    {%- assign filteredissues = filteredissues | sort: 'number' | reverse | slice: 0,5 -%}
+                    {%- endif -%}
+                    {% assign counter = filteredissues.size %}
+                    {%- for member in filteredissues -%}
+                    <div  class="col-md-12 col-sm-12 col-12 mb-15">
+                        {% assign counter = counter | plus:-1 %}
+                        <div class="card" id="issue{{member.number}}">
+                            <div class="card-body issuepanel">
+                                <a href="/issues/{{member.number}}">{% if member.issue.labels contains "Validato INP" %}
+                                    <div class="row">
+                                        <div class="col-10"><h4 class="card-title">{{member.title}}</h4></div>
+                                        <div class="col-2"><img width="128" src="/images/validato_inp_logo.png" class="img-fluid" alt="logo Validato da Italia No Profit" /></div>
+                                    </div>
+                                    {% else %}<h4 class="card-title">{{member.title}}</h4>
+                                    {% endif %}</a>
+                                <dl class="row">
+                                    {%- for item in member.issue.data -%}
+                                    {%- if item[1] != blank -%}
+                                    <dt class="col-sm-3">{{item[0] | replace: "_", " " | capitalize_all}}</dt>
+                                    {%- if item[0] == "Descrizione" -%}
+                                    {%- assign itemrepr = item[1] | newline_to_br | auto_link -%}
+                                    <dd class="col-sm-9">
+                                    {{itemrepr}}
+                                    </dd>
+                                    {%- else -%}
+                                    <dd class="col-sm-9">{{item[1] | newline_to_br | auto_link | truncatewords: 100}}</dd>
+                                    {%- endif -%}
+                                    {%- endif -%}
+                                    {%- endfor -%}
+                                </dl>
+                                {%- include social-share-issue.html -%}
                             </div>
-                            {% else %}<h4 class="card-title">{{member.title}}</h4>
-                            {% endif %}</a>
-                        <dl class="row">
-                            {%- for item in member.issue.data -%}
-                            {%- if item[1] != blank -%}
-                            <dt class="col-sm-3">{{item[0] | replace: "_", " " | capitalize_all}}</dt>
-                            {%- if item[0] == "Descrizione" -%}
-                            {%- assign itemrepr = item[1] | newline_to_br | auto_link -%}
-                            <dd class="col-sm-9">
-                            {{itemrepr}}
-                            </dd>
-                            {%- else -%}
-                            <dd class="col-sm-9">{{item[1] | newline_to_br | auto_link | truncatewords: 100}}</dd>
-                            {%- endif -%}
-                            {%- endif -%}
-                            {%- endfor -%}
-                        </dl>
-                        {%- include social-share-issue.html -%}
+                        </div>
                     </div>
+                    {%- endfor -%}
                 </div>
             </div>
-            {%- endfor -%}
-            </div>
         </div>
-    </div>
-{% if category["includefooter"] != blank %}
-{% assign includefooter = category["includefooter"] %}
-{% include {{includefooter}} %}
-{% endif %}
-    {%- if page.justLatestIssues -%}
-    <div class="row">
-        <div class="col-12 col-lg-12 col-md-12"><a href="{{category['permalink']}}" title="Vedi tutte le segnalazioni della categoria {{category['displayname']}}" class="btn btn-primary btn-lg">{{site.data.i18n.translations["see_all"]}} {{category["displayname"]}}</a></div>
-        <hr class="col-12 col-lg-12 col-md-12">
+        {% if category["includefooter"] != blank %}
+        {% assign includefooter = category["includefooter"] %}
+        {% include {{includefooter}} %}
+        {% endif %}
+        {%- if page.justLatestIssues -%}
+        <div class="row">
+            <div class="col-12 col-lg-12 col-md-12"><a href="{{category['permalink']}}" title="Vedi tutte le segnalazioni della categoria {{category['displayname']}}" class="btn btn-primary btn-lg">{{site.data.i18n.translations["see_all"]}} {{category["displayname"]}}</a></div>
+            <hr class="col-12 col-lg-12 col-md-12">
+        </div>
+        {%- endif -%}
     </div>
 </div>
-</div>
-
-
-{%- endif -%}
 {%- endif -%}
 {%- endfor -%}
 
@@ -181,4 +183,5 @@ layout: base
 </div>
 
 {%- include issuemap.html -%}
+
 
