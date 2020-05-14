@@ -1,3 +1,15 @@
 ---
 layout: issuelist
 ---
+
+{% if page.subcategories %}
+<div class="row mx-auto">
+{% for subcategorytuple in page.subcategories %}
+{% assign subcategory = subcategorytuple[0] %}
+{% assign subcategoryname = subcategorytuple[1]["displayname"] %}
+  <div class="col-12 col-sm-6 mb-15">
+	  <a href="#{{subcategory | slugify}}" class="btn btn-primary btn-block text-left h-100" title="Vedi tutte le segnalazioni della categoria {{subcategoryname}}">{{subcategoryname}}</a>
+	</div>
+{% endfor %}
+</div>
+{% endif %}

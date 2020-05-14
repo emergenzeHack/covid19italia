@@ -2,6 +2,15 @@ fundraising:
   displayname: Raccolte fondi
   labelnames: 
     - Raccolte fondi
+  subcategories:
+    RF Università e scuole:
+      displayname: Università e scuole
+    RF Ospedali e aziende sanitarie:
+      displayname: Ospedali e aziende sanitarie
+    RF Comuni Regioni enti pubblici:
+      displayname: Comuni, Regioni, enti pubblici
+    RF Associazioni ed enti non profit:
+      displayname: Associazioni ed enti non-profit
   permalink: /raccolte-fondi/
   markericon: eur
   markercolor: purple
