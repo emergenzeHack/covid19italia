@@ -113,10 +113,6 @@ layout: base
                 </h2>
                 <div class="row d-flex shuffleissues">
                     <div class="col-12">
-                        {% if category["includeheader"] != blank %}
-                        {% assign includeheader = category["includeheader"] %}
-                        {% include {{includeheader}} %}
-                        {% endif %}
 
                         {%- if page.justLatestIssues -%}
                         {%- assign filteredissues = filteredissues | sort: 'number' | reverse | slice: 0,5 -%}

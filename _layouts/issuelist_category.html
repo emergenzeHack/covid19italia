@@ -2,6 +2,12 @@
 layout: issuelist
 ---
 
+{% if page.displayname and page.markericon %}
+{% if page.includeheader != blank %}
+{% include {{page.includeheader}} %}
+{% endif %}
+{% endif %}
+
 {% if page.subcategories %}
 <div class="row mx-auto">
 {% for subcategorytuple in page.subcategories %}
