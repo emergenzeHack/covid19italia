@@ -62,7 +62,7 @@ lang: it
             <dl class="row card-text">
                 {%- for item in issue.data -%}
                 {%- if item[1] != blank  -%}
-                {% if site.data.issueFieldsBlacklist contains item[0] %}
+                {% if site.data.cfg.issueFieldsBlacklist contains item[0] %}
                 {% else %}
                 <dt class="col-sm-3">{{item[0] | replace: "_", " " | capitalize_all}}</dt>
                 <dd class="col-sm-9">
