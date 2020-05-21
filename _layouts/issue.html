@@ -61,7 +61,9 @@ lang: it
 
             <dl class="row card-text">
                 {%- for item in issue.data -%}
-                {%- if item[1] != blank -%}
+                {%- if item[1] != blank  -%}
+                {% if site.data.issueFieldsBlacklist contains item[0] %}
+                {% else %}
                 <dt class="col-sm-3">{{item[0] | replace: "_", " " | capitalize_all}}</dt>
                 <dd class="col-sm-9">
                 {%- if item[0] == "Telefono" -%}
@@ -70,6 +72,7 @@ lang: it
                 {{item[1] | strip | auto_link | markdownify | newline_to_br | remove: '<p>' | remove: '</p>' }}
                 {%- endif -%}
                 </dd>
+                {%- endif -%}
                 {%- endif -%}
                 {%- endfor -%}
             {%- if issue.lat != blank and issue.lon != blank -%}
@@ -90,7 +93,7 @@ lang: it
                 <dt class="col-sm-3">{{site.data.i18n.translations["region"]}}:</dt>
                 <dd class="col-sm-9"> {{issue.regione}} </dd>
             {%- endif -%}
-                <dt class="col-sm-3">Link:</dt>
+                <dt class="col-sm-3">Link GitHub:</dt>
                 <dd class="col-sm-9"> <a href="{{issue.url}}">{{issue.url}}</a></dd>
                 <dt class="col-sm-3">{{site.data.i18n.translations["created_at"]}}:</dt>
                 <dd class="col-sm-9"> {{issue.created_at | italianDate}} </dd>
