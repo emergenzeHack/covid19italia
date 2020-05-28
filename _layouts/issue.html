@@ -62,11 +62,12 @@ lang: it
             <dl class="row card-text">
                 {%- for item in issue.data -%}
                 {%- if item[1] != blank  -%}
-                {% if site.data.cfg.issueFieldsBlacklist contains item[0] %}
+                {% assign itemDescription = item[0] | replace: "_", " " | capitalize_all %}
+                {% if site.data.cfg.issueFieldsBlacklist contains itemDescription %}
                 {% else %}
-                <dt class="col-sm-3">{{item[0] | replace: "_", " " | capitalize_all}}</dt>
+                <dt class="col-sm-3">{{itemDescription}}</dt>
                 <dd class="col-sm-9">
-                {%- if item[0] == "Telefono" -%}
+                {%- if itemDescription == "Telefono" -%}
                 <a href="tel:{{item[1] | remove: " "}}" target="_blank">{{item[1]}}</a>
                 {%- else -%}
                 {{item[1] | strip | auto_link | markdownify | newline_to_br | remove: '<p>' | remove: '</p>' }}

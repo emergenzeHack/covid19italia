@@ -11,17 +11,21 @@
                                         {% endif %}</a>
                                     <dl class="row">
                                         {%- for item in member.issue.data -%}
-                                        {%- if item[1] != blank -%}
-                                        <dt class="col-sm-3">{{item[0] | replace: "_", " " | capitalize_all}}</dt>
-                                        {%- if item[0] == "Descrizione" -%}
-                                        {%- assign itemrepr = item[1] | newline_to_br | auto_link -%}
-                                        <dd class="col-sm-9">
-                                        {{itemrepr}}
-                                        </dd>
-                                        {%- else -%}
-                                        <dd class="col-sm-9">{{item[1] | newline_to_br | auto_link | truncatewords: 100}}</dd>
-                                        {%- endif -%}
-                                        {%- endif -%}
+                                            {%- if item[1] != blank -%}
+                                            {% assign itemDescription = item[0] | replace: "_", " " | capitalize_all %}
+                                                {% if site.data.cfg.issueFieldsBlacklist contains itemDescription %}
+                                                {% else %}
+                                                <dt class="col-sm-3">{{itemDescription}}</dt>
+                                                    {%- if itemDescription == "Descrizione" -%}
+                                                        {%- assign itemrepr = item[1] | newline_to_br | auto_link -%}
+                                                        <dd class="col-sm-9">
+                                                        {{itemrepr}}
+                                                        </dd>
+                                                    {%- else -%}
+                                                        <dd class="col-sm-9">{{item[1] | newline_to_br | auto_link | truncatewords: 100}}</dd>
+                                                    {%- endif -%}
+                                                {%- endif -%}
+                                            {%- endif -%}
                                         {%- endfor -%}
                                     </dl>
                                     {%- include social-share-issue.html -%}
