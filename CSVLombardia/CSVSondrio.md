@@ -4,6 +4,10 @@ layout: issuelist_embed
 title: Emergenza coronavirus - CSV Sondrio
 nome_regione: Lombardia
 nome_provincia: Sondrio
+mapcenter:
+    - 46.32424
+    - 9.93987
+mapzoom: 9
 issuecategories: 
     - games and activities for children
     - cultural activities and leisure
@@ -51,7 +55,7 @@ issuecategories:
 {% for categorytuple in issuecategories %}
 {% assign category = categorytuple[1] %}
   <div class="col-12 col-sm-6 mb-15">
-	  <a href="{{category["permalink"]}}" class="btn btn-primary btn-block text-left h-100" title="Vedi tutte le segnalazioni della categoria {{category['displayname']}}">
+	  <a href="#{{category["permalink"]}}" class="btn btn-primary btn-block text-left h-100" title="Vedi tutte le segnalazioni della categoria {{category['displayname']}}">
               <span class="fa-stack text-left" aria-label="logo del marker della segnalazione" role="img">
                 <i class="fa fa-circle fa-stack-2x" aria-hidden="true" style="color:{{category['markercolor']}};"></i>
                 <i class="fa fa-{{category['markericon']}} fa-stack-1x fa-inverse" aria-hidden="true"></i>
