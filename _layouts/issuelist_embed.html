@@ -95,7 +95,6 @@ layout: bare
 
 <div class="col-md-12 col-sm-12 col-12"> <div id="map" class="w-100" style="height: 600px;"></div> </div>
 
-<div class="col-12">
 
 {%- assign allcatfilteredissues = '' | split: '' -%}
 {%- for categorytuple in issuecategories -%}
@@ -110,50 +109,60 @@ layout: bare
 
 {%- if filteredissues.size > 0 -%}
 <div class="row">
-    {%- assign allcatfilteredissues = allcatfilteredissues | concat: filteredissues | uniq -%}
-    <div class="row">
-        <div class="col-12">
-            <h2 id="{{category['permalink']}}">{{category["displayname"]}} <span class="badge badge-pill badge-primary">{{filteredissues.size}}</span></h2>
-            {%- if page.justLatestIssues -%}
-            {%- assign filteredissues = filteredissues | sort: 'number' | reverse | slice: 0,5 -%}
-            {%- endif -%}
-            {%- for member in filteredissues -%}
-            <div class="col-md-12 col-sm-12 col-12 mb-15">
-                <div class="card" id="issue{{member.number}}">
-                    <div class="card-body issuepanel">
-                        <a href="{{site.url}}/issues/{{member.number}}"><h4 class="card-title">{{member.title}}</h4></a>
-                        <dl class="row">
-                            {%- for item in member.issue.data -%}
-                            {%- if item[1] != blank -%}
-                            <dt class="col-sm-3">{{item[0] | replace: "_", " " | capitalize_all}}</dt>
-                            {%- if item[0] == "Descrizione" -%}
-                            {%- assign itemrepr = item[1] | newline_to_br | auto_link -%}
-                            <dd class="col-sm-9">
-                            {{itemrepr}}
-                            </dd>
-                            {%- else -%}
-                            <dd class="col-sm-9">{{item[1] | newline_to_br | auto_link | truncatewords: 100}}</dd>
-                            {%- endif -%}
-                            {%- endif -%}
-                            {%- endfor -%}
-                        </dl>
-                        {%- include social-share-issue.html -%}
+    <div class="col-12 col-lg-12 col-md-12">
+        {%- assign allcatfilteredissues = allcatfilteredissues | concat: filteredissues | uniq -%}
+        <div class="row">
+            <div class="col-12 col-lg-12 col-md-12">
+                <h2 id="{{category['permalink']}}">{{category["displayname"]}}
+                    {% if page.justLatestIssues %}<a href="{{category['permalink']}}" title="Vedi tutte le segnalazioni della categoria {{category['displayname']}}">{% endif %}
+                        <span class="badge badge-pill badge-primary">
+                            {{filteredissues.size}}
+                        </span>
+                        {% if page.justLatestIssues %}</a>{% endif %}
+                </h2>
+                <div class="row d-flex shuffleissues">
+                    <div class="col-12">
+
+                        {%- if page.justLatestIssues -%}
+                        {%- assign filteredissues = filteredissues | sort: 'number' | reverse | slice: 0,5 -%}
+                        {%- endif -%}
+
+                        {% if page.justLatestIssues != true and category["subcategories"] %}
+                        {% assign filteredissues_category = filteredissues %}
+                        {% for subcategorytuple in category["subcategories"] %}
+                        {% assign subcategory = subcategorytuple[0] %}
+                        {% assign subcategoryname = subcategorytuple[1]["displayname"] %}
+                        {%- assign filteredissues = filteredissues_category | where_exp: "member","member.issue.labels contains subcategory" -%}
+                        {% if filteredissues.size > 0 %}
+                        <h3 id="{{subcategory | slugify}}">{{subcategoryname}} <span class="badge badge-pill badge-primary">{{filteredissues.size}}</span></h3>
+
+                        {% include issuelist_cards.html %}
+
+                        {%- endif -%}
+                        {%- endfor -%}
+                        {% else %}
+                        {% include issuelist_cards.html %}
+                        {%- endif -%}
+
                     </div>
                 </div>
             </div>
-            {%- endfor -%}
         </div>
+        {% if category["includefooter"] != blank %}
+        {% assign includefooter = category["includefooter"] %}
+        {% include {{includefooter}} %}
+        {% endif %}
+        {%- if page.justLatestIssues -%}
+        <div class="row">
+            <div class="col-12 col-lg-12 col-md-12"><a href="{{category['permalink']}}" title="Vedi tutte le segnalazioni della categoria {{category['displayname']}}" class="btn btn-primary btn-lg">{{site.data.i18n.translations["see_all"]}} {{category["displayname"]}}</a></div>
+            <hr class="col-12 col-lg-12 col-md-12">
+        </div>
+        {%- endif -%}
     </div>
-    {%- if page.justLatestIssues -%}
-    <div class="row">
-        <div class="col"><a href="{{category['permalink']}}" class="btn btn-primary btn-lg">Vedi tutte {{category["displayname"]}}</a></div>
-        <hr class="col-12">
-    </div>
-{%- endif -%}
 </div>
-
 {%- endif -%}
 {%- endfor -%}
+
 
 {%- if page.categorieMapAll -%}
 {%- assign filteredissues = geofilteredissues -%}
@@ -167,7 +176,7 @@ layout: bare
         </div>
 	    {% endif %}
     </div>
-</div>
+  </div>
 </div>
 
 {%- include issuemap.html -%}
