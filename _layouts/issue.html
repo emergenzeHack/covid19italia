@@ -42,22 +42,26 @@ lang: it
     <div class="card w-100 my-1">
         <div class="card-body">
             <div class="row">
-{% if issue.labels contains "Validato INP" %}
-                <div class="col-10">
-{% else %}
-                <div class="col-12">
-{% endif %}
                 {%- if page.state == "closed" -%}
                 {%- if issue.labels contains "Risolta" -%}<h2 style="color:red;" class="display-2">RISOLTA!</h2>{%- endif -%}
-                <strike>
                 {%- endif -%}
-                <h2 class="card-title">{{issue.title}}</h2>
-                {%- if page.state == "closed" -%}</strike>{%- endif -%}
+                {% if issue.labels contains "Validato INP" %}
+                <div class="row">
+                    <div class="col-10"><h4 class="card-title">{{page.title}}</h4></div>
+                    <div class="col-2"><img width="128" src="/images/validato_inp_logo.png" class="img-fluid" alt="logo Validato da Italia No Profit" /></div>
                 </div>
-{% if issue.labels contains "Validato INP" %}
-                <div class="col-2"><img width="128" src="/images/validato_inp_logo.png" class="img-fluid" alt="logo Validato da Italia No Profit" /></div>
-{% endif %}
-            </div>
+                {% elsif  issue.labels contains "CSV Milano" %}
+                <div class="row">
+                    <div class="col-10"><h4 class="card-title">{{page.title}}</h4></div>
+                    <div class="col-2"><img width="128" src="/images/Logo_CSV_Milano.png" class="img-fluid" alt="logo Validato da CSV Milano" /></div>
+                </div>
+                {% elsif  issue.labels contains "CSV Monza Lecco Sondrio" %}
+                <div class="row">
+                    <div class="col-10"><h4 class="card-title">{{page.title}}</h4></div>
+                    <div class="col-2"><img width="128" src="/images/Logo_CSV_MLS.png" class="img-fluid" alt="logo Validato da CSV Monza Lecco Sondrio" /></div>
+                </div>
+                {% else %}<h4 class="card-title">{{page.title}}</h4>
+                {% endif %}
 
             <dl class="row card-text">
                 {%- for item in issue.data -%}
