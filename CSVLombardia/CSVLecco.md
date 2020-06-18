@@ -71,7 +71,7 @@ issuecategories:
 			<div class="input-group">
 				<input type="text" class="form-control" id="search-box" name="query" placeholder="Cosa cerchi?">
 				<div class="input-group-btn">
-                                    <button class="btn btn-primary" type="submit"><span><i class="glyphicon glyphicon-search"></i> Cerca tra {{site.data.machgen.issuesjson.size}} segnalazioni</span></button>
+                                    <button class="btn btn-primary" type="submit" formtarget="_blank"><span><i class="glyphicon glyphicon-search"></i> Cerca tra {{site.data.machgen.issuesjson.size}} segnalazioni</span></button>
 				</div>
 			</div>
 		</form>
