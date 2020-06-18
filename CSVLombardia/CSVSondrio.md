@@ -64,3 +64,16 @@ issuecategories:
 	</div>
 {% endfor %}
 </div>
+
+<div class="row">
+    <div class="col-12 w-100 mb-15">
+		<form class="global-search" role="form" action="/searchissues" method="get">
+			<div class="input-group">
+				<input type="text" class="form-control" id="search-box" name="query" placeholder="Cosa cerchi?">
+				<div class="input-group-btn">
+                                    <button class="btn btn-primary" type="submit"><span><i class="glyphicon glyphicon-search"></i> Cerca tra {{site.data.machgen.issuesjson.size}} segnalazioni</span></button>
+				</div>
+			</div>
+		</form>
+    </div>
+</div>
