@@ -7,7 +7,7 @@ mapcenter:
     - 9.27571
 mapzoom: 12
 nome_regione: Lombardia
-nome_provincia: Monza
+nome_provincia: Monza e della Brianza
 issuecategories: 
     - games and activities for children
     - cultural activities and leisure
