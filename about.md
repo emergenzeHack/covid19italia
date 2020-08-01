@@ -8,7 +8,7 @@ lang: it
   
 ## Il Progetto
 
-**covid19italia.help** è un progetto no profit, organizzato e diretto interamente da volontarie e volontari. È nato per condividere informazioni utili e verificate sull'evento di Coronavirus diffusosi in Italia nel 2020.
+**covid19italia.help** è un progetto no profit, organizzato e diretto interamente da volontarie e volontari. È nato per condividere informazioni utili e verificate sull'emergenza Coronavirus scoppiata in Italia nel 2020.
 
 Lo scopo è quello di verificare, aggregare ed etichettare segnalazioni di varia natura, al fine di mettere in contatto richieste di aiuto e offerte di beni e servizi.
 
@@ -104,6 +104,7 @@ Ecco la squadra di volontari che lavora a questo progetto:
 - [Instagram](https://www.instagram.com/covid19italia.help/)
 - [Pagina Facebook](https://www.facebook.com/covid19italia.help/)
 - [Gruppo Facebook](https://www.facebook.com/groups/2921275147894653/)
+- [Slack](https://join.slack.com/t/covid19peoplehelp/shared_invite/zt-dbg7ctmp-ta7ZYJN5Lvvse1w0eCymMQ)
 - [Gruppo Telegram ](https://t.me/COVID19I)
 - [Canale Telegram](https://t.me/COVID19I)
 - [Repository Github](https://github.com/emergenzeHack/covid19italia)
