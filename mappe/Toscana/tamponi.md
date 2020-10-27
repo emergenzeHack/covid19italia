@@ -7,7 +7,14 @@ js:
 
 ---
 
-(Fonti: )
+Aggiornamento: 27 Ottobre 2020
+
+Fonti: 
+
+ * [https://www.uslsudest.toscana.it/cosa-fare-per/tampone-covid-a-pagamento](https://www.uslsudest.toscana.it/cosa-fare-per/tampone-covid-a-pagamento)
+ * [https://www.uslnordovest.toscana.it/come-fare-per/5886-effettuare-un-tampone-negli-ambulatori-drive-through](https://www.uslnordovest.toscana.it/come-fare-per/5886-effettuare-un-tampone-negli-ambulatori-drive-through)
+ * [https://www.intoscana.it/it/articolo/tamponi-in-auto/](https://www.intoscana.it/it/articolo/tamponi-in-auto/)
+
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
   integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
