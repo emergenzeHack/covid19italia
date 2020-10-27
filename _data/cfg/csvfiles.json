@@ -1,0 +1,10 @@
+[
+    {
+        "path": "/_data/machgen/mappe/Lombardia/tamponi.csv",
+        "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQB4E466Nw2owSGwvpQcLdZqASGd00JvCdYUIJ6aLp1U-McunExjbBDpHtuQRl45SpMvxEMWwB9h3s0/pub?gid=0&single=true&output=csv"
+    },
+    {
+        "path": "/_data/machgen/mappe/Toscana/tamponi.csv",
+        "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vR3gWjXVP4-p7uDurNmp-Jys5J9OhkKD9jMiTGjDACnAEMdlo-z88MdCU9cJoeVsVKm1KGdfacDcHLI/pub?gid=0&single=true&output=csv"
+    }
+]
