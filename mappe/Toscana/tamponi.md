@@ -1,7 +1,8 @@
 ---
 lang: it
 layout: page
-title: Mappa tamponi Toscana
+title: Mappa punti tampone in Toscana
+subtitle: Postazioni drive-through e ambulatoriali dove si effettuano i tamponi Covid19 in Toscana
 js:
   - "/js/Autolinker.min.js"
 
