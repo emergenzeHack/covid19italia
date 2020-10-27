@@ -2,7 +2,7 @@
 lang: it
 layout: page
 title: Mappe
-permalink: /mappe/
+permalink: /tutte_le_mappe/
 ---
 
 <div class="homepage-categories">
