@@ -78,7 +78,7 @@ for (var i=0; i<markerList.length; i++) {
         var markerLocation = new L.LatLng(lat, lon);
 
         var marker = new L.Marker(markerLocation, { icon: vialMarker} );
-        markerText="<h2>"+decodeURI(popupDOVE)+"</h2>";
+        markerText="<h3>"+decodeURI(popupDOVE)+"</h3>";
         markerText+="<table>";
         if (popupUSL) {
             markerText+="<tr><td>USL</td><td>"+decodeURI(popupUSL)+"</td></tr>";
