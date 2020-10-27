@@ -2,22 +2,53 @@
 lang: it
 layout: page
 title: Mappa tamponi Lombardia
+js:
+  - "/js/Autolinker.min.js"
 
 ---
 
+_Aggiornamento: 27 Ottobre 2020_
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+  integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+  crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+  integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+  crossorigin=""></script>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.min.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css"
+   crossorigin=""/>
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css"
+   crossorigin=""/>
+
+ <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"
+   crossorigin=""></script>
+
+<style>
+#map{ height: 600px }
+</style>
+
 <div id="map"></div>
+
+Fonti: 
+
 
 <script>
 
-var houseMarker = L.AwesomeMarkers.icon({
-icon: 'home',
+window.onload = function() {
+var vialMarker = L.AwesomeMarkers.icon({
+icon: 'vial',
 prefix: 'fa',
-markerColor: 'green'
+markerColor: 'red'
 });
+
 var markerList=[];
 {% for member in site.data.machgen.mappe.Lombardia.tamponi %}
-{% if member.LAT != blank and member.LON != blank %}
-markerList.push([{{member.LAT}}, {{member.LON}}, "{{member.title|uri_escape}}", "/issues/{{ member.number }}"]);
+{% if member.LATITUDINE != blank and member.LONGITUDINE != blank %}
+markerList.push([{{member.LATITUDINE}}, {{member.LONGITUDINE}}, "{{member.ATS|uri_escape}}", "{{member.DOVE|uri_escape}}", "{{member.ORARI|uri_escape}}", "{{member['NOTE SUL SERVIZIO']|uri_escape}}"]);
 {% endif %}
 {% endfor %}
 
@@ -34,27 +65,50 @@ var sumLat = 0.;
 var sumLon = 0.;
 var countMarkers=0;
 
+markers = L.markerClusterGroup();
+
 for (var i=0; i<markerList.length; i++) {
+    var lat = markerList[i][0];
+    var lon = markerList[i][1];
+    var popupATS = markerList[i][2];
+    var popupDOVE = markerList[i][3];
+    var popupORARI = markerList[i][4];
+    var popupNOTE = markerList[i][5];
 
-        var lat = markerList[i][0];
-        var lon = markerList[i][1];
-        var popupText = markerList[i][2];
-        var popupURL = markerList[i][3];
+    // Raccolte fondi, Supporto psicologico, Servizi e iniziative solidali pubbliche, Servizi e iniziative solidali private, Richiesta aiuto
 
-        if (!isNaN(lat) && !isNaN(lon)) {
-                var markerLocation = new L.LatLng(lat, lon);
-                var marker = new L.Marker(markerLocation, { icon: houseMarker} );
-                map.addLayer(marker);
+    if (!isNaN(lat) && !isNaN(lon)) {
+        var markerLocation = new L.LatLng(lat, lon);
 
-                marker.bindPopup("<a href=\"" + popupURL + "\">" + decodeURI(popupText) + "</a>");
-
-                sumLat += lat;
-                sumLon += lon;
-                countMarkers++;
+        var marker = new L.Marker(markerLocation, { icon: vialMarker} );
+        markerText="<h3>"+decodeURI(popupDOVE)+"</h3>";
+        markerText+="<table>";
+        if (popupATS) {
+            markerText+="<tr><td>ATS</td><td>"+decodeURI(popupATS)+"</td></tr>";
         }
+        if (popupORARI) {
+            markerText+="<tr><td>ORARI</td><td>"+decodeURI(popupORARI)+"</td></tr>";
+        }
+        if (popupNOTE) {
+            markerText+="<tr><td>NOTE</td><td>"+decodeURI(popupNOTE)+"</td></tr>";
+        }
+        markerText+="</table>";
+
+        marker.bindPopup(Autolinker.link(markerText, newWindow=true));
+
+        markers.addLayer(marker);
+
+        sumLat += lat;
+        sumLon += lon;
+        countMarkers++;
+    }
 }
 
-map.addLayer(osm).setView([sumLat / countMarkers, sumLon / countMarkers], 6);
+
+map.addLayer(markers);
+map.addLayer(osm).setView([sumLat / countMarkers, sumLon / countMarkers], 7);
+map.fitBounds(markers.getBounds().pad(0.1));
+}
 
 </script>
 
