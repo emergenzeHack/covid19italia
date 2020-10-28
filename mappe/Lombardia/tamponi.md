@@ -1,13 +1,24 @@
 ---
 lang: it
 layout: page
-title: Mappa tamponi Lombardia
+title: Mappa punti tampone in Lombardia
+subtitle: Postazioni drive-through e ambulatoriali dove si effettuano i tamponi Covid19 in Lombardia
 js:
   - "/js/Autolinker.min.js"
 
+listaFonti:
+  - http://www.ats-bg.it/upload/asl_bergamo/notizie/prospetto_punti_tampone_studenti_e_personale_scolastico_12763_17907.pdf	
+  - https://www.ats-brescia.it/identificazione-tempestiva-dei-casi-di-covid-19-a-scuola	
+  - https://www.ats-brianza.it/it/azienda/news-online/2267-avvio-attivita-scolastiche-e-servizi-educativi-dell-infanzia-gestione-di-casi-e-focolai-di-covid-19.html	
+  - https://www.ats-milano.it/portale/EMERGENZA-CORONAVIRUS/RIAPERTURA-SCUOLE	
+  - https://www.ats-insubria.it/news/6154-punti-tampone-accessibili-all-utenza-per-attivita-di-testing-in-ambito-scolastico-e-servizi-educativi-dell-infanzia-attivi-presso-le-asst-del-territorio-di-ats-insubria	
+  - https://www.ats-insubria.it/news/6154-punti-tampone-accessibili-all-utenza-per-attivita-di-testing-in-ambito-scolastico-e-servizi-educativi-dell-infanzia-attivi-presso-le-asst-del-territorio-di-ats-insubria	
+  - https://www.ats-montagna.it/covid-a-scuola-in-sicurezza/	
+  - https://www.ats-pavia.it/rientro-a-scuola	
+  - https://www.ats-valpadana.it/scuole	
 ---
 
-_Aggiornamento: 27 Ottobre 2020_
+_Aggiornamento: 28 Ottobre 2020_
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
   integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
@@ -34,6 +45,14 @@ _Aggiornamento: 27 Ottobre 2020_
 <div id="map"></div>
 
 Fonti: 
+
+<ul>
+{% for fonte in page.listaFonti %}
+<li><a href="{{fonte}}">{{fonte}}</a></li>
+{% endfor %}
+</ul>
+
+	
 
 
 <script>
