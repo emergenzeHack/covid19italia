@@ -54,7 +54,7 @@ markerColor: 'red'
 });
 
 var markerList=[];
-{% for member in site.data.machgen.mappe.Toscana.tamponi %}
+{% for member in site.data.machgen.mappe.Lazio.tamponi %}
 {% if member.LATITUDINE != blank and member.LONGITUDINE != blank %}
 markerList.push([{{member.LATITUDINE}}, {{member.LONGITUDINE}}, "{{member.ASL|uri_escape}}", "{{member.DOVE|uri_escape}}", "{{member.ORARI|uri_escape}}", "{{member['NOTE SUL SERVIZIO']|uri_escape}}"]);
 {% endif %}
@@ -91,7 +91,7 @@ for (var i=0; i<markerList.length; i++) {
         var marker = new L.Marker(markerLocation, { icon: vialMarker} );
         markerText="<h3>"+decodeURI(popupDOVE)+"</h3>";
         markerText+="<table>";
-        if (popupUSL) {
+        if (popupASL) {
             markerText+="<tr><td>ASL</td><td>"+decodeURI(popupASL)+"</td></tr>";
         }
         if (popupORARI) {
