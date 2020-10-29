@@ -2,7 +2,7 @@
 lang: it
 layout: page
 title: Mappa punti tampone in Piemonte
-subtitle: Postazioni drive-through e ambulatoriali dove si effettuano i tamponi Covid19 in Piemonte
+subtitle: Ambulatori e laboratori dove si effettuano i tamponi Covid19 in Piemonte
 js:
   - "/js/Autolinker.min.js"
 listaFonti:
