@@ -1,7 +1,7 @@
 ---
 lang: gr
 layout: page
-title: Νέα Γραμμή ιατρικής και ψυχοκοινωνικής Βοήθειας για τον Covid19 
+title: Γραμμές βοήθειας για τον Covid-19 
 #subtitle: Contatta Covid19Italia.help e segui i canali social
 permalink: /helpline/
 ---
