@@ -8,9 +8,8 @@ lang: it
 
 **L&#39;ATTIVISMO DIGITALE A SERVIZIO DELLA COLLETTIVITÀ**
 
-![](RackMultipart20210125-4-f35qui_html_9aa5e137d3431e1.jpg)
+![Immagine originale disponibilie in [https://miro.com/app/board/o9J\_khUIKbo=/](https://miro.com/app/board/o9J_khUIKbo=/)](/images/mm_fdp_2020.png)
 
-Immagine originale disponibilie in [https://miro.com/app/board/o9J\_khUIKbo=/](https://miro.com/app/board/o9J_khUIKbo=/)
 
 **INTRODUZIONE (per web)**
 
