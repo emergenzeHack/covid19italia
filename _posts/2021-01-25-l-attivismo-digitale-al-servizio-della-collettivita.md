@@ -8,7 +8,8 @@ lang: it
 
 **L&#39;ATTIVISMO DIGITALE A SERVIZIO DELLA COLLETTIVITÀ**
 
-![Immagine originale disponibilie in [https://miro.com/app/board/o9J\_khUIKbo=/](https://miro.com/app/board/o9J_khUIKbo=/)](/images/mm_fdp_2020.png)
+![Immagine originale disponibile in [https://miro.com/app/board/o9J\_khUIKbo=/](https://miro.com/app/board/o9J_khUIKbo=/)](/images/mm_fdp_2020.png)
+Immagine originale disponibile in [https://miro.com/app/board/o9J\_khUIKbo=/](https://miro.com/app/board/o9J_khUIKbo=/
 
 
 **INTRODUZIONE (per web)**
@@ -175,4 +176,3 @@ Il rischio dell&#39;attivismo digitale è che generi strumenti che siano vissuti
 - Documentare **l&#39;utilizzo della piattaforma e favorire la diffusione di episodi positivi come strumento di engagement e accreditamento** ;
 
 - Attivare ruolo di stakeholder e comunità di utenti nella gestione delle piattaforme, responsabilizzando in ottica di **gestione condivisa**.
-
