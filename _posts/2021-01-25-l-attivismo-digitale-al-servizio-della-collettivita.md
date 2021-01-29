@@ -12,13 +12,13 @@ lang: it
 Immagine originale disponibile in [https://miro.com/app/board/o9J\_khUIKbo=/](https://miro.com/app/board/o9J_khUIKbo=/
 
 
-**INTRODUZIONE (per web)**
+**INTRODUZIONE**
 
 Gli strumenti digitali permettono di attivarsi velocemente in un&#39;emergenza;l&#39;esperienza della pandemia e di altre crisi precedenti inducono a una profonda riflessione sul ruolo dell&#39;attivismo digitale e le sfide a cui è chiamato a rispondere .
 
 Tali sfide riguardano diversi ambiti: dalle modalità di organizzazione, alle relazioni che si attivano con stakeholder e fruitori, alla creazione e diffusione delle informazioni, alla misurazione dell&#39;impatto dei processi attivati.
 
-Mettendo insieme attiviste e attivisti dall&#39;Italia e da altri paesi, in occasione del Festival della Partecipazione 2020, abbiamo organizzato un workshop di confronto sulle pratiche per elaborare proposte e possibili soluzioni attivabili in risposta ad un&#39;emergenza guidate dai principi di collaborazione, attivismo, trasparenza e responsabilità
+Mettendo insieme attiviste e attivisti dall&#39;Italia e da altri paesi, in occasione del Festival della Partecipazione 2020, abbiamo organizzato un workshop di confronto sulle pratiche per elaborare proposte e possibili soluzioni attivabili guidate dai principi di collaborazione, attivismo, trasparenza e responsabilità
 
 **INTRODUZIONE - NOTA METODOLOGICA**
 
@@ -94,7 +94,7 @@ Proposte:
 
 - **Canali**
 
-L&#39;accesso alle informazioni da parte degli utenti finali avviene tramite canali e linguaggi eterogenei, e che non si escludono. Spesso, l&#39;accesso alle informazioni avviene in maniera rilevante tramite **piattaforme social media che** gestiscono in maniera non trasparente la distribuzione delle informazioni, e l **&#39;** [**accesso a internet**](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2019.pdf)[e&#39; condizionato da fattori sociali, di genere e ambientali.](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2019.pdf)
+L&#39;accesso alle informazioni da parte degli utenti finali avviene tramite canali e linguaggi eterogenei, e che non si escludono. Spesso, l&#39;accesso alle informazioni avviene in maniera rilevante tramite **piattaforme social media che** gestiscono in maniera non trasparente la distribuzione delle informazioni, e l **&#39;** [**accesso a internet**](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2019.pdf) [e&#39; condizionato da fattori sociali, di genere e ambientali.](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2019.pdf)
 
 Per questo l&#39;uso di canali e modalità di distribuzione eterogenei e&#39; imprescindibile, ma va combinato con la comprensione dei bisogni delle comunità nei territori.
 
