@@ -164,7 +164,7 @@ Allo stesso tempo appare evidente quanto siano necessarie competenze eterogenee,
 
 - Analizzare **modelli misti di gestione** tra staff e volontari (esempi di Frena la Curva e Code4ro);
 - Usare un approccio trasparente e una **knowledge base** (come da esempio [Frena la Curva](https://frenalacurva.net/conocenos-frena-la-curva/)) per attrarre volontari;
-- Approfondire approcci di **innovazione aperta e** _ **anfibia** _, valorizzando [knowledge base e scambi](https://medium.com/code-for-all/civic-tech-takes-on-a-pandemic-ad495afe6630).
+- Approfondire approcci di **innovazione aperta e anfibia**, valorizzando [knowledge base e scambi](https://medium.com/code-for-all/civic-tech-takes-on-a-pandemic-ad495afe6630).
 
 - **Impatto**
 
