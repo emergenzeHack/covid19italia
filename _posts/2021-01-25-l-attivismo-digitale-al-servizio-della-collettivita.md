@@ -9,7 +9,7 @@ lang: it
 **L&#39;ATTIVISMO DIGITALE A SERVIZIO DELLA COLLETTIVITÀ**
 
 ![Immagine originale disponibile in [https://miro.com/app/board/o9J\_khUIKbo=/](https://miro.com/app/board/o9J_khUIKbo=/)](/images/mm_fdp_2020.png)
-Immagine originale disponibile in [https://miro.com/app/board/o9J\_khUIKbo=/](https://miro.com/app/board/o9J_khUIKbo=/
+Immagine originale disponibile in [https://miro.com/app/board/o9J\_khUIKbo=/](https://miro.com/app/board/o9J_khUIKbo=/)
 
 
 **INTRODUZIONE**
