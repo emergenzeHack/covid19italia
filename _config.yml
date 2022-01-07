@@ -115,7 +115,7 @@ share-links-active:
 disqus: to do
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: to do
+#google_analytics: to do
 
 jekyll-crosseverything_to_medium:
   enabled: false
