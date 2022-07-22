@@ -20,7 +20,7 @@ group :jekyll_plugins do
   gem 'jekyll-seo-tag'
   gem 'listen'
   gem 'activesupport'
-  gem 'tzinfo', '1.2.3'
+  gem 'tzinfo', '1.2.10'
   gem 'tzinfo-data', '1.2017.2'
   gem 'jekyll-tidy'
 end
